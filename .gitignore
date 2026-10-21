@@ -1,0 +1,4 @@
+.tools/
+storage/*.jsonl
+storage/*.log
+storage/sessions/
