@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Mana'guaha yan na'lå'la' i bisnis-mu",
+    "home_desc": "Todu gi unu na plånta yan solusion siha gi i web yan gi i tilifon para i distribusion, benta, lohistika, fina'tinas, inbentariu yan fina'tinas salåppe'.",
+    "products_title": "Produkto siha | FullVendor",
+    "products_desc": "Fanå'gue put i ecosystem FullVendor: plånta kometsiu, ERP, lohistika, supottadot yan benta, bodega yan fina'tinas salåppe'.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solusion siha | FullVendor",
+    "solutions_desc": "Solusion siha para i manehanten kometsio, i manmabendi, i bodega, i lohistika, i fina'tinas yan i fina'tinas salåppe'.",
+    "industries_title": "Industria siha | FullVendor",
+    "industries_desc": "FullVendor para i distribusion, i benta, i nengkanno', i botika, i kosas siha, i konsumon i taotao siha, i fina'tinas yan i uttimo na miyas.",
+    "pricing_title": "Presion siha | FullVendor",
+    "pricing_desc": "Plånu siha ni' nisisåriu, prufesiunåt yan kompaniha. I prupositu ma na'daña' sigun ginen i modulu siha, i taotao siha yan i kantidå.",
+    "resources_title": "Rekurso siha | FullVendor",
+    "resources_desc": "Dididi' na guiya para un na'daña' i distribusion, bende offline, na'guaha i bodega yan un risibi salåppe' gi tiempo.",
+    "contact_title": "Fanå'gue | FullVendor",
+    "contact_desc": "Tuge' ham para un tungo' put FullVendor pat para un kuentusi i gurupon benta.",
+    "demo_title": "Manmafa'na'an demo | FullVendor",
+    "demo_desc": "Na'i un demo put FullVendor ya un li'e' i plataforma yan un kason parehu yan i operasion-mu.",
+    "privacy_title": "Pribåsi | FullVendor",
+    "terms_title": "Terms | FullVendor",
+    "search_title": "Inaligao | FullVendor",
+    "notfound_title": "Ti ma sodda' i pahina | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Påhina gi i tutuhon",
+    "products": "Produkto siha",
+    "solutions": "Solusion siha",
+    "industries": "Industria siha",
+    "pricing": "Presion siha",
+    "resources": "Guinaha siha",
+    "contact": "A'gang",
+    "open_menu": "Abri i menu",
+    "close": "Huchom"
+  },
+  "cta": {
+    "demo": "Manmafa'na'an Demo",
+    "contact": "Fanå'gue ham",
+    "video": "Atan i Video",
+    "talk": "Kuentusi i manmabendi",
+    "all_products": "Li'e' todu i prudukto siha",
+    "home": "Tåtte gi i tutuhon"
+  },
+  "a11y": {
+    "skip": "Fanhånao para i tinige'",
+    "primary": "I mas takhilo' na nabigasion",
+    "crumbs": "Rutan nabigåsion",
+    "search": "Li'e' para",
+    "language": "Linguahi"
+  },
+  "hero": {
+    "eyebrow": "Todu gi un plånta",
+    "title": "Mana'guaha yan fanlå'la'\ni bisnis-mu yan\n{{brand}}",
+    "subtitle": "Un kumple na plånta yan solusion siha gi i web yan gi i tilifon para i distribusion, benta, lohistika, fina'tinas, inbentariu, fina'tinas salåppe' yan mås.",
+    "pill_ecosystem": "Todu gi un ekosistema",
+    "pill_cloud": "gi i cloud, siguru yan siña ma'adelanta",
+    "pill_size": "Para i kompaniha siha ni' todu i mineggai-ñiha"
+  },
+  "products_block": {
+    "eyebrow": "I prudukto-måmi",
+    "title": "Un [[complete ecosystem]] para kada na lugåt gi i bisnis-mu",
+    "aside": "Solusion siha ni' manma'integra ni' manmachocho'cho' para u na'i hao todu i kontodu, efisiensian operasion yan mas takhilo' na inadelanta.",
+    "groups": {
+      "money": "Inadministrasion yan koleksion",
+      "flow": "I fina'tinas yan i inagang",
+      "field": "Benta yan bodega"
+    }
+  },
+  "products_page": {
+    "title": "Siete na prudukto, [[single operation]]",
+    "text": "Kada na prudukto ha na'suha un lugåt. Manma'ayuda siha gi i kustombre, i stock, i otden yan i salåppe'."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Satgi",
+      "card": "I mas takhilo' na plånta para i manehanten yan distribusion kometsiu.",
+      "features": [
+        "Benta yan fina'tinas",
+        "Inbentariu",
+        "I kliente yan i manma'gås-ñiha",
+        "Ripot siha yan mås"
+      ],
+      "lead": "I sentron i operasion-mu: i otden siha, i price siha, i stock yan i kustombre siha gi un lugat.",
+      "about": "FullVendor ha na'suha i manma'a'ñao na spreadsheet yan sisteman i distribusion. Gi este na lugat, ma na'huyong i otden siha, ma konsulta i inbentariu, ma na'siguru i portfolion i kustomer siha yan ma atan i numeron i diha. I pumalu na påtten i ecosystem makonekta gi este na base.",
+      "benefits": [
+        {
+          "title": "Un singkuenta na ma'estran dañu",
+          "text": "I kustombre, i prudukto yan i price siha manma'a'agang gi i benta, i bodega yan i fina'tinas salåppe'."
+        },
+        {
+          "title": "Klaru na operasion kada diha",
+          "text": "I fina'tinas, i fina'tinas yan i stock manma'pos gi diferentes na file siha."
+        },
+        {
+          "title": "I ripot siha para u disidi",
+          "text": "I benta, i ganansia yan i pendiente ma li'e' sin u ma na'guaha un lamasa gi kannai."
+        },
+        {
+          "title": "Listo para u fanlå'la'",
+          "text": "Lohistika, fuetsan benta pat ERP sumångan yanggen i operasion ha faisen."
+        }
+      ],
+      "audience": "I gurupon kometsio yan distribusion ni' på'go ma'a'atan i bisnis gi entre meggai na sistema siha."
+    },
+    "erp": {
+      "kicker": "Inadministrasion",
+      "card": "Kumple i manehanten administrasion yan fina'tinas salåppe'.",
+      "features": [
+        "Kuentas",
+        "I kuenta siha gi i internet",
+        "Papet Cho'cho'",
+        "Aset siha ni' manma'a'ñao",
+        "Meggai na kompaniha"
+      ],
+      "lead": "I administrasion yan i fina'tinas salåppe', ma'a'atan gi hafa ma bende yan ma entrega.",
+      "about": "FullVendor ERP ha kubre i kuentas, i invoice gi i internet, i suetdu, i aset siha yan i multi-kompania siha. Ha chule' i operasion kometsiu ya ha konverti gi entri siha, resibu siha yan siña ma usa gi i lugåt fina'tinas salåppe'.",
+      "benefits": [
+        {
+          "title": "Konnektao na kuentas",
+          "text": "I masusedi gi i benta yan i fina'tinas i kuentas."
+        },
+        {
+          "title": "Resibu siha gi i internet",
+          "text": "Un na'huyong yan un na'kontrola i kuenta ginen i mismo na ecosystem."
+        },
+        {
+          "title": "diferentes na kompaniha siha",
+          "text": "Multi-company para i gurupu siha ni' manmachocho'cho' gi papa' mas ki un na'an kompaniha."
+        },
+        {
+          "title": "I suetdu yan i aset siha",
+          "text": "I suetdu yan i fihu na aset siha yan i pumalu na manehante siha."
+        }
+      ],
+      "audience": "I lugåt siha ni' manma'a'agang \"administrative\" yan fina'tinas salåppe' ni' malago' ma'a'atan i numeron i magahet na operasion."
+    },
+    "logistics": {
+      "kicker": "Lohistika",
+      "card": "Kontrol yan inatan i operasion-mu gi i lohistika.",
+      "features": [
+        "Ruta yan inagang siha",
+        "Inatan gi i tiempon-måmi",
+        "Inayek para i draiber",
+        "Inadelanta i chalan"
+      ],
+      "lead": "Ginen i otden asta i inagang: i chalan siha, i draiber siha yan i inatan gi i tiempon-ñiha.",
+      "about": "FullVendor Logistics ha na'guaha i distribusion. Un fa'tinas i ruta siha, un na'i i draiber siha ya un li'e' håfa na lugåt para u fanhånao kada na inagang. I gurupon manmachocho'cho' gi i chalan manma'å'ñao put i inagang siha para u ma tungo' kao ma na'hanao i otden.",
+      "benefits": [
+        {
+          "title": "I chalan siha gi i ha'åni",
+          "text": "I inagang siha ma'o'oda gi i lugåt, tiempo yan kapasidåt."
+        },
+        {
+          "title": "Ma'ayek na draiber",
+          "text": "Kada ruta guaha taotao ni' gaige gi i puesto yan klaru na sekuensia."
+        },
+        {
+          "title": "Tatiyi hulo",
+          "text": "Un tungo' hafa ma entrega, gi i chalan pat gi i para."
+        },
+        {
+          "title": "menos na kilumetro",
+          "text": "I inadelanta i chalan ha na'menos i tiempon inagang yan i salåpe'."
+        }
+      ],
+      "audience": "Operasion distribusion yan i propiu na batkon aire pat otro na taotao siha."
+    },
+    "supplier": {
+      "kicker": "Gumåttog",
+      "card": "Portal para i manma'gås-ñiha yan i manehanten i fina'tinas.",
+      "features": [
+        "I fina'tinas i fina'tinas",
+        "Måsangan",
+        "Mana'dokko' i manma'gås-ñiha",
+        "Integrasion yan i inbentariu"
+      ],
+      "lead": "I manma'gås-mu ma'quote, ma'resibe i otden-mu yan ma'apåsi i stock-mu sin i manma'apåsi na email siha.",
+      "about": "Vendor Supplier ha abri un portal para i manmama'titinas yan i manma'gås-ñiha para u ma cho'gue i parehu na otden siha. I kuåtton-ñiha, i otden-ñiha yan i resibu siha manma'a'atan gi i inbentariu gi FullVendor.",
+      "benefits": [
+        {
+          "title": "Manmamanda gi un kanåli",
+          "text": "I supottadot ha li'e' hafa para u na'i, sin i email chain."
+        },
+        {
+          "title": "Siña makompara",
+          "text": "Un faisen i price siha ya un cho'gue i historian-mu."
+        },
+        {
+          "title": "Ma'estron Supottadot",
+          "text": "I kondision siha, i kontak siha yan i manma'a'atan gi un rekot."
+        },
+        {
+          "title": "Na'halom i inbentariu",
+          "text": "I ma fa'tinas ma li'e' gi i stock yanggen ma risibi."
+        }
+      ],
+      "audience": "I gurupon manmama'titinas ni' manma'a'ñao nu i difirentes na supottadot siha ya nisisåriu na u ma'a'atan."
+    },
+    "salesman": {
+      "kicker": "App gi i tilifon",
+      "card": "Aplikasion gi i tilifon para i gurupon manmabendi.",
+      "features": [
+        "Mana'dokko' i kustomer",
+        "Manma'ayek i otden",
+        "Katalogon prudukto",
+        "Cho'cho' gi i internet"
+      ],
+      "lead": "I manmabendi siha ma risibi i otden siha gi i chalan, guaha pat taya' sinyal-ñiha.",
+      "about": "FullVendor Sales Man ha po'lo i portfolio-mu, i katålog-mu yan i inayek-mu gi i tilifon i manmabendi. Yanggen taya' internet, i che'cho' sigi ha' yan ha sinkronisa yanggen måtto i sinyal. I otden måtto listo para u ma pripara yan u ma entrega.",
+      "benefits": [
+        {
+          "title": "Påtten salape' gi i sakkan-ña",
+          "text": "I manmabendi ha li'e' i kliente siha, i kondision siha yan i manma'pos na kosas siha."
+        },
+        {
+          "title": "Na'i i bisita-mu",
+          "text": "Na'i i otden yan i presio yan i stock på'go."
+        },
+        {
+          "title": "I katålog ni' nuebu",
+          "text": "Produktu siha, prisentasion siha yan price siha sin un antigu na PDF."
+        },
+        {
+          "title": "Ti gaige gi i internet",
+          "text": "Cho'gue sin kubre ya un sinkronisa despues."
+        }
+      ],
+      "audience": "I manma'gas yan i manmabendi gi i distribusion yan i konsumon mas."
+    },
+    "warehouse": {
+      "kicker": "App gi i tilifon",
+      "card": "Aplikasion gi i tilifon para i bodega.",
+      "features": [
+        "Risepsion yan dipattamenton",
+        "Manma'ayek yan manma'a'atan",
+        "I inbentariu",
+        "Leksion gi i barcode"
+      ],
+      "lead": "Risepsion, inayek yan inagang gi i tilifon yan i barcode.",
+      "about": "FullVendor Warehouse guiya i bodega gi i rinikohin, inayek, ina'paka' yan inadåpta. I tinige' i kodu siha ha na'menos i isao siha ya ti ma kuenta i inbentariu gi i uttemo ha' na mes.",
+      "benefits": [
+        {
+          "title": "Risepsion kontra i otden",
+          "text": "I humalom makompara yan i fina'tinas."
+        },
+        {
+          "title": "Picking ni' ma'ayek",
+          "text": "I ga'ga' i batko ha cho'gue i otden ya ha konfitma kada na kosas."
+        },
+        {
+          "title": "Barcodes",
+          "text": "menos na erran prudukto, båtde pat kantidå."
+        },
+        {
+          "title": "Fiet na kosas",
+          "text": "Kada na mubimento ha na'fa'nu'i i inbentariun i plånta."
+        }
+      ],
+      "audience": "I manehanten i bodega yan i ga'ga' batko siha ni' på'go ma pripara i otden siha ni' ma imprinta i lista siha."
+    },
+    "finance": {
+      "kicker": "App gi i tilifon",
+      "card": "I fina'tinas salåppe' ginen i tilifon-mu.",
+      "features": [
+        "I kuenta siha ni' para u ma risibi yan u ma na'i",
+        "Estao i kustomer",
+        "I salåppe' yan i inadilånto",
+        "Ripot put salåppe'"
+      ],
+      "lead": "I kuenta siha ni' para un risibi, i salåppe' yan i estao i kustomer, ginen i tilifon-mu.",
+      "about": "FullVendor Finance ha fa'nu'i i koleksion gi i tilifon: hafa i dibi kada kliente, hafa i kompaniha para u na'i yan taimanu i fina'tinas i salåppe'. Ma'usa para u makolekta salåppe' gi i bisita yan para u ma'atan i cash register sin u ma'abri i mesan-ñiha.",
+      "benefits": [
+        {
+          "title": "Koleksion gi i bisita",
+          "text": "I manmabendi ha tungo' kao i kustomer ha tungo' antes di u bende."
+        },
+        {
+          "title": "Siña ma risibi yan ma na'i",
+          "text": "I dos bandan i kahon gi i parehu na app."
+        },
+        {
+          "title": "I salåppe' yan i inadilånto",
+          "text": "Un rehistra i kreditu siha ya un li'e' hafa debi di un kåtga."
+        },
+        {
+          "title": "Guaha ripot siha",
+          "text": "I koleksion yan i cash indicators sin u ma'espipiha i finakpo'."
+        }
+      ],
+      "audience": "Manehanten, kolektora yan manmabendi ni' nisisita i sitbisiun i kliente på'go na tiempo."
+    }
+  },
+  "why": {
+    "eyebrow": "Sa' hafa na FullVendor",
+    "title": "Na'lå'la' i bisnis-mu\nyan i magahet na risulta siha",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Manhongge ham gi i kompaniha siha"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Manå'paka' na taotao"
+      },
+      {
+        "value": "+10",
+        "suffix": "aniu siha",
+        "label": "gi i sigi ha' na evolusion"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "I inañadi gi i cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "taimanu ha cho'cho'gue",
+    "title": "Ginen i benta asta i koleksion, sin u ma na'lå'la' i sistema",
+    "text": "Kada na prudukto ha na'i i kustombre, i stock, i otden yan i salåppe'. I masusedi gi i chalan pat gi i bodega, ma li'e' gi i ofisina ensegidas.",
+    "steps": {
+      "sell": {
+        "title": "Un bende",
+        "text": "I otden ma'entrega gi i website pat gi Sales Man, achokka' taya' sinyal."
+      },
+      "pick": {
+        "title": "Listo",
+        "text": "Warehouse ha risibi, ha na'suha yan ha na'hanao gi i barcode."
+      },
+      "deliver": {
+        "title": "Manmaentrega",
+        "text": "Logistics ha na'i i ruta ya ha tutuhon i inagang."
+      },
+      "collect": {
+        "title": "Kobra siha",
+        "text": "Finance yan ERP ma'apåsi i koleksion, i resibu yan i numero siha."
+      }
+    }
+  },
+  "band": {
+    "title": "Listo para un li'e' gi [[i operasion-mu]]?",
+    "text": "In fanue' hao i ecosystem ni' parehu yan i distribusion-mu."
+  },
+  "footer": {
+    "blurb": "Web yan mobile na plånta para distribusion, benta, lohistika, fina'tinas, inbentariu yan fina'tinas salåppe'.",
+    "products": "Produkto siha",
+    "company": "Kompania",
+    "legal": "Legat",
+    "privacy": "Sinangi",
+    "terms": "Tetminu siha",
+    "rights": "Todu i direchon-måmi ma na'setbe."
+  },
+  "solutions": {
+    "eyebrow": "Solusion siha",
+    "title": "Kada na lugåt, makonekta gi i [[parehu na operasion]]",
+    "intro": "Pulan i prublema ni' malago' hao para un sodda'. Gi i tatte, i prudukto siha ma na'i i parehu na emfotmasion.",
+    "items": {
+      "commercial": {
+        "title": "Mana'dokko' i kometsio",
+        "text": "I otden, i price, i kustombre yan i inbentariu para i distribusion kada diha."
+      },
+      "field": {
+        "title": "fuetsan benta",
+        "text": "Manma'titinas i manmabendi gi i chalan, gi i internet pat gi i ti gi i internet."
+      },
+      "warehouse": {
+        "title": "Tenda",
+        "text": "Risepsion, inayek, inayek yan un stock ni' siña ma konfi'a."
+      },
+      "logistics": {
+        "title": "Lohistika yan inagang",
+        "text": "I chalan siha, i draiber siha yan i estao kada na inagang."
+      },
+      "purchasing": {
+        "title": "Manmama'tinas yan manma'gås-ñiha",
+        "text": "Sita, otden yan un portal para ayu i muna'i hao."
+      },
+      "finance": {
+        "title": "Fina'nå'guen yan kuentas",
+        "text": "Koleksion, salåppe', kuenta yan kuentas gi i internet."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industria siha",
+    "title": "Ma fa'tinas para ayu siha i [[moves product]]",
+    "intro": "FullVendor mafañågu gi i distribusion ya ha akompåpara i kompaniha siha ni' manmama'tinas, manma'gåsi, manmabendi yan manma'entrega.",
+    "items": {
+      "wholesale": {
+        "title": "Distribusion yan i benta gi i mas takhilo'",
+        "text": "Lista siha put i salåpe', i portfolio, i distribusion yan i koleksion gi un circuit ha'."
+      },
+      "retail": {
+        "title": "Kustumbre",
+        "text": "Tienda yan bodega ni' guaha konektao na stock, benta yan rinikohin."
+      },
+      "food": {
+        "title": "Neñkanu' yan bebida",
+        "text": "Frekuente na chalan siha yan un bodega ni' ti siña ma'apasi."
+      },
+      "pharma": {
+        "title": "Botika yan inatan i taotao",
+        "text": "I rinikohin, i inayek yan i inbentariu ni' siña ma'ayek."
+      },
+      "hardware": {
+        "title": "I kosas yan i konstruksion",
+        "text": "Meggai na referensia, supottadot yan manmaentrega para i che'cho' pat i tienda."
+      },
+      "fmcg": {
+        "title": "I konsumon i taotao siha",
+        "text": "I manmabendi gi i chalan yan i manma'gås-ñiha gi i manma'gås-ñiha."
+      },
+      "manufacturing": {
+        "title": "Manmafa'tinas",
+        "text": "I fina'tinas, i bodega yan i inbentariu manma'a'atan gi i administrasion."
+      },
+      "lastmile": {
+        "title": "I inagang yan i uttimo na miyas",
+        "text": "I chalan siha, i draiber siha yan i estao kada na inagang."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Guinaha siha",
+    "title": "Na'klåru i ideha siha para [[ma'ayek i operasion]]",
+    "intro": "Dididi' na guiya para i manehanten distribusion ni' para u disidi hafa na sistema para u ma'usa.",
+    "items": {
+      "unify": {
+        "title": "Taimanu para un na'daña' i distribusion gi un sistema",
+        "summary": "Hafa para un na'daña' fine'nina yanggen i benta, i bodega yan i koleksion siha manggaige gi diferentes na file siha.",
+        "points": [
+          "tutuhon gi i kustombre, i prudukto yan i salåpe': siha i ma'estra ni' ma'usa ni' todu.",
+          "Na'daña' i otden yan i stock antes di un addåpta mas na aplikasion siha.",
+          "Ha midi un sensimple na numero: ma kumple i otden siha sin u ma cho'gue ta'lo i form."
+        ]
+      },
+      "offline": {
+        "title": "I manmabendi manmachocho'cho' gi i internet",
+        "summary": "Hafa para un nisisita ginen i app ni' para un fa'tinas i otden ya ti u para i manmabendi put i sinyal.",
+        "points": [
+          "I katålog yan i båtkon aire debi di u gaige gi i tilifon, ti gi i cloud ha'.",
+          "I otden ma na'setbe gi i dipattamenton-ñiha ya ma na'halom yanggen i rediu ha bira gui' tatte.",
+          "Yanggen ma sinkronisa, i otden esta ha hålom gi i bodega."
+        ]
+      },
+      "warehouse": {
+        "title": "Bodega yan barcode, sin papet",
+        "summary": "taimanu para un hånao ginen i ma'imprenta na lista asta i ma'konfitma na inayek gi i tilifon.",
+        "points": [
+          "Risibi kontra i otden fina'tinas, ti kontra i memoria.",
+          "Konfitma kada na kosas yanggen un dibidi. I gå'ga' ha tåmpe i sagan-ñiha.",
+          "I dispatch ha na'fa'nu'i i stock ni' ha li'e' i manmabendi."
+        ]
+      },
+      "finance": {
+        "title": "I koleksion ha a'atan i benta",
+        "summary": "Sa' hafa na debi di u li'e' i manmabendi i dibi i kustomer antes di u chule' otro na otden.",
+        "points": [
+          "I bisita i mas maolek na tiempo para u makolekta, yanggen ma li'e' i dibi.",
+          "I benta yan i fina'tinas salåppe' debi di u ma'atan i parehu na kustombre.",
+          "I ripot ni' ti ma'apasi kada diha mas maolek ki i ma'pos na inatan."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Presion siha",
+    "title": "Un ecosystem ni' [[manlå'la' yan hagu]]",
+    "intro": "Ti in pupblika un kantidån salåpe': i salåpe' depende gi i modulu siha, i taotao siha yan i kantidå. In fanue' hao i plånta ya in na'guaha un prupositu put i operasion-mu.",
+    "note": "I demo taya' salåpe'-ña ya ti nisisåriu na u guaha kontrata.",
+    "recommended": "Ma rekomenda",
+    "faq_title": "Kuestion siha ni' ma faisen todu i tiempo",
+    "plans": {
+      "essential": {
+        "name": "Esentiat",
+        "desc": "Para u ma'organisa i manehanten kometsio yan i distribusion gi un lugåt ha'.",
+        "features": [
+          "FullVendor i web platform",
+          "Benta, fina'tinas yan inbentariu",
+          "I kliente siha, i manma'gås-ñiha yan i ripot siha",
+          "I manma'usa i kosas ofisina",
+          "Inayuda para i tutuhon"
+        ],
+        "cta": "Manmafa'na'an Demo"
+      },
+      "professional": {
+        "name": "Profesionat",
+        "desc": "Para i gurupu siha ni' manmabendi gi i chalan yan ma pripara i otden siha gi i bodega.",
+        "features": [
+          "Todu i nisisåriu",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Cho'cho' gi i internet yan barcode siha",
+          "Mas meggai na taotao gi i tano' yan i bodega"
+        ],
+        "cta": "Manmafa'na'an Demo"
+      },
+      "corporate": {
+        "name": "Korporat",
+        "desc": "Para i gurupu siha ni' nisisita lohistika, fina'tinas, fina'tinas salåppe' yan diferentes na kompaniha siha.",
+        "features": [
+          "Kompletu na ekosistema",
+          "Logistics, Vendor Supplier yan Finance",
+          "FullVendor ERP yan multi-tenant",
+          "I fina'tinas yan kuenta siha gi i internet",
+          "I akompåñamiento yan i priniponi na inañadi"
+        ],
+        "cta": "Kuentusi i manmabendi"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "debi di bai hu fa'tinas todu i prudukto siha?",
+        "a": "Ti. Siña un tutuhon gi FullVendor ya un addåpta apps pat ERP yanggen nisisåriu i operasion."
+      },
+      "offline": {
+        "q": "Ma cho'gue i aplikasion siha yanggen taya' internet?",
+        "a": "Sales Man yan Warehouse sigi ha' manmachocho'cho' sin sinyal yan manma'sinkronisa yanggen manma'konekta ta'lo."
+      },
+      "multi": {
+        "q": "Ma cho'gue yanggen guaha mas ki un kompaniha-ku?",
+        "a": "Hunggan. ERP ha kontempla i multi-kompania yan i ecosystem siña ha na'fandaña' i ma'estra siha."
+      },
+      "demo": {
+        "q": "Hafa ha na'halom i demo?",
+        "a": "Un biahe gi i plataforma yan un kahon parehu yan i kahon-mu. Taya' gasto yan taya' obligasion."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "In fanue' hao FullVendor yan [[i klasin operasion-mu]]",
+    "text": "Sangåni ham put i kompaniha-mu yan hafa malago'-mu un ågang fine'nina. I demo taya' salåpe'-ña."
+  },
+  "contact": {
+    "eyebrow": "A'gang",
+    "title": "Ta fanguentos put [[i operasion-mu]]",
+    "text": "Yanggen malago' hao un demo, un prupositu pat para un na'tungo' hao put i prudukto siha, na'i hao i infotmasion-mu ya bai in oppe.",
+    "email": "Mail",
+    "phone": "Tilifon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Na'an",
+    "email": "Mail",
+    "phone": "Tilifon",
+    "company": "Kompania",
+    "country": "Bariu",
+    "team": "I mineggai i gurupu",
+    "interest": "Hafa na interes-mu?",
+    "message": "Mensahi",
+    "optional": "Opcional",
+    "choose": "Ayek",
+    "interest_all": "I enteru na ecosystem",
+    "ph_name": "i na'an-mu",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "I kompaniha-mu",
+    "ph_country": "Bariu",
+    "ph_message": "sangåni ham taimanu un cho'cho'gue på'go na ha'åni",
+    "privacy_before": "Hu ayek i uson i dañu-hu siha sigun ginen i",
+    "privacy_after": ".",
+    "submit": "Na'hanao i finaisen-mu",
+    "sent_title": "In risibi i finaisen-mu",
+    "sent_text": "Si Yu'os ma'ase. I gurupon benta siha para u ma tuge' hao para u ma na'daña' i demo pat u ma kuentusi i kuestion-mu.",
+    "error_required": "Na'funhayan este na lugåt.",
+    "error_email": "Na'halom un email ni' bali.",
+    "error_phone": "Chek i tilifon.",
+    "error_privacy": "nisisåriu i konsentimenton-mu para in usa i infotmasion-måmi.",
+    "error_csrf": "Esta måtto i sesion. Na'hålom ta'lo i fotman.",
+    "error_save": "Ti siña in na'setbe i finaisen. Påtte ta'lo.",
+    "error_generic": "Ribisa i mamarkåyi na lugåt siha.",
+    "error_rate": "På'go, hasso un ratu antes di un na'hålom otro na finaisen.",
+    "team_options": {
+      "1-10": "1 asta 10 na taotao",
+      "11-50": "11 asta 50 na taotao",
+      "51-200": "51 asta 200 na taotao",
+      "201-500": "201 asta 500 na taotao",
+      "500+": "Mas ki 500 na taotao"
+    }
+  },
+  "video": {
+    "title": "FullVendor gi un minutos",
+    "prev": "Gi un tiempo",
+    "next": "Tinatitiyi",
+    "slides": [
+      {
+        "title": "Un singkuenta na ekosistema",
+        "text": "I benta, i bodega, i inagang, i fina'tinas yan i fina'tinas salåppe' ma na'i i kustombre, i stock yan i otden siha."
+      },
+      {
+        "title": "Web yan mobile mandaña'",
+        "text": "I ofisina ma cho'cho'gue gi i plataforma. I chalan yan i bodega, gi i apps, achokka' taya' sinyal."
+      },
+      {
+        "title": "Ma fa'tinas para u fanma nå'i",
+        "text": "Ginen i otden asta i salåppe', sin u ma na'hanao i infotmasion ginen un file asta otro."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Fanli'e' i prudukto siha, solusion siha, industria siha...",
+    "lang_filter": "Inaligao i fino'",
+    "intro": "Fanli'e' i prudukto siha, solusion siha, industria siha yan rekurso siha.",
+    "empty": "Ti in sodda' i risulta para “{q}”.",
+    "hint": "Påtte i benta, i bodega, i ruta siha pat i koleksion siha.",
+    "results": "{n} na risulta siha",
+    "button": "Li'e' para",
+    "kind_product": "Produktu",
+    "kind_solution": "Remedio",
+    "kind_industry": "Industria",
+    "kind_resource": "Rekurso"
+  },
+  "notfound": {
+    "title": "Este na pahina ti",
+    "text": "Ti gaige i link pat ha na'lå'la' i lugat-ña."
+  },
+  "common": {
+    "what": "Hafa na solusion",
+    "features": "Hafa gaige gi halom",
+    "benefits": "sa' hafa na impottånte",
+    "for_who": "Para håyi este?",
+    "related": "kontodu gi i ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Benta på'go na ha'åni",
+      "orders": "Manmamanda",
+      "clients": "Kustombre siha",
+      "products": "Produkto siha"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Benta siha",
+      "purchases": "Gumåttog",
+      "inventory": "Inbentariu",
+      "clients": "Kustombre siha",
+      "reports": "Ripot siha"
+    },
+    "chart": "Benta siha",
+    "channel": "Distribusion gi kada kanåli",
+    "channels": [
+      "Tenda",
+      "Nirepatti",
+      "Manmå'gas",
+      "Otro siha"
+    ],
+    "orders": "I mas nuebu na otden siha",
+    "col_order": "Otdin",
+    "col_client": "Kustomer",
+    "col_status": "Estadu",
+    "col_total": "Totat",
+    "status": [
+      "Ha diliba",
+      "Gi i chalan",
+      "Alahas"
+    ],
+    "top": "I mas manmabendi na prudukto siha",
+    "product": "Produktu",
+    "sales_menu": [
+      "Kustombre siha",
+      "Manmamanda",
+      "Produkto siha",
+      "Ruta siha",
+      "Sinkronisa"
+    ],
+    "warehouse_menu": [
+      "Risepsion",
+      "Manma'ayek",
+      "Inbentariu",
+      "Dispacha",
+      "Sinkronisa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Pålitika put Pribåsi",
+    "privacy_intro": "Este na lai ha esplåra hafa in che'gue put i dañuyan na infotmasion ni' un na'i gi i form siha gi este na site.",
+    "privacy": [
+      {
+        "title": "Hafa na datos in na'guaha",
+        "text": "Yanggen un faisen para un demo pat un tuge' para ham, in na'setbe i na'an, i kompaniha, i email, i numeron tilifon yanggen un na'i hao, i nasion, i mineggai i gurupu, i prudukto ni' malago' hao yan i mensåhi. In rikohi lokkue' i fecha, i fino' i pahina yan i IP address, para ta prebeniyi i manma'abusa na tinige'."
+      },
+      {
+        "title": "Para hafa ta usa siha?",
+        "text": "In u'usa este na dañu para in oppe hao, in na'daña' un demo yan in pripara un prupositu kometsiu. Ti in bende siha pat in na'i siha gi un lista ni' otro na taotao siha."
+      },
+      {
+        "title": "Manu nai ma na'setbe yan para håfa na tiempo?",
+        "text": "I finaisen siha ma na'setbe gi i server este na site. In na'setbe este siha para i tiempo ni' nisisåriu para in setbe hao yan i sigiente na kometsio, ya in na'suha siha yanggen un faisen ham pat yanggen ti nisisåriu."
+      },
+      {
+        "title": "I direchon-mu",
+        "text": "Siña un faisen para u ma'ayek, u ma'ayek, pat u ma'ayek i dañu-mu ginen i form, ya un na'i gi i mensåhi. Yanggen i kompaniha ha pupblika un email gi este na website, siña lokkue' un tuge' gi ayu na lugat."
+      }
+    ],
+    "terms_title": "Areklamento siha put uson",
+    "terms_intro": "Este na kondision siha ma'aplika gi i uson este na FullVendor na lugåt sumångan.",
+    "terms": [
+      {
+        "title": "Infotmasion put kometsio",
+        "text": "I tinige', i ehemplon i dashboard yan i deskripsion siha ma na'tungo' i plånta. Siña ma'adelanta yanggen ma'apåsi i prudukto ya ti ma'apåsi i ofresimiento."
+      },
+      {
+        "title": "I demo ti kontrata",
+        "text": "I ma'entrega i fotman ti ha na'fanhuyong obligasion para un fa'tinas pat un na'setbe i salåpe'. Todu i kontrata ma ayek separao, gi tinige', yan i lina'la'-ña yan i kondision-ña."
+      },
+      {
+        "title": "I tinige' gi i site",
+        "text": "I FullVendor na marka, na'an i prudukto yan i tinige' gi este na pahina siha, i ga'ga'-ñiha. Ti siña ma kopia para u ma presenta otro na prudukto."
+      },
+      {
+        "title": "Ma'aksepta na uson-ña",
+        "text": "Cha'-mu usa i fotman-mu para un na'hålom infotmasion ni' ti magahet, spam pat ti legal na tinige'. Siña ta na'suha i finaisen siha ni' ti manma'a'ñao gi i fino' CHamoru."
+      }
+    ]
+  }
+}

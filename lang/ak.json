@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Hwɛ w’adwuma no so na ma ɛnyini",
+    "home_desc": "All-in-one platform a wɛb ne mobile ano aduru a wɔde kyekyɛ, adetɔn, nneɛma a wɔde kɔ, adetɔ, nneɛma a wɔakora so ne sikasɛm.",
+    "products_title": "Nneɛma a wɔyɛ | FullVendor .",
+    "products_desc": "Hu abɔdeɛ a nkwa wom nhyehyɛeɛ FullVendor: aguadiɛ atenaeɛ, ERP, nneɛma a wɔde kɔ, wɔn a wɔde nneɛma ma ne wɔn a wɔtɔn, adekoradan ne sikasɛm apps.",
+    "product_title": "{name} | FullVendor 10. Ɔde ne nsa kyerɛɛ ne so.",
+    "solutions_title": "Ano aduru | FullVendor .",
+    "solutions_desc": "Ano aduru ma aguadi sohwɛ, adetɔn kuw, adekoradan, nneɛma a wɔde kɔ, adetɔ ne sikasɛm.",
+    "industries_title": "Nnwumayɛbea | FullVendor .",
+    "industries_desc": "FullVendor ma nkyekyɛmu, adetɔn, aduane, nnurutɔnbea, hardware, nnipa dodoɔ a wɔde di dwuma, nneɛma a wɔyɛ ne akwansin a ɛtwa toɔ.",
+    "pricing_title": "Nneɛma bo | FullVendor .",
+    "pricing_desc": "Nhyehyɛe a Ɛho Hia, Adwumayɛfo ne Nnwumakuw. Wɔde nsusuwii no abom sɛnea module ahorow, wɔn a wɔde di dwuma ne dodow te.",
+    "resources_title": "Nneɛma a Wɔde Yɛ Adwuma | FullVendor .",
+    "resources_desc": "Akwankyerɛ ntiantiaa a wɔde bɛka nkyekyɛmu abom, atɔn wɔ intanɛt so, ahyehyɛ adekoradan no na woanya akatua wɔ bere ano.",
+    "contact_title": "Nkitahodi | FullVendor .",
+    "contact_desc": "Kyerɛw yɛn na sua FullVendor ho ade anaa yɛ nhyehyɛe ma nkɔmmɔbɔ bi ne adetɔn kuw no.",
+    "demo_title": "Bisa demo | FullVendor .",
+    "demo_desc": "Bisa FullVendor demo na fa asɛm bi a ɛte sɛ wo dwumadi no kɔhwɛ asɛnka agua no so.",
+    "privacy_title": "Kokoam nsɛm | FullVendor .",
+    "terms_title": "Nsɛmfua | FullVendor .",
+    "search_title": "Hwehwɛ | FullVendor .",
+    "notfound_title": "Kratafa a wɔanhu | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Home page",
+    "products": "Nneɛma a wɔyɛ",
+    "solutions": "Ano aduru ahorow",
+    "industries": "Nnwumayɛbea ahorow",
+    "pricing": "Nneɛma bo a wɔbɔ",
+    "resources": "Akadeɛ",
+    "contact": "Di nkutaho",
+    "open_menu": "Bue menu no mu",
+    "close": "To mu"
+  },
+  "cta": {
+    "demo": "Bisa Demo",
+    "contact": "Wo ne yɛn nkasa",
+    "video": "Hwɛ Video no",
+    "talk": "Wo ne adetɔnfo nkasa",
+    "all_products": "Hwɛ nneɛma a wɔyɛ nyinaa",
+    "home": "San kɔ home page no so"
+  },
+  "a11y": {
+    "skip": "Twa kɔ emu nsɛm no so",
+    "primary": "Akwankyerɛ titiriw",
+    "crumbs": "Ɔkwan a wɔfa so fa po so hyɛn mu",
+    "search": "Hwehwɛ",
+    "language": "Kasa"
+  },
+  "hero": {
+    "eyebrow": "Ne nyinaa wɔ asɛnka agua biako so",
+    "title": "Di ho dwuma na nyin\nwo adwuma ne\n{{brand}} .",
+    "subtitle": "Platform a edi mũ a ɛwɔ wɛb ne mobile ano aduru a wɔde kyekyɛ, adetɔn, nneɛma a wɔde kɔ, adetɔ, nneɛma a wɔakora so, sikasɛm ne nea ɛkeka ho.",
+    "pill_ecosystem": "Biribiara a ɛwɔ abɔde a nkwa wom nhyehyɛe biako mu",
+    "pill_cloud": "Wɔ mununkum no mu no, ahobammɔ ne scalable",
+    "pill_size": "Wɔ nnwumakuw akɛse nyinaa fam"
+  },
+  "products_block": {
+    "eyebrow": "Yɛn nneɛma a yɛyɛ",
+    "title": "[[abɔde a nkwa wom nhyehyɛe a edi mũ]] ma w’adwuma no fã biara",
+    "aside": "Ano aduru a wɔaka abom a ɛyɛ adwuma bom ma wo tumi nyinaa, adwumayɛ mu mmɔdenbɔ ne nkɔso kɛse.",
+    "groups": {
+      "money": "Adwumayɛ ne nneɛma a wɔboaboa ano",
+      "flow": "Nneɛma a wɔtɔ ne nea wɔde kɔma",
+      "field": "Adetɔn ne adekoradan"
+    }
+  },
+  "products_page": {
+    "title": "Nneɛma ason, [[adwuma biako]].",
+    "text": "Ade biara a wɔyɛ no di beae bi ho dwuma. Wɔbom kyɛ adetɔfo, stock, orders ne payments."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Prama",
+      "card": "Asɛnka agua titiriw a wɔde hwɛ aguadi so na wɔkyekyɛ.",
+      "features": [
+        "Adetɔn ne adetɔ",
+        "Deɛ ɛwɔ hɔ",
+        "Wɔn a wɔkra nneɛma ne wɔn a wɔde nneɛma ma",
+        "Amanneɛbɔ ne nea ɛkeka ho"
+      ],
+      "lead": "Wo aguadi dwumadi no mfinimfini: nneɛma a wɔkra, nneɛma bo, stock ne adetɔfo wɔ beae biako.",
+      "about": "FullVendor sesa distributor bi spreadsheets ne nhyehyɛe ahorow a ɛho ayɛ hare no ananmu. Efi ha na nneɛma a wɔkra fi ba, wosusuw nneɛma a wɔakora so ho, wɔhwɛ adetɔfo portfolio so na wɔhwɛ da no nɔma. Abɔde a nkwa wom a aka no ne saa nnyinaso yi di nkitaho.",
+      "benefits": [
+        {
+          "title": "Data master biako pɛ",
+          "text": "Wɔde adetɔfo, nneɛma ne nneɛma bo kyɛ adetɔn, adekoradan ne sikasɛm."
+        },
+        {
+          "title": "Da biara da oprehyɛn a emu da hɔ",
+          "text": "Orders, purchases ne stock gyae sɛ wɔbɛtra fael ahorow mu."
+        },
+        {
+          "title": "Amanneɛbɔ ahorow a ɛsɛ sɛ wosi ho gyinae",
+          "text": "Wohu adetɔn, margin ne pending a wɔmfa nsa nka pon ano."
+        },
+        {
+          "title": "Wɔasiesie wɔn ho sɛ wobenyin",
+          "text": "Logistics, sales force anaa ERP sums bere a adwumayɛkuw no bisa no."
+        }
+      ],
+      "audience": "Aguadi ne nkyekyɛmu akuw a ɛnnɛ wɔyɛ adwuma no ho nhyehyɛe wɔ nhyehyɛe ahorow pii ntam."
+    },
+    "erp": {
+      "kicker": "Adwumayɛ ho nhyehyɛe",
+      "card": "Adwumayɛ ne sikasɛm ho nhyehyɛe a edi mũ.",
+      "features": [
+        "Akontaabu ho nimdeɛ",
+        "Ɛlektrɔnik sika a wɔde tua ho ka",
+        "Adwuma Nkrataa",
+        "Agyapadeɛ a ɛntena hɔ daa",
+        "Nnwumakuw ahorow pii"
+      ],
+      "lead": "Adwumayɛ ne sikasɛm, a ɛne nea wɔtɔn na wɔde kɔma ankasa no hyia.",
+      "about": "FullVendor ERP fa akontabuo, kɔmputa so sika a wɔde tua ho ka, akatua, agyapadeɛ a ɛntena hɔ ne nnwumakuo ahodoɔ ho. Ɛfa aguadi adwuma no na ɛdannan no ma ɛyɛ nsɛm a wɔakyerɛw, nkrataa a wɔde gye sika ne nsɛm a wɔka a sikasɛm beae no betumi de adi dwuma.",
+      "benefits": [
+        {
+          "title": "Akontaabu a ɛwɔ nkitahodi",
+          "text": "Nea ɛkɔ so wɔ adetɔn ne adetɔ mu no ma akontaabu nya nkɔso."
+        },
+        {
+          "title": "Ɛlektrɔnik nkrataa a wɔde gye sika",
+          "text": "Wode sika a wotua fi abɔde a nkwa wom nhyehyɛe koro no ara mu ma na wohwɛ so."
+        },
+        {
+          "title": "Nnwumakuw ahorow",
+          "text": "Multi-company ma akuw a wɔyɛ adwuma wɔ adwumakuw din bɛboro biako ase."
+        },
+        {
+          "title": "Akatua ho nkrataa ne agyapade",
+          "text": "Akatua ne fixed assets ka ho ne adwumayɛfo a aka no."
+        }
+      ],
+      "audience": "Adwumayɛ ne sikasɛm mu mmeae a wɔpɛ sɛ wɔde oprehyɛn ankasa no to akontaabu no mu."
+    },
+    "logistics": {
+      "kicker": "Nneɛma a wɔde kɔ baabiara",
+      "card": "Wo logistics adwumayɛ no sohwɛ na wɔhwɛ so.",
+      "features": [
+        "Akwan ne nneɛma a wɔde kɔma nkurɔfo",
+        "Bere ankasa mu akyi a wodi",
+        "Dwumadi a wɔde ma ofirikafo",
+        "Ɔkwan a wɔfa so yɛ adwuma yiye"
+      ],
+      "lead": "Efi nea wɔkra so kosi nea wɔde bɛkɔ so: akwan, karkafo ne bere ankasa mu akyi a wodi.",
+      "about": "FullVendor Logistics hyehyɛ nkyekyɛmu no. Wobɔ akwan, de karkafo ma na wohwɛ baabi a delivery biara rekɔ. Kar akwan kuw no gyina gyina frɛ so sɛ wobehu sɛ ebia wɔde ahyɛde no amena anaa.",
+      "benefits": [
+        {
+          "title": "Akwan a wɔfa so da no",
+          "text": "Deliveries ordered by zone, bere mfɛnsere ne tumi."
+        },
+        {
+          "title": "Wɔde ofirikafo a wɔde no ama no",
+          "text": "Ɔkwan biara wɔ obi a ɔhwɛ so ne nnidiso nnidiso a emu da hɔ."
+        },
+        {
+          "title": "Di akyire",
+          "text": "Wunim nea wɔde kɔma, wɔ kwan so anaasɛ wogyina."
+        },
+        {
+          "title": "Kilomita kakraa bi",
+          "text": "Ɔkwan a wɔfa so yɛ adwuma yiye no ma bere a wɔde mena ne ɛka a wɔbɔ no so tew."
+        }
+      ],
+      "audience": "Nnwuma a wɔkyekyɛ a wɔn ankasa po so ahyɛn anaa nnipa foforo ka ho."
+    },
+    "supplier": {
+      "kicker": "Dwadie",
+      "card": "Portal a wɔde ma wɔn a wɔde nneɛma ma ne adetɔ ho nhyehyɛe.",
+      "features": [
+        "Nneɛma a wɔkra",
+        "Asɛnka",
+        "Supplier nhyehyɛe sohwɛ",
+        "Nkitahodi ne nneɛma a wɔakora so"
+      ],
+      "lead": "Wo suppliers quote, gye orders na replenish stock a ɛnyɛ loose emails.",
+      "about": "Vendor Supplier bue kwan bi ma adetɔ ne wɔn a wɔde nneɛma ma no sɛ wɔbɛyɛ adwuma wɔ ahyɛde koro no ara so. Quotes, adetɔ ahyɛdeɛ ne receipt no bata FullVendor inventory no ho.",
+      "benefits": [
+        {
+          "title": "Nneɛma a wɔkra wɔ channel bi so",
+          "text": "Nea ɔde nneɛma ma no hu nea ɔde bɛkɔ, a email nkɔnsɔnkɔnsɔn biara nni mu."
+        },
+        {
+          "title": "Nsɛm a wɔafa aka a wɔde toto ho",
+          "text": "Wobisa nneɛma bo na wopaw a abakɔsɛm no wɔ w’adwenem."
+        },
+        {
+          "title": "Ɔdemafo Owura",
+          "text": "Tebea horow, nkitahodi ne nea ɛda so wɔ kyerɛwtohɔ biako mu."
+        },
+        {
+          "title": "Hyehyɛ nneɛma a wɔakora so no mu",
+          "text": "Nea wɔtɔɔ no da adi wɔ stock no mu bere a wɔanya no."
+        }
+      ],
+      "audience": "Adetɔ akuw a wɔde wɔn a wɔde nneɛma ma pii hyɛ wɔn ma na wohia sɛ wotumi hwehwɛ wɔn akyi."
+    },
+    "salesman": {
+      "kicker": "Mobile so app",
+      "card": "Mobile application ma adetɔn kuw.",
+      "features": [
+        "Adetɔfo a wɔhwɛ wɔn so",
+        "Order a wɔfa",
+        "Nneɛma a wɔyɛ ho nhoma",
+        "Offline adwuma"
+      ],
+      "lead": "Adetɔnfo no gye nneɛma a wɔkra wɔ abɔnten so, a sɛnkyerɛnne bi wɔ hɔ anaasɛ wonni bi.",
+      "about": "FullVendor Sales Man de wo portfolio, catalog ne order taking to adetɔnfoɔ no fon so. Sɛ intanɛt nni hɔ a, adwuma no kɔ so na ɛyɛ pɛpɛɛpɛ bere a sɛnkyerɛnne no asan aba no. Nneɛma a wɔkra no ba a wɔasiesie wɔn ho sɛ wobesiesie na wɔde akɔma.",
+      "benefits": [
+        {
+          "title": "Wallet a ɛwɔ kotoku mu",
+          "text": "Ɔtɔnfo no hu adetɔfo, tebea horow ne nneɛma a ɛda so ara wɔ hɔ."
+        },
+        {
+          "title": "Kɔkra wɔ nsrahwɛ mu",
+          "text": "Fa order no ne mprempren bo ne stock."
+        },
+        {
+          "title": "Catalog a ɛwɔ hɔ nnɛ",
+          "text": "Nneɛma, nkyerɛkyerɛmu ne ne bo a PDF dedaw biara nni mu."
+        },
+        {
+          "title": "Ankasa offline",
+          "text": "Yɛ adwuma a wonni coverage na synchronize akyiri yi."
+        }
+      ],
+      "audience": "Ahwɛfo ne afuw mu adetɔnfo wɔ nkyekyɛmu ne nneɛma a wɔde di dwuma pii mu."
+    },
+    "warehouse": {
+      "kicker": "Mobile so app",
+      "card": "Mobile application a wɔde yɛ adekoradan.",
+      "features": [
+        "Gye a wogye ne nea wɔde kɔ",
+        "Nneɛma a wɔpaw ne nea wɔde kyekyere nneɛma",
+        "Nneɛma a wɔakora so a wɔhwɛ so",
+        "Barcode akenkan"
+      ],
+      "lead": "Reception, picking na dispatch ne telefon ne barcode.",
+      "about": "FullVendor Warehouse kyerɛ adekoradan no kwan wɔ gye a wogye, paw, nneɛma a wɔboaboa ano ne nea wɔde kɔma no mu. Mmara akenkan ma mfomso so tew na wɔkan nneɛma a wɔakora so bio wɔ ɔsram no awiei nkutoo.",
+      "benefits": [
+        {
+          "title": "Agyede a wɔde tia nhyehyɛe",
+          "text": "Wɔde nea ɛhyɛn mu no toto adetɔ ho."
+        },
+        {
+          "title": "Wɔde wɔn ani asi so sɛ wɔbɛpaw nneɛma",
+          "text": "Hyɛn wura no di ahyɛde no akyi na osi ade biara so dua."
+        },
+        {
+          "title": "Barcodes a wɔde kyerɛw nsɛm",
+          "text": "Mfomso kakraa bi a ɛba wɔ afiri, batch anaa dodow mu."
+        },
+        {
+          "title": "Stock a wotumi de ho to so",
+          "text": "Tu biara a wotu kɔ baabi foforo no ma platform no nneɛma a wɔakora so no yɛ foforo."
+        }
+      ],
+      "audience": "Adekoradan so ahwɛfo ne po so ahyɛn wuranom a ɛnnɛ wɔde nkrataa a wɔatintim siesie nneɛma a wɔkra."
+    },
+    "finance": {
+      "kicker": "Mobile so app",
+      "card": "Sikasɛm so tumidi fi wo mobile so.",
+      "features": [
+        "Akontaabu a ɛsɛ sɛ wogye ne nea ɛsɛ sɛ wotua",
+        "Adetɔfo tebea",
+        "Katua ne mpata a wɔyɛ",
+        "Sikasɛm ho amanneɛbɔ"
+      ],
+      "lead": "Akontaabu a ɛsɛ sɛ wogye, sikatua ne adetɔfo tebea, fi wo fon so.",
+      "about": "FullVendor Finance kyerɛ sika a wɔaboaboa ano wɔ mobile so: nea obiara a ɔregye no ka, nea adwumakuw no reyɛ atua ne sɛnea sika a wotua no ba. Wɔde boaboa sika ano bere a wɔrekɔsra hɔ no na wɔhwɛ sikakorabea hɔ a wonbue pon no.",
+      "benefits": [
+        {
+          "title": "Nneɛma a wɔboaboa ano wɔ nsrahwɛ no mu",
+          "text": "Ɔdetɔnfo no nim sɛ ebia adetɔfo no yɛ nea aba so ansa na watɔn anaa."
+        },
+        {
+          "title": "Nea ɛsɛ sɛ wogye ne nea ɛsɛ sɛ wotua",
+          "text": "Adaka no afã abien no nyinaa wɔ app koro no ara mu."
+        },
+        {
+          "title": "Katua ne mpata a wɔyɛ",
+          "text": "Wokyerɛw credits na wohwɛ nea ɛsɛ sɛ wotwa."
+        },
+        {
+          "title": "Amanneɛbɔ ahorow a ɛwɔ hɔ",
+          "text": "Nneɛma a wɔboaboa ano ne sika a wɔde kyerɛ a wontwɛn sɛ wɔbɛto mu."
+        }
+      ],
+      "audience": "Managers, collectors ne adetɔnfo a wohia client no tebea mprempren."
+    }
+  },
+  "why": {
+    "eyebrow": "Nea enti a FullVendor .",
+    "title": "Ma w’adwuma no nkɔ anim\na nea efi mu ba ankasa",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Nnwumakuw de wɔn ho to yɛn so"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Wɔn a wɔde di dwuma a wɔyɛ nnam"
+      },
+      {
+        "value": "+10",
+        "suffix": "mfeɛ",
+        "label": "Wɔ adannandi a ɛkɔ so daa mu"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud a ɛwɔ hɔ"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Sɛnea ɛyɛ adwuma",
+    "title": "Efi adetɔn so kosi nea wɔboaboa ano so, a wɔansakra nhyehyɛe ahorow",
+    "text": "Aguade biara kyɛ adetɔfo, stock, ahyɛde ne sikatua. Nea ɛkɔ so wɔ abɔnten so anaa adekoradan mu no pue wɔ adwumayɛbea hɔ amonom hɔ ara.",
+    "steps": {
+      "sell": {
+        "title": "Wotɔn",
+        "text": "Wɔnam wɛbsaet no so anaa ɛnam Sales Man so na ɛhyɛ ahyɛde no mu, mpo a wonni sɛnkyerɛnne biara."
+      },
+      "pick": {
+        "title": "Krado",
+        "text": "Warehouse gye, tetew mu na ɔde barcode kɔ."
+      },
+      "deliver": {
+        "title": "Nneɛma a wɔde kɔma nkurɔfo",
+        "text": "Logistics de ɔkwan no ma na ɛdi delivery no akyi."
+      },
+      "collect": {
+        "title": "Akraman a wɔfrɛ wɔn Cobras",
+        "text": "Finance ne ERP to sika a wɔaboaboa ano, nkrataa a wɔgye ne nɔma no mu."
+      }
+    }
+  },
+  "band": {
+    "title": "Woasiesie wo ho sɛ wobɛhwɛ no ne [[wo oprehyɛn]]?",
+    "text": "Yɛkyerɛ wo abɔdeɛ a nkwa wom a ɛwɔ nkyekyɛmu asɛm a ɛte sɛ wo deɛ no."
+  },
+  "footer": {
+    "blurb": "Web ne mobile platform a wɔde kyekyɛ, tɔn, nneɛma a wɔde kɔ, adetɔ, nneɛma a wɔakora so ne sikasɛm.",
+    "products": "Nneɛma a wɔyɛ",
+    "company": "Adwumakuo",
+    "legal": "Mmara mu",
+    "privacy": "Kokoamusɛm",
+    "terms": "Nhyehyɛeɛ",
+    "rights": "Hokwan ahorow nyinaa wɔ hɔ."
+  },
+  "solutions": {
+    "eyebrow": "Ano aduru ahorow",
+    "title": "Beae biara, a ɛka [[adwuma koro no ara]] ho.",
+    "intro": "Fa ɔhaw a wopɛ sɛ wudi ho dwuma no paw. Wɔ akyi no, nneɛma no kyɛ nsɛm koro no ara.",
+    "items": {
+      "commercial": {
+        "title": "Aguadi ho nhyehyɛe",
+        "text": "Orders, prices, customers ne inventory a wɔde kyekyɛ da biara da."
+      },
+      "field": {
+        "title": "adetɔnfo kuw",
+        "text": "Adetɔnfo a wɔregye nneɛma a wɔkra wɔ abɔnten so, intanɛt so anaa intanɛt so."
+      },
+      "warehouse": {
+        "title": "Kora",
+        "text": "Reception, picking, dispatch ne stock a wobetumi de wɔn ho ato so."
+      },
+      "logistics": {
+        "title": "Nneɛma a wɔde kɔ ne nneɛma a wɔde kɔma",
+        "text": "Akwan, karkafo ne tebea a ɛwɔ delivery biara mu."
+      },
+      "purchasing": {
+        "title": "Adetɔ ne wɔn a wɔde nneɛma ma",
+        "text": "Quotes, orders ne portal ma obiara a ɔde nneɛma bɛma wo."
+      },
+      "finance": {
+        "title": "Sikasɛm ne akontaabu",
+        "text": "Nneɛma a wɔboaboa ano, sikatua, kɔmputa so sikatua ne akontaabu."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Nnwumayɛbea ahorow",
+    "title": "Wɔayɛ ama wɔn a [[moves product]].",
+    "intro": "FullVendor wɔwoo no wɔ nkyekyɛmu mu na ɛka nnwumakuo a wɔtɔ, sie, tɔn na wɔde kɔma no ho.",
+    "items": {
+      "wholesale": {
+        "title": "Nneɛma a wɔkyekyɛ ne nea wɔtɔn no kɛse",
+        "text": "Boɔ a wɔahyehyɛ, portfolio, nkyekyɛmu ne nnoɔma a wɔboaboa ano wɔ ɔmansin baako mu."
+      },
+      "retail": {
+        "title": "Tɔtɔn",
+        "text": "Store ne adekoradan a connected stock, adetɔn ne replenishment."
+      },
+      "food": {
+        "title": "Aduan ne anonne",
+        "text": "Akwan a wɔtaa fa so ne adekoradan a entumi nnyina."
+      },
+      "pharma": {
+        "title": "Nnuruyɛ ne ankorankoro hwɛ",
+        "text": "Agyede, picking ne inventory control a ɛwɔ traceability."
+      },
+      "hardware": {
+        "title": "Hardware ne adansi ho adwuma",
+        "text": "Nhwehwɛmu pii, wɔn a wɔde nneɛma ma ne nneɛma a wɔde kɔ adwuma anaa sotɔɔ mu."
+      },
+      "fmcg": {
+        "title": "Nnipa dodow a wɔde di dwuma",
+        "text": "Mmɔnten so adetɔnfo ne turnover a ɛkɔ soro a wɔde besi ananmu."
+      },
+      "manufacturing": {
+        "title": "Nneɛma a wɔyɛ",
+        "text": "Adetɔ, adekoradan ne nneɛma a wɔakora so a ɛne adwumayɛ hyia."
+      },
+      "lastmile": {
+        "title": "Delivery ne kilomita a etwa to",
+        "text": "Akwan, karkafo ne tebea a ɛwɔ delivery biara mu."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Akadeɛ",
+    "title": "Adwene a emu da hɔ a wode [[hyɛ oprehyɛn no]].",
+    "intro": "Akwankyerɛ ntiantiaa ma nkyekyɛmu so ahwɛfoɔ a wɔrekɔsi nhyehyɛeɛ a wɔbɛbata ho.",
+    "items": {
+      "unify": {
+        "title": "Sɛnea wɔbɛka nkyekyɛmu abom ayɛ no nhyehyɛe biako",
+        "summary": "Nea ɛsɛ sɛ wodi kan de bom bere a adetɔn, adekoradan ne nneɛma a wɔaboaboa ano te fael ahorow mu no.",
+        "points": [
+          "Fi ase wɔ adetɔfo, nneɛma ne nneɛma bo so: wɔn ne ɔkyerɛkyerɛfo a obiara de di dwuma.",
+          "Fa order no bata stock no ho ansa na wode application afoforo aka ho.",
+          "Ɛsusuw dodow a ɛnyɛ den: ahyɛde ahorow a wɔadi so a wɔnsan nyɛ kratasin no bio."
+        ]
+      },
+      "offline": {
+        "title": "Adetɔnfo kuw a wɔyɛ adwuma wɔ offline",
+        "summary": "Nea ɛsɛ sɛ wɔhwehwɛ fi ordering app bi hɔ sɛnea ɛbɛyɛ a nea ɔtɔn no rennyae esiane sɛnkyerɛnne no nti.",
+        "points": [
+          "Ɛsɛ sɛ katalog ne sika kotoku no wɔ telefon so, na ɛnyɛ mununkum no mu nkutoo.",
+          "Wɔde ahyɛde no sie afiri no so na wɔde gu so bere a netɛw no asan aba no.",
+          "Sɛ woreyɛ synchronizing a, order no hyɛn adekoradan no mu dedaw."
+        ]
+      },
+      "warehouse": {
+        "title": "Adekoradan a barcode wom, a krataa nni mu",
+        "summary": "Sɛnea wobɛkɔ afi list a wɔatintim no so akɔ confirmed picking so wɔ telefon so.",
+        "points": [
+          "Gye tia adetɔ ahyɛde no, ɛnyɛ tia nkae.",
+          "Si ade biara so dua bere a woretetew mu no. Mmoawa no twa kɔ ɔkwan no so.",
+          "Dispatch no yɛ stock a nea ɔtɔn no hu no foforo."
+        ]
+      },
+      "finance": {
+        "title": "Nneɛma a wɔaboaboa ano a ɛne adetɔn no hyia",
+        "summary": "Nea enti a ɛsɛ sɛ nea ɔtɔn no hu adetɔfo no ka ansa na wagye ade foforo.",
+        "points": [
+          "Nsrahwɛ no ne bere a eye sen biara a wobetumi agye, sɛ ɛka no da adi a.",
+          "Ɛsɛ sɛ adetɔn ne sikasɛm hwɛ adetɔfo koro no ara.",
+          "Amanneɛbɔ a wɔde ma a ɛboro so da biara da no bo yɛ den sen sɛ wɔde bɛto mu akyiri."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Nneɛma bo a wɔbɔ",
+    "title": "Abɔde a nkwa wom nhyehyɛe a [[ne wo nyin]].",
+    "intro": "Yɛntintim generic rate: ɛka no gyina modules, users ne volume so. Yɛkyerɛ wo asɛnka agua no na yɛde nsusuwii bi a ɛne wo dwumadi no bom.",
+    "note": "Demo no nni ɛka biara na enhia sɛ wɔyɛ apam.",
+    "recommended": "Susu ma",
+    "faq_title": "Nsɛm a wɔtaa bisa",
+    "plans": {
+      "essential": {
+        "name": "Hia",
+        "desc": "Sɛ wɔbɛhyehyɛ aguadi sohwɛ ne ne kyekyɛ wɔ asɛnka agua biako so.",
+        "features": [
+          "FullVendor wɛbsaet so dwumadibea",
+          "Adetɔn, adetɔ ne nneɛma a wɔakora so",
+          "Clients, suppliers ne amanneɛbɔ ahorow",
+          "Wɔn a wɔde ɔfese nnwinnade di dwuma",
+          "Mmoa a wɔde fi ase"
+        ],
+        "cta": "Bisa Demo"
+      },
+      "professional": {
+        "name": "Adwumayɛni",
+        "desc": "Wɔ akuw a wɔtɔn nneɛma wɔ abɔnten so na wosiesie nneɛma a wɔkra wɔ adekoradan mu no fam.",
+        "features": [
+          "Biribiara a Ɛho Hia",
+          "App FullVendor Sales Man 1. Ɔkwan a wɔfa so yɛ adwuma.",
+          "App FullVendor Warehouse 1. Ɔkwan a wɔfa so yɛ adwuma.",
+          "Offline adwuma ne barcodes",
+          "Nnipa pii a wɔde di dwuma wɔ afuw ne adekoradan mu"
+        ],
+        "cta": "Bisa Demo"
+      },
+      "corporate": {
+        "name": "Adwumakuw ahorow",
+        "desc": "Wɔ akuo a wohia logistics, adetɔ, sikasɛm ne nnwuma ahodoɔ.",
+        "features": [
+          "Abɔde a nkwa wom nhyehyɛe a edi mũ",
+          "Logistics, Vendor Supplier ne Finance .",
+          "FullVendor ERP ne adan a wɔde tua ho ka pii",
+          "Ɛlektrɔnik sikatua ne akontaabu",
+          "Accompaniment ne nea edi kan a ɛwɔ hɔ"
+        ],
+        "cta": "Wo ne adetɔnfo nkasa"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "So ɛsɛ sɛ metɔ nneɛma no nyinaa?",
+        "a": "Dabi Wubetumi de FullVendor afi ase na wode apps anaa ERP aka ho bere a oprehyɛn no hia no."
+      },
+      "offline": {
+        "q": "So application ahorow no yɛ adwuma a intanɛt nni hɔ?",
+        "a": "Sales Man ne Warehouse kɔ so yɛ adwuma a wonni sɛnkyerɛnne na wɔyɛ synchronize bere a wɔresan abɔ mu."
+      },
+      "multi": {
+        "q": "Sɛ mewɔ adwumakuw bɛboro biako a, ɛyɛ adwuma?",
+        "a": "Aane. ERP susuw nnwumakuw pii ho na abɔde a nkwa wom nhyehyɛe no betumi akyɛ awuranom wɔ wɔn ntam."
+      },
+      "demo": {
+        "q": "Dɛn na ɛka demo no ho?",
+        "a": "Asɛnka agua no so a wobɛkɔ akɔhwɛ a wode asɛm bi te sɛ wo de no. Ɛka biara nni hɔ na asɛyɛde biara nni hɔ."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo a wɔde kyerɛ",
+    "title": "Yɛkyerɛ wo FullVendor ne [[wo oprehyɛn su]].",
+    "text": "Ka wo adwumakuw no ne nea wopɛ sɛ wudi kan kra ho asɛm kyerɛ yɛn. Demo no nni ɛka biara."
+  },
+  "contact": {
+    "eyebrow": "Di nkutaho",
+    "title": "Momma yɛnka [[wo oprehyɛn]] ho asɛm.",
+    "text": "Sɛ wopɛ demo, proposal anaasɛ kɛkɛ sɛ wobɛkyerɛ wo ho kwan wɔ nneɛma no ntam a, gyaw wo nsɛm na yɛbɛbua.",
+    "email": "Nkrataa a wɔde mena",
+    "phone": "Fon",
+    "whatsapp": "WhatsApp na ɛyɛ adwuma"
+  },
+  "form": {
+    "name": "Din",
+    "email": "Nkrataa a wɔde mena",
+    "phone": "Fon",
+    "company": "Adwumakuo",
+    "country": "Ɔman",
+    "team": "Team kɛse",
+    "interest": "Dɛn na w’ani gye ho?",
+    "message": "Nkratoɔ",
+    "optional": "Ɛnyɛ ɔhyɛ",
+    "choose": "Yi ho",
+    "interest_all": "Abɔde a nkwa wom nyinaa",
+    "ph_name": "wo din",
+    "ph_email": "wo@adwumakuw.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Wo adwumakuw no",
+    "ph_country": "Ɔman",
+    "ph_message": "Ka sɛnea woyɛ adwuma nnɛ kyerɛ yɛn",
+    "privacy_before": "Megye tom sɛ wɔde me data no bedi dwuma sɛnea...",
+    "privacy_after": ".",
+    "submit": "Fa abisade mena",
+    "sent_title": "Yɛn nsa ka w’abisade no",
+    "sent_text": "Meda wo ase. Adetɔnfo kuw no bɛkyerɛw wo na woayɛ demo no ho nhyehyɛe anaasɛ woabua w’asɛmmisa no.",
+    "error_required": "Wie saa afuw yi.",
+    "error_email": "Hyehyɛ email a ɛfata.",
+    "error_phone": "Hwɛ telefon no so.",
+    "error_privacy": "Yehia wo pene na yɛde nkitahodi ho nsɛm adi dwuma.",
+    "error_csrf": "Nhyiam no atwam. San fa kratasin no mena.",
+    "error_save": "Yɛantumi ankora adesrɛ no so. Bɔ mmɔden bio.",
+    "error_generic": "Hwɛ mfuw a wɔahyɛ no agyirae no mu.",
+    "error_rate": "Yɛsrɛ sɛ twɛn kakra ansa na wode adesrɛ foforo amena.",
+    "team_options": {
+      "1-10": "Nnipa 1 kosi 10",
+      "11-50": "nnipa 11 kosi 50",
+      "51-200": "nnipa 51 kosi 200",
+      "201-500": "nnipa 201 kosi 500",
+      "500+": "Nnipa bɛboro 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor wɔ simma biako mu",
+    "prev": "Dada",
+    "next": "Redi so",
+    "slides": [
+      {
+        "title": "Abɔde a nkwa wom nhyehyɛe biako pɛ",
+        "text": "Adetɔn, adekoradan, delivery, adetɔ ne sikasɛm kyɛfa adetɔfo, stock ne orders."
+      },
+      {
+        "title": "Wɛb ne mobile bom",
+        "text": "Ɔfese no yɛ adwuma wɔ asɛnka agua so. Abɔnten ne adekoradan no, wɔ apps no mu, mpo a enni sɛnkyerɛnne."
+      },
+      {
+        "title": "Wɔyɛɛ no ​​sɛ wɔmfa nkyekyɛ",
+        "text": "Efi ahyɛde so kosi sika a wotua so, a wɔmfa nsɛm mfi fael biako mu nkɔ foforo mu."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Hwehwɛ nneɛma, ano aduru, nnwuma...",
+    "lang_filter": "Hwehwɛ kasa mu",
+    "intro": "Hwehwɛ nneɛma, ano aduru, nnwuma ne nneɛma a wɔde yɛ adwuma.",
+    "empty": "Yɛanhu nea efii mu bae wɔ “{q}” ho.",
+    "hint": "Sɔ adetɔn, adekoradan, akwan anaa nneɛma a wɔboaboa ano hwɛ.",
+    "results": "{n} nea efi mu ba",
+    "button": "Hwehwɛ",
+    "kind_product": "Adwadeɛ",
+    "kind_solution": "Anoyie",
+    "kind_industry": "Mfididwuma",
+    "kind_resource": "Nneɛma a Wɔde Yɛ Adwuma"
+  },
+  "notfound": {
+    "title": "Kratafa yi nyɛ saa",
+    "text": "Link no nni hɔ anaasɛ asesa beae."
+  },
+  "common": {
+    "what": "Nea edi ho dwuma",
+    "features": "Nea ɛka ho",
+    "benefits": "Nea enti a ɛho hia",
+    "for_who": "Henanom na ɛyɛ ma?",
+    "related": "Afei nso wɔ abɔde a nkwa wom mu"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Adetɔn nnɛ",
+      "orders": "Nneɛma a wɔkra",
+      "clients": "Adetɔfo",
+      "products": "Nneɛma a wɔyɛ"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard a wɔde kyerɛw nsɛm",
+      "sales": "Adetɔn",
+      "purchases": "Dwadie",
+      "inventory": "Deɛ ɛwɔ hɔ",
+      "clients": "Adetɔfo",
+      "reports": "Amanneɛbɔ ahorow"
+    },
+    "chart": "Adetɔn",
+    "channel": "Wɔkyekyɛ no sɛnea ɔkwan biara so",
+    "channels": [
+      "Kora",
+      "Akyekyɛ",
+      "Ɔdetɔnfo a ɔtɔn nneɛma akɛse",
+      "Afoforo nso"
+    ],
+    "orders": "Nneɛma a wɔkra a aba foforo",
+    "col_order": "Kra",
+    "col_client": "Adetɔni",
+    "col_status": "Ɔman",
+    "col_total": "Ne nyinaa",
+    "status": [
+      "De kɔeɛ",
+      "Wɔ kwan so",
+      "Asomuade"
+    ],
+    "top": "Nneɛma a wɔtɔn sen biara",
+    "product": "Adwadeɛ",
+    "sales_menu": [
+      "Adetɔfo",
+      "Nneɛma a wɔkra",
+      "Nneɛma a wɔyɛ",
+      "Akwan a Wɔfa so",
+      "Yɛ nsɛm a ɛne ne ho hyia"
+    ],
+    "warehouse_menu": [
+      "Ɔgyeɛ",
+      "Nneɛma a wɔpaw",
+      "Deɛ ɛwɔ hɔ",
+      "Soma",
+      "Yɛ nsɛm a ɛne ne ho hyia"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Kokoam Nsɛm Ho Nhyehyɛe",
+    "privacy_intro": "Saa nhyehyɛe yi kyerɛkyerɛ nea yɛde data a wugyaw wɔ nkrataa mu wɔ wɛbsaet yi so no yɛ mu.",
+    "privacy": [
+      {
+        "title": "Data bɛn na yɛboaboa ano",
+        "text": "Sɛ wobisa demo anaa wo kyerɛw yɛn a, yɛde edin, adwumakuw, email, telefon nɔma sɛ wokyerɛ a, ɔman, kuw no kɛse, ade a w’ani gye ho ne nkrasɛm no sie. Yɛsan nso kyerɛw date no, kasa a wɔde kyerɛw krataafa no ne IP address no, na yɛasiw nsɛm a wɔde bɛmena no ayayade ano."
+      },
+      {
+        "title": "Dɛn na yɛde di dwuma?",
+        "text": "Yɛde saa data yi di dwuma de bua wo, yɛ nhyehyɛe ma demo na yɛsiesie aguadi ho nyansahyɛ nkutoo. Yɛntɔn wɔn anaasɛ yɛmfa mma nnipa foforo a wɔakyerɛw wɔn din."
+      },
+      {
+        "title": "Ɛhe na wɔde sie ne bere tenten ahe?",
+        "text": "Wɔde abisade ahorow sie wɔ saa wɛbsaet yi server so. Yɛde sie bere a ɛho hia na yɛde asom wo ne aguadi akyidifo, na yɛpopa bere a woka kyerɛ yɛn anaasɛ bere a wonhia bio no."
+      },
+      {
+        "title": "Wo hokwan ahorow",
+        "text": "Wubetumi abisa sɛ wɔmfa wo data nkɔ, wɔnteɛ anaa wɔpopa mfi nkitahodi kratasin no so, na woakyerɛ wɔ nkrasɛm no mu. Sɛ adwumakuw no tintim email wɔ wɛbsaet yi so a, wubetumi nso akyerɛw wɔ hɔ."
+      }
+    ],
+    "terms_title": "Nsɛm a wɔde di dwuma",
+    "terms_intro": "Saa tebea yi fa FullVendor submission site yi a wɔde bedi dwuma no ho.",
+    "terms": [
+      {
+        "title": "Aguadi ho nsɛm",
+        "text": "Texts, nhwɛsoɔ dashboard figures ne nkyerɛkyerɛmu na ɛde platform no ba. Wobetumi ayɛ nsakrae wɔ mu bere a ade no sesa na ɛnyɛ nea wɔde ma a wɔato mu no."
+      },
+      {
+        "title": "Demo no nyɛ apam",
+        "text": "Sɛ wode kratasin no mena a, ɛnyɛ asɛyɛde sɛ wobɛtɔ anaasɛ wode bo bi asie. Wɔpene apam biara so wɔ ɔkwan soronko so, wɔkyerɛw, ne ne kɛse ne ne tebea horow."
+      },
+      {
+        "title": "Nsɛm a ɛwɔ wɛbsaet no so",
+        "text": "FullVendor aguadi agyiraehyɛde, nneɛma din ne nkratafa yi mu nsɛm yɛ wɔn wuranom dea. Wontumi nsuasua mfa nkyerɛ ade foforo."
+      },
+      {
+        "title": "Wɔde di dwuma a wogye tom",
+        "text": "Mfa nkrataa no nni dwuma mfa nsɛm a ɛnyɛ nokware, spam anaa nsɛm a mmara mma ho kwan nkɔma. Ebia yebebu yɛn ani agu adesrɛ ahorow a ɛne adwumayɛ ho nkɔmmɔbɔ ankasa nhyia so."
+      }
+    ]
+  }
+}

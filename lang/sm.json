@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Pulea ma fa'atupu lau pisinisi",
+    "home_desc": "All-in-one platform with web and mobile solutions for distribution, sales, logistics, purchasing, inventory and finance.",
+    "products_title": "Oloa | FullVendor",
+    "products_desc": "Ia iloa le siosiomaga faanatura FullVendor: tulaga faapisinisi, ERP, logistics, sapalai ma faatau, faleteuoloa ma mea tau tupe.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Fofo | FullVendor",
+    "solutions_desc": "Fofo mo pulega faapisinisi, malosi fa'atau, faleteuoloa, fa'atauga, fa'atau ma tupe.",
+    "industries_title": "Alamanuia | FullVendor",
+    "industries_desc": "FullVendor mo tufatufaga, faʻatau, meaʻai, fale talavai, meafaigaluega, faʻaaogaina tele, gaosiga ma maila mulimuli.",
+    "pricing_title": "Tau | FullVendor",
+    "pricing_desc": "Fuafuaga Taua, Tomai Fa'apitoa ma Autasi. O le talosaga e tu'u fa'atasi e tusa ai ma modules, fa'aoga ma le voluma.",
+    "resources_title": "Punaoa | FullVendor",
+    "resources_desc": "O taʻiala pupuu e tuʻufaʻatasia le tufatufaina atu, faʻatau atu tuusao, faʻatulaga le faleteuoloa ma totogi i le taimi.",
+    "contact_title": "Fa'afeso'ota'i | FullVendor",
+    "contact_desc": "Tusi mai ia i matou e aoao e uiga i le FullVendor pe faamaopoopo se talanoaga ma le au faatau.",
+    "demo_title": "Talosaga demo | FullVendor",
+    "demo_desc": "Talosagaina se fa'ata'ita'iga o le FullVendor ma ta'amilo i le tulaga fa'atasi ma se mataupu e tutusa ma lau fa'agaioiga.",
+    "privacy_title": "Fa'alilolilo | FullVendor",
+    "terms_title": "Tulaga | FullVendor",
+    "search_title": "Su'e | FullVendor",
+    "notfound_title": "Le maua itulau | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Itulau fale",
+    "products": "Oloa",
+    "solutions": "Tali",
+    "industries": "Alamanuia",
+    "pricing": "Tau",
+    "resources": "Punaoa",
+    "contact": "Fa'afeso'ota'i",
+    "open_menu": "Tatala le lisi",
+    "close": "Tapuni"
+  },
+  "cta": {
+    "demo": "Talosaga Demo",
+    "contact": "Faafesootai matou",
+    "video": "Matamata Vitio",
+    "talk": "Talanoa i fa'atau",
+    "all_products": "Va'ai oloa uma",
+    "home": "Toe foi i le itulau autu"
+  },
+  "a11y": {
+    "skip": "Fa'asolo ile anotusi",
+    "primary": "Tautai autu",
+    "crumbs": "Auala tautai",
+    "search": "Sue ane",
+    "language": "Gagana"
+  },
+  "hero": {
+    "eyebrow": "O mea uma i le tulaga e tasi",
+    "title": "Pulea ma tuputupu ae\nlau pisinisi ma\n{{brand}}",
+    "subtitle": "O se fa'avae atoatoa ma fofo i luga ole laiga ma telefoni feavea'i mo tufatufaga, fa'atauga, fa'atauga, fa'atauga, su'esu'ega, tupe ma isi mea.",
+    "pill_ecosystem": "Mea uma i totonu o se tasi fa'anatura",
+    "pill_cloud": "I totonu o le ao, malupuipuia ma faʻalauteleina",
+    "pill_size": "Mo kamupani o ituaiga uma"
+  },
+  "products_block": {
+    "eyebrow": "O a matou oloa",
+    "title": "O se [[maea atoatoa]] mo vaega taitasi o lau pisinisi",
+    "aside": "Fofo tu'ufa'atasi e galulue fa'atasi e tu'uina atu ia te oe le fa'atonuga atoatoa, lelei fa'agaioiga ma le fa'atupulaia atili.",
+    "groups": {
+      "money": "Pulega ma le aoina",
+      "flow": "Fa'atauga ma tilivaina",
+      "field": "Fa'atauga ma faleteuoloa"
+    }
+  },
+  "products_page": {
+    "title": "E fitu oloa, [[fa'agaogao tasi]]",
+    "text": "O oloa taitasi e foia se vaega. Fa'atasi latou fa'asoa fa'atau, fa'asoa, oka ma totogi."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Fa'avae",
+      "card": "Autu autu mo pulega faapisinisi ma tufatufaga.",
+      "features": [
+        "Fa'atauga ma fa'atau",
+        "Inventory",
+        "Tagata fa'atau ma fa'atau",
+        "Lipoti ma isi mea"
+      ],
+      "lead": "Le totonugalemu o lau gaioiga faʻapisinisi: oka, tau, faʻasoa ma tagata faʻatau i se nofoaga e tasi.",
+      "about": "FullVendor e suitulaga ai le tufatufaina atu o laupepa ma faiga. Mai i'inei e sau ai oka, fa'atalanoaina su'esu'ega, va'aia lelei le fa'atau oloa ma va'ai numera o le aso. O le isi vaega o le siosiomaga fa'anatura e feso'ota'i i lea fa'avae.",
+      "benefits": [
+        {
+          "title": "Se tasi matai faamatalaga",
+          "text": "O tagata fa'atau, oloa ma tau o lo'o fa'asoa fa'atasi ma fa'atau, faleteuoloa ma tupe."
+        },
+        {
+          "title": "Fa'amama galuega i aso uma",
+          "text": "O fa'atonuga, fa'atauga ma fa'asoa e taofi le ola i faila eseese."
+        },
+        {
+          "title": "Lipoti e filifili ai",
+          "text": "O fa'atauga, fa'atauga ma fa'atalitali e va'aia e aunoa ma le tu'u fa'atasi o se laulau i lima."
+        },
+        {
+          "title": "Sauni e tupu",
+          "text": "Logistics, fa'atauga po'o le ERP aofa'i pe a mana'omia e le ta'aloga."
+        }
+      ],
+      "audience": "Fa'apisinisi ma tufatufa 'au o lo'o fa'amaopoopoina le pisinisi i le va o nisi faiga."
+    },
+    "erp": {
+      "kicker": "Pulega",
+      "card": "Fa'atonu fa'atonuga ma le fa'atupe.",
+      "features": [
+        "Tausitusi",
+        "Fa'aeletonika pili",
+        "Pepa o galuega",
+        "Aseta tumau",
+        "Tele-kamupani"
+      ],
+      "lead": "Pulega ma mea tau tupe, e ogatasi ma mea o lo'o fa'atau atu ma tu'uina atu.",
+      "about": "FullVendor ERP e aofia ai le tausiga o tusi, pili faaeletonika, totogi, aseta tumau ma le tele o kamupani. E mana'omia le fa'agaioiga fa'apisinisi ma fa'aliliu i fa'amaumauga, lisiti ma fa'amatalaga e mafai ona fa'aogaina e le vaega tau tupe.",
+      "benefits": [
+        {
+          "title": "Feso'ota'i fa'amatalaga tau tupe",
+          "text": "O le a le mea e tupu i le faʻatau ma le faʻatau e fafaga ai le tausitusi."
+        },
+        {
+          "title": "Resiti faaeletonika",
+          "text": "E te tu'uina atu ma pulea pili mai le si'osi'omaga tutusa."
+        },
+        {
+          "title": "Kamupani eseese",
+          "text": "Tele-kamupani mo vaega o lo'o fa'agaioi i lalo ole igoa ole kamupani e sili atu ma le tasi."
+        },
+        {
+          "title": "Totogi ma aseta",
+          "text": "Totogi ma aseta tumau faatasi ai ma isi vaega o le pulega."
+        }
+      ],
+      "audience": "Pulega ma vaega tau tupe e manaʻo e tapunia numera ma le gaioiga moni."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Puleaina ma mata'ituina lau fa'agaioiga.",
+      "features": [
+        "Auala ma tiliva",
+        "Su'e taimi moni",
+        "Tofiga aveta'avale",
+        "Fa'atonu auala"
+      ],
+      "lead": "Mai le faʻatonuga i le tuʻuina atu: auala, avetaʻavale ma suʻesuʻega taimi moni.",
+      "about": "FullVendor Logistics faatulagaina le tufatufaina. E te faia auala, tofia avetaʻavale ma vaʻai poʻo fea e alu i ai taʻitasi. E taofi le au taʻavale e faʻatatau i telefoni e suʻe pe ua lafo le oka.",
+      "benefits": [
+        {
+          "title": "Auala o le aso",
+          "text": "Tiliva fa'atonu e le sone, taimi fa'amalama ma le gafatia."
+        },
+        {
+          "title": "Avetaavale tofia",
+          "text": "O auala taʻitasi e iai se tagata e pule ma se faʻasologa manino."
+        },
+        {
+          "title": "Mulimuli ai",
+          "text": "E te iloa le mea e tuʻuina atu, i luga o le ala pe taofi."
+        },
+        {
+          "title": "Laiti kilomita",
+          "text": "Ole fa'alelei ole auala e fa'aitiitia ai le taimi ma le tau."
+        }
+      ],
+      "audience": "Fa'asoa fa'agaioiga fa'atasi ma a latou va'a po'o isi vaega."
+    },
+    "supplier": {
+      "kicker": "Fa'atauga",
+      "card": "Portal mo tagata faʻatau oloa ma faʻatauga faʻatau.",
+      "features": [
+        "Poloaiga fa'atau",
+        "Upusii",
+        "Puleaina o le aufaipisinisi",
+        "Tu'ufa'atasi ma su'esu'ega"
+      ],
+      "lead": "O lo'o fa'atau mai e au fa'atau oloa, maua oka ma fa'atumu fa'asoa e aunoa ma ni imeli ta'avale.",
+      "about": "Vendor Supplier tatala se faitoto'a mo fa'atauga ma fa'atau oloa e galulue i luga o oka tutusa. O upusii, fa'atauga fa'atau ma lisiti o lo'o noatia i le fa'amaumauga a le FullVendor.",
+      "benefits": [
+        {
+          "title": "Poloaiga i se alalaupapa",
+          "text": "E va'ai e le fa'atau oloa mea e momoli, e aunoa ma se filifili imeli."
+        },
+        {
+          "title": "Fa'atusa upusii",
+          "text": "E te fesili mo tau ma filifili ma le talafaasolopito o loʻo vaʻaia."
+        },
+        {
+          "title": "Pule Sili",
+          "text": "Tulaga, feso'ota'iga ma fa'atali i se fa'amaumauga e tasi."
+        },
+        {
+          "title": "Ulufale i le lisi",
+          "text": "O mea na fa'atauina o lo'o fa'aalia i le fa'asoa pe a maua."
+        }
+      ],
+      "audience": "Fa'atau 'au e fa'atumu i le tele o fa'atau oloa ma mana'omia le su'esu'eina."
+    },
+    "salesman": {
+      "kicker": "Telefoni feavea'i",
+      "card": "Talosaga feavea'i mo 'au fa'atau.",
+      "features": [
+        "Puleaina o tagata faatau",
+        "Fa'atonuga",
+        "Fa'amaumauga o oloa",
+        "Galuega e leai se initaneti"
+      ],
+      "lead": "E ave e le au fa'atau oloa ni oka i luga o le auala, pe i ai pe leai se fa'ailo.",
+      "about": "FullVendor Sales Man tu'u lau faila, fa'amaumauga ma oka e ave ile telefoni a le tagata fa'atau. Afai e leai se initaneti, e faʻaauau pea le galuega ma faʻatasi pe a toe foʻi mai le faailo. Ua taunuu le oka ua sauni e tapena ma avatu.",
+      "benefits": [
+        {
+          "title": "Atotupe i totonu o le taga",
+          "text": "E va'aia e le fa'atau tagata fa'atau, tulaga ma mea o lo'o fa'atali."
+        },
+        {
+          "title": "Poloaiga ile asiasiga",
+          "text": "Fai le oka ma tau o lo'o iai nei ma fa'asoa."
+        },
+        {
+          "title": "Fa'amaumauga fa'aonaponei",
+          "text": "O oloa, fa'aaliga ma tau e aunoa ma se PDF tuai."
+        },
+        {
+          "title": "Moni tuimotu",
+          "text": "Galue e aunoa ma se inisiua ma fa'amaopoopo mulimuli ane."
+        }
+      ],
+      "audience": "Supervisor ma tagata fa'atau fanua i le tufatufaina ma le tele o taumafa."
+    },
+    "warehouse": {
+      "kicker": "Telefoni feavea'i",
+      "card": "Talosaga feaveai mo faleteuoloa.",
+      "features": [
+        "Taliaina ma le auina atu",
+        "Filifili ma teu",
+        "Pulea fa'amaumauga",
+        "Faitauina o Barcode"
+      ],
+      "lead": "Taliaina, pikiina ma auina atu i le telefoni ma le barcode.",
+      "about": "FullVendor Warehouse taʻitaʻia le faleteuoloa i le taliaina, pikiina, faʻapipiʻiina ma le lafoina. O tulafono ole faitau e fa'aitiitia ai mea sese ma ua le toe faitauina fa'amaumauga ile fa'ai'uga o le masina.",
+      "benefits": [
+        {
+          "title": "Taliaina e faasaga i le poloaiga",
+          "text": "O le mea e ulufale mai e faʻatusatusa i le faʻatau."
+        },
+        {
+          "title": "Filifiliga fa'atatau",
+          "text": "E mulimuli le pule o le va'a i le fa'atonuga ma fa'amaonia mea ta'itasi."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Laiti oloa, vaega po'o le tele o mea sese."
+        },
+        {
+          "title": "Fa'atuatuaina fa'asoa",
+          "text": "O gaioiga ta'itasi e fa'afou ai fa'amaumauga a le tulaga."
+        }
+      ],
+      "audience": "Pule o faleteuoloa ma tagata e ona va'a o lo'o saunia i aso nei oka ma lisi lolomi."
+    },
+    "finance": {
+      "kicker": "Telefoni feavea'i",
+      "card": "Pulea tau tupe mai lau telefoni feaveai.",
+      "features": [
+        "O tupe maua ma totogi",
+        "Tulaga tagata fa'atau",
+        "Totogi ma faaleleiga",
+        "Lipoti tau tupe"
+      ],
+      "lead": "O tupe maua mai, totogi ma tulaga fa'atau, mai lau telefoni.",
+      "about": "FullVendor Finance o lo'o fa'aalia ai le aoina i luga o le telefoni feavea'i: mea o lo'o nofo aitalafu ai tagata ta'ito'atasi, mea o le a totogi e le kamupani ma pe fa'afefea ona totogi. E faʻaaogaina e aoina ai tupe i le taimi o le asiasiga ma vaʻai i le pusa tupe e aunoa ma le tatalaina o le kesi.",
+      "benefits": [
+        {
+          "title": "Aoina i le asiasiga",
+          "text": "E iloa e le tagata fa'atau pe fa'afou le tagata fa'atau a'o le'i fa'atau atu."
+        },
+        {
+          "title": "Totogi ma totogi",
+          "text": "Itu uma e lua o le pusa i le app lava e tasi."
+        },
+        {
+          "title": "Totogi ma faaleleiga",
+          "text": "E te lesitala credits ma va'ai mea e tatau ona laasia."
+        },
+        {
+          "title": "Lipoti ua lata mai",
+          "text": "Aoina ma fa'ailoga tinoitupe e aunoa ma le fa'atali mo se tapuni."
+        }
+      ],
+      "audience": "Pule, aoina ma tagata fa'atau e mana'omia le tulaga o le kalani i le taimi nei."
+    }
+  },
+  "why": {
+    "eyebrow": "Aisea FullVendor",
+    "title": "Fa'ateleina lau pisinisi\nma taunuuga moni",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "E faatuatuaina i matou e Kamupani"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Tagata fa'aoga malosi"
+      },
+      {
+        "value": "+10",
+        "suffix": "tausaga",
+        "label": "I le evolusione faifaipea"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Avanoa ao"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "E faapefea ona galue",
+    "title": "Mai le faʻatau atu i le aoina, e aunoa ma le suia o faiga",
+    "text": "O oloa ta'itasi e fa'asoa tagata fa'atau, fa'asoa, oka ma totogi. O le mea e tupu i luga o le auala poʻo totonu o le fale teu oloa e faʻaalia i le ofisa vave.",
+    "steps": {
+      "sell": {
+        "title": "E te fa'atau atu",
+        "text": "O le fa'atonuga e tu'uina atu i luga o le upega tafa'ilagi po'o le Sales Man, tusa lava pe leai se fa'ailoga."
+      },
+      "pick": {
+        "title": "Sauni",
+        "text": "Warehouse maua, tuueseeseina ma auina atu i le barcode."
+      },
+      "deliver": {
+        "title": "Tilivaina",
+        "text": "Logistics tofia le auala ma mulimuli i le tuʻuina atu."
+      },
+      "collect": {
+        "title": "Cobra",
+        "text": "Finance ma le ERP tapunia le aoina, lisiti ma numera."
+      }
+    }
+  },
+  "band": {
+    "title": "Ua sauni e va'ai i ai i [[lou ta'aloga]]?",
+    "text": "Matou te fa'aali atu ia te oe le si'osi'omaga o lo'o iai se pusa fa'asoa e tutusa ma oe."
+  },
+  "footer": {
+    "blurb": "Upega tafa'ilagi ma telefoni feavea'i mo tufatufaga, fa'atauga, fa'atauga, fa'atauga, su'esu'ega ma tupe.",
+    "products": "Oloa",
+    "company": "Kamupani",
+    "legal": "Fa'aletulafono",
+    "privacy": "Fa'alilolilo",
+    "terms": "Tulaga",
+    "rights": "Ua taofia aia tatau uma."
+  },
+  "solutions": {
+    "eyebrow": "Tali",
+    "title": "O vaega ta'itasi, e feso'ota'i i le [[fa'agaoga tutusa]]",
+    "intro": "Filifili i le faʻafitauli e te manaʻo e foia. I tua, o oloa e faʻasoa faʻamatalaga tutusa.",
+    "items": {
+      "commercial": {
+        "title": "Pulega tau pisinisi",
+        "text": "Poloaiga, tau, tagata fa'atau ma fa'amaumauga mo tufatufaga i lea aso ma lea aso."
+      },
+      "field": {
+        "title": "fa'atau oloa",
+        "text": "Fa'atau oloa e ave oka i luga o le alatele, lugalaina po'o le tuimotu."
+      },
+      "warehouse": {
+        "title": "Faleoloa",
+        "text": "Taliaina, pikiina, lafo ma se fa'asoa e mafai ona fa'atuatuaina."
+      },
+      "logistics": {
+        "title": "Logistics ma tilivaina",
+        "text": "Auala, avetaavale ma le tulaga o tiliva taitasi."
+      },
+      "purchasing": {
+        "title": "Fa'atauga ma fa'atau",
+        "text": "Fa'amatalaga, oka ma se faitoto'a mo so'o se tasi e tu'uina atu ia te oe."
+      },
+      "finance": {
+        "title": "Tupe ma tausitusi",
+        "text": "Aoina, totogi, pili fa'akomepiuta ma fa'amaumauga."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Alamanuia",
+    "title": "Faia mo i latou e [[siitia oloa]]",
+    "intro": "FullVendor na fanau i le tufatufaina ma faʻatasi ma kamupani e faʻatau, faʻatau, faʻatau atu ma tiliva.",
+    "items": {
+      "wholesale": {
+        "title": "Fa'asoa ma fa'atau si'iatoa",
+        "text": "Lisi o tau, faila, tufatufaina ma le aoina i se matagaluega e tasi."
+      },
+      "retail": {
+        "title": "Fa'atauoloa",
+        "text": "Faleoloa ma faleteuoloa faʻatasi ma faʻatauga fesoʻotaʻi, faʻatau ma toe faʻatumu."
+      },
+      "food": {
+        "title": "Mea'ai ma meainu",
+        "text": "Auala masani ma se faleteuoloa e le mafai ona taofi."
+      },
+      "pharma": {
+        "title": "Faletalavai ma tausiga a le tagata lava ia",
+        "text": "Taliaina, pikiina ma le fa'atonuga o su'esu'ega fa'atasi ai ma le su'esu'eina."
+      },
+      "hardware": {
+        "title": "Meafaigaluega ma faufale",
+        "text": "Le tele o faʻamatalaga, faʻatau oloa ma tiliva i galuega poʻo faleoloa."
+      },
+      "fmcg": {
+        "title": "Fa'atauga tele",
+        "text": "Fa'atauga auala ma suiga maualuga maualuga."
+      },
+      "manufacturing": {
+        "title": "Gaosimea",
+        "text": "Fa'atauga, faleteuoloa ma su'esu'ega e fetaui lelei ma le pulega."
+      },
+      "lastmile": {
+        "title": "Tiliva ma maila mulimuli",
+        "text": "Auala, avetaavale ma le tulaga o tiliva taitasi."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Punaoa",
+    "title": "Fa'amanino manatu e [[fa'atonu le ta'aloga]]",
+    "intro": "Ta'iala pupuu mo pule fa'asoa o le a filifili po'o fea faiga e pipi'i iai.",
+    "items": {
+      "unify": {
+        "title": "Fa'afefea ona tu'ufa'atasia le tufatufaina i se faiga e tasi",
+        "summary": "O le a le mea e tuʻufaʻatasia muamua pe a nonofo faʻatau, faleteuoloa ma aoina i faila eseese.",
+        "points": [
+          "Amata i tagata faʻatau, oloa ma tau: o latou o le faiaoga e faʻaaogaina e tagata uma.",
+          "Fa'afeso'ota'i le fa'atonuga ma le fa'asoa a'o le'i fa'aopoopo nisi tusi talosaga.",
+          "E fuaina se numera faigofie: faʻataunuʻuina poloaiga e aunoa ma le toe faia o le pepa."
+        ]
+      },
+      "offline": {
+        "title": "O lo'o galulue fa'atau atu i fafo",
+        "summary": "O le a le mea e manaʻomia mai se faʻatonuga app ina ia le tu le tagata faʻatau ona o le faailo.",
+        "points": [
+          "O le lisi ma le atotupe e tatau ona i luga o le telefoni, ae le na o le ao.",
+          "O le faʻatonuga e faʻasaoina i luga o le masini ma faʻapipiʻi pe a toe foʻi mai le fesoʻotaʻiga.",
+          "Pe a fa'amaopoopo, ua uma ona ulufale le fa'atonuga i le faleteuoloa."
+        ]
+      },
+      "warehouse": {
+        "title": "Faleteuoloa ma barcode, e aunoa ma se pepa",
+        "summary": "E faʻafefea ona alu mai le lisi lolomi e faʻamaonia le pikiina i luga o le telefoni.",
+        "points": [
+          "Maua e faasaga i le oka faatau, ae le o le manatua.",
+          "Faamautu mea taitasi pe a tuueseese. Ua tipi le pusi i totonu o le alatele.",
+          "O le fa'asalalauga e fa'afou le fa'asoa e va'aia e le tagata fa'atau."
+        ]
+      },
+      "finance": {
+        "title": "Aoina e ogatasi ma le fa'atau",
+        "summary": "Aisea e tatau ai i le tagata fa'atau ona va'ai le aitalafu a le tagata fa'atau a'o le'i faia se isi oka.",
+        "points": [
+          "O le asiasiga o le taimi sili lea e aoina ai, pe a iloa le aitalafu.",
+          "Fa'atauga ma tupe e tatau ona va'ava'ai i le tagata fa'atau e tasi.",
+          "Ole lipoti ole aso ua tuai e sili atu lona aoga nai lo le tuai ona tapunia."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Tau",
+    "title": "O se si'osi'omaga e [[tupu fa'atasi ma oe]]",
+    "intro": "Matou te le lolomiina se fua faʻatatau: o le tau e faʻalagolago i modules, tagata faʻaoga ma le voluma. Matou te faʻaali atu ia te oe le faʻavae ma tuʻu faʻatasi se talosaga ma lau gaioiga.",
+    "note": "O le demo e leai se tau ma e le manaʻomia se konekarate.",
+    "recommended": "Fautuaina",
+    "faq_title": "Fesili e fai soo",
+    "plans": {
+      "essential": {
+        "name": "Taua",
+        "desc": "Le faʻatulagaina o pulega faʻapisinisi ma tufatufa atu i luga o se tulaga e tasi.",
+        "features": [
+          "FullVendor upega tafa'ilagi",
+          "Fa'atauga, fa'atau ma fa'amaumauga",
+          "Tagata fa'atau, fa'atau oloa ma lipoti",
+          "Tagata fa'aoga meafaigaluega a le Ofisa",
+          "Lagolago amata"
+        ],
+        "cta": "Talosaga Demo"
+      },
+      "professional": {
+        "name": "Faapolofesa",
+        "desc": "Mo 'au e fa'atau atu i luga o le auala ma saunia oka i le faleteuoloa.",
+        "features": [
+          "Mea uma e Taua",
+          "Fa'aoga FullVendor Sales Man",
+          "Fa'aoga FullVendor Warehouse",
+          "Galuega tuusao ma barcodes",
+          "Tele fa'aoga fanua ma faleteuoloa"
+        ],
+        "cta": "Talosaga Demo"
+      },
+      "corporate": {
+        "name": "Kamupani",
+        "desc": "Mo vaega e manaʻomia logistics, faʻatau, tupe ma kamupani eseese.",
+        "features": [
+          "Fa'anatura atoatoa",
+          "Logistics, Vendor Supplier ma le Finance",
+          "FullVendor ERP ma le tele o mautotogi",
+          "Fa'akomepiuta pili ma fa'amaumauga",
+          "Fa'atasi ma avanoa fa'amuamua"
+        ],
+        "cta": "Talanoa i fa'atau"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "E tatau ona ou faatauina uma oloa?",
+        "a": "Leai. E mafai ona e amata i le FullVendor ma fa'aopoopo apps po'o le ERP pe a mana'omia e le taotoga."
+      },
+      "offline": {
+        "q": "E galue ia tusi talosaga e aunoa ma se initaneti?",
+        "a": "Sales Man ma le Warehouse fa'aauau pea ona galue e aunoa ma se fa'ailo ma fa'amaopoopo pe a toe fa'afeso'ota'i."
+      },
+      "multi": {
+        "q": "E aoga pe a sili atu ma le tasi a'u kamupani?",
+        "a": "Ioe. ERP mafaufau i le tele o kamupani ma e mafai e le si'osi'omaga ona fa'asoa matai i lo latou va."
+      },
+      "demo": {
+        "q": "O le a le mea e aofia ai i le demo?",
+        "a": "O se maimoaga i luga o le tulaga ma se pusa e tutusa ma oe. Leai se tau ma leai se noataga."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Fa'aaliga",
+    "title": "Matou te fa'aali atu ia te oe le FullVendor ma [[lou ituaiga o galuega]]",
+    "text": "Ta'u mai e uiga i lau kamupani ma mea e te mana'o e oka muamua. E leai se tau o le demo."
+  },
+  "contact": {
+    "eyebrow": "Fa'afeso'ota'i",
+    "title": "Tatou talanoa e uiga i [[lou taotoga]]",
+    "text": "Afai e te manaʻo i se faʻataʻitaʻiga, se talosaga pe naʻo le faʻavasegaina oe lava i le va o oloa, tuʻu lau faʻamatalaga ma o le a matou tali atu.",
+    "email": "Meli",
+    "phone": "Telefoni",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Igoa",
+    "email": "Meli",
+    "phone": "Telefoni",
+    "company": "Kamupani",
+    "country": "Atunuu",
+    "team": "Tele 'au",
+    "interest": "O le a le mea e te fiafia i ai?",
+    "message": "Savali",
+    "optional": "Filifili",
+    "choose": "Filifili",
+    "interest_all": "Le fa'anatura uma",
+    "ph_name": "lou igoa",
+    "ph_email": "oe@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Lau kamupani",
+    "ph_country": "Atunuu",
+    "ph_message": "Ta'u mai pe faapefea ona e fa'agaioi i le aso",
+    "privacy_before": "Ou te talia le faʻaogaina o aʻu faʻamatalaga e tusa ai ma le",
+    "privacy_after": ".",
+    "submit": "Auina atu talosaga",
+    "sent_title": "Matou te maua lau talosaga",
+    "sent_text": "Fa'afetai. O le a tusi atu le au faʻatau ia te oe e faʻamaopoopo le faʻataʻitaʻiga pe tali lau fesili.",
+    "error_required": "Fa'auma lenei fanua.",
+    "error_email": "Ulufale se imeli aoga.",
+    "error_phone": "Siaki le telefoni.",
+    "error_privacy": "Matou te mana'omia lau fa'atagaga e fa'aoga fa'amatalaga fa'afeso'ota'i.",
+    "error_csrf": "Ua uma le sauniga. Toe lafo atu le fomu.",
+    "error_save": "Sa le mafai ona matou faasaoina le talosaga. Toe taumafai.",
+    "error_generic": "Toe iloilo fanua ua faailogaina.",
+    "error_rate": "Fa'amolemole fa'atali mo sina taimi a'o le'i tu'uina atu se isi talosaga.",
+    "team_options": {
+      "1-10": "1 i le 10 tagata",
+      "11-50": "11 i le 50 tagata",
+      "51-200": "51 i le 200 tagata",
+      "201-500": "201 i le 500 tagata",
+      "500+": "E silia ma le 500 tagata"
+    }
+  },
+  "video": {
+    "title": "FullVendor i le minute e tasi",
+    "prev": "Muamua",
+    "next": "Mulimuli",
+    "slides": [
+      {
+        "title": "Se tasi fa'anatura",
+        "text": "Fa'atauga, faleteuoloa, tu'uina atu, fa'atauga ma tupe fa'asoa fa'atau, fa'asoa ma fa'atonuga."
+      },
+      {
+        "title": "Uepi ma feaveai faatasi",
+        "text": "E galue le ofisa i luga o le tulaga. Le auala ma le faleteuoloa, i totonu o polokalama, e tusa lava pe leai se faailo."
+      },
+      {
+        "title": "Faia e tufatufa",
+        "text": "Mai le faʻatonuga i le totogiina, e aunoa ma le pasiina o faʻamatalaga mai le tasi faila i le isi."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Su'e oloa, fofo, alamanuia...",
+    "lang_filter": "Su'e gagana",
+    "intro": "Su'e oloa, fofo, alamanuia ma punaoa.",
+    "empty": "Matou te le'i mauaina i'uga mo le “{q}”.",
+    "hint": "Taumafai fa'atau, faleteuoloa, auala po'o aoina.",
+    "results": "{n} i'uga",
+    "button": "Sue ane",
+    "kind_product": "Oloa",
+    "kind_solution": "Fofo",
+    "kind_industry": "Alamanuia",
+    "kind_resource": "Punaoa"
+  },
+  "notfound": {
+    "title": "O lenei itulau e leai",
+    "text": "E le o iai le so'oga pe ua suia le nofoaga."
+  },
+  "common": {
+    "what": "O le a le mea e foia ai",
+    "features": "O mea e aofia ai",
+    "benefits": "Aisea e taua ai",
+    "for_who": "O ai mo ai?",
+    "related": "Fa'apea fo'i i le fa'anatura"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Fa'atauga i aso nei",
+      "orders": "Poloaiga",
+      "clients": "Tagata fa'atau",
+      "products": "Oloa"
+    },
+    "sidebar": {
+      "dashboard": "Laupapa laupapa",
+      "sales": "Fa'atauga",
+      "purchases": "Fa'atauga",
+      "inventory": "Inventory",
+      "clients": "Tagata fa'atau",
+      "reports": "Lipoti"
+    },
+    "chart": "Fa'atauga",
+    "channel": "Fa'asoa ile alaleo",
+    "channels": [
+      "Faleoloa",
+      "Fa'asoa",
+      "Fa'atau oloa siisii",
+      "O isi"
+    ],
+    "orders": "Poloaiga lata mai",
+    "col_order": "Poloaiga",
+    "col_client": "Tagata fa'atau",
+    "col_status": "Setete",
+    "col_total": "Aofa'iga",
+    "status": [
+      "Tuuina atu",
+      "I le ala",
+      "Tautaliga"
+    ],
+    "top": "Fa'atau oloa sili ona lelei",
+    "product": "Oloa",
+    "sales_menu": [
+      "Tagata fa'atau",
+      "Poloaiga",
+      "Oloa",
+      "Auala",
+      "Fa'atasi"
+    ],
+    "warehouse_menu": [
+      "Taliaina",
+      "Filifiliga",
+      "Inventory",
+      "Auina atu",
+      "Fa'atasi"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Faiga Fa'alilolilo",
+    "privacy_intro": "O lenei faiga fa'avae o lo'o fa'amatalaina ai mea matou te faia i fa'amaumauga e te tu'uina i fomu i luga o lenei saite.",
+    "privacy": [
+      {
+        "title": "O a faʻamatalaga matou te aoina",
+        "text": "Afai e te talosagaina se faʻataʻitaʻiga pe tusi mai ia i matou, matou te faʻasaoina le igoa, kamupani, imeli, numera telefoni pe a e faʻaalia, le atunuʻu, le tele o le 'au, le oloa o le fiafia ma le feʻau. Matou te faamaumauina foi le aso, le gagana o le itulau ma le tuatusi IP, e taofia ai le tuʻuina atu o mea leaga."
+      },
+      {
+        "title": "O le a le mea tatou te faʻaaogaina ai?",
+        "text": "Matou te fa'aogaina nei fa'amatalaga na'o le tali atu ia te oe, fa'amaopoopo se fa'ata'ita'iga ma saunia se talosaga fa'apisinisi. Matou te le faʻatau atu pe tuʻuina atu i latou i se lisi o isi vaega."
+      },
+      {
+        "title": "O fea e teu ai ma o le a le umi?",
+        "text": "O talosaga o lo'o teuina i luga ole 'upega tafa'ilagi. Matou te teuina mo le taimi talafeagai e tautua ai oe ma le tulitatao faapisinisi, ma matou tapeina pe a e fai mai ia i matou pe a le toe manaʻomia."
+      },
+      {
+        "title": "O au aia tatau",
+        "text": "E mafai ona e talosagaina le avanoa, faasa'oga po'o le tapeina o au fa'amatalaga mai le fomu fa'afeso'ota'i, fa'ailoa i le fe'au. Afai e lolomi e le kamupani se imeli i luga o lenei upega tafaʻilagi, e mafai foi ona e tusi iina."
+      }
+    ],
+    "terms_title": "Tulaga fa'aoga",
+    "terms_intro": "O nei aiaiga e fa'atatau i le fa'aogaina o lenei FullVendor nofoaga tu'uina atu.",
+    "terms": [
+      {
+        "title": "Fa'amatalaga fa'apisinisi",
+        "text": "O tusitusiga, faʻataʻitaʻiga faʻataʻitaʻiga dashboard ma faʻamatalaga faʻalauiloa le faʻavae. E mafai ona fetuunai pe a suia le oloa ma e le o se ofo tapunia."
+      },
+      {
+        "title": "O le demo e le o se konekarate",
+        "text": "O le tu'uina atu o le pepa e le faia ai se noataga e fa'atau pe fa'aagaga se tau. So'o se konekarate e malilie fa'atasi, i se faiga tusitusia, ma lona lautele ma aiaiga."
+      },
+      {
+        "title": "Fa'amatalaga i luga ole laiga",
+        "text": "O le FullVendor fa'ailoga fa'ailoga, igoa o oloa ma mea o lo'o i totonu o nei itulau e patino ia i latou e ona. E le mafai ona kopi e tu'u atu se isi oloa."
+      },
+      {
+        "title": "Fa'aoga talafeagai",
+        "text": "Aua le fa'aogaina fomu e lafo ai fa'amatalaga sese, spam po'o mea e le tusa ai ma tulafono. Atonu tatou te le amanaiaina talosaga e le fetaui ma se talanoaga faapisinisi moni."
+      }
+    ]
+  }
+}

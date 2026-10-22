@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Bestuur en groei jou besigheid",
+    "home_desc": "Alles-in-een platform met web- en mobiele oplossings vir verspreiding, verkope, logistiek, aankope, voorraad en finansies.",
+    "products_title": "Produkte | FullVendor",
+    "products_desc": "Leer ken die ekosisteem FullVendor: kommersiële platform, ERP, logistiek, verskaffers en verkope, pakhuis- en finansiële toepassings.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Oplossings | FullVendor",
+    "solutions_desc": "Oplossings vir kommersiële bestuur, verkoopsmag, pakhuis, logistiek, aankope en finansies.",
+    "industries_title": "Nywerhede | FullVendor",
+    "industries_desc": "FullVendor vir verspreiding, kleinhandel, voedsel, apteek, hardeware, massaverbruik, vervaardiging en laaste myl.",
+    "pricing_title": "Pryse | FullVendor",
+    "pricing_desc": "Noodsaaklike, professionele en korporatiewe planne. Die voorstel word saamgestel volgens modules, gebruikers en volume.",
+    "resources_title": "Hulpbronne | FullVendor",
+    "resources_desc": "Kort gidse om verspreiding te verenig, vanlyn te verkoop, die pakhuis te organiseer en betyds betaal te word.",
+    "contact_title": "Kontak | FullVendor",
+    "contact_desc": "Skryf aan ons om meer te wete te kom oor FullVendor of koördineer 'n gesprek met die verkoopspan.",
+    "demo_title": "Versoek demo | FullVendor",
+    "demo_desc": "Versoek 'n demonstrasie van FullVendor en toer deur die platform met 'n saak soortgelyk aan jou operasie.",
+    "privacy_title": "Privaatheid | FullVendor",
+    "terms_title": "Terme | FullVendor",
+    "search_title": "Soek | FullVendor",
+    "notfound_title": "Bladsy nie gevind nie | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Tuisblad",
+    "products": "Produkte",
+    "solutions": "Oplossings",
+    "industries": "Nywerhede",
+    "pricing": "Pryse",
+    "resources": "Hulpbronne",
+    "contact": "Kontak",
+    "open_menu": "Maak spyskaart oop",
+    "close": "Maak toe"
+  },
+  "cta": {
+    "demo": "Versoek demo",
+    "contact": "Kontak ons",
+    "video": "Kyk Video",
+    "talk": "Praat met verkope",
+    "all_products": "Sien alle produkte",
+    "home": "Keer terug na tuisblad"
+  },
+  "a11y": {
+    "skip": "Slaan oor na inhoud",
+    "primary": "Hoofnavigasie",
+    "crumbs": "Navigasie roete",
+    "search": "Soek vir",
+    "language": "Taal"
+  },
+  "hero": {
+    "eyebrow": "Alles in een platform",
+    "title": "Bestuur en groei\njou besigheid met\n{{brand}}",
+    "subtitle": "'n Volledige platform met web- en mobiele oplossings vir verspreiding, verkope, logistiek, aankope, voorraad, finansies en meer.",
+    "pill_ecosystem": "Alles in 'n enkele ekosisteem",
+    "pill_cloud": "In die wolk, veilig en skaalbaar",
+    "pill_size": "Vir maatskappye van alle groottes"
+  },
+  "products_block": {
+    "eyebrow": "Ons produkte",
+    "title": "'n [[volledige ekosisteem]] vir elke area van jou besigheid",
+    "aside": "Geïntegreerde oplossings wat saamwerk om jou totale beheer, bedryfsdoeltreffendheid en groter groei te gee.",
+    "groups": {
+      "money": "Administrasie en invordering",
+      "flow": "Aankope en aflewering",
+      "field": "Verkope en pakhuis"
+    }
+  },
+  "products_page": {
+    "title": "Sewe produkte, [[enkelbewerking]]",
+    "text": "Elke produk los 'n area op. Saam deel hulle kliënte, voorraad, bestellings en betalings."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Hoofplatform vir kommersiële bestuur en verspreiding.",
+      "features": [
+        "Verkope en aankope",
+        "Voorraad",
+        "Kliënte en verskaffers",
+        "Verslae en meer"
+      ],
+      "lead": "Die middelpunt van jou kommersiële bedrywighede: bestellings, pryse, voorraad en kliënte op een plek.",
+      "about": "FullVendor vervang 'n verspreider se los sigblaaie en stelsels. Van hier af kom bestellings uit, voorraad word geraadpleeg, klantportefeulje word versorg en daar word na die dag se getalle gekyk. Die res van die ekosisteem verbind met hierdie basis.",
+      "benefits": [
+        {
+          "title": "'n Enkele datameester",
+          "text": "Kliënte, produkte en pryse word gedeel met verkope, pakhuise en finansies."
+        },
+        {
+          "title": "Duidelike daaglikse werking",
+          "text": "Bestellings, aankope en voorraad hou op om in verskillende lêers te leef."
+        },
+        {
+          "title": "Verslae om te besluit",
+          "text": "Verkope, marge en hangende word gesien sonder om 'n tabel met die hand saam te stel."
+        },
+        {
+          "title": "Gereed om te groei",
+          "text": "Logistiek, verkoopsmag of ERP somme wanneer die operasie dit versoek."
+        }
+      ],
+      "audience": "Kommersiële en verspreidingspanne wat vandag die besigheid tussen verskeie stelsels koördineer."
+    },
+    "erp": {
+      "kicker": "Administrasie",
+      "card": "Volledige administratiewe en finansiële bestuur.",
+      "features": [
+        "Rekeningkunde",
+        "Elektroniese faktuur",
+        "Werkkaarte",
+        "Vaste bates",
+        "Multi-maatskappy"
+      ],
+      "lead": "Administrasie en finansies, in lyn met wat werklik verkoop en gelewer word.",
+      "about": "FullVendor ERP dek rekeningkunde, elektroniese fakturering, betaalstate, vaste bates en multi-maatskappy. Dit neem die kommersiële operasie en omskep dit in inskrywings, kwitansies en state wat die finansiële area kan gebruik.",
+      "benefits": [
+        {
+          "title": "Gekoppelde rekeningkunde",
+          "text": "Wat gebeur in verkope en aankope voer rekeningkunde."
+        },
+        {
+          "title": "Elektroniese kwitansies",
+          "text": "Jy reik fakturering uit en beheer vanuit dieselfde ekosisteem."
+        },
+        {
+          "title": "Verskeie maatskappye",
+          "text": "Multi-maatskappy vir groepe wat onder meer as een maatskappy se naam funksioneer."
+        },
+        {
+          "title": "Betaalstate en bates",
+          "text": "Betaalstaat en vaste bates saam met die res van die bestuur."
+        }
+      ],
+      "audience": "Administratiewe en finansiële gebiede wat die getalle wil afsluit met die werklike operasie."
+    },
+    "logistics": {
+      "kicker": "Logistiek",
+      "card": "Beheer en monitering van jou logistieke operasie.",
+      "features": [
+        "Roetes en aflewerings",
+        "Intydse dop",
+        "Bestuurder opdrag",
+        "Roete-optimering"
+      ],
+      "lead": "Van bestelling tot aflewering: roetes, bestuurders en intydse dop.",
+      "about": "FullVendor Logistics organiseer die verspreiding. Jy skep roetes, wys bestuurders toe en sien waarheen elke aflewering gaan. Die verkeerspan stop na gelang van oproepe om uit te vind of die bestelling verskeep is.",
+      "benefits": [
+        {
+          "title": "Roetes van die dag",
+          "text": "Aflewerings bestel volgens sone, tydvenster en kapasiteit."
+        },
+        {
+          "title": "Toegewysde bestuurder",
+          "text": "Elke roete het 'n persoon in beheer en 'n duidelike volgorde."
+        },
+        {
+          "title": "Opvolg",
+          "text": "Jy weet wat afgelewer word, op pad of gestop word."
+        },
+        {
+          "title": "Minder kilometers",
+          "text": "Roete-optimalisering verminder afleweringstyd en -koste."
+        }
+      ],
+      "audience": "Verspreidingsbedrywighede met eie vloot of derde partye."
+    },
+    "supplier": {
+      "kicker": "Inkopies doen",
+      "card": "Portaal vir verskaffers en aankopebestuur.",
+      "features": [
+        "Koop bestellings",
+        "Aanhalings",
+        "Verskafferbestuur",
+        "Integrasie met voorraad"
+      ],
+      "lead": "Jou verskaffers kwoteer, ontvang bestellings en vul voorraad aan sonder los e-posse.",
+      "about": "Vendor Supplier maak 'n portaal oop vir aankope en verskaffers om op dieselfde bestellings te werk. Kwotasies, aankoopbestellings en kwitansies is gekoppel aan die inventaris van FullVendor.",
+      "benefits": [
+        {
+          "title": "Bestellings in 'n kanaal",
+          "text": "Die verskaffer sien wat om af te lewer, sonder 'n e-posketting."
+        },
+        {
+          "title": "Vergelykbare aanhalings",
+          "text": "Jy vra pryse en kies met die geskiedenis in die oog."
+        },
+        {
+          "title": "Verskaffer Meester",
+          "text": "Voorwaardes, kontakte en hangende in 'n enkele rekord."
+        },
+        {
+          "title": "Voer die voorraad in",
+          "text": "Wat gekoop is, word in die voorraad gereflekteer wanneer dit ontvang word."
+        }
+      ],
+      "audience": "Aankoopspanne wat by verskeie verskaffers aanvul en naspeurbaarheid benodig."
+    },
+    "salesman": {
+      "kicker": "Mobiele toepassing",
+      "card": "Mobiele toepassing vir verkoopspan.",
+      "features": [
+        "Kliëntebestuur",
+        "Bestelling neem",
+        "Produk katalogus",
+        "Vanlyn werk"
+      ],
+      "lead": "Die verkoopsmag neem bestellings op straat, met of sonder 'n sein.",
+      "about": "FullVendor Sales Man plaas jou portefeulje, katalogus en bestelling op die verkoper se foon. As daar geen internet is nie, gaan die werk voort en sinchroniseer wanneer die sein terugkeer. Die bestelling kom gereed om voor te berei en af ​​te lewer.",
+      "benefits": [
+        {
+          "title": "Beursie in sak",
+          "text": "Die verkoper sien kliënte, voorwaardes en hangende items."
+        },
+        {
+          "title": "Bestel by besoek",
+          "text": "Neem die bestelling met huidige pryse en voorraad."
+        },
+        {
+          "title": "Katalogus op datum",
+          "text": "Produkte, aanbiedings en pryse sonder 'n ou PDF."
+        },
+        {
+          "title": "Regte vanlyn",
+          "text": "Werk sonder dekking en sinchroniseer later."
+        }
+      ],
+      "audience": "Toesighouers en veldverkopers in verspreiding en massaverbruik."
+    },
+    "warehouse": {
+      "kicker": "Mobiele toepassing",
+      "card": "Mobiele toepassing vir pakhuis.",
+      "features": [
+        "Ontvangs en versending",
+        "Pluk en pak",
+        "Voorraadbeheer",
+        "Streepkode lees"
+      ],
+      "lead": "Ontvangs, pluk en versending met die telefoon en strepieskode.",
+      "about": "FullVendor Warehouse lei die pakhuis in ontvangs, pluk, verpakking en versending. Die lees van kodes verminder foute en voorraad word nie meer eers aan die einde van die maand getel nie.",
+      "benefits": [
+        {
+          "title": "Ontvangs teen orde",
+          "text": "Wat ingaan word vergelyk met die aankoop."
+        },
+        {
+          "title": "Geteikende pluk",
+          "text": "Die skeepseienaar volg die bestelling en bevestig elke item."
+        },
+        {
+          "title": "Strepiekodes",
+          "text": "Minder produk-, bondel- of hoeveelheidfoute."
+        },
+        {
+          "title": "Betroubare voorraad",
+          "text": "Elke skuif werk die platform se voorraad op."
+        }
+      ],
+      "audience": "Pakhuisbestuurders en skeepseienaars wat vandag bestellings voorberei met gedrukte lyste."
+    },
+    "finance": {
+      "kicker": "Mobiele toepassing",
+      "card": "Finansiële beheer vanaf jou selfoon.",
+      "features": [
+        "Rekeninge ontvangbaar en betaalbaar",
+        "Kliënt status",
+        "Betalings en rekonsiliasies",
+        "Finansiële verslae"
+      ],
+      "lead": "Rekeninge ontvangbaar, betalings en kliëntstatus, vanaf jou foon.",
+      "about": "FullVendor Finance wys die invordering op die selfoon: wat elke kliënt skuld, wat die maatskappy gaan betaal en hoe die betalings kom. Dit word gebruik om geld in te samel tydens die besoek en om na die kasregister te kyk sonder om die lessenaar oop te maak.",
+      "benefits": [
+        {
+          "title": "Insameling by die besoek",
+          "text": "Die verkoper weet of die kliënt op datum is voordat hy verkoop."
+        },
+        {
+          "title": "Ontvangbaar en betaalbaar",
+          "text": "Beide kante van die boks in dieselfde toepassing."
+        },
+        {
+          "title": "Betalings en rekonsiliasies",
+          "text": "Jy registreer krediete en kyk wat gekruis moet word."
+        },
+        {
+          "title": "Verslae byderhand",
+          "text": "Insameling en kontant aanwysers sonder om te wag vir 'n sluiting."
+        }
+      ],
+      "audience": "Bestuurders, versamelaars en verkoopsmense wat die kliënt se situasie op die oomblik nodig het."
+    }
+  },
+  "why": {
+    "eyebrow": "Hoekom FullVendor",
+    "title": "Versterk jou besigheid\nmet werklike resultate",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Maatskappye vertrou ons"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiewe gebruikers"
+      },
+      {
+        "value": "+10",
+        "suffix": "jare",
+        "label": "In konstante evolusie"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Wolk beskikbaarheid"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hoe dit werk",
+    "title": "Van verkoop tot versameling, sonder om stelsels te verander",
+    "text": "Elke produk deel kliënte, voorraad, bestellings en betalings. Wat op straat of in die pakhuis gebeur, verskyn onmiddellik in die kantoor.",
+    "steps": {
+      "sell": {
+        "title": "Jy verkoop",
+        "text": "Die bestelling word deur die webwerf of deur Sales Man ingevoer, selfs sonder sein."
+      },
+      "pick": {
+        "title": "Gereed",
+        "text": "Warehouse ontvang, skei en versending met strepieskode."
+      },
+      "deliver": {
+        "title": "Aflewerings",
+        "text": "Logistics ken die roete toe en volg die aflewering."
+      },
+      "collect": {
+        "title": "Kobras",
+        "text": "Finance en ERP sluit die versameling, die kwitansies en die nommers."
+      }
+    }
+  },
+  "band": {
+    "title": "Gereed om dit te sien met [[jou operasie]]?",
+    "text": "Ons wys jou die ekosisteem met 'n verspreidingskas soortgelyk aan joune."
+  },
+  "footer": {
+    "blurb": "Web- en mobiele platform vir verspreiding, verkope, logistiek, aankope, voorraad en finansies.",
+    "products": "Produkte",
+    "company": "Maatskappy",
+    "legal": "Wettig",
+    "privacy": "Privaatheid",
+    "terms": "Bepalings",
+    "rights": "Alle regte voorbehou."
+  },
+  "solutions": {
+    "eyebrow": "Oplossings",
+    "title": "Elke area, gekoppel aan die [[selfde operasie]]",
+    "intro": "Kies volgens die probleem wat jy wil oplos. Agter deel die produkte dieselfde inligting.",
+    "items": {
+      "commercial": {
+        "title": "Kommersiële bestuur",
+        "text": "Bestellings, pryse, kliënte en voorraad vir dag-tot-dag verspreiding."
+      },
+      "field": {
+        "title": "verkoopsmag",
+        "text": "Verkopers neem bestellings op straat, aanlyn of vanlyn."
+      },
+      "warehouse": {
+        "title": "Winkel",
+        "text": "Ontvangs, pluk, versending en 'n voorraad wat vertrou kan word."
+      },
+      "logistics": {
+        "title": "Logistiek en aflewering",
+        "text": "Roetes, bestuurders en die status van elke aflewering."
+      },
+      "purchasing": {
+        "title": "Aankope en verskaffers",
+        "text": "Kwotasies, bestellings en 'n portaal vir wie ook al jou voorsien."
+      },
+      "finance": {
+        "title": "Finansies en rekeningkunde",
+        "text": "Invorderings, betalings, elektroniese fakturering en rekeningkunde."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Nywerhede",
+    "title": "Gemaak vir diegene wat [[produk skuif]]",
+    "intro": "FullVendor is in verspreiding gebore en vergesel maatskappye wat koop, stoor, verkoop en aflewer.",
+    "items": {
+      "wholesale": {
+        "title": "Verspreiding en groothandel",
+        "text": "Pryslyste, portefeulje, verspreiding en versameling in 'n enkele stroombaan."
+      },
+      "retail": {
+        "title": "Kleinhandel",
+        "text": "Winkel en pakhuis met gekoppelde voorraad, verkope en aanvulling."
+      },
+      "food": {
+        "title": "Kos en drinkgoed",
+        "text": "Gereelde roetes en 'n pakhuis wat nie kan stop nie."
+      },
+      "pharma": {
+        "title": "Apteek en persoonlike sorg",
+        "text": "Ontvangs, pluk en voorraadbeheer met naspeurbaarheid."
+      },
+      "hardware": {
+        "title": "Hardeware en konstruksie",
+        "text": "Baie verwysings, verskaffers en aflewerings na werk of winkel."
+      },
+      "fmcg": {
+        "title": "Massaverbruik",
+        "text": "Straat verkoopsmag en hoë omset vervanging."
+      },
+      "manufacturing": {
+        "title": "Vervaardiging",
+        "text": "Aankope, pakhuis en voorraad in lyn met administrasie."
+      },
+      "lastmile": {
+        "title": "Aflewering en laaste myl",
+        "text": "Roetes, bestuurders en die status van elke aflewering."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Hulpbronne",
+    "title": "Duidelike idees om [[die operasie te bestel]]",
+    "intro": "Kort gidse vir verspreidingsbestuurders wat gaan besluit by watter stelsel om vas te hou.",
+    "items": {
+      "unify": {
+        "title": "Hoe om verspreiding in 'n enkele stelsel te verenig",
+        "summary": "Wat om eerste saam te stel wanneer verkope, pakhuise en versamelings in verskillende lêers woon.",
+        "points": [
+          "Begin by kliënte, produkte en pryse: hulle is die onderwyser wat almal gebruik.",
+          "Verbind die bestelling met die voorraad voordat meer toepassings bygevoeg word.",
+          "Dit meet 'n eenvoudige getal: bestellings uitgevoer sonder om die vorm oor te doen."
+        ]
+      },
+      "offline": {
+        "title": "Verkoopsmag wat vanlyn werk",
+        "summary": "Wat om van 'n besteltoepassing te vereis sodat die verkoper nie stop as gevolg van die sein nie.",
+        "points": [
+          "Die katalogus en beursie moet op die telefoon wees, nie net in die wolk nie.",
+          "Die bestelling word op die toestel gestoor en opgelaai wanneer die netwerk terugkeer.",
+          "Wanneer dit gesinchroniseer word, gaan die bestelling reeds die pakhuis binne."
+        ]
+      },
+      "warehouse": {
+        "title": "Pakhuis met strepieskode, sonder papier",
+        "summary": "Hoe om van die gedrukte lys na bevestigde pluk op die telefoon te gaan.",
+        "points": [
+          "Ontvang teen die aankoopbestelling, nie teen geheue nie.",
+          "Bevestig elke item wanneer jy skei. Die gogga sny in die gang in.",
+          "Die versending werk die voorraad op wat die verkoper sien."
+        ]
+      },
+      "finance": {
+        "title": "Versameling in lyn met die uitverkoping",
+        "summary": "Waarom die verkoper die kliënt se skuld moet sien voordat hy 'n ander bestelling neem.",
+        "points": [
+          "Die besoek is die beste tyd om in te vorder, as die skuld sigbaar is.",
+          "Verkope en finansies moet na dieselfde kliënt kyk.",
+          "'n Daaglikse agterstallige verslag is meer werd as 'n laat sluiting."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pryse",
+    "title": "'n Ekosisteem wat [[saam met jou groei]]",
+    "intro": "Ons publiseer nie 'n generiese tarief nie: die koste hang af van die modules, gebruikers en volume. Ons wys jou die platform en stel 'n voorstel saam met jou operasie.",
+    "note": "Die demo het geen koste nie en vereis nie 'n kontrak nie.",
+    "recommended": "Aanbeveel",
+    "faq_title": "Gereelde vrae",
+    "plans": {
+      "essential": {
+        "name": "Noodsaaklik",
+        "desc": "Om kommersiële bestuur en verspreiding op 'n enkele platform te organiseer.",
+        "features": [
+          "FullVendor webplatform",
+          "Verkope, aankope en voorraad",
+          "Kliënte, verskaffers en verslae",
+          "Kantoortoerusting gebruikers",
+          "Aanvangsondersteuning"
+        ],
+        "cta": "Versoek demo"
+      },
+      "professional": {
+        "name": "Professioneel",
+        "desc": "Vir spanne wat op straat verkoop en bestellings in die pakhuis voorberei.",
+        "features": [
+          "Alles noodsaaklik",
+          "Toepassing FullVendor Sales Man",
+          "Toepassing FullVendor Warehouse",
+          "Vanlyn werk en strepieskodes",
+          "Meer veld- en pakhuisgebruikers"
+        ],
+        "cta": "Versoek demo"
+      },
+      "corporate": {
+        "name": "Korporatiewe",
+        "desc": "Vir groepe wat logistiek, aankope, finansies en verskeie maatskappye benodig.",
+        "features": [
+          "Volledige ekosisteem",
+          "Logistics, Vendor Supplier en Finance",
+          "FullVendor ERP en multi-huur",
+          "Elektroniese fakturering en rekeningkunde",
+          "Begeleiding en prioriteit beskikbaarheid"
+        ],
+        "cta": "Praat met verkope"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Moet ek al die produkte koop?",
+        "a": "Nee. Jy kan met FullVendor begin en toepassings of ERP byvoeg wanneer die bewerking dit nodig het."
+      },
+      "offline": {
+        "q": "Werk die toepassings sonder internet?",
+        "a": "Sales Man en Warehouse gaan voort om sonder sein te werk en sinchroniseer wanneer u weer koppel."
+      },
+      "multi": {
+        "q": "Werk dit as ek meer as een maatskappy het?",
+        "a": "Ja. ERP oorweeg multi-maatskappy en die ekosisteem kan meesters tussen hulle deel."
+      },
+      "demo": {
+        "q": "Wat sluit die demo in?",
+        "a": "'n Toer deur die platform met 'n saak soortgelyk aan joune. Geen koste en geen verpligting nie."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ons wys jou FullVendor met [[jou tipe operasie]]",
+    "text": "Vertel ons eers van jou maatskappy en wat jy wil bestel. Die demo het geen koste nie."
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Kom ons praat oor [[jou operasie]]",
+    "text": "As jy 'n demo, 'n voorstel wil hê of net om jouself tussen die produkte te oriënteer, los jou inligting en ons sal reageer.",
+    "email": "Pos",
+    "phone": "Telefoon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Naam",
+    "email": "Pos",
+    "phone": "Telefoon",
+    "company": "Maatskappy",
+    "country": "Land",
+    "team": "Span grootte",
+    "interest": "Wat interesseer jou?",
+    "message": "Boodskap",
+    "optional": "Opsioneel",
+    "choose": "Kies",
+    "interest_all": "Die hele ekosisteem",
+    "ph_name": "jou naam",
+    "ph_email": "jy@maatskappy.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Jou maatskappy",
+    "ph_country": "Land",
+    "ph_message": "Vertel ons hoe jy vandag werk",
+    "privacy_before": "Ek aanvaar die gebruik van my data volgens die",
+    "privacy_after": ".",
+    "submit": "Stuur versoek",
+    "sent_title": "Ons ontvang jou versoek",
+    "sent_text": "Dankie. Die verkoopspan sal aan jou skryf om die demonstrasie te koördineer of jou vraag te beantwoord.",
+    "error_required": "Voltooi hierdie veld.",
+    "error_email": "Voer 'n geldige e-posadres in.",
+    "error_phone": "Gaan die foon na.",
+    "error_privacy": "Ons het jou toestemming nodig om kontakbesonderhede te gebruik.",
+    "error_csrf": "Die sessie het verval. Dien die vorm weer in.",
+    "error_save": "Ons kon nie die versoek stoor nie. Probeer weer.",
+    "error_generic": "Hersien die gemerkte velde.",
+    "error_rate": "Wag asseblief 'n oomblik voor jy nog 'n versoek indien.",
+    "team_options": {
+      "1-10": "1 tot 10 mense",
+      "11-50": "11 tot 50 mense",
+      "51-200": "51 tot 200 mense",
+      "201-500": "201 tot 500 mense",
+      "500+": "Meer as 500 mense"
+    }
+  },
+  "video": {
+    "title": "FullVendor in een minuut",
+    "prev": "Voormalige",
+    "next": "Volgende",
+    "slides": [
+      {
+        "title": "'n Enkele ekosisteem",
+        "text": "Verkope, pakhuis, aflewering, aankoop en finansiering deel kliënte, voorraad en bestellings."
+      },
+      {
+        "title": "Web en selfoon saam",
+        "text": "Die kantoor werk op die platform. Die straat en die pakhuis, in die apps, selfs sonder sein."
+      },
+      {
+        "title": "Gemaak om te versprei",
+        "text": "Van bestelling tot betaling, sonder om inligting van een lêer na 'n ander oor te dra."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Soek produkte, oplossings, nywerhede...",
+    "lang_filter": "Soek taal",
+    "intro": "Soek produkte, oplossings, nywerhede en hulpbronne.",
+    "empty": "Ons het nie resultate vir “{q}” gevind nie.",
+    "hint": "Probeer verkope, pakhuis, roetes of versamelings.",
+    "results": "{n} resultate",
+    "button": "Soek vir",
+    "kind_product": "Produk",
+    "kind_solution": "Oplossing",
+    "kind_industry": "Nywerheid",
+    "kind_resource": "Hulpbron"
+  },
+  "notfound": {
+    "title": "Hierdie bladsy is nie",
+    "text": "Die skakel bestaan ​​nie of het van ligging verander."
+  },
+  "common": {
+    "what": "Wat los op",
+    "features": "Wat ingesluit is",
+    "benefits": "Hoekom dit saak maak",
+    "for_who": "Vir wie is dit?",
+    "related": "Ook in die ekosisteem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Verkope vandag",
+      "orders": "Bestellings",
+      "clients": "Kliënte",
+      "products": "Produkte"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Verkope",
+      "purchases": "Inkopies doen",
+      "inventory": "Voorraad",
+      "clients": "Kliënte",
+      "reports": "Verslae"
+    },
+    "chart": "Verkope",
+    "channel": "Verspreiding per kanaal",
+    "channels": [
+      "Winkel",
+      "Verspreiding",
+      "Groothandelaar",
+      "Ander"
+    ],
+    "orders": "Jongste bestellings",
+    "col_order": "Bestel",
+    "col_client": "Kliënt",
+    "col_status": "Staat",
+    "col_total": "Totaal",
+    "status": [
+      "Afgelewer",
+      "Op pad",
+      "Oorbel"
+    ],
+    "top": "Topverkoper produkte",
+    "product": "Produk",
+    "sales_menu": [
+      "Kliënte",
+      "Bestellings",
+      "Produkte",
+      "Roetes",
+      "Sinkroniseer"
+    ],
+    "warehouse_menu": [
+      "Ontvangs",
+      "Pluk",
+      "Voorraad",
+      "Versending",
+      "Sinkroniseer"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privaatheidsbeleid",
+    "privacy_intro": "Hierdie beleid verduidelik wat ons doen met die data wat jy in vorms op hierdie webwerf laat.",
+    "privacy": [
+      {
+        "title": "Watter data ons insamel",
+        "text": "As jy 'n demonstrasie aanvra of aan ons skryf, stoor ons die naam, maatskappy, e-pos, telefoonnommer as jy dit aandui, die land, die grootte van die span, die produk van belang en die boodskap. Ons teken ook die datum, die taal van die bladsy en die IP-adres aan om beledigende voorleggings te voorkom."
+      },
+      {
+        "title": "Waarvoor gebruik ons ​​hulle?",
+        "text": "Ons gebruik hierdie data slegs om op jou te reageer, 'n demonstrasie te koördineer en 'n kommersiële voorstel voor te berei. Ons verkoop dit nie of gee dit nie aan 'n lys van derde partye nie."
+      },
+      {
+        "title": "Waar word hulle gestoor en vir hoe lank?",
+        "text": "Versoeke word op hierdie webwerf se bediener gestoor. Ons hou dit vir die tyd wat nodig is om u te bedien en kommersiële opvolg, en ons vee dit uit wanneer u ons vra of wanneer dit nie meer nodig is nie."
+      },
+      {
+        "title": "Jou regte",
+        "text": "Jy kan toegang, regstelling of verwydering van jou data van die kontakvorm versoek, en dit in die boodskap aandui. As die maatskappy 'n e-pos op hierdie webwerf publiseer, kan jy ook daar skryf."
+      }
+    ],
+    "terms_title": "Gebruiksvoorwaardes",
+    "terms_intro": "Hierdie voorwaardes is van toepassing op die gebruik van hierdie FullVendor indiening webwerf.",
+    "terms": [
+      {
+        "title": "Kommersiële inligting",
+        "text": "Tekste, voorbeelde dashboard figure en beskrywings stel die platform bekend. Hulle kan aangepas word wanneer die produk verander en is nie 'n geslote aanbod nie."
+      },
+      {
+        "title": "Die demo is nie 'n kontrak nie",
+        "text": "Die indiening van die vorm skep nie 'n verpligting om 'n prys te koop of te bespreek nie. Enige kontrak word afsonderlik, skriftelik, met sy omvang en voorwaardes ooreengekom."
+      },
+      {
+        "title": "Werf-inhoud",
+        "text": "Die FullVendor handelsmerk, produkname en die inhoud van hierdie bladsye behoort aan hul eienaars. Hulle kan nie gekopieer word om 'n ander produk aan te bied nie."
+      },
+      {
+        "title": "Aanvaarbare gebruik",
+        "text": "Moenie die vorms gebruik om vals inligting, strooipos of onwettige inhoud in te dien nie. Ons kan versoeke ignoreer wat nie ooreenstem met 'n werklike besigheidsgesprek nie."
+      }
+    ]
+  }
+}

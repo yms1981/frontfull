@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Stiùirich agus fàs do ghnìomhachas",
+    "home_desc": "Àrd-ùrlar uile-ann-aon le fuasglaidhean lìn is gluasadach airson cuairteachadh, reic, logistics, ceannach, clàr-seilbhe agus ionmhas.",
+    "products_title": "Bathar | FullVendor",
+    "products_desc": "Faigh eòlas air an eag-shiostam FullVendor: àrd-ùrlar malairteach, ERP, logistics, solaraichean agus reic, bathar-thaigh agus aplacaidean ionmhais.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Fuasglaidhean | FullVendor",
+    "solutions_desc": "Fuasglaidhean airson riaghladh malairteach, feachd reic, taigh-bathair, logistics, ceannach agus ionmhas.",
+    "industries_title": "Gnìomhachasan | FullVendor",
+    "industries_desc": "FullVendor airson cuairteachadh, reic, biadh, bùth-leigheadaireachd, bathar-cruaidh, caitheamh mòr, saothrachadh agus mìle mu dheireadh.",
+    "pricing_title": "Prìsean | FullVendor",
+    "pricing_desc": "Planaichean riatanach, proifeasanta agus corporra. Tha am moladh air a chur ri chèile a rèir mhodalan, luchd-cleachdaidh agus tomhas-lìonaidh.",
+    "resources_title": "Goireasan | FullVendor",
+    "resources_desc": "Stiùiridhean goirid gus cuairteachadh aonachadh, reic far-loidhne, cuir air dòigh an taigh-bathair agus faigh pàigheadh ​​​​ann an àm.",
+    "contact_title": "Fios | FullVendor",
+    "contact_desc": "Sgrìobh thugainn gus ionnsachadh mu FullVendor no co-òrdanachadh còmhradh leis an sgioba reic.",
+    "demo_title": "Iarr demo | FullVendor",
+    "demo_desc": "Iarr demo de FullVendor agus cuairt air an àrd-ùrlar le cùis coltach ris an obair agad.",
+    "privacy_title": "Prìobhaideachd | FullVendor",
+    "terms_title": "Teirmean | FullVendor",
+    "search_title": "Lorg | FullVendor",
+    "notfound_title": "Cha deach duilleag a lorg | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Duilleag-dhachaigh",
+    "products": "Bathar",
+    "solutions": "Fuasglaidhean",
+    "industries": "Gnìomhachasan",
+    "pricing": "Prìsean",
+    "resources": "Goireasan",
+    "contact": "Cuir fios",
+    "open_menu": "Clàr-taice fosgailte",
+    "close": "Dùin"
+  },
+  "cta": {
+    "demo": "Iarr demo",
+    "contact": "Cuir fios thugainn",
+    "video": "Coimhead Video",
+    "talk": "Bruidhinn ri reic",
+    "all_products": "Faic a h-uile bathar",
+    "home": "Till dhan duilleag-dhachaigh"
+  },
+  "a11y": {
+    "skip": "Rach gu susbaint",
+    "primary": "Prìomh seòladh",
+    "crumbs": "Slighe seòlaidh",
+    "search": "Coimhead airson",
+    "language": "Cànain"
+  },
+  "hero": {
+    "eyebrow": "Uile ann an aon àrd-ùrlar",
+    "title": "Stiùirich agus fàs\ndo ghnìomhachas le\n{{brand}}",
+    "subtitle": "Àrd-ùrlar coileanta le fuasglaidhean lìn is gluasadach airson cuairteachadh, reic, logistics, ceannach, clàr-seilbhe, ionmhas agus barrachd.",
+    "pill_ecosystem": "A h-uile dad ann an aon eag-shiostam",
+    "pill_cloud": "Anns an sgòth, tèarainte agus scalable",
+    "pill_size": "Airson companaidhean de gach meud"
+  },
+  "products_block": {
+    "eyebrow": "Na stuthan againn",
+    "title": "A [[eag-shiostam coileanta]] airson gach raon den ghnìomhachas agad",
+    "aside": "Fuasglaidhean amalaichte a bhios ag obair còmhla gus smachd iomlan a thoirt dhut, èifeachdas obrachaidh agus barrachd fàs.",
+    "groups": {
+      "money": "Rianachd agus cruinneachadh",
+      "flow": "Ceannach agus lìbhrigeadh",
+      "field": "Reic agus taigh-bathair"
+    }
+  },
+  "products_page": {
+    "title": "Seachd bathar, [[obrachadh singilte]]",
+    "text": "Bidh gach toradh a 'fuasgladh raon. Còmhla bidh iad a’ roinn luchd-ceannach, stoc, òrdughan agus pàighidhean."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Àrd-ùrlar",
+      "card": "Prìomh àrd-ùrlar airson riaghladh agus cuairteachadh malairteach.",
+      "features": [
+        "Ceannach agus reic",
+        "Clàr-stuthan",
+        "Luchd-dèiligidh agus solaraichean",
+        "Aithisgean agus barrachd"
+      ],
+      "lead": "Meadhan do ghnìomhachd malairteach: òrdughan, prìsean, stoc agus luchd-ceannach ann an aon àite.",
+      "about": "Bidh FullVendor a’ dol an àite duilleagan-clèithe agus siostaman sgaoilte an neach-sgaoilidh. Às an seo thig òrdughan a-mach, thathas a’ cumail sùil air clàr-stuthan, thathas a’ toirt aire do chùram teachdaiche agus thathas a’ coimhead ri àireamhan an latha. Tha an còrr den eag-shiostam a’ ceangal ris a’ bhunait seo.",
+      "benefits": [
+        {
+          "title": "Maighstir dàta singilte",
+          "text": "Tha luchd-ceannach, toraidhean agus prìsean air an roinn le reic, taigh-bathair agus ionmhas."
+        },
+        {
+          "title": "Obrachadh làitheil soilleir",
+          "text": "Òrdughan, ceannach agus stoc stad a 'fuireach ann an diofar fhaidhlichean."
+        },
+        {
+          "title": "Aithisgean airson co-dhùnadh",
+          "text": "Chithear reic, iomall agus feitheamh gun a bhith a’ cur bòrd ri chèile le làimh."
+        },
+        {
+          "title": "Deiseil airson fàs",
+          "text": "Logistics, feachd reic no suimean ERP nuair a dh’ iarras an gnìomhachd e."
+        }
+      ],
+      "audience": "Sgiobaidhean malairteach agus cuairteachaidh a bhios an-diugh a’ co-òrdanachadh a’ ghnìomhachais eadar grunn shiostaman."
+    },
+    "erp": {
+      "kicker": "Rianachd",
+      "card": "Stiùireadh rianachd is ionmhais coileanta.",
+      "features": [
+        "Cunntasachd",
+        "Cunntasachd dealanach",
+        "Duilleagan-obrach",
+        "Maoin stèidhichte",
+        "Ioma-chompanaidh"
+      ],
+      "lead": "Rianachd agus ionmhas, a rèir na tha dha-rìribh air a reic agus air a lìbhrigeadh.",
+      "about": "Tha FullVendor ERP a’ còmhdach cunntasachd, fàirdeal dealanach, pàighidhean, maoin stèidhichte agus ioma-chompanaidh. Bidh e a’ toirt a’ ghnìomhachd malairteach agus ga thionndadh gu inntrigidhean, cuidhteasan agus aithrisean a dh’ fhaodas an raon ionmhais a chleachdadh.",
+      "benefits": [
+        {
+          "title": "Cunntasachd ceangailte",
+          "text": "Bidh na thachras ann an reic is ceannach a’ biadhadh cunntasachd."
+        },
+        {
+          "title": "Cuidhteasan dealanach",
+          "text": "Bidh thu a’ toirt a-mach agus a’ cumail smachd air bilean bhon aon eag-shiostam."
+        },
+        {
+          "title": "Diofar chompanaidhean",
+          "text": "Ioma-chompanaidh airson buidhnean a tha ag obair fo barrachd air aon ainm companaidh."
+        },
+        {
+          "title": "Pàighidhean agus maoin",
+          "text": "Pàighidh agus maoin stèidhichte còmhla ris a’ chòrr den luchd-stiùiridh."
+        }
+      ],
+      "audience": "Raointean rianachd agus ionmhasail a tha airson na h-àireamhan a dhùnadh leis an fhìor obrachadh."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Smachd agus sgrùdadh air an obair logistics agad.",
+      "features": [
+        "Slighean agus lìbhrigeadh",
+        "Rianachd fìor-ùine",
+        "Sònrachadh driver",
+        "Optimization slighe"
+      ],
+      "lead": "Bho òrdugh gu lìbhrigeadh: slighean, draibhearan agus tracadh fìor-ùine.",
+      "about": "FullVendor Logistics a 'cur air dòigh an sgaoileadh. Bidh thu a’ cruthachadh slighean, a’ sònrachadh dhraibhearan agus a’ faicinn far a bheil gach lìbhrigeadh a’ dol. Bidh an sgioba trafaic a’ stad a rèir fiosan gus faighinn a-mach a bheil an òrdugh air a chuir air falbh.",
+      "benefits": [
+        {
+          "title": "Slighean an latha",
+          "text": "Lìbhrigeadh air òrdachadh a rèir sòn, uinneag ùine agus comas."
+        },
+        {
+          "title": "Driver air a shònrachadh",
+          "text": "Tha neach os cionn gach slighe agus sreath soilleir."
+        },
+        {
+          "title": "A’ leantainn",
+          "text": "Tha fios agad dè a tha air a lìbhrigeadh, air an t-slighe no air a stad."
+        },
+        {
+          "title": "Nas lugha de chilemeatairean",
+          "text": "Bidh optimization slighe a’ lughdachadh ùine lìbhrigidh agus cosgais."
+        }
+      ],
+      "audience": "Obraichean sgaoilidh leis a’ chabhlach fhèin no treas phàrtaidhean."
+    },
+    "supplier": {
+      "kicker": "Bùthan",
+      "card": "Portal airson solaraichean agus riaghladh ceannach.",
+      "features": [
+        "Òrdughan ceannach",
+        "Quotes",
+        "Riaghladh solaraiche",
+        "Amalachadh le clàr-seilbhe"
+      ],
+      "lead": "Bidh do sholaraichean a’ togail, a’ faighinn òrdughan agus ag ath-lìonadh stoc às aonais puist-d sgaoilte.",
+      "about": "Bidh Vendor Supplier a’ fosgladh portal airson ceannach agus solaraichean a bhith ag obair air na h-aon òrdughan. Tha luachan, òrdughan ceannach agus cuidhteas ceangailte ri clàr-seilbhe FullVendor.",
+      "benefits": [
+        {
+          "title": "Òrdughan ann an sianal",
+          "text": "Bidh an solaraiche a’ faicinn dè a lìbhrigeas e, às aonais slabhraidh post-d."
+        },
+        {
+          "title": "Aithrisean coimeasach",
+          "text": "Bidh thu ag iarraidh prìsean agus a’ taghadh leis an eachdraidh ri fhaicinn."
+        },
+        {
+          "title": "Maighstir Solaraiche",
+          "text": "Cùmhnantan, fiosan agus ri thighinn ann an aon chlàr."
+        },
+        {
+          "title": "Cuir a-steach an clàr-seilbhe",
+          "text": "Tha na chaidh a cheannach ri fhaicinn anns an stoc nuair a gheibhear e."
+        }
+      ],
+      "audience": "Sgiobaidhean ceannach a bhios ag ath-lìonadh le grunn sholaraichean agus a dh ’fheumas lorg."
+    },
+    "salesman": {
+      "kicker": "Aplacaid gluasadach",
+      "card": "Iarrtas gluasadach airson sgioba reic.",
+      "features": [
+        "Stiùireadh luchd-cleachdaidh",
+        "A 'gabhail òrdugh",
+        "Catalog bathar",
+        "Obair far loidhne"
+      ],
+      "lead": "Bidh am feachd reic a’ gabhail òrdughan air an t-sràid, le comharra no às aonais.",
+      "about": "Bidh FullVendor Sales Man a’ cur do phasgan, catalog agus òrdugh a’ gabhail air fòn an neach-reic. Mura h-eil eadar-lìn ann, leanaidh an obair air adhart agus sioncronaich e nuair a thilleas an comharra. Thig an t-òrdugh deiseil airson ullachadh agus lìbhrigeadh.",
+      "benefits": [
+        {
+          "title": "Wallet ann am pòcaid",
+          "text": "Bidh an neach-reic a’ faicinn teachdaichean, cumhaichean agus nithean ri thighinn."
+        },
+        {
+          "title": "Òrdugh aig tadhal",
+          "text": "Gabh an òrdugh le prìsean gnàthach agus stoc."
+        },
+        {
+          "title": "Catalog a-nuas latha",
+          "text": "Bathar, taisbeanaidhean agus prìsean gun seann PDF."
+        },
+        {
+          "title": "Dìreach far loidhne",
+          "text": "Obraich gun chòmhdach agus sioncronaich nas fhaide air adhart."
+        }
+      ],
+      "audience": "Luchd-stiùiridh agus luchd-reic làraich ann an cuairteachadh agus caitheamh mòr."
+    },
+    "warehouse": {
+      "kicker": "Aplacaid gluasadach",
+      "card": "Iarrtas gluasadach airson bathar-thaighean.",
+      "features": [
+        "Fàilteachas agus lìbhrigeadh",
+        "A 'togail agus a' pacadh",
+        "Smachd air clàr-seilbhe",
+        "Leughadh barcode"
+      ],
+      "lead": "Fàilteachas, togail agus cur air falbh leis a’ fòn agus còd-bàr.",
+      "about": "Bidh FullVendor Warehouse a’ stiùireadh an taigh-bathair ann an ionad-fàilte, buain, pacadh agus cur air falbh. Bidh còdan leughaidh a’ lughdachadh mhearachdan agus chan eil clàr-seilbhe air a chunntadh tuilleadh ach aig deireadh na mìos.",
+      "benefits": [
+        {
+          "title": "Fàilteachas an aghaidh òrdugh",
+          "text": "Tha an rud a thig a-steach an coimeas ris a’ cheannach."
+        },
+        {
+          "title": "Taghadh cuimsichte",
+          "text": "Bidh an sealbhadair a 'leantainn an òrdugh agus a' dearbhadh gach nì."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Nas lugha de mhearachdan toraidh, baidse no meud."
+        },
+        {
+          "title": "Stoc earbsach",
+          "text": "Bidh gach gluasad ag ùrachadh clàr an àrd-ùrlar."
+        }
+      ],
+      "audience": "Manaidsearan taigh-bathair agus luchd-seilbh shoithichean a bhios an-diugh ag ullachadh òrdughan le liostaichean clò-bhuailte."
+    },
+    "finance": {
+      "kicker": "Aplacaid gluasadach",
+      "card": "Smachd ionmhais bhon fhòn-làimhe agad.",
+      "features": [
+        "Cunntasan rim faighinn agus rim pàigheadh",
+        "Inbhe teachdaiche",
+        "Pàighidhean agus rèiteachadh",
+        "Aithisgean ionmhais"
+      ],
+      "lead": "Cunntasan rim faighinn, pàighidhean agus inbhe teachdaiche, bhon fhòn agad.",
+      "about": "Tha FullVendor Finance a’ sealltainn a’ chruinneachadh air a’ fòn-làimhe: na tha aig gach neach-dèiligidh, na tha a’ chompanaidh gu bhith a’ pàigheadh ​​agus mar a thig na pàighidhean. Tha e air a chleachdadh airson airgead a chruinneachadh tron ​​​​turas agus airson coimhead air a’ chlàr airgid gun a bhith a’ fosgladh an deasg.",
+      "benefits": [
+        {
+          "title": "Cruinneachadh aig an turas",
+          "text": "Tha fios aig an neach-reic a bheil an neach-ceannach ùraichte mus reic iad."
+        },
+        {
+          "title": "Ri fhaighinn agus ri phàigheadh",
+          "text": "Dà thaobh a’ bhogsa san aon app."
+        },
+        {
+          "title": "Pàighidhean agus rèiteachadh",
+          "text": "Bidh thu a’ clàradh chreideasan agus a’ faicinn na dh’ fheumar a dhol tarsainn."
+        },
+        {
+          "title": "Aithisgean ri làimh",
+          "text": "Cruinneachadh agus comharran airgid gun a bhith a 'feitheamh ri dùnadh."
+        }
+      ],
+      "audience": "Manaidsearan, luchd-cruinneachaidh agus luchd-reic a tha feumach air suidheachadh an neach-dèiligidh an-dràsta."
+    }
+  },
+  "why": {
+    "eyebrow": "Carson FullVendor",
+    "title": "Àrdaich do ghnìomhachas\nle fìor thoraidhean",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Tha earbsa aig companaidhean annainn"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Luchd-cleachdaidh gnìomhach"
+      },
+      {
+        "value": "+10",
+        "suffix": "bliadhnaichean",
+        "label": "Ann an mean-fhàs cunbhalach"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud ri fhaighinn"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Mar a tha e ag obair",
+    "title": "Bho reic gu cruinneachadh, gun a bhith ag atharrachadh siostaman",
+    "text": "Bidh gach toradh a’ roinn luchd-ceannach, stoc, òrdughan agus pàighidhean. Bidh na thachras air an t-sràid no san taigh-bathair a’ nochdadh san oifis sa bhad.",
+    "steps": {
+      "sell": {
+        "title": "Reic thu",
+        "text": "Tha an òrdugh air a chur a-steach tron ​​​​làrach-lìn no tro Sales Man, eadhon gun chomharradh."
+      },
+      "pick": {
+        "title": "Ready",
+        "text": "Warehouse a 'faighinn, a' sgaradh agus a 'cur air falbh le còd-bàr."
+      },
+      "deliver": {
+        "title": "Lìbhrigeadh",
+        "text": "Bidh Logistics a’ sònrachadh na slighe agus a’ leantainn an lìbhrigidh."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance agus ERP dùin an cruinneachadh, na cuidhteasan agus na h-àireamhan."
+      }
+    }
+  },
+  "band": {
+    "title": "Deiseil airson fhaicinn le [[an obair agad]]?",
+    "text": "Bidh sinn a’ sealltainn dhut an eag-shiostam le cùis sgaoilidh coltach ris an fhear agadsa."
+  },
+  "footer": {
+    "blurb": "Àrd-ùrlar lìn is gluasadach airson cuairteachadh, reic, logistics, ceannach, clàr-seilbhe agus ionmhas.",
+    "products": "Bathar",
+    "company": "Companaidh",
+    "legal": "Laghail",
+    "privacy": "Prìobhaideachd",
+    "terms": "Teirmean",
+    "rights": "Gach còir glèidhte."
+  },
+  "solutions": {
+    "eyebrow": "Fuasglaidhean",
+    "title": "Gach raon, ceangailte ris an [[aon obrachadh]]",
+    "intro": "Tagh leis an duilgheadas a tha thu airson fuasgladh. Air a chùlaibh, tha na toraidhean a’ roinn an aon fhiosrachadh.",
+    "items": {
+      "commercial": {
+        "title": "Stiùireadh malairteach",
+        "text": "Òrdughan, prìsean, luchd-ceannach agus clàr-stuthan airson an sgaoileadh bho latha gu latha."
+      },
+      "field": {
+        "title": "feachd reic",
+        "text": "Luchd-reic a’ gabhail òrdughan air an t-sràid, air-loidhne no far-loidhne."
+      },
+      "warehouse": {
+        "title": "Stòr",
+        "text": "Fàilteachas, buain, cur air falbh agus stoc anns am faodar earbsa a chur."
+      },
+      "logistics": {
+        "title": "Logistics agus lìbhrigeadh",
+        "text": "Slighean, draibhearan agus inbhe gach lìbhrigidh."
+      },
+      "purchasing": {
+        "title": "Ceannach agus solaraichean",
+        "text": "Quotes, òrdughan agus portal airson ge bith cò a bheir dhut."
+      },
+      "finance": {
+        "title": "Ionmhais agus cunntasachd",
+        "text": "Cruinneachaidhean, pàighidhean, cunntasan dealanach agus cunntasachd."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Gnìomhachasan",
+    "title": "Air a dhèanamh dhaibhsan a [[gluasad toradh]]",
+    "intro": "Rugadh FullVendor ann an cuairteachadh agus bidh e an cois companaidhean a bhios a’ ceannach, a’ stòradh, a’ reic agus a’ lìbhrigeadh.",
+    "items": {
+      "wholesale": {
+        "title": "Sgaoileadh agus mòr-reic",
+        "text": "Liostaichean prìsean, pasgan, cuairteachadh agus cruinneachadh ann an aon chuairt."
+      },
+      "retail": {
+        "title": "Reic",
+        "text": "Stòr agus taigh-bathair le stoc ceangailte, reic agus ath-lìonadh."
+      },
+      "food": {
+        "title": "Biadh is deochan",
+        "text": "Slighean tric agus taigh-bathair nach urrainn stad."
+      },
+      "pharma": {
+        "title": "Bùth-chungaidhean agus cùram pearsanta",
+        "text": "Fàilteachas, togail agus smachd clàr-seilbhe le lorg."
+      },
+      "hardware": {
+        "title": "Bathar-cruaidh is togail",
+        "text": "Mòran iomraidhean, solaraichean agus lìbhrigeadh gu obair no stòradh."
+      },
+      "fmcg": {
+        "title": "Caitheamh mòr",
+        "text": "Feachd reic sràide agus tionndadh àrd an àite."
+      },
+      "manufacturing": {
+        "title": "Dèanamh",
+        "text": "Ceannach, taigh-bathair agus clàr-seilbhe a rèir rianachd."
+      },
+      "lastmile": {
+        "title": "Lìbhrigeadh agus mìle mu dheireadh",
+        "text": "Slighean, draibhearan agus inbhe gach lìbhrigidh."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Goireasan",
+    "title": "Beachdan soilleir airson [[òrdugh an obrachaidh]]",
+    "intro": "Stiùiridhean goirid airson manaidsearan sgaoilidh a tha gu bhith a’ co-dhùnadh dè an siostam a chumas iad.",
+    "items": {
+      "unify": {
+        "title": "Mar as urrainn dhut cuairteachadh a cheangal ri aon shiostam",
+        "summary": "Dè a chuireas ri chèile an toiseach nuair a bhios reic, taigh-bathair agus cruinneachaidhean a’ fuireach ann am faidhlichean eadar-dhealaichte.",
+        "points": [
+          "Tòisich le luchd-ceannach, toraidhean agus prìsean: is iadsan an tidsear a bhios a h-uile duine a’ cleachdadh.",
+          "Ceangail an òrdugh leis an stoc mus cuir thu barrachd thagraidhean.",
+          "Bidh e a’ tomhas àireamh shìmplidh: òrdughan air an coileanadh gun a bhith ag ath-dhèanamh an fhoirm."
+        ]
+      },
+      "offline": {
+        "title": "Feachd reic ag obair far loidhne",
+        "summary": "Dè a dh’ fheumas bho app òrdachadh gus nach stad an neach-reic air sgàth a ’chomharra.",
+        "points": [
+          "Feumaidh an catalog agus an sporan a bhith air a’ fòn, chan ann a-mhàin san sgòth.",
+          "Tha an òrdugh air a shàbhaladh air an inneal agus air a luchdachadh suas nuair a thilleas an lìonra.",
+          "Nuair a bhios tu a’ sioncronadh, tha an òrdugh mu thràth a’ dol a-steach don taigh-bathair."
+        ]
+      },
+      "warehouse": {
+        "title": "Taigh-bathair le còd-bàr, gun phàipear",
+        "summary": "Mar a thèid thu bhon liosta clò-bhuailte gu taghadh dearbhte air a’ fòn.",
+        "points": [
+          "Faigh an aghaidh òrdugh ceannach, chan ann an aghaidh cuimhne.",
+          "Dearbhaich gach nì nuair a bhios tu a’ sgaradh. Bidh am biast a’ gearradh a-steach don trannsa.",
+          "Bidh an lìbhrigeadh ag ùrachadh an stoc a chì an neach-reic."
+        ]
+      },
+      "finance": {
+        "title": "Cruinneachadh co-cheangailte ri reic",
+        "summary": "Carson a bu chòir don neach-reic fiachan an neach-ceannach fhaicinn mus gabh e òrdugh eile.",
+        "points": [
+          "Is e an turas an t-àm as fheàrr airson cruinneachadh, ma tha na fiachan rim faicinn.",
+          "Feumaidh reic is ionmhas coimhead air an aon neach-ceannach.",
+          "Is fhiach aithisg làitheil fada nas fhaide na dùnadh fadalach."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prìsean",
+    "title": "Eag-shiostam a tha [[fàs còmhla riut]]",
+    "intro": "Chan eil sinn a 'foillseachadh ìre coitcheann: tha a' chosgais an crochadh air na modalan, luchd-cleachdaidh agus tomhas-lìonaidh. Bidh sinn a’ sealltainn an àrd-ùrlar dhut agus a’ cur ri chèile moladh leis an obair agad.",
+    "note": "Chan eil cosgais sam bith aig an demo agus chan eil feum air cùmhnant.",
+    "recommended": "Air a mholadh",
+    "faq_title": "Ceistean cumanta",
+    "plans": {
+      "essential": {
+        "name": "Deatamach",
+        "desc": "Gus riaghladh malairteach agus cuairteachadh a chuir air dòigh air aon àrd-ùrlar.",
+        "features": [
+          "FullVendor àrd-ùrlar lìn",
+          "Ceannach, reic agus tasgadh",
+          "Luchd-dèiligidh, solaraichean agus aithisgean",
+          "Luchd-cleachdaidh uidheamachd oifis",
+          "Taic tòiseachaidh"
+        ],
+        "cta": "Iarr demo"
+      },
+      "professional": {
+        "name": "Proifeiseanta",
+        "desc": "Airson sgiobaidhean a bhios a’ reic air an t-sràid agus ag ullachadh òrdughan anns an taigh-bathair.",
+        "features": [
+          "A h-uile rud riatanach",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Obair far-loidhne agus còd-barra",
+          "Barrachd luchd-cleachdaidh achaidhean is taigh-bathair"
+        ],
+        "cta": "Iarr demo"
+      },
+      "corporate": {
+        "name": "Corporra",
+        "desc": "Airson buidhnean a tha feumach air logistics, ceannach, ionmhas agus diofar chompanaidhean.",
+        "features": [
+          "Eag-shiostam iomlan",
+          "Logistics, Vendor Supplier agus Finance",
+          "FullVendor ERP agus ioma-ghabhaltas",
+          "Cunntasachd agus cunntasachd dealanach",
+          "Cuideachadh agus ruigsinneachd prìomhachais"
+        ],
+        "cta": "Bruidhinn ri reic"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Am feum mi a h-uile toradh a cheannach?",
+        "a": "Faodaidh tu tòiseachadh le FullVendor agus aplacaidean no ERP a chur ris nuair a bhios feum aig an obair air."
+      },
+      "offline": {
+        "q": "Am bi na h-aplacaidean ag obair às aonais eadar-lìn?",
+        "a": "Sales Man agus Warehouse leantainn air adhart ag obair gun chomharran agus sioncronaich nuair a bhios tu ag ath-cheangal."
+      },
+      "multi": {
+        "q": "A bheil e ag obair ma tha barrachd air aon chompanaidh agam?",
+        "a": "Tha. ERP a’ beachdachadh air ioma-chompanaidh agus faodaidh an eag-shiostam maighstirean a roinn eatorra."
+      },
+      "demo": {
+        "q": "Dè tha an demo a’ toirt a-steach?",
+        "a": "Cuairt timcheall an àrd-ùrlar le cùis coltach ris an fhear agadsa. Gun chosgais agus gun uallach."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Bidh sinn a’ sealltainn FullVendor dhut le [[an seòrsa obrachaidh agad]]",
+    "text": "Inns dhuinn mun chompanaidh agad agus na tha thu airson òrdachadh an toiseach. Chan eil cosgais sam bith aig an demo."
+  },
+  "contact": {
+    "eyebrow": "Cuir fios",
+    "title": "Bruidhnidh sinn mu [[an obair agad]]",
+    "text": "Ma tha thu ag iarraidh demo, moladh no dìreach thu fhèin a stiùireadh eadar na toraidhean, fàg am fiosrachadh agad agus freagraidh sinn.",
+    "email": "Post",
+    "phone": "Fòn",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ainm",
+    "email": "Post",
+    "phone": "Fòn",
+    "company": "Companaidh",
+    "country": "Dùthaich",
+    "team": "Meud sgioba",
+    "interest": "Dè a tha inntinneach dhut?",
+    "message": "Teachdaireachd",
+    "optional": "Roghainneil",
+    "choose": "Tagh",
+    "interest_all": "An eag-shiostam gu lèir",
+    "ph_name": "d' ainm",
+    "ph_email": "sibh@companaidh.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Do chompanaidh",
+    "ph_country": "Dùthaich",
+    "ph_message": "Inns dhuinn mar a tha thu ag obair an-diugh",
+    "privacy_before": "Gabhaidh mi ri cleachdadh an dàta agam a rèir an",
+    "privacy_after": ".",
+    "submit": "Cuir iarrtas",
+    "sent_title": "Gheibh sinn d’ iarrtas",
+    "sent_text": "Tapadh leat. Sgrìobhaidh an sgioba reic thugad gus an demo a cho-òrdanachadh no gus do cheist a fhreagairt.",
+    "error_required": "Cuir crìoch air an raon seo.",
+    "error_email": "Cuir a-steach post-d dligheach.",
+    "error_phone": "Thoir sùil air a’ fòn.",
+    "error_privacy": "Feumaidh sinn ur cead airson fiosrachadh conaltraidh a chleachdadh.",
+    "error_csrf": "Tha an seisean air tighinn gu crìch. Cuir a-steach am foirm a-rithist.",
+    "error_save": "Cha b' urrainn dhuinn an t-iarrtas a shàbhaladh. Feuch ris a-rithist.",
+    "error_generic": "Dèan lèirmheas air na raointean comharraichte.",
+    "error_rate": "Feuch an fuirich thu mionaid mus cuir thu a-steach iarrtas eile.",
+    "team_options": {
+      "1-10": "1 gu 10 neach",
+      "11-50": "11 gu 50 neach",
+      "51-200": "51 gu 200 neach",
+      "201-500": "201 gu 500 neach",
+      "500+": "Còrr is 500 neach"
+    }
+  },
+  "video": {
+    "title": "FullVendor ann an aon mhionaid",
+    "prev": "Iar",
+    "next": "A' leantainn",
+    "slides": [
+      {
+        "title": "Aon eag-shiostam",
+        "text": "Bidh reic, taigh-bathair, lìbhrigeadh, ceannach agus ionmhas a’ roinn luchd-ceannach, stoc agus òrdughan."
+      },
+      {
+        "title": "Lìon agus gluasadach còmhla",
+        "text": "Tha an oifis ag obair air an àrd-ùrlar. An t-sràid agus an taigh-bathair, anns na h-aplacaidean, eadhon gun chomharradh."
+      },
+      {
+        "title": "Air a dhèanamh airson a sgaoileadh",
+        "text": "Bho òrdugh gu pàigheadh, gun a bhith a 'toirt seachad fiosrachadh bho aon fhaidhle gu faidhle eile."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Lorg toraidhean, fuasglaidhean, gnìomhachasan…",
+    "lang_filter": "Rannsachadh cànain",
+    "intro": "Rannsaich toraidhean, fuasglaidhean, gnìomhachasan agus goireasan.",
+    "empty": "Cha do lorg sinn toraidhean airson “{q}”.",
+    "hint": "Feuch ri reic, taigh-bathair, slighean no cruinneachaidhean.",
+    "results": "{n} toraidhean",
+    "button": "Coimhead airson",
+    "kind_product": "Bathar",
+    "kind_solution": "Fuasgladh",
+    "kind_industry": "Gnìomhachas",
+    "kind_resource": "Goireas"
+  },
+  "notfound": {
+    "title": "Chan eil an duilleag seo",
+    "text": "Chan eil an ceangal ann no tha e air àite atharrachadh."
+  },
+  "common": {
+    "what": "Dè tha a 'fuasgladh",
+    "features": "Dè tha air a ghabhail a-steach",
+    "benefits": "Carson a tha e cudromach",
+    "for_who": "Cò dha a tha e?",
+    "related": "Cuideachd anns an eag-shiostam"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Reic an-diugh",
+      "orders": "òrduighean",
+      "clients": "Luchd-cleachdaidh",
+      "products": "Bathar"
+    },
+    "sidebar": {
+      "dashboard": "Deas-bhòrd",
+      "sales": "Reic",
+      "purchases": "Bùthan",
+      "inventory": "Clàr-stuthan",
+      "clients": "Luchd-cleachdaidh",
+      "reports": "Aithisgean"
+    },
+    "chart": "Reic",
+    "channel": "Sgaoileadh le sianal",
+    "channels": [
+      "Stòr",
+      "Sgaoileadh",
+      "Slàn-reicear",
+      "cuid eile"
+    ],
+    "orders": "Òrdughan as ùire",
+    "col_order": "Òrdugh",
+    "col_client": "Neach-ceannach",
+    "col_status": "Stàite",
+    "col_total": "Iomlan",
+    "status": [
+      "Air a lìbhrigeadh",
+      "Air an t-slighe",
+      "Fòn-cluaise"
+    ],
+    "top": "Bathar reic as fheàrr",
+    "product": "Bathar",
+    "sales_menu": [
+      "Luchd-cleachdaidh",
+      "òrduighean",
+      "Bathar",
+      "Slighean",
+      "Sioncronaich"
+    ],
+    "warehouse_menu": [
+      "Fàilteachas",
+      "A' piocadh",
+      "Clàr-stuthan",
+      "Sgaoileadh",
+      "Sioncronaich"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Poileasaidh Dìomhaireachd",
+    "privacy_intro": "Tha am poileasaidh seo a’ mìneachadh dè nì sinn leis an dàta a dh’fhàgas tu ann am foirmichean air an làrach seo.",
+    "privacy": [
+      {
+        "title": "Dè an dàta a chruinnicheas sinn",
+        "text": "Ma dh’ iarras tu demo no ma sgrìobhas tu thugainn, sàbhalaidh sinn ainm, companaidh, post-d, àireamh fòn ma chomharraicheas tu e, an dùthaich, meud na sgioba, an toradh anns a bheil ùidh agus an teachdaireachd. Bidh sinn cuideachd a’ clàradh a’ chinn-latha, cànan na duilleige agus an seòladh IP, gus casg a chuir air tagraidhean ana-cainteach."
+      },
+      {
+        "title": "Carson a bhios sinn gan cleachdadh?",
+        "text": "Bidh sinn a’ cleachdadh an dàta seo a-mhàin gus freagairt a thoirt dhut, demo a cho-òrdanachadh agus moladh malairteach ullachadh. Cha bhith sinn gan reic no gan toirt gu liosta de threas phàrtaidhean."
+      },
+      {
+        "title": "Càite a bheil iad air an stòradh agus dè cho fada?",
+        "text": "Tha iarrtasan air an stòradh air frithealaiche na làraich seo. Bidh sinn gan cumail airson na h-ùine a tha riatanach airson seirbheis a thoirt dhut agus obair leanmhainn malairteach, agus bidh sinn gan sguabadh às nuair a dh’ iarras tu oirnn no nuair nach eil feum orra tuilleadh."
+      },
+      {
+        "title": "Do chòraichean",
+        "text": "Faodaidh tu iarraidh air ruigsinneachd, ceartachadh no cuir às don dàta agad bhon fhoirm conaltraidh, ga chomharrachadh san teachdaireachd. Ma dh’fhoillsicheas a’ chompanaidh post-d air an làrach-lìn seo, faodaidh tu sgrìobhadh an sin cuideachd."
+      }
+    ],
+    "terms_title": "Teirmean cleachdaidh",
+    "terms_intro": "Tha na cumhaichean seo a’ buntainn ri cleachdadh na làraich tagraidh FullVendor seo.",
+    "terms": [
+      {
+        "title": "Fiosrachadh malairteach",
+        "text": "Bidh teacsaichean, eisimpleirean de fhigearan deas-bhòrd agus tuairisgeulan a’ toirt a-steach an àrd-ùrlar. Faodar an atharrachadh nuair a dh’ atharraicheas an toradh agus nach eil iad nan tairgse dùinte."
+      },
+      {
+        "title": "Chan e cùmhnant a th’ anns an demo",
+        "text": "Chan eil cur a-steach am foirm a’ cruthachadh dleastanas airson prìs a cheannach no a ghlèidheadh. Tha cùmhnant sam bith air aontachadh air leth, ann an sgrìobhadh, leis an raon agus na cumhaichean aige."
+      },
+      {
+        "title": "Susbaint làraich",
+        "text": "Buinidh an comharra-malairt FullVendor, ainmean toraidh agus susbaint nan duilleagan sin don luchd-seilbh aca. Chan urrainnear lethbhreac a dhèanamh dhiubh gus toradh eile a thaisbeanadh."
+      },
+      {
+        "title": "Cleachdadh iomchaidh",
+        "text": "Na cleachd na foirmean gus fiosrachadh meallta, spama no susbaint mì-laghail a chuir a-steach. Faodaidh sinn dearmad a dhèanamh air iarrtasan nach eil a’ freagairt ri fìor chòmhradh gnìomhachais."
+      }
+    ]
+  }
+}

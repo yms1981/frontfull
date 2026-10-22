@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Kezelje és fejlessze vállalkozását",
+    "home_desc": "All-in-one platform webes és mobil megoldásokkal az elosztáshoz, értékesítéshez, logisztikához, beszerzéshez, készletezéshez és pénzügyekhez.",
+    "products_title": "Termékek | FullVendor",
+    "products_desc": "Ismerje meg az ökoszisztémát FullVendor: kereskedelmi platform, ERP, logisztika, beszállítók és értékesítési, raktári és pénzügyi alkalmazások.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Megoldások | FullVendor",
+    "solutions_desc": "Kereskedelmi menedzsment, értékesítési, raktári, logisztikai, beszerzési és pénzügyi megoldások.",
+    "industries_title": "Iparágak | FullVendor",
+    "industries_desc": "FullVendor forgalmazás, kiskereskedelem, élelmiszer, gyógyszertár, hardver, tömeges fogyasztás, gyártás és utolsó mérföld.",
+    "pricing_title": "Árak | FullVendor",
+    "pricing_desc": "Alapvető, szakmai és vállalati tervek. A javaslatot modulok, felhasználók és mennyiség szerint állítjuk össze.",
+    "resources_title": "Források | FullVendor",
+    "resources_desc": "Rövid útmutatók a disztribúció egységesítéséhez, offline értékesítéshez, a raktár rendezéséhez és időben történő fizetéshez.",
+    "contact_title": "Kapcsolat | FullVendor",
+    "contact_desc": "Írjon nekünk, ha többet szeretne megtudni a FullVendor-ról, vagy egyeztethet egy beszélgetést az értékesítési csapattal.",
+    "demo_title": "Demo kérése | FullVendor",
+    "demo_desc": "Kérje a FullVendor bemutatóját, és járja be a platformot az Ön működéséhez hasonló tokkal.",
+    "privacy_title": "Adatvédelem | FullVendor",
+    "terms_title": "Feltételek | FullVendor",
+    "search_title": "Keresés | FullVendor",
+    "notfound_title": "Az oldal nem található | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Kezdőlap",
+    "products": "Termékek",
+    "solutions": "Megoldások",
+    "industries": "Iparágak",
+    "pricing": "Árak",
+    "resources": "Erőforrás",
+    "contact": "Érintkezés",
+    "open_menu": "Menü megnyitása",
+    "close": "Közeli"
+  },
+  "cta": {
+    "demo": "Demó kérése",
+    "contact": "Vegye fel velünk a kapcsolatot",
+    "video": "Videó megtekintése",
+    "talk": "Beszélj az eladókkal",
+    "all_products": "Az összes termék megtekintése",
+    "home": "Vissza a kezdőlapra"
+  },
+  "a11y": {
+    "skip": "Ugrás a tartalomhoz",
+    "primary": "Fő navigáció",
+    "crumbs": "Navigációs útvonal",
+    "search": "Keres",
+    "language": "Nyelv"
+  },
+  "hero": {
+    "eyebrow": "Mindez egy platformon",
+    "title": "Irányítsd és növekedj\naz üzleted\n{{brand}}",
+    "subtitle": "Komplett platform webes és mobil megoldásokkal az elosztáshoz, értékesítéshez, logisztikához, beszerzéshez, készletezéshez, pénzügyekhez és még sok máshoz.",
+    "pill_ecosystem": "Minden egyetlen ökoszisztémában",
+    "pill_cloud": "A felhőben, biztonságosan és méretezhetően",
+    "pill_size": "Minden méretű cégnek"
+  },
+  "products_block": {
+    "eyebrow": "Termékeink",
+    "title": "Egy [[teljes ökoszisztéma]] vállalkozása minden területéhez",
+    "aside": "Integrált megoldások, amelyek együtt működnek a teljes ellenőrzés, a működési hatékonyság és a nagyobb növekedés érdekében.",
+    "groups": {
+      "money": "Adminisztráció és beszedés",
+      "flow": "Vásárlás és szállítás",
+      "field": "Értékesítés és raktározás"
+    }
+  },
+  "products_page": {
+    "title": "Hét termék, [[egyetlen művelet]]",
+    "text": "Minden termék egy területet old meg. Együtt megosztják az ügyfeleket, a raktárkészletet, a rendeléseket és a fizetéseket."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "A kereskedelmi menedzsment és forgalmazás fő platformja.",
+      "features": [
+        "Eladások és vásárlások",
+        "Leltár",
+        "Ügyfelek és beszállítók",
+        "Jelentések és egyebek"
+      ],
+      "lead": "Kereskedelmi működésének központja: megrendelések, árak, raktárkészlet és vásárlók egy helyen.",
+      "about": "FullVendor helyettesíti a forgalmazó laza táblázatait és rendszereit. Innen jönnek ki a rendelések, konzultálnak a készletekkel, gondoskodnak az ügyfélportfólióról, és megnézik a napi számokat. Az ökoszisztéma többi része ehhez a bázishoz kapcsolódik.",
+      "benefits": [
+        {
+          "title": "Egyetlen adattörzs",
+          "text": "Az ügyfelek, a termékek és az árak meg vannak osztva az értékesítéssel, a raktárral és a pénzügyekkel."
+        },
+        {
+          "title": "Világos napi működés",
+          "text": "A rendelések, a vásárlások és a készletek nem élnek különböző fájlokban."
+        },
+        {
+          "title": "Jelentések dönteni",
+          "text": "Az értékesítések, az árrés és a függőben lévő adatok a táblázat kézzel történő összeállítása nélkül láthatók."
+        },
+        {
+          "title": "Készen áll a növekedésre",
+          "text": "Logisztikai, értékesítési vagy ERP összegek, amikor a művelet kéri."
+        }
+      ],
+      "audience": "Kereskedelmi és disztribúciós csapatok, amelyek ma több rendszer között koordinálják az üzletet."
+    },
+    "erp": {
+      "kicker": "Adminisztráció",
+      "card": "Teljes körű adminisztratív és pénzügyi irányítás.",
+      "features": [
+        "Számvitel",
+        "Elektronikus számlázás",
+        "Munkalapok",
+        "Befektetett eszközök",
+        "Több cég"
+      ],
+      "lead": "Adminisztráció és pénzügyek, igazodva ahhoz, amit ténylegesen értékesítenek és szállítanak.",
+      "about": "FullVendor ERP a számvitelre, az elektronikus számlázásra, a bérszámfejtésre, a tárgyi eszközökre és a multicégre terjed ki. Átveszi a kereskedelmi műveletet, és azokat bejegyzésekké, nyugtákká és kimutatásokká alakítja, amelyeket a pénzügyi terület használhat.",
+      "benefits": [
+        {
+          "title": "Összekapcsolt könyvelés",
+          "text": "Mi történik az értékesítésben és a vásárlásban, az a hírcsatornák könyvelésében történik."
+        },
+        {
+          "title": "Elektronikus nyugták",
+          "text": "Ugyanabból az ökoszisztémából állítja ki és irányítja a számlázást."
+        },
+        {
+          "title": "Különféle cégek",
+          "text": "Több cég olyan csoportok számára, amelyek egynél több cégnév alatt működnek."
+        },
+        {
+          "title": "Bérjegyzékek és eszközök",
+          "text": "Bérszámfejtés és tárgyi eszközök a menedzsment többi tagjával együtt."
+        }
+      ],
+      "audience": "Igazgatási és pénzügyi területek, amelyek a valós működéssel szeretnék lezárni a számokat."
+    },
+    "logistics": {
+      "kicker": "Logisztika",
+      "card": "Logisztikai tevékenységének ellenőrzése és felügyelete.",
+      "features": [
+        "Útvonalak és szállítások",
+        "Valós idejű követés",
+        "Vezetői megbízás",
+        "Útvonal optimalizálás"
+      ],
+      "lead": "A megrendeléstől a kiszállításig: útvonalak, vezetők és valós idejű nyomon követés.",
+      "about": "FullVendor Logistics szervezi az elosztást. Útvonalakat hoz létre, sofőröket rendel hozzá, és láthatja, hogy az egyes szállítások merre tartanak. A forgalmi csapat a hívások függvényében megáll, hogy megtudja, hogy a rendelést feladták-e.",
+      "benefits": [
+        {
+          "title": "A nap útvonalai",
+          "text": "Szállítások zóna, időablak és kapacitás szerint rendezve."
+        },
+        {
+          "title": "Hozzárendelt illesztőprogram",
+          "text": "Minden útvonalnak van egy felelőse és egy világos sorrendje."
+        },
+        {
+          "title": "Nyomon követés",
+          "text": "Tudja, mit szállítanak ki, útközben vagy leállítva."
+        },
+        {
+          "title": "Kevesebb kilométer",
+          "text": "Az útvonaloptimalizálás csökkenti a szállítási időt és a költségeket."
+        }
+      ],
+      "audience": "Elosztási műveletek saját flottával vagy harmadik felekkel."
+    },
+    "supplier": {
+      "kicker": "Bevásárlás",
+      "card": "Portál beszállítók és beszerzési menedzsment számára.",
+      "features": [
+        "Beszerzési rendelések",
+        "Idézetek",
+        "Szállítói menedzsment",
+        "Integráció a leltárral"
+      ],
+      "lead": "Beszállítói árajánlatot tesznek, rendeléseket fogadnak és készletet töltenek fel laza e-mailek nélkül.",
+      "about": "Vendor Supplier abre un portal para que compras y proveedores trabajen sobre las mismas órdenes. Cotizaciones, órdenes de compra y recepción quedan atadas al inventario de FullVendor.",
+      "benefits": [
+        {
+          "title": "Megrendelések egy csatornában",
+          "text": "A szállító e-mail lánc nélkül látja, hogy mit szállítson."
+        },
+        {
+          "title": "Összehasonlítható idézetek",
+          "text": "Árakat kér, és az előzményeket figyelembe véve választ."
+        },
+        {
+          "title": "Szállító mester",
+          "text": "Feltételek, kapcsolatok és függőben lévő adatok egyetlen rekordban."
+        },
+        {
+          "title": "Adja meg a leltárt",
+          "text": "A vásárolt termék kézhezvételekor megjelenik a raktáron."
+        }
+      ],
+      "audience": "Több beszállítóval feltöltődő, nyomon követhetőséget igénylő beszerzési csapatok."
+    },
+    "salesman": {
+      "kicker": "Mobil alkalmazás",
+      "card": "Mobil alkalmazás értékesítési csapat számára.",
+      "features": [
+        "Ügyfélkezelés",
+        "Rendelés felvétel",
+        "Termékkatalógus",
+        "Offline munka"
+      ],
+      "lead": "Az eladók az utcán vesznek fel rendeléseket jelzéssel vagy anélkül.",
+      "about": "FullVendor Sales Man felteszi portfólióját, katalógusát és rendelésfelvételét az eladó telefonjára. Ha nincs internet, a munka folytatódik, és a jel visszatérésekor szinkronizálódik. A rendelés elkészítésre és kiszállításra készen érkezik.",
+      "benefits": [
+        {
+          "title": "Pénztárca a zsebben",
+          "text": "Az eladó látja az ügyfeleket, a feltételeket és a függőben lévő tételeket."
+        },
+        {
+          "title": "Rendelés látogatáskor",
+          "text": "Vegye fel a rendelést az aktuális árakkal és raktárkészlettel."
+        },
+        {
+          "title": "A katalógus naprakész",
+          "text": "Termékek, bemutatók és árak régi PDF nélkül."
+        },
+        {
+          "title": "Igazi offline",
+          "text": "Dolgozzon lefedettség nélkül, és szinkronizálja később."
+        }
+      ],
+      "audience": "Felügyelők és helyszíni értékesítők az elosztásban és a tömeges fogyasztásban."
+    },
+    "warehouse": {
+      "kicker": "Mobil alkalmazás",
+      "card": "Mobil alkalmazás raktárhoz.",
+      "features": [
+        "Átvétel és kiszállítás",
+        "Szedés és csomagolás",
+        "Leltár",
+        "Vonalkód olvasás"
+      ],
+      "lead": "Átvétel, átvétel, kiszállítás telefonon és vonalkóddal.",
+      "about": "FullVendor Warehouse irányítja a raktárt az átvétel, komissiózás, csomagolás és feladás során. A kódok leolvasása csökkenti a hibákat, és a készlet már nem csak a hónap végén történik.",
+      "benefits": [
+        {
+          "title": "Fogadás rendelés ellenében",
+          "text": "Ami belép, az összehasonlítva a vásárlással."
+        },
+        {
+          "title": "",
+          "text": "A hajótulajdonos követi a megrendelést, és minden egyes tételt visszaigazol."
+        },
+        {
+          "title": "Vonalkódok",
+          "text": "Kevesebb termék-, tétel- vagy mennyiségi hiba."
+        },
+        {
+          "title": "Megbízható raktárkészlet",
+          "text": "Minden lépés frissíti a platform készletét."
+        }
+      ],
+      "audience": "Raktárvezetők és hajótulajdonosok, akik ma nyomtatott listákkal készítik el a rendeléseket."
+    },
+    "finance": {
+      "kicker": "Mobil alkalmazás",
+      "card": "Pénzügyi ellenőrzés a mobilról.",
+      "features": [
+        "Követelések és tartozások",
+        "Ügyfél állapota",
+        "Kifizetések és egyeztetések",
+        "Pénzügyi jelentések"
+      ],
+      "lead": "Követelések, kifizetések és ügyfélállapot, a telefonjáról.",
+      "about": "FullVendor Finance mutatja a beszedést a mobilon: mi tartozik az egyes ügyfeleknek, mennyit fog fizetni a cég és hogyan jönnek a fizetések. Arra használják, hogy a látogatás során pénzt gyűjtsenek, és az íróasztal kinyitása nélkül megnézzék a pénztárgépet.",
+      "benefits": [
+        {
+          "title": "Gyűjtemény a látogatáson",
+          "text": "Az eladó az eladás előtt tudja, hogy az ügyfél naprakész-e."
+        },
+        {
+          "title": "Követelhető és fizetendő",
+          "text": "A doboz mindkét oldala ugyanabban az alkalmazásban."
+        },
+        {
+          "title": "Kifizetések és egyeztetések",
+          "text": "Regisztrálsz krediteket, és megnézed, mit kell átlépned."
+        },
+        {
+          "title": "Jelentések kéznél",
+          "text": "Beszedés és készpénz mutatók zárás megvárása nélkül."
+        }
+      ],
+      "audience": "Menedzserek, gyűjtők és értékesítők, akiknek pillanatnyilag szükségük van az ügyfél helyzetére."
+    }
+  },
+  "why": {
+    "eyebrow": "Por qué FullVendor",
+    "title": "Boost your business\nvalós eredménnyel",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "A cégek megbíznak bennünk"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktív felhasználók"
+      },
+      {
+        "value": "+10",
+        "suffix": "évre",
+        "label": "Folyamatos fejlődésben"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Felhő elérhetősége"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hogyan működik",
+    "title": "Eladástól gyűjtésig, rendszerváltás nélkül",
+    "text": "Minden termék megosztja az ügyfeleket, a készletet, a rendeléseket és a fizetéseket. Ami az utcán vagy a raktárban történik, az azonnal megjelenik az irodában.",
+    "steps": {
+      "sell": {
+        "title": "Eladod",
+        "text": "A megrendelés a weboldalon vagy a Sales Man-on keresztül történik, akár jelzés nélkül is."
+      },
+      "pick": {
+        "title": "Kész",
+        "text": "Warehouse vonalkóddal fogadja, szétválasztja és kiadja."
+      },
+      "deliver": {
+        "title": "Szállítások",
+        "text": "Logistics kijelöli az útvonalat és követi a kézbesítést."
+      },
+      "collect": {
+        "title": "Kobrák",
+        "text": "Finance és ERP zárja a gyűjtést, a bizonylatokat és a számokat."
+      }
+    }
+  },
+  "band": {
+    "title": "Készen áll, hogy megtekintse a [[műveletével]]?",
+    "text": "Megmutatjuk az ökoszisztémát az Önéhez hasonló elosztási esettel."
+  },
+  "footer": {
+    "blurb": "Webes és mobil platform elosztáshoz, értékesítéshez, logisztikához, beszerzéshez, készletezéshez és pénzügyekhez.",
+    "products": "Termékek",
+    "company": "Vállalat",
+    "legal": "Jogi",
+    "privacy": "Magánélet",
+    "terms": "Feltételek",
+    "rights": "Minden jog fenntartva."
+  },
+  "solutions": {
+    "eyebrow": "Megoldások",
+    "title": "Minden egyes terület, amely a [[ugyanaz a művelet]]",
+    "intro": "Válasszon a megoldani kívánt probléma alapján. Behind, the products share the same information.",
+    "items": {
+      "commercial": {
+        "title": "Kereskedelmi menedzsment",
+        "text": "Rendelések, árak, vevők és készlet a napi forgalmazáshoz."
+      },
+      "field": {
+        "title": "értékesítési csapat",
+        "text": "Az utcán, online vagy offline rendeléseket felvevő eladók."
+      },
+      "warehouse": {
+        "title": "Bolt",
+        "text": "Átvétel, komissiózás, kiszállítás és megbízható raktárkészlet."
+      },
+      "logistics": {
+        "title": "Logisztika és szállítás",
+        "text": "Útvonalak, vezetők és az egyes szállítások állapota."
+      },
+      "purchasing": {
+        "title": "Beszerzés és beszállítók",
+        "text": ""
+      },
+      "finance": {
+        "title": "Pénzügy és számvitel",
+        "text": "Beszedés, fizetés, elektronikus számlázás és könyvelés."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Iparágak",
+    "title": "Azoknak készült, akik [[terméket mozgatnak]]",
+    "intro": "FullVendor a forgalmazásban született, és kíséri azokat a cégeket, amelyek vásárolnak, raktároznak, értékesítenek és szállítanak.",
+    "items": {
+      "wholesale": {
+        "title": "Elosztás és nagykereskedelem",
+        "text": "Árlisták, portfólió, forgalmazás és begyűjtés egyetlen körben."
+      },
+      "retail": {
+        "title": "Kiskereskedelem",
+        "text": "Üzlet és raktár kapcsolódó raktárkészlettel, értékesítéssel és utánpótlással."
+      },
+      "food": {
+        "title": "Ételek és italok",
+        "text": "Gyakori utak és meg nem állni tudó raktár."
+      },
+      "pharma": {
+        "title": "Gyógyszertár és testápolás",
+        "text": "Nyomon követhető átvétel, komissiózás és készletellenőrzés."
+      },
+      "hardware": {
+        "title": "Hardver és konstrukció",
+        "text": "Sok referenciák, beszállítók és szállítások munkába vagy raktárba."
+      },
+      "fmcg": {
+        "title": "Tömegfogyasztás",
+        "text": "Utcai eladók és nagy forgalmú pótlás."
+      },
+      "manufacturing": {
+        "title": "Gyártás",
+        "text": "Beszerzés, raktározás és készletezés az adminisztrációhoz igazodva."
+      },
+      "lastmile": {
+        "title": "Szállítás és utolsó mérföld",
+        "text": "Útvonalak, vezetők és az egyes szállítások állapota."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Erőforrás",
+    "title": "Világos ötletek [[a művelet megrendeléséhez]]",
+    "intro": "Rövid útmutatók a disztribúciós menedzsereknek, akik eldöntik, melyik rendszert választják.",
+    "items": {
+      "unify": {
+        "title": "Hogyan lehet a disztribúciót egyetlen rendszerré egyesíteni",
+        "summary": "Mit kell először összerakni, ha az értékesítés, a raktár és a gyűjtemények különböző fájlokban élnek.",
+        "points": [
+          "Kezdje az ügyfelekkel, a termékekkel és az árakkal: ők azok a tanárok, akiket mindenki használ.",
+          "Mielőtt további alkalmazásokat adna hozzá, kösse össze a rendelést a készlettel.",
+          "Egy egyszerű számot mér: az űrlap újratöltése nélkül teljesített rendeléseket."
+        ]
+      },
+      "offline": {
+        "title": "Értékesítési személyzet dolgozik offline",
+        "summary": "Mit kell megkövetelni egy megrendelő alkalmazástól, hogy az eladó ne álljon le a jelzés miatt.",
+        "points": [
+          "A katalógusnak és a pénztárcának a telefonon kell lennie, nem csak a felhőben.",
+          "A rendelés mentésre kerül az eszközön, és feltöltődik, amikor a hálózat visszatér.",
+          "Szinkronizáláskor a rendelés már bekerül a raktárba."
+        ]
+      },
+      "warehouse": {
+        "title": "Raktár vonalkóddal, papír nélkül",
+        "summary": "Hogyan juthat el a nyomtatott listáról a telefonos visszaigazolásig.",
+        "points": [
+          "Megrendelés ellenében kap, nem memória ellenében.",
+          "Elválasztáskor erősítse meg az egyes elemeket. A poloska bevág a folyosóra.",
+          "A kiszállítás frissíti az eladó által látott készletet."
+        ]
+      },
+      "finance": {
+        "title": "Gyűjtemény igazodik az eladáshoz",
+        "summary": "Miért kell az eladónak látnia az ügyfél tartozását, mielőtt újabb rendelést vesz fel?",
+        "points": [
+          "A látogatás a legjobb időpont a behajtásra, ha látható a tartozás.",
+          "Az értékesítésnek és a pénzügynek ugyanarra a vevőre kell tekintenie.",
+          "Egy napi késedelmes jelentés többet ér, mint egy késői zárás."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Árak",
+    "title": "Egy ökoszisztéma, amely [[veled nő]]",
+    "intro": "Általános tarifát nem teszünk közzé: a költség a moduloktól, a felhasználóktól és a mennyiségtől függ. Megmutatjuk a platformot, és összeállítunk egy ajánlatot az Ön működéséhez.",
+    "note": "A demónak nincs költsége, és nem igényel szerződést.",
+    "recommended": "Ajánlott",
+    "faq_title": "Gyakran ismételt kérdések",
+    "plans": {
+      "essential": {
+        "name": "Alapvető",
+        "desc": "A kereskedelmi menedzsment és forgalmazás egyetlen platformon történő megszervezése.",
+        "features": [
+          "FullVendor webes platform",
+          "Értékesítés, vásárlás és készlet",
+          "Ügyfelek, beszállítók és jelentések",
+          "Irodai berendezések felhasználói",
+          "Indítási támogatás"
+        ],
+        "cta": "Demó kérése"
+      },
+      "professional": {
+        "name": "Szakmai",
+        "desc": "Olyan csapatoknak, akik az utcán értékesítenek és a raktárban készítenek rendelést.",
+        "features": [
+          "Minden, ami elengedhetetlen",
+          "Alkalmazás FullVendor Sales Man",
+          "Alkalmazás FullVendor Warehouse",
+          "Offline munka és vonalkódok",
+          "Több szántóföldi és raktári felhasználó"
+        ],
+        "cta": "Demó kérése"
+      },
+      "corporate": {
+        "name": "Társasági",
+        "desc": "Logisztikát, beszerzést, pénzügyi és különféle cégeket igénylő csoportoknak.",
+        "features": [
+          "Komplett ökoszisztéma",
+          "Logistics, Vendor Supplier és Finance",
+          "FullVendor ERP és több bérlés",
+          "Elektronikus számlázás és könyvelés",
+          "Kíséret és elsőbbségi elérhetőség"
+        ],
+        "cta": "Beszélj az eladókkal"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Meg kell vásárolnom az összes terméket?",
+        "a": "Nem. Kezdheti a FullVendor-val, és hozzáadhat alkalmazásokat vagy ERP-t, amikor a műveletnek szüksége van rá."
+      },
+      "offline": {
+        "q": "Működnek az alkalmazások internet nélkül?",
+        "a": "Sales Man és Warehouse jel nélkül tovább működik, és újracsatlakozáskor szinkronizál."
+      },
+      "multi": {
+        "q": "Működik, ha egynél több cégem van?",
+        "a": "Sí. El ERP contempla multiempresa y el ecosistema puede compartir maestros entre ellas."
+      },
+      "demo": {
+        "q": "Mit tartalmaz a demó?",
+        "a": "Bejárás a platformon az Önéhez hasonló tokkal. Költség és kötelezettség nélkül."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demó",
+    "title": "Mutatjuk a FullVendor-t [[a művelet típusa]]",
+    "text": "Először mondja el nekünk a cégét és azt, hogy mit szeretne rendelni. A demónak nincs költsége."
+  },
+  "contact": {
+    "eyebrow": "Érintkezés",
+    "title": "Beszéljünk a [[műveletedről]]",
+    "text": "Ha szeretne bemutatót, ajánlatot vagy csak tájékozódni a termékek között, hagyja meg adatait és válaszolunk.",
+    "email": "Felad",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Név",
+    "email": "Felad",
+    "phone": "Telefon",
+    "company": "Vállalat",
+    "country": "Ország",
+    "team": "Csapat mérete",
+    "interest": "Mi érdekel?",
+    "message": "Üzenet",
+    "optional": "Választható",
+    "choose": "Válassza ki",
+    "interest_all": "Az egész ökoszisztéma",
+    "ph_name": "a neved",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Az Ön cége",
+    "ph_country": "Ország",
+    "ph_message": "Mondja el nekünk, hogyan működik ma",
+    "privacy_before": "Elfogadom adataim felhasználását a",
+    "privacy_after": ".",
+    "submit": "Kérelem küldése",
+    "sent_title": "Megkapjuk kérését",
+    "sent_text": "Köszönöm. Az értékesítési csapat írni fog Önnek, hogy koordinálja a bemutatót, vagy válaszoljon kérdésére.",
+    "error_required": "Töltse ki ezt a mezőt.",
+    "error_email": "Adjon meg egy érvényes e-mail-címet.",
+    "error_phone": "Ellenőrizze a telefont.",
+    "error_privacy": "Az elérhetőségek használatához az Ön hozzájárulására van szükségünk.",
+    "error_csrf": "A munkamenet lejárt. Nyújtsa be újra az űrlapot.",
+    "error_save": "Nem tudtuk menteni a kérést. Próbáld újra.",
+    "error_generic": "Tekintse át a megjelölt mezőket.",
+    "error_rate": "Kérjük, várjon egy pillanatot, mielőtt újabb kérést küldene be.",
+    "team_options": {
+      "1-10": "1-10 fő",
+      "11-50": "11-50 fő",
+      "51-200": "51-200 fő",
+      "201-500": "201-500 fő",
+      "500+": "Több mint 500 ember"
+    }
+  },
+  "video": {
+    "title": "FullVendor egy perc alatt",
+    "prev": "Korábbi",
+    "next": "Következő",
+    "slides": [
+      {
+        "title": "Egyetlen ökoszisztéma",
+        "text": "Értékesítés, raktározás, szállítás, beszerzés és finanszírozás megosztja az ügyfeleket, a raktárkészletet és a rendeléseket."
+      },
+      {
+        "title": "Web és mobil együtt",
+        "text": "Az iroda a platformon dolgozik. Az utca és a raktár, az alkalmazásokban, jelzés nélkül is."
+      },
+      {
+        "title": "Terjesztésre készült",
+        "text": "A megrendeléstől a fizetésig, anélkül, hogy az adatokat egyik fájlból a másikba továbbítanák."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Termékek, megoldások, iparágak keresése…",
+    "lang_filter": "Keresés nyelve",
+    "intro": "Keressen termékeket, megoldásokat, iparágakat és erőforrásokat.",
+    "empty": "Nem találtunk találatot a(z) „{q}” kifejezésre.",
+    "hint": "Próbálja ki az értékesítést, a raktárt, az útvonalakat vagy a gyűjteményeket.",
+    "results": "{n} eredmények",
+    "button": "Keres",
+    "kind_product": "Termék",
+    "kind_solution": "Megoldás",
+    "kind_industry": "Ipar",
+    "kind_resource": "Forrás"
+  },
+  "notfound": {
+    "title": "Ez az oldal nem",
+    "text": "A link nem létezik, vagy megváltoztatta a helyét."
+  },
+  "common": {
+    "what": "Mi oldja meg",
+    "features": "Amit tartalmaz",
+    "benefits": "Miért számít",
+    "for_who": "Kinek szól?",
+    "related": "Az ökoszisztémában is"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Eladások ma",
+      "orders": "Megrendelések",
+      "clients": "Ügyfelek",
+      "products": "Termékek"
+    },
+    "sidebar": {
+      "dashboard": "Műszerfal",
+      "sales": "Értékesítés",
+      "purchases": "Bevásárlás",
+      "inventory": "Leltár",
+      "clients": "Ügyfelek",
+      "reports": "Jelentések"
+    },
+    "chart": "Értékesítés",
+    "channel": "Elosztás csatornánként",
+    "channels": [
+      "Bolt",
+      "Elosztás",
+      "Nagykereskedő",
+      "Mások"
+    ],
+    "orders": "Legújabb rendelések",
+    "col_order": "Rendelés",
+    "col_client": "Vevő",
+    "col_status": "Állami",
+    "col_total": "Teljes",
+    "status": [
+      "Szállítva",
+      "Úton",
+      "Fülbevaló"
+    ],
+    "top": "Legkeresettebb termékek",
+    "product": "Termék",
+    "sales_menu": [
+      "Ügyfelek",
+      "Megrendelések",
+      "Termékek",
+      "Útvonalak",
+      "Szinkronizálás"
+    ],
+    "warehouse_menu": [
+      "Recepció",
+      "Szedés",
+      "Leltár",
+      "Feladás",
+      "Szinkronizálás"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Adatvédelmi szabályzat",
+    "privacy_intro": "Ez a szabályzat elmagyarázza, hogy mit teszünk azokkal az adatokkal, amelyeket ezen a webhelyen hagyott űrlapokon.",
+    "privacy": [
+      {
+        "title": "Milyen adatokat gyűjtünk",
+        "text": "Ha demót kér, vagy ír nekünk, elmentjük a nevet, céget, email címet, telefonszámot, ha megadja, országot, a csapat létszámát, az érdeklõdõ terméket és az üzenetet. A visszaélések elkerülése érdekében rögzítjük a dátumot, az oldal nyelvét és az IP-címet is."
+      },
+      {
+        "title": "Mire használjuk őket?",
+        "text": "Ezeket az adatokat csak arra használjuk, hogy válaszoljunk Önnek, demo koordináljunk és kereskedelmi ajánlatot készítsünk. Nem adjuk el és nem adjuk ki harmadik felek listájának."
+      },
+      {
+        "title": "Hol tárolják és mennyi ideig?",
+        "text": "A kérések a webhely szerverén tárolódnak. Megőrizzük őket az Ön kiszolgálásához és a kereskedelmi nyomon követéshez szükséges ideig, és töröljük, amikor Ön kéri, vagy amikor már nincs rájuk szükség."
+      },
+      {
+        "title": "Az Ön jogai",
+        "text": "Adataihoz való hozzáférést, azok helyesbítését vagy törlését a kapcsolatfelvételi űrlapon kérheti, az üzenetben jelezve. Ha a cég e-mailt tesz közzé ezen a weboldalon, akkor oda is írhat."
+      }
+    ],
+    "terms_title": "Felhasználási feltételek",
+    "terms_intro": "Ezek a feltételek a jelen FullVendor beküldési oldal használatára vonatkoznak.",
+    "terms": [
+      {
+        "title": "Kereskedelmi információk",
+        "text": "Szövegek, példa-ábrák és leírások mutatják be a platformot. A termék változása esetén módosíthatók, és nem zárt ajánlatok."
+      },
+      {
+        "title": "A bemutató nem szerződés",
+        "text": "Az űrlap elküldése nem jelent vásárlási vagy árfoglalási kötelezettséget. Minden szerződést külön, írásban kötnek meg, annak hatályával és feltételeivel."
+      },
+      {
+        "title": "A webhely tartalma",
+        "text": "A FullVendor védjegye, a terméknevek és ezen oldalak tartalma tulajdonosaik. Nem másolhatók más termék bemutatására."
+      },
+      {
+        "title": "Elfogadható használat",
+        "text": "Ne használja az űrlapokat hamis adatok, spam vagy illegális tartalom küldésére. Figyelmen kívül hagyhatjuk azokat a kéréseket, amelyek nem felelnek meg egy tényleges üzleti beszélgetésnek."
+      }
+    ]
+  }
+}

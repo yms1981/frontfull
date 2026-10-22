@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Maamul oo kobci ganacsigaaga",
+    "home_desc": "All-in-one platform leh web iyo xalalka mobilada ee qaybinta, iibinta, saadka, iibsiga, alaabada iyo maaliyadda.",
+    "products_title": "Alaabta | FullVendor",
+    "products_desc": "Baro nidaamka deegaanka FullVendor: madal ganacsi, ERP, saadka, alaab-qeybiyeyaasha iyo iibka, barnaamijyada bakhaarka iyo maaliyadda.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Xalka | FullVendor",
+    "solutions_desc": "Xalka maaraynta ganacsiga, xoogga iibka, bakhaarka, saadka, iibsiga iyo maaliyadda.",
+    "industries_title": "Warshadaha | FullVendor",
+    "industries_desc": "FullVendor qaybinta, tafaariiqda, cuntada, farmashiyaha, qalabka, isticmaalka tirada badan, wax soo saarka iyo mile u dambeeya.",
+    "pricing_title": "Qiimaha | FullVendor",
+    "pricing_desc": "Qorshayaasha Muhiimka ah, Xirfadlayaasha iyo Shirkadaha. Soo jeedinta waxaa la isugu geeyaa iyadoo loo eegayo cutubyada, isticmaalayaasha iyo mugga.",
+    "resources_title": "Khayraadka | FullVendor",
+    "resources_desc": "Tilmaamayaal gaagaaban si loo mideeyo qaybinta, lagu iibiyo khadka tooska ah, habaynta bakhaarka oo lagu bixiyo wakhtiga loogu talagalay.",
+    "contact_title": "Xiriir | FullVendor",
+    "contact_desc": "Noo qor si aan u barano FullVendor ama iskudubarid wada hadalka kooxda iibka.",
+    "demo_title": "Codso demo | FullVendor",
+    "demo_desc": "Codso muujinta FullVendor oo ku booqo goobta kiis la mid ah hawlgalkaaga.",
+    "privacy_title": "Qarsoodinimada | FullVendor",
+    "terms_title": "Shuruudaha | FullVendor",
+    "search_title": "Raadi | FullVendor",
+    "notfound_title": "Bogga lama helin | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Bogga guriga",
+    "products": "Alaabta",
+    "solutions": "Xalka",
+    "industries": "Warshadaha",
+    "pricing": "Qiimaha",
+    "resources": "Khayraadka",
+    "contact": "Xiriir",
+    "open_menu": "Fur menu",
+    "close": "Xir"
+  },
+  "cta": {
+    "demo": "Codso Demo",
+    "contact": "Nala soo xidhiidh",
+    "video": "Daawo Muqaal",
+    "talk": "Kala hadal iibka",
+    "all_products": "Eeg dhammaan alaabta",
+    "home": "Ku soo noqo bogga guriga"
+  },
+  "a11y": {
+    "skip": "U bood nuxurka",
+    "primary": "Navigation ugu weyn",
+    "crumbs": "Jidka hagidda",
+    "search": "Raadi",
+    "language": "Luuqad"
+  },
+  "hero": {
+    "eyebrow": "Dhammaan hal madal",
+    "title": "Maamul oo koraan\nganacsigaaga\n{{brand}}",
+    "subtitle": "Meel dhamaystiran oo leh xalalka shabakada iyo mobaylka ee qaybinta, iibinta, saadka, wax iibsiga, alaabada, maaliyadda iyo wax ka badan.",
+    "pill_ecosystem": "Wax kasta oo ku jira hal nidaam deegaan",
+    "pill_cloud": "Daruuraha dhexdiisa, ammaan ah oo la cabbiri karo",
+    "pill_size": "Loogu talagalay shirkadaha nooc kasta leh"
+  },
+  "products_block": {
+    "eyebrow": "Alaabtayada",
+    "title": "A [[ecosystem] oo dhammaystiran oo ah goob kasta oo ganacsigaaga ah",
+    "aside": "Xalka isku dhafan ee wada shaqeeya si ay kuu siiyaan koontarool guud, hufnaan hawleed iyo korriin weyn.",
+    "groups": {
+      "money": "Maamulka iyo ururinta",
+      "flow": "Iibka iyo keenista",
+      "field": "Iibka iyo bakhaarka"
+    }
+  },
+  "products_page": {
+    "title": "Toddoba alaab, [[hal hawlgal]]",
+    "text": "Alaab kastaa waxay xallisaa aag. Si wadajir ah waxay wadaagaan macaamiisha, saamiyada, dalabaadka iyo lacagaha."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Goobta ugu weyn ee maareynta ganacsiga iyo qaybinta.",
+      "features": [
+        "Iibinta iyo iibsashada",
+        "Alaabada",
+        "Macaamiisha iyo alaab-qeybiyeyaasha",
+        "Warbixino iyo kuwo kale"
+      ],
+      "lead": "Xarunta hawlgalkaaga ganacsi: dalabaadka, qiimaha, saamiyada iyo macaamiisha hal meel.",
+      "about": "FullVendor waxay beddeshaa xaashiyaha iyo nidaamyada dabacsan ee qaybiyaha. Halkan waxaa ka soo baxaya dalabaadyo, alaabada ayaa lagala tashadaa, faylalka macaamiisha ayaa lagu daryeelayaa, waxaana la eegayaa tirooyinka maalinta. Inta kale ee nidaamka deegaanka ayaa ku xidha saldhigan.",
+      "benefits": [
+        {
+          "title": "Hal xogeed",
+          "text": "Macaamiisha, badeecadaha iyo qiimayaasha waxa lala wadaagaa iibka, bakhaarka iyo maaliyadda."
+        },
+        {
+          "title": "Nadiifi hawlgalka maalinlaha ah",
+          "text": "Dalabka, wax iibsiga iyo kaydku waxay joojiyaan ku noolaanshaha faylal kala duwan."
+        },
+        {
+          "title": "Warbixinnada lagu go'aaminayo",
+          "text": "Iibka, margin iyo sugitaanka ayaa la arkaa iyada oo aan la isku dhejin miiska gacanta."
+        },
+        {
+          "title": "Diyaar u ah inuu koro",
+          "text": "Saadka, xoogga iibka ama ERP wadarta marka hawlgalku codsado."
+        }
+      ],
+      "audience": "Kooxaha ganacsiga iyo qaybinta ee maanta isku xidha ganacsiga inta u dhaxaysa dhawr nidaam."
+    },
+    "erp": {
+      "kicker": "Maamulka",
+      "card": "Maamulka iyo maamulka maaliyadda oo dhameystiran.",
+      "features": [
+        "Xisaabinta",
+        "Biilasha elegtarooniga ah",
+        "Xaashiyaha shaqada",
+        "Hanti go'an",
+        "Shirkado badan"
+      ],
+      "lead": "Maamulka iyo dhaqaalaha, oo la jaan qaadaya waxa dhabta ah ee la iibiyo oo la keeno.",
+      "about": "FullVendor ERP waxay dabooshaa xisaabaadka, qaansheegta elegtarooniga ah, mushaar bixinta, hantida go'an iyo shirkado badan. Waxay qaadataa hawlgalka ganacsiga waxayna u beddeshaa gelinta, rasiidhada iyo bayaannada ay aagga maaliyadeed isticmaali karto.",
+      "benefits": [
+        {
+          "title": "Xisaabinta ku xidhan",
+          "text": "Waxa ka dhacaya iibka iyo iibsigu waxay quudiyaan xisaabaadka."
+        },
+        {
+          "title": "Rasiidhada elegtarooniga ah",
+          "text": "Waxaad soo saartaa oo maamushaa biilasha isla nidaamka deegaanka."
+        },
+        {
+          "title": "Shirkado kala duwan",
+          "text": "Shirkado badan oo loogu talagalay kooxaha ku shaqeeya wax ka badan hal magac oo shirkad ah."
+        },
+        {
+          "title": "Mushaharka iyo hantida",
+          "text": "Mushaharka iyo hantida go'an oo ay la socdaan inta kale ee maamulka."
+        }
+      ],
+      "audience": "Meelaha maamulka iyo dhaqaalaha ee raba in lagu xiro tirooyinka hawlgalka dhabta ah."
+    },
+    "logistics": {
+      "kicker": "Saadka",
+      "card": "Xakamaynta iyo la socodka hawsha saadka.",
+      "features": [
+        "Jidadka iyo gaarsiinta",
+        "Raadinta-waqtiga dhabta ah",
+        "Shaqada darawalnimada",
+        "Hagaajinta wadada"
+      ],
+      "lead": "Laga soo bilaabo nidaamka ilaa gaarsiinta: wadooyinka, darawalada iyo dabagalka waqtiga dhabta ah.",
+      "about": "FullVendor Logistics qabanqaabiya qaybinta. Waxaad abuurtaa waddooyin, waxaad meelaysaa darawallada oo waxaad eegtaa halka gaarsiinta kastaa u socoto. Kooxda taraafikada waxay istaagtaa iyadoo ku xiran wicitaanada si ay u ogaadaan in dalabka la soo diray.",
+      "benefits": [
+        {
+          "title": "Wadooyinka maalinta",
+          "text": "keenista lagu dalbado aaga, wakhtiga daaqada iyo awooda"
+        },
+        {
+          "title": "Darawal loo xilsaaray",
+          "text": "Dariiq kastaa wuxuu leeyahay qof masuul ah iyo taxane cad."
+        },
+        {
+          "title": "Dabagal",
+          "text": "Waad garanaysaa waxa la keeno, jidka ama la joojiyo."
+        },
+        {
+          "title": "Kiiloomitir ka yar",
+          "text": "Hagaajinta dariiqa waxay yaraynaysaa wakhtiga bixinta iyo kharashka."
+        }
+      ],
+      "audience": "Hawlgallada qaybinta oo ay wataan koox saddexaad oo iyaga u gaar ah."
+    },
+    "supplier": {
+      "kicker": "Wax iibsiga",
+      "card": "Xariirka alaab-qeybiyeyaasha iyo maamulka wax iibsiga.",
+      "features": [
+        "Dalabka iibka",
+        "Xigasho",
+        "Maamulka alaab-qeybiyaha",
+        "Isdhexgalka alaabada"
+      ],
+      "lead": "Alaab-qeybiyeyaashaadu waxay soo xiganayeen, hela dalabaad iyo buuxin bakhaarka iyaga oo aan lahayn iimayl dabacsan.",
+      "about": "Vendor Supplier waxay u furaysaa marin wax-iibsasho iyo alaab-qeybiyeyaal inay ku shaqeeyaan amar isku mid ah. Xigashooyinka, dalabaadka iibka iyo rasiidhka waxay ku xidhan yihiin liiska FullVendor.",
+      "benefits": [
+        {
+          "title": "Dalabka kanaalka",
+          "text": "Alaab-qeybiyuhu wuxuu arkaa waxa la keenayo, iyada oo aan lahayn silsilad iimayl ah."
+        },
+        {
+          "title": "Xigashooyinka isbarbardhigga ah",
+          "text": "Waxaad waydiisanaysaa qiimayaal waxaadna dooranaysaa iyadoo taariikhda la eegayo."
+        },
+        {
+          "title": "Alaab-qeybiye Master",
+          "text": "Shuruudaha, xiriirada iyo sugitaanka hal diiwaan."
+        },
+        {
+          "title": "Geli alaabta",
+          "text": "Waxa la soo iibsaday waxay ka muuqdaan kaydka marka la helo."
+        }
+      ],
+      "audience": "Kooxaha wax gadanaya oo ku buuxinaya alaab-qeybiyeyaal badan una baahan raad raac."
+    },
+    "salesman": {
+      "kicker": "Mobile App",
+      "card": "Codsiga mobilada ee kooxda iibka.",
+      "features": [
+        "Maamulka macaamiisha",
+        "Dalbashada qaadashada",
+        "Buugga alaabta",
+        "Shaqada khadka tooska ah"
+      ],
+      "lead": "Ciidanka wax iibinaya waxay amar ku qaataan wadada, iyagoo wata calaamad ama calaamad la'aan.",
+      "about": "FullVendor Sales Man waxay gelinaysaa faylalkaaga, buug-gacmeedka iyo dalabka qaadashada taleefanka iibiyaha. Haddii uusan jirin internet, shaqadu way sii socotaa oo way iswaqaysaa marka calaamaduhu soo noqdaan. Dalabka ayaa yimid isagoo diyaar u ah inuu diyaariyo oo keeno.",
+      "benefits": [
+        {
+          "title": "Jeebka ku jira",
+          "text": "Iibiyuhu waxa uu arkaa macaamiisha, xaaladaha iyo alaabta la sugayo."
+        },
+        {
+          "title": "Dalbo booqashada",
+          "text": "Qaado dalabka qiimaha hadda iyo kaydka."
+        },
+        {
+          "title": "Catalog ilaa hadda",
+          "text": "Alaabooyinka, bandhigyada iyo qiimayaasha oo aan lahayn PDF duug ah."
+        },
+        {
+          "title": "Khadka tooska ah ee dhabta ah",
+          "text": "Shaqeyso caymis la'aan oo hadhow la wadaag."
+        }
+      ],
+      "audience": "Kormeerayaasha iyo dadka iibka ah ee goobta qaybinta iyo isticmaalka tirada badan."
+    },
+    "warehouse": {
+      "kicker": "Mobile App",
+      "card": "Codsiga mobilada ee bakhaarka",
+      "features": [
+        "Soo dhawayn iyo dirid",
+        "Qaadashada iyo baakaynta",
+        "Xakamaynta alaabada",
+        "Barcode akhriska"
+      ],
+      "lead": "Soo dhawaynta, soo qaadashada iyo diritaanka telefoonka iyo barcode.",
+      "about": "FullVendor Warehouse waxay hagtaa bakhaarka soo dhawaynta, soo qaadista, baakaynta iyo diritaanka. Xeerarka akhrisku waxa ay yareeyaan khaladaadka, alaabadana lama tiriyo kaliya dhamaadka bisha.",
+      "benefits": [
+        {
+          "title": "Soo dhaweyn ka soo horjeeda amarka",
+          "text": "Waxa soo galaa waxa la barbar dhigaa gadashada."
+        },
+        {
+          "title": "Xulasho la beegsaday",
+          "text": "Mulkiilaha markabka ayaa raacaya amarka oo xaqiijinaya shay kasta."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Qaladaad yar oo badeecad ah, dufc ama tiro."
+        },
+        {
+          "title": "kayd lagu kalsoonaan karo",
+          "text": "Dhaqdhaqaaq kastaa wuxuu cusboonaysiiyaa agabka goobta"
+        }
+      ],
+      "audience": "Maamulayaasha bakhaarka iyo mulkiilayaasha maraakiibta kuwaaso maanta diyaariya dalabaadka liisaska daabacan."
+    },
+    "finance": {
+      "kicker": "Mobile App",
+      "card": "Xakamaynta maaliyadeed ee mobilkaaga.",
+      "features": [
+        "Xisaabaadka la qaadan karo oo la bixin karo",
+        "Heerka macmiilka",
+        "Lacag bixinta iyo dib-u-heshiisiinta",
+        "Warbixinnada maaliyadeed"
+      ],
+      "lead": "Xisaabaadka laga qaadan karo, lacag-bixinta iyo heerka macmiilka, ee laga helayo taleefankaaga.",
+      "about": "FullVendor Finance wuxuu muujinayaa ururinta mobilada: macmiil kasta waxa lagu leeyahay, waxa shirkadu bixinayso iyo sida lacaguhu u yimaadaan. Waxaa loo isticmaalaa in lagu ururiyo lacag inta lagu jiro booqashada iyo in lagu eego diiwaanka lacagta caddaanka ah iyada oo aan la furin miiska.",
+      "benefits": [
+        {
+          "title": "Uruurinta booqashada",
+          "text": "Iibiyuhu waa ogyahay haddii macaamiishu uu cusub yahay ka hor inta uusan iibin."
+        },
+        {
+          "title": "La qaadan karo oo la bixin karo",
+          "text": "Labada dhinac ee sanduuqa ee isla abka."
+        },
+        {
+          "title": "Lacag bixinta iyo dib-u-heshiisiinta",
+          "text": "Waxaad diiwaan gelisaa credits oo arag waxa loo baahan yahay in laga gudbo."
+        },
+        {
+          "title": "Warbixinada gacanta ku haya",
+          "text": "Tilmaamayaasha ururinta iyo lacagta caddaanka ah iyada oo aan la sugin xidhidh."
+        }
+      ],
+      "audience": "Maareeyayaasha, kuwa wax aruuriya iyo kuwa wax iibiya ee u baahan xaalada macmiilka xilligan."
+    }
+  },
+  "why": {
+    "eyebrow": "Waa maxay sababta FullVendor",
+    "title": "Kobcinta ganacsigaaga\noo leh natiijooyin dhab ah",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Shirkado nagu kalsoon yihiin"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Isticmaalayaasha firfircoon"
+      },
+      {
+        "value": "+10",
+        "suffix": "sanado",
+        "label": "Horumar joogto ah"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Helitaanka daruuraha"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Sida ay u shaqeyso",
+    "title": "Laga soo bilaabo iibka ilaa ururinta, iyada oo aan la beddelin nidaamyada",
+    "text": "Alaab kasta waxay la wadaagtaa macaamiisha, saamiyada, dalabaadka iyo lacag bixinta. Waxa ka dhaca wadada ama bakhaarka ayaa isla markiiba ka muuqda xafiiska.",
+    "steps": {
+      "sell": {
+        "title": "Waxaad iibisaa",
+        "text": "Dalabka waxaa la galaa mareegaha ama Sales Man, xitaa calaamad la'aan."
+      },
+      "pick": {
+        "title": "Diyaarsan",
+        "text": "Warehouse ku qaata, kala sooca oo ku soo dira barcode."
+      },
+      "deliver": {
+        "title": "gaarsiin",
+        "text": "Logistics wuxuu qoondeeyaa jidka wuxuuna raacaa gaarsiinta."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance iyo ERP waxay xidhaan ururinta, rasiidhada iyo tirooyinka."
+      }
+    }
+  },
+  "band": {
+    "title": "Diyaar ma u tahay inaad ku aragto [[qalliinkaaga]]?",
+    "text": "Waxaan ku tusineynaa nidaamka deegaanka ee leh kiis qaybinta oo la mid ah kaaga."
+  },
+  "footer": {
+    "blurb": "Mareegta iyo mobaylka ee qaybinta, iibinta, saadka, wax iibsiga, alaabada iyo maaliyadda.",
+    "products": "Alaabta",
+    "company": "Shirkadda",
+    "legal": "Sharci",
+    "privacy": "Qarsoodi",
+    "terms": "Shuruudaha",
+    "rights": "Dhammaan xuquuqaha way xifdiyeen"
+  },
+  "solutions": {
+    "eyebrow": "Xalka",
+    "title": "Aag kasta, oo ku xidhan [[isku hawl gal]]",
+    "intro": "Ku dooro dhibaatada aad rabto inaad xalliso. Gadaal, alaabtu waxay wadaagaan macluumaad isku mid ah.",
+    "items": {
+      "commercial": {
+        "title": "Maamulka ganacsiga",
+        "text": "Dalabka, qiimaha, macaamiisha iyo agabka qaybinta maalin-ka-maalin"
+      },
+      "field": {
+        "title": "xoogga iibka",
+        "text": "Iibiyaasha oo ka dalbanaya wadada, online ama offline."
+      },
+      "warehouse": {
+        "title": "Bakhaar",
+        "text": "Soo dhawaynta, qaadista, dirida iyo kaydka la aamini karo."
+      },
+      "logistics": {
+        "title": "Saadka iyo gaarsiinta",
+        "text": "Jidadka, darawalada iyo heerka gaarsiinta kasta."
+      },
+      "purchasing": {
+        "title": "Iibka iyo alaab-qeybiyeyaasha",
+        "text": "Xigasho, amarro iyo marin u gaar ah ciddii ku siisa."
+      },
+      "finance": {
+        "title": "Maaliyadda iyo xisaabaadka",
+        "text": "Uruurinta, lacag-bixinta, biilasha elektarooniga ah iyo xisaabinta."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Warshadaha",
+    "title": "Loo sameeyay kuwa [[u guura alaabta]]",
+    "intro": "FullVendor wuxuu ku dhashay qaybinta wuxuuna la socdaa shirkadaha wax iibsada, kaydiya, iibiya oo keena.",
+    "items": {
+      "wholesale": {
+        "title": "Qaybin iyo jumlo",
+        "text": "Liisaska qiimaha, faylalka, qaybinta iyo ururinta hal wareeg."
+      },
+      "retail": {
+        "title": "Tafaariiqda",
+        "text": "Bakhaar iyo bakhaar leh kayd ku xidhan, iib iyo buuxin."
+      },
+      "food": {
+        "title": "Cuntada iyo cabitaannada",
+        "text": "Jidadka soo noqnoqda iyo bakhaar aan joogsan karin."
+      },
+      "pharma": {
+        "title": "Farmashiyaha iyo daryeelka shakhsi ahaaneed",
+        "text": "Soo dhawaynta, qaadista iyo xakamaynta alaabada oo leh raad raac."
+      },
+      "hardware": {
+        "title": "Qalabka iyo dhismaha",
+        "text": "Tixraacyo badan, alaab-qeybiyeyaal iyo keenis shaqo ama dukaan."
+      },
+      "fmcg": {
+        "title": "Isticmaalka tirada badan",
+        "text": "Awoodda iibka waddooyinka iyo beddelka sare ee beddelka."
+      },
+      "manufacturing": {
+        "title": "Wax-soo-saarka",
+        "text": "Iibka, bakhaarka iyo agabka agabka ee la socda maamulka."
+      },
+      "lastmile": {
+        "title": "Bixinta iyo mayl u dambeeya",
+        "text": "Jidadka, darawalada iyo heerka gaarsiinta kasta."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Khayraadka",
+    "title": "Nadiifi fikradaha [[dalbashada hawlgalka]]",
+    "intro": "Tilmaamayaal gaagaaban oo loogu talagalay maamulayaasha qaybinta kuwaas oo go'aan ka gaaraya nidaamka ay ku dheggan yihiin.",
+    "items": {
+      "unify": {
+        "title": "Sida loo mideeyo qaybinta hal nidaam",
+        "summary": "Waxa la isku keeno marka hore marka iibka, bakhaarrada iyo ururinta ay ku nool yihiin faylal kala duwan.",
+        "points": [
+          "Ka bilow macaamiisha, alaabada iyo qiimaha: waa macalinka qof kastaa isticmaalo.",
+          "Ku xidh dalabka kaydka ka hor intaadan ku darin codsiyo badan.",
+          "Waxay cabbirtaa tiro fudud: amarada la fuliyay iyada oo aan dib loo samayn foomka."
+        ]
+      },
+      "offline": {
+        "title": "Xoogga iibka oo ka shaqeeya offline",
+        "summary": "Waxa laga rabo abka dalabka si aanu iibiyuhu u joojin calaamada dartii.",
+        "points": [
+          "Buug-yaraha iyo boorsada jeebka waa inay ku jiraan taleefanka, ma aha oo keliya daruuraha.",
+          "Dalabka waxa lagu kaydiyaa aaladda oo la shubaa marka shabakadu soo noqoto.",
+          "Marka la wada shaqaynayo, dalabku waxa uu galaa bakhaarka."
+        ]
+      },
+      "warehouse": {
+        "title": "Bakhaar leh barcode, bilaa warqad",
+        "summary": "Sida looga baxo liiska daabacan oo la xaqiijiyay qaadashada taleefanka.",
+        "points": [
+          "Hesho lid ku ah amarka iibka, ma liddi ku ah xusuusta.",
+          "Xaqiiji shay kasta marka la kala saarayo. Cayayaanka ayaa gooya marinka.",
+          "Diritaanku wuxuu cusboonaysiiyaa kaydka uu iibiyuhu arko."
+        ]
+      },
+      "finance": {
+        "title": "Ururinta oo la jaanqaadaysa iibka",
+        "summary": "Waa maxay sababta iibiyuhu u arko deynta macmiilka ka hor inta uusan dalban dalab kale.",
+        "points": [
+          "Booqashadu waa waqtiga ugu fiican ee la ururin karo, haddii deynta la arki karo.",
+          "Iibka iyo maaliyaddu waa inay eegaan isla macmiil.",
+          "Warbixinta maalinlaha ah ee daahday waxay ka qiimo badan tahay xidhidh daahsoon."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Qiimaha",
+    "title": "Nidaam deegaan oo [[kula koraa]]",
+    "intro": "Ma daabicino qiime guud: kharashku wuxuu ku xiran yahay cutubyada, isticmaalayaasha iyo mugga. Waanu ku tusinaynaa goobta oo aanu isku duba ridnay soo jeedin hawlgalkaaga.",
+    "note": "Bandhiggu wax kharash ah kuma laha qandaraas uma baahna.",
+    "recommended": "lagu taliyay",
+    "faq_title": "Su'aalaha soo noqnoqda",
+    "plans": {
+      "essential": {
+        "name": "Muhiim",
+        "desc": "In la habeeyo maamulka ganacsiga iyo qaybinta hal madal.",
+        "features": [
+          "FullVendor madal shabakad",
+          "Iibka, gadashada iyo alaabada",
+          "Macaamiisha, alaab-qeybiyeyaasha iyo warbixinnada",
+          "Isticmaalayaasha qalabka xafiiska",
+          "Taageerada bilowga"
+        ],
+        "cta": "Codso Demo"
+      },
+      "professional": {
+        "name": "Xirfadle",
+        "desc": "Kooxaha wax ku iibiya wadada oo ku diyaariya dalabaadka bakhaarka.",
+        "features": [
+          "Wax kasta oo Muhiim ah",
+          "App-ka FullVendor Sales Man",
+          "App-ka FullVendor Warehouse",
+          "Shaqada khadka tooska ah iyo koodhadhka barafka",
+          "Isticmaalayaal badan oo garoon iyo bakhaar"
+        ],
+        "cta": "Codso Demo"
+      },
+      "corporate": {
+        "name": "Shirkad",
+        "desc": "Kooxaha u baahan saadka, wax iibsiga, maaliyadda iyo shirkado kala duwan.",
+        "features": [
+          "Nidaamka deegaanka oo dhamaystiran",
+          "Logistics, Vendor Supplier iyo Finance",
+          "FullVendor ERP iyo kiraysi badan",
+          "Biilasha elektarooniga ah iyo xisaabinta",
+          "Wehelinta iyo mudnaanta helitaanka"
+        ],
+        "cta": "Kala hadal iibka"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ma inaan iibsadaa dhammaan alaabta?",
+        "a": "Maya. Waxaad ku bilaabi kartaa FullVendor oo waxaad ku dari kartaa apps ama ERP marka hawlgalku u baahdo."
+      },
+      "offline": {
+        "q": "Codsiyada ma shaqeeyaan internet la'aan?",
+        "a": "Sales Man iyo Warehouse waxay sii wadaan shaqada calaamad la'aan oo way wada shaqeeyaan marka dib la isugu xidho."
+      },
+      "multi": {
+        "q": "Miyay shaqeysaa haddii aan leeyahay wax ka badan hal shirkad?",
+        "a": "Haa ERP wuxuu ka fikiraa shirkado badan iyo nidaamka deegaanka wuxuu wadaagi karaa sayidyada dhexdooda."
+      },
+      "demo": {
+        "q": "Maxaa ka mid ah bandhigga?",
+        "a": "Booqashada goobta oo leh kiis la mid ah kaaga. Wax kharash ah oo aan lahayn waajibaad."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Waxaan ku tusineynaa FullVendor [[nooca hawlgalkaaga]]",
+    "text": "Nooga sheeg shirkaddaada iyo waxaad rabto inaad marka hore dalbato. demo wax kharash ah kuma laha."
+  },
+  "contact": {
+    "eyebrow": "Xiriir",
+    "title": "Aynu ka hadalno [[qalliinkaaga]]",
+    "text": "Haddii aad rabto demo, soo jeedin ama kaliya inaad naftaada u jeediso inta u dhaxaysa alaabta, ka tag macluumaadkaaga annaguna waanu ka jawaabi doonaa.",
+    "email": "Boostada",
+    "phone": "Taleefanka",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Magaca",
+    "email": "Boostada",
+    "phone": "Taleefanka",
+    "company": "Shirkadda",
+    "country": "Dalka",
+    "team": "Cabbirka kooxda",
+    "interest": "Maxaa ku xiiseeya?",
+    "message": "Fariinta",
+    "optional": "Ikhtiyaari",
+    "choose": "Dooro",
+    "interest_all": "Nidaamka deegaanka oo dhan",
+    "ph_name": "magacaaga",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Shirkaddaada",
+    "ph_country": "Dalka",
+    "ph_message": "Noo sheeg sida aad maanta u shaqeyso",
+    "privacy_before": "Waan aqbalay isticmaalka xogtayda sida ku cad",
+    "privacy_after": ".",
+    "submit": "Codsi dir",
+    "sent_title": "Waanu helnaa codsigaaga",
+    "sent_text": "Mahadsanid Kooxda iibka ayaa warqad kuu soo diri doona si aad isugu duwdo demo ama uga jawaabto su'aashaada.",
+    "error_required": "Buuxi goobtan",
+    "error_email": "Geli iimayl sax ah",
+    "error_phone": "Iska hubi taleefanka",
+    "error_privacy": "Waxaan u baahanahay ogolaanshahaaga si aan u isticmaalno faahfaahinta xiriirka.",
+    "error_csrf": "Kalfadhigu wuu dhacay Dib u soo gudbi foomka",
+    "error_save": "Waanu badbaadin kari waynay codsiga Isku day mar kale",
+    "error_generic": "Dib u eeg meelaha la calaamadeeyay",
+    "error_rate": "Fadlan sug in yar ka hor intaadan gudbin codsi kale.",
+    "team_options": {
+      "1-10": "1 ilaa 10 qof",
+      "11-50": "11 ilaa 50 qof",
+      "51-200": "51 ilaa 200 oo qof",
+      "201-500": "201 ilaa 500 oo qof",
+      "500+": "In ka badan 500 oo qof"
+    }
+  },
+  "video": {
+    "title": "FullVendor hal daqiiqo gudaheed",
+    "prev": "Hore",
+    "next": "Daba gal",
+    "slides": [
+      {
+        "title": "Hal deegaan",
+        "text": "Iibka, bakhaarka, keenista, wax iibsiga iyo maaliyadda wadaaga macaamiisha, kaydka iyo dalabaadka."
+      },
+      {
+        "title": "Shabakadda iyo mobilada wada",
+        "text": "Xafiisku wuxuu ku shaqeeyaa goobta. Waddada iyo bakhaarka, gudaha apps-yada, xitaa bilaa calaamad"
+      },
+      {
+        "title": "Loo sameeyay in la qaybiyo",
+        "text": "Laga bilaabo dalabka ilaa lacag bixinta, adoon u gudbin macluumaadka hal fayl oo kale."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Raadi badeecadaha, xalalka, warshadaha…",
+    "lang_filter": "Luqada raadi",
+    "intro": "Raadi alaabta, xalalka, warshadaha iyo ilaha.",
+    "empty": "Ma aanan helin natiijooyin \"{q}\".",
+    "hint": "Isku day iibka, bakhaarka, waddooyinka ama ururinta.",
+    "results": "{n} natiijooyinka",
+    "button": "Raadi",
+    "kind_product": "Alaabta",
+    "kind_solution": "Xalka",
+    "kind_industry": "Warshadaha",
+    "kind_resource": "Khayraadka"
+  },
+  "notfound": {
+    "title": "Boggani maaha",
+    "text": "Xidhiidhku ma jiro ama wuu beddelay goobta."
+  },
+  "common": {
+    "what": "Maxaa xaliya",
+    "features": "Maxaa ka mid ah",
+    "benefits": "Maxay muhiim u tahay",
+    "for_who": "Yaase loogu talagalay?",
+    "related": "Sidoo kale nidaamka deegaanka"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Iibka maanta",
+      "orders": "Dalabka",
+      "clients": "Macaamiisha",
+      "products": "Alaabta"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard-ka",
+      "sales": "Iibka",
+      "purchases": "Wax iibsiga",
+      "inventory": "Alaabada",
+      "clients": "Macaamiisha",
+      "reports": "Warbixinada"
+    },
+    "chart": "Iibka",
+    "channel": "Qaybinta kanaalka",
+    "channels": [
+      "Bakhaar",
+      "Qaybinta",
+      "Jumladle",
+      "Kuwo kale"
+    ],
+    "orders": "Dalabka ugu dambeeyay",
+    "col_order": "Dalbo",
+    "col_client": "Macmiil",
+    "col_status": "Gobolka",
+    "col_total": "Wadarta",
+    "status": [
+      "la keenay",
+      "Waddada",
+      "Dhegta"
+    ],
+    "top": "Alaabta iibka ugu fiican",
+    "product": "Alaabta",
+    "sales_menu": [
+      "Macaamiisha",
+      "Dalabka",
+      "Alaabta",
+      "Waddooyinka",
+      "Isku xidh"
+    ],
+    "warehouse_menu": [
+      "Soo dhawaynta",
+      "Xulashada",
+      "Alaabada",
+      "Diritaan",
+      "Isku xidh"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Siyaasadda Qarsoonnimada",
+    "privacy_intro": "Xeerkani waxa uu sharxayaa waxa aanu ku samayno xogta aad kaga tagto foomamka boggan.",
+    "privacy": [
+      {
+        "title": "Maxaa xogta aan ururin",
+        "text": "Haddii aad codsato demo ama aad noo soo qorto, waxaanu kaydinaynaa magaca, shirkadda, emailka, lambarka telefoonka haddii aad sheegto, waddanka, tirada kooxda, alaabta xiisaha iyo fariinta. Waxaan sidoo kale duubnaa taariikhda, luqadda bogga iyo cinwaanka IP-ga, si aan uga hortagno soo gudbinta xadgudubka ah."
+      },
+      {
+        "title": "Maxaan u isticmaalnaa?",
+        "text": "Waxaan u isticmaalnaa xogtan si aan kuugu jawaabno, isku duba ridno oo aan u diyaarino soo jeedin ganacsi. Annagu ma iibinno ama ma siinno liiska qolo saddexaad."
+      },
+      {
+        "title": "Halkee lagu kaydiyaa iyo ilaa intee?",
+        "text": "Codsiyada waxa lagu kaydiyaa serfarka boggan Waxaan u haynaa wakhtiga lagama maarmaanka ah si ay kuugu adeegaan iyo la socodka ganacsiga, waxaananu tirtirnaa marka aad na weydiisato ama marka aan loo baahnayn."
+      },
+      {
+        "title": "Xuquuqdaada",
+        "text": "Waxaad ka codsan kartaa gelitaanka, sixitaanka ama tirtirka xogtaada foomka xidhiidhka, taas oo muujinaysa fariinta. Haddii shirkadu ku daabacdo iimaylka mareegahan, waxa kale oo aad ku qori kartaa halkaas."
+      }
+    ],
+    "terms_title": "Shuruudaha isticmaalka",
+    "terms_intro": "Shuruudahani waxay khuseeyaan isticmaalka goobta soo gudbinta ee FullVendor.",
+    "terms": [
+      {
+        "title": "Macluumaadka ganacsiga",
+        "text": "Qoraallada, tusaale ahaan tirooyinka dashboard-ka iyo sharraxaadaha ayaa soo bandhigaya goobta. Waa la hagaajin karaa marka alaabtu is beddesho oo aanay ahayn soo jeedin xidhan."
+      },
+      {
+        "title": "Bandhigu maaha qandaraas",
+        "text": "Soo gudbinta foomku ma abuurayso waajib ah iibsashada ama kaydinta qiimaha. Qandaraas kasta waxaa lagu heshiiyaa si gaar ah, qoraal ah, oo leh baaxaddiisa iyo shuruudihiisa."
+      },
+      {
+        "title": "Waxa ku jira goobta",
+        "text": "Astaanta ganacsiga FullVendor, magacyada alaabada iyo waxa ku jira boggagan waxaa iska leh milkiilayaashooda. Lama koobiyn karo si loo soo bandhigo badeecad kale."
+      },
+      {
+        "title": "Isticmaalka la aqbali karo",
+        "text": "Ha u isticmaalin foomamka si aad u gudbiso macluumaad been ah, spam ama waxyaabo sharci darro ah. Waxaa laga yaabaa inaan iska indho tirno codsiyada aan u dhigmin wada hadalka ganacsiga dhabta ah."
+      }
+    ]
+  }
+}

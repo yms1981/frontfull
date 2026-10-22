@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Curo et crescere tuum negotium",
+    "home_desc": "Omnes in unum tribunal cum telae et solutionibus mobilibus pro distributione, venditionibus, logisticis, emendis, inventario et rebus oeconomicis.",
+    "products_title": "Products | FullVendor",
+    "products_desc": "Nosse oecosystematis FullVendor: tribunalium mercatorum, ERP, logistics, commeatus et venditiones, horrea et tabulas oeconomicas.",
+    "product_title": "{name} | FullVendor .",
+    "solutions_title": "Solutions | FullVendor",
+    "solutions_desc": "Solutiones administrationis mercatorum, vis venditionum, horreorum, logisticarum, mercationum et oeconomicorum.",
+    "industries_title": "Industriis | FullVendor",
+    "industries_desc": "FullVendor distribuendi, scruta, cibi, pharmacopolii, ferramenti, massae consumptio, fabricandi et novissimum millenarium.",
+    "pricing_title": "Prices | FullVendor",
+    "pricing_desc": "Essentiale, Professional et Corporate Plana. Propositio componitur secundum modulorum, utentium et voluminum.",
+    "resources_title": "Resources | FullVendor",
+    "resources_desc": "Duces breves ad colligendas distributiones, vendendas offline, in horreum compone et in tempore solvendas.",
+    "contact_title": "Contact | FullVendor",
+    "contact_desc": "Scribe nobis ut discamus de FullVendor vel coordinare colloquium cum quadrigis venditionis.",
+    "demo_title": "Request demo | FullVendor",
+    "demo_desc": "Postula demo de FullVendor et conscende suggestum cum casu simili operationi tuae.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Terms | FullVendor",
+    "search_title": "Search | FullVendor",
+    "notfound_title": "Page not found | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Home page",
+    "products": "Products",
+    "solutions": "Solutions",
+    "industries": "Industria",
+    "pricing": "Prices",
+    "resources": "Resources",
+    "contact": "Contactus",
+    "open_menu": "Open menu",
+    "close": "Close"
+  },
+  "cta": {
+    "demo": "Request Demo",
+    "contact": "Contact us",
+    "video": "Watch Video",
+    "talk": "Loqui venditio",
+    "all_products": "Vide omnes products",
+    "home": "Redi ad paginam"
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "primary": "navigatio principalis",
+    "crumbs": "Navigation iter",
+    "search": "Quaerite",
+    "language": "Linguae"
+  },
+  "hero": {
+    "eyebrow": "Omnes in uno suggestu",
+    "title": "Curo et crescere\ntuum negotium cum\n{{brand}}",
+    "subtitle": "Integrum suggestum cum web ac solutionibus mobilibus ad distributionem, venditiones, logistics, emptionem, inventarium, oeconomicum et plura.",
+    "pill_ecosystem": "Omnia in unum ecosystem",
+    "pill_cloud": "In nube securum et scalabile",
+    "pill_size": "Pro societatibus omnium magnitudinum"
+  },
+  "products_block": {
+    "eyebrow": "Nostra products",
+    "title": "A [[integrum ecosystem]] pro unaquaque parte negotii tui",
+    "aside": "Solutiones integrae quae simul cooperantur ut tibi totam potestatem, efficaciam operationalem et maiorem incrementum praebeat.",
+    "groups": {
+      "money": "Administratio et collectio",
+      "flow": "Emit et traditio",
+      "field": "Sales et CELLA"
+    }
+  },
+  "products_page": {
+    "title": "Septem producta, [[una operatio]]",
+    "text": "Quisque productum spatium solvit. Simul communicant clientes, copia, ordines ac praestationes."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Praecipuum suggestum pro administratione commerciali et distributione.",
+      "features": [
+        "Sales et emit",
+        "Inventarium",
+        "Clientes et instructus",
+        "Renuntiationes et plus"
+      ],
+      "lead": "Centrum operationis tuae commercialis: ordines, pretia, copia et clientes in uno loco.",
+      "about": "FullVendor rete expansionum et systematum distributoris substituit. Hinc ordines egrediuntur, inventarium consulitur, librarium emptoris curatur et numeri diei spectantur. Reliqua ecosystematis cum hac basi nectit.",
+      "benefits": [
+        {
+          "title": "Una notitia domini",
+          "text": "Clientes, producta et pretia communia sunt cum venditionibus, horreis et rebus oeconomicis."
+        },
+        {
+          "title": "Patet operatio cotidie",
+          "text": "Ordines, emptiones et stirpes in diversis fasciculis habitantes subsistunt."
+        },
+        {
+          "title": "Refert decernere",
+          "text": "Venditio, margo et pendens videntur sine collatione tabulae manu facta."
+        },
+        {
+          "title": "Promptus germinare",
+          "text": "Logistics, vis venditio vel ERP summarum cum operatio id petierit."
+        }
+      ],
+      "audience": "Partes commerciales et distributiones quae hodie negotia inter varia systemata disponunt."
+    },
+    "erp": {
+      "kicker": "Administration",
+      "card": "Integer ac diam dolor.",
+      "features": [
+        "Rationem",
+        "Electronic exosculatio",
+        "massa",
+        "Certa bona",
+        "Multi-societas"
+      ],
+      "lead": "Administratio et pecuniae, aligned with what is actually sold and delivered.",
+      "about": "FullVendor ERP comprehendit rationem, electronica invocatio, stipendia, certa bona et multi-comitata. Operationem commercialem accipit et eam in entries, acceptiones et declarationes vertit, quibus area pecuniaria uti potest.",
+      "benefits": [
+        {
+          "title": "Connexa ratio",
+          "text": "Quod in venditionibus et emptionibus alit rationem."
+        },
+        {
+          "title": "Electronic receptis",
+          "text": "Ex eadem ecosystem exosculatio et moderatio prolis."
+        },
+        {
+          "title": "Variis societatibus",
+          "text": "Multi-societas pro societatibus quae sub plus quam una societas nomine operantur."
+        },
+        {
+          "title": "Payrolls et bonorum",
+          "text": "Stipendium et certa bona una cum ceteris administrandis."
+        }
+      ],
+      "audience": "Areas administrativas et nummarias quae numeros cum operatione reali claudere volunt."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Imperium et vigilantia operandi logistics tui.",
+      "features": [
+        "Itineribus et deliberatis",
+        "Real-time tracking",
+        "Exactoris assignment",
+        "Iter ipsum"
+      ],
+      "lead": "Ex ordine ad traditionem: itinera, aurigas et vera temporis vestigia.",
+      "about": "FullVendor Logistics distributionem ordinat. Vias creas, rectores adscribe et vide quo quaeque partus eat. Turma negotiationis sistit fretus in vocat ut cognoscat si ordo conscenderit.",
+      "benefits": [
+        {
+          "title": "Itinera diei",
+          "text": "Partus per zonam, tempus fenestra et capacitas iubet."
+        },
+        {
+          "title": "assignata exactoris",
+          "text": "Unaquaeque via hominem habet praefectum et claram seriem."
+        },
+        {
+          "title": "Sequere-sursum",
+          "text": "Scis quid traditum sit, in via constitit."
+        },
+        {
+          "title": "Pauciores chiliometrorum",
+          "text": "Optimization iter itineris minuit partus tempus et sumptus."
+        }
+      ],
+      "audience": "Distributio operationum suarum cum classibus aut partibus tertiae partis."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Vestibulum porta enim et auctor consequat.",
+      "features": [
+        "Purchase mandatis",
+        "Quotes",
+        "Supplementum procuratio",
+        "Integration cum inventario"
+      ],
+      "lead": "Praeceptores tui citant, iussa accipe et stirpem sine electronicis laxa refice.",
+      "about": "Vendor Supplier ianuam aperit emptionis et praebitorum ad eosdem ordines operandos. Quotationes, ordines emptionis et receptae ad inventarium FullVendor adstringuntur.",
+      "benefits": [
+        {
+          "title": "Ordines in canalem",
+          "text": "Supplex videt quid eruat sine catena inscriptionem."
+        },
+        {
+          "title": "Compar quotes",
+          "text": "Pretia requiris et cum historia elige intuitu."
+        },
+        {
+          "title": "Supple magister",
+          "text": "Conditiones, contactus et lite in uno monumento."
+        },
+        {
+          "title": "Intra inventarium",
+          "text": "Quod emitur, repercussum est in stipite, cum recipitur."
+        }
+      ],
+      "audience": "Partes emendi quae replent pluribus victualibus et eget traceability."
+    },
+    "salesman": {
+      "kicker": "Mobile app",
+      "card": "Mobile application for sales team.",
+      "features": [
+        "Lorem procuratio",
+        "Ordo captivitatis",
+        "Product catalogue",
+        "Offline opus"
+      ],
+      "lead": "In vi venditionesque ordines in platea, cum vel sine signo.",
+      "about": "FullVendor Sales Man librarium, catalogum et ordinem telephonicum venditoris imponit. Si penitus deest, opus pergit et conformatur cum signo redit. Ordo advenit paratus ad parandum et tradendum.",
+      "benefits": [
+        {
+          "title": "Pera in sinum",
+          "text": "Venditor videt clientes, conditiones et pendere res."
+        },
+        {
+          "title": "Ordo ad visita",
+          "text": "Accipe ordinem current prices and stock."
+        },
+        {
+          "title": "Catalogue usque ad diem",
+          "text": "Producta, presentationes et pretia sine vetus PDF."
+        },
+        {
+          "title": "Verus offline",
+          "text": "Opus sine coverage et postea synchronise."
+        }
+      ],
+      "audience": "Praepositi et agri venditores in distributione ac massa consumptio."
+    },
+    "warehouse": {
+      "kicker": "Mobile app",
+      "card": "Mobile applicatio pro horreis.",
+      "features": [
+        "Receptio et litterae",
+        "Arreptisque stipare",
+        "Inventarium imperium",
+        "Barcode Lectio"
+      ],
+      "lead": "Receptio, legendi et mittendi cum telephonio et barcode.",
+      "about": "FullVendor Warehouse dirigit cellarium recipiendi, legendi, stipendii et mittendi. Lectio codicis errores minuit et inventarium iam non solum in fine mensis computatur.",
+      "benefits": [
+        {
+          "title": "Receptio contra ordinem",
+          "text": "Quod intrat, emptioni comparatur."
+        },
+        {
+          "title": "Targeted legendo",
+          "text": "Nauclerus ordinem sequitur ac singula item confirmat."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Pauciores productum, massa vel quantitatis errores."
+        },
+        {
+          "title": "Certa stirpe",
+          "text": "Singulae moventur inventarium e suggestu."
+        }
+      ],
+      "audience": "Procuratores horreorum et navicularii qui hodie ordines cum tabulis impressis parant."
+    },
+    "finance": {
+      "kicker": "Mobile app",
+      "card": "Imperium oeconomicum ex mobili tuo.",
+      "features": [
+        "Rationes receptibilis et reddendas",
+        "Lorem status",
+        "Liberationes et reconciliationes",
+        "Financial tradit"
+      ],
+      "lead": "Rationes receptibiles, solutiones et status emptoris, ex telephonio tuo.",
+      "about": "FullVendor Finance ostendit collectionem mobilium: quid quisque clienti debeat, quid societas stipendiorum et quomodo solutiones veniant. Pecuniam in visitatione colligere solebat, et tabulam nummorum inspicere sine scrinio aperiens.",
+      "benefits": [
+        {
+          "title": "Collectio ad visitandum",
+          "text": "Venditor scit si mos est pellentesque ante venditionis."
+        },
+        {
+          "title": "Receptibilis et reddendas",
+          "text": "Utraque arca in eadem app."
+        },
+        {
+          "title": "Liberationes et reconciliationes",
+          "text": "Tu credita subcriptio et vide quid transeundum sit."
+        },
+        {
+          "title": "Refert ad manum",
+          "text": "Collectio et indicibus nummi non expectata clausula."
+        }
+      ],
+      "audience": "Procuratores, collectores et salespeople qui condicionem huius temporis egent."
+    }
+  },
+  "why": {
+    "eyebrow": "Quare FullVendor",
+    "title": "Boost tuum negotium\ncum reales eventus",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Societates nos confidunt"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Active users"
+      },
+      {
+        "value": "+10",
+        "suffix": "annos",
+        "label": "In constant evolutione"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "nubes disponibilitate"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Quomodo operatur",
+    "title": "Ex venditione ad collectionem, sine mutationibus",
+    "text": "Quisque productum communicat elit, copia, ordines et pretium. Quod in platea vel in horreis accidit, statim in officio apparet.",
+    "steps": {
+      "sell": {
+        "title": "Tu vendere",
+        "text": "Ordo per locum vel per Sales Man ingressus est, etiam sine signo."
+      },
+      "pick": {
+        "title": "Paratus",
+        "text": "Warehouse recipit, diducit litterasque cum barcode."
+      },
+      "deliver": {
+        "title": "Deliberationes",
+        "text": "Logistics Iter assignat et sequitur traditionem."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance y el ERP cierran la cobranza, los comprobantes y los números."
+      }
+    }
+  },
+  "band": {
+    "title": "¿Listo para verlo con [[tu operación]]?",
+    "text": "Ostendimus tibi oecosystematis cum casu distributionis similes tuis."
+  },
+  "footer": {
+    "blurb": "Interreti et mobilis suggestus distribuendi, venditiones, logistics, emendi, inventarii et oeconomici.",
+    "products": "Products",
+    "company": "Societas",
+    "legal": "Legal",
+    "privacy": "Secretum",
+    "terms": "Terms",
+    "rights": "All rights reserved."
+  },
+  "solutions": {
+    "eyebrow": "Solutions",
+    "title": "Quaelibet regio, annexa [[idem operationis]]",
+    "intro": "Elige per quaestionem solvere vis. Post, producta eadem notitia communicant.",
+    "items": {
+      "commercial": {
+        "title": "Procuratio commercialis",
+        "text": "Ordines, pretiis, clientibus et inventario in dies singulos distributio."
+      },
+      "field": {
+        "title": "Sales vis",
+        "text": "Venditores ordines suscipientes in platea, online vel offline."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Receptio, legendo, Litterae et truncus qui fidem faciunt."
+      },
+      "logistics": {
+        "title": "Logistics et traditio",
+        "text": "Itinera, rectores et status cujusque partus."
+      },
+      "purchasing": {
+        "title": "Acquirendi et instructus",
+        "text": "Quotus, imperat, porta, quisquis tibi ministrat."
+      },
+      "finance": {
+        "title": "Pecuniae et ratio",
+        "text": "Collectiones, praestationes, exosculatio et ratio electronica."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industria",
+    "title": "Factus est pro iis qui [[movet product]]",
+    "intro": "FullVendor natus est in distributionibus et comitibus societatum quae emunt, vendunt, vendunt et liberant.",
+    "items": {
+      "wholesale": {
+        "title": "Distributio et Lupum",
+        "text": "Pretium tabulae, portfolio, distributio et collectio in uno ambitu."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Copia et horrea cum connexo stipite, venditionibus et repletione."
+      },
+      "food": {
+        "title": "Cibus et potus",
+        "text": "Frequens itinera et horrea quae prohibere non possunt."
+      },
+      "pharma": {
+        "title": "Pharmacopolium et cura personali",
+        "text": "Receptio, legendo et inventarium imperium cum traceability."
+      },
+      "hardware": {
+        "title": "Hardware and construction",
+        "text": "Multae notae, commeatus ac deliberationes ad operandum vel reponunt."
+      },
+      "fmcg": {
+        "title": "Massa consummatio",
+        "text": "Viam venditionesque vis et princeps turnover repositum."
+      },
+      "manufacturing": {
+        "title": "OPIFICIUM",
+        "text": "Acquisitio, horrea et inventarium cum administratione varius."
+      },
+      "lastmile": {
+        "title": "Partum ac ultimum mille",
+        "text": "Itinera, rectores et status cujusque partus."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resources",
+    "title": "Ideae clarae ad [[ordinem operationis]]",
+    "intro": "Brevis duces distribuendi actoribus destinaturi sunt qui utra ratio adhaereat.",
+    "items": {
+      "unify": {
+        "title": "Quomodo distributio in unam systema coalescat?",
+        "summary": "Quae primum componantur cum venditiones, horrea et collectiones in diversis fasciculis vivunt.",
+        "points": [
+          "Satus cum clientibus, productis et prices: magister quisque utitur.",
+          "Ordinem cum stirpe coniunge antequam plura applicationes addas.",
+          "Numerum simplex metitur: ordines sine forma impletur."
+        ]
+      },
+      "offline": {
+        "title": "Sales vis opus offline",
+        "summary": "Quod ab app ordinante exigeret ut venditor non cessaret propter signum.",
+        "points": [
+          "Catalogum et crumenam telephonicum esse oportet, non solum in nube.",
+          "Ordo servatur in fabrica et uploaded cum retis redit.",
+          "Cum synchronum, ordo horreis iam intrat."
+        ]
+      },
+      "warehouse": {
+        "title": "CELLA cum barcode, sine charta",
+        "summary": "Quomodo e indice impresso ire confirmetur legendo in telephono.",
+        "points": [
+          "Accipe contra ordinem emptionis, non contra memoriam.",
+          "Item cum separant singula confirmare. Cimex in in ANDRON incidit.",
+          "Litterae updates stirpem quam venditor videt."
+        ]
+      },
+      "finance": {
+        "title": "Collectio varius cum sale",
+        "summary": "Quare venditor debet videre debitum ante alium ordinem emptoris.",
+        "points": [
+          "Optime visitatio est colligenda, si debitum visibilis est.",
+          "Sales et oeconomici eundem emptorem spectare debent.",
+          "Cotidiana decuit fama pluris quam sero clausula."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prices",
+    "title": "An ecosystematis quod [[cum vobis crescit]]",
+    "intro": "Ratem genericam non evulgamus: sumptus pendet a modulis, usoribus et volumine. Ostendimus tibi suggestum et propositum cum operatione tua compone.",
+    "note": "Demo pretium non habet neque contractum requirit.",
+    "recommended": "Commendatur",
+    "faq_title": "Saepe quaesivit quaestiones",
+    "plans": {
+      "essential": {
+        "name": "Essentiale",
+        "desc": "Ad administrationem commercialem et distributionem in uno suggestu ordinandam.",
+        "features": [
+          "FullVendor suggestum interretialem",
+          "Venditio, emptio et inventarium",
+          "Clientes, instructus et tradit",
+          "Munus apparatu users",
+          "Satus-sursum firmamentum"
+        ],
+        "cta": "Request Demo"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Partes enim quae in platea vendunt et ordines in horreis parant.",
+        "features": [
+          "Omnia Essentialia",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline opus et barcodes",
+          "More agri et CELLA users"
+        ],
+        "cta": "Request Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Nam coetus est eget logisticis, emendis, oeconomicis, et variis societatibus.",
+        "features": [
+          "Complete ecosystem",
+          "Logistics, Vendor Supplier et Finance.",
+          "FullVendor ERP et multi- tenants",
+          "Electronic exosculatio et ratio",
+          "Comitatus et prior disponibilitate"
+        ],
+        "cta": "Loqui venditio"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Habeo omnes fructus mercari?",
+        "a": "No. Puedes empezar por FullVendor y sumar apps o el ERP cuando la operación lo necesite."
+      },
+      "offline": {
+        "q": "Fac applicationes sine penitus?",
+        "a": "Sales Man y Warehouse siguen trabajando sin señal y sincronizan al reconectar."
+      },
+      "multi": {
+        "q": "Laborat si plus quam una societas?",
+        "a": "Ita. ERP speculatur multi- turba et oecosystematis inter eos dominos participare possunt."
+      },
+      "demo": {
+        "q": "Quid demo includunt?",
+        "a": "Pretium suggestus cum simili causa tua. Nulla pretium ac nulla."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ostendimus tibi FullVendor cum [[genus operationis tuae]]",
+    "text": "Dic nobis de societate tua et quid primum iubere vis. Demo pretium non habet."
+  },
+  "contact": {
+    "eyebrow": "Contactus",
+    "title": "Fama [[operatio tua]]",
+    "text": "Si demom vis, rogationem vel iustam ad te ipsum inter productos dirigere, informationes tuas relinque et respondebimus.",
+    "email": "Mail",
+    "phone": "Phone",
+    "whatsapp": "whatsapp"
+  },
+  "form": {
+    "name": "Nomen",
+    "email": "Mail",
+    "phone": "Phone",
+    "company": "Societas",
+    "country": "Patria",
+    "team": "Bigas magnitudine",
+    "interest": "Quid tibi prodest?",
+    "message": "Nuntius",
+    "optional": "Libitum",
+    "choose": "Lego",
+    "interest_all": "Tota ecosystem",
+    "ph_name": "nomen tuum",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "comitatu tuo",
+    "ph_country": "Patria",
+    "ph_message": "Dic nobis quomodo hodie operaris",
+    "privacy_before": "Accipio usum meum data secundum",
+    "privacy_after": ".",
+    "submit": "Mittere petitionem",
+    "sent_title": "Accipimus tuam",
+    "sent_text": "Gratias agimus tibi. Turma venditio scribet tibi ut demo componatur vel quod quaeris respondeas.",
+    "error_required": "Perfice hoc ager.",
+    "error_email": "Intra inscriptio valida.",
+    "error_phone": "Reprehendo telephonum.",
+    "error_privacy": "Non opus est consilio tuo ut singulis contactibus utaris.",
+    "error_csrf": "Sessionis expiravit. Forma denuo proponendam.",
+    "error_save": "Petitionem servare non potuimus. Iterum tenta.",
+    "error_generic": "Recognoscere notatas agros.",
+    "error_rate": "Quaeso expecta paulisper antequam subiicit aliam petitionem.",
+    "team_options": {
+      "1-10": "I ad X populus",
+      "11-50": "XI ad L populus",
+      "51-200": "51 ad 200 homines",
+      "201-500": "201 ad 500 hominum",
+      "500+": "Plus quam D populo"
+    }
+  },
+  "video": {
+    "title": "FullVendor uno momento",
+    "prev": "Pristina",
+    "next": "sequentia",
+    "slides": [
+      {
+        "title": "Una ecosystem",
+        "text": "Venditio, horreum, traditio, acquisitio et pecuniarum participes clientes, copia et ordines."
+      },
+      {
+        "title": "Web and mobile together",
+        "text": "Officium in suggestu operatur. In platea et horreis, in apps, etiam sine signo."
+      },
+      {
+        "title": "Factum est distribuere",
+        "text": "Ex ordine ad solutionem, sine notitia ex uno in alium transitum."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Quaere fructus, solutiones, industrias…",
+    "lang_filter": "Quaerere linguam",
+    "intro": "Quaero res, solutiones, industrias et facultates.",
+    "empty": "Eventus pro \"{q}\" non invenimus.",
+    "hint": "Conare venditiones, horrea, itinera vel collectiones.",
+    "results": "{n} proventus",
+    "button": "Quaerite",
+    "kind_product": "Productum",
+    "kind_solution": "Solutio",
+    "kind_industry": "Industry",
+    "kind_resource": "Resource"
+  },
+  "notfound": {
+    "title": "Haec pagina non est",
+    "text": "Vinculum non est nec locus mutatus est."
+  },
+  "common": {
+    "what": "Quid solvit?",
+    "features": "Quid includitur?",
+    "benefits": "Quid interest?",
+    "for_who": "nam quis est?",
+    "related": "Etiam in ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sales hodie",
+      "orders": "Ordines",
+      "clients": "Customers",
+      "products": "Products"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "purchases": "Shopping",
+      "inventory": "Inventarium",
+      "clients": "Customers",
+      "reports": "Renuntiationes"
+    },
+    "chart": "Sales",
+    "channel": "Distributio per canalem",
+    "channels": [
+      "Store",
+      "Distributio",
+      "Wholesaler",
+      "alii"
+    ],
+    "orders": "Latest orders",
+    "col_order": "Order",
+    "col_client": "Customer",
+    "col_status": "publicae",
+    "col_total": "Totalis",
+    "status": [
+      "delivered",
+      "Itinere",
+      "inauris"
+    ],
+    "top": "Optimus venditionis products",
+    "product": "Productum",
+    "sales_menu": [
+      "Customers",
+      "Ordines",
+      "Products",
+      "Itineribus",
+      "Synchronise"
+    ],
+    "warehouse_menu": [
+      "Receptio",
+      "electa",
+      "Inventarium",
+      "Litterae",
+      "Synchronise"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacy Policy",
+    "privacy_intro": "Hoc consilium declarat quid facimus cum notitia quam exeatis in formis huius situs.",
+    "privacy": [
+      {
+        "title": "Quid notitia colligimus",
+        "text": "Si demom petis aut scribes nobis, nomen servamus, societas, inscriptio, numerus telephonicus si id indicas, patriam, magnitudinem bigae, ubertatem usurae et nuntium. Etiam notamus diem, linguam paginae et locum IP, ne iniurias animadversiones exhibeamus."
+      },
+      {
+        "title": "Quid illis utimur?",
+        "text": "Hac notitia utimur solum ut tibi respondeamus, demo componite et rogationem commercialem para. Nos eas non vendimus vel indicem tercium partium donamus."
+      },
+      {
+        "title": "Ubi reponuntur et quousque?",
+        "text": "Petitiones repositae sunt in servo huius situs. Eos servamus per tempus necessarium ut serviamus tibi et mercatoriis sequantur, et delemus eas cum rogamus nos vel cum opus non est."
+      },
+      {
+        "title": "Iura tua",
+        "text": "Potes accessum, correctionem vel deletionem notitiarum tuarum e forma contactu petere potes, indicans in verbo. Si societas electronicam in hoc loco evulgat, scribere etiam potes."
+      }
+    ],
+    "terms_title": "Terms of use",
+    "terms_intro": "Hae condiciones applicandae sunt ad usum huius FullVendor subiectionis.",
+    "terms": [
+      {
+        "title": "Commercial informationes",
+        "text": "Textus, exemplum ashboardday figuras et descriptiones suggestum inducere. Accommodari possunt cum mutationes producti et oblatio clausa non sunt."
+      },
+      {
+        "title": "Demo non contractus",
+        "text": "Forma exhibens obligationem pretio redimendi vel reservandi non efficit. Quilibet contractus separatim constat scripto, cum ambitu et conditionibus."
+      },
+      {
+        "title": "Site content",
+        "text": "FullVendor notae, nomina producta et contenta harum paginarum dominis suis pertinent. Exscri- bere non possunt, ut alterum opus producant."
+      },
+      {
+        "title": "Usus acceptus",
+        "text": "Noli formis uti informationes falsas, vel spamma illicita contenta submittere. Petitiones ignorare possumus quae colloquio actui non respondent."
+      }
+    ]
+  }
+}

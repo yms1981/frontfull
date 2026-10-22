@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Gucunga no guteza imbere ubucuruzi bwawe",
+    "home_desc": "Byose-muri-imwe hamwe nurubuga hamwe na mobile igendanwa yo gukwirakwiza, kugurisha, ibikoresho, kugura, kubara no imari.",
+    "products_title": "Ibicuruzwa | FullVendor",
+    "products_desc": "Menya urusobe rw'ibinyabuzima FullVendor: urubuga rw'ubucuruzi, ERP, ibikoresho, abatanga ibicuruzwa n'ibicuruzwa, ububiko na porogaramu z'imari.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ibisubizo | FullVendor",
+    "solutions_desc": "Ibisubizo byo gucunga ubucuruzi, imbaraga zo kugurisha, ububiko, ibikoresho, kugura n’imari.",
+    "industries_title": "Inganda | FullVendor",
+    "industries_desc": "FullVendor yo gukwirakwiza, gucuruza, ibiryo, farumasi, ibyuma, gukoresha imbaga, gukora na kilometero yanyuma.",
+    "pricing_title": "Ibiciro | FullVendor",
+    "pricing_desc": "Gahunda Yingenzi, Yumwuga na Gahunda. Icyifuzo gishyizwe hamwe ukurikije module, abakoresha nubunini.",
+    "resources_title": "Ibikoresho | FullVendor",
+    "resources_desc": "Amabwiriza magufi yo guhuza gukwirakwiza, kugurisha kumurongo, gutunganya ububiko no guhembwa mugihe.",
+    "contact_title": "Twandikire | FullVendor",
+    "contact_desc": "Twandikire kugirango tumenye FullVendor cyangwa uhuze ikiganiro nitsinda rishinzwe kugurisha.",
+    "demo_title": "Saba demo | FullVendor",
+    "demo_desc": "Saba demo ya FullVendor hanyuma uzenguruke kuri platifomu nurubanza rusa nigikorwa cyawe.",
+    "privacy_title": "Amabanga | FullVendor",
+    "terms_title": "Amagambo | FullVendor",
+    "search_title": "Shakisha | FullVendor",
+    "notfound_title": "Urupapuro ntiruboneka | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Urupapuro rwibanze",
+    "products": "Ibicuruzwa",
+    "solutions": "Ibisubizo",
+    "industries": "Inganda",
+    "pricing": "Ibiciro",
+    "resources": "Ibikoresho",
+    "contact": "Twandikire",
+    "open_menu": "Fungura menu",
+    "close": "Funga"
+  },
+  "cta": {
+    "demo": "Saba Demo",
+    "contact": "Twandikire",
+    "video": "Reba Video",
+    "talk": "Vugana no kugurisha",
+    "all_products": "Reba ibicuruzwa byose",
+    "home": "Garuka kurupapuro rwurugo"
+  },
+  "a11y": {
+    "skip": "Jya ku bikubiyemo",
+    "primary": "Kugenda nyamukuru",
+    "crumbs": "Inzira yo kugenda",
+    "search": "Shakisha",
+    "language": "Ururimi"
+  },
+  "hero": {
+    "eyebrow": "Byose muburyo bumwe",
+    "title": "Gucunga no gukura\nubucuruzi bwawe hamwe\n{{brand}}",
+    "subtitle": "Ihuriro ryuzuye hamwe nurubuga na mobile ibisubizo byo gukwirakwiza, kugurisha, ibikoresho, kugura, kubara, imari nibindi.",
+    "pill_ecosystem": "Ibintu byose muri ecosystem imwe",
+    "pill_cloud": "Mu gicu, umutekano kandi munini",
+    "pill_size": "Ku masosiyete yingero zose"
+  },
+  "products_block": {
+    "eyebrow": "Ibicuruzwa byacu",
+    "title": "A [[ecosystem yuzuye]] kuri buri gace k'ubucuruzi bwawe",
+    "aside": "Ibisubizo bihuriweho bikora hamwe kugirango biguhe igenzura ryuzuye, imikorere ikora niterambere ryinshi.",
+    "groups": {
+      "money": "Ubuyobozi no gukusanya",
+      "flow": "Kugura no gutanga",
+      "field": "Igurisha nububiko"
+    }
+  },
+  "products_page": {
+    "title": "Ibicuruzwa birindwi, [[imikorere imwe]]",
+    "text": "Buri gicuruzwa gikemura ahantu. Hamwe hamwe basangira abakiriya, imigabane, ibicuruzwa no kwishyura."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Ihuriro",
+      "card": "Ihuriro nyamukuru ryo gucunga no gukwirakwiza.",
+      "features": [
+        "Kugurisha no kugura",
+        "Ibarura",
+        "Abakiriya n'ababitanga",
+        "Raporo nibindi byinshi"
+      ],
+      "lead": "Hagati yibikorwa byawe byubucuruzi: ibicuruzwa, ibiciro, imigabane nabakiriya ahantu hamwe.",
+      "about": "FullVendor isimbuza umugabuzi urekuye impapuro na sisitemu. Kuva hano ibicuruzwa bisohoka, kubara birabazwa, portfolio yabakiriya iritabwaho kandi nimero yumunsi irareba. Ibisigaye bya ecosystem ihuza iyi shingiro.",
+      "benefits": [
+        {
+          "title": "Umuyobozi umwe wamakuru",
+          "text": "Abakiriya, ibicuruzwa nibiciro bisangiwe nigurisha, ububiko n’imari."
+        },
+        {
+          "title": "Kuraho imikorere ya buri munsi",
+          "text": "Gutegeka, kugura no kubika bihagarika kubaho muri dosiye zitandukanye."
+        },
+        {
+          "title": "Raporo yo gufata umwanzuro",
+          "text": "Kugurisha, margin no gutegereza biragaragara udashyize hamwe kumeza kumaboko."
+        },
+        {
+          "title": "Witegure gukura",
+          "text": "Ibikoresho, imbaraga zo kugurisha cyangwa ERP amafaranga mugihe ibikorwa bigusabye."
+        }
+      ],
+      "audience": "Amatsinda yubucuruzi nogukwirakwiza uyumunsi ahuza ubucuruzi hagati ya sisitemu nyinshi."
+    },
+    "erp": {
+      "kicker": "Ubuyobozi",
+      "card": "Gucunga neza ubuyobozi n’imari.",
+      "features": [
+        "Ibaruramari",
+        "Kwishura fagitire",
+        "Urupapuro rw'akazi",
+        "Umutungo utimukanwa",
+        "Ibigo byinshi"
+      ],
+      "lead": "Ubuyobozi nubukungu, bihujwe nibyagurishijwe kandi byatanzwe.",
+      "about": "FullVendor ERP ikubiyemo ibaruramari, inyemezabuguzi za elegitoronike, imishahara, umutungo utimukanwa hamwe n’amasosiyete menshi. Ifata ibikorwa byubucuruzi ikabihindura mubyinjira, inyemezabwishyu na raporo agace k'imari gashobora gukoresha.",
+      "benefits": [
+        {
+          "title": "Ibaruramari rihujwe",
+          "text": "Ibibaho mugurisha no kugura bigaburira ibaruramari."
+        },
+        {
+          "title": "Inyemezabwishyu ya elegitoroniki",
+          "text": "Utanga kandi ukagenzura fagitire kuva ecosystem imwe."
+        },
+        {
+          "title": "Ibigo bitandukanye",
+          "text": "Isosiyete-myinshi kumatsinda ikora munsi yizina ryisosiyete imwe."
+        },
+        {
+          "title": "Umushahara n'umutungo",
+          "text": "Umushahara n'umutungo utimukanwa hamwe nabandi basigaye."
+        }
+      ],
+      "audience": "Inzego zubutegetsi n’imari zishaka gufunga imibare nigikorwa nyacyo."
+    },
+    "logistics": {
+      "kicker": "Ibikoresho",
+      "card": "Kugenzura no kugenzura imikorere yawe y'ibikoresho.",
+      "features": [
+        "Inzira n'ibitangwa",
+        "Gukurikirana igihe nyacyo",
+        "Umukoro wo gutwara",
+        "Inzira nziza"
+      ],
+      "lead": "Kuva kuri gahunda kugeza kubitanga: inzira, abashoferi hamwe nigihe gikurikirana.",
+      "about": "FullVendor Logistics ategura ikwirakwizwa. Ukora inzira, ugenera abashoferi urebe aho buri kugemura bigana. Itsinda ryumuhanda rihagarara bitewe numuhamagaro kugirango umenye niba itegeko ryoherejwe.",
+      "benefits": [
+        {
+          "title": "Inzira z'umunsi",
+          "text": "Gutanga byateganijwe na zone, idirishya ryigihe nubushobozi."
+        },
+        {
+          "title": "Umushoferi wagenwe",
+          "text": "Buri nzira igira umuntu ubishinzwe kandi bikurikiranye neza."
+        },
+        {
+          "title": "Gukurikirana",
+          "text": "Uzi ibyatanzwe, munzira cyangwa byahagaritswe."
+        },
+        {
+          "title": "Ibirometero bike",
+          "text": "Guhindura inzira bigabanya igihe cyo gutanga nigiciro."
+        }
+      ],
+      "audience": "Ibikorwa byo gukwirakwiza hamwe na flet cyangwa abandi bantu."
+    },
+    "supplier": {
+      "kicker": "Guhaha",
+      "card": "Urubuga rwabatanga nubuyobozi bwo kugura.",
+      "features": [
+        "Kugura ibicuruzwa",
+        "Amagambo",
+        "Ubuyobozi bw'abatanga isoko",
+        "Kwishyira hamwe hamwe"
+      ],
+      "lead": "Abaguzi bawe bavuze, bakire amabwiriza kandi wuzuze ububiko nta imeri irekuye.",
+      "about": "Vendor Supplier ifungura portal yo kugura nabatanga kugirango bakore kumurongo umwe. Amagambo, kugura ibicuruzwa no kwakirwa bihujwe no kubara FullVendor.",
+      "benefits": [
+        {
+          "title": "Gutegeka kumuyoboro",
+          "text": "Utanga isoko abona icyo gutanga, nta murongo wa imeri."
+        },
+        {
+          "title": "Amagambo yagereranijwe",
+          "text": "Urasaba ibiciro ugahitamo hamwe namateka ureba."
+        },
+        {
+          "title": "Umwigisha utanga isoko",
+          "text": "Ibisabwa, imibonano no gutegereza mu nyandiko imwe."
+        },
+        {
+          "title": "Injira ibarura",
+          "text": "Ibyaguzwe bigaragarira mububiko iyo byakiriwe."
+        }
+      ],
+      "audience": "Kugura amakipe yuzuza abatanga ibintu byinshi kandi bakeneye gukurikiranwa."
+    },
+    "salesman": {
+      "kicker": "Porogaramu igendanwa",
+      "card": "Porogaramu igendanwa kumurwi wo kugurisha.",
+      "features": [
+        "Gucunga abakiriya",
+        "Gutegeka",
+        "Urutonde rwibicuruzwa",
+        "Kureka akazi"
+      ],
+      "lead": "Imbaraga zo kugurisha zifata amabwiriza kumuhanda, hamwe cyangwa nta kimenyetso.",
+      "about": "FullVendor Sales Man ashyira portfolio yawe, kataloge na ordre ufata terefone yugurisha. Niba nta enterineti ihari, akazi karakomeza kandi gahuza igihe ikimenyetso kigarutse. Ibicuruzwa bigeze biteguye gutegura no gutanga.",
+      "benefits": [
+        {
+          "title": "Umufuka mu mufuka",
+          "text": "Umugurisha abona abakiriya, ibintu nibintu bitegereje."
+        },
+        {
+          "title": "Tegeka gusurwa",
+          "text": "Fata gahunda hamwe nibiciro biriho."
+        },
+        {
+          "title": "Cataloge kugeza kumunsi",
+          "text": "Ibicuruzwa, kwerekana n'ibiciro nta PDF ishaje."
+        },
+        {
+          "title": "Kurubuga rwa interineti",
+          "text": "Kora udafite ubwishingizi kandi uhuze nyuma."
+        }
+      ],
+      "audience": "Abagenzuzi n'abacuruzi bo mumirima mugukwirakwiza no gukoresha byinshi."
+    },
+    "warehouse": {
+      "kicker": "Porogaramu igendanwa",
+      "card": "Porogaramu igendanwa kububiko.",
+      "features": [
+        "Kwakira no kohereza",
+        "Gutora no gupakira",
+        "Kugenzura ibarura",
+        "Gusoma kode"
+      ],
+      "lead": "Kwakira, gutora no kohereza hamwe na terefone na barcode.",
+      "about": "FullVendor Warehouse ayobora ububiko mu kwakira, gutora, gupakira no kohereza. Kode yo gusoma igabanya amakosa kandi kubara ntibikibarwa gusa ukwezi kurangiye.",
+      "benefits": [
+        {
+          "title": "Kwakira nabi gahunda",
+          "text": "Ibyinjira byagereranijwe no kugura."
+        },
+        {
+          "title": "Gutoranya intego",
+          "text": "Nyirubwato akurikiza gahunda kandi yemeza buri kintu."
+        },
+        {
+          "title": "Barcode",
+          "text": "Ibicuruzwa bike, icyiciro cyangwa amakosa menshi."
+        },
+        {
+          "title": "Ububiko bwizewe",
+          "text": "Buri rugendo ruvugurura urutonde rwibikorwa."
+        }
+      ],
+      "audience": "Abashinzwe ububiko naba nyiri ubwato bategura ibicuruzwa hamwe nurutonde rwacapwe."
+    },
+    "finance": {
+      "kicker": "Porogaramu igendanwa",
+      "card": "Igenzura ryamafaranga kuva mobile yawe.",
+      "features": [
+        "Konti yakirwa kandi yishyurwa",
+        "Imiterere y'abakiriya",
+        "Kwishura no kwiyunga",
+        "Raporo yimari"
+      ],
+      "lead": "Konti zishobora kwishyurwa, kwishura no kumiterere yabakiriya, uhereye kuri terefone yawe.",
+      "about": "FullVendor Finance yerekana icyegeranyo kuri mobile: icyo buri mukiriya abereyemo, icyo sosiyete igiye kwishyura nuburyo ubwishyu buza. Ikoreshwa mugukusanya amafaranga mugihe cyo gusura no kureba igitabo cyabigenewe udafunguye ameza.",
+      "benefits": [
+        {
+          "title": "Icyegeranyo mugusura",
+          "text": "Umugurisha azi niba umukiriya agezweho mbere yo kugurisha."
+        },
+        {
+          "title": "Kwakirwa kandi byishyurwa",
+          "text": "Impande zombi z'agasanduku muri porogaramu imwe."
+        },
+        {
+          "title": "Kwishura no kwiyunga",
+          "text": "Wiyandikishije inguzanyo urebe ibikenewe kurenga."
+        },
+        {
+          "title": "Raporo ziri hafi",
+          "text": "Ikusanyamakuru hamwe namafaranga udategereje gufunga."
+        }
+      ],
+      "audience": "Abayobozi, abegeranya n'abacuruzi bakeneye ibibazo byabakiriya muriki gihe."
+    }
+  },
+  "why": {
+    "eyebrow": "Kuki FullVendor",
+    "title": "Ongera ubucuruzi bwawe\nhamwe nibisubizo nyabyo",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ibigo biratwizeye"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Abakoresha bakora"
+      },
+      {
+        "value": "+10",
+        "suffix": "imyaka",
+        "label": "Ubwihindurize burigihe"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Igicu kiboneka"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Uburyo ikora",
+    "title": "Kuva kugurisha kugeza gukusanya, udahinduye sisitemu",
+    "text": "Buri gicuruzwa kigabana abakiriya, imigabane, ibicuruzwa no kwishyura. Ibibera mumuhanda cyangwa mububiko bigaragara mubiro ako kanya.",
+    "steps": {
+      "sell": {
+        "title": "Uragurisha",
+        "text": "Ibicuruzwa byinjijwe binyuze kurubuga cyangwa binyuze kuri Sales Man, nubwo nta kimenyetso."
+      },
+      "pick": {
+        "title": "Witegure",
+        "text": "Warehouse yakira, itandukanya kandi yohereza hamwe na barcode."
+      },
+      "deliver": {
+        "title": "Gutanga",
+        "text": "Logistics igenera inzira kandi ikurikira itangwa."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance na ERP funga icyegeranyo, inyemezabuguzi nimibare."
+      }
+    }
+  },
+  "band": {
+    "title": "Witeguye kubibona hamwe na [[ibikorwa byawe]]?",
+    "text": "Turakwereka ecosystem hamwe nurubanza rwo kugabana rusa nuwawe."
+  },
+  "footer": {
+    "blurb": "Urubuga na mobile igendanwa yo gukwirakwiza, kugurisha, ibikoresho, kugura, kubara no imari.",
+    "products": "Ibicuruzwa",
+    "company": "Isosiyete",
+    "legal": "Byemewe n'amategeko",
+    "privacy": "Amabanga",
+    "terms": "Amagambo",
+    "rights": "Uburenganzira bwose burabitswe."
+  },
+  "solutions": {
+    "eyebrow": "Ibisubizo",
+    "title": "Buri gace, gahujwe na [[imikorere imwe]]",
+    "intro": "Hitamo kubibazo ushaka gukemura. Inyuma, ibicuruzwa bisangira amakuru amwe.",
+    "items": {
+      "commercial": {
+        "title": "Gucunga ubucuruzi",
+        "text": "Ibicuruzwa, ibiciro, abakiriya nububiko bwo kugabura umunsi-kuwundi."
+      },
+      "field": {
+        "title": "imbaraga zo kugurisha",
+        "text": "Abacuruzi bafata ibyemezo kumuhanda, kumurongo cyangwa kumurongo."
+      },
+      "warehouse": {
+        "title": "Ububiko",
+        "text": "Kwakira, gutora, kohereza no kubitsa bishobora kwizerwa."
+      },
+      "logistics": {
+        "title": "Ibikoresho no gutanga",
+        "text": "Inzira, abashoferi nimiterere ya buri kintu cyatanzwe."
+      },
+      "purchasing": {
+        "title": "Kugura no gutanga ibicuruzwa",
+        "text": "Amagambo, amabwiriza hamwe numuyoboro kubantu bose baguha."
+      },
+      "finance": {
+        "title": "Imari n'icungamari",
+        "text": "Gukusanya, kwishura, kwishyuza hakoreshejwe ikoranabuhanga."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Inganda",
+    "title": "Yakozwe kubantu [[bimura ibicuruzwa]]",
+    "intro": "FullVendor yavutse mugukwirakwiza kandi aherekeza ibigo bigura, kubika, kugurisha no gutanga.",
+    "items": {
+      "wholesale": {
+        "title": "Ikwirakwizwa hamwe n’ibicuruzwa byinshi",
+        "text": "Urutonde rwibiciro, portfolio, gukwirakwiza no gukusanya muruziga rumwe."
+      },
+      "retail": {
+        "title": "Gucuruza",
+        "text": "Ububiko nububiko hamwe nububiko buhujwe, kugurisha no kuzuza."
+      },
+      "food": {
+        "title": "Ibiryo n'ibinyobwa",
+        "text": "Inzira nyinshi hamwe nububiko budashobora guhagarara."
+      },
+      "pharma": {
+        "title": "Farumasi no kwita ku muntu ku giti cye",
+        "text": "Kwakira, gutora no kubara kugenzura hamwe no gukurikirana."
+      },
+      "hardware": {
+        "title": "Ibyuma nubwubatsi",
+        "text": "Ibyerekezo byinshi, abatanga nibitangwa kumurimo cyangwa kubika."
+      },
+      "fmcg": {
+        "title": "Gukoresha byinshi",
+        "text": "Imbaraga zo kugurisha kumuhanda no gusimbuza ibicuruzwa byinshi."
+      },
+      "manufacturing": {
+        "title": "Inganda",
+        "text": "Kugura, ububiko nububiko byahujwe nubuyobozi."
+      },
+      "lastmile": {
+        "title": "Gutanga na kilometero yanyuma",
+        "text": "Inzira, abashoferi nimiterere ya buri kintu cyatanzwe."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ibikoresho",
+    "title": "Sobanura ibitekerezo kuri [[tegeka ibikorwa]]",
+    "intro": "Imiyoboro migufi yo gukwirakwiza abayobozi bagiye guhitamo sisitemu yo gukurikiza.",
+    "items": {
+      "unify": {
+        "title": "Nigute wahuza gukwirakwiza muri sisitemu imwe",
+        "summary": "Ibyo gushira hamwe mugihe kugurisha, ububiko no gukusanya bibera muri dosiye zitandukanye.",
+        "points": [
+          "Tangira kubakiriya, ibicuruzwa nibiciro: ni mwarimu abantu bose bakoresha.",
+          "Huza gahunda hamwe na stock mbere yo kongeramo izindi porogaramu.",
+          "Ipima umubare woroshye: amabwiriza yujujwe atongeye kugabanya ifishi."
+        ]
+      },
+      "offline": {
+        "title": "Imbaraga zo kugurisha zikora kumurongo",
+        "summary": "Icyo usabwa muri porogaramu itumiza kugirango umugurisha adahagarara kubera ibimenyetso.",
+        "points": [
+          "Cataloge na gapapuro bigomba kuba kuri terefone, ntabwo biri mubicu gusa.",
+          "Ibicuruzwa byabitswe kubikoresho hanyuma bigashyirwaho iyo umuyoboro ugarutse.",
+          "Mugihe cyo guhuza, gahunda yamaze kwinjira mububiko."
+        ]
+      },
+      "warehouse": {
+        "title": "Ububiko hamwe na barcode, nta mpapuro",
+        "summary": "Nigute ushobora kuva kurutonde rwacapwe kugirango wemeze gutora kuri terefone.",
+        "points": [
+          "Akira kurwanya gahunda yo kugura, ntabwo arwanya kwibuka.",
+          "Emeza buri kintu mugihe gitandukanye. Ikosa ryaciwe muri koridoro.",
+          "Kohereza ivugurura ububiko umugurisha abona."
+        ]
+      },
+      "finance": {
+        "title": "Icyegeranyo cyahujwe no kugurisha",
+        "summary": "Impamvu umugurisha agomba kubona umwenda wabakiriya mbere yo gufata irindi tegeko.",
+        "points": [
+          "Uruzinduko nigihe cyiza cyo gukusanya, niba umwenda ugaragara.",
+          "Igurisha n’imari bigomba kureba umukiriya umwe.",
+          "Raporo yarengeje iminsi ya buri munsi ifite agaciro karenze gutinda."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ibiciro",
+    "title": "Urusobe rw'ibinyabuzima [[rukura nawe]]",
+    "intro": "Ntabwo dusohora igipimo rusange: ikiguzi giterwa na module, abakoresha nubunini. Turakwereka urubuga kandi dushyire hamwe icyifuzo hamwe nibikorwa byawe.",
+    "note": "Demo nta kiguzi kandi ntisaba amasezerano.",
+    "recommended": "Basabwe",
+    "faq_title": "Ibibazo bikunze kubazwa",
+    "plans": {
+      "essential": {
+        "name": "Icyangombwa",
+        "desc": "Gutegura imicungire yubucuruzi no gukwirakwiza kumurongo umwe.",
+        "features": [
+          "Plataforma FullVendor web",
+          "Kugurisha, kugura no kubara",
+          "Abakiriya, abatanga amakuru na raporo",
+          "Abakoresha ibikoresho byo mu biro",
+          "Inkunga yo gutangira"
+        ],
+        "cta": "Saba Demo"
+      },
+      "professional": {
+        "name": "Ababigize umwuga",
+        "desc": "Amakipe agurisha kumuhanda agategura ibicuruzwa mububiko.",
+        "features": [
+          "Ikintu Cyingenzi",
+          "Porogaramu FullVendor Sales Man",
+          "Porogaramu FullVendor Warehouse",
+          "Offline akazi na barcode",
+          "Abakoresha imirima myinshi nububiko"
+        ],
+        "cta": "Saba Demo"
+      },
+      "corporate": {
+        "name": "Mufatanya",
+        "desc": "Kubitsinda rikeneye ibikoresho, kugura, imari nibigo bitandukanye.",
+        "features": [
+          "Ibidukikije byuzuye",
+          "Logistics, Vendor Supplier na Finance",
+          "FullVendor ERP hamwe nubukode bwinshi",
+          "Kwishura fagitire no kubara",
+          "Guherekeza no kubanza kuboneka"
+        ],
+        "cta": "Vugana no kugurisha"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ningomba kugura ibicuruzwa byose?",
+        "a": "No. Puedes empezar por FullVendor y sumar apps o el ERP cuando la operación lo necesite."
+      },
+      "offline": {
+        "q": "Porogaramu ikora idafite interineti?",
+        "a": "Sales Man na Warehouse komeza gukora nta kimenyetso kandi uhuze mugihe wongeye guhura."
+      },
+      "multi": {
+        "q": "Cyakora niba mfite sosiyete zirenze imwe?",
+        "a": "Yego. ERP itekereza-ibigo byinshi kandi ecosystem irashobora kugabana shobuja hagati yabo."
+      },
+      "demo": {
+        "q": "Demo ikubiyemo iki?",
+        "a": "Kuzenguruka urubuga hamwe nurubanza rusa nuwawe. Nta kiguzi kandi nta nshingano."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Turakwereka FullVendor hamwe na [[ubwoko bwibikorwa byawe]]",
+    "text": "Tubwire ibijyanye na sosiyete yawe nicyo ushaka gutumiza mbere. Demo nta kiguzi."
+  },
+  "contact": {
+    "eyebrow": "Twandikire",
+    "title": "Reka tuganire kuri [[imikorere yawe]]",
+    "text": "Niba ushaka demo, icyifuzo cyangwa gusa kwerekeza hagati yibicuruzwa, usige amakuru yawe turagusubiza.",
+    "email": "Ibaruwa",
+    "phone": "Terefone",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Izina",
+    "email": "Ibaruwa",
+    "phone": "Terefone",
+    "company": "Isosiyete",
+    "country": "Igihugu",
+    "team": "Ingano yikipe",
+    "interest": "Ni iki kigushimishije?",
+    "message": "Ubutumwa",
+    "optional": "Bihitamo",
+    "choose": "Hitamo",
+    "interest_all": "Ibidukikije byose",
+    "ph_name": "izina ryawe",
+    "ph_email": "wowe@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Isosiyete yawe",
+    "ph_country": "Igihugu",
+    "ph_message": "Tubwire uko ukora uyu munsi",
+    "privacy_before": "Nemera ikoreshwa ryamakuru yanjye nkurikije",
+    "privacy_after": ".",
+    "submit": "Ohereza icyifuzo",
+    "sent_title": "Twakiriye icyifuzo cyawe",
+    "sent_text": "Murakoze. Itsinda ryabacuruzi bazakwandikira kugirango uhuze demo cyangwa usubize ikibazo cyawe.",
+    "error_required": "Uzuza uyu murima.",
+    "error_email": "Injira imeri yemewe.",
+    "error_phone": "Reba terefone.",
+    "error_privacy": "Dukeneye uburenganzira bwawe bwo gukoresha amakuru arambuye.",
+    "error_csrf": "Isomo ryararangiye. Ohereza urupapuro.",
+    "error_save": "Ntabwo twashoboye kubika icyifuzo. Ongera ugerageze.",
+    "error_generic": "Ongera usubiremo imirima.",
+    "error_rate": "Nyamuneka tegereza gato mbere yo gutanga ikindi cyifuzo.",
+    "team_options": {
+      "1-10": "Abantu 1 kugeza 10",
+      "11-50": "Abantu 11 kugeza kuri 50",
+      "51-200": "Abantu 51 kugeza 200",
+      "201-500": "Abantu 201 kugeza 500",
+      "500+": "Abantu barenga 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor mu munota umwe",
+    "prev": "Uwahoze",
+    "next": "Gukurikira",
+    "slides": [
+      {
+        "title": "Urusobe rw'ibinyabuzima rumwe",
+        "text": "Kugurisha, ububiko, gutanga, kugura no gutanga imari kugabana abakiriya, imigabane nibicuruzwa."
+      },
+      {
+        "title": "Urubuga na mobile hamwe",
+        "text": "Ibiro bikora kuri platifomu. Umuhanda nububiko, muri porogaramu, kabone niyo nta kimenyetso."
+      },
+      {
+        "title": "Byakozwe kugirango bikwirakwizwe",
+        "text": "Kuva kurutonde kugeza kwishura, utanyujije amakuru kuva muri dosiye kurindi."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Shakisha ibicuruzwa, ibisubizo, inganda…",
+    "lang_filter": "Shakisha ururimi",
+    "intro": "Shakisha ibicuruzwa, ibisubizo, inganda nibikoresho.",
+    "empty": "Ntabwo twabonye ibisubizo bya “{q}”.",
+    "hint": "Gerageza kugurisha, ububiko, inzira cyangwa ibyegeranyo.",
+    "results": "{n} ibisubizo",
+    "button": "Shakisha",
+    "kind_product": "Ibicuruzwa",
+    "kind_solution": "Igisubizo",
+    "kind_industry": "Inganda",
+    "kind_resource": "Ibikoresho"
+  },
+  "notfound": {
+    "title": "Uru rupapuro ntabwo",
+    "text": "Ihuza ntiribaho cyangwa ryahinduye ahantu."
+  },
+  "common": {
+    "what": "Ikemura",
+    "features": "Harimo iki",
+    "benefits": "Impamvu ari ngombwa",
+    "for_who": "Ni nde?",
+    "related": "Muri urusobe rw'ibinyabuzima"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Kugurisha uyu munsi",
+      "orders": "Amabwiriza",
+      "clients": "Abakiriya",
+      "products": "Ibicuruzwa"
+    },
+    "sidebar": {
+      "dashboard": "Ikibaho",
+      "sales": "Kugurisha",
+      "purchases": "Guhaha",
+      "inventory": "Ibarura",
+      "clients": "Abakiriya",
+      "reports": "Raporo"
+    },
+    "chart": "Kugurisha",
+    "channel": "Ikwirakwizwa ryumuyoboro",
+    "channels": [
+      "Ububiko",
+      "Ikwirakwizwa",
+      "Umucuruzi",
+      "Abandi"
+    ],
+    "orders": "Ibicuruzwa bigezweho",
+    "col_order": "Tegeka",
+    "col_client": "Umukiriya",
+    "col_status": "Leta",
+    "col_total": "Igiteranyo",
+    "status": [
+      "Yatanzwe",
+      "Mu nzira",
+      "Amatwi"
+    ],
+    "top": "Ibicuruzwa byiza cyane",
+    "product": "Ibicuruzwa",
+    "sales_menu": [
+      "Abakiriya",
+      "Amabwiriza",
+      "Ibicuruzwa",
+      "Inzira",
+      "Guhuza"
+    ],
+    "warehouse_menu": [
+      "Kwakira",
+      "Gutora",
+      "Ibarura",
+      "Kohereza",
+      "Guhuza"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politiki Yibanga",
+    "privacy_intro": "Iyi politiki isobanura ibyo dukora hamwe namakuru wasize muburyo bwuru rubuga.",
+    "privacy": [
+      {
+        "title": "Ni ayahe makuru dukusanya",
+        "text": "Niba usabye demo cyangwa ukatwandikira, tubika izina, isosiyete, imeri, numero ya terefone niba ubigaragaje, igihugu, ingano yikipe, ibicuruzwa byinyungu nubutumwa. Twanditse kandi itariki, imvugo yurupapuro na aderesi ya IP, kugirango twirinde gutanga nabi."
+      },
+      {
+        "title": "Turabakoresha iki?",
+        "text": "Dukoresha aya makuru kugirango tugusubize gusa, duhuze demo kandi dutegure icyifuzo cyubucuruzi. Ntabwo tubagurisha cyangwa ngo tubahe kurutonde rwabandi bantu."
+      },
+      {
+        "title": "Babikwa he kandi kugeza ryari?",
+        "text": "Ibisabwa bibitswe kuri seriveri yuru rubuga. Turabibika mugihe gikenewe cyo kugukorera no gukurikirana ubucuruzi, kandi turabisiba mugihe ubidusabye cyangwa mugihe bitagikenewe."
+      },
+      {
+        "title": "Uburenganzira bwawe",
+        "text": "Urashobora gusaba kwinjira, gukosora cyangwa gusiba amakuru yawe kurupapuro rwitumanaho, ukabigaragaza mubutumwa. Niba isosiyete itangaza imeri kururu rubuga, urashobora kandi kwandika hano."
+      }
+    ],
+    "terms_title": "Amategeko yo gukoresha",
+    "terms_intro": "Ibi bisabwa bikurikizwa kumikoreshereze yuru rubuga FullVendor.",
+    "terms": [
+      {
+        "title": "Amakuru yubucuruzi",
+        "text": "Inyandiko, urugero igishushanyo mbonera hamwe nibisobanuro byerekana urubuga. Birashobora guhinduka mugihe ibicuruzwa bihindutse kandi ntabwo ari ibintu bifunze."
+      },
+      {
+        "title": "Demo ntabwo ari amasezerano",
+        "text": "Gutanga ifishi ntibisobanura inshingano yo kugura cyangwa kubika igiciro. Amasezerano ayo ari yo yose yemeranijwe ukwayo, mu nyandiko, hamwe n’ibipimo byayo."
+      },
+      {
+        "title": "Ibirimo kurubuga",
+        "text": "Ikirango FullVendor ikirango, amazina yibicuruzwa nibiri muriyi page ni ibya nyirabyo. Ntibishobora kwiganwa kugirango berekane ikindi gicuruzwa."
+      },
+      {
+        "title": "Gukoresha byemewe",
+        "text": "Ntukoreshe impapuro kugirango utange amakuru y'ibinyoma, spam cyangwa ibintu bitemewe. Turashobora kwirengagiza ibyifuzo bidahuye nibiganiro byubucuruzi."
+      }
+    ]
+  }
+}

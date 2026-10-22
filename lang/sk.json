@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Spravujte a rozvíjajte svoje podnikanie",
+    "home_desc": "All-in-one platforma s webovými a mobilnými riešeniami pre distribúciu, predaj, logistiku, nákup, zásoby a financie.",
+    "products_title": "Produkty | FullVendor",
+    "products_desc": "Spoznajte ekosystém FullVendor: komerčná platforma, ERP, logistika, dodávatelia a predaj, sklad a finančné aplikácie.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Riešenia | FullVendor",
+    "solutions_desc": "Riešenia pre obchodný manažment, predaj, sklad, logistiku, nákup a financie.",
+    "industries_title": "Odvetvia | FullVendor",
+    "industries_desc": "FullVendor pre distribúciu, maloobchod, potraviny, farmáciu, hardvér, hromadnú spotrebu, výrobu a poslednú míľu.",
+    "pricing_title": "Ceny | FullVendor",
+    "pricing_desc": "Základné, profesionálne a firemné plány. Návrh je zostavený podľa modulov, užívateľov a objemu.",
+    "resources_title": "Zdroje | FullVendor",
+    "resources_desc": "Krátky návod na zjednotenie distribúcie, offline predaj, usporiadanie skladu a včasné zaplatenie.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Napíšte nám, aby ste sa dozvedeli viac o FullVendor alebo koordinovali rozhovor s obchodným tímom.",
+    "demo_title": "Vyžiadať demo | FullVendor",
+    "demo_desc": "Vyžiadajte si ukážku FullVendor a prehliadnite si platformu s prípadom podobným vašej operácii.",
+    "privacy_title": "Ochrana osobných údajov | FullVendor",
+    "terms_title": "Podmienky | FullVendor",
+    "search_title": "Hľadať | FullVendor",
+    "notfound_title": "Stránka sa nenašla | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Domovská stránka",
+    "products": "Produkty",
+    "solutions": "Riešenia",
+    "industries": "Odvetvia",
+    "pricing": "Ceny",
+    "resources": "Zdroje",
+    "contact": "Kontaktovať",
+    "open_menu": "Otvoriť menu",
+    "close": "Zavrieť"
+  },
+  "cta": {
+    "demo": "Vyžiadať demo",
+    "contact": "Kontaktujte nás",
+    "video": "Pozrite si video",
+    "talk": "Porozprávajte sa s predajom",
+    "all_products": "Zobraziť všetky produkty",
+    "home": "Návrat na domovskú stránku"
+  },
+  "a11y": {
+    "skip": "Preskočiť na obsah",
+    "primary": "Hlavná navigácia",
+    "crumbs": "Navigačná trasa",
+    "search": "Hľadajte",
+    "language": "Jazyk"
+  },
+  "hero": {
+    "eyebrow": "Všetko na jednej platforme",
+    "title": "Spravovať a rásť\nvaše podnikanie s\n{{brand}}",
+    "subtitle": "Kompletná platforma s webovými a mobilnými riešeniami pre distribúciu, predaj, logistiku, nákup, inventár, financie a ďalšie.",
+    "pill_ecosystem": "Všetko v jedinom ekosystéme",
+    "pill_cloud": "V cloude, bezpečné a škálovateľné",
+    "pill_size": "Pre firmy všetkých veľkostí"
+  },
+  "products_block": {
+    "eyebrow": "Naše produkty",
+    "title": "[[úplný ekosystém]] pre každú oblasť vášho podnikania",
+    "aside": "Integrované riešenia, ktoré spolupracujú, aby vám poskytli úplnú kontrolu, prevádzkovú efektivitu a väčší rast.",
+    "groups": {
+      "money": "Správa a zber",
+      "flow": "Nákupy a doručenie",
+      "field": "Predaj a sklad"
+    }
+  },
+  "products_page": {
+    "title": "Sedem produktov, [[jedna prevádzka]]",
+    "text": "Každý produkt rieši určitú oblasť. Spoločne zdieľajú zákazníkov, zásoby, objednávky a platby."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Hlavná platforma pre komerčné riadenie a distribúciu.",
+      "features": [
+        "Predaje a nákupy",
+        "Inventár",
+        "Klienti a dodávatelia",
+        "Správy a ďalšie"
+      ],
+      "lead": "Centrum vašej obchodnej prevádzky: objednávky, ceny, zásoby a zákazníci na jednom mieste.",
+      "about": "FullVendor nahrádza voľné tabuľky a systémy distribútora. Odtiaľto vychádzajú objednávky, konzultuje sa inventár, stará sa o portfólio zákazníkov a pozerá sa na čísla dňa. Na túto základňu sa pripája zvyšok ekosystému.",
+      "benefits": [
+        {
+          "title": "Jediný kmeň údajov",
+          "text": "Zákazníci, produkty a ceny sú zdieľané s predajom, skladom a financiami."
+        },
+        {
+          "title": "Jasná denná prevádzka",
+          "text": "Objednávky, nákupy a zásoby prestávajú žiť v rôznych súboroch."
+        },
+        {
+          "title": "Správy rozhodnúť",
+          "text": "Predaje, marža a nevybavené sú viditeľné bez toho, aby ste zostavili stôl ručne."
+        },
+        {
+          "title": "Pripravený na rast",
+          "text": "Logistika, predajná sila alebo ERP sumy, keď si to prevádzka vyžiada."
+        }
+      ],
+      "audience": "Obchodné a distribučné tímy, ktoré dnes koordinujú biznis medzi viacerými systémami."
+    },
+    "erp": {
+      "kicker": "Administrácia",
+      "card": "Kompletné administratívne a finančné riadenie.",
+      "features": [
+        "účtovníctvo",
+        "Elektronické účtovanie",
+        "Pracovné listy",
+        "Dlhodobý majetok",
+        "Multispoločnosť"
+      ],
+      "lead": "Administratíva a financie, zosúladené s tým, čo sa reálne predáva a dodáva.",
+      "about": "FullVendor ERP pokrýva účtovníctvo, elektronickú fakturáciu, mzdy, dlhodobý majetok a multi-spoločnosti. Prevezme komerčnú operáciu a prevedie ju na záznamy, potvrdenky a výkazy, ktoré môže použiť finančná oblasť.",
+      "benefits": [
+        {
+          "title": "Prepojené účtovníctvo",
+          "text": "Čo sa deje v účtovníctve predajov a nákupov."
+        },
+        {
+          "title": "Elektronické účtenky",
+          "text": "Vystavujete a riadite fakturáciu z rovnakého ekosystému."
+        },
+        {
+          "title": "Rôzne spoločnosti",
+          "text": "Multi-spoločnosť pre skupiny, ktoré pôsobia pod viac ako jedným názvom spoločnosti."
+        },
+        {
+          "title": "Mzdy a aktíva",
+          "text": "Mzdy a dlhodobý majetok spolu so zvyškom manažmentu."
+        }
+      ],
+      "audience": "Administratívne a finančné oblasti, ktoré chcú uzavrieť čísla s reálnou prevádzkou."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Kontrola a monitorovanie vašej logistickej prevádzky.",
+      "features": [
+        "Trasy a dodávky",
+        "Sledovanie v reálnom čase",
+        "Pridelenie vodiča",
+        "Optimalizácia trasy"
+      ],
+      "lead": "Od objednávky po dodanie: trasy, vodiči a sledovanie v reálnom čase.",
+      "about": "FullVendor Logistics organizuje distribúciu. Vytvárate trasy, priraďujete vodičov a vidíte, kam každá dodávka smeruje. Dopravný tím sa zastaví v závislosti od hovorov, aby zistil, či bola objednávka odoslaná.",
+      "benefits": [
+        {
+          "title": "Trasy dňa",
+          "text": "Dodávky zoradené podľa zóny, časového okna a kapacity."
+        },
+        {
+          "title": "Pridelený vodič",
+          "text": "Každá trasa má na starosti osobu a jasnú postupnosť."
+        },
+        {
+          "title": "Sledovanie",
+          "text": "Viete, čo je doručené, na ceste alebo zastavené."
+        },
+        {
+          "title": "Menej kilometrov",
+          "text": "Optimalizácia trasy znižuje čas doručenia a náklady."
+        }
+      ],
+      "audience": "Distribučné operácie s vlastným vozovým parkom alebo tretími stranami."
+    },
+    "supplier": {
+      "kicker": "Nakupovanie",
+      "card": "Portál pre dodávateľov a riadenie nákupu.",
+      "features": [
+        "Nákupné objednávky",
+        "Citáty",
+        "Manažment dodávateľov",
+        "Integrácia s inventárom"
+      ],
+      "lead": "Vaši dodávatelia ponúkajú ponuky, prijímajú objednávky a dopĺňajú zásoby bez voľných e-mailov.",
+      "about": "Vendor Supplier otvára portál pre nákupy a dodávateľov, ktorí môžu pracovať na rovnakých objednávkach. Cenové ponuky, objednávky a príjem sú viazané na inventár podľa FullVendor.",
+      "benefits": [
+        {
+          "title": "Objednávky v kanáli",
+          "text": "Dodávateľ vidí, čo má dodať, bez e-mailového reťazca."
+        },
+        {
+          "title": "Porovnateľné citáty",
+          "text": "Pýtate sa na ceny a vyberáte s históriou."
+        },
+        {
+          "title": "Dodávateľ Master",
+          "text": "Podmienky, kontakty a nevybavené v jednom zázname."
+        },
+        {
+          "title": "Zadajte inventár",
+          "text": "To, čo bolo zakúpené, sa po prijatí premietne do skladu."
+        }
+      ],
+      "audience": "Nákupné tímy, ktoré dopĺňajú niekoľko dodávateľov a potrebujú sledovateľnosť."
+    },
+    "salesman": {
+      "kicker": "Mobilná aplikácia",
+      "card": "Mobilná aplikácia pre obchodný tím.",
+      "features": [
+        "Správa zákazníkov",
+        "Prijímanie objednávky",
+        "Katalóg produktov",
+        "Práca offline"
+      ],
+      "lead": "Predajcovia prijímajú objednávky na ulici, so signálom alebo bez neho.",
+      "about": "FullVendor Sales Man umiestni vaše portfólio, katalóg a prijímanie objednávok na telefón predajcu. Ak nie je internet, práca pokračuje a synchronizuje sa, keď sa signál vráti. Objednávka príde pripravená na prípravu a doručenie.",
+      "benefits": [
+        {
+          "title": "Peňaženka vo vrecku",
+          "text": "Predajca vidí klientov, podmienky a čakajúce položky."
+        },
+        {
+          "title": "Objednávka pri návšteve",
+          "text": "Prijmite objednávku s aktuálnymi cenami a skladom."
+        },
+        {
+          "title": "Katalóg je aktuálny",
+          "text": "Produkty, prezentácie a ceny bez starého PDF."
+        },
+        {
+          "title": "Skutočne offline",
+          "text": "Pracujte bez pokrytia a synchronizujte sa neskôr."
+        }
+      ],
+      "audience": "Vedúci a terénni predajcovia v distribúcii a hromadnej spotrebe."
+    },
+    "warehouse": {
+      "kicker": "Mobilná aplikácia",
+      "card": "Mobilná aplikácia pre sklad.",
+      "features": [
+        "Príjem a expedícia",
+        "Vyberanie a balenie",
+        "Kontrola zásob",
+        "Čítanie čiarových kódov"
+      ],
+      "lead": "Príjem, vyzdvihnutie a odoslanie s telefónom a čiarovým kódom.",
+      "about": "FullVendor Warehouse vedie sklad pri príjme, vychystávaní, balení a expedícii. Čítanie kódov znižuje chybovosť a inventúra sa už nepočíta len na konci mesiaca.",
+      "benefits": [
+        {
+          "title": "Recepcia proti objednávke",
+          "text": "To, čo vstúpi, sa porovnáva s nákupom."
+        },
+        {
+          "title": "Cielený zber",
+          "text": "Majiteľ lode sleduje objednávku a potvrdzuje každú položku."
+        },
+        {
+          "title": "Čiarové kódy",
+          "text": "Menej chýb produktu, šarže alebo množstva."
+        },
+        {
+          "title": "Spoľahlivé zásoby",
+          "text": "Každý pohyb aktualizuje inventár platformy."
+        }
+      ],
+      "audience": "Manažéri skladov a lodníci, ktorí dnes pripravujú objednávky s vytlačenými zoznamami."
+    },
+    "finance": {
+      "kicker": "Mobilná aplikácia",
+      "card": "Finančná kontrola z mobilu.",
+      "features": [
+        "Pohľadávky a záväzky",
+        "Stav zákazníka",
+        "Platby a vyrovnania",
+        "Finančné správy"
+      ],
+      "lead": "Pohľadávky, platby a stav zákazníka z vášho telefónu.",
+      "about": "FullVendor Finance zobrazuje inkaso na mobile: čo každý klient dlhuje, čo sa spoločnosť chystá zaplatiť a ako prichádzajú platby. Slúži na vyberanie peňazí počas návštevy a na prezeranie pokladne bez otvárania stola.",
+      "benefits": [
+        {
+          "title": "Odber na obhliadke",
+          "text": "Predajca pred predajom vie, či je zákazník aktuálny."
+        },
+        {
+          "title": "Pohľadávka a splatnosť",
+          "text": "Obe strany krabice v tej istej aplikácii."
+        },
+        {
+          "title": "Platby a vyrovnania",
+          "text": "Zaregistrujete si kredity a uvidíte, čo treba prekrížiť."
+        },
+        {
+          "title": "Správy na dosah ruky",
+          "text": "Inkasné a peňažné ukazovatele bez čakania na uzávierku."
+        }
+      ],
+      "audience": "Manažéri, zberatelia a predajcovia, ktorí momentálne potrebujú situáciu klienta."
+    }
+  },
+  "why": {
+    "eyebrow": "Prečo FullVendor",
+    "title": "Podporte svoje podnikanie\ns reálnymi výsledkami",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Firmy nám veria"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktívni používatelia"
+      },
+      {
+        "value": "+10",
+        "suffix": "rokov",
+        "label": "V neustálom vývoji"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Dostupnosť cloudu"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ako to funguje",
+    "title": "Od predaja po zber, bez zmeny systémov",
+    "text": "Každý produkt zdieľa zákazníkov, zásoby, objednávky a platby. To, čo sa deje na ulici alebo v sklade, sa okamžite objaví v kancelárii.",
+    "steps": {
+      "sell": {
+        "title": "Predávate",
+        "text": "Objednávka sa zadáva cez webovú stránku alebo cez Sales Man aj bez signálu."
+      },
+      "pick": {
+        "title": "Pripravený",
+        "text": "Warehouse prijíma, oddeľuje a odosiela s čiarovým kódom."
+      },
+      "deliver": {
+        "title": "Dodávky",
+        "text": "Logistics pridelí trasu a nasleduje doručenie."
+      },
+      "collect": {
+        "title": "kobry",
+        "text": "Finance a ERP uzavrú zbierku, potvrdenky a čísla."
+      }
+    }
+  },
+  "band": {
+    "title": "Ste pripravení vidieť to s [[vaša operácia]]?",
+    "text": "Ukážeme vám ekosystém s distribučným prípadom podobným tomu vášmu."
+  },
+  "footer": {
+    "blurb": "Webová a mobilná platforma pre distribúciu, predaj, logistiku, nákup, zásoby a financie.",
+    "products": "Produkty",
+    "company": "Spoločnosť",
+    "legal": "Právne",
+    "privacy": "Ochrana osobných údajov",
+    "terms": "Podmienky",
+    "rights": "Všetky práva vyhradené."
+  },
+  "solutions": {
+    "eyebrow": "Riešenia",
+    "title": "Každá oblasť pripojená k [[rovnaká operácia]]",
+    "intro": "Vyberte si podľa problému, ktorý chcete vyriešiť. Produkty vzadu zdieľajú rovnaké informácie.",
+    "items": {
+      "commercial": {
+        "title": "Obchodný manažment",
+        "text": "Objednávky, ceny, zákazníci a zásoby pre každodennú distribúciu."
+      },
+      "field": {
+        "title": "predajná sila",
+        "text": "Predajcovia prijímajúci objednávky na ulici, online alebo offline."
+      },
+      "warehouse": {
+        "title": "Obchod",
+        "text": "Príjem, vychystávanie, expedícia a sklad, na ktorý sa dá spoľahnúť."
+      },
+      "logistics": {
+        "title": "Logistika a dodávka",
+        "text": "Trasy, vodiči a stav každej dodávky."
+      },
+      "purchasing": {
+        "title": "Nákup a dodávatelia",
+        "text": "Cenové ponuky, objednávky a portál pre toho, kto vám dodá."
+      },
+      "finance": {
+        "title": "Financie a účtovníctvo",
+        "text": "Inkasá, platby, elektronická fakturácia a účtovníctvo."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Odvetvia",
+    "title": "Určené pre tých, ktorí [[pohybuje produkt]]",
+    "intro": "FullVendor sa zrodil v distribúcii a sprevádza spoločnosti, ktoré nakupujú, skladujú, predávajú a doručujú.",
+    "items": {
+      "wholesale": {
+        "title": "Distribúcia a veľkoobchod",
+        "text": "Cenníky, portfólio, distribúcia a odber v jednom okruhu."
+      },
+      "retail": {
+        "title": "Maloobchod",
+        "text": "Predajňa a sklad s prepojeným skladom, predajom a dopĺňaním."
+      },
+      "food": {
+        "title": "Jedlo a nápoje",
+        "text": "Časté trasy a sklad, ktorý sa nedá zastaviť."
+      },
+      "pharma": {
+        "title": "Lekáreň a osobná starostlivosť",
+        "text": "Príjem, vychystávanie a kontrola zásob s sledovateľnosťou."
+      },
+      "hardware": {
+        "title": "Hardvér a konštrukcia",
+        "text": "Veľa referencií, dodávateľov a dodávok do práce alebo na predajňu."
+      },
+      "fmcg": {
+        "title": "Hromadná spotreba",
+        "text": "Pouličný predaj a výmena s vysokým obratom."
+      },
+      "manufacturing": {
+        "title": "Výroba",
+        "text": "Nákup, sklad a inventarizácia zosúladené s administratívou."
+      },
+      "lastmile": {
+        "title": "Doručenie a posledná míľa",
+        "text": "Trasy, vodiči a stav každej dodávky."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Zdroje",
+    "title": "Jasné nápady na [[objednať operáciu]]",
+    "intro": "Krátke príručky pre manažérov distribúcie, ktorí sa rozhodnú, ktorý systém zostanú.",
+    "items": {
+      "unify": {
+        "title": "Ako zjednotiť distribúciu do jedného systému",
+        "summary": "Čo dať dokopy ako prvé, keď predaj, sklad a kolekcia žijú v rôznych súboroch.",
+        "points": [
+          "Začnite od zákazníkov, produktov a cien: sú učiteľmi, ktorých každý používa.",
+          "Pred pridaním ďalších aplikácií prepojte objednávku so skladom.",
+          "Meria jednoduchý počet: objednávky splnené bez prepisovania formulára."
+        ]
+      },
+      "offline": {
+        "title": "Predajcovia pracujúci offline",
+        "summary": "Čo požadovať od objednávacej aplikácie, aby sa predajca nezastavil kvôli signálu.",
+        "points": [
+          "Katalóg a peňaženka musia byť v telefóne, nielen v cloude.",
+          "Objednávka sa uloží do zariadenia a nahrá sa, keď sa sieť vráti.",
+          "Pri synchronizácii už objednávka vstupuje do skladu."
+        ]
+      },
+      "warehouse": {
+        "title": "Sklad s čiarovým kódom, bez papiera",
+        "summary": "Ako prejsť z vytlačeného zoznamu k potvrdenému vyzdvihnutiu na telefóne.",
+        "points": [
+          "Prijať proti objednávke, nie proti pamäti.",
+          "Pri oddeľovaní potvrďte každú položku. Ploštica sa zarezáva do chodby.",
+          "Expedícia aktualizuje zásoby, ktoré predajca vidí."
+        ]
+      },
+      "finance": {
+        "title": "Kolekcia zosúladená s predajom",
+        "summary": "Prečo by mal predajca vidieť dlh zákazníka pred prijatím ďalšej objednávky.",
+        "points": [
+          "Návšteva je najlepší čas na vyzdvihnutie, ak je dlh viditeľný.",
+          "Predaj a financie sa musia pozerať na toho istého zákazníka.",
+          "Denná správa o oneskorení má väčšiu hodnotu ako neskorá uzávierka."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ceny",
+    "title": "Ekosystém, ktorý [[rastie s vami]]",
+    "intro": "Nezverejňujeme všeobecnú sadzbu: cena závisí od modulov, používateľov a objemu. Ukážeme vám platformu a zostavíme návrh s vašou prevádzkou.",
+    "note": "Ukážka nemá žiadne náklady a nevyžaduje zmluvu.",
+    "recommended": "Odporúčané",
+    "faq_title": "Často kladené otázky",
+    "plans": {
+      "essential": {
+        "name": "Nevyhnutné",
+        "desc": "Organizovať komerčné riadenie a distribúciu na jednej platforme.",
+        "features": [
+          "FullVendor webovú platformu",
+          "Predaj, nákup a inventár",
+          "Klienti, dodávatelia a správy",
+          "Používatelia kancelárskych zariadení",
+          "Podpora pri spustení"
+        ],
+        "cta": "Vyžiadať demo"
+      },
+      "professional": {
+        "name": "Profesionálny",
+        "desc": "Pre tímy, ktoré predávajú na ulici a pripravujú objednávky v sklade.",
+        "features": [
+          "Všetko podstatné",
+          "Aplikácia FullVendor Sales Man",
+          "Aplikácia FullVendor Warehouse",
+          "Offline práca a čiarové kódy",
+          "Viac používateľov v teréne a sklade"
+        ],
+        "cta": "Vyžiadať demo"
+      },
+      "corporate": {
+        "name": "korporátne",
+        "desc": "Pre skupiny, ktoré potrebujú logistiku, nákup, financie a rôzne spoločnosti.",
+        "features": [
+          "Kompletný ekosystém",
+          "Logistics, Vendor Supplier a Finance",
+          "FullVendor ERP a viacnásobný nájom",
+          "Elektronická fakturácia a účtovníctvo",
+          "Doprovod a prioritná dostupnosť"
+        ],
+        "cta": "Porozprávajte sa s predajom"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Musím si kúpiť všetky produkty?",
+        "a": "Nie. Môžete začať s FullVendor a pridať aplikácie alebo ERP, keď to prevádzka potrebuje."
+      },
+      "offline": {
+        "q": "Fungujú aplikácie bez internetu?",
+        "a": "Sales Man a Warehouse pokračujú v práci bez signálu a synchronizujú sa pri opätovnom pripojení."
+      },
+      "multi": {
+        "q": "Funguje to, ak mám viacero spoločností?",
+        "a": "áno. ERP uvažuje o multi-spoločnostiach a ekosystém môže medzi nimi zdieľať pánov."
+      },
+      "demo": {
+        "q": "Čo obsahuje demo?",
+        "a": "Prehliadka nástupišťa s puzdrom podobným tomu vášmu. Žiadne náklady a žiadne záväzky."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ukážeme vám FullVendor s [[váš typ operácie]]",
+    "text": "Najprv nám povedzte o svojej spoločnosti a o tom, čo si chcete objednať. Demo nemá žiadnu cenu."
+  },
+  "contact": {
+    "eyebrow": "Kontaktovať",
+    "title": "Poďme sa porozprávať o [[vašej operácii]]",
+    "text": "Ak chcete demo, návrh alebo sa len chcete zorientovať medzi produktmi, zanechajte nám svoje údaje a my vám odpovieme.",
+    "email": "Mail",
+    "phone": "Telefón",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Meno",
+    "email": "Mail",
+    "phone": "Telefón",
+    "company": "Spoločnosť",
+    "country": "Krajina",
+    "team": "Veľkosť tímu",
+    "interest": "čo ťa zaujíma?",
+    "message": "Správa",
+    "optional": "Voliteľné",
+    "choose": "Vyberte",
+    "interest_all": "Celý ekosystém",
+    "ph_name": "tvoje meno",
+    "ph_email": "ty@firma.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Vaša spoločnosť",
+    "ph_country": "Krajina",
+    "ph_message": "Povedzte nám, ako dnes fungujete",
+    "privacy_before": "Súhlasím s použitím mojich údajov podľa",
+    "privacy_after": ".",
+    "submit": "Odoslať žiadosť",
+    "sent_title": "Prijímame vašu žiadosť",
+    "sent_text": "dakujem. Predajný tím vám napíše, aby skoordinoval demo alebo odpovedal na vašu otázku.",
+    "error_required": "Vyplňte toto pole.",
+    "error_email": "Zadajte platný e-mail.",
+    "error_phone": "Skontrolujte telefón.",
+    "error_privacy": "Na používanie kontaktných údajov potrebujeme váš súhlas.",
+    "error_csrf": "Platnosť relácie vypršala. Znova odošlite formulár.",
+    "error_save": "Žiadosť sa nám nepodarilo uložiť. Skúste to znova.",
+    "error_generic": "Skontrolujte označené polia.",
+    "error_rate": "Pred odoslaním ďalšej žiadosti chvíľu počkajte.",
+    "team_options": {
+      "1-10": "1 až 10 ľudí",
+      "11-50": "11 až 50 ľudí",
+      "51-200": "51 až 200 ľudí",
+      "201-500": "201 až 500 ľudí",
+      "500+": "Viac ako 500 ľudí"
+    }
+  },
+  "video": {
+    "title": "FullVendor za jednu minútu",
+    "prev": "Bývalý",
+    "next": "Sledovanie",
+    "slides": [
+      {
+        "title": "Jediný ekosystém",
+        "text": "Predaj, sklad, dodávka, nákup a financie zdieľajú zákazníkov, zásoby a objednávky."
+      },
+      {
+        "title": "Web a mobil spolu",
+        "text": "Kancelária funguje na platforme. Ulica a sklad, v aplikáciách, dokonca aj bez signálu."
+      },
+      {
+        "title": "Vyrobené na distribúciu",
+        "text": "Od objednávky po platbu, bez odovzdávania informácií z jedného súboru do druhého."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Hľadajte produkty, riešenia, odvetvia…",
+    "lang_filter": "Jazyk vyhľadávania",
+    "intro": "Vyhľadávajte produkty, riešenia, odvetvia a zdroje.",
+    "empty": "Nenašli sme výsledky pre „{q}“.",
+    "hint": "Vyskúšajte predaj, sklad, trasy alebo zbierky.",
+    "results": "{n} výsledky",
+    "button": "Hľadajte",
+    "kind_product": "Produkt",
+    "kind_solution": "Riešenie",
+    "kind_industry": "priemysel",
+    "kind_resource": "Zdroj"
+  },
+  "notfound": {
+    "title": "Táto stránka nie je",
+    "text": "Odkaz neexistuje alebo zmenil umiestnenie."
+  },
+  "common": {
+    "what": "Čo rieši",
+    "features": "Čo je zahrnuté",
+    "benefits": "Prečo na tom záleží",
+    "for_who": "Pre koho je to určené?",
+    "related": "Aj v ekosystéme"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Predaj dnes",
+      "orders": "objednávky",
+      "clients": "zákazníkov",
+      "products": "Produkty"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Predaj",
+      "purchases": "Nakupovanie",
+      "inventory": "Inventár",
+      "clients": "zákazníkov",
+      "reports": "Správy"
+    },
+    "chart": "Predaj",
+    "channel": "Distribúcia podľa kanála",
+    "channels": [
+      "Obchod",
+      "Distribúcia",
+      "Veľkoobchodník",
+      "Iní"
+    ],
+    "orders": "Najnovšie objednávky",
+    "col_order": "Objednať",
+    "col_client": "Zákazník",
+    "col_status": "štátu",
+    "col_total": "Celkom",
+    "status": [
+      "Doručené",
+      "Na ceste",
+      "Náušnica"
+    ],
+    "top": "Najpredávanejšie produkty",
+    "product": "Produkt",
+    "sales_menu": [
+      "zákazníkov",
+      "objednávky",
+      "Produkty",
+      "Trasy",
+      "Synchronizovať"
+    ],
+    "warehouse_menu": [
+      "Recepcia",
+      "Vyberanie",
+      "Inventár",
+      "Odoslanie",
+      "Synchronizovať"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Zásady ochrany osobných údajov",
+    "privacy_intro": "Tieto zásady vysvetľujú, čo robíme s údajmi, ktoré zanecháte vo formulároch na tejto stránke.",
+    "privacy": [
+      {
+        "title": "Aké údaje zhromažďujeme",
+        "text": "Ak požadujete demo alebo nám napíšete, uložíme meno, spoločnosť, e-mail, telefónne číslo, ak ho uvediete, krajinu, veľkosť tímu, produkt záujmu a správu. Zaznamenávame tiež dátum, jazyk stránky a IP adresu, aby sme zabránili zneužívaniu."
+      },
+      {
+        "title": "Na čo ich používame?",
+        "text": "Tieto údaje používame iba na to, aby sme vám odpovedali, koordinovali demo a pripravili komerčný návrh. Nepredávame ich ani ich neposkytujeme tretím stranám."
+      },
+      {
+        "title": "Kde sú uložené a ako dlho?",
+        "text": "Požiadavky sú uložené na serveri tejto stránky. Uchovávame si ich na čas potrebný na to, aby sme vám slúžili a aby sme mohli sledovať obchodné aktivity, a vymažeme ich, keď nás o to požiadate alebo keď už nie sú potrebné."
+      },
+      {
+        "title": "Vaše práva",
+        "text": "Môžete požiadať o prístup, opravu alebo vymazanie vašich údajov z kontaktného formulára, pričom to uvediete v správe. Ak spoločnosť zverejňuje email na tomto webe, môžete tam aj napísať."
+      }
+    ],
+    "terms_title": "Podmienky používania",
+    "terms_intro": "Tieto podmienky sa vzťahujú na používanie tejto stránky na podávanie žiadostí FullVendor.",
+    "terms": [
+      {
+        "title": "Obchodné informácie",
+        "text": "Texty, príklady obrázkov na prístrojovej doske a popisy predstavujú platformu. Môžu byť upravené pri zmene produktu a nie sú uzavretou ponukou."
+      },
+      {
+        "title": "Demo nie je zmluva",
+        "text": "Odoslaním formulára nevzniká povinnosť zakúpiť alebo rezervovať cenu. Každá zmluva je dohodnutá samostatne, písomne, s jej rozsahom a podmienkami."
+      },
+      {
+        "title": "Obsah stránky",
+        "text": "Ochranná známka FullVendor, názvy produktov a obsah týchto stránok patria ich vlastníkom. Nie je možné ich skopírovať na prezentáciu iného produktu."
+      },
+      {
+        "title": "Prijateľné použitie",
+        "text": "Nepoužívajte formuláre na odosielanie nepravdivých informácií, spamu alebo nezákonného obsahu. Žiadosti, ktoré nezodpovedajú skutočnému obchodnému rozhovoru, môžeme ignorovať."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Beheare en groeie jo bedriuw",
+    "home_desc": "Alles-yn-ien platfoarm mei web- en mobile oplossings foar distribúsje, ferkeap, logistyk, oankeap, ynventarisaasje en finânsjes.",
+    "products_title": "Products | FullVendor",
+    "products_desc": "Learje it ekosysteem FullVendor kennen: kommersjeel platfoarm, ERP, logistyk, leveransiers en ferkeap, pakhús- en finansjeel apps.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solutions | FullVendor",
+    "solutions_desc": "Oplossings foar kommersjeel behear, ferkeapteam, pakhús, logistyk, oankeap en finânsjes.",
+    "industries_title": "Yndustry | FullVendor",
+    "industries_desc": "FullVendor foar distribúsje, detailhannel, iten, apotheek, hardware, massa konsumpsje, fabrikaazje en lêste myl.",
+    "pricing_title": "Prizen | FullVendor",
+    "pricing_desc": "Essinsjele, profesjonele en bedriuwsplannen. It foarstel is gearstald neffens modules, brûkers en folume.",
+    "resources_title": "Resources | FullVendor",
+    "resources_desc": "Koarte hantliedingen om distribúsje te ferienigjen, offline te ferkeapjen, it pakhús te organisearjen en op tiid te beteljen.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Skriuw nei ús om te learen oer FullVendor of koördinearje in petear mei it ferkeapteam.",
+    "demo_title": "Demo oanfreegje | FullVendor",
+    "demo_desc": "Freegje in demo oan fan FullVendor en rûn troch it platfoarm mei in saak fergelykber mei jo operaasje.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Betingsten | FullVendor",
+    "search_title": "Sykje | FullVendor",
+    "notfound_title": "Side net fûn | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Thússide",
+    "products": "Products",
+    "solutions": "Solutions",
+    "industries": "Industries",
+    "pricing": "Prizen",
+    "resources": "Resources",
+    "contact": "Kontakt",
+    "open_menu": "Menu iepenje",
+    "close": "Slute"
+  },
+  "cta": {
+    "demo": "Demo oanfreegje",
+    "contact": "Kontakt mei ús opnimme",
+    "video": "Sjoch fideo",
+    "talk": "Praat mei ferkeap",
+    "all_products": "Sjoch alle produkten",
+    "home": "Werom nei thússide"
+  },
+  "a11y": {
+    "skip": "Gean nei ynhâld",
+    "primary": "Main navigaasje",
+    "crumbs": "Navigaasje rûte",
+    "search": "Sjoch foar",
+    "language": "Taal"
+  },
+  "hero": {
+    "eyebrow": "Alles yn ien platfoarm",
+    "title": "Beheare en groeie\ndyn bedriuw mei\n{{brand}}",
+    "subtitle": "In folslein platfoarm mei web- en mobile oplossings foar distribúsje, ferkeap, logistyk, oankeap, ynventarisaasje, finânsjes en mear.",
+    "pill_ecosystem": "Alles yn ien ekosysteem",
+    "pill_cloud": "Yn 'e wolk, feilich en skalberber",
+    "pill_size": "Foar bedriuwen fan alle maten"
+  },
+  "products_block": {
+    "eyebrow": "Us produkten",
+    "title": "In [[folslein ekosysteem]] foar elk gebiet fan jo bedriuw",
+    "aside": "Yntegreare oplossingen dy't gearwurkje om jo totale kontrôle, operasjonele effisjinsje en gruttere groei te jaan.",
+    "groups": {
+      "money": "Bestjoer en kolleksje",
+      "flow": "Oankeapen en levering",
+      "field": "Ferkeap en pakhús"
+    }
+  },
+  "products_page": {
+    "title": "Sân produkten, [[single operaasje]]",
+    "text": "Elk produkt lost in gebiet op. Tegearre diele se klanten, stock, oarders en betellingen."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Perron",
+      "card": "Main platfoarm foar kommersjeel behear en distribúsje.",
+      "features": [
+        "Ferkeap en oankeapen",
+        "Ynventarisaasje",
+        "Klanten en leveransiers",
+        "Ferslaggen en mear"
+      ],
+      "lead": "It sintrum fan jo kommersjele operaasje: oarders, prizen, stock en klanten op ien plak.",
+      "about": "FullVendor ferfangt losse spreadsheets en systemen fan in distributeur. Hjirwei komme oarders út, wurdt ynventarisaasje rieplachte, klantportefúlje wurdt fersoarge en wurdt sjoen nei de sifers fan de dei. De rest fan it ekosysteem slút oan by dizze basis.",
+      "benefits": [
+        {
+          "title": "In inkele data master",
+          "text": "Klanten, produkten en prizen wurde dield mei ferkeap, pakhús en finânsjes."
+        },
+        {
+          "title": "Dúdlik deistige operaasje",
+          "text": "Oarders, oankeapen en stock stopje te libjen yn ferskate bestannen."
+        },
+        {
+          "title": "Ferslaggen om te besluten",
+          "text": "Ferkeap, marzje en yn ôfwachting wurde sjoen sûnder in tabel mei de hân te setten."
+        },
+        {
+          "title": "Klear om te groeien",
+          "text": "Logistics, sales force of ERP sommen as de operaasje freget it."
+        }
+      ],
+      "audience": "Kommersjele en distribúsjeteams dy't hjoed it bedriuw koördinearje tusken ferskate systemen."
+    },
+    "erp": {
+      "kicker": "Bestjoer",
+      "card": "Folslein bestjoerlik en finansjeel behear.",
+      "features": [
+        "Boekhâlding",
+        "Elektroanyske fakturearring",
+        "Wurkblêden",
+        "Fêste aktiva",
+        "Multi-bedriuw"
+      ],
+      "lead": "Administraasje en finânsjes, ôfstimd mei wat eins ferkocht en levere wurdt.",
+      "about": "FullVendor ERP beslacht boekhâlding, elektroanyske fakturearring, leanlisten, fêste aktiva en multi-bedriuw. It nimt de kommersjele operaasje en konvertearret it yn yngongen, ûntfangsten en ferklearrings dy't it finansjele gebiet brûke kin.",
+      "benefits": [
+        {
+          "title": "Ferbûn boekhâlding",
+          "text": "Wat bart der yn ferkeap en oankeap feeds boekhâlding."
+        },
+        {
+          "title": "Elektroanyske ûntfangsten",
+          "text": "Jo útjaan en kontrolearje fakturearring út itselde ekosysteem."
+        },
+        {
+          "title": "Ferskate bedriuwen",
+          "text": "Multi-bedriuw foar groepen dy't operearje ûnder mear dan ien bedriuwsnamme."
+        },
+        {
+          "title": "Payrolls en aktiva",
+          "text": "Payroll en fêste aktiva tegearre mei de rest fan it management."
+        }
+      ],
+      "audience": "Bestjoerlike en finansjele gebieten dy't de sifers slute wolle mei de echte operaasje."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Kontrôle en tafersjoch op jo logistike operaasje.",
+      "features": [
+        "Rûtes en leveringen",
+        "Real-time tracking",
+        "Driver opdracht",
+        "Rûte optimisaasje"
+      ],
+      "lead": "Fan bestelling oant levering: rûtes, sjauffeurs en real-time tracking.",
+      "about": "FullVendor Logistics organisearret de ferdieling. Jo meitsje rûtes, tawize sjauffeurs en sjoch wêr't elke levering giet. It ferkearsteam stopt ôfhinklik fan oproppen om út te finen oft de bestelling is ferstjoerd.",
+      "benefits": [
+        {
+          "title": "Rûtes fan de dei",
+          "text": "Leveringen besteld troch sône, tiidfinster en kapasiteit."
+        },
+        {
+          "title": "Tawiisd bestjoerder",
+          "text": "Elke rûte hat in ferantwurdlike persoan en in dúdlike folchoarder."
+        },
+        {
+          "title": "Ferfolch",
+          "text": "Jo witte wat wurdt levere, ûnderweis of stoppe."
+        },
+        {
+          "title": "Minder kilometers",
+          "text": "Rûteoptimalisaasje ferleget levertiid en kosten."
+        }
+      ],
+      "audience": "Distribúsje operaasjes mei eigen float of tredden."
+    },
+    "supplier": {
+      "kicker": "Winkelje",
+      "card": "Portaal foar leveransiers en oankeapbehear.",
+      "features": [
+        "Oankeap oarders",
+        "Quotes",
+        "Supplier behear",
+        "Yntegraasje mei ynventarisaasje"
+      ],
+      "lead": "Jo leveransiers offerje, ûntfange oarders en folje foarrie oan sûnder losse e-mails.",
+      "about": "Vendor Supplier iepenet in portal foar oankeapen en leveransiers om oan deselde oarders te wurkjen. Offertes, oankeap oarders en ûntfangst binne bûn oan de ynventaris fan FullVendor.",
+      "benefits": [
+        {
+          "title": "Oarders yn in kanaal",
+          "text": "De leveransier sjocht wat te leverjen, sûnder in e-mailketen."
+        },
+        {
+          "title": "Fergelykbere sitaten",
+          "text": "Jo freegje om prizen en kieze mei de skiednis yn sicht."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Betingsten, kontakten en yn ôfwachting yn ien record."
+        },
+        {
+          "title": "Fier de ynventaris yn",
+          "text": "Wat waard kocht wurdt wjerspegele yn 'e stock as it wurdt ûntfongen."
+        }
+      ],
+      "audience": "Oankeapteams dy't oanfolje mei ferskate leveransiers en traceability nedich binne."
+    },
+    "salesman": {
+      "kicker": "Mobile app",
+      "card": "Mobile applikaasje foar ferkeap team.",
+      "features": [
+        "Klant behear",
+        "Bestelling nimme",
+        "Produkt katalogus",
+        "Offline wurk"
+      ],
+      "lead": "De ferkeapkrêft nimt bestellingen op strjitte, mei of sûnder sinjaal.",
+      "about": "FullVendor Sales Man set jo portfolio, katalogus en bestelling op 'e tillefoan fan' e ferkeaper. As der gjin ynternet is, giet it wurk troch en syngronisearret as it sinjaal weromkomt. De bestelling komt klear om te tarieden en te leverjen.",
+      "benefits": [
+        {
+          "title": "Portemonnee yn pocket",
+          "text": "De ferkeaper sjocht kliïnten, betingsten en wachte items."
+        },
+        {
+          "title": "Bestelle by besite",
+          "text": "Nim de bestelling mei aktuele prizen en stock."
+        },
+        {
+          "title": "Katalogus bywurke",
+          "text": "Produkten, presintaasjes en prizen sûnder in âlde PDF."
+        },
+        {
+          "title": "Echt offline",
+          "text": "Wurkje sûnder dekking en syngronisearje letter."
+        }
+      ],
+      "audience": "Tafersjochhâlders en fjildferkeapers yn distribúsje en massa konsumpsje."
+    },
+    "warehouse": {
+      "kicker": "Mobile app",
+      "card": "Mobile applikaasje foar pakhús.",
+      "features": [
+        "Untfangst en útstjoering",
+        "Oppakke en ynpakke",
+        "Ynventarisaasje kontrôle",
+        "Barcode lêzen"
+      ],
+      "lead": "Ûntfangst, picking en dispatch mei de telefoan en barcode.",
+      "about": "FullVendor Warehouse begeliedt it pakhús yn ûntfangst, picking, packing en dispatch. Lêzen fan koades ferminderet flaters en ynventarisaasje wurdt net mear teld allinnich oan 'e ein fan' e moanne.",
+      "benefits": [
+        {
+          "title": "Opfang tsjin oarder",
+          "text": "Wat ynkomt wurdt fergelike mei de oankeap."
+        },
+        {
+          "title": "Targete picking",
+          "text": "De reder folget de bestelling en befêstiget elk item."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Minder produkt, batch of kwantiteit flaters."
+        },
+        {
+          "title": "Betrouwbare stock",
+          "text": "Elke beweging fernijt de ynventaris fan it platfoarm."
+        }
+      ],
+      "audience": "Warehouse managers en reders dy't hjoed de dei oarders meitsje mei printe listen."
+    },
+    "finance": {
+      "kicker": "Mobile app",
+      "card": "Finansjele kontrôle fan jo mobyl.",
+      "features": [
+        "Rekken te ûntfangen en te beteljen",
+        "Klant status",
+        "Betellingen en fermoedsoeningen",
+        "Finansjele rapporten"
+      ],
+      "lead": "Rekken te ûntfangen, betellingen en klantstatus, fan jo tillefoan.",
+      "about": "FullVendor Finance lit de kolleksje op 'e mobyl sjen: wat elke klant hat, wat it bedriuw op it punt is te beteljen en hoe't de betellingen komme. It wurdt brûkt om jild yn te sammeljen by de besite en om nei de kassa te sjen sûnder it buro te iepenjen.",
+      "benefits": [
+        {
+          "title": "Kolleksje by de besite",
+          "text": "De ferkeaper wit as de klant op 'e hichte is foardat se ferkocht."
+        },
+        {
+          "title": "Receivable en te beteljen",
+          "text": "Beide kanten fan it fak yn deselde app."
+        },
+        {
+          "title": "Betellingen en fermoedsoeningen",
+          "text": "Jo registrearje credits en sjoch wat moat wurde oerstutsen."
+        },
+        {
+          "title": "Ferslaggen by de hân",
+          "text": "Samling en cash yndikatoaren sûnder wachtsjen op in sluting."
+        }
+      ],
+      "audience": "Behearders, samlers en ferkeapers dy't de situaasje fan 'e klant op it stuit nedich hawwe."
+    }
+  },
+  "why": {
+    "eyebrow": "Wêrom FullVendor",
+    "title": "Boost jo bedriuw\nmei echte resultaten",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Bedriuwen fertrouwe ús"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktive brûkers"
+      },
+      {
+        "value": "+10",
+        "suffix": "jierren",
+        "label": "Yn konstante evolúsje"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Wolke beskikberens"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hoe't it wurket",
+    "title": "Fan ferkeap oant kolleksje, sûnder systemen te feroarjen",
+    "text": "Elk produkt dielt klanten, stock, oarders en betellingen. Wat op strjitte of yn it pakhús bart, ferskynt op it kantoar daliks.",
+    "steps": {
+      "sell": {
+        "title": "Jo ferkeapje",
+        "text": "De bestelling wurdt ynfierd fia de webside of fia Sales Man, sels sûnder sinjaal."
+      },
+      "pick": {
+        "title": "Klear",
+        "text": "Warehouse ûntfangt, skiedt en ferstjoert mei barcode."
+      },
+      "deliver": {
+        "title": "Leveringen",
+        "text": "Logistics jout de rûte en folget de levering."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance en ERP slute de kolleksje, de ûntfangsten en de nûmers."
+      }
+    }
+  },
+  "band": {
+    "title": "Klear om it te sjen mei [[jo operaasje]]?",
+    "text": "Wy litte jo it ekosysteem sjen mei in distribúsjesaak fergelykber mei dy."
+  },
+  "footer": {
+    "blurb": "Web- en mobyl platfoarm foar distribúsje, ferkeap, logistyk, oankeap, ynventarisaasje en finânsjes.",
+    "products": "Products",
+    "company": "Bedriuw",
+    "legal": "Legaal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "Alle rjochten foarbehâlden."
+  },
+  "solutions": {
+    "eyebrow": "Solutions",
+    "title": "Elk gebiet, ferbûn mei de [[selde operaasje]]",
+    "intro": "Kies troch it probleem dat jo wolle oplosse. Achter diele de produkten deselde ynformaasje.",
+    "items": {
+      "commercial": {
+        "title": "Kommersjeel behear",
+        "text": "Oarders, prizen, klanten en ynventarisaasje foar deistige distribúsje."
+      },
+      "field": {
+        "title": "ferkeap krêft",
+        "text": "Ferkeapers nimme bestellingen op strjitte, online as offline."
+      },
+      "warehouse": {
+        "title": "Winkel",
+        "text": "Ûntfangst, picking, dispatch en in stock dat kin wurde fertroud."
+      },
+      "logistics": {
+        "title": "Logistyk en levering",
+        "text": "Rûtes, sjauffeurs en de status fan elke levering."
+      },
+      "purchasing": {
+        "title": "Ynkeap en leveransiers",
+        "text": "Offertes, oarders en in portal foar wa't jo leveret."
+      },
+      "finance": {
+        "title": "Finânsjes en boekhâlding",
+        "text": "Kolleksjes, betellingen, elektroanyske fakturearring en boekhâlding."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "Makke foar dyjingen dy't [[produkt ferpleatst]]",
+    "intro": "FullVendor waard berne yn distribúsje en begeliedt bedriuwen dy't keapje, opslaan, ferkeapje en leverje.",
+    "items": {
+      "wholesale": {
+        "title": "Distribúsje en gruthannel",
+        "text": "Priislisten, portfolio, distribúsje en kolleksje yn ien sirkwy."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Winkel en pakhús mei ferbûn stock, ferkeap en oanfolling."
+      },
+      "food": {
+        "title": "Iten en drinken",
+        "text": "Frequente rûtes en in pakhús dat net stopje kin."
+      },
+      "pharma": {
+        "title": "Apotheek en persoanlike soarch",
+        "text": "Ûntfangst, picking en ynventarisaasje kontrôle mei traceability."
+      },
+      "hardware": {
+        "title": "Hardware en konstruksje",
+        "text": "In protte referinsjes, leveransiers en leveringen oan wurk of winkel."
+      },
+      "fmcg": {
+        "title": "Mass konsumpsje",
+        "text": "Street sales krêft en hege omset ferfanging."
+      },
+      "manufacturing": {
+        "title": "Manufacture",
+        "text": "Ynkeap, pakhús en ynventarisaasje ôfstimd mei administraasje."
+      },
+      "lastmile": {
+        "title": "Levering en lêste kilometer",
+        "text": "Rûtes, sjauffeurs en de status fan elke levering."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resources",
+    "title": "Dúdlike ideeën foar [[bestelle de operaasje]]",
+    "intro": "Koarte hantliedingen foar distribúsjebehearders dy't sille beslute hokker systeem te hâlden mei.",
+    "items": {
+      "unify": {
+        "title": "Hoe distribúsje te ferienigjen yn ien systeem",
+        "summary": "Wat earst gear te setten as ferkeap, pakhús en kolleksjes yn ferskate bestannen libje.",
+        "points": [
+          "Begjin mei klanten, produkten en prizen: se binne de learaar dy't elkenien brûkt.",
+          "Ferbine de bestelling mei de stock foardat jo mear applikaasjes tafoegje.",
+          "It mjit in ienfâldich nûmer: oarders folbrocht sûnder it formulier opnij te meitsjen."
+        ]
+      },
+      "offline": {
+        "title": "Sales force wurkje offline",
+        "summary": "Wat te fereaskje fan in bestelapp, sadat de ferkeaper net stopet fanwegen it sinjaal.",
+        "points": [
+          "De katalogus en wallet moatte op 'e tillefoan wêze, net allinich yn' e wolk.",
+          "De bestelling wurdt opslein op it apparaat en uploadt as it netwurk weromkomt.",
+          "By syngronisaasje komt de bestelling al yn it pakhús."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse mei barcode, sûnder papier",
+        "summary": "Hoe kinne jo gean fan 'e printe list nei befêstige picking op' e tillefoan.",
+        "points": [
+          "Ûntfange tsjin de oankeap oarder, net tsjin ûnthâld.",
+          "Befêstigje elk item by it skieden. De bug snijt yn 'e gong.",
+          "De ferstjoering fernijt de stock dy't de ferkeaper sjocht."
+        ]
+      },
+      "finance": {
+        "title": "Kolleksje ôfstimd mei de ferkeap",
+        "summary": "Wêrom moat de ferkeaper de skuld fan de klant sjen foardat hy in oare bestelling nimt.",
+        "points": [
+          "De besite is de bêste tiid om te sammeljen, as de skuld sichtber is.",
+          "Ferkeap en finânsjes moatte nei deselde klant sjen.",
+          "In deistige efterstallige rapport is mear wurdich as in lette sluting."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prizen",
+    "title": "In ekosysteem dat [[groeit mei dy]]",
+    "intro": "Wy publisearje gjin generyk taryf: de kosten binne ôfhinklik fan de modules, brûkers en folume. Wy litte jo it platfoarm sjen en meitsje in foarstel gear mei jo operaasje.",
+    "note": "De demo hat gjin kosten en fereasket gjin kontrakt.",
+    "recommended": "Oanrikkemandearre",
+    "faq_title": "Faak stelde fragen",
+    "plans": {
+      "essential": {
+        "name": "Essinsjeel",
+        "desc": "Om kommersjeel behear en distribúsje te organisearjen op ien platfoarm.",
+        "features": [
+          "FullVendor web platfoarm",
+          "Ferkeap, oankeapen en ynventarisaasje",
+          "Klanten, leveransiers en rapporten",
+          "Brûkers fan kantoarapparatuer",
+          "Start-up stipe"
+        ],
+        "cta": "Demo oanfreegje"
+      },
+      "professional": {
+        "name": "Profesjoneel",
+        "desc": "Foar teams dy't ferkeapje op 'e strjitte en tariede oarders yn it pakhús.",
+        "features": [
+          "Alles Essential",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline wurk en barcodes",
+          "Mear fjild- en pakhúsbrûkers"
+        ],
+        "cta": "Demo oanfreegje"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Foar groepen dy't logistyk, ynkeap, finânsjes en ferskate bedriuwen nedich binne.",
+        "features": [
+          "Folslein ekosysteem",
+          "Logistics, Vendor Supplier en Finance",
+          "FullVendor ERP en mearhier",
+          "Elektroanyske fakturearring en boekhâlding",
+          "Begelieding en prioriteit beskikberens"
+        ],
+        "cta": "Praat mei ferkeap"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Moat ik alle produkten keapje?",
+        "a": "Nee Jo kinne begjinne mei FullVendor en tafoegje apps of ERP as de operaasje dat nedich is."
+      },
+      "offline": {
+        "q": "Wurkje de applikaasjes sûnder ynternet?",
+        "a": "Sales Man en Warehouse wurkje fierder sûnder sinjaal en syngronisearje by it opnij ferbinen."
+      },
+      "multi": {
+        "q": "Wurket it as ik mear as ien bedriuw haw?",
+        "a": "Ja. ERP contemplates multi-bedriuw en it ekosysteem kin diele masters tusken harren."
+      },
+      "demo": {
+        "q": "Wat befettet de demo?",
+        "a": "In rûnlieding troch it platfoarm mei in saak fergelykber mei dy. Gjin kosten en gjin ferplichting."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Wy litte jo FullVendor sjen mei [[jo type operaasje]]",
+    "text": "Fertel ús oer jo bedriuw en wat jo earst bestelle wolle. De demo hat gjin kosten."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Litte wy prate oer [[jo operaasje]]",
+    "text": "As jo ​​​​in demo wolle, in foarstel of gewoan om josels te oriëntearjen tusken de produkten, lit jo ynformaasje litte en wy sille reagearje.",
+    "email": "Post",
+    "phone": "Tillefoan",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Namme",
+    "email": "Post",
+    "phone": "Tillefoan",
+    "company": "Bedriuw",
+    "country": "Lân",
+    "team": "Team grutte",
+    "interest": "Wat ynteressearret dy?",
+    "message": "Berjocht",
+    "optional": "Fakultatyf",
+    "choose": "Selektearje",
+    "interest_all": "It hiele ekosysteem",
+    "ph_name": "dyn namme",
+    "ph_email": "do@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Jo bedriuw",
+    "ph_country": "Lân",
+    "ph_message": "Fertel ús hoe't jo hjoed operearje",
+    "privacy_before": "Ik akseptearje it gebrûk fan myn gegevens neffens de",
+    "privacy_after": ".",
+    "submit": "Ferstjoer fersyk",
+    "sent_title": "Wy ûntfange jo fersyk",
+    "sent_text": "Dankewol. It ferkeapteam sil jo skriuwe om de demo te koördinearjen of jo fraach te beantwurdzjen.",
+    "error_required": "Folje dit fjild yn.",
+    "error_email": "Fier in jildich e-postadres yn.",
+    "error_phone": "Kontrolearje de telefoan.",
+    "error_privacy": "Wy hawwe jo tastimming nedich om kontaktgegevens te brûken.",
+    "error_csrf": "De sesje is ferrûn. It formulier opnij yntsjinje.",
+    "error_save": "Wy koene it fersyk net bewarje. Besykje opnij.",
+    "error_generic": "Kontrolearje de markearre fjilden.",
+    "error_rate": "Wachtsje asjebleaft even foardat jo in oar fersyk yntsjinje.",
+    "team_options": {
+      "1-10": "1 oan 10 persoanen",
+      "11-50": "11 oan 50 minsken",
+      "51-200": "51 oan 200 minsken",
+      "201-500": "201 oan 500 minsken",
+      "500+": "Mear as 500 minsken"
+    }
+  },
+  "video": {
+    "title": "FullVendor yn ien minút",
+    "prev": "Former",
+    "next": "Folgjend",
+    "slides": [
+      {
+        "title": "In inkeld ekosysteem",
+        "text": "Ferkeap, pakhús, levering, oankeap en finânsjes diele klanten, stock en oarders."
+      },
+      {
+        "title": "Web en mobyl tegearre",
+        "text": "It kantoar wurket op it perron. De strjitte en it pakhús, yn 'e apps, sels sûnder sinjaal."
+      },
+      {
+        "title": "Makke om te fersprieden",
+        "text": "Fan bestelling oant betelling, sûnder ynformaasje fan it iene bestân nei it oare troch te jaan."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Sykje nei produkten, oplossingen, yndustry ...",
+    "lang_filter": "Sykje taal",
+    "intro": "Sykje produkten, oplossingen, yndustry en boarnen.",
+    "empty": "Wy hawwe gjin resultaten fûn foar \"{q}\".",
+    "hint": "Besykje ferkeap, pakhús, rûtes of kolleksjes.",
+    "results": "{n} resultaten",
+    "button": "Sjoch foar",
+    "kind_product": "Produkt",
+    "kind_solution": "Oplossing",
+    "kind_industry": "Yndustry",
+    "kind_resource": "Helpmiddel"
+  },
+  "notfound": {
+    "title": "Dizze side is net",
+    "text": "De keppeling bestiet net of is fan lokaasje feroare."
+  },
+  "common": {
+    "what": "Wat oplost",
+    "features": "Wat is ynbegrepen",
+    "benefits": "Wêrom is it wichtich",
+    "for_who": "Foar wa is it?",
+    "related": "Ek yn it ekosysteem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ferkeap hjoed",
+      "orders": "Oarders",
+      "clients": "Klanten",
+      "products": "Products"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Ferkeap",
+      "purchases": "Winkelje",
+      "inventory": "Ynventarisaasje",
+      "clients": "Klanten",
+      "reports": "Ferslaggen"
+    },
+    "chart": "Ferkeap",
+    "channel": "Distribúsje troch kanaal",
+    "channels": [
+      "Winkel",
+      "Distribúsje",
+      "Gruthannel",
+      "Oaren"
+    ],
+    "orders": "Lêste oarders",
+    "col_order": "Oarder",
+    "col_client": "Klant",
+    "col_status": "Steat",
+    "col_total": "Totaal",
+    "status": [
+      "Levere",
+      "Underweis",
+      "Earring"
+    ],
+    "top": "Bêst ferkeapjende produkten",
+    "product": "Produkt",
+    "sales_menu": [
+      "Klanten",
+      "Oarders",
+      "Products",
+      "Rûtes",
+      "Syngronisearje"
+    ],
+    "warehouse_menu": [
+      "Resepsje",
+      "Picking",
+      "Ynventarisaasje",
+      "Ferstjoeren",
+      "Syngronisearje"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacybelied",
+    "privacy_intro": "Dit belied leit út wat wy dogge mei de gegevens dy't jo litte yn formulieren op dizze side.",
+    "privacy": [
+      {
+        "title": "Hokker gegevens wy sammelje",
+        "text": "As jo ​​​​in demo oanfreegje of ús skriuwe, bewarje wy de namme, bedriuw, e-post, telefoannûmer as jo it oanjaan, it lân, de grutte fan it team, it produkt fan belang en it berjocht. Wy registrearje ek de datum, de taal fan 'e side en it IP-adres, om misbrûkende ynstjoerings foar te kommen."
+      },
+      {
+        "title": "Wêr brûke wy se foar?",
+        "text": "Wy brûke dizze gegevens allinich om op jo te reagearjen, in demo te koördinearjen en in kommersjeel foarstel ta te rieden. Wy ferkeapje se net of jouwe se oan in list fan tredden."
+      },
+      {
+        "title": "Wêr wurde se opslein en hoe lang?",
+        "text": "Fersiken wurde opslein op de tsjinner fan dizze side. Wy hâlde se foar de tiid nedich om te tsjinjen jo en kommersjele follow-up, en wy wiskje se as jo freegje ús om of as se binne net mear nedich."
+      },
+      {
+        "title": "Jo rjochten",
+        "text": "Jo kinne tagong, korreksje of wiskjen fan jo gegevens oanfreegje fan it kontaktformulier, oan te jaan yn it berjocht. As it bedriuw in e-mail op dizze webside publisearret, kinne jo dêr ek skriuwe."
+      }
+    ],
+    "terms_title": "Betingsten fan gebrûk",
+    "terms_intro": "Dizze betingsten binne fan tapassing op it gebrûk fan dizze FullVendor yntsjinjenside.",
+    "terms": [
+      {
+        "title": "Kommersjele ynformaasje",
+        "text": "Teksten, foarbylden dashboard figueren en beskriuwingen yntrodusearje it platfoarm. Se kinne oanpast wurde as it produkt feroaret en binne gjin sletten oanbod."
+      },
+      {
+        "title": "De demo is gjin kontrakt",
+        "text": "It yntsjinjen fan it formulier makket gjin ferplichting om in priis te keapjen of te reservearjen. Elk kontrakt wurdt apart, skriftlik, mei syn omfang en betingsten ôfpraat."
+      },
+      {
+        "title": "Site ynhâld",
+        "text": "De FullVendor hannelsmerk, produktnammen en de ynhâld fan dizze siden hearre ta har eigners. Se kinne net kopiearre wurde om in oar produkt te presintearjen."
+      },
+      {
+        "title": "Akseptabel gebrûk",
+        "text": "Brûk de formulieren net om falske ynformaasje, spam of yllegale ynhâld yn te tsjinjen. Wy kinne fersiken negearje dy't net oerienkomme mei in feitlik saaklik petear."
+      }
+    ]
+  }
+}

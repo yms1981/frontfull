@@ -71,7 +71,12 @@
   "products_block": {
     "eyebrow": "Our products",
     "title": "One [[complete ecosystem]] for every area of your business",
-    "aside": "Integrated solutions that work together to give you full control, operational efficiency, and stronger growth."
+    "aside": "Integrated solutions that work together to give you full control, operational efficiency, and stronger growth.",
+    "groups": {
+      "money": "Administration and collections",
+      "flow": "Purchasing and delivery",
+      "field": "Sales and warehouse"
+    }
   },
   "products_page": {
     "title": "Seven products, [[one operation]]",

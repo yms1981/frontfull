@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Whakahaere me te whakatipu i to pakihi",
+    "home_desc": "Katoa-i-kotahi papaarangi me nga otinga tukutuku me te waea pūkoro mo te tohatoha, te hoko, te arorau, te hoko, te raarangi me te putea.",
+    "products_title": "Hua | FullVendor",
+    "products_desc": "Kia mohio koe ki te puunaha rauwiringa kaiao FullVendor: papaaapaki arumoni, ERP, nga mahi arorau, kaiwhakarato me nga hoko, whare putunga me nga tono putea.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Rongoa | FullVendor",
+    "solutions_desc": "Nga otinga mo te whakahaere arumoni, te ope hoko, te whare putunga, te arorau, te hoko me te putea.",
+    "industries_title": "Ahumahi | FullVendor",
+    "industries_desc": "FullVendor mo te tohatoha, hokohoko, kai, rongoā, taputapu, kohi papatipu, hanga me te maero whakamutunga.",
+    "pricing_title": "Utu | FullVendor",
+    "pricing_desc": "Mahere Tino, Ngaio me te Rangatōpū. Ka whakahiatohia te tono kia rite ki nga waahanga, nga kaiwhakamahi me te rōrahi.",
+    "resources_title": "Rauemi | FullVendor",
+    "resources_desc": "He aratohu poto hei whakakotahi i te tohatoha, te hoko tuimotu, te whakarite i te whare putunga me te utu i te waa.",
+    "contact_title": "Whakapā | FullVendor",
+    "contact_desc": "Tuhia mai ki a maatau ki te ako mo FullVendor, ki te whakarite korero ranei me te roopu hoko.",
+    "demo_title": "Tono demo | FullVendor",
+    "demo_desc": "Tonoa he whakaaturanga mo te FullVendor me te tirotiro i te papaahi me tetahi keehi e rite ana ki to mahi.",
+    "privacy_title": "Tūmataitinga | FullVendor",
+    "terms_title": "Nga kupu | FullVendor",
+    "search_title": "Rapu | FullVendor",
+    "notfound_title": "Kaore i kitea te wharangi | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Whārangi Kāinga",
+    "products": "Hua",
+    "solutions": "Nga otinga",
+    "industries": "Ahumahi",
+    "pricing": "Utu",
+    "resources": "Rauemi",
+    "contact": "Whakapā",
+    "open_menu": "Tuwhera te tahua",
+    "close": "Katia"
+  },
+  "cta": {
+    "demo": "Tono Demo",
+    "contact": "Whakapā mai",
+    "video": "Matakitaki Ataata",
+    "talk": "Korero ki nga hoko",
+    "all_products": "Tirohia nga hua katoa",
+    "home": "Hoki ki te whārangi kāinga"
+  },
+  "a11y": {
+    "skip": "Tīpoka ki te ihirangi",
+    "primary": "Te whakatere matua",
+    "crumbs": "Ara whakatere",
+    "search": "Rapua",
+    "language": "Reo"
+  },
+  "hero": {
+    "eyebrow": "Katoa i te papa kotahi",
+    "title": "Whakahaere me te tipu\nto pakihi me\n{{brand}}",
+    "subtitle": "He tüäpapa katoa me nga otinga paetukutuku me te waea pūkoro mo te tohatoha, te hoko, te arorau, te hoko, te raarangi, te putea me te maha atu.",
+    "pill_ecosystem": "Nga mea katoa i roto i te rauwiringa kaiao kotahi",
+    "pill_cloud": "I roto i te kapua, haumaru me te tauineine",
+    "pill_size": "Mo nga kamupene o nga rahi katoa"
+  },
+  "products_block": {
+    "eyebrow": "Ko o maatau hua",
+    "title": "He [[whakaoti rauwiringa kaiao]] mo ia wahanga o to pakihi",
+    "aside": "Ko nga otinga whakauru e mahi tahi ana ki te hoatu ki a koe te mana katoa, te pai o te whakahaere me te tipu ake.",
+    "groups": {
+      "money": "Te whakahaere me te kohinga",
+      "flow": "Nga hoko me te tuku",
+      "field": "Te hoko me te whare putunga"
+    }
+  },
+  "products_page": {
+    "title": "E whitu nga hua, [[mahi kotahi]]",
+    "text": "Ka whakaotihia e ia hua tetahi waahi. Ka tohatoha tahi ratou i nga kaihoko, nga taonga, nga ota me nga utu."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Paerewa",
+      "card": "Papa matua mo te whakahaere arumoni me te tohatoha.",
+      "features": [
+        "Nga hoko me nga hoko",
+        "Inventory",
+        "Nga kaihoko me nga kaiwhakarato",
+        "Nga purongo me etahi atu"
+      ],
+      "lead": "Te pokapū o to mahi arumoni: ota, utu, kararehe me nga kaihoko i te waahi kotahi.",
+      "about": "FullVendor ka whakakapi i nga ripanga me nga punaha a te kaitoha. Mai i konei ka puta nga ota, ka tirotirohia nga rarangi pukapuka, ka tiakina te putea a nga kaihoko, ka tirohia nga nama o te ra. Ko te toenga o te rauwiringa kaiao e hono ana ki tenei turanga.",
+      "benefits": [
+        {
+          "title": "He rangatira raraunga kotahi",
+          "text": "Ka tohatohahia nga kaihoko, nga hua me nga utu ki nga hokonga, whare putunga me nga putea."
+        },
+        {
+          "title": "Maamaa nga mahi o ia ra",
+          "text": "Ka mutu nga ota, hoko me nga taonga ki nga konae rereke."
+        },
+        {
+          "title": "Ripoata hei whakatau",
+          "text": "Ka kitea nga hokonga, tawhwh me te tarewa me te kore e whakahiato tepu ma te ringaringa."
+        },
+        {
+          "title": "Kua reri ki te tipu",
+          "text": "Logistics, hoko ope ERP moni ranei ina tono te mahi."
+        }
+      ],
+      "audience": "Ko nga roopu hokohoko me nga roopu tohatoha i enei ra ka ruruku i nga umanga i waenga i nga punaha maha."
+    },
+    "erp": {
+      "kicker": "Whakahaerenga",
+      "card": "Whakaotihia te whakahaeretanga me te whakahaere putea.",
+      "features": [
+        "Kaute",
+        "Te nama hiko",
+        "Pepamahi",
+        "Nga rawa pumau",
+        "Kamupene maha"
+      ],
+      "lead": "Te whakahaere me te putea, e hono ana ki nga mea kua hokona me te tuku.",
+      "about": "FullVendor ERP e hipoki ana i te kaute, te nama hiko, nga utu utu, nga rawa pumau me nga kamupene maha. Ka mahia te mahi arumoni, ka huri hei whakaurunga, rihiti me nga korero ka taea e te waahi putea te whakamahi.",
+      "benefits": [
+        {
+          "title": "Te kaute hono",
+          "text": "Ko nga mea ka tupu i roto i nga hoko me nga hoko ka whangai i te kaute kaute."
+        },
+        {
+          "title": "Rihiti hiko",
+          "text": "Ko koe te whakaputa me te whakahaere nama mai i te puunaha rauwiringa kaiao kotahi."
+        },
+        {
+          "title": "Nga kamupene rereke",
+          "text": "Kamupene-maha mo nga roopu e whakahaere ana i raro i te ingoa kamupene neke atu i te kotahi."
+        },
+        {
+          "title": "Nga utu utu me nga rawa",
+          "text": "Te utu utu me nga rawa pumau me era atu o nga whakahaere."
+        }
+      ],
+      "audience": "Nga waahi whakahaere me nga putea e hiahia ana ki te kati i nga nama me te tino mahi."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Te whakahaere me te aro turuki i to mahi logistics.",
+      "features": [
+        "Nga huarahi me nga tukunga",
+        "Aroturuki wa-tūturu",
+        "Taumahi taraiwa",
+        "Te arotautanga huarahi"
+      ],
+      "lead": "Mai i te ota ki te tuku: nga huarahi, nga taraiwa me te aroturuki i nga wa-tūturu.",
+      "about": "FullVendor Logistics ka whakarite i te tohatoha. Ka hangaia e koe nga huarahi, tohua nga taraiwa me te kite kei hea e haere ana ia tuku. Ka mutu te roopu waka i runga i nga waea ki te mohio mena kua tukuna te ota.",
+      "benefits": [
+        {
+          "title": "Nga huarahi o te ra",
+          "text": "Ko nga tukunga kua whakahaua e te rohe, te matapihi wa me te kaha."
+        },
+        {
+          "title": "Ko te taraiwa kua tohua",
+          "text": "Kei ia ara he tangata hei whakahaere, he marama te raupapa."
+        },
+        {
+          "title": "Whaiwhai",
+          "text": "E mohio ana koe ki nga mea e tukuna ana, i te huarahi ka mutu ranei."
+        },
+        {
+          "title": "Iti kiromita",
+          "text": "Ko te arotautanga huarahi ka whakaiti i te wa tuku me te utu."
+        }
+      ],
+      "audience": "Ko nga mahi tohatoha me o raatau ake waka, tuatoru ranei."
+    },
+    "supplier": {
+      "kicker": "Te hokohoko",
+      "card": "Te tauranga mo nga kaiwhakarato me te whakahaere hoko.",
+      "features": [
+        "Ota hoko",
+        "Nga korero",
+        "Te whakahaere kaihoko",
+        "Te tuitui me te raarangi"
+      ],
+      "lead": "Ka kii mai o kaiwhakarato, ka whiwhi ota me te whakakii i nga taonga kaore he imeera.",
+      "about": "Vendor Supplier ka tuwhera he tomokanga mo nga hoko me nga kaiwhakarato ki te mahi i runga i nga ota kotahi. Ko nga korero, nga ota hoko me te rihīti e herea ana ki te raarangi o FullVendor.",
+      "benefits": [
+        {
+          "title": "Nga ota i roto i te hongere",
+          "text": "Ka kite te kaiwhakarato he aha te tuku, kaore he mekameka imeera."
+        },
+        {
+          "title": "Ko nga korero whakataurite",
+          "text": "Ka tono koe mo nga utu me te whiriwhiri me te tirohanga o te hitori."
+        },
+        {
+          "title": "Kaiwhakarato Kaiwhakaako",
+          "text": "Nga tikanga, nga hoapaki me te tarewa i roto i te rekoata kotahi."
+        },
+        {
+          "title": "Whakauruhia te raarangi",
+          "text": "Ko nga mea i hokona ka kitea i roto i nga taonga ka riro mai."
+        }
+      ],
+      "audience": "Te hoko i nga roopu e whakakii ana ki nga kaiwhakarato maha me te hiahia kia whai waahi."
+    },
+    "salesman": {
+      "kicker": "Taupānga pūkoro",
+      "card": "Tono pūkoro mo te roopu hoko.",
+      "features": [
+        "Whakahaerenga Kiritaki",
+        "Te tango ota",
+        "Putumōhio hua",
+        "Mahi tuimotu"
+      ],
+      "lead": "Ka tukuna e te ope hoko nga ota i runga i te tiriti, me te kore tohu ranei.",
+      "about": "FullVendor Sales Man ka mau i to kopaki, pukapuka me to ota ki te waea a te kaihoko. Mena kaore he ipurangi, ka haere tonu te mahi me te tukutahi ka hoki mai te tohu. Kua tae mai te ota ki te whakarite me te tuku.",
+      "benefits": [
+        {
+          "title": "Pukoro i roto i te pute",
+          "text": "Ka kite te kaihoko i nga kaihoko, nga tikanga me nga taonga e tatari ana."
+        },
+        {
+          "title": "Ota i te haerenga",
+          "text": "Tangohia te ota me nga utu o naianei me nga taonga."
+        },
+        {
+          "title": "Putumōhio ki te rā",
+          "text": "Nga hua, whakaaturanga me nga utu kaore he PDF tawhito."
+        },
+        {
+          "title": "Tuturu tuimotu",
+          "text": "Mahi me te kore kapinga me te tukutahi i muri mai."
+        }
+      ],
+      "audience": "Ko nga kaitirotiro me nga kaihokohoko mara ki te tohatoha me te kohi papatipu."
+    },
+    "warehouse": {
+      "kicker": "Taupānga pūkoro",
+      "card": "Tono pūkoro mo te whare putunga.",
+      "features": [
+        "Te manaaki me te tuku",
+        "Te kohi me te takai",
+        "Mana whakahaere",
+        "Panui Waehere Pae"
+      ],
+      "lead": "Te manaaki, te kohi me te tuku me te waea me te tohupae.",
+      "about": "FullVendor Warehouse ka arahi i te whare putunga ki te tango, ki te kohi, ki te tapaki me te tuku. Ko nga waehere panui ka whakaiti i nga hapa, ka kore e tatauhia nga pukapuka i te mutunga o te marama anake.",
+      "benefits": [
+        {
+          "title": "Te manaaki i te ota",
+          "text": "Ko nga mea ka uru ka whakaritea ki te hoko."
+        },
+        {
+          "title": "Te kohi kua whakaritea",
+          "text": "Ka whai te rangatira kaipuke i te ota me te whakau i ia taonga."
+        },
+        {
+          "title": "Waehere Pae",
+          "text": "He iti ake nga hapa o te hua, te puranga, te rahinga ranei."
+        },
+        {
+          "title": "He taonga pono",
+          "text": "Ka whakahouhia e ia nekehanga te raarangi o te papaaho."
+        }
+      ],
+      "audience": "Ko nga kaiwhakahaere whare putunga me nga rangatira kaipuke e whakarite ana i enei ra nga ota me nga raarangi kua taia."
+    },
+    "finance": {
+      "kicker": "Taupānga pūkoro",
+      "card": "Te whakahaere moni mai i to waea pūkoro.",
+      "features": [
+        "Nga kaute nama me te nama",
+        "Te mana o te kaihoko",
+        "Nga utu me te houhanga rongo",
+        "Nga purongo putea"
+      ],
+      "lead": "Nga nama nama, nga utu me te mana o nga kaihoko, mai i to waea.",
+      "about": "FullVendor Finance whakaatu i te kohinga i runga i te waea pūkoro: he aha te nama a ia kaihoko, he aha te utu a te kamupene me pehea te utunga. Ka whakamahia ki te kohikohi moni i te wa o te haerenga me te titiro ki te rehita putea me te kore e whakatuwhera i te tepu.",
+      "benefits": [
+        {
+          "title": "Kohinga i te haerenga",
+          "text": "Kei te mohio te kaihoko mena he mea hou te kaihoko i mua i te hoko."
+        },
+        {
+          "title": "Te nama me te utu",
+          "text": "Ko nga taha e rua o te pouaka kei roto i te taupānga kotahi."
+        },
+        {
+          "title": "Nga utu me te houhanga rongo",
+          "text": "Ka rehita koe i nga whiwhinga ka kite koe i nga mea hei whakawhiti."
+        },
+        {
+          "title": "Nga purongo kei te ringaringa",
+          "text": "Kohikohi me nga tohu moni kaore e tatari mo te kati."
+        }
+      ],
+      "audience": "Ko nga kaiwhakahaere, kohi me nga kaihokohoko e hiahia ana ki te ahuatanga o te kiritaki i tenei wa."
+    }
+  },
+  "why": {
+    "eyebrow": "He aha FullVendor",
+    "title": "Whakanuia to pakihi\nme nga hua tuturu",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ka whakawhirinaki nga kamupene ki a maatau"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Kaiwhakamahi kaha"
+      },
+      {
+        "value": "+10",
+        "suffix": "tau",
+        "label": "I roto i te whanaketanga tonu"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Te waatea o te kapua"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Pehea te mahi",
+    "title": "Mai i te hoko ki te kohinga, me te kore e whakarereke i nga punaha",
+    "text": "Ka tohatohahia e ia hua nga kaihoko, kararehe, ota me nga utu. Ko nga mea e tupu ana i te huarahi, i roto ranei i te whare putunga ka puta tonu i te tari.",
+    "steps": {
+      "sell": {
+        "title": "Ka hoko koe",
+        "text": "Ka whakauruhia te ota ma te paetukutuku, ma te Sales Man ranei, ahakoa kaore he tohu."
+      },
+      "pick": {
+        "title": "Kua reri",
+        "text": "Warehouse ka whiwhi, ka wehe me te tuku me te tohu tohu."
+      },
+      "deliver": {
+        "title": "Tukunga",
+        "text": "Logistics ka tohua te huarahi me te whai i te tuku."
+      },
+      "collect": {
+        "title": "Cobra",
+        "text": "Finance me ERP katia te kohinga, nga rihiti me nga nama."
+      }
+    }
+  },
+  "band": {
+    "title": "Kua reri ki te kite me [[tau mahi]]?",
+    "text": "Ka whakaatu matou ki a koe i te puunaha rauwiringa kaiao me tetahi keehi tohatoha rite ki a koe."
+  },
+  "footer": {
+    "blurb": "Paetukutuku me te pukoro mo te tohatoha, te hoko, te arorau, te hoko, te rarangi me te putea.",
+    "products": "Hua",
+    "company": "Kamupene",
+    "legal": "Ture",
+    "privacy": "Tūmataitinga",
+    "terms": "Nga tikanga",
+    "rights": "Katoa nga mana."
+  },
+  "solutions": {
+    "eyebrow": "Nga otinga",
+    "title": "Ia horahanga, hono ki te [[taumahi mahi]]",
+    "intro": "Whiriwhiria ma te rapanga e hiahia ana koe ki te whakaoti. Kei muri, he rite nga korero a nga hua.",
+    "items": {
+      "commercial": {
+        "title": "Te whakahaere arumoni",
+        "text": "Nga ota, nga utu, nga kaihoko me nga raarangi mo te tohatoha o ia ra."
+      },
+      "field": {
+        "title": "ope hoko",
+        "text": "Ka tono ota nga kaihoko i te tiriti, i runga ipurangi, tuimotu ranei."
+      },
+      "warehouse": {
+        "title": "Toa",
+        "text": "Te manaaki, te kohi, te tuku me tetahi taonga ka taea te whakawhirinaki."
+      },
+      "logistics": {
+        "title": "Logistics me te tuku",
+        "text": "Nga huarahi, nga taraiwa me te mana o ia tukunga."
+      },
+      "purchasing": {
+        "title": "Te hoko me nga kaiwhakarato",
+        "text": "Ko nga korero, ota me te tomokanga mo te tangata e tuku ana ki a koe."
+      },
+      "finance": {
+        "title": "Te putea me te kaute",
+        "text": "Nga kohinga, utu, nama hiko me te kaute."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Ahumahi",
+    "title": "I hangaia mo te hunga [[whakanuku hua]]",
+    "intro": "I whanau a FullVendor i roto i te tohatoha me te haere tahi me nga kamupene hoko, toa, hoko me te tuku.",
+    "items": {
+      "wholesale": {
+        "title": "Te tohatoha me te hoko rarawe",
+        "text": "Nga rarangi utu, kōpaki, tohatoha me te kohinga i roto i te ara iahiko kotahi."
+      },
+      "retail": {
+        "title": "Te hokohoko",
+        "text": "Toa me te whare putunga me nga taonga hono, hoko me te whakakii."
+      },
+      "food": {
+        "title": "Kai me nga inu",
+        "text": "Nga huarahi auau me te whare putunga kaore e taea te mutu."
+      },
+      "pharma": {
+        "title": "Te rongoā me te tiaki whaiaro",
+        "text": "Te manaakitanga, te kohi me te mana whakahaere me te whai tohu."
+      },
+      "hardware": {
+        "title": "Nga taputapu me te hanga",
+        "text": "He maha nga tohutoro, kaiwhakarato me nga tuku ki te mahi, ki te toa ranei."
+      },
+      "fmcg": {
+        "title": "Kohi papatipu",
+        "text": "Te kaha hoko tiriti me te whakakapinga nui."
+      },
+      "manufacturing": {
+        "title": "Hangahanga",
+        "text": "Ko te hoko, te whare putunga me nga taonga e hono ana ki te whakahaere."
+      },
+      "lastmile": {
+        "title": "Te tuku me te maero whakamutunga",
+        "text": "Nga huarahi, nga taraiwa me te mana o ia tukunga."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Rauemi",
+    "title": "Whakamaramahia nga whakaaro hei [[whakaritea te mahi]]",
+    "intro": "He aratohu poto mo nga kaiwhakahaere tohatoha ka whakatau ko tehea punaha ka piri.",
+    "items": {
+      "unify": {
+        "title": "Me pehea te whakakotahi i te tohatoha ki te punaha kotahi",
+        "summary": "He aha te whakakotahi i te tuatahi ka noho nga hoko, whare putunga me nga kohinga ki nga konae rereke.",
+        "points": [
+          "Me timata me nga kaihoko, nga hua me nga utu: ko ratou te kaiako e whakamahia ana e te katoa.",
+          "Honoa te ota me te rakau i mua i te taapiri i etahi atu tono.",
+          "Ka ine he tau ngawari: ka tutuki nga ota me te kore e mahi ano i te puka."
+        ]
+      },
+      "offline": {
+        "title": "Ka mahi tuimotu te ope hoko",
+        "summary": "He aha te hiahia mai i tetahi tono tono kia kore ai te kaihoko e mutu na te tohu.",
+        "points": [
+          "Ko te putumōhio me te putea me noho ki te waea, kaua ki te kapua anake.",
+          "Ka tiakina te ota ki runga i te taputapu ka tukuake ina hoki mai te whatunga.",
+          "I te wa e tukutahi ana, kua uru te ota ki te whare putunga."
+        ]
+      },
+      "warehouse": {
+        "title": "Whare putunga me te tohu tohu, kaore he pepa",
+        "summary": "Me pehea te haere mai i te raarangi kua taia ki te kohi i runga waea.",
+        "points": [
+          "Whiwhi ki te ota hoko, kaua ki te mahara.",
+          "Whakaū ia tūemi ina wehe. Ka tapahia te pepeke ki roto i te aroa.",
+          "Ka whakahouhia e te tuku nga taonga e kitea ana e te kaihoko."
+        ]
+      },
+      "finance": {
+        "title": "Kohikohinga e hono ana ki te hoko",
+        "summary": "He aha te take me kite te kaihoko i te nama a te kaihoko i mua i te tango i tetahi ota.",
+        "points": [
+          "Ko te haerenga te wa pai ki te kohi, mena ka kitea te nama.",
+          "Ko nga hoko me nga putea me titiro ki te kaihoko kotahi.",
+          "He nui ake te utu o te purongo o ia ra i te kati mutunga."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Utu",
+    "title": "He rauwiringa kaiao e [[tupu me koe]]",
+    "intro": "Kaore matou e whakaputa i te reeti whanui: ko te utu kei runga i nga waahanga, nga kaiwhakamahi me te rōrahi. Ka whakaatu matou ki a koe i te turanga me te whakahiatohia he tono me to mahi.",
+    "note": "Ko te demo kaore he utu me te kore e hiahiatia he kirimana.",
+    "recommended": "E taunaki ana",
+    "faq_title": "Pātai auau",
+    "plans": {
+      "essential": {
+        "name": "He mea nui",
+        "desc": "Hei whakarite i te whakahaere arumoni me te tohatoha i runga i te papa kotahi.",
+        "features": [
+          "FullVendor tūāpapa tukutuku",
+          "Nga hokonga, hoko me nga taonga",
+          "Nga kaihoko, nga kaiwhakarato me nga ripoata",
+          "Kaiwhakamahi taputapu tari",
+          "Tautoko whakaoho"
+        ],
+        "cta": "Tono Demo"
+      },
+      "professional": {
+        "name": "Ngaio",
+        "desc": "Mo nga kapa e hoko ana i te tiriti me te whakarite ota i roto i te whare putunga.",
+        "features": [
+          "Ko nga mea katoa he mea nui",
+          "Taupānga FullVendor Sales Man",
+          "Taupānga FullVendor Warehouse",
+          "Mahi tuimotu me nga tohu pae",
+          "He maha ake nga kaiwhakamahi mara me te whare putunga"
+        ],
+        "cta": "Tono Demo"
+      },
+      "corporate": {
+        "name": "Kamupene",
+        "desc": "Mo nga roopu e hiahia ana ki te arorau, hoko, putea me nga momo kamupene.",
+        "features": [
+          "Te rauwiringa kaiao",
+          "Logistics, Vendor Supplier me Finance",
+          "FullVendor ERP me nga reeti maha",
+          "Te nama hiko me te kaute",
+          "Te waatea me te kaupapa matua"
+        ],
+        "cta": "Korero ki nga hoko"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Me hoko e au nga hua katoa?",
+        "a": "Kao. Ka taea e koe te timata me te FullVendor me te taapiri i nga taupānga, i te ERP ranei ina hiahia ana te mahi."
+      },
+      "offline": {
+        "q": "Ka mahi nga tono me te kore ipurangi?",
+        "a": "Sales Man me Warehouse mahi tonu me te kore tohu me te tukutahi i te wa e hono ana."
+      },
+      "multi": {
+        "q": "Ka whai hua mena he nui ake aku kamupene?",
+        "a": "Ae. ERP e whakaaro ana ki te kamupene maha, ka taea e te rauwiringa kaiao te tiri rangatira ki waenga i a raatau."
+      },
+      "demo": {
+        "q": "He aha kei roto i te demo?",
+        "a": "He haerenga ki te papaahi me tetahi keehi e rite ana ki a koe. Karekau he utu me te kore herenga."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Whakaaturanga",
+    "title": "Ka whakaatu matou ki a koe FullVendor me [[to momo mahi]]",
+    "text": "Korerohia mai mo to kamupene me nga mea e hiahia ana koe ki te tono tuatahi. Ko te demo kaore he utu."
+  },
+  "contact": {
+    "eyebrow": "Whakapā",
+    "title": "Me korero tatou mo [[to mahi]]",
+    "text": "Mena kei te pirangi koe ki te whakaatu, ki te tono, ki te whakarite noa i a koe i waenga i nga hua, waiho to korero ka whakautu matou.",
+    "email": "Mail",
+    "phone": "Waea",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ingoa",
+    "email": "Mail",
+    "phone": "Waea",
+    "company": "Kamupene",
+    "country": "Whenua",
+    "team": "Te rahi o te kapa",
+    "interest": "He aha to hiahia?",
+    "message": "Karere",
+    "optional": "Kōwhiringa",
+    "choose": "Tīpakohia",
+    "interest_all": "Te rauwiringa kaiao katoa",
+    "ph_name": "tou ingoa",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "To kamupene",
+    "ph_country": "Whenua",
+    "ph_message": "Korerohia mai me pehea koe i tenei ra",
+    "privacy_before": "Ka whakaae ahau ki te whakamahi i aku raraunga e ai ki te",
+    "privacy_after": ".",
+    "submit": "Tuku tono",
+    "sent_title": "Ka whiwhi matou i to tono",
+    "sent_text": "Mauruuru koe. Ka tuhi atu te roopu hoko ki a koe ki te whakarite i te whakaaturanga, ki te whakautu ranei i to patai.",
+    "error_required": "Whakaotia tenei mara.",
+    "error_email": "Whakauruhia he imeera whaimana.",
+    "error_phone": "Tirohia te waea.",
+    "error_privacy": "Kei te hiahia matou i to whakaaetanga ki te whakamahi i nga taipitopito whakapā.",
+    "error_csrf": "Kua pau te waahi. Tukua ano te puka.",
+    "error_save": "Kaore i taea e matou te tiaki i te tono. Ngana ano.",
+    "error_generic": "Arotakehia nga mara kua tohua.",
+    "error_rate": "Tatari koa i mua i te tuku tono ano.",
+    "team_options": {
+      "1-10": "1 ki te 10 tangata",
+      "11-50": "11 ki te 50 tangata",
+      "51-200": "51 ki te 200 tangata",
+      "201-500": "201 ki te 500 tangata",
+      "500+": "Neke atu i te 500 tangata"
+    }
+  },
+  "video": {
+    "title": "FullVendor i te meneti kotahi",
+    "prev": "Tuhinga o mua",
+    "next": "Whai muri",
+    "slides": [
+      {
+        "title": "He rauwiringa kaiao kotahi",
+        "text": "Ko te hoko, te whare putunga, te tuku, te hoko me te tohatoha putea ki nga kaihoko, nga kararehe me nga ota."
+      },
+      {
+        "title": "Tukutuku me te pūkoro tahi",
+        "text": "Ka mahi te tari i runga i te papa. Te tiriti me te whare putunga, i roto i nga taupānga, ahakoa kaore he tohu."
+      },
+      {
+        "title": "I hangaia hei tohatoha",
+        "text": "Mai i te ota ki te utu, me te kore e tuku korero mai i tetahi konae ki tetahi atu."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Rapua nga hua, otinga, ahumahi…",
+    "lang_filter": "Rapu reo",
+    "intro": "Rapu hua, otinga, ahumahi me nga rauemi.",
+    "empty": "Kaore i kitea he hua mo \"{q}\".",
+    "hint": "Whakamātauria te hoko, te whare putunga, nga huarahi, nga kohinga ranei.",
+    "results": "{n} hua",
+    "button": "Rapua",
+    "kind_product": "Hua",
+    "kind_solution": "Rongoā",
+    "kind_industry": "Ahumahi",
+    "kind_resource": "Rauemi"
+  },
+  "notfound": {
+    "title": "Ehara tenei wharangi",
+    "text": "Karekau te hono i te noho, kua rereke ranei te waahi."
+  },
+  "common": {
+    "what": "He aha te whakaoti",
+    "features": "He aha kei roto",
+    "benefits": "He aha te take",
+    "for_who": "Mo wai?",
+    "related": "I roto ano i te rauwiringa kaiao"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Nga hoko i tenei ra",
+      "orders": "Nga ota",
+      "clients": "Kaihoko",
+      "products": "Hua"
+    },
+    "sidebar": {
+      "dashboard": "Papatohu",
+      "sales": "Hokonga",
+      "purchases": "Te hokohoko",
+      "inventory": "Inventory",
+      "clients": "Kaihoko",
+      "reports": "Ripoata"
+    },
+    "chart": "Hokonga",
+    "channel": "Tohaina ma te hongere",
+    "channels": [
+      "Toa",
+      "Tohanga",
+      "Kaihoko",
+      "Ko etahi atu"
+    ],
+    "orders": "Nga ota hou",
+    "col_order": "Ota",
+    "col_client": "Kiritaki",
+    "col_status": "State",
+    "col_total": "Tapeke",
+    "status": [
+      "Kua tukuna",
+      "I te ara",
+      "whakakai"
+    ],
+    "top": "Nga hua hoko pai",
+    "product": "Hua",
+    "sales_menu": [
+      "Kaihoko",
+      "Nga ota",
+      "Hua",
+      "Nga huarahi",
+      "Tukutahi"
+    ],
+    "warehouse_menu": [
+      "Te manaakitanga",
+      "Kato",
+      "Inventory",
+      "Tukunga",
+      "Tukutahi"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Kaupapahere Tūmataiti",
+    "privacy_intro": "Ko tenei kaupapa here e whakamarama ana he aha ta matou mahi ki nga raraunga ka waiho e koe i roto i nga puka i runga i tenei pae.",
+    "privacy": [
+      {
+        "title": "He aha nga raraunga ka kohia e matou",
+        "text": "Mena ka tono koe i tetahi whakaaturanga, ka tuhi mai ranei ki a maatau, ka tiakina e matou te ingoa, te kamupene, te imeera, te nama waea mena ka tohu koe, te whenua, te rahi o te roopu, te hua o te paanga me te panui. Ka tuhi ano matou i te ra, te reo o te wharangi me te wahitau IP, hei aukati i nga tuku tuku kino."
+      },
+      {
+        "title": "He aha ta tatou e whakamahi ai?",
+        "text": "Ka whakamahia e matou enei raraunga ki te whakautu ki a koe, ki te whakarite i tetahi whakaaturanga me te whakarite tono arumoni. Kaore matou e hoko atu, ka hoatu ranei ki te rarangi o nga roopu tuatoru."
+      },
+      {
+        "title": "Kei hea e penapena ana, me pehea te roa?",
+        "text": "Ka penapena nga tono ki runga i te tūmau o tenei pae. Ka puritia e matou mo te wa e tika ana ki te mahi ki a koe me te mahi arumoni, a ka mukua e matou ina tono mai koe ki a matou ki te kore ranei e hiahiatia ana."
+      },
+      {
+        "title": "To tika",
+        "text": "Ka taea e koe te tono uru, whakatika, mukua ranei o raraunga mai i te puka whakapā, e tohu ana i roto i te karere. Mena ka tukuna e te kamupene he imeera ki tenei paetukutuku, ka taea hoki e koe te tuhi ki reira."
+      }
+    ],
+    "terms_title": "Nga tikanga whakamahi",
+    "terms_intro": "Ka pa enei tikanga ki te whakamahi i tenei waahi tukunga FullVendor.",
+    "terms": [
+      {
+        "title": "Nga korero tauhokohoko",
+        "text": "Ko nga tuhinga, nga tauira papatohu me nga whakaahuatanga e whakaatu ana i te turanga. Ka taea te whakatika ina huri te hua kaore he tuku kati."
+      },
+      {
+        "title": "Ko te demo ehara i te kirimana",
+        "text": "Ko te tuku i te puka kaore he herenga ki te hoko, ki te rahui i te utu. Ko nga kirimana katoa ka whakaaetia motuhake, ma te tuhi, me tona whanui me ona tikanga."
+      },
+      {
+        "title": "Te ihirangi pae",
+        "text": "Ko te tohu FullVendor, nga ingoa hua me nga ihirangi o enei wharangi no o ratou rangatira. Kaore e taea te kape hei whakaatu i tetahi atu hua."
+      },
+      {
+        "title": "Te whakamahi pai",
+        "text": "Kaua e whakamahi i nga puka ki te tuku korero teka, mokowhiti me nga ihirangi ture. Ka warewarehia pea e maatau nga tono kaore e rite ki tetahi korero pakihi."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Laola le ho holisa khoebo ea hau",
+    "home_desc": "Sethala se kopaneng se nang le litharollo tsa webo le tsa mehala bakeng sa kabo, thekiso, thepa, ho reka, thepa le lichelete.",
+    "products_title": "Lihlahisoa | FullVendor",
+    "products_desc": "Tseba ka tikoloho FullVendor: sethala sa khoebo, ERP, lisebelisoa, barekisi le thekiso, polokelo ea thepa le lisebelisoa tsa lichelete.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Litharollo | FullVendor",
+    "solutions_desc": "Litharollo tsa tsamaiso ea khoebo, matla a thekiso, polokelo, thepa, ho reka le lichelete.",
+    "industries_title": "Liindasteri | FullVendor",
+    "industries_desc": "FullVendor bakeng sa kabo, thekiso, lijo, khemisi, hardware, tšebeliso ea batho ba bangata, tlhahiso le maili a ho qetela.",
+    "pricing_title": "Litheko | FullVendor",
+    "pricing_desc": "Meralo ea Bohlokoa, ea Setsebi le ea Khoebo. Tlhahiso e behiloe hammoho ho latela li-module, basebelisi le molumo.",
+    "resources_title": "Lisebelisoa | FullVendor",
+    "resources_desc": "Litataiso tse khutšoane tsa ho kopanya kabo, ho rekisa kantle ho naha, ho hlophisa polokelo ea thepa le ho lefuoa ka nako.",
+    "contact_title": "Ikopanye | FullVendor",
+    "contact_desc": "Re ngolle ho ithuta ka FullVendor kapa ho hokahanya moqoqo le sehlopha sa barekisi.",
+    "demo_title": "Kopa demo | FullVendor",
+    "demo_desc": "Kopa demo ea FullVendor 'me u bone sethala ka nyeoe e ts'oanang le ts'ebetso ea hau.",
+    "privacy_title": "Lekunutu | FullVendor",
+    "terms_title": "Melao | FullVendor",
+    "search_title": "Batla | FullVendor",
+    "notfound_title": "Leqephe ha le fumanehe | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Leqephe la lapeng",
+    "products": "Lihlahisoa",
+    "solutions": "Litharollo",
+    "industries": "Liindasteri",
+    "pricing": "Litheko",
+    "resources": "Lisebelisoa",
+    "contact": "Ikopanye",
+    "open_menu": "Bula lenane",
+    "close": "Koala"
+  },
+  "cta": {
+    "demo": "Kopa Demo",
+    "contact": "Iteanye le rona",
+    "video": "Shebella Video",
+    "talk": "Bua le thekiso",
+    "all_products": "Sheba lihlahisoa tsohle",
+    "home": "Khutlela leqepheng la lapeng"
+  },
+  "a11y": {
+    "skip": "Tlolela ho litaba",
+    "primary": "Tsela e ka sehloohong",
+    "crumbs": "Tsela ea ho tsamaea",
+    "search": "Batla",
+    "language": "Puo"
+  },
+  "hero": {
+    "eyebrow": "Tsohle sethaleng se le seng",
+    "title": "Laola le ho holisa\nkhoebo ea hau le\n{{brand}}",
+    "subtitle": "Sethala se felletseng se nang le litharollo tsa marang-rang le tsa mehala bakeng sa kabo, thekiso, thepa, ho reka, thepa, lichelete le tse ling.",
+    "pill_ecosystem": "Ntho e ngoe le e ngoe e tsamaisong e le 'ngoe ea ecosystem",
+    "pill_cloud": "Lerung, sireletsehileng le scalable",
+    "pill_size": "Bakeng sa lik'hamphani tsa boholo bohle"
+  },
+  "products_block": {
+    "eyebrow": "Lihlahisoa tsa rona",
+    "title": "[[ecosystem e felletseng]] sebakeng se seng le se seng sa khoebo ea hau",
+    "aside": "Litharollo tse kopantsoeng tse sebetsang hammoho ho u fa taolo e felletseng, katleho ea ts'ebetso le kholo e kholo.",
+    "groups": {
+      "money": "Tsamaiso le pokello",
+      "flow": "Theko le thomello",
+      "field": "Thekiso le polokelo"
+    }
+  },
+  "products_page": {
+    "title": "Lihlahisoa tse supileng, [[ts'ebetso e le 'ngoe]]",
+    "text": "Sehlahisoa se seng le se seng se rarolla sebaka. Ka kopanelo ba arolelana bareki, thepa, liodara le litefo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Sethala",
+      "card": "Sethala se seholo sa tsamaiso ea khoebo le kabo.",
+      "features": [
+        "Thekiso le theko",
+        "Inventory",
+        "Bareki le barekisi",
+        "Litlaleho le tse ling"
+      ],
+      "lead": "Bohareng ba ts'ebetso ea hau ea khoebo: liodara, litheko, stock le bareki sebakeng se le seng.",
+      "about": "FullVendor e nkela sebaka sa li-spreadsheet le litsamaiso tse hlephileng. Ho tloha mona ho tsoa liodara, ho buisanoa ka thepa ea thepa, ho hlokomeloa potefolio ea bareki 'me ho shejoa linomoro tsa letsatsi. Karolo e setseng ea tikoloho e hokahana le motheo ona.",
+      "benefits": [
+        {
+          "title": "Setsebi sa data se le seng",
+          "text": "Bareki, lihlahisoa le litheko li arolelanoa le thekiso, polokelo le lichelete."
+        },
+        {
+          "title": "Hlakola ts'ebetso ea letsatsi le letsatsi",
+          "text": "Liodara, theko le li-stock li emisa ho phela lifaeleng tse fapaneng."
+        },
+        {
+          "title": "Litlaleho ho etsa qeto",
+          "text": "Thekiso, margin le tse ntseng li emetse li bonoa ntle le ho kopanya tafole ka letsoho."
+        },
+        {
+          "title": "E loketse ho hola",
+          "text": "Logistics, matla a thekiso kapa ERP lichelete ha opereishene e e kopa."
+        }
+      ],
+      "audience": "Lihlopha tsa khoebo le tsa kabo tseo kajeno li hokahanyang khoebo lipakeng tsa litsamaiso tse 'maloa."
+    },
+    "erp": {
+      "kicker": "Tsamaiso",
+      "card": "Tsamaiso e felletseng ea tsamaiso le ea lichelete.",
+      "features": [
+        "Accounting",
+        "Tefiso ea elektronike",
+        "Lipampiri tsa mosebetsi",
+        "Thepa e tsitsitseng",
+        "Lik'hamphani tse ngata"
+      ],
+      "lead": "Tsamaiso le lichelete, tse tsamaellanang le se hlileng se rekisoang le ho isoa.",
+      "about": "FullVendor ERP e akaretsa liak'haonte, li-invoice tsa elektroniki, meputso, thepa e sa fetoheng le lik'hamphani tse ngata. E nka ts'ebetso ea khoebo mme e e fetolela ho li-entries, lirisiti le lipolelo tseo sebaka sa lichelete se ka se sebelisang.",
+      "benefits": [
+        {
+          "title": "E hokahaneng ea accounting",
+          "text": "Se etsahalang thekisong le ho reka li fepa accounting."
+        },
+        {
+          "title": "Lirisiti tsa elektronike",
+          "text": "U ntša le ho laola tefiso ho tsoa ho ecosystem e tšoanang."
+        },
+        {
+          "title": "Lik'hamphani tse fapaneng",
+          "text": "Lik'hamphani tse ngata bakeng sa lihlopha tse sebetsang tlas'a mabitso a lik'hamphani tse fetang bonngoe."
+        },
+        {
+          "title": "Meputso le matlotlo",
+          "text": "Payroll le thepa e tsitsitseng hammoho le ba bang kaofela ba botsamaisi."
+        }
+      ],
+      "audience": "Libaka tsa tsamaiso le tsa lichelete tse batlang ho koala linomoro ka ts'ebetso ea sebele."
+    },
+    "logistics": {
+      "kicker": "Lisebelisoa",
+      "card": "Taolo le ho beha leihlo ts'ebetso ea hau ea lisebelisoa.",
+      "features": [
+        "Litsela le lipalangoang",
+        "Ho latela nako ea sebele",
+        "Mosebetsi oa mokhanni",
+        "Ntlafatso ea litsela"
+      ],
+      "lead": "Ho tloha ho odara ho isa ho thomello: litsela, bakhanni le ho latela nako ea nnete.",
+      "about": "FullVendor Logistics e hlophisa kabo. U theha litsela, u abela bakhanni 'me u bone moo thomello e' ngoe le e 'ngoe e eang teng. Sehlopha sa sephethephethe se ema ho latela mehala ho fumana hore na odara e rometsoe.",
+      "benefits": [
+        {
+          "title": "Litsela tsa letsatsi",
+          "text": "Ho romelloa ho laetsoe ka libaka, fensetere ea nako le boholo."
+        },
+        {
+          "title": "Mokhanni ea abetsoeng",
+          "text": "Tsela e 'ngoe le e 'ngoe e na le motho ea ikarabellang le tatellano e hlakileng."
+        },
+        {
+          "title": "Tšalo-morao",
+          "text": "U tseba se tlisoang, tseleng kapa ho emisoa."
+        },
+        {
+          "title": "Lik'hilomithara tse fokolang",
+          "text": "Ntlafatso ea litsela e fokotsa nako le litšenyehelo."
+        }
+      ],
+      "audience": "Ts'ebetso ea ho aba ka sehlopha sa hau kapa batho ba bang."
+    },
+    "supplier": {
+      "kicker": "Ho reka",
+      "card": "Portal bakeng sa bafani ba thepa le tsamaiso ea ho reka.",
+      "features": [
+        "Litaelo tsa ho reka",
+        "Mantsoe a qotsitsoeng",
+        "Tsamaiso ea bafani",
+        "Ho kopanya le thepa"
+      ],
+      "lead": "Barekisi ba hau ba qotsa, amohela liodara le ho tlatsa stock ntle le li-imeile tse sa sebetseng.",
+      "about": "Vendor Supplier e bula portal bakeng sa theko le barekisi ho sebetsa ka litaelo tse tšoanang. Litheko, litaelo tsa theko le risiti li hokahane le lethathamo la FullVendor.",
+      "benefits": [
+        {
+          "title": "Odara ka kanale",
+          "text": "Morekisi o bona seo a lokelang ho se tlisa, ntle le ketane ea lengolo-tsoibila."
+        },
+        {
+          "title": "Litlhaloso tse bapisoang",
+          "text": "U botsa litheko ebe u khetha ho latela nalane."
+        },
+        {
+          "title": "Mofani oa Mofani",
+          "text": "Maemo, mabitso le tse emetseng rekotong e le 'ngoe."
+        },
+        {
+          "title": "Kenya inventory",
+          "text": "Se rekiloeng se bonahala setokong ha se amoheloa."
+        }
+      ],
+      "audience": "Lihlopha tsa ho reka tse tlatsanang le barekisi ba 'maloa 'me li hloka ho latelloa."
+    },
+    "salesman": {
+      "kicker": "Sesebelisoa sa mobile",
+      "card": "Sesebelisoa sa mohala bakeng sa sehlopha sa thekiso.",
+      "features": [
+        "Tsamaiso ea bareki",
+        "Ho nka taelo",
+        "Lenane la lihlahisoa",
+        "Mosebetsi oa offline"
+      ],
+      "lead": "Setsi sa thekiso se nka litaelo seterateng, ka pontšo kapa ntle le eona.",
+      "about": "FullVendor Sales Man e beha potefolio ea hau, lethathamo la libuka le odara fonong ea morekisi. Haeba ho se na inthanete, mosebetsi o ntse o tsoela pele 'me oa amahanya ha lets'oao le khutla. Odara e fihla e loketse ho lokisoa le ho romelloa.",
+      "benefits": [
+        {
+          "title": "Sepache ka pokothong",
+          "text": "Morekisi o bona bareki, maemo le lintho tse emetseng."
+        },
+        {
+          "title": "Odara ha o etetse",
+          "text": "Nka odara le litheko tsa hajoale le stock."
+        },
+        {
+          "title": "Catalog e nchafalitsoe",
+          "text": "Lihlahisoa, tlhahiso le litheko ntle le PDF ea khale."
+        },
+        {
+          "title": "Hantle ntle le inthanete",
+          "text": "Sebetsa ntle le tšireletso 'me u amahanye hamorao."
+        }
+      ],
+      "audience": "Baokameli le barekisi ba masimong kabong le ho sebelisoa ka bongata."
+    },
+    "warehouse": {
+      "kicker": "Sesebelisoa sa mobile",
+      "card": "Sesebelisoa sa mobile bakeng sa polokelo.",
+      "features": [
+        "Kamohelo le thomello",
+        "Ho thonaka le ho paka",
+        "Taolo ea thepa",
+        "Ho bala barcode"
+      ],
+      "lead": "Kamohelo, ho khetha le ho romella ka mohala le barcode.",
+      "about": "FullVendor Warehouse e tataisa ntlo ea polokelo ho amohela baeti, ho thonaka, ho paka le ho romelloa. Likhoutu tsa ho bala li fokotsa liphoso 'me thepa ha e sa baloa qetellong ea khoeli.",
+      "benefits": [
+        {
+          "title": "Kamohelo kgahlano le taolo",
+          "text": "Se kenang se bapisoa le ho reka."
+        },
+        {
+          "title": "Khetho e lebisitsoeng",
+          "text": "Mong'a sekepe o latela taelo mme o tiisa ntho ka 'ngoe."
+        },
+        {
+          "title": "Likhoutu",
+          "text": "Liphoso tse fokolang tsa sehlahisoa, batch kapa bongata."
+        },
+        {
+          "title": "Setoko se ka tšeptjoang",
+          "text": "Mohato o mong le o mong o ntlafatsa lethathamo la lintho tsa sethala."
+        }
+      ],
+      "audience": "Batsamaisi ba polokelo le beng ba likepe bao kajeno ba lokisang liodara ka manane a hatisitsoeng."
+    },
+    "finance": {
+      "kicker": "Sesebelisoa sa mobile",
+      "card": "Taolo ea lichelete ho tsoa ho mobile ea hau.",
+      "features": [
+        "Liakhaonto tse ka fumanoang le tse lefuoang",
+        "Boemo ba bareki",
+        "Litefo le poelano",
+        "Litlaleho tsa lichelete"
+      ],
+      "lead": "Liakhaonto tse amohetsoeng, litefo le boemo ba bareki, ho tsoa fonong ea hau.",
+      "about": "FullVendor Finance e bonts'a pokello ho mobile: seo moreki e mong le e mong a se kolotang, seo k'hamphani e tla se lefa le hore na litefo li tla joang. E sebelisetsoa ho bokella chelete nakong ea ketelo le ho sheba bukana ea chelete ntle le ho bula deske.",
+      "benefits": [
+        {
+          "title": "Pokello ketelong",
+          "text": "Morekisi oa tseba hore na moreki o ntse a le teng pele a rekisa."
+        },
+        {
+          "title": "E ka amohelwang le ho leshwa",
+          "text": "Mahlakore ka bobeli a lebokose le app e tšoanang."
+        },
+        {
+          "title": "Litefo le poelano",
+          "text": "U ngolisa likoloto 'me u bone se lokelang ho tšeloa."
+        },
+        {
+          "title": "Litlaleho tse haufi",
+          "text": "Lipontšo tsa pokello le chelete ntle le ho emela ho koala."
+        }
+      ],
+      "audience": "Batsamaisi, babokelli le barekisi ba hlokang boemo ba moreki hajoale."
+    }
+  },
+  "why": {
+    "eyebrow": "Hobaneng FullVendor",
+    "title": "Matlafatsa khoebo ea hau\nka diphetho tsa nnete",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Likhamphani lia re tšepa"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Basebelisi ba mafolofolo"
+      },
+      {
+        "value": "+10",
+        "suffix": "lilemo",
+        "label": "Ka ho iphetola ha ka mehla"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ho fumaneha ha maru"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kamoo e sebetsang kateng",
+    "title": "Ho tloha thekisong ho ea ho pokello, ntle le ho fetola litsamaiso",
+    "text": "Sehlahisoa se seng le se seng se arolelana bareki, setoko, liodara le litefo. Se etsahalang seterateng kapa ntlong ea polokelo se hlaha ofising hang-hang.",
+    "steps": {
+      "sell": {
+        "title": "U rekisa",
+        "text": "Taelo e kenngoa ka websaeteng kapa ka Sales Man, esita le ntle le pontšo."
+      },
+      "pick": {
+        "title": "E lokile",
+        "text": "Warehouse e amohela, e arola le ho romella ka barcode."
+      },
+      "deliver": {
+        "title": "Ho tsamaisoa",
+        "text": "Logistics e fana ka tsela mme e latela ho tsamaisoa."
+      },
+      "collect": {
+        "title": "Li-cobra",
+        "text": "Finance le ERP koala pokello, lirisiti le linomoro."
+      }
+    }
+  },
+  "band": {
+    "title": "Na u ikemiselitse ho e bona ka [[opereishene ea hau]]?",
+    "text": "Re u bonts'a ecosystem ka mokhoa oa ho aba o ts'oanang le oa hau."
+  },
+  "footer": {
+    "blurb": "Webo le sethala sa mehala bakeng sa kabo, thekiso, thepa, ho reka, thepa le lichelete.",
+    "products": "Lihlahisoa",
+    "company": "Khampani",
+    "legal": "Ea molao",
+    "privacy": "Lekunutu",
+    "terms": "Melao",
+    "rights": "Litokelo tsohle li sirelelitsoe."
+  },
+  "solutions": {
+    "eyebrow": "Litharollo",
+    "title": "Sebaka ka seng, se hokahaneng le [[ts'ebetso e ts'oanang]",
+    "intro": "Khetha ho latela bothata boo u batlang ho bo rarolla. Ka morao, lihlahisoa li arolelana tlhahisoleseding e tšoanang.",
+    "items": {
+      "commercial": {
+        "title": "Tsamaiso ea khoebo",
+        "text": "Liodara, litheko, bareki le lethathamo la thepa ea kabo ea letsatsi le letsatsi."
+      },
+      "field": {
+        "title": "matla a thekiso",
+        "text": "Barekisi ba nkang liodara seterateng, inthaneteng kapa kantle ho marang-rang."
+      },
+      "warehouse": {
+        "title": "Lebenkele",
+        "text": "Kamohelo, ho khetha, ho romela le thepa e ka tšeptjoang."
+      },
+      "logistics": {
+        "title": "Logistics le pelehi",
+        "text": "Litsela, bakhanni le boemo ba thomello ka 'ngoe."
+      },
+      "purchasing": {
+        "title": "Ho reka le bafani ba thepa",
+        "text": "Likhoutu, litaelo le portal bakeng sa mang kapa mang ea u fang."
+      },
+      "finance": {
+        "title": "Lichelete le accounting",
+        "text": "Lipokello, litefo, tefiso ea elektroniki le accounting."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Liindasteri",
+    "title": "E etselitsoe ba [[ho tsamaisa sehlahisoa]]",
+    "intro": "FullVendor e hlahetse kabong mme e tsamaisana le lik'hamphani tse rekang, tse bolokang, tse rekisang le ho fana.",
+    "items": {
+      "wholesale": {
+        "title": "Kabo le thekiso",
+        "text": "Manane a litheko, potefolio, kabo le pokello ka potoloho e le 'ngoe."
+      },
+      "retail": {
+        "title": "Thekiso",
+        "text": "Boloka le ntlo ea polokelo e nang le stock e hokahantsoeng, thekiso le tlatsetso."
+      },
+      "food": {
+        "title": "Lijo le lino",
+        "text": "Litsela tsa khafetsa le ntlo ea polokelo e ke keng ea emisa."
+      },
+      "pharma": {
+        "title": "Pharmacy le tlhokomelo ea botho",
+        "text": "Kamohelo, ho khetha le taolo ea thepa ka traceability."
+      },
+      "hardware": {
+        "title": "Hardware le kaho",
+        "text": "Litšupiso tse ngata, barekisi le thepa ho ea mosebetsing kapa ho boloka."
+      },
+      "fmcg": {
+        "title": "Tšebeliso e ngata",
+        "text": "Lebotho la thekiso ea literateng le phallo e phahameng ea thekiso."
+      },
+      "manufacturing": {
+        "title": "Tlhahiso",
+        "text": "Ho reka, polokelo le thepa e tsamaellanang le tsamaiso."
+      },
+      "lastmile": {
+        "title": "Delivery le mile ea ho qetela",
+        "text": "Litsela, bakhanni le boemo ba thomello ka 'ngoe."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Lisebelisoa",
+    "title": "Hlakola maikutlo a ho [[ho laela tšebetso]]",
+    "intro": "Litataiso tse khutšoane bakeng sa batsamaisi ba kabo ba tlang ho etsa qeto ea hore na ba tla khomarela sistimi efe.",
+    "items": {
+      "unify": {
+        "title": "Mokhoa oa ho kopanya kabo ho sistimi e le 'ngoe",
+        "summary": "Seo u lokelang ho se kopanya pele ha thekiso, polokelo le likoleke li phela ka lifaele tse fapaneng.",
+        "points": [
+          "Qala ka bareki, lihlahisoa le litheko: ke mesuoe eo bohle ba e sebelisang.",
+          "Hokela odara le stock pele o kenya lisebelisoa tse ling.",
+          "E lekanya palo e bonolo: litaelo tse phethiloeng ntle le ho etsa foromo hape."
+        ]
+      },
+      "offline": {
+        "title": "Thekiso e qobella ho sebetsa ntle le inthanete",
+        "summary": "Seo u ka se hlokang ho tswa ho app ea ho laela e le hore morekisi a se ke a emisa ka lebaka la pontšo.",
+        "points": [
+          "Lethathamo le sepache li tlameha ho ba fonong, eseng marung feela.",
+          "Taelo e bolokoa sesebelisoa ebe e kenngoa ha marang-rang a khutla.",
+          "Ha o lumellana, taelo e se e ntse e kena ka tlung ea polokelo."
+        ]
+      },
+      "warehouse": {
+        "title": "Sebaka sa polokelo se nang le barcode, se se nang pampiri",
+        "summary": "Mokhoa oa ho tloha lethathamong le hatisitsoeng ho ea ho khetho e netefalitsoeng fonong.",
+        "points": [
+          "Fumana khahlanong le taelo ea theko, eseng khahlanong le mohopolo.",
+          "Netefatsa ntho ka 'ngoe ha u arola. Phokojoe e seha phasejeng.",
+          "Thepa e nchafatsa thepa eo morekisi a e bonang."
+        ]
+      },
+      "finance": {
+        "title": "Pokello e tsamaisana le thekiso",
+        "summary": "Hobaneng ha morekisi a lokela ho bona sekoloto sa moreki pele a nka odara e 'ngoe.",
+        "points": [
+          "Ketelo ke nako e ntle ea ho bokella, haeba molato o bonahala.",
+          "Lithekiso le lichelete li tlameha ho sheba moreki a le mong.",
+          "Tlaleho ea letsatsi le letsatsi e siiloeng ke nako e bohlokoa ho feta ho koala ha morao."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Litheko",
+    "title": "Tikoloho e [[e hōlang le uena]]",
+    "intro": "Ha re phatlalatse sekhahla sa generic: litšenyehelo li ipapisitse le li-module, basebelisi le molumo. Re u bontša sethala mme re kopanya tlhahiso le ts'ebetso ea hau.",
+    "note": "Demo ha e na litšenyehelo ebile ha e hloke konteraka.",
+    "recommended": "E khothalelitsoe",
+    "faq_title": "Lipotso tse botsoang khafetsa",
+    "plans": {
+      "essential": {
+        "name": "Bohlokwa",
+        "desc": "Ho hlophisa tsamaiso le kabo ea khoebo sethaleng se le seng.",
+        "features": [
+          "FullVendor sethala sa tepo",
+          "Thekiso, theko le thepa",
+          "Bareki, barekisi le litlaleho",
+          "Basebelisi ba lisebelisoa tsa ofisi",
+          "Tšehetso ea ho qala"
+        ],
+        "cta": "Kopa Demo"
+      },
+      "professional": {
+        "name": "Setsebi",
+        "desc": "Bakeng sa lihlopha tse rekisang seterateng le ho lokisa litaelo ka tlung ea polokelo.",
+        "features": [
+          "Tsohle Tsa Bohlokwa",
+          "Sesebelisoa FullVendor Sales Man",
+          "Sesebelisoa FullVendor Warehouse",
+          "Mosebetsi o kantle ho marang-rang le libarcode",
+          "Basebelisi ba bangata ba masimo le polokelo"
+        ],
+        "cta": "Kopa Demo"
+      },
+      "corporate": {
+        "name": "Khampani",
+        "desc": "Bakeng sa lihlopha tse hlokang thepa, ho reka, lichelete le lik'hamphani tse fapaneng.",
+        "features": [
+          "Ecosystem e felletseng",
+          "Logistics, Vendor Supplier le Finance",
+          "FullVendor ERP le ho hira batho ba bangata",
+          "Tefiso ea elektroniki le accounting",
+          "Ho tsamaisana le ho fumaneha ha pele"
+        ],
+        "cta": "Bua le thekiso"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Na ke tlameha ho reka lihlahisoa tsohle?",
+        "a": "Che. O ka qala ka FullVendor mme oa eketsa lisebelisoa kapa ERP ha opereishene e e hloka."
+      },
+      "offline": {
+        "q": "Na likopo li sebetsa ntle le inthanete?",
+        "a": "Sales Man le Warehouse li tsoela pele ho sebetsa ntle le pontšo le ho hokahanya ha li kopanya hape."
+      },
+      "multi": {
+        "q": "Na e ea sebetsa haeba ke na le lik'hamphani tse fetang bonngoe?",
+        "a": "Ee. ERP e nahana ka lik'hamphani tse ngata mme tikoloho e ka arolelana masters lipakeng tsa tsona."
+      },
+      "demo": {
+        "q": "Seemo se kenyeletsa eng?",
+        "a": "Ho etela sethala ka mokotla o ts'oanang le oa hau. Ha ho litšenyehelo ebile ha ho tlamo."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Mohlala",
+    "title": "Re u bontša FullVendor le [[mofuta oa ts'ebetso ea hau]]",
+    "text": "Re bolelle ka k'hamphani ea hau le hore na u batla ho odara eng pele. Demo ha e na litšenyehelo."
+  },
+  "contact": {
+    "eyebrow": "Ikopanye",
+    "title": "Ha re bue ka [[opereishene ea hau]]",
+    "text": "Haeba u batla demo, tlhahiso kapa feela ho iketsetsa pakeng tsa lihlahisoa, tlohela tlhahisoleseding ea hau 'me re tla arabela.",
+    "email": "Lengolo-tsoibila",
+    "phone": "Mohala",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Lebitso",
+    "email": "Lengolo-tsoibila",
+    "phone": "Mohala",
+    "company": "Khampani",
+    "country": "Naha",
+    "team": "Boholo ba sehlopha",
+    "interest": "U thahasella eng?",
+    "message": "Molaetsa",
+    "optional": "Taba ea boikhethelo",
+    "choose": "Khetha",
+    "interest_all": "Ecosystem eohle",
+    "ph_name": "lebitso la hau",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Sehlopha sa hau",
+    "ph_country": "Naha",
+    "ph_message": "Re bolelle hore na u sebetsa joang kajeno",
+    "privacy_before": "Ke amohela tšebeliso ea data ea ka ho ea ka",
+    "privacy_after": ".",
+    "submit": "Romela kopo",
+    "sent_title": "Re fumana kopo ea hau",
+    "sent_text": "Kea leboha. Sehlopha sa barekisi se tla u ngolla ho hokahanya demo kapa ho araba potso ea hau.",
+    "error_required": "Qetella karolo ena.",
+    "error_email": "Kenya lengolo-tsoibila le nepahetseng.",
+    "error_phone": "Sheba fono.",
+    "error_privacy": "Re hloka tumello ea hau ho sebelisa lintlha tsa puisano.",
+    "error_csrf": "Seboka se felile. Romela foromo hape.",
+    "error_save": "Ha rea ​​khona ho boloka kopo. Leka hape.",
+    "error_generic": "Hlahloba libaka tse tšoailoeng.",
+    "error_rate": "Ka kopo, ema hanyane pele o kenya kopo e 'ngoe.",
+    "team_options": {
+      "1-10": "1 ho batho ba 10",
+      "11-50": "Batho ba 11 ho isa ho ba 50",
+      "51-200": "Batho ba 51 ho isa ho 200",
+      "201-500": "201 ho batho ba 500",
+      "500+": "Batho ba fetang 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor ka motsotso o le mong",
+    "prev": "Ea pele",
+    "next": "Ho latela",
+    "slides": [
+      {
+        "title": "Ecosystem e le 'ngoe",
+        "text": "Thekiso, sebaka sa polokelo, thomello, ho reka le ho arolelana lichelete bareki, stock le liodara."
+      },
+      {
+        "title": "Web le mobile hammoho",
+        "text": "Ofisi e sebetsa sethaleng. Seterata le ntlo ea polokelo, ka har'a lits'ebetso, leha e se na lets'oao."
+      },
+      {
+        "title": "E etselitsoe ho aba",
+        "text": "Ho tloha ka taelo ho ea ho tefo, ntle le ho fetisa tlhahisoleseding ho tloha faeleng e 'ngoe ho ea ho e' ngoe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Batla lihlahisoa, litharollo, liindasteri…",
+    "lang_filter": "Batla puo",
+    "intro": "Batla lihlahisoa, tharollo, liindasteri le lisebelisoa.",
+    "empty": "Ha rea ​​fumana liphetho tsa \"{q}\".",
+    "hint": "Leka thekiso, polokelo, litsela kapa likoleke.",
+    "results": "{n} liphetho",
+    "button": "Batla",
+    "kind_product": "Sehlahisoa",
+    "kind_solution": "Tharollo",
+    "kind_industry": "Indasteri",
+    "kind_resource": "Mohlodi"
+  },
+  "notfound": {
+    "title": "Leqephe lena ha le joalo",
+    "text": "Sehokelo ha se teng kapa se fetotse sebaka."
+  },
+  "common": {
+    "what": "Se rarollang",
+    "features": "Se kenyellelitsoeng",
+    "benefits": "Hobaneng ho le bohlokoa",
+    "for_who": "E etselitsoe mang?",
+    "related": "Hape le tikolohong"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Lithekiso kajeno",
+      "orders": "Litaelo",
+      "clients": "Bareki",
+      "products": "Lihlahisoa"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Thekiso",
+      "purchases": "Ho reka",
+      "inventory": "Inventory",
+      "clients": "Bareki",
+      "reports": "Litlaleho"
+    },
+    "chart": "Thekiso",
+    "channel": "Phatlalatso ka kanale",
+    "channels": [
+      "Lebenkele",
+      "Kabo",
+      "Morekisi",
+      "Ba bang"
+    ],
+    "orders": "Litaelo tsa morao-rao",
+    "col_order": "Taelo",
+    "col_client": "Moreki",
+    "col_status": "Naha",
+    "col_total": "Kakaretso",
+    "status": [
+      "E filwe",
+      "Tseleng",
+      "Masale"
+    ],
+    "top": "Lihlahisoa tse rekisoang ka ho fetisisa",
+    "product": "Sehlahisoa",
+    "sales_menu": [
+      "Bareki",
+      "Litaelo",
+      "Lihlahisoa",
+      "Litsela",
+      "Amahanya"
+    ],
+    "warehouse_menu": [
+      "Kamohelo",
+      "Ho khetha",
+      "Inventory",
+      "Phatlalatso",
+      "Amahanya"
+    ]
+  },
+  "legal": {
+    "privacy_title": "leano la lekunutu",
+    "privacy_intro": "Leano lena le hlalosa seo re se etsang ka data eo u e sieang ka liforomo sebakeng sena sa marang-rang.",
+    "privacy": [
+      {
+        "title": "Re bokella lintlha life",
+        "text": "Haeba o kopa demo kapa o re ngolle, re boloka lebitso, khampani, imeile, nomoro ea mohala haeba u e bontša, naha, boholo ba sehlopha, sehlahisoa sa thahasello le molaetsa. Hape re rekota letsatsi, puo ea leqephe le aterese ea IP, ho thibela tlhahiso e nyefolang."
+      },
+      {
+        "title": "Re li sebelisetsa eng?",
+        "text": "Re sebelisa lintlha tsena feela ho u araba, ho hokahanya demo le ho lokisetsa tlhahiso ea khoebo. Ha re li rekise kapa ra li fa lethathamo la batho ba boraro."
+      },
+      {
+        "title": "Li bolokiloe hokae hona ka nako e kae?",
+        "text": "Likopo li bolokiloe ho seva sa sebaka sena. Re li boloka bakeng sa nako e hlokahalang ho u sebeletsa le ho latela khoebo, 'me rea li hlakola ha u re kopa kapa ha li sa hlokahale."
+      },
+      {
+        "title": "Litokelo tsa hau",
+        "text": "U ka kopa phihlello, tokiso kapa ho hlakoloa ha data ea hau ho tsoa foromong ea ho ikopanya, ho e supa molaetseng. Haeba k'hamphani e phatlalatsa lengolo-tsoibila sebakeng sena sa marang-rang, u ka boela ua ngola moo."
+      }
+    ],
+    "terms_title": "Lipehelo tsa tšebeliso",
+    "terms_intro": "Maemo ana a sebetsa ts'ebelisong ea sebaka sena sa tlhahiso ea FullVendor.",
+    "terms": [
+      {
+        "title": "Lintlha tsa khoebo",
+        "text": "Litemana, mohlala lipalo tsa dashboard le litlhaloso li hlahisa sethala. Li ka fetoloa ha sehlahisoa se fetoha 'me ha se tlhahiso e koetsoeng."
+      },
+      {
+        "title": "Demo ha se konteraka",
+        "text": "Ho fana ka foromo ha ho fane ka tlamo ea ho reka kapa ho boloka theko. Konteraka efe kapa efe e lumellanoa ka thoko, ka mongolo, le boholo le maemo a eona."
+      },
+      {
+        "title": "Litaba tsa saete",
+        "text": "Letšoao la khoebo la FullVendor, mabitso a lihlahisoa le litaba tsa maqephe ana ke tsa beng ba tsona. Ha li khone ho kopitsoa ho hlahisa sehlahisoa se seng."
+      },
+      {
+        "title": "Tšebeliso e amohelehang",
+        "text": "Se ke oa sebelisa liforomo ho fana ka lintlha tsa bohata, spam kapa litaba tse seng molaong. Re kanna ra iphapanyetsa likopo tse sa tsamaellaneng le puisano ea nnete ea khoebo."
+      }
+    ]
+  }
+}

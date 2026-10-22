@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Daldala kee bulchuu fi guddisuu",
+    "home_desc": "Waltajjii hunda tokkoo kan furmaata weebii fi moobaayilaa raabsa, gurgurtaa, loojistikii, bittaa, inventarii fi faayinaansii qabu.",
+    "products_title": "Oomishaalee | FullVendor .",
+    "products_desc": "Sirna ikoo beekuu FullVendor: waltajjii daldalaa, ERP, loojistikii, dhiyeessitootaa fi gurgurtaa, appii kuusaa fi faayinaansii.",
+    "product_title": "{name} | FullVendor .",
+    "solutions_title": "Furmaata | FullVendor .",
+    "solutions_desc": "Furmaata bulchiinsa daldalaa, humna gurgurtaa, mana kuusaa, loojistikii, bittaa fi faayinaansii.",
+    "industries_title": "Industiriiwwan | FullVendor .",
+    "industries_desc": "FullVendor raabsa, daldala gurgurtaa, nyaata, mana qorichaa, haardwaara, fayyadama jumlaa, omishaa fi maayilii dhumaa.",
+    "pricing_title": "Gatiin | FullVendor .",
+    "pricing_desc": "Karoora Barbaachisaa, Ogummaa fi Dhaabbataa. Piropozaalichi akkaataa moojuulota, fayyadamtootaa fi jildiitiin walitti qabama.",
+    "resources_title": "Qabeenya | FullVendor .",
+    "resources_desc": "Qajeelfama gabaabaa raabsa tokkoomsuu, toora ala gurguruu, mana kuusaa qindeessuu fi yeroon kaffaltii argachuuf.",
+    "contact_title": "Quunnamtii | FullVendor .",
+    "contact_desc": "Waa’ee FullVendor baruuf ykn garee gurgurtaa waliin haasawa qindeessuuf nuuf barreessi.",
+    "demo_title": "Demoo gaafachuu | FullVendor .",
+    "demo_desc": "Demoo FullVendor gaafadhuu fi keesii hojii kee wajjin wal fakkaatuun waltajjii daawwadhu.",
+    "privacy_title": "Dhuunfaa | FullVendor .",
+    "terms_title": "Jechoota | FullVendor .",
+    "search_title": "Barbaadi | FullVendor .",
+    "notfound_title": "Fuulli hin argamne | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Fuula jalqabaa",
+    "products": "Oomishaalee",
+    "solutions": "Furmaata",
+    "industries": "Industiriiwwan",
+    "pricing": "Gatiin",
+    "resources": "Maddeen",
+    "contact": "Quunnamuu",
+    "open_menu": "Menuu banaa",
+    "close": "Cufuu"
+  },
+  "cta": {
+    "demo": "Demo gaafachuu",
+    "contact": "Nu qunnamaa",
+    "video": "Viidiyoo Daawwadhaa",
+    "talk": "Gurgurtaa waliin haasa'aa",
+    "all_products": "Oomishaalee hunda ilaali",
+    "home": "Gara fuula jalqabaatti deebi'aa"
+  },
+  "a11y": {
+    "skip": "Gara qabiyyeetti darbi",
+    "primary": "Navigeeshinii ijoo",
+    "crumbs": "Karaa navigeeshinii",
+    "search": "Barbaadaa",
+    "language": "Afaan"
+  },
+  "hero": {
+    "eyebrow": "Hundi isaanii waltajjii tokko irratti",
+    "title": "Bulchuu fi guddachuu\ndaldala keessan waliin\n{{brand}} .",
+    "subtitle": "Waltajjii guutuu furmaata weebii fi moobaayilaa raabsaa, gurgurtaa, loojistikii, bittaa, inventarii, faayinaansii fi kkf qabu.",
+    "pill_ecosystem": "Waan hunda sirna ikoo tokko keessatti",
+    "pill_cloud": "Duumessa keessatti, nageenya qabuu fi guddachuu danda'u",
+    "pill_size": "Dhaabbilee guddina hundaaf"
+  },
+  "products_block": {
+    "eyebrow": "Oomishaalee keenya",
+    "title": "Tokkoon tokkoon naannoo daldala keessaniif [[sirna ikoo guutuu]]",
+    "aside": "Furmaata walitti makamaa kan waliin hojjetan to’annoo waliigalaa, gahumsa hojii fi guddina guddaa siif kennu.",
+    "groups": {
+      "money": "Bulchiinsaa fi walitti qabuu",
+      "flow": "Bittaa fi geejjibaa",
+      "field": "Gurgurtaa fi mana kuusaa"
+    }
+  },
+  "products_page": {
+    "title": "Oomisha torba, [[hojii tokko]].",
+    "text": "Tokkoon tokkoon oomishaa naannoo tokko furmaata. Waliin ta’uun maamiltoota, istookii, ajaja fi kaffaltii qooddatu."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Waltajjii",
+      "card": "Waltajjii guddaa bulchiinsa fi raabsa daldalaa.",
+      "features": [
+        "Gurgurtaa fi bittaa",
+        "Eeruu",
+        "Maamiltootaa fi dhiyeessitoota",
+        "Gabaasa fi kkf"
+      ],
+      "lead": "Giddugala hojii daldalaa keessanii: ajaja, gatii, istookii fi maamiltoota bakka tokkotti.",
+      "about": "FullVendor gabatee fi sirnoota raabsaa laaftoo ta’an bakka bu’a. Asirraa ajajni ni ba'a, inventariin ni mari'atama, portfolio maamiltootaa kunuunfamaa fi lakkoofsi guyyaa ilaalama. Sirni ikoo naannoo kan hafe bu’uura kanaan wal qunnamsiisa.",
+      "benefits": [
+        {
+          "title": "Master deetaa tokko qofa",
+          "text": "Maamiltoonni, oomishaa fi gatiin gurgurtaa, mana kuusaa fi faayinaansii waliin qooddama."
+        },
+        {
+          "title": "Hojii guyyaa guyyaa qulqulluu",
+          "text": "Ajajni, bittaa fi istookiin faayiloota adda addaa keessa jiraachuu dhaabu."
+        },
+        {
+          "title": "Gabaasa murteessuuf",
+          "text": "Gurgurtaan, margin fi pending harkaan minjaala osoo walitti hin kaa'in mul'ata."
+        },
+        {
+          "title": "Guddachuuf qophaa'aa",
+          "text": "Loojistikii, humna gurgurtaa ykn walitti qabama ERP yeroo hojiin gaafatu."
+        }
+      ],
+      "audience": "Garee daldalaa fi raabsaa har’a sirnoota hedduu gidduutti daldala qindeessan."
+    },
+    "erp": {
+      "kicker": "Bulchiinsa",
+      "card": "Bulchiinsa bulchiinsaa fi faayinaansii guutuu.",
+      "features": [
+        "Herrega",
+        "Kaffaltii elektirooniksii",
+        "Waraqaawwan hojii",
+        "Qabeenya dhaabbataa",
+        "Dhaabbilee hedduu"
+      ],
+      "lead": "Bulchiinsaa fi faayinaansii, waan qabatamaan gurguramee dhiyaatu waliin kan walsimu.",
+      "about": "FullVendor ERP herrega, invoice elektirooniksii, mindaa, qabeenya dhaabbataa fi dhaabbilee hedduu kan hammatudha. Hojii daldalaa fudhatee gara galmee, nagahee fi ibsa naannoon faayinaansii itti fayyadamuu danda’utti jijjiira.",
+      "benefits": [
+        {
+          "title": "Herrega walitti hidhame",
+          "text": "Gurgurtaa fi bittaa keessatti wanti ta’u herrega nyaata."
+        },
+        {
+          "title": "Nagahee elektirooniksii",
+          "text": "Sirna ikoo tokko irraa kaffaltii baasuu fi to'atta."
+        },
+        {
+          "title": "Dhaabbilee adda addaa",
+          "text": "Garee maqaa dhaabbata tokkoo ol jalatti socho’aniif dhaabbata hedduu."
+        },
+        {
+          "title": "Mindaa fi qabeenya",
+          "text": "Mindaa fi qabeenya dhaabbataa hoggansa hafe waliin."
+        }
+      ],
+      "audience": "Naannoowwan bulchiinsaa fi faayinaansii kanneen hojii dhugaatiin lakkoofsa cufuu barbaadan."
+    },
+    "logistics": {
+      "kicker": "Loojistikii",
+      "card": "Hojii loojistikii keessanii to’achuu fi hordofuu.",
+      "features": [
+        "Daandiiwwanii fi geejjibaa",
+        "Hordoffii yeroo qabatamaa",
+        "Ramaddii konkolaachisaa",
+        "Karaa fooyyessuu"
+      ],
+      "lead": "Ajaja irraa kaasee hanga geejjibaa: daandii, konkolaachiftootaa fi hordoffii yeroo qabatamaa.",
+      "about": "FullVendor Logistics raabsa ni qindeessa. Daandiiwwan uumta, konkolaachiftoota ramaduudhaan tokkoon tokkoon geejjibni garamitti akka deemu ilaalta. Gareen tiraafikaa ajajni ergamee jiraachuu isaa baruuf bilbila irratti hundaa'uun dhaabbata.",
+      "benefits": [
+        {
+          "title": "Daandiiwwan guyyaa sanaa",
+          "text": "Geejjibni zoonii, foddaa yeroo fi dandeettiitiin ajajame."
+        },
+        {
+          "title": "Konkolaachisaa ramadame",
+          "text": "Tokkoon tokkoon daandii nama itti gaafatamaa fi tartiiba ifa ta’e qaba."
+        },
+        {
+          "title": "Hordoffii",
+          "text": "Waan geejjibsiifamu, karaa irratti ykn dhaabbatu ni beekta."
+        },
+        {
+          "title": "Kiilomeetira muraasa",
+          "text": "Route optimization yeroo fi baasii geejjibaa hir’isa."
+        }
+      ],
+      "audience": "Hojii raabsaa doonii mataa isaa ykn qaama sadaffaa waliin."
+    },
+    "supplier": {
+      "kicker": "Bittaa",
+      "card": "Poortaala dhiyeessitootaa fi bulchiinsa bittaa.",
+      "features": [
+        "Ajaja bittaa",
+        "Jechoota bebbeekamoo akka fakkeenyaatti fudhataman",
+        "Hoggansa dhiyeessitootaa",
+        "Inventarii wajjin walitti makamuu"
+      ],
+      "lead": "Dhiyeessitoonni keessan iimeelii laaftuu malee caqasuu, ajaja fudhachuu fi istookii guutuu.",
+      "about": "Vendor Supplier bittaa fi dhiyeessitoonni ajaja walfakkaataa irratti akka hojjetaniif poortala bana. Caqasni, ajajni bittaa fi nagahee inventarii FullVendor waliin walqabatee jira.",
+      "benefits": [
+        {
+          "title": "Ajaja chaanaalii tokko keessatti",
+          "text": "Dhiyeessaan waan geessu ilaala, sansalata iimeelii malee."
+        },
+        {
+          "title": "Caqasoota wal madaalan",
+          "text": "Gatii gaafattee seenaa ilaalcha keessa galchuun filatta."
+        },
+        {
+          "title": "Gooftaa Dhiyeessaa",
+          "text": "Haala, quunnamtii fi galmee tokko keessatti eegamaa jiru."
+        },
+        {
+          "title": "Inventarii galchi",
+          "text": "Wanti bitame yeroo dhiyaatu aksiyoonicha keessatti calaqqisa."
+        }
+      ],
+      "audience": "Garee bittaa dhiyeessitoota hedduu guutanii fi hordofamuu barbaadan."
+    },
+    "salesman": {
+      "kicker": "Appii mobaayilaa",
+      "card": "Appilikeeshinii moobaayilaa garee gurgurtaaf.",
+      "features": [
+        "Hoggansa maamiltootaa",
+        "Ajaja fudhachuu",
+        "Kataloogii oomishaa",
+        "Hojii toora ala"
+      ],
+      "lead": "Humni gurgurtaa ajaja daandii irratti, mallattoo waliinis ta'e osoo hin qabaatin fudhata.",
+      "about": "FullVendor Sales Man portfolio, kataloogii fi ajaja fudhachuu bilbila gurguraa irratti kaa'a. Yoo interneetiin hin jirre hojiin itti fufee yeroo mallattoon deebi’u walsimsiisa. Ajajni qophaa'ee geessuuf qophaa'ee dhufa.",
+      "benefits": [
+        {
+          "title": "Wallet kiisha keessaa",
+          "text": "Gurgurataan maamiltoota, haalawwanii fi meeshaalee eegamaa jiran ni arga."
+        },
+        {
+          "title": "Daawwannaa irratti ajaja",
+          "text": "Ajaja gatii amma jiruu fi istookii waliin fudhadhaa."
+        },
+        {
+          "title": "Kataloogii yeroo ammaa",
+          "text": "Oomishaalee, dhiheessiifi gatii PDF durii malee."
+        },
+        {
+          "title": "Dhugaa offline",
+          "text": "Uwwisa malee hojjechuu fi booda walsimsiisuu."
+        }
+      ],
+      "audience": "Suppervaayizaroota fi gurgurtoota dirree raabsaa fi fayyadama jumlaa keessatti."
+    },
+    "warehouse": {
+      "kicker": "Appii mobaayilaa",
+      "card": "Appilikeeshinii moobaayilaa mana kuusaa.",
+      "features": [
+        "Simannaa fi erguu",
+        "Fudhachuu fi kuusuu",
+        "To’annoo inventarii",
+        "Dubbisa barkoodii"
+      ],
+      "lead": "Bilbilaa fi baarkoodii waliin simachuu, fudhachuu fi erguu.",
+      "about": "FullVendor Warehouse mana kuusaa simannaa, sassaabuu, kuusuu fi erguu irratti ni qajeelcha. Koodii dubbisuun dogoggora hir’isa, kana booda inventariin dhuma baatii qofa irratti hin lakkaa’amu.",
+      "benefits": [
+        {
+          "title": "Simannaa ajaja malee",
+          "text": "Wanti seenu bittaa wajjin wal bira qabamee ilaalama."
+        },
+        {
+          "title": "Fudhachuu irratti xiyyeeffate",
+          "text": "Abbaan doonii ajaja hordofee meeshaa tokkoon tokkoon isaa mirkaneessa."
+        },
+        {
+          "title": "Barkoodii",
+          "text": "Dogoggora oomishaa, batch ykn baay'ina xiqqaa."
+        },
+        {
+          "title": "Istookii amanamaa",
+          "text": "Tokkoon tokkoon sochii inventarii waltajjii haaromsa."
+        }
+      ],
+      "audience": "Hoggantoonni mana kuusaa fi abbootiin doonii har’a ajaja tarree maxxanfameen qopheessan."
+    },
+    "finance": {
+      "kicker": "Appii mobaayilaa",
+      "card": "To'annoo maallaqaa mobaayila keessan irraa.",
+      "features": [
+        "Herrega fudhatama qabuu fi kaffalamuu qabu",
+        "Haala maamilaa",
+        "Kaffaltii fi araara",
+        "Gabaasa faayinaansii"
+      ],
+      "lead": "Herrega fudhatama qabu, kaffaltii fi haala maamilaa, bilbila keessan irraa.",
+      "about": "FullVendor Finance walitti qabama mobaayila irratti agarsiisa: maamila tokkoon tokkoon liqii maal akka qabu, dhaabbatichi maal kaffaluuf akka jiruu fi kaffaltiin akkamitti akka dhufu. Yeroo daawwannaa maallaqa walitti qabuu fi deeskii osoo hin banin galmee maallaqaa ilaaluuf kan ooludha.",
+      "benefits": [
+        {
+          "title": "Daawwannaa irratti walitti qabama",
+          "text": "Gurgurataan maamilchi osoo hin gurgurin dura yeroo isaa eeggate ta’uu isaa ni beeka."
+        },
+        {
+          "title": "Fudhatamaa fi kan kaffalamu",
+          "text": "Gama lamaan saanduqa appii tokko keessatti."
+        },
+        {
+          "title": "Kaffaltii fi araara",
+          "text": "Credit galmeessitee waan qaxxaamuruu qabu ilaalta."
+        },
+        {
+          "title": "Gabaasa harka jiru",
+          "text": "Cufiinsa osoo hin eegin agarsiistota walitti qabuu fi maallaqaa."
+        }
+      ],
+      "audience": "Hoggantoota, walitti qabaa fi gurgurtoota haala maamilaa yeroo ammaa barbaadan."
+    }
+  },
+  "why": {
+    "eyebrow": "Maaliif FullVendor .",
+    "title": "Daldala keessan guddifadhaa\nbu’aa dhugaa ta’een",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Dhaabbileen nu amanatu"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Fayyadamtoota sochii qaban"
+      },
+      {
+        "value": "+10",
+        "suffix": "waggoota",
+        "label": "Jijjiirama dhaabbataa keessatti"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Duumessi jiraachuu"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Akkaataa itti hojjetu",
+    "title": "Gurgurtaa irraa kaasee hanga walitti qabuutti, sirna osoo hin jijjiirin",
+    "text": "Tokkoon tokkoon oomishaa maamiltoota, istookii, ajaja fi kaffaltii qooddata. Wanti daandii irratti ykn mana kuusaa keessatti ta'u battalumatti waajjira keessatti mul'ata.",
+    "steps": {
+      "sell": {
+        "title": "Ati gurgurta",
+        "text": "Ajajni karaa marsariitii ykn karaa Sales Man, mallattoo malee illee galfama."
+      },
+      "pick": {
+        "title": "Qophaa'aa",
+        "text": "Warehouse baarkoodii fudhachuu, addaan baasuu fi erga."
+      },
+      "deliver": {
+        "title": "Geejjibaa",
+        "text": "Logistics karaa ramadee geejjibaa hordofa."
+      },
+      "collect": {
+        "title": "Koobraa",
+        "text": "Finance fi ERP walitti qabama, nagahee fi lakkoofsa cufu."
+      }
+    }
+  },
+  "band": {
+    "title": "[[opireeshinii kee]] waliin arguuf qophiidhaa?",
+    "text": "Sirna ikoo keesii raabsaa kan keessanii wajjin walfakkaatuun isin agarsiifna."
+  },
+  "footer": {
+    "blurb": "Waltajjii weebii fi moobaayilaa raabsaa, gurgurtaa, loojistikii, bittaa, inventarii fi faayinaansii.",
+    "products": "Oomishaalee",
+    "company": "Dhaabbata",
+    "legal": "Seera qabeessa",
+    "privacy": "Dhuunfummaa",
+    "terms": "Jechoota",
+    "rights": "Mirgi Qopheessaa Seeraan Kan Eegame."
+  },
+  "solutions": {
+    "eyebrow": "Furmaata",
+    "title": "Tokkoon tokkoon naannoo, [[hojii walfakkaataa]] waliin kan walqabate.",
+    "intro": "Rakkoo furuu barbaadduun filadhu. Duubaan oomishoonni odeeffannoo walfakkaataa qooddatu.",
+    "items": {
+      "commercial": {
+        "title": "Hoggansa daldalaa",
+        "text": "Ajaja, gatii, maamiltootaa fi inventarii raabsa guyyaa guyyaa."
+      },
+      "field": {
+        "title": "humna gurgurtaa",
+        "text": "Daldaltoonni ajaja daandii irratti, toora interneetii ykn toora interneetii ala fudhatan."
+      },
+      "warehouse": {
+        "title": "Kuusuu",
+        "text": "Simannaa, fudhachuu, erguu fi istookii amanamuu danda’u."
+      },
+      "logistics": {
+        "title": "Loojistikii fi geejjibaa",
+        "text": "Daandiiwwan, konkolaachiftootaa fi haala geejjibaa tokkoon tokkoon isaanii."
+      },
+      "purchasing": {
+        "title": "Bittaa fi dhiyeessitoota",
+        "text": "Caqasoota, ajaja fi poortala nama siif dhiyeesseef."
+      },
+      "finance": {
+        "title": "Faayinaansii fi herrega",
+        "text": "Walitti qabama, kaffaltii, kaffaltii elektirooniksii fi herrega."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industiriiwwan",
+    "title": "Warra [[oomisha sochoosu]]f kan hojjetame.",
+    "intro": "FullVendor raabsa keessatti kan dhalate yoo ta’u, dhaabbilee bitatan, kuusan, gurguranii fi geessan waliin kan deemudha.",
+    "items": {
+      "wholesale": {
+        "title": "Raabsaa fi gurgurtaa jumlaa",
+        "text": "Tarree gatii, portfolio, raabsaa fi walitti qabuu sarkiyuutii tokko keessatti."
+      },
+      "retail": {
+        "title": "Qinxaaboo",
+        "text": "Kuusaa fi kuusaa kan istookii walitti hidhame, gurgurtaa fi guutuu."
+      },
+      "food": {
+        "title": "Nyaataa fi dhugaatii",
+        "text": "Daandii yeroo baayyee fi mana kuusaa dhaabbachuu hin dandeenye."
+      },
+      "pharma": {
+        "title": "Faarmaasii fi kunuunsa dhuunfaa",
+        "text": "Simannaa, fudhachuu fi to’annoo inventarii hordofamuu danda’uun."
+      },
+      "hardware": {
+        "title": "Hardware fi ijaarsa",
+        "text": "Wabiiwwan, dhiyeessitootaa fi geejjibni hojii ykn mana kuusaa hedduu."
+      },
+      "fmcg": {
+        "title": "Fayyadama jumlaa",
+        "text": "Humna gurgurtaa daandii fi bakka bu’iinsa jijjiirraa olaanaa."
+      },
+      "manufacturing": {
+        "title": "Oomisha",
+        "text": "Bittaa, kuusaa fi inventarii bulchiinsa waliin walsimu."
+      },
+      "lastmile": {
+        "title": "Geejjibaa fi maayilii dhumaa",
+        "text": "Daandiiwwan, konkolaachiftootaa fi haala geejjibaa tokkoon tokkoon isaanii."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Maddeen",
+    "title": "Yaada ifa ta'e [[opireeshinii ajajuu]].",
+    "intro": "Qajeelfama gabaabaa hoggantoota raabsaa sirna kam irratti akka maxxanan murteessuuf deemaniif.",
+    "items": {
+      "unify": {
+        "title": "Akkaataa raabsa gara sirna tokkootti tokkoomsuu",
+        "summary": "Yeroo gurgurtaan, kuusaa fi walitti qabaan faayiloota adda addaa keessa jiraatan dursa maal walitti qabuu qabna.",
+        "points": [
+          "Maamiltoota, oomishaa fi gatii irraa jalqabi: isaan barsiisaa namni hundi itti fayyadamudha.",
+          "Appilikeeshinii dabalataa osoo hin dabaliin dura ajaja sana istookii waliin walqabsiisi.",
+          "Lakkoofsa salphaa safara: ajajoota unka sana irra deebi'anii osoo hin hojjetiin raawwataman."
+        ]
+      },
+      "offline": {
+        "title": "Humni gurgurtaa toora ala hojjetu",
+        "summary": "Gurgurataan sababa mallattootiin akka hin dhaabbanneef appii ajajuu irraa maal barbaaduu qabna.",
+        "points": [
+          "Kataloogii fi boorsaan duumessa qofa keessa osoo hin taane bilbila irratti ta'uu qaba.",
+          "Ajajni meeshaa irratti kan kuufamee fi yeroo networkiin deebi'u olkaa'ama.",
+          "Yeroo walsimsiisu ajajni duraanuu mana kuusaa seena."
+        ]
+      },
+      "warehouse": {
+        "title": "Kuusaa baarkoodii qabu, waraqaa malee",
+        "summary": "Akkaataa tarree maxxanfame irraa gara bilbila irratti fudhachuu mirkanaa'etti deemnu.",
+        "points": [
+          "Ajaja bittaa irratti malee yaadannoo irratti osoo hin taane fudhadhu.",
+          "Tokkoon tokkoon wantaa yeroo addaan baaftan mirkaneessi. Bug kun karaa keessaa ni mura.",
+          "Ergaan kun istookii gurgurataan arge haaromsa."
+        ]
+      },
+      "finance": {
+        "title": "Kuusaa gurgurtaa waliin walsimsiise",
+        "summary": "Gurgurataan ajaja biraa fudhachuu isaa dura liqaa maamilaa maaliif arguu qaba.",
+        "points": [
+          "Daawwannaan yeroo walitti qabuuf gaarii dha, yoo liqiin mul’ate.",
+          "Gurgurtaa fi faayinaansii maamila tokko ilaaluu qabu.",
+          "Gabaasni guyyaa guyyaan yeroon isaa darbe cufamuu caalaa gatii qaba."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Gatiin",
+    "title": "Sirna ikoo [[si waliin guddatu]].",
+    "intro": "Sadarkaa waliigalaa hin maxxansinu: baasii moojuulota, fayyadamtootaa fi baay'ina irratti hundaa'a. Waltajjii isinitti agarsiifnee opereshinii keessan waliin piropozaala walitti qabnee jirra.",
+    "note": "Demoo baasii kan hin qabnee fi kontiraata hin barbaadu.",
+    "recommended": "Yaada gorsaa dhiyeesse",
+    "faq_title": "Gaaffiiwwan yeroo baay’ee gaafataman",
+    "plans": {
+      "essential": {
+        "name": "Murteessaa",
+        "desc": "Bulchiinsa daldalaa fi raabsaa waltajjii tokko irratti qindeessuuf.",
+        "features": [
+          "FullVendor waltajjii weebsaayitii",
+          "Gurgurtaa, bittaa fi inventarii",
+          "Maamiltoota, dhiyeessitootaa fi gabaasa",
+          "Fayyadamtoota meeshaalee waajjiraalee",
+          "Deeggarsa hojii jalqabuu"
+        ],
+        "cta": "Demo gaafachuu"
+      },
+      "professional": {
+        "name": "Ogeessa",
+        "desc": "Garee daandii irratti gurguraniifi ajaja mana kuusaa keessatti qopheessaniif.",
+        "features": [
+          "Waan Hunda Barbaachisaa",
+          "Appilikeeshinii FullVendor Sales Man .",
+          "Appilikeeshinii FullVendor Warehouse .",
+          "Hojii sarara ala fi baarkoodii",
+          "Fayyadamtoota dirree fi mana kuusaa baay'ee"
+        ],
+        "cta": "Demo gaafachuu"
+      },
+      "corporate": {
+        "name": "Dhaabbataa",
+        "desc": "Garee loojistikii, bittaa, faayinaansii fi dhaabbilee adda addaa barbaadaniif.",
+        "features": [
+          "Sirna ikoo guutuu ta’e",
+          "Logistics, Vendor Supplier fi Finance .",
+          "FullVendor ERP fi kireeffannaa hedduu",
+          "Kaffaltii elektirooniksii fi herrega",
+          "Accompaniment fi dursa kennuu"
+        ],
+        "cta": "Gurgurtaa waliin haasa'aa"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Oomishaalee hunda bitachuu qabaa?",
+        "a": "Lakki FullVendor irraa jalqabdee yeroo opereshiniin barbaadu apps ykn ERP dabaluu dandeessa."
+      },
+      "offline": {
+        "q": "Appilikeeshiniiwwan interneetii malee ni hojjetuu?",
+        "a": "Sales Man fi Warehouse mallattoo malee hojjechuu itti fufuu fi yeroo deebi’anii wal qunnamsiisan walsimsiisuu."
+      },
+      "multi": {
+        "q": "Dhaabbata tokkoo ol yoo qabaadhe ni hojjetaa?",
+        "a": "Eeyyee. ERP dhaabbilee hedduu kan yaadu yoo ta’u sirni ikoo isaan gidduutti gooftolii qooddachuu danda’a."
+      },
+      "demo": {
+        "q": "Demoo maal of keessaa qaba?",
+        "a": "Daawwannaa waltajjii keesii kee wajjin wal fakkaatuun. Baasii fi dirqama hin qabu."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "FullVendor [[gosa hojii kee]] waliin sitti agarsiifna.",
+    "text": "Waa'ee dhaabbata keessanii fi waan dursitanii ajajuu barbaaddan nuuf himaa. Demoo baasii hin qabu."
+  },
+  "contact": {
+    "eyebrow": "Quunnamuu",
+    "title": "Mee waa'ee [[opireeshinii keessan]] haa dubbannu.",
+    "text": "Yoo demo, proposal ykn oomishaalee gidduutti of qajeelchuuf qofa barbaaddan odeeffannoo keessan dhiisaa deebii nuuf kennina.",
+    "email": "Poostaa",
+    "phone": "Bilbila",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Maqaa",
+    "email": "Poostaa",
+    "phone": "Bilbila",
+    "company": "Dhaabbata",
+    "country": "Biyya",
+    "team": "Guddina garee",
+    "interest": "Maaltu si hawwata?",
+    "message": "Ergaa",
+    "optional": "Dirqama kan hinta'in",
+    "choose": "Filuu",
+    "interest_all": "Guutummaan sirna ikoo naannoo",
+    "ph_name": "maqaa kee",
+    "ph_email": "ati@dhaabbata.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Dhaabbata keessan",
+    "ph_country": "Biyya",
+    "ph_message": "Har'a akkamitti akka hojjettan nuuf himaa",
+    "privacy_before": "Fayyadama daataa koo akka",
+    "privacy_after": ".",
+    "submit": "Gaaffii ergaa",
+    "sent_title": "Gaaffii keessan ni arganna",
+    "sent_text": "Galatoomaa. Gareen gurgurtaa demoo qindeessuuf ykn gaaffii kee deebisuuf siif barreessa.",
+    "error_required": "Dirree kana guuti.",
+    "error_email": "Imeelii sirrii ta'e galchi.",
+    "error_phone": "Bilbila ilaalaa.",
+    "error_privacy": "Odeeffannoo quunnamtii fayyadamuuf hayyama keessan nu barbaachisa.",
+    "error_csrf": "Kutaan yeroon isaa darbee jira. Unka sana irra deebi'aa galchaa.",
+    "error_save": "Gaaffii sana qusachuu hin dandeenye. Ammas yaalaa.",
+    "error_generic": "Dirreewwan mallatteeffaman irra deebi’ii ilaali.",
+    "error_rate": "Gaaffii biraa osoo hin galchin dura yeroo muraasa eegaa.",
+    "team_options": {
+      "1-10": "Namoota 1 hanga 10",
+      "11-50": "11 hanga 50 ta'a",
+      "51-200": "51 hanga 200 ta'u",
+      "201-500": "201 hanga 500 ta’u",
+      "500+": "Namoota 500 ol"
+    }
+  },
+  "video": {
+    "title": "FullVendor daqiiqaa tokko keessatti",
+    "prev": "Kan duraanii",
+    "next": "Hordofuu",
+    "slides": [
+      {
+        "title": "Sirna ikoo tokko",
+        "text": "Gurgurtaa, kuusaa, geejjibaa, bittaa fi faayinaansii aksiyoona maamiltoota, istookii fi ajaja."
+      },
+      {
+        "title": "Web fi mobile waliin ta'uun",
+        "text": "Waajjirri waltajjii irratti hojjeta. Daandii fi mana kuusaa, apps keessatti, signal malee illee."
+      },
+      {
+        "title": "Raabsuuf kan hojjetame",
+        "text": "Ajaja irraa kaasee hanga kaffaltii, odeeffannoo faayila tokko irraa gara faayila biraatti osoo hin dabarsin."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Oomishaalee, furmaata, industirii...",
+    "lang_filter": "Afaan barbaadi",
+    "intro": "Oomishaalee, furmaata, industirii fi qabeenya barbaadi.",
+    "empty": "Bu’aa “{q}” jedhu hin arganne.",
+    "hint": "Gurgurtaa, mana kuusaa, karaa ykn walitti qabama yaali.",
+    "results": "{n} bu’aa",
+    "button": "Barbaadaa",
+    "kind_product": "Oomisha",
+    "kind_solution": "Furmaata",
+    "kind_industry": "Indaastirii",
+    "kind_resource": "Qabeenya"
+  },
+  "notfound": {
+    "title": "Fuulli kun akkas miti",
+    "text": "Hidhiin hin jiru ykn bakka jijjiireera."
+  },
+  "common": {
+    "what": "Maaltu furmaata",
+    "features": "Maaltu dabalata",
+    "benefits": "Maaliif barbaachisaa ta'e",
+    "for_who": "Eenyutiif?",
+    "related": "Akkasumas sirna ikoo keessatti"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Gurgurtaa har'aa",
+      "orders": "Ajaja",
+      "clients": "Maamiltoota",
+      "products": "Oomishaalee"
+    },
+    "sidebar": {
+      "dashboard": "Daashboordii",
+      "sales": "Gurgurtaa",
+      "purchases": "Bittaa",
+      "inventory": "Eeruu",
+      "clients": "Maamiltoota",
+      "reports": "Gabaasa"
+    },
+    "chart": "Gurgurtaa",
+    "channel": "Raabsa karaa chaanaalii",
+    "channels": [
+      "Kuusuu",
+      "Raabsaa",
+      "Daldalaa Jumlaa",
+      "Kaan"
+    ],
+    "orders": "Ajaja yeroo dhiyoo",
+    "col_order": "Ajajuu",
+    "col_client": "Maamila",
+    "col_status": "Ibsuu",
+    "col_total": "Ida'ama",
+    "status": [
+      "Qaqqabsiise",
+      "Karaa irratti",
+      "Gurraacha"
+    ],
+    "top": "Oomishaalee gurgurtaa olaanaa qaban",
+    "product": "Oomisha",
+    "sales_menu": [
+      "Maamiltoota",
+      "Ajaja",
+      "Oomishaalee",
+      "Daandiiwwan",
+      "Walsimsiisaa"
+    ],
+    "warehouse_menu": [
+      "Simannaa",
+      "Fudhachuu",
+      "Eeruu",
+      "Facaasuu",
+      "Walsimsiisaa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Imaammata Dhuunfaa",
+    "privacy_intro": "Imaammanni kun daataa unkaalee marsariitii kana irratti dhiiftan maal akka goonu ibsa.",
+    "privacy": [
+      {
+        "title": "Daataa akkamii walitti qabna",
+        "text": "Yoo demo gaafattan ykn nuuf barreessitan maqaa, dhaabbata, email, lakkoofsa bilbilaa yoo agarsiiftan, biyya, guddina garee, oomisha fedhii fi ergaa save goona. Akkasumas, guyyaa, afaan fuulaafi teessoo IP galmeessina, kunis akka hin dhiyaanneef."
+      },
+      {
+        "title": "Maaliif itti fayyadamna?",
+        "text": "Daataa kana kan fayyadamnu deebii isiniif kennuuf, demoo qindeessuuf fi piropozaala daldalaa qopheessuuf qofa. Isaan hin gurgurru ykn tarree qaama sadaffaaf hin kenninu."
+      },
+      {
+        "title": "Eessatti fi yeroo hammamiif kuufamu?",
+        "text": "Gaaffiiwwan sarvarii marsariitii kanaa irratti kuufamaniiru. Yeroo isin tajaajiluuf barbaachisu fi hordoffii daldalaaf ni tursina, yeroo isin nu gaafattan ykn yeroo kana booda hin barbaachifnetti haqna."
+      },
+      {
+        "title": "Mirga keessan",
+        "text": "Unka quunnamtii irraa daataa kee akka argatu, akka sirreeffamu ykn akka haqamu gaafachuu dandeessa, ergaa keessatti agarsiistee. Dhaabbatichi marsariitii kana irratti email yoo maxxanse, achittis barreessuu dandeessu."
+      }
+    ],
+    "terms_title": "Haala itti fayyadama",
+    "terms_intro": "Haalawwan kun itti fayyadama marsariitii FullVendor dhiyaannaa kanaa irratti raawwatiinsa qaba.",
+    "terms": [
+      {
+        "title": "Odeeffannoo daldalaa",
+        "text": "Barreeffamoonni, fakkeenya fakkiiwwan daashboordii fi ibsitoonni waltajjii ni beeksisu. Isaanis yeroo oomishni jijjiiramu sirreeffamuu kan danda’an yoo ta’u, dhiyeessii cufame miti."
+      },
+      {
+        "title": "Demo'n kun kontiraata miti",
+        "text": "Unka dhiyeessuun dirqama gatii bitachuu ykn qabachuu hin uumu. Waliigaltee kamiyyuu addaan, barreeffamaan, bal’ina isaa fi haalawwan isaa waliin waliigaltee irra ga’ama."
+      },
+      {
+        "title": "Qabiyyee marsariitii",
+        "text": "Mallattoon daldalaa FullVendor, maqaan oomishaa fi qabiyyeen fuula kanaa kan abbootii qabeenyaa isaaniiti. Oomisha biraa dhiyeessuuf waraabamuu hin danda’an."
+      },
+      {
+        "title": "Fayyadama fudhatama qabu",
+        "text": "Unkaalee odeeffannoo sobaa, spam ykn qabiyyee seeraan alaa galchuuf hin fayyadaminaa. Gaaffiiwwan haasawa daldalaa qabatamaa wajjin wal hin simne tuffachuu dandeenya."
+      }
+    ]
+  }
+}

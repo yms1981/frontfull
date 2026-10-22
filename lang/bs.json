@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Upravljajte i razvijajte svoje poslovanje",
+    "home_desc": "Sve-u-jednom platforma s web i mobilnim rješenjima za distribuciju, prodaju, logistiku, nabavku, zalihe i financije.",
+    "products_title": "Proizvodi | FullVendor",
+    "products_desc": "Upoznajte ekosistem FullVendor: komercijalna platforma, ERP, logistika, dobavljači i prodaja, skladište i aplikacije za finansije.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Rješenja | FullVendor",
+    "solutions_desc": "Rješenja za komercijalni menadžment, prodajne snage, skladište, logistiku, nabavku i finansije.",
+    "industries_title": "Industries | FullVendor",
+    "industries_desc": "FullVendor za distribuciju, maloprodaju, hranu, farmaciju, hardver, masovnu potrošnju, proizvodnju i posljednju milju.",
+    "pricing_title": "Cijene | FullVendor",
+    "pricing_desc": "Osnovni, profesionalni i korporativni planovi. Prijedlog je sastavljen prema modulima, korisnicima i obimu.",
+    "resources_title": "Resursi | FullVendor",
+    "resources_desc": "Kratki vodiči za objedinjavanje distribucije, prodaju van mreže, organizaciju skladišta i isplatu na vrijeme.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Pišite nam da saznate više o FullVendor ili koordinirajte razgovor sa prodajnim timom.",
+    "demo_title": "Zatražite demo | FullVendor",
+    "demo_desc": "Zatražite demo FullVendor i obiđite platformu sa kućištem sličnim vašoj operaciji.",
+    "privacy_title": "Privatnost | FullVendor",
+    "terms_title": "Uslovi | FullVendor",
+    "search_title": "Pretraga | FullVendor",
+    "notfound_title": "Stranica nije pronađena | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Početna stranica",
+    "products": "Proizvodi",
+    "solutions": "Rješenja",
+    "industries": "Industries",
+    "pricing": "Cijene",
+    "resources": "Resursi",
+    "contact": "Kontakt",
+    "open_menu": "Otvorite meni",
+    "close": "Zatvori"
+  },
+  "cta": {
+    "demo": "Zatražite Demo",
+    "contact": "Kontaktirajte nas",
+    "video": "Pogledajte video",
+    "talk": "Razgovarajte sa prodajom",
+    "all_products": "Pogledajte sve proizvode",
+    "home": "Povratak na početnu stranicu"
+  },
+  "a11y": {
+    "skip": "Preskoči na sadržaj",
+    "primary": "Glavna navigacija",
+    "crumbs": "Navigaciona ruta",
+    "search": "Traži",
+    "language": "Jezik"
+  },
+  "hero": {
+    "eyebrow": "Sve na jednoj platformi",
+    "title": "Upravljajte i razvijajte se\nVaš posao sa\n{{brand}}",
+    "subtitle": "Kompletna platforma sa web i mobilnim rješenjima za distribuciju, prodaju, logistiku, nabavku, zalihe, financije i još mnogo toga.",
+    "pill_ecosystem": "Sve u jednom ekosistemu",
+    "pill_cloud": "U oblaku, siguran i skalabilan",
+    "pill_size": "Za kompanije svih veličina"
+  },
+  "products_block": {
+    "eyebrow": "Naši proizvodi",
+    "title": "[[potpuni ekosistem]] za svako područje vašeg poslovanja",
+    "aside": "Integrirana rješenja koja rade zajedno kako bi vam pružili potpunu kontrolu, operativnu efikasnost i veći rast.",
+    "groups": {
+      "money": "Administracija i naplata",
+      "flow": "Kupovina i dostava",
+      "field": "Prodaja i skladište"
+    }
+  },
+  "products_page": {
+    "title": "Sedam proizvoda, [[jedna operacija]]",
+    "text": "Svaki proizvod rješava određeno područje. Zajedno dijele kupce, zalihe, narudžbe i plaćanja."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Glavna platforma za komercijalno upravljanje i distribuciju.",
+      "features": [
+        "Prodaja i kupovina",
+        "Inventar",
+        "Klijenti i dobavljači",
+        "Izvještaji i još mnogo toga"
+      ],
+      "lead": "Centar vašeg komercijalnog poslovanja: narudžbe, cijene, zalihe i kupci na jednom mjestu.",
+      "about": "FullVendor zamjenjuje labave tabele i sisteme distributera. Odavde izlaze narudžbe, vrši se konsultacija sa zalihama, vodi se računa o portfoliju kupaca i gledaju se dnevni brojevi. Ostatak ekosistema se povezuje sa ovom bazom.",
+      "benefits": [
+        {
+          "title": "Jedan master podataka",
+          "text": "Kupci, proizvodi i cijene se dijele s prodajom, skladištem i financijama."
+        },
+        {
+          "title": "Jasan dnevni rad",
+          "text": "Narudžbe, kupovine i zalihe prestaju da žive u različitim fajlovima."
+        },
+        {
+          "title": "Izvještaji da se odluči",
+          "text": "Prodaja, marža i čekanje se vide bez ručnog sastavljanja tabele."
+        },
+        {
+          "title": "Spremni za rast",
+          "text": "Logistika, prodajna snaga ili ERP sume kada operacija to zahtijeva."
+        }
+      ],
+      "audience": "Komercijalni i distributivni timovi koji danas koordiniraju poslovanje između nekoliko sistema."
+    },
+    "erp": {
+      "kicker": "Administracija",
+      "card": "Kompletno administrativno i finansijsko upravljanje.",
+      "features": [
+        "Računovodstvo",
+        "Elektronski obračun",
+        "Radni listovi",
+        "Osnovna sredstva",
+        "Više kompanija"
+      ],
+      "lead": "Administracija i finansije, usklađeni sa onim što se stvarno prodaje i isporučuje.",
+      "about": "FullVendor ERP pokriva računovodstvo, elektronsko fakturisanje, platne spiskove, osnovna sredstva i više kompanija. Uzima komercijalnu operaciju i pretvara je u unose, priznanice i izvode koje finansijska oblast može koristiti.",
+      "benefits": [
+        {
+          "title": "Povezano računovodstvo",
+          "text": "Ono što se dešava u prodaji i kupovini hrani računovodstvo."
+        },
+        {
+          "title": "Elektronski računi",
+          "text": "Vi izdajete i kontrolišete naplatu iz istog ekosistema."
+        },
+        {
+          "title": "Razne kompanije",
+          "text": "Više kompanija za grupe koje posluju pod više od jednog naziva kompanije."
+        },
+        {
+          "title": "Platni spiskovi i imovina",
+          "text": "Plate i osnovna sredstva zajedno sa ostatkom uprave."
+        }
+      ],
+      "audience": "Administrativne i finansijske oblasti koje žele da zatvore brojke sa realnim poslovanjem."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Kontrola i praćenje vašeg logističkog poslovanja.",
+      "features": [
+        "Rute i isporuke",
+        "Praćenje u realnom vremenu",
+        "Zadatak vozača",
+        "Optimizacija rute"
+      ],
+      "lead": "Od narudžbe do isporuke: rute, vozači i praćenje u realnom vremenu.",
+      "about": "FullVendor Logistics organizuje distribuciju. Vi kreirate rute, dodjeljujete vozače i vidite kuda svaka isporuka ide. Saobraćajni tim se zaustavlja ovisno o pozivima kako bi saznao da li je narudžba poslana.",
+      "benefits": [
+        {
+          "title": "Rute dana",
+          "text": "Isporuke raspoređene po zoni, vremenskom okviru i kapacitetu."
+        },
+        {
+          "title": "Dodijeljeni vozač",
+          "text": "Svaka ruta ima odgovornu osobu i jasan redoslijed."
+        },
+        {
+          "title": "Praćenje",
+          "text": "Znate šta je isporučeno, na putu ili zaustavljeno."
+        },
+        {
+          "title": "Manje kilometara",
+          "text": "Optimizacija rute smanjuje vrijeme isporuke i troškove."
+        }
+      ],
+      "audience": "Distribucijski poslovi sa vlastitom flotom ili trećim licima."
+    },
+    "supplier": {
+      "kicker": "Kupovina",
+      "card": "Portal za dobavljače i upravljanje nabavom.",
+      "features": [
+        "Narudžbenice",
+        "Citati",
+        "Upravljanje dobavljačima",
+        "Integracija sa inventarom"
+      ],
+      "lead": "Vaši dobavljači citiraju, primaju narudžbe i dopunjuju zalihe bez labavih e-poruka.",
+      "about": "Vendor Supplier otvara portal za kupovinu i dobavljače za rad na istim porudžbinama. Ponude, narudžbenice i računi su vezani za inventar iz FullVendor.",
+      "benefits": [
+        {
+          "title": "Narudžbe u kanalu",
+          "text": "Dobavljač vidi šta da isporuči, bez lanca e-pošte."
+        },
+        {
+          "title": "Uporedivi citati",
+          "text": "Pitate za cijene i birate s pregledom istorije."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Uslovi, kontakti i na čekanju u jednom zapisu."
+        },
+        {
+          "title": "Unesite inventar",
+          "text": "Ono što je kupljeno odražava se na zalihama kada je primljeno."
+        }
+      ],
+      "audience": "Timovi za nabavku koji se popunjavaju s nekoliko dobavljača i trebaju sljedivost."
+    },
+    "salesman": {
+      "kicker": "Mobilna aplikacija",
+      "card": "Mobilna aplikacija za prodajni tim.",
+      "features": [
+        "Upravljanje kupcima",
+        "Primanje narudžbi",
+        "Katalog proizvoda",
+        "Offline rad"
+      ],
+      "lead": "Prodajna jedinica prima narudžbe na ulici, sa ili bez signala.",
+      "about": "FullVendor Sales Man stavlja vaš portfolio, katalog i narudžbine na telefon prodavca. Ako nema interneta, posao se nastavlja i sinhronizuje kada se signal vrati. Narudžba stiže spremna za pripremu i isporuku.",
+      "benefits": [
+        {
+          "title": "Novčanik u džepu",
+          "text": "Prodavac vidi klijente, uslove i stavke na čekanju."
+        },
+        {
+          "title": "Naručite prilikom posjete",
+          "text": "Preuzmi narudžbu sa trenutnim cijenama i zalihama."
+        },
+        {
+          "title": "Katalog ažuran",
+          "text": "Proizvodi, prezentacije i cijene bez starog PDF-a."
+        },
+        {
+          "title": "Real offline",
+          "text": "Radite bez pokrivenosti i sinhronizujte kasnije."
+        }
+      ],
+      "audience": "Supervizori i terenski prodavci u distribuciji i masovnoj potrošnji."
+    },
+    "warehouse": {
+      "kicker": "Mobilna aplikacija",
+      "card": "Mobilna aplikacija za skladište.",
+      "features": [
+        "Prijem i otprema",
+        "Sakupljanje i pakovanje",
+        "Kontrola zaliha",
+        "Čitanje bar koda"
+      ],
+      "lead": "Prijem, preuzimanje i otprema sa telefonom i bar kodom.",
+      "about": "FullVendor Warehouse vodi skladište u prijemu, preuzimanju, pakovanju i otpremi. Čitanje kodova smanjuje greške i zalihe se više ne broje samo na kraju mjeseca.",
+      "benefits": [
+        {
+          "title": "Prijem protiv naredbe",
+          "text": "Ono što uđe upoređuje se sa kupovinom."
+        },
+        {
+          "title": "Ciljano branje",
+          "text": "Brodar prati narudžbu i potvrđuje svaku stavku."
+        },
+        {
+          "title": "Bar kodovi",
+          "text": "Manje grešaka u proizvodu, seriji ili količini."
+        },
+        {
+          "title": "Pouzdana zaliha",
+          "text": "Svaki potez ažurira inventar platforme."
+        }
+      ],
+      "audience": "Voditelji skladišta i brodovlasnici koji danas pripremaju narudžbe sa štampanim listama."
+    },
+    "finance": {
+      "kicker": "Mobilna aplikacija",
+      "card": "Finansijska kontrola sa vašeg mobilnog telefona.",
+      "features": [
+        "Potraživanja i obaveze",
+        "Status korisnika",
+        "Isplate i usaglašavanja",
+        "Finansijski izvještaji"
+      ],
+      "lead": "Potraživanja, uplate i status korisnika, sa vašeg telefona.",
+      "about": "FullVendor Finance prikazuje naplatu na mobilnom: šta svaki klijent duguje, šta će kompanija platiti i kako dolazi do plaćanja. Služi za prikupljanje novca tokom posjete i gledanje u kasu bez otvaranja stola.",
+      "benefits": [
+        {
+          "title": "Preuzimanje u posjeti",
+          "text": "Prodavac prije prodaje zna da li je kupac u toku."
+        },
+        {
+          "title": "Potraživanje i plaćanje",
+          "text": "Obje strane kutije u istoj aplikaciji."
+        },
+        {
+          "title": "Isplate i usaglašavanja",
+          "text": "Registrirate kredite i vidite šta treba preći."
+        },
+        {
+          "title": "Izveštaji pri ruci",
+          "text": "Indikatori naplate i gotovine bez čekanja na zatvaranje."
+        }
+      ],
+      "audience": "Menadžeri, sakupljači i prodavci kojima je trenutno potrebna situacija klijenta."
+    }
+  },
+  "why": {
+    "eyebrow": "Zašto FullVendor",
+    "title": "Poboljšajte svoje poslovanje\nsa stvarnim rezultatima",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kompanije nam vjeruju"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktivni korisnici"
+      },
+      {
+        "value": "+10",
+        "suffix": "godine",
+        "label": "U stalnoj evoluciji"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Dostupnost u oblaku"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kako to radi",
+    "title": "Od prodaje do preuzimanja, bez promjene sistema",
+    "text": "Svaki proizvod dijeli kupce, zalihe, narudžbe i plaćanja. Ono što se dešava na ulici ili u skladištu odmah se pojavljuje u kancelariji.",
+    "steps": {
+      "sell": {
+        "title": "Vi prodajete",
+        "text": "Nalog se unosi preko web stranice ili preko Sales Man, čak i bez signala."
+      },
+      "pick": {
+        "title": "Spreman",
+        "text": "Warehouse prima, odvaja i šalje sa bar kodom."
+      },
+      "deliver": {
+        "title": "Isporuke",
+        "text": "Logistics dodjeljuje rutu i prati isporuku."
+      },
+      "collect": {
+        "title": "Kobre",
+        "text": "Finance i ERP zatvaraju naplatu, račune i brojeve."
+      }
+    }
+  },
+  "band": {
+    "title": "Jeste li spremni vidjeti to sa [[vaša operacija]]?",
+    "text": "Pokazujemo vam ekosistem sa slučajem distribucije sličnim vašem."
+  },
+  "footer": {
+    "blurb": "Web i mobilna platforma za distribuciju, prodaju, logistiku, nabavku, zalihe i financije.",
+    "products": "Proizvodi",
+    "company": "Kompanija",
+    "legal": "Pravni",
+    "privacy": "Privatnost",
+    "terms": "Uslovi",
+    "rights": "Sva prava pridržana."
+  },
+  "solutions": {
+    "eyebrow": "Rješenja",
+    "title": "Svako područje, povezano na [[ista operacija]]",
+    "intro": "Odaberite prema problemu koji želite riješiti. Iza, proizvodi dijele iste informacije.",
+    "items": {
+      "commercial": {
+        "title": "Komercijalni menadžment",
+        "text": "Narudžbe, cijene, kupci i zalihe za svakodnevnu distribuciju."
+      },
+      "field": {
+        "title": "prodajna snaga",
+        "text": "Prodavci primaju narudžbe na ulici, online ili offline."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Prijem, komisioniranje, otprema i zalihe u koje se može vjerovati."
+      },
+      "logistics": {
+        "title": "Logistika i dostava",
+        "text": "Rute, vozači i status svake isporuke."
+      },
+      "purchasing": {
+        "title": "Nabavka i dobavljači",
+        "text": "Ponude, narudžbe i portal za svakoga ko vas snabdijeva."
+      },
+      "finance": {
+        "title": "Finansije i računovodstvo",
+        "text": "Naplate, plaćanja, elektronski obračun i računovodstvo."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "Napravljen za one koji [[premeštaju proizvod]]",
+    "intro": "FullVendor je rođen u distribuciji i prati kompanije koje kupuju, skladište, prodaju i isporučuju.",
+    "items": {
+      "wholesale": {
+        "title": "Distribucija i veleprodaja",
+        "text": "Cenovnici, portfolio, distribucija i naplata u jednom krugu."
+      },
+      "retail": {
+        "title": "Maloprodaja",
+        "text": "Prodavnica i skladište sa povezanim zalihama, prodajom i dopunom."
+      },
+      "food": {
+        "title": "Hrana i piće",
+        "text": "Česte rute i skladište koje ne može stati."
+      },
+      "pharma": {
+        "title": "Farmacija i lična njega",
+        "text": "Prijem, komisioniranje i kontrola zaliha sa sljedivosti."
+      },
+      "hardware": {
+        "title": "Hardver i konstrukcija",
+        "text": "Mnogo referenci, dobavljača i dostave na posao ili radnju."
+      },
+      "fmcg": {
+        "title": "Masovna potrošnja",
+        "text": "Ulična prodajna snaga i zamjena sa velikim prometom."
+      },
+      "manufacturing": {
+        "title": "Manufacture",
+        "text": "Nabavka, skladištenje i inventar usklađeni sa administracijom."
+      },
+      "lastmile": {
+        "title": "Dostava i zadnja milja",
+        "text": "Rute, vozači i status svake isporuke."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resursi",
+    "title": "Jasne ideje za [[naručite operaciju]]",
+    "intro": "Kratki vodiči za menadžere distribucije koji će odlučiti kojeg sistema da se drže.",
+    "items": {
+      "unify": {
+        "title": "Kako objediniti distribuciju u jedinstven sistem",
+        "summary": "Šta prvo sastaviti kada prodaja, skladište i kolekcije žive u različitim datotekama.",
+        "points": [
+          "Počnite s kupcima, proizvodima i cijenama: oni su učitelj kojeg svi koriste.",
+          "Povežite narudžbu sa zalihama prije dodavanja još aplikacija.",
+          "Mjeri jednostavan broj: narudžbe ispunjene bez ponovne izrade obrasca."
+        ]
+      },
+      "offline": {
+        "title": "Prodajna snaga radi van mreže",
+        "summary": "Šta zahtijevati od aplikacije za naručivanje da prodavač ne stane zbog signala.",
+        "points": [
+          "Katalog i novčanik moraju biti na telefonu, a ne samo u oblaku.",
+          "Narudžba se pohranjuje na uređaju i učitava kada se mreža vrati.",
+          "Prilikom sinhronizacije narudžba već ulazi u skladište."
+        ]
+      },
+      "warehouse": {
+        "title": "Magacin sa bar kodom, bez papira",
+        "summary": "Kako sa štampane liste preći na potvrđeno biranje na telefonu.",
+        "points": [
+          "Primite protiv narudžbenice, a ne protiv memorije.",
+          "Potvrdite svaku stavku prilikom odvajanja. Buba se useca u hodnik.",
+          "Otprema se ažurira zaliha koju vidi prodavac."
+        ]
+      },
+      "finance": {
+        "title": "Kolekcija usklađena sa prodajom",
+        "summary": "Zašto prodavac treba da vidi dug kupca pre nego što preuzme drugu narudžbu.",
+        "points": [
+          "Posjeta je najbolje vrijeme za naplatu, ako je dug vidljiv.",
+          "Prodaja i finansije moraju gledati na istog kupca.",
+          "Dnevni izvještaj sa kašnjenjem vrijedi više od kasnog zatvaranja."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Cijene",
+    "title": "Ekosistem koji [[raste s vama]]",
+    "intro": "Ne objavljujemo generičku cijenu: cijena ovisi o modulima, korisnicima i količini. Pokazujemo vam platformu i sastavljamo prijedlog za vašu operaciju.",
+    "note": "Demo je besplatan i ne zahtijeva ugovor.",
+    "recommended": "Preporučeno",
+    "faq_title": "Često postavljana pitanja",
+    "plans": {
+      "essential": {
+        "name": "Essential",
+        "desc": "Organizirati komercijalno upravljanje i distribuciju na jednoj platformi.",
+        "features": [
+          "FullVendor web platforma",
+          "Prodaja, kupovina i zalihe",
+          "Klijenti, dobavljači i izvještaji",
+          "Korisnici kancelarijske opreme",
+          "Podrška za pokretanje"
+        ],
+        "cta": "Zatražite Demo"
+      },
+      "professional": {
+        "name": "Profesionalno",
+        "desc": "Za timove koji prodaju na ulici i pripremaju porudžbine u magacinu.",
+        "features": [
+          "Everything Essential",
+          "Aplikacija FullVendor Sales Man",
+          "Aplikacija FullVendor Warehouse",
+          "Offline rad i bar kodovi",
+          "Više korisnika terena i skladišta"
+        ],
+        "cta": "Zatražite Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Za grupe kojima je potrebna logistika, nabavka, finansije i razne kompanije.",
+        "features": [
+          "Kompletan ekosistem",
+          "Logistics, Vendor Supplier i Finance",
+          "FullVendor ERP i višestanarstvo",
+          "Elektronski obračun i računovodstvo",
+          "Pratnja i prioritetna dostupnost"
+        ],
+        "cta": "Razgovarajte sa prodajom"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Moram li kupiti sve proizvode?",
+        "a": "Ne. Možete početi sa FullVendor i dodati aplikacije ili ERP kada je to potrebno za operaciju."
+      },
+      "offline": {
+        "q": "Da li aplikacije rade bez interneta?",
+        "a": "Sales Man i Warehouse nastavljaju da rade bez signala i sinhronizuju se prilikom ponovnog povezivanja."
+      },
+      "multi": {
+        "q": "Da li radi ako imam više kompanija?",
+        "a": "Da. ERP razmatra multi-kompaniju i ekosistem može dijeliti gospodare između njih."
+      },
+      "demo": {
+        "q": "Šta uključuje demo?",
+        "a": "Obilazak platforme sa kućištem sličnim vašem. Bez troškova i bez obaveza."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Pokazujemo vam FullVendor sa [[vaša vrsta operacije]]",
+    "text": "Recite nam nešto o vašoj kompaniji i šta prvo želite da naručite. Demo je besplatan."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Hajde da razgovaramo o [[vašoj operaciji]]",
+    "text": "Ako želite demo, prijedlog ili samo da se orijentirate između proizvoda, ostavite svoje podatke i mi ćemo odgovoriti.",
+    "email": "Mail",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ime",
+    "email": "Mail",
+    "phone": "Telefon",
+    "company": "Kompanija",
+    "country": "Država",
+    "team": "Veličina tima",
+    "interest": "šta te zanima?",
+    "message": "Poruka",
+    "optional": "Opciono",
+    "choose": "Odaberite",
+    "interest_all": "Cijeli ekosistem",
+    "ph_name": "tvoje ime",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Vaša kompanija",
+    "ph_country": "Država",
+    "ph_message": "Recite nam kako danas radite",
+    "privacy_before": "Prihvatam korištenje mojih podataka u skladu sa",
+    "privacy_after": ".",
+    "submit": "Pošaljite zahtjev",
+    "sent_title": "Primili smo vaš zahtjev",
+    "sent_text": "Hvala. Prodajni tim će vam pisati kako biste koordinirali demonstraciju ili odgovorili na vaše pitanje.",
+    "error_required": "Popunite ovo polje.",
+    "error_email": "Unesite važeći email.",
+    "error_phone": "Provjerite telefon.",
+    "error_privacy": "Potrebna nam je vaša saglasnost za korištenje kontakt podataka.",
+    "error_csrf": "Sjednica je istekla. Ponovo pošaljite obrazac.",
+    "error_save": "Nismo uspjeli sačuvati zahtjev. Pokušajte ponovo.",
+    "error_generic": "Pregledajte označena polja.",
+    "error_rate": "Molimo pričekajte trenutak prije podnošenja drugog zahtjeva.",
+    "team_options": {
+      "1-10": "1 do 10 osoba",
+      "11-50": "11 do 50 ljudi",
+      "51-200": "51 do 200 ljudi",
+      "201-500": "201 do 500 ljudi",
+      "500+": "Više od 500 ljudi"
+    }
+  },
+  "video": {
+    "title": "FullVendor u jednom minutu",
+    "prev": "Bivši",
+    "next": "Praćenje",
+    "slides": [
+      {
+        "title": "Jedan ekosistem",
+        "text": "Prodaja, skladište, isporuka, nabavka i finansije dijele kupce, zalihe i narudžbe."
+      },
+      {
+        "title": "Web i mobilni zajedno",
+        "text": "Ured radi na platformi. Ulica i skladište, u aplikacijama, čak i bez signala."
+      },
+      {
+        "title": "Napravljeno za distribuciju",
+        "text": "Od narudžbe do plaćanja, bez prenošenja informacija iz jednog fajla u drugi."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Tražite proizvode, rješenja, industrije…",
+    "lang_filter": "Traži jezik",
+    "intro": "Pretražite proizvode, rješenja, industrije i resurse.",
+    "empty": "Nismo pronašli rezultate za “{q}”.",
+    "hint": "Isprobajte prodaju, skladište, rute ili prikupljanje.",
+    "results": "{n} rezultati",
+    "button": "Traži",
+    "kind_product": "Proizvod",
+    "kind_solution": "Rješenje",
+    "kind_industry": "Industrija",
+    "kind_resource": "Resurs"
+  },
+  "notfound": {
+    "title": "Ova stranica nije",
+    "text": "Veza ne postoji ili je promijenila lokaciju."
+  },
+  "common": {
+    "what": "Šta rešava",
+    "features": "Šta je uključeno",
+    "benefits": "Zašto je važno",
+    "for_who": "Za koga je?",
+    "related": "Takođe u ekosistemu"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Rasprodaja danas",
+      "orders": "Naredbe",
+      "clients": "Kupci",
+      "products": "Proizvodi"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Prodaja",
+      "purchases": "Kupovina",
+      "inventory": "Inventar",
+      "clients": "Kupci",
+      "reports": "Izvještaji"
+    },
+    "chart": "Prodaja",
+    "channel": "Distribucija po kanalima",
+    "channels": [
+      "Store",
+      "Distribucija",
+      "Veletrgovac",
+      "Drugi"
+    ],
+    "orders": "Najnovije narudžbe",
+    "col_order": "Red",
+    "col_client": "Kupac",
+    "col_status": "Država",
+    "col_total": "Ukupno",
+    "status": [
+      "Isporučeno",
+      "Na putu",
+      "Naušnice"
+    ],
+    "top": "Najprodavaniji proizvodi",
+    "product": "Proizvod",
+    "sales_menu": [
+      "Kupci",
+      "Naredbe",
+      "Proizvodi",
+      "Rute",
+      "Sinhronizuj"
+    ],
+    "warehouse_menu": [
+      "Prijem",
+      "Branje",
+      "Inventar",
+      "Otpremanje",
+      "Sinhronizuj"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politika privatnosti",
+    "privacy_intro": "Ova politika objašnjava šta radimo s podacima koje ostavite u obrascima na ovoj stranici.",
+    "privacy": [
+      {
+        "title": "Koje podatke prikupljamo",
+        "text": "Ako zatražite demo ili nam pišete, čuvamo ime, kompaniju, e-mail, broj telefona ako ga navedete, državu, veličinu tima, proizvod od interesa i poruku. Također bilježimo datum, jezik stranice i IP adresu, kako bismo spriječili uvredljive prijave."
+      },
+      {
+        "title": "Za šta ih koristimo?",
+        "text": "Koristimo ove podatke samo da Vam odgovorimo, koordiniramo demo i pripremimo komercijalni prijedlog. Ne prodajemo ih niti dajemo na listu trećih lica."
+      },
+      {
+        "title": "Gdje se čuvaju i koliko dugo?",
+        "text": "Zahtjevi su pohranjeni na serveru ove stranice. Čuvamo ih onoliko koliko je potrebno da vam služe i komercijalno praćenje, a brišemo ih kada to zatražite ili kada više nisu potrebni."
+      },
+      {
+        "title": "Vaša prava",
+        "text": "Možete zatražiti pristup, ispravku ili brisanje vaših podataka putem kontakt forme, navodeći to u poruci. Ako kompanija objavi email na ovoj web stranici, možete i tamo pisati."
+      }
+    ],
+    "terms_title": "Uslovi korištenja",
+    "terms_intro": "Ovi uslovi se primenjuju na korišćenje ovog sajta za podnošenje FullVendor.",
+    "terms": [
+      {
+        "title": "Komercijalne informacije",
+        "text": "Tekstovi, primjeri slika na kontrolnoj tabli i opisi predstavljaju platformu. Mogu se prilagoditi kada se proizvod promijeni i nisu zatvorena ponuda."
+      },
+      {
+        "title": "Demo nije ugovor",
+        "text": "Podnošenje obrasca ne stvara obavezu kupovine ili rezervisanja cijene. Svaki ugovor se dogovara posebno, u pisanoj formi, sa njegovim obimom i uslovima."
+      },
+      {
+        "title": "Sadržaj stranice",
+        "text": "Zaštitni znak FullVendor, nazivi proizvoda i sadržaj ovih stranica pripadaju njihovim vlasnicima. Ne mogu se kopirati za predstavljanje drugog proizvoda."
+      },
+      {
+        "title": "Prihvatljiva upotreba",
+        "text": "Nemojte koristiti formulare za slanje lažnih informacija, neželjene pošte ili nezakonitog sadržaja. Možemo zanemariti zahtjeve koji ne odgovaraju stvarnom poslovnom razgovoru."
+      }
+    ]
+  }
+}

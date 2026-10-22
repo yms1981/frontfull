@@ -1,6 +1,5 @@
 Options -Indexes
 RewriteEngine On
-RewriteBase /
 
 RewriteRule ^(?:includes|storage|lang|pages|\.tools)(?:/|$) - [F,L]
 

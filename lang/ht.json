@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Jere ak grandi biznis ou",
+    "home_desc": "Platfòm tout-an-yon ak solisyon entènèt ak mobil pou distribisyon, lavant, lojistik, achte, envantè ak finans.",
+    "products_title": "Pwodwi | FullVendor",
+    "products_desc": "Jwenn konnen ekosistèm nan FullVendor: platfòm komèsyal, ERP, lojistik, founisè ak lavant, depo ak aplikasyon finans.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solisyon | FullVendor",
+    "solutions_desc": "Solisyon pou jesyon komèsyal, fòs lavant, depo, lojistik, acha ak finans.",
+    "industries_title": "Endistri | FullVendor",
+    "industries_desc": "FullVendor pou distribisyon, an detay, manje, famasi, pyès ki nan konpitè, konsomasyon an mas, fabrikasyon ak dènye mil.",
+    "pricing_title": "Pri | FullVendor",
+    "pricing_desc": "Plan esansyèl, pwofesyonèl ak antrepriz. Pwopozisyon an mete ansanm selon modil, itilizatè yo ak volim.",
+    "resources_title": "Resous | FullVendor",
+    "resources_desc": "Gid kout pou inifye distribisyon, vann offline, òganize depo a epi jwenn peye alè.",
+    "contact_title": "Kontakte | FullVendor",
+    "contact_desc": "Ekri nou pou aprann sou FullVendor oswa kowòdone yon konvèsasyon ak ekip lavant lan.",
+    "demo_title": "Mande Demo | FullVendor",
+    "demo_desc": "Mande yon demonstrasyon nan FullVendor epi vizite platfòm la ak yon ka ki sanble ak operasyon ou.",
+    "privacy_title": "Konfidansyalite | FullVendor",
+    "terms_title": "Regleman | FullVendor",
+    "search_title": "Rechèch | FullVendor",
+    "notfound_title": "Paj pa jwenn | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Paj lakay",
+    "products": "Pwodwi yo",
+    "solutions": "Solisyon",
+    "industries": "Endistri yo",
+    "pricing": "Pri",
+    "resources": "Resous",
+    "contact": "Kontakte",
+    "open_menu": "Louvri meni",
+    "close": "Fèmen"
+  },
+  "cta": {
+    "demo": "Mande Demo",
+    "contact": "Kontakte nou",
+    "video": "Gade Videyo",
+    "talk": "Pale ak lavant yo",
+    "all_products": "Gade tout pwodwi yo",
+    "home": "Retounen nan paj lakay"
+  },
+  "a11y": {
+    "skip": "Ale nan kontni",
+    "primary": "Navigasyon prensipal la",
+    "crumbs": "Wout navigasyon",
+    "search": "Chèche pou",
+    "language": "Lang"
+  },
+  "hero": {
+    "eyebrow": "Tout nan yon sèl platfòm",
+    "title": "Jere ak grandi\nbiznis ou ak\n{{brand}}",
+    "subtitle": "Yon platfòm konplè ak solisyon entènèt ak mobil pou distribisyon, lavant, lojistik, acha, envantè, finans ak plis ankò.",
+    "pill_ecosystem": "Tout bagay nan yon sèl ekosistèm",
+    "pill_cloud": "Nan nwaj la, an sekirite ak évolutive",
+    "pill_size": "Pou konpayi tout gwosè"
+  },
+  "products_block": {
+    "eyebrow": "Pwodwi nou yo",
+    "title": "Yon [[ekosistèm konplè]] pou chak zòn nan biznis ou",
+    "aside": "Solisyon entegre ki travay ansanm pou ba ou kontwòl total, efikasite operasyonèl ak pi gwo kwasans.",
+    "groups": {
+      "money": "Administrasyon ak koleksyon",
+      "flow": "Acha ak livrezon",
+      "field": "Komèsyal ak depo"
+    }
+  },
+  "products_page": {
+    "title": "Sèt pwodwi, [[sèl operasyon]]",
+    "text": "Chak pwodwi rezoud yon zòn. Ansanm yo pataje kliyan, stock, lòd ak peman."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platfòm",
+      "card": "Platfòm prensipal pou jesyon komèsyal ak distribisyon.",
+      "features": [
+        "Lavant ak acha",
+        "Envantè",
+        "Kliyan ak founisè",
+        "Rapò ak plis ankò"
+      ],
+      "lead": "Sant operasyon komèsyal ou a: lòd, pri, stock ak kliyan nan yon sèl kote.",
+      "about": "FullVendor ranplase fèy calcul ki lach ak sistèm distribitè yo. Soti isit la lòd soti, envantè yo konsilte, pòtfolyo kliyan yo pran swen ak nimewo jounen an yo gade. Rès ekosistèm lan konekte ak baz sa a.",
+      "benefits": [
+        {
+          "title": "Yon mèt done sèl",
+          "text": "Kliyan, pwodwi ak pri yo pataje ak lavant, depo ak finans."
+        },
+        {
+          "title": "Klè operasyon chak jou",
+          "text": "Lòd, acha ak stock sispann viv nan dosye diferan."
+        },
+        {
+          "title": "Rapò pou deside",
+          "text": "Komèsyal, maj ak annatant yo wè san yo pa mete ansanm yon tab alamen."
+        },
+        {
+          "title": "Pare pou grandi",
+          "text": "Lojistik, fòs lavant oswa ERP sòm lajan lè operasyon an mande li."
+        }
+      ],
+      "audience": "Komèsyal ak ekip distribisyon ki jodi a kowòdone biznis la ant plizyè sistèm."
+    },
+    "erp": {
+      "kicker": "Administrasyon",
+      "card": "Ranpli jesyon administratif ak finansye.",
+      "features": [
+        "Kontablite",
+        "Faktirasyon elektwonik",
+        "Fèy travay",
+        "Byen fiks",
+        "Multi-konpayi"
+      ],
+      "lead": "Administrasyon ak finans, ki aliyen ak sa ki aktyèlman vann ak delivre.",
+      "about": "FullVendor ERP kouvri kontablite, faktur elektwonik, pewòl, byen fiks ak milti-konpayi. Li pran operasyon komèsyal la ak konvèti li nan antre, resi ak deklarasyon ke zòn finansye a ka itilize.",
+      "benefits": [
+        {
+          "title": "Konekte kontablite",
+          "text": "Kisa k ap pase nan lavant ak acha manje kontablite."
+        },
+        {
+          "title": "Resi elektwonik",
+          "text": "Ou bay ak kontwole bòdwo nan menm ekosistèm nan."
+        },
+        {
+          "title": "Divès konpayi yo",
+          "text": "Multi-konpayi pou gwoup ki opere anba plis pase yon non konpayi."
+        },
+        {
+          "title": "Pewòl ak byen",
+          "text": "Pewòl ak byen fiks ansanm ak rès la nan jesyon an."
+        }
+      ],
+      "audience": "Zòn administratif ak finansye ki vle fèmen nimewo yo ak operasyon reyèl la."
+    },
+    "logistics": {
+      "kicker": "Lojistik",
+      "card": "Kontwòl ak siveyans operasyon lojistik ou.",
+      "features": [
+        "Wout ak livrezon",
+        "Suivi an tan reyèl",
+        "Plasman chofè",
+        "Optimize wout"
+      ],
+      "lead": "Soti nan lòd rive nan livrezon: wout, chofè ak swiv an tan reyèl.",
+      "about": "FullVendor Logistics òganize distribisyon an. Ou kreye wout, bay chofè epi wè kote chak livrezon prale. Ekip trafik la sispann depann sou apèl yo chèche konnen si lòd la te anbake.",
+      "benefits": [
+        {
+          "title": "Wout jounen an",
+          "text": "Livrezon òdone pa zòn, fenèt tan ak kapasite."
+        },
+        {
+          "title": "Chofè plase",
+          "text": "Chak wout gen yon moun ki an chaj ak yon sekans klè."
+        },
+        {
+          "title": "Suivi",
+          "text": "Ou konnen sa ki delivre, sou wout la oswa sispann."
+        },
+        {
+          "title": "Mwens kilomèt",
+          "text": "Optimize wout diminye tan livrezon ak pri."
+        }
+      ],
+      "audience": "Operasyon distribisyon ak pwòp flòt oswa twazyèm pati."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Pòtal pou founisè ak jesyon acha.",
+      "features": [
+        "Acha lòd",
+        "Quotes",
+        "Jesyon founisè",
+        "Entegrasyon ak envantè"
+      ],
+      "lead": "Swèd ou site, resevwa lòd ak ranplir stock san imèl ki lach.",
+      "about": "Vendor Supplier louvri yon pòtal pou acha ak founisè yo travay sou menm lòd yo. Quotes yo, lòd acha ak resi yo mare nan envantè a nan FullVendor.",
+      "benefits": [
+        {
+          "title": "Lòd nan yon chanèl",
+          "text": "Founisè a wè sa pou l delivre, san yon chèn imel."
+        },
+        {
+          "title": "Sitasyon konparab",
+          "text": "Ou mande pou pri epi chwazi ak istwa a nan vi."
+        },
+        {
+          "title": "Mèt Founisè",
+          "text": "Kondisyon, kontak ak annatant nan yon sèl dosye."
+        },
+        {
+          "title": "Antre envantè a",
+          "text": "Ki sa ki te achte a reflete nan stock la lè yo resevwa li."
+        }
+      ],
+      "audience": "Ekip acha ki ranplir ak plizyè founisè epi ki bezwen trasabilite."
+    },
+    "salesman": {
+      "kicker": "Aplikasyon mobil",
+      "card": "Aplikasyon mobil pou ekip lavant.",
+      "features": [
+        "Jesyon kliyan",
+        "Pran lòd",
+        "Katalòg pwodwi",
+        "Travay offline"
+      ],
+      "lead": "Fòs lavant la pran lòd nan lari a, avèk oswa san yon siyal.",
+      "about": "FullVendor Sales Man mete pòtfolyo ou, katalòg ak pran lòd ou sou telefòn vandè a. Si pa gen entènèt, travay la ap kontinye ak senkronize lè siyal la retounen. Lòd la rive pare pou prepare ak delivre.",
+      "benefits": [
+        {
+          "title": "Bous nan pòch",
+          "text": "Vandè a wè kliyan, kondisyon ak atik annatant."
+        },
+        {
+          "title": "Lòd nan vizit",
+          "text": "Pran lòd la ak pri aktyèl yo ak stock."
+        },
+        {
+          "title": "Katalòg ajou",
+          "text": "Pwodwi, prezantasyon ak pri san yon ansyen PDF."
+        },
+        {
+          "title": "Imobilye offline",
+          "text": "Travay san pwoteksyon epi senkronize pita."
+        }
+      ],
+      "audience": "Sipèvizè ak vandè jaden nan distribisyon ak konsomasyon an mas."
+    },
+    "warehouse": {
+      "kicker": "Aplikasyon mobil",
+      "card": "Aplikasyon mobil pou depo.",
+      "features": [
+        "Resepsyon ak dispatch",
+        "Davwa ak anbalaj",
+        "Kontwòl envantè",
+        "Lekti Barcode"
+      ],
+      "lead": "Resepsyon, davwa ak livrezon ak telefòn ak kòd bar.",
+      "about": "FullVendor Warehouse gide depo a nan resepsyon, davwa, anbalaj ak livrezon. Lekti kòd diminye erè ak envantè yo pa konte sèlman nan fen mwa a.",
+      "benefits": [
+        {
+          "title": "Resepsyon kont lòd",
+          "text": "Sa ki antre se konpare ak acha a."
+        },
+        {
+          "title": "Chwazi vize",
+          "text": "Pwopriyetè bato a swiv lòd la epi konfime chak atik."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Mwens erè pwodwi, pakèt oswa kantite."
+        },
+        {
+          "title": "Stock serye",
+          "text": "Chak mouvman mete ajou envantè platfòm la."
+        }
+      ],
+      "audience": "Manadjè depo ak pwopriyetè bato ki jodi a prepare lòd ak lis enprime."
+    },
+    "finance": {
+      "kicker": "Aplikasyon mobil",
+      "card": "Kontwòl finansye nan mobil ou.",
+      "features": [
+        "Kont pou resevwa ak peyab",
+        "Estati kliyan",
+        "Peman ak rekonsilyasyon",
+        "Rapò finansye"
+      ],
+      "lead": "Kont resevwar, peman ak estati kliyan, nan telefòn ou.",
+      "about": "FullVendor Finance montre koleksyon an sou mobil lan: sa chak kliyan dwe, sa konpayi an pral peye ak ki jan peman yo rive. Yo itilize li pou kolekte lajan pandan vizit la epi gade nan kach enskri san yo pa louvri biwo a.",
+      "benefits": [
+        {
+          "title": "Koleksyon nan vizit la",
+          "text": "Vandè a konnen si kliyan an ajou anvan li vann."
+        },
+        {
+          "title": "Resevwa ak peyab",
+          "text": "Tou de bò bwat la nan menm aplikasyon an."
+        },
+        {
+          "title": "Peman ak rekonsilyasyon",
+          "text": "Ou anrejistre kredi ak wè sa ki bezwen yo dwe travèse."
+        },
+        {
+          "title": "Rapò nan men yo",
+          "text": "Koleksyon ak endikatè lajan kach san yo pa tann pou yon fèmen."
+        }
+      ],
+      "audience": "Manadjè, pèseptè ak vandè ki bezwen sitiyasyon kliyan an nan moman an."
+    }
+  },
+  "why": {
+    "eyebrow": "Poukisa FullVendor",
+    "title": "Ranfòse biznis ou\nak rezilta reyèl",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Konpayi yo fè nou konfyans"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Itilizatè aktif yo"
+      },
+      {
+        "value": "+10",
+        "suffix": "ane",
+        "label": "Nan evolisyon konstan"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilite nwaj"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ki jan li fonksyone",
+    "title": "Soti nan vant nan koleksyon, san yo pa chanje sistèm",
+    "text": "Chak pwodwi pataje kliyan, stock, lòd ak peman. Kisa k ap pase nan lari a oswa nan depo a parèt nan biwo a imedyatman.",
+    "steps": {
+      "sell": {
+        "title": "Ou vann",
+        "text": "Lòd la antre nan sit entènèt la oswa atravè Sales Man, menm san siyal."
+      },
+      "pick": {
+        "title": "Pare",
+        "text": "Warehouse resevwa, separe ak voye ak kòd bar."
+      },
+      "deliver": {
+        "title": "Livrezon",
+        "text": "Logistics bay wout la epi swiv livrezon an."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance ak ERP fèmen koleksyon an, resi yo ak nimewo yo."
+      }
+    }
+  },
+  "band": {
+    "title": "Pare pou w wè li ak [[operasyon w la]]?",
+    "text": "Nou montre w ekosistèm nan ak yon ka distribisyon ki sanble ak pa w la."
+  },
+  "footer": {
+    "blurb": "Entènèt ak platfòm mobil pou distribisyon, lavant, lojistik, achte, envantè ak finans.",
+    "products": "Pwodwi yo",
+    "company": "Konpayi",
+    "legal": "Legal",
+    "privacy": "Konfidansyalite",
+    "terms": "Regleman",
+    "rights": "Tout dwa rezève."
+  },
+  "solutions": {
+    "eyebrow": "Solisyon",
+    "title": "Chak zòn, ki konekte ak [[menm operasyon an]]",
+    "intro": "Chwazi pa pwoblèm ou vle rezoud. Dèyè, pwodwi yo pataje menm enfòmasyon an.",
+    "items": {
+      "commercial": {
+        "title": "Jesyon komèsyal",
+        "text": "Lòd, pri, kliyan ak envantè pou distribisyon chak jou."
+      },
+      "field": {
+        "title": "fòs lavant",
+        "text": "Machann k ap pran lòd nan lari, sou entènèt oswa offline."
+      },
+      "warehouse": {
+        "title": "Magazen",
+        "text": "Resepsyon, davwa, dispatch ak yon stock ki ka fè konfyans."
+      },
+      "logistics": {
+        "title": "Lojistik ak livrezon",
+        "text": "Wout, chofè ak estati chak livrezon."
+      },
+      "purchasing": {
+        "title": "Acha ak founisè",
+        "text": "Quotes, lòd ak yon pòtal pou nenpòt moun ki founi ou."
+      },
+      "finance": {
+        "title": "Finans ak kontablite",
+        "text": "Koleksyon, peman, bòdwo elektwonik ak kontablite."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Endistri yo",
+    "title": "Fè pou moun ki [[deplase pwodwi]]",
+    "intro": "FullVendor te fèt nan distribisyon ak akonpaye konpayi ki achte, magazen, vann ak delivre.",
+    "items": {
+      "wholesale": {
+        "title": "Distribisyon ak wholesale",
+        "text": "Lis pri, dosye, distribisyon ak koleksyon nan yon sikwi sèl."
+      },
+      "retail": {
+        "title": "Yo Vann an Detay",
+        "text": "Magazen ak depo ak stock konekte, lavant ak renouvèlman."
+      },
+      "food": {
+        "title": "Manje ak bwason",
+        "text": "Wout souvan ak yon depo ki pa ka sispann."
+      },
+      "pharma": {
+        "title": "Famasi ak swen pèsonèl",
+        "text": "Resepsyon, davwa ak kontwòl envantè ak trasabilite."
+      },
+      "hardware": {
+        "title": "Materyèl ak konstriksyon",
+        "text": "Anpil referans, founisè ak livrezon nan travay oswa magazen."
+      },
+      "fmcg": {
+        "title": "Konsomasyon an mas",
+        "text": "Lari lavant fòs ak ranplasman woulman segondè."
+      },
+      "manufacturing": {
+        "title": "Faktori",
+        "text": "Acha, depo ak envantè ki aliyen ak administrasyon an."
+      },
+      "lastmile": {
+        "title": "Livrezon ak dènye kilomèt",
+        "text": "Wout, chofè ak estati chak livrezon."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resous",
+    "title": "Lide klè pou [[kòmande operasyon an]]",
+    "intro": "Gid kout pou administratè distribisyon ki pral deside ki sistèm yo rete soude.",
+    "items": {
+      "unify": {
+        "title": "Ki jan yo inifye distribisyon nan yon sèl sistèm",
+        "summary": "Ki sa yo mete ansanm an premye lè lavant, depo ak koleksyon ap viv nan dosye diferan.",
+        "points": [
+          "Kòmanse ak kliyan, pwodwi ak pri: yo se pwofesè a ke tout moun itilize.",
+          "Konekte lòd la ak stock la anvan ou ajoute plis aplikasyon.",
+          "Li mezire yon nimewo senp: lòd ranpli san yo pa refè fòm nan."
+        ]
+      },
+      "offline": {
+        "title": "Komèsyal fòs k ap travay offline",
+        "summary": "Ki sa ki mande nan yon app kòmande pou ke vandè a pa sispann akòz siyal la.",
+        "points": [
+          "Katalòg la ak bous yo dwe sou telefòn la, pa sèlman nan nwaj la.",
+          "Lòd la sove sou aparèy la epi yo telechaje lè rezo a retounen.",
+          "Lè senkronize, lòd la deja antre nan depo a."
+        ]
+      },
+      "warehouse": {
+        "title": "Depo ak kòd bar, san papye",
+        "summary": "Ki jan yo ale soti nan lis enprime a konfime davwa sou telefòn la.",
+        "points": [
+          "Resevwa kont lòd acha a, pa kont memwa.",
+          "Konfime chak atik lè w ap separe. Pinèz la koupe nan koulwa a.",
+          "Dispatch la mete ajou stock la ke vandè a wè."
+        ]
+      },
+      "finance": {
+        "title": "Koleksyon ki aliyen ak vant lan",
+        "summary": "Poukisa vandè a ta dwe wè dèt kliyan an anvan ou pran yon lòt lòd.",
+        "points": [
+          "Vizit la se pi bon moman pou kolekte, si dèt la vizib.",
+          "Komèsyal ak finans yo dwe gade nan menm kliyan an.",
+          "Yon rapò anreta chak jou vo plis pase yon fèmen an reta."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pri",
+    "title": "Yon ekosistèm ki [[grandi avèk ou]]",
+    "intro": "Nou pa pibliye yon pousantaj jenerik: pri a depann sou modil yo, itilizatè yo ak volim. Nou montre ou platfòm lan epi mete ansanm yon pwopozisyon ak operasyon ou.",
+    "note": "Demo a pa gen okenn pri epi li pa mande pou yon kontra.",
+    "recommended": "Rekòmande",
+    "faq_title": "Kesyon yo poze souvan",
+    "plans": {
+      "essential": {
+        "name": "Esansyèl",
+        "desc": "Pou òganize jesyon komèsyal ak distribisyon sou yon sèl platfòm.",
+        "features": [
+          "FullVendor platfòm entènèt",
+          "Komèsyal, acha ak envantè",
+          "Kliyan, founisè ak rapò",
+          "Itilizatè ekipman biwo yo",
+          "Sipò pou kòmanse"
+        ],
+        "cta": "Mande Demo"
+      },
+      "professional": {
+        "name": "Pwofesyonèl",
+        "desc": "Pou ekip ki vann nan lari a epi prepare lòd nan depo a.",
+        "features": [
+          "Tout bagay esansyèl",
+          "Aplikasyon FullVendor Sales Man",
+          "Aplikasyon FullVendor Warehouse",
+          "Travay offline ak kòd bar",
+          "Plis itilizatè jaden ak depo"
+        ],
+        "cta": "Mande Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Pou gwoup ki bezwen lojistik, acha, finans ak plizyè konpayi.",
+        "features": [
+          "Ekosistèm konplè",
+          "Logistics, Vendor Supplier ak Finance",
+          "FullVendor ERP ak plizyè lokasyon",
+          "Faktirasyon elektwonik ak kontablite",
+          "Akonpayman ak disponiblite priyorite"
+        ],
+        "cta": "Pale ak lavant yo"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Èske mwen oblije achte tout pwodwi yo?",
+        "a": "Non. Ou ka kòmanse ak FullVendor epi ajoute aplikasyon oswa ERP lè operasyon an bezwen li."
+      },
+      "offline": {
+        "q": "Èske aplikasyon yo travay san entènèt?",
+        "a": "Sales Man ak Warehouse kontinye travay san siyal epi senkronize lè w ap rekonekte."
+      },
+      "multi": {
+        "q": "Èske li travay si mwen gen plis pase yon konpayi?",
+        "a": "Wi. ERP kontanple plizyè konpayi ak ekosistèm nan ka pataje mèt ant yo."
+      },
+      "demo": {
+        "q": "Ki sa Demo a genyen ladan l?",
+        "a": "Yon toune nan platfòm la ak yon ka ki sanble ak pa w la. Pa gen pri epi pa gen okenn obligasyon."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Nou montre w FullVendor ak [[kalite operasyon w la]]",
+    "text": "Pale nou sou konpayi ou a ak sa ou vle kòmande an premye. Demo a pa gen okenn pri."
+  },
+  "contact": {
+    "eyebrow": "Kontakte",
+    "title": "Ann pale de [[operasyon w la]]",
+    "text": "Si ou vle yon Demo, yon pwopozisyon oswa jis oryante tèt ou ant pwodwi yo, kite enfòmasyon ou epi nou pral reponn.",
+    "email": "Mail",
+    "phone": "Telefòn",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Non",
+    "email": "Mail",
+    "phone": "Telefòn",
+    "company": "Konpayi",
+    "country": "Peyi",
+    "team": "Gwosè ekip la",
+    "interest": "Ki sa ki enterese w?",
+    "message": "Mesaj",
+    "optional": "Si ou vle",
+    "choose": "Chwazi",
+    "interest_all": "Tout ekosistèm lan",
+    "ph_name": "non ou",
+    "ph_email": "ou@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Konpayi ou a",
+    "ph_country": "Peyi",
+    "ph_message": "Di nou ki jan ou opere jodi a",
+    "privacy_before": "Mwen aksepte itilizasyon done mwen yo dapre la",
+    "privacy_after": ".",
+    "submit": "Voye demann",
+    "sent_title": "Nou resevwa demann ou an",
+    "sent_text": "Mèsi. Ekip lavant la ap ekri w pou kowòdone demonstrasyon an oswa reponn kesyon w la.",
+    "error_required": "Ranpli jaden sa a.",
+    "error_email": "Antre yon imèl ki valab.",
+    "error_phone": "Tcheke telefòn nan.",
+    "error_privacy": "Nou bezwen konsantman w pou itilize detay kontak.",
+    "error_csrf": "Sesyon an ekspire. Resoumèt fòm lan.",
+    "error_save": "Nou pa t 'kapab sove demann lan. Eseye ankò.",
+    "error_generic": "Revize jaden ki make yo.",
+    "error_rate": "Tanpri tann yon ti moman anvan ou soumèt yon lòt demann.",
+    "team_options": {
+      "1-10": "1 a 10 moun",
+      "11-50": "11 a 50 moun",
+      "51-200": "51 a 200 moun",
+      "201-500": "201 a 500 moun",
+      "500+": "Plis pase 500 moun"
+    }
+  },
+  "video": {
+    "title": "FullVendor nan yon minit",
+    "prev": "Ansyen",
+    "next": "Swivan",
+    "slides": [
+      {
+        "title": "Yon sèl ekosistèm",
+        "text": "Komèsyal, depo, livrezon, achte ak finans pataje kliyan, stock ak lòd."
+      },
+      {
+        "title": "Web ak mobil ansanm",
+        "text": "Biwo a ap travay sou platfòm la. Lari a ak depo a, nan apps yo, menm san siyal."
+      },
+      {
+        "title": "Fè pou distribye",
+        "text": "Soti nan lòd nan peman, san yo pa pase enfòmasyon ki soti nan yon dosye nan yon lòt."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Chèche pwodwi, solisyon, endistri...",
+    "lang_filter": "Chèche lang",
+    "intro": "Chèche pwodwi, solisyon, endistri ak resous.",
+    "empty": "Nou pa jwenn rezilta pou \"{q}\".",
+    "hint": "Eseye lavant, depo, wout oswa koleksyon.",
+    "results": "{n} rezilta",
+    "button": "Chèche pou",
+    "kind_product": "Pwodwi",
+    "kind_solution": "Solisyon",
+    "kind_industry": "Endistri",
+    "kind_resource": "Resous"
+  },
+  "notfound": {
+    "title": "Paj sa a pa",
+    "text": "Lyen an pa egziste oswa li chanje kote."
+  },
+  "common": {
+    "what": "Ki sa ki rezoud",
+    "features": "Ki sa ki enkli",
+    "benefits": "Poukisa li enpòtan",
+    "for_who": "Pou ki moun li ye?",
+    "related": "Epitou nan ekosistèm nan"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Komèsyal jodi a",
+      "orders": "Lòd",
+      "clients": "Kliyan yo",
+      "products": "Pwodwi yo"
+    },
+    "sidebar": {
+      "dashboard": "Dach",
+      "sales": "Komèsyal",
+      "purchases": "Shopping",
+      "inventory": "Envantè",
+      "clients": "Kliyan yo",
+      "reports": "Rapò"
+    },
+    "chart": "Komèsyal",
+    "channel": "Distribisyon pa chanèl",
+    "channels": [
+      "Magazen",
+      "Distribisyon",
+      "Grosyen",
+      "Lòt moun"
+    ],
+    "orders": "Dènye lòd",
+    "col_order": "Lòd",
+    "col_client": "Kliyan",
+    "col_status": "Eta",
+    "col_total": "Total",
+    "status": [
+      "Livre",
+      "Nan wout",
+      "Zanno"
+    ],
+    "top": "Pi bon pwodwi vann",
+    "product": "Pwodwi",
+    "sales_menu": [
+      "Kliyan yo",
+      "Lòd",
+      "Pwodwi yo",
+      "Wout yo",
+      "Senkronize"
+    ],
+    "warehouse_menu": [
+      "Resepsyon",
+      "Davwa",
+      "Envantè",
+      "Dispatch",
+      "Senkronize"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Règleman sou enfòmasyon prive",
+    "privacy_intro": "Règleman sa a eksplike sa nou fè ak done ou kite nan fòm sou sit sa a.",
+    "privacy": [
+      {
+        "title": "Ki done nou kolekte",
+        "text": "Si ou mande yon demonstrasyon oswa ekri nou, nou sove non an, konpayi an, imèl, nimewo telefòn si ou endike li, peyi a, gwosè ekip la, pwodwi a nan enterè ak mesaj la. Nou anrejistre tou dat, lang nan paj la ak adrès IP la, pou anpeche soumèt abizif."
+      },
+      {
+        "title": "Pou ki sa nou itilize yo?",
+        "text": "Nou itilize done sa yo sèlman pou reponn ou, kowòdone yon demonstrasyon ak prepare yon pwopozisyon komèsyal. Nou pa vann yo oswa ba yo yon lis twazyèm pati."
+      },
+      {
+        "title": "Ki kote yo estoke ak pou konbyen tan?",
+        "text": "Demann yo estoke sou sèvè sit sa a. Nou kenbe yo pou tan ki nesesè pou sèvi ou ak swivi komèsyal, epi nou efase yo lè ou mande nou oswa lè yo pa nesesè ankò."
+      },
+      {
+        "title": "Dwa w yo",
+        "text": "Ou ka mande aksè, koreksyon oswa efase done ou nan fòm kontak la, ki endike li nan mesaj la. Si konpayi an pibliye yon imèl sou sit entènèt sa a, ou ka ekri tou."
+      }
+    ],
+    "terms_title": "Kondisyon pou itilize",
+    "terms_intro": "Kondisyon sa yo aplike pou itilizasyon sit soumèt FullVendor sa a.",
+    "terms": [
+      {
+        "title": "Enfòmasyon komèsyal yo",
+        "text": "Tèks, egzanp figi tablodbò ak deskripsyon prezante platfòm la. Yo ka ajiste lè pwodwi a chanje epi yo pa yon òf fèmen."
+      },
+      {
+        "title": "Demo a se pa yon kontra",
+        "text": "Soumèt fòm lan pa kreye yon obligasyon pou achte oswa rezève yon pri. Nenpòt kontra yo dakò separeman, alekri, ak dimansyon li yo ak kondisyon yo."
+      },
+      {
+        "title": "Kontni sit la",
+        "text": "Mark FullVendor, non pwodwi ak kontni paj sa yo fè pati pwopriyetè yo. Yo pa ka kopye pou prezante yon lòt pwodwi."
+      },
+      {
+        "title": "Itilizasyon akseptab",
+        "text": "Pa sèvi ak fòm yo pou soumèt fo enfòmasyon, spam oswa kontni ilegal. Nou ka inyore demann ki pa koresponn ak yon konvèsasyon biznis aktyèl."
+      }
+    ]
+  }
+}

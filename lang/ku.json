@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Karsaziya xwe birêve bibin û mezin bikin",
+    "home_desc": "Platforma tev-di-yek bi çareseriyên tevnvî û mobîl ên ji bo belavkirin, firotin, lojîstîk, kirîn, debar û darayî.",
+    "products_title": "Berhemên | FullVendor",
+    "products_desc": "Ekosîstema FullVendor nas bikin: platforma bazirganî, ERP, lojîstîk, dabînker û firotan, depo û sepanên darayî.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Çareserî | FullVendor",
+    "solutions_desc": "Çareseriyên ji bo rêveberiya bazirganî, hêza firotanê, wargeh, lojîstîk, kirîn û darayî.",
+    "industries_title": "Pîşesazî | FullVendor",
+    "industries_desc": "FullVendor ji bo belavkirin, firotgeh, xwarin, dermanxane, hardware, vexwarina girseyî, çêkirin û mîleya paşîn.",
+    "pricing_title": "Biha | FullVendor",
+    "pricing_desc": "Planên bingehîn, Pîşeyî û Pargîdanî. Pêşniyar li gorî modul, bikarhêner û hêjmarê têne berhev kirin.",
+    "resources_title": "Çavkanî | FullVendor",
+    "resources_desc": "Rêbernameyên kurt ji bo yekkirina belavkirinê, firotana offline, organîzekirina depoyê û di wextê xwe de drav bistînin.",
+    "contact_title": "Têkilî | FullVendor",
+    "contact_desc": "Ji me re binivîsin ku li ser FullVendor fêr bibin an bi tîmê firotanê re danûstendinek hevrêz bikin.",
+    "demo_title": "Daxwaza demo | FullVendor",
+    "demo_desc": "Daxwaza demo ya FullVendor bikin û bi dozek mîna operasyona we re platformê bigerin.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Şertên | FullVendor",
+    "search_title": "Lêgerîn | FullVendor",
+    "notfound_title": "Rûpel nehat dîtin | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Rûpelê malê",
+    "products": "Products",
+    "solutions": "Solutions",
+    "industries": "Industries",
+    "pricing": "Prices",
+    "resources": "Çavkanî",
+    "contact": "Têkelî",
+    "open_menu": "Menu veke",
+    "close": "Nêzîkî"
+  },
+  "cta": {
+    "demo": "Daxwaza Demo",
+    "contact": "Paqij bûn",
+    "video": "Vîdyoyê temaşe bikin",
+    "talk": "Bi firotanê re bipeyivin",
+    "all_products": "Hemî hilberan bibînin",
+    "home": "Vegere rûpela malê"
+  },
+  "a11y": {
+    "skip": "Skip nav naverokê",
+    "primary": "Navîgasyon sereke",
+    "crumbs": "Rêya navîgasyon",
+    "search": "Şopandin",
+    "language": "Ziman"
+  },
+  "hero": {
+    "eyebrow": "Hemî di yek platformê de",
+    "title": "Birêvebirin û mezin kirin\nkarsaziya we bi\n{{brand}}",
+    "subtitle": "Platformek bêkêmasî ya bi çareseriyên tevnvî û mobîl ên ji bo belavkirin, firotan, lojîstîk, kirîn, debar, darayî û hêj bêtir.",
+    "pill_ecosystem": "Her tişt di yek ekosîstemê de",
+    "pill_cloud": "Di ewr de, ewledar û berbelav",
+    "pill_size": "Ji bo pargîdaniyên hemî mezinahiyê"
+  },
+  "products_block": {
+    "eyebrow": "Berhemên me",
+    "title": "Ji bo her qada karsaziya we [[ekosîstemek bêkêmasî]]",
+    "aside": "Çareseriyên yekbûyî yên ku bi hev re dixebitin da ku hûn kontrola tevahî, karbidestiya xebitandinê û mezinbûna mezintir bidin we.",
+    "groups": {
+      "money": "Rêveberî û komkirin",
+      "flow": "Kirîn û şandin",
+      "field": "Sales û warehouse"
+    }
+  },
+  "products_page": {
+    "title": "Heft hilber, [[operasyona yekane]]",
+    "text": "Her hilberek herêmek çareser dike. Bi hev re ew xerîdar, pargîdan, emir û dravê parve dikin."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Rawesta axaftevan",
+      "card": "Platforma sereke ji bo birêvebirin û belavkirina bazirganî.",
+      "features": [
+        "Firotin û kirîn",
+        "Inventory",
+        "Xerîdar û dabînkeran",
+        "Rapor û bêtir"
+      ],
+      "lead": "Navenda xebata weya bazirganî: ferman, biha, stok û xerîdar li yek cîhek.",
+      "about": "FullVendor li şûna pelgeş û pergalên belavkerê yên berbelav digire. Ji vir ferman derdikevin, envanterê tê şêwir kirin, portfoloya xerîdar tê girtin û hejmarên rojê têne dîtin. Ekosîstema mayî bi vê bingehê ve girêdide.",
+      "benefits": [
+        {
+          "title": "A master data yek",
+          "text": "Xerîdar, hilber û biha bi firotanê, wargeh û darayî re têne parve kirin."
+        },
+        {
+          "title": "Operasyona rojane ya zelal",
+          "text": "Ferman, kirîn û stok di pelên cûda de dijîn raweste."
+        },
+        {
+          "title": "Raporên ku biryar bidin",
+          "text": "Firotin, marjînal û bendewar bêyî ku bi destan tabloyek li hev bikin têne dîtin."
+        },
+        {
+          "title": "Ji bo mezinbûnê amade ye",
+          "text": "Lojîstîk, hêza firotanê an ERP berhevokan dema ku operasyon jê re daxwaz dike."
+        }
+      ],
+      "audience": "Tîmên bazirganî û belavkirinê yên ku îro karsaziyê di navbera çend pergalan de hevrêz dikin."
+    },
+    "erp": {
+      "kicker": "Birêvebirî",
+      "card": "Rêveberiya îdarî û darayî ya tevahî.",
+      "features": [
+        "Accounting",
+        "Billing elektronîk",
+        "Worksheets",
+        "hebûnên sabît",
+        "Pir-şîrket"
+      ],
+      "lead": "Rêvebirî û darayî, bi tiştê ku bi rastî tê firotin û teslîm kirin re hevaheng e.",
+      "about": "FullVendor ERP hesabkirin, fatûreya elektronîkî, mûçeyan, hebûnên sabît û pir-şîrketan vedihewîne. Ew operasyona bazirganî digire û wê vediguherîne navnîşan, wergirtin û daxuyaniyên ku qada darayî dikare bikar bîne.",
+      "benefits": [
+        {
+          "title": "Hesabê girêdayî",
+          "text": "Tiştê ku di firotan û kirînê de diqewime hesabê hesab dike."
+        },
+        {
+          "title": "Meqbûzên elektronîk",
+          "text": "Hûn ji heman ekosîstema fatûreyê derdixin û kontrol dikin."
+        },
+        {
+          "title": "Şîrketên cuda",
+          "text": "Pargîdaniyek pirjimar ji bo komên ku di bin navê bêtir ji yek pargîdaniyê de dixebitin."
+        },
+        {
+          "title": "Payroll û hebûnên",
+          "text": "Meaş û hebûnên sabît ligel yên mayî yên rêveberiyê."
+        }
+      ],
+      "audience": "Qadên îdarî û darayî yên ku dixwazin bi operasyona rastîn jimareyan bigirin."
+    },
+    "logistics": {
+      "kicker": "Lojîstîk",
+      "card": "Kontrol û şopandina operasyona lojîstîkê ya we.",
+      "features": [
+        "Rê û şandin",
+        "Şopandina rast-dem",
+        "Peywira ajokerê",
+        "Optimîzasyona rê"
+      ],
+      "lead": "Ji fermanê heya radestkirinê: rê, ajokar û şopandina rast-ê.",
+      "about": "FullVendor Logistics belavkirinê organîze dike. Hûn rêgezan diafirînin, ajokaran tayin dikin û dibînin ku her radest li ku diçe. Tîma trafîkê li gorî bangan disekine da ku fêr bibe ka ferman şandiye.",
+      "benefits": [
+        {
+          "title": "Rêyên rojê",
+          "text": "Radestkirin li gorî herêm, pencereya demê û kapasîteyê têne ferman kirin."
+        },
+        {
+          "title": "Ajokarê destnîşankirî",
+          "text": "Di her rê de kesek berpirsiyar û rêzek zelal heye."
+        },
+        {
+          "title": "Şopandin",
+          "text": "Hûn dizanin ku çi tê radest kirin, di rê de an jî rawestandin."
+        },
+        {
+          "title": "Kêmtir kîlometre",
+          "text": "Optimîzasyona rêgezê dem û lêçûna radestkirinê kêm dike."
+        }
+      ],
+      "audience": "Operasyonên belavkirinê bi fîloya xwe an aliyên sêyemîn re."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Portal ji bo dabînker û rêveberiya kirînê.",
+      "features": [
+        "fermanên kirînê",
+        "Quotes",
+        "Rêveberiya dabînker",
+        "Yekbûna bi envanterê"
+      ],
+      "lead": "Pêşkêşkerên we neqil dikin, fermanan distînin û bêyî e-nameyên wenda stokê dadigirin.",
+      "about": "Vendor Supplier ji bo kirîn û dabînkeran portalek vedike ku li ser heman fermanan bixebitin. Bersiv, fermanên kirînê û wergirtinê bi envantera FullVendor ve girêdayî ne.",
+      "benefits": [
+        {
+          "title": "Di kanalekê de ferman dide",
+          "text": "Pêşkêşkar dibîne ku çi radest bike, bêyî zincîra e-nameyê."
+        },
+        {
+          "title": "quotes Comparable",
+          "text": "Hûn nirxan dipirsin û li ber çavê dîrokê hilbijêrin."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Şert, têkilî û li benda di tomarek yekane de."
+        },
+        {
+          "title": "Envanterê binivîse",
+          "text": "Tiştê ku hatî kirîn dema ku tê wergirtin di stokê de tê xuyang kirin."
+        }
+      ],
+      "audience": "Tîmên kirînê yên ku bi çend dabînkeran re dagirtî ne û hewceyê şopandinê ne."
+    },
+    "salesman": {
+      "kicker": "sepana mobîl",
+      "card": "Serlêdana mobîl ji bo tîmê firotanê.",
+      "features": [
+        "rêveberiya Mişterî",
+        "Siparîş girtin",
+        "kataloga Product",
+        "Karê negirêdayî"
+      ],
+      "lead": "Hêza firotanê li ser kolanê, bi an bê sînyalek fermanan digire.",
+      "about": "FullVendor Sales Man portfoliyo, katalog û fermana we li ser têlefona firoşker digire. Ger înternet tune be, dema ku sînyala vedigere kar berdewam dike û hevdem dibe. Ferman ji bo amadekirin û radestkirinê amade ye.",
+      "benefits": [
+        {
+          "title": "Wallet di berîka",
+          "text": "Firoşkar xerîdar, şert û tiştên li bendê dibîne."
+        },
+        {
+          "title": "Siparîş bike di serdanê de",
+          "text": "Bi bihayên heyî û stokê fermanê bistînin."
+        },
+        {
+          "title": "Katalog heta îro",
+          "text": "Hilber, pêşkêşî û bihayên bêyî PDF-ya kevn."
+        },
+        {
+          "title": "Real offline",
+          "text": "Bêyî vegirtinê bixebitin û paşê hevdeng bikin."
+        }
+      ],
+      "audience": "Di belavkirin û vexwarina girseyî de çavdêr û firoşkarên zeviyê."
+    },
+    "warehouse": {
+      "kicker": "sepana mobîl",
+      "card": "Serlêdana mobîl ji bo depoyê.",
+      "features": [
+        "Resepsiyonê û şandin",
+        "Hilbijartin û pakkirin",
+        "Kontrola envanterê",
+        "xwendina barkodê"
+      ],
+      "lead": "Pêşwazîkirin, hilgirtin û şandina bi têlefon û barkodê.",
+      "about": "FullVendor Warehouse di pêşwazîkirin, hilgirtin, pakkirin û şandinê de embarê rê dide. Xwendina kodan xeletiyan kêm dike û saxlem tenê di dawiya mehê de nayê jimartin.",
+      "benefits": [
+        {
+          "title": "Resepsiyona li dijî fermanê",
+          "text": "Tiştê ku dikeve bi kirînê re tê berhevdan."
+        },
+        {
+          "title": "Hilbijartina armanckirî",
+          "text": "Xwediyê keştiyê fermanê dişopîne û her tişt piştrast dike."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Kêmtir xeletiyên hilber, berhevok an hejmarê."
+        },
+        {
+          "title": "stock pêbawer",
+          "text": "Her tevger envantera platformê nûve dike."
+        }
+      ],
+      "audience": "Rêvebirên embar û keştiyên ku îro bi lîsteyên çapkirî fermanan amade dikin."
+    },
+    "finance": {
+      "kicker": "sepana mobîl",
+      "card": "Kontrola darayî ji mobîla we.",
+      "features": [
+        "Hesabên wergirtin û dayin",
+        "Rewşa Mişterî",
+        "Tezmînat û lihevkirin",
+        "Raporên darayî"
+      ],
+      "lead": "Hesabên wergirtin, drav û rewşa xerîdar, ji têlefona we.",
+      "about": "FullVendor Finance berhevoka li ser mobîl destnîşan dike: deynê her xerîdar çi ye, pargîdanî dê çi bide û drav çawa têne. Di dema serdanê de ji bo komkirina pereyan û bêyî vekirina maseyê li kasayê binêre tê bikaranîn.",
+      "benefits": [
+        {
+          "title": "Di serdanê de berhevkirin",
+          "text": "Firoşkar dizane ka xerîdar berî firotanê rojane ye."
+        },
+        {
+          "title": "Wergirtin û dayin",
+          "text": "Her du aliyên qutîkê di heman sepanê de."
+        },
+        {
+          "title": "Tezmînat û lihevkirin",
+          "text": "Hûn krediyan tomar dikin û dibînin ka çi hewce dike ku were derbas kirin."
+        },
+        {
+          "title": "Raporên li ber dest",
+          "text": "Nîşaneyên berhevkirin û drav bêyî ku li benda girtinê bin."
+        }
+      ],
+      "audience": "Rêvebir, berhevkar û firoşkarên ku di vê gavê de hewceyê rewşa xerîdar in."
+    }
+  },
+  "why": {
+    "eyebrow": "Çima FullVendor",
+    "title": "Karsaziya xwe zêde bikin\nbi encamên rastîn",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Şîrket ji me bawer dikin"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Bikarhênerên çalak"
+      },
+      {
+        "value": "+10",
+        "suffix": "salan",
+        "label": "Di pêşveçûna berdewam de"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "hebûna Cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Çawa dixebite",
+    "title": "Ji firotanê heya berhevkirinê, bêyî guhartina pergalê",
+    "text": "Her hilberek xerîdar, pargîdan, ferman û dravê parve dike. Tiştê ku li kuçeyê an li depoyê diqewime di cih de li nivîsgehê xuya dibe.",
+    "steps": {
+      "sell": {
+        "title": "Hûn difiroşin",
+        "text": "Ferman bi riya malperê an jî bi Sales Man, bêyî îşaret jî tê kirin."
+      },
+      "pick": {
+        "title": "Amade",
+        "text": "Warehouse bi barkodê distîne, vediqetîne û dişîne."
+      },
+      "deliver": {
+        "title": "Deliveries",
+        "text": "Logistics rê destnîşan dike û teslîmkirinê dişopîne."
+      },
+      "collect": {
+        "title": "Kobras",
+        "text": "Finance û ERP berhevok, meqbûz û hejmaran digrin."
+      }
+    }
+  },
+  "band": {
+    "title": "Ma hûn amade ne ku wê bi [[operasyona we]] bibînin?",
+    "text": "Em ekosîstemê bi dozek belavkirinê ya mîna ya we nîşanî we didin."
+  },
+  "footer": {
+    "blurb": "Platforma Web û mobîl ji bo belavkirin, firotin, lojîstîk, kirîn, depo û darayî.",
+    "products": "Products",
+    "company": "Şîrket",
+    "legal": "Mafî",
+    "privacy": "Taybetî",
+    "terms": "Terms",
+    "rights": "Hemû maf parastî ne."
+  },
+  "solutions": {
+    "eyebrow": "Solutions",
+    "title": "Her herêm, bi [[eynî operasyonê]]",
+    "intro": "Li gorî pirsgirêka ku hûn dixwazin çareser bikin hilbijêrin. Li paş, hilber heman agahdariyê parve dikin.",
+    "items": {
+      "commercial": {
+        "title": "Rêveberiya Bazirganî",
+        "text": "Ferman, biha, xerîdar û envanter ji bo belavkirina rojane."
+      },
+      "field": {
+        "title": "hêza firotanê",
+        "text": "Firoşyar li kolanê, serhêl an offline fermanan digirin."
+      },
+      "warehouse": {
+        "title": "Dikan",
+        "text": "Pêşwazîkirin, hilgirtin, şandin û stokek ku dikare pê pêbawer be."
+      },
+      "logistics": {
+        "title": "Lojîstîk û radestkirinê",
+        "text": "Rê, ajokar û rewşa her radestkirinê."
+      },
+      "purchasing": {
+        "title": "Kirîn û dabînkeran",
+        "text": "Gotin, ferman û portalek ji bo kesê ku we peyda dike."
+      },
+      "finance": {
+        "title": "Aborî û hesab",
+        "text": "Berhevkirin, drav, fatûreya elektronîkî û hesabkirin."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "Ji bo kesên ku [[hilberê dihejîne]]",
+    "intro": "FullVendor di belavkirinê de çêbû û digel pargîdaniyên ku dikirin, diparêzin, difroşin û radest dikin re tê.",
+    "items": {
+      "wholesale": {
+        "title": "Belavkirin û firoştin",
+        "text": "Lîsteyên biha, portfolio, belavkirin û berhevkirin di yek çerxê de."
+      },
+      "retail": {
+        "title": "Yektacirî",
+        "text": "Firoşgeh û wargehek bi stok, firotgeh û nûvekirinê ve girêdayî ye."
+      },
+      "food": {
+        "title": "Xwarin û vexwarin",
+        "text": "Rêyên pir caran û depoyek ku nikare raweste."
+      },
+      "pharma": {
+        "title": "Dermanxane û lênêrîna kesane",
+        "text": "Pêşwazî, hilgirtin û kontrolkirina envanterê bi şopandinê."
+      },
+      "hardware": {
+        "title": "Hardware û avakirin",
+        "text": "Gelek referans, peydaker û radestkirina kar an hilanînê."
+      },
+      "fmcg": {
+        "title": "Xwarina girseyî",
+        "text": "Hêza firotina kolanan û guheztina zivirandina bilind."
+      },
+      "manufacturing": {
+        "title": "Çêkirin",
+        "text": "Kirîn, embar û envanterê bi rêveberiyê re li hev kirin."
+      },
+      "lastmile": {
+        "title": "Delivery û milê dawî",
+        "text": "Rê, ajokar û rewşa her radestkirinê."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Çavkanî",
+    "title": "Ramanên zelal ji bo [[operasyonê ferman bikin]]",
+    "intro": "Rêbernameyên kurt ji bo rêveberên belavkirinê yên ku dê biryarê bidin ka kîjan pergalê pê ve girêdayî bin.",
+    "items": {
+      "unify": {
+        "title": "Meriv çawa dabeşkirinê di pergalek yekbûyî de yek dike",
+        "summary": "Dema ku firotgeh, wargeh û berhevok di pelên cihêreng de dijîn pêşî çi were berhev kirin.",
+        "points": [
+          "Bi xerîdar, hilber û bihayan dest pê bikin: ew mamoste ne ku her kes bikar tîne.",
+          "Berî ku serîlêdanên bêtir zêde bikin, fermanê bi stokê ve girêdin.",
+          "Ew hejmarek hêsan dipîve: ferman bêyî dubarekirina formê têne bicîh kirin."
+        ]
+      },
+      "offline": {
+        "title": "Hêza firotanê offline dixebite",
+        "summary": "Çi ji serîlêdanek fermanê hewce dike da ku firoşkar ji ber sînyalê nesekine.",
+        "points": [
+          "Pêdivî ye ku katalog û berîka li ser têlefonê bin, ne tenê di ewr de.",
+          "Ferman li ser cîhazê tê hilanîn û dema ku torê vedigere tê barkirin.",
+          "Dema hevdemkirinê, ferman berê xwe dide embarê."
+        ]
+      },
+      "warehouse": {
+        "title": "Depoya bi barcode, bê kaxiz",
+        "summary": "Meriv çawa ji navnîşa çapkirî berbi hilbijartina pejirandî ya li ser têlefonê ve diçe.",
+        "points": [
+          "Li hember fermana kirînê bistînin, ne li hember bîranînê.",
+          "Dema ku her tişt ji hev veqetin piştrast bikin. Bûk di korîdorê de dibire.",
+          "Dispatch stoka ku firoşkar dibîne nûve dike."
+        ]
+      },
+      "finance": {
+        "title": "Kolek bi firotanê re hevaheng e",
+        "summary": "Çima divê firoşkar deynê xerîdar bibîne berî ku fermanek din bigire.",
+        "points": [
+          "Serdan dema herî baş e ku meriv berhev bike, ger deyn xuya be.",
+          "Pêdivî ye ku firotanê û darayî li heman xerîdar binêrin.",
+          "Raporek derengmayî ya rojane ji girtina dereng hêjatir e."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prices",
+    "title": "Ekosîstemek ku [[bi we re mezin dibe]]",
+    "intro": "Em rêjeyek gelemperî naweşînin: lêçûn bi modul, bikarhêner û hêjmarê ve girêdayî ye. Em platformê nîşanî we didin û bi operasyona we re pêşniyarek li hev dikin.",
+    "note": "Demo lêçûnek tune û peymanek hewce nake.",
+    "recommended": "Pêşniyar kirin",
+    "faq_title": "Pirsên pir caran têne pirsîn",
+    "plans": {
+      "essential": {
+        "name": "Pêwist",
+        "desc": "Rêxistinkirina rêveberiya bazirganî û belavkirinê li ser yek platformê.",
+        "features": [
+          "FullVendor platforma webê",
+          "Firotin, kirîn û envanter",
+          "Xerîdar, dabînker û rapor",
+          "bikarhênerên alavên ofîsa",
+          "Piştgiriya destpêkê"
+        ],
+        "cta": "Daxwaza Demo"
+      },
+      "professional": {
+        "name": "Karzan",
+        "desc": "Ji bo tîmên ku li kuçeyê difiroşin û li depoyê fermanan amade dikin.",
+        "features": [
+          "Her tişt Essential",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Kar û barkodên negirêdayî",
+          "Zêdetir bikarhênerên zevî û wargehê"
+        ],
+        "cta": "Daxwaza Demo"
+      },
+      "corporate": {
+        "name": "Pargîdanî",
+        "desc": "Ji bo komên ku hewceyê lojîstîk, kirîn, darayî û pargîdaniyên cihêreng in.",
+        "features": [
+          "Ekosîstema temam",
+          "Logistics, Vendor Supplier û Finance",
+          "FullVendor ERP û pir-kirêdar",
+          "Billing û hesabkirina elektronîk",
+          "Hevkarî û hebûna pêşîn"
+        ],
+        "cta": "Bi firotanê re bipeyivin"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ma pêdivî ye ku ez hemî hilberan bikirim?",
+        "a": "Na. Hûn dikarin bi FullVendor dest pê bikin û dema ku operasyon jê re lazim be sepanan an ERP lê zêde bikin."
+      },
+      "offline": {
+        "q": "Ma sepan bêyî înternetê dixebitin?",
+        "a": "Sales Man û Warehouse bêyî îşaretekê xebata xwe didomînin û dema ku ji nû ve girêdidin hevdeng dikin."
+      },
+      "multi": {
+        "q": "Ma ew kar dike heke min ji yek pargîdaniyek zêdetir hebe?",
+        "a": "Erê. ERP pir-şîrketî difikire û ekosîstem dikare di navbera wan de axayan parve bike."
+      },
+      "demo": {
+        "q": "Demo çi tê de?",
+        "a": "Gerek platformê bi dozek mîna ya we. Ne mesref û ne mecbûrî ye."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Em FullVendor nîşanî we didin [[cureya we ya operasyonê]]",
+    "text": "Ji me re li ser pargîdaniya xwe û tiştê ku hûn dixwazin pêşî ferman bikin ji me re bêjin. Demo lêçûnek tune."
+  },
+  "contact": {
+    "eyebrow": "Têkelî",
+    "title": "Ka em li ser [[operasyona we]] bipeyivin.",
+    "text": "Ger hûn demo, pêşniyarek dixwazin an jî tenê xwe di navbera hilberan de rêve bibin, agahdariya xwe bihêlin û em ê bersivê bidin.",
+    "email": "Poste",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nav",
+    "email": "Poste",
+    "phone": "Telefon",
+    "company": "Şîrket",
+    "country": "Welat",
+    "team": "Mezinahiya tîmê",
+    "interest": "Çi te eleqedar dike?",
+    "message": "Agah",
+    "optional": "Bixwe",
+    "choose": "Neqandin",
+    "interest_all": "Tevahiya ekosîstema",
+    "ph_name": "navê te",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Şirketa we",
+    "ph_country": "Welat",
+    "ph_message": "Ji me re bêje ku hûn îro çawa dixebitin",
+    "privacy_before": "Ez li gorî karanîna daneyên xwe qebûl dikim",
+    "privacy_after": ".",
+    "submit": "Daxwazê ​​bişîne",
+    "sent_title": "Em daxwaza we distînin",
+    "sent_text": "Sipas ji were. Tîmên firotanê dê ji we re binivîsin ku demo hevrêz bikin an bersiva pirsa we bidin.",
+    "error_required": "Vê qadê temam bikin.",
+    "error_email": "E-nameyek derbasdar binivîse.",
+    "error_phone": "Telefonê kontrol bikin.",
+    "error_privacy": "Pêdiviya me bi razîbûna we heye ku em hûrguliyên têkiliyê bikar bînin.",
+    "error_csrf": "Rûniştin bi dawî bû. Ji nû ve formê bişînin.",
+    "error_save": "Me nikarî daxwazê ​​xilas bike. Dubare bixebitin.",
+    "error_generic": "Zeviyên nîşankirî binirxînin.",
+    "error_rate": "Ji kerema xwe çendek bisekinin berî ku daxwazek din bişînin.",
+    "team_options": {
+      "1-10": "1 heta 10 kes",
+      "11-50": "11 heta 50 kes",
+      "51-200": "51 heta 200 kes",
+      "201-500": "201 heta 500 kes",
+      "500+": "Zêdetirî 500 kes"
+    }
+  },
+  "video": {
+    "title": "FullVendor di yek deqîqe",
+    "prev": "Pêşane",
+    "next": "Pêketînî",
+    "slides": [
+      {
+        "title": "Ekosîstemek yekane",
+        "text": "Firotin, wargeh, radestkirin, kirîn û darayî parvekirina xerîdar, stok û fermanan."
+      },
+      {
+        "title": "Web û mobîl bi hev re",
+        "text": "Ofîs li ser platformê dixebite. Kolan û wargeh, di sepanan de, bê îşaret jî."
+      },
+      {
+        "title": "Ji bo belavkirinê hatî çêkirin",
+        "text": "Ji fermanê bigire heya dravdanê, bêyî ku agahdarî ji pelek ji pelek din re derbas bibe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Li hilber, çareserî, pîşesaziyê bigerin…",
+    "lang_filter": "Ziman bigerin",
+    "intro": "Hilber, çareserî, pîşesazî û çavkaniyan bigerin.",
+    "empty": "Me encam ji bo \"{q}\" nedît.",
+    "hint": "Firotan, wargeh, rê an berhevokan biceribînin.",
+    "results": "{n} encamên",
+    "button": "Şopandin",
+    "kind_product": "Mal",
+    "kind_solution": "Çare",
+    "kind_industry": "Ava",
+    "kind_resource": "Kanî"
+  },
+  "notfound": {
+    "title": "Ev rûpel ne",
+    "text": "Girêdan tune ye an cîh guhertiye."
+  },
+  "common": {
+    "what": "Çi çareser dike",
+    "features": "Çi tê de ye",
+    "benefits": "Çima girîng e",
+    "for_who": "Ji bo kê ye?",
+    "related": "Her weha di ekosîstemê de"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sales îro",
+      "orders": "Orders",
+      "clients": "Mişterî",
+      "products": "Products"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "purchases": "Shopping",
+      "inventory": "Inventory",
+      "clients": "Mişterî",
+      "reports": "Raporên"
+    },
+    "chart": "Sales",
+    "channel": "Belavkirin bi kanal",
+    "channels": [
+      "Dikan",
+      "Belavkirinî",
+      "Wholesaler",
+      "Others"
+    ],
+    "orders": "Latest ferman",
+    "col_order": "Emir",
+    "col_client": "Miştirî",
+    "col_status": "Rewş",
+    "col_total": "Hemî",
+    "status": [
+      "Radest kirin",
+      "Di rê de",
+      "Gûhar"
+    ],
+    "top": "Berhemên herî firotanê",
+    "product": "Mal",
+    "sales_menu": [
+      "Mişterî",
+      "Orders",
+      "Products",
+      "Routes",
+      "Senkronîze bikin"
+    ],
+    "warehouse_menu": [
+      "Qebûlgeha otêlan",
+      "Hilbijartin",
+      "Inventory",
+      "Dispatch",
+      "Senkronîze bikin"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacy Policy",
+    "privacy_intro": "Ev polîtîka rave dike ku em bi daneyên ku hûn di formên vê malperê de dihêlin çi dikin.",
+    "privacy": [
+      {
+        "title": "Em çi daneyan berhev dikin",
+        "text": "Ger hûn demoyek daxwaz bikin an ji me re binivîsin, em nav, pargîdanî, e-name, jimareya têlefonê heke hûn destnîşan bikin, welat, mezinahiya tîmê, hilbera berjewendiyê û peyamê hilînin. Em di heman demê de tarîx, zimanê rûpelê û navnîşana IP-yê jî tomar dikin, da ku pêşî li radestkirinên xirab bigirin."
+      },
+      {
+        "title": "Em wan ji bo çi bikar tînin?",
+        "text": "Em van daneyan tenê bikar tînin da ku bersivê bidin we, demo hevrêz bikin û pêşniyarek bazirganî amade bikin. Em wan nafiroşin an nadin navnîşek aliyên sêyemîn."
+      },
+      {
+        "title": "Li ku derê têne hilanîn û ji bo kengî?",
+        "text": "Daxwaz li ser servera vê malperê têne hilanîn. Em wan ji bo dema pêwîst ji bo xizmetkirina we û şopandina bazirganiyê diparêzin, û gava ku hûn ji me bixwazin an jî dema ku êdî hewce nebin em wan jê dikin."
+      },
+      {
+        "title": "Mafên te",
+        "text": "Hûn dikarin gihîştin, rastkirin an jêbirina daneyên xwe ji forma têkiliyê daxwaz bikin, ku wê di peyamê de destnîşan bikin. Ger pargîdanî li ser vê malperê e-nameyek diweşîne, hûn dikarin li wir jî binivîsin."
+      }
+    ],
+    "terms_title": "Mercên bikaranînê",
+    "terms_intro": "Van şertan ji bo karanîna vê malpera radestkirina FullVendor derbas dibin.",
+    "terms": [
+      {
+        "title": "Agahiyên bazirganî",
+        "text": "Nivîsar, fîgurên dashboardê yên mînak û danasîn platformê destnîşan dikin. Gava ku hilber diguhezîne û ne pêşniyarek girtî ne, ew dikarin werin sererast kirin."
+      },
+      {
+        "title": "Demo ne peymanek e",
+        "text": "Şandina formê mecburiyeta kirîn an veqetandina bihayekê naafirîne. Her peymanek ji hev cuda, bi nivîskî, bi çarçove û mercên xwe ve tête pejirandin."
+      },
+      {
+        "title": "Naveroka malperê",
+        "text": "Nîşana FullVendor, navên hilberan û naveroka van rûpelan aîdî xwediyên wan in. Ji bo pêşkêşkirina hilberek din nayên kopî kirin."
+      },
+      {
+        "title": "Bikaranîna meqbûl",
+        "text": "Formanan bikar neynin da ku agahdariya derewîn, spam an naveroka neqanûnî bişînin. Dibe ku em daxwazên ku bi danûstendinek karsaziyek rastîn re naguncin paşguh bikin."
+      }
+    ]
+  }
+}

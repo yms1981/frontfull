@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Pule'i mo fakatupulaki ho'o pisinisi .",
+    "home_desc": "Ko e kotoa-'i he-taha 'a e tu'unga mo e uepi mo e ngaahi fakalelei'anga fe'ave'aki pa'anga ki he tufaki'anga koloa, fakatau, logistics, fakatau, 'inivenitoa mo e pa'anga.",
+    "products_title": "Ngaahi Koloa | FullVendor",
+    "products_desc": "'Ilo'i 'a e ecosystem FullVendor: tu'unga fakakomesiale, ERP, logistics, kau fakatau mo e fakatau, fale koloa mo e ngaahi polokalama fakapa'anga.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ngaahi Fakalelei'anga | FullVendor",
+    "solutions_desc": "Ngaahi fakalelei ki he pule fakakomesiale, kau fakatau, fale koloa, ngaahi me'a fakalotofonua, fakatau mo e pa'anga.",
+    "industries_title": "Ngaahi Ngaue'anga | FullVendor",
+    "industries_desc": "FullVendor ki he tufaki'anga koloa, fakatau, me'akai, falekoloa faito'o, ngaahi naunau, faka'aonga'i lahi, ngaohi mo e maile faka'osi.",
+    "pricing_title": "Ngaahi totongi | FullVendor",
+    "pricing_desc": "Ngaahi Palani Mahu'inga, Fakapalofesinale mo Fakakautaha. 'Oku fokotu'u fakataha 'a e fokotu'u 'o fakatatau ki he modules, kau faka'aonga'i mo e voliume.",
+    "resources_title": "Ngaahi Maʻuʻanga Tokoni | FullVendor",
+    "resources_desc": "Ngaahi fakahinohino nounou ke fakatahataha'i 'a e tufaki'anga koloa, fakatau atu 'i he offline, fokotu'utu'u 'a e fale koloa pea ma'u 'a e totongi 'i he taimi totonu.",
+    "contact_title": "Fetu'utaki | FullVendor",
+    "contact_desc": "Tohi mai ke ako fekau'aki mo e FullVendor pe fakafekau'aki ha talanoa mo e timi fakatau.",
+    "demo_title": "Kole faka'ali'ali | FullVendor",
+    "demo_desc": "Kole ha faka'ali'ali 'o e FullVendor pea 'a'ahi ki he peletifoomu mo ha keisi 'oku tatau mo ho'o ngaue.",
+    "privacy_title": "Fakapulipuli | FullVendor",
+    "terms_title": "Ngaahi Tu'utu'uni | FullVendor",
+    "search_title": "Fekumi | FullVendor",
+    "notfound_title": "'Oku 'ikai ke ma'u 'a e peesi | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Peesi 'uluaki",
+    "products": "Ngaahi koloa",
+    "solutions": "Ngaahi solova'anga",
+    "industries": "Ngaahi Ngaue'anga",
+    "pricing": "Ngaahi totongi",
+    "resources": "Ngaaahi naunau",
+    "contact": "Fetu'utaki",
+    "open_menu": "Fakaava 'a e menu",
+    "close": "Tāpuni"
+  },
+  "cta": {
+    "demo": "Kole Demo",
+    "contact": "Fetu'utaki mai leva",
+    "video": "Sio ki he Vitiō",
+    "talk": "Talanoa ki he kau fakatau .",
+    "all_products": "Vakai ki he ngaahi koloa kotoa pe",
+    "home": "Foki ki he peesi 'uluaki ."
+  },
+  "a11y": {
+    "skip": "Fakalaka ki he kakanó",
+    "primary": "Folau tefito",
+    "crumbs": "Hala folau",
+    "search": "Kumi ki he .",
+    "language": "Lea fakafonua"
+  },
+  "hero": {
+    "eyebrow": "Ko e kotoa 'i he tu'unga 'e taha .",
+    "title": "Puleʻi mo fakatupulaki .\nho'o pisinisi mo e .\n{{brand}}",
+    "subtitle": "Ko ha tu'unga kakato mo e uepi mo e ngaahi fakalelei'anga fe'ave'aki pa'anga ki he tufaki'anga koloa, fakatau, logistics, fakatau, 'inivenitoa, pa'anga mo e lahi ange.",
+    "pill_ecosystem": "Ko e me'a kotoa pe 'i ha 'ekosisitemi 'e taha .",
+    "pill_cloud": "'I he 'ao, malu mo scalable .",
+    "pill_size": "Mo e ngaahi kautaha 'o e ngaahi lahi kotoa pe ."
+  },
+  "products_block": {
+    "eyebrow": "Ko 'etau koloa .",
+    "title": "Ko ha [[ecosystem kakato]] ki he tafaʻaki takitaha ʻo hoʻo pisinisí .",
+    "aside": "Ngaahi fakalelei'anga fakatahataha'i 'oku nau ngaue fakataha ke 'oatu kiate koe 'a e pule kakato, 'a e ola lelei 'o e ngaue mo e tupulaki lahi ange.",
+    "groups": {
+      "money": "Pule'i mo e tanaki .",
+      "flow": "Fakatau mo e tu'uaki .",
+      "field": "Fakatau mo e fale koloa ."
+    }
+  },
+  "products_page": {
+    "title": "Ko e ngaahi koloa ʻe fitu, [[ngaue ʻe taha]].",
+    "text": "ʻOku solova ʻe he koloa takitaha ha ʻēlia. 'Oku nau vahevahe fakataha 'a e kau kasitomaa, sitoka, ngaahi 'ota mo e ngaahi totongi."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Siteisi",
+      "card": "Tefito'i tu'unga ki he pule'i fakakomesiale mo e tufaki'anga koloa.",
+      "features": [
+        "Fakatau mo e fakatau .",
+        "Lisi 'o e koloa",
+        "Kau fakatau mo e kau fakatau",
+        "Ngaahi lipooti mo e ngaahi me'a kehe"
+      ],
+      "lead": "Ko e senitaa 'o ho'o ngaue fakakomesiale: ngaahi 'ota, ngaahi totongi, sitoka mo e kau kasitomaa 'i he feitu'u pe 'e taha.",
+      "about": "FullVendor fetongi 'a e ngaahi pepa mo e ngaahi sisitemi 'oku vetevete 'a ha tufaki'anga koloa. Mei heni 'oku ha'u ai 'a e ngaahi 'ota, 'oku consult 'a e ngaahi koloa, 'oku tokanga'i 'a e portfolio 'a e kasitomaa pea 'oku vakai'i 'a e ngaahi fika 'o e 'aho. Ko e toenga ‘o e ‘ekosisitemí ‘oku fehokotaki ia ki he tu‘unga ko ení.",
+      "benefits": [
+        {
+          "title": "Ko ha 'eiki fakamatala 'e taha .",
+          "text": "'Oku vahevahe 'a e kau kasitomaa, koloa mo e ngaahi totongi mo e fakatau, fale koloa mo e pa'anga."
+        },
+        {
+          "title": "Mahino 'a e ngaue faka'aho .",
+          "text": "Ko e ngaahi 'ota, fakatau mo e sitoka 'oku tuku 'a e nofo 'i he ngaahi faile kehekehe."
+        },
+        {
+          "title": "Lipooti ke tu'utu'uni .",
+          "text": "'Oku sio ki he fakatau, margin mo e pending 'o 'ikai ke fokotu'u fakataha ha tepile 'aki 'a e nima."
+        },
+        {
+          "title": "Mateuteu ke tupu .",
+          "text": "Logistics, fakatau pe ERP sums 'i he taimi 'oku kole ai 'e he ngaue."
+        }
+      ],
+      "audience": "Ko e ngaahi timi fakakomesiale mo e tufaki'anga koloa 'oku nau fakafekau'aki 'i he 'aho ni 'a e pisinisi 'i he vaha'a 'o e ngaahi sisitemi kehekehe."
+    },
+    "erp": {
+      "kicker": "Pule'anga",
+      "card": "Fakakakato 'a e pule'i mo e fakapa'anga.",
+      "features": [
+        "Faka'akauni",
+        "Totongi faka'ilekitulonika",
+        "Ngaahi Pepa Ngāue",
+        "Ngaahi koloa tu'uma'u",
+        "Kautaha lahi"
+      ],
+      "lead": "Pule'anga mo e pa'anga, 'o fakatatau ki he me'a 'oku fakatau mo'oni mo 'oatu.",
+      "about": "FullVendor ERP 'oku ne 'ufi'ufi 'a e 'akauni, invoice faka'ilekitulonika, totongi, koloa tu'uma'u mo e ngaahi kautaha lahi. 'Oku ne to'o 'a e ngaue fakakomesiale pea liliu ia ki he ngaahi hū, ngaahi tohi tali mo e ngaahi fakamatala 'e lava ke faka'aonga'i 'e he feitu'u fakapa'anga.",
+      "benefits": [
+        {
+          "title": "Fakafehokotaki 'a e 'akauni",
+          "text": "Ko e me'a 'oku hoko 'i he fakatau mo e fakatau 'oku ne fafanga 'a e 'akauni."
+        },
+        {
+          "title": "Ngaahi tohi tali totongi fakaʻilekitulōnika .",
+          "text": "'Oku ke 'oatu mo pule'i 'a e totongi mei he 'ekosisitemi tatau."
+        },
+        {
+          "title": "Ngaahi kautaha kehekehe .",
+          "text": "Kautaha lahi ki he ngaahi kulupu 'oku nau ngaue 'i he hingoa 'o e kautaha 'oku lahi ange 'i he taha."
+        },
+        {
+          "title": "Ngaahi totongi mo e ngaahi koloa .",
+          "text": "Ko e totongi mo e ngaahi koloa tu’uma’u fakataha mo e toenga ‘o e kau pule."
+        }
+      ],
+      "audience": "Ngaahi tafa'aki fakapule'anga mo fakapa'anga 'oku nau fie tapuni 'a e ngaahi fika 'aki 'a e ngaue mo'oni."
+    },
+    "logistics": {
+      "kicker": "Ngaahi me'a fakalotofonua",
+      "card": "Pule'i mo siofi ho'o ngaue fakalotofonua.",
+      "features": [
+        "Ngaahi hala mo e ngaahi tu'uaki .",
+        "Muimui'i taimi mo'oni",
+        "Vahe faka'uli",
+        "Fakalelei'i 'o e hala"
+      ],
+      "lead": "Mei he 'ota ki he tu'uaki: ngaahi hala, kau faka'uli mo e muimui'i taimi mo'oni.",
+      "about": "FullVendor Logistics fokotu'utu'u 'a e tufaki'anga koloa. 'Oku ke fa'u 'a e ngaahi hala, vahe'i 'a e kau faka'uli pea vakai ki he feitu'u 'oku 'alu ki ai 'a e tu'uaki takitaha. 'Oku tu'u 'a e timi fefononga'aki 'o fakafalala ki he ngaahi ui ke 'ilo'i pe kuo fakafolau 'a e 'ota.",
+      "benefits": [
+        {
+          "title": "Ngaahi hala 'o e 'aho .",
+          "text": "Tu'uaki 'oku 'ota 'e he sone, taimi window mo e malava."
+        },
+        {
+          "title": "Faka'uli kuo vahe",
+          "text": "Ko e hala takitaha ‘oku ‘i ai ‘a e tokotaha ‘oku ne tokanga‘i pea mo ha hokohoko mahino."
+        },
+        {
+          "title": "Muimui'i",
+          "text": "'Oku ke 'ilo'i 'a e me'a 'oku 'ave, 'i he hala pe tu'u."
+        },
+        {
+          "title": "Kilomita si'isi'i ange",
+          "text": "'Oku fakasi'isi'i 'e he optimization 'o e hala 'a e taimi mo e fakamole 'o e tu'uaki."
+        }
+      ],
+      "audience": "Ngaahi ngaue tufaki'anga koloa mo e vakapuna 'a'ana pe ngaahi paati hono tolu."
+    },
+    "supplier": {
+      "kicker": "Fakatau",
+      "card": "Portal ki he kau tu'uaki mo e pule'i 'o e fakatau.",
+      "features": [
+        "Ngaahi 'ota fakatau",
+        "Ngaahi lau 'a e kakai 'ilo",
+        "Puleʻi ʻo e kau tuʻuaki koloá",
+        "Fakataha'i mo e 'inivenitoa"
+      ],
+      "lead": "Ko ho'o kau fakatau 'oku nau quote, ma'u 'a e ngaahi 'ota mo fakafonu 'a e sitoka 'o 'ikai ha ngaahi 'imeili vetevete.",
+      "about": "Vendor Supplier fakaava ha portal ki he ngaahi fakatau mo e kau tu'uaki ke nau ngaue ki he ngaahi 'ota tatau. Ko e ngaahi quotes, ngaahi 'ota fakatau mo e tohi tali 'oku ha'i ia ki he 'inivenitoa 'o e FullVendor.",
+      "benefits": [
+        {
+          "title": "Ngaahi 'ota 'i ha halanga",
+          "text": "'Oku sio 'a e supplier ki he me'a ke 'oatu, 'o 'ikai ha seini 'imeili."
+        },
+        {
+          "title": "Ngaahi lea fakafehoanaki",
+          "text": "'Oku ke kole 'a e ngaahi totongi pea fili 'i he hisitōlia 'i he fakakaukau."
+        },
+        {
+          "title": "'Eiki 'o e Tokotaha Tu'uaki",
+          "text": "Ngaahi tu'unga, fetu'utaki mo e fakatatali 'i ha lekooti 'e taha."
+        },
+        {
+          "title": "Fakahu 'a e 'inivenitoa .",
+          "text": "Ko e me'a na'e fakatau 'oku 'asi ia 'i he sitoka 'i he taimi 'oku ma'u ai."
+        }
+      ],
+      "audience": "Fakatau 'a e ngaahi timi 'oku nau fakafonu 'aki ha kau tu'uaki 'e ni'ihi pea 'oku fie ma'u 'a e traceability."
+    },
+    "salesman": {
+      "kicker": "App telefoni to'oto'o",
+      "card": "Tohi kole telefoni to'oto'o ki he timi fakatau.",
+      "features": [
+        "Pule'i 'o e kasitomaa",
+        "Ko hono to'o 'o e 'ota",
+        "Kataloko koloa",
+        "Ngaue 'i tu'a 'i he 'initaneti"
+      ],
+      "lead": "‘Oku to‘o ‘e he kau fakataú ‘a e ngaahi ‘ota ‘i he halá, ‘o ‘i ai pe ‘ikai ha faka‘ilonga.",
+      "about": "FullVendor Sales Man 'oku ne 'ai ho'o portfolio, kataloko mo e 'ota 'oku to'o 'i he telefoni 'a e tokotaha fakatau. Kapau 'oku 'ikai ha 'initaneti, 'oku hokohoko atu 'a e ngaue pea synchronize 'i he taimi 'oku foki mai ai 'a e faka'ilonga. 'Oku a'u mai 'a e 'ota kuo mateuteu ke teuteu mo 'ave.",
+      "benefits": [
+        {
+          "title": "Pa'anga 'i he kato",
+          "text": "'Oku sio 'a e tokotaha fakatau ki he kau clients, ngaahi tu'unga mo e ngaahi me'a 'oku kei fakatatali."
+        },
+        {
+          "title": "'Ota 'i he 'a'ahi",
+          "text": "To'o 'a e 'ota mo e ngaahi totongi lolotonga mo e sitoka."
+        },
+        {
+          "title": "Kataloko fakamuimuitaha",
+          "text": "Ngaahi koloa, ngaahi faka'ali'ali mo e ngaahi totongi 'o 'ikai ha PDF motu'a."
+        },
+        {
+          "title": "Offline mo'oni",
+          "text": "Ngaue ta'e 'ufi'ufi pea synchronize 'amui ange."
+        }
+      ],
+      "audience": "Ko e kau supavaisa mo e kau fakatau 'o e mala'e 'i he tufaki'anga koloa mo e faka'aonga'i lahi."
+    },
+    "warehouse": {
+      "kicker": "App telefoni to'oto'o",
+      "card": "Tohi kole telefoni to'oto'o ki he fale koloa.",
+      "features": [
+        "Ko e talitali mo e tufaki",
+        "Ko hono to'o mo fakafonu .",
+        "Puleʻi ʻo e ʻinivenitolí",
+        "Lau 'o e Barcode"
+      ],
+      "lead": "Talitali, to'o mo e fekau'i atu mo e telefoni mo e barcode.",
+      "about": "FullVendor Warehouse tataki 'a e fale koloa 'i he talitali, to'o, fakafonu mo e fekau'i atu. Ko hono lau ‘o e ngaahi kouti ‘oku fakasi‘isi‘i ai ‘a e ngaahi fehālaakí pea ‘oku ‘ikai ke toe lau ‘a e ‘inivenitolí ‘i he faka‘osinga pē ‘o e māhiná.",
+      "benefits": [
+        {
+          "title": "Talitali fakafepaki ki he tu'utu'uni .",
+          "text": "Ko e me'a 'oku hu mai 'oku fakahoa ia ki he fakatau."
+        },
+        {
+          "title": "Ko e to'o fakataumu'a",
+          "text": "‘Oku muimui ‘a e tokotaha ‘oku ‘a‘ana ‘a e vaká ki he ‘ota pea fakapapau‘i ‘a e me‘a taki taha."
+        },
+        {
+          "title": "Ngaahi Kouti Pa",
+          "text": "Si'isi'i ange 'a e koloa, batch pe lahi 'o e ngaahi fehalaaki."
+        },
+        {
+          "title": "Sitoka falala'anga",
+          "text": "ʻOku fakafoʻou ʻe he ngaʻunu takitaha ʻa e ʻinivenitoa ʻo e peletifōmú."
+        }
+      ],
+      "audience": "Ko e kau pule fale koloa mo e kau ma‘u vaka ‘a ia ‘oku nau teuteu ‘i he ‘aho ní ‘a e ngaahi ‘ota ‘oku ‘i ai ‘a e ngaahi lisi kuo paaki."
+    },
+    "finance": {
+      "kicker": "App telefoni to'oto'o",
+      "card": "Pule'i fakapa'anga mei ho'o telefoni to'oto'o.",
+      "features": [
+        "Ngaahi 'akauni 'oku ma'u mo e totongi .",
+        "Tu'unga 'o e kasitomaa",
+        "Ngaahi totongi mo e ngaahi fakalelei .",
+        "Ngaahi lipooti fakapaʻanga ."
+      ],
+      "lead": "Ngaahi 'akauni 'oku ma'u, totongi mo e tu'unga 'o e kasitomaa, mei ho'o telefoni.",
+      "about": "FullVendor Finance 'oku fakahaa'i ai 'a e tanaki 'i he telefoni to'oto'o: ko e ha 'a e mo'ua 'a e client takitaha, ko e ha 'oku teu ke totongi 'e he kautaha pea mo e founga 'oku ha'u ai 'a e ngaahi totongi. ‘Oku ngāue‘aki ia ke tānaki pa‘anga lolotonga ‘a e ‘a‘ahí pea ke sio ki he me‘a lēsisita pa‘angá ‘o ‘ikai fakaava ‘a e tēpilé.",
+      "benefits": [
+        {
+          "title": "Ko e tanaki 'i he 'a'ahi .",
+          "text": "‘Oku ‘ilo‘i ‘e he tokotaha fakataú pe ‘oku ‘i he ‘aho ‘o e kasitomaá ki mu‘a ke ne fakataú."
+        },
+        {
+          "title": "Ma'u mo e totongi .",
+          "text": "Ko e ongo tafa'aki 'o e puha 'i he app tatau."
+        },
+        {
+          "title": "Ngaahi totongi mo e ngaahi fakalelei .",
+          "text": "'Oku ke lesisita 'a e ngaahi credit pea vakai ki he me'a 'oku fie ma'u ke kolosi."
+        },
+        {
+          "title": "Ngaahi lipooti 'oku 'i he nima",
+          "text": "Ko e ngaahi faka'ilonga 'o e tanaki mo e pa'anga 'o 'ikai tatali ki ha tapuni."
+        }
+      ],
+      "audience": "Pule, kau tanaki mo e kau fakatau 'oku nau fie ma'u 'a e tu'unga 'o e client 'i he taimi ni."
+    }
+  },
+  "why": {
+    "eyebrow": "Ko e hā FullVendor .",
+    "title": "Fakalahi ho'o pisinisi .\nmo e ngaahi ola moʻoni",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "'Oku falala 'a e ngaahi kautaha kiate kimautolu ."
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Kau faka'aonga'i malohi"
+      },
+      {
+        "value": "+10",
+        "suffix": "ngaahi ta'u",
+        "label": "‘I he ‘evalūsio tu‘uma‘ú ."
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ma'u 'o e 'ao"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Founga 'ene ngaue .",
+    "title": "Mei he fakatau atu ki he tanaki, 'o 'ikai liliu 'a e ngaahi sisitemi .",
+    "text": "'Oku vahevahe 'e he koloa takitaha 'a e kau kasitomaa, sitoka, ngaahi 'ota mo e totongi. Ko e meʻa ʻoku hoko ʻi he halá pe ʻi he fale tukuʻanga koloá ʻoku ʻasi ia ʻi he ʻōfisí ʻi he taimi pē ko iá.",
+    "steps": {
+      "sell": {
+        "title": "'Oku ke fakatau atu .",
+        "text": "'Oku fakahu 'a e 'ota 'o fakafou 'i he uepisaiti pe 'o fakafou 'i he Sales Man, na'a mo e 'ikai ha faka'ilonga."
+      },
+      "pick": {
+        "title": "Māau",
+        "text": "Warehouse ma'u, fakamavahe'i mo e fekau'i atu 'aki 'a e barcode."
+      },
+      "deliver": {
+        "title": "Ngaahi tu'uaki",
+        "text": "Logistics 'oku ne vahe'i 'a e hala pea muimui ki he tu'uaki."
+      },
+      "collect": {
+        "title": "Kopa",
+        "text": "Finance mo e ERP tapuni 'a e tanaki, 'a e ngaahi tohi tali mo e ngaahi fika."
+      }
+    }
+  },
+  "band": {
+    "title": "Mateuteu ke sio ki ai mo e [[hoʻo tafa]]?",
+    "text": "'Oku mau fakahaa'i atu 'a e ecosystem mo ha keisi tufaki'anga koloa 'oku tatau mo ho'o."
+  },
+  "footer": {
+    "blurb": "Uepi mo e tu'unga fe'ave'aki pa'anga ki he tufaki'anga koloa, fakatau, logistics, fakatau, 'inivenitoa mo e pa'anga.",
+    "products": "Ngaahi koloa",
+    "company": "Kautaha",
+    "legal": "Fakalao",
+    "privacy": "Ikai fakahā'i holo",
+    "terms": "Ngaahi tu'utu'uni",
+    "rights": "ʻOku tauhi ʻa e ngaahi totonu kotoa pē."
+  },
+  "solutions": {
+    "eyebrow": "Ngaahi solova'anga",
+    "title": "Ko e feituʻu takitaha, ʻoku fehokotaki ki he [[ngaue tatau]].",
+    "intro": "Fili ʻaki ʻa e palopalema ʻokú ke fie solová. 'I mui, 'oku vahevahe 'e he ngaahi koloa 'a e fakamatala tatau.",
+    "items": {
+      "commercial": {
+        "title": "Pule'i fakakomesiale .",
+        "text": "Ngaahi 'ota, totongi, kau kasitomaa mo e ngaahi koloa ki he tufaki'anga koloa faka'aho."
+      },
+      "field": {
+        "title": "kau fakatau",
+        "text": "Ko e kau fakatau 'oku nau to'o 'a e ngaahi 'ota 'i he hala, 'i he 'initaneti pe 'i he 'initaneti."
+      },
+      "warehouse": {
+        "title": "Fale koloa",
+        "text": "Talitali, picking, dispatch mo ha sitoka 'e lava ke falala ki ai."
+      },
+      "logistics": {
+        "title": "Fakalotofonua mo e tu'uaki",
+        "text": "Ngaahi hala, kau faka'uli mo e tu'unga 'o e tu'uaki takitaha."
+      },
+      "purchasing": {
+        "title": "Fakatau mo e kau tu'uaki .",
+        "text": "Quotes, 'ota mo ha portal ki ha taha 'oku ne 'oatu koe."
+      },
+      "finance": {
+        "title": "Pa'anga mo e 'akauni .",
+        "text": "Ngaahi tanaki pa'anga, totongi, totongi faka'ilekitulonika mo e 'akauni."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Ngaahi Ngaue'anga",
+    "title": "Ngaohi ma'anautolu 'oku [[hiki koloa]].",
+    "intro": "FullVendor na'e fanau'i 'i he tufaki'anga koloa pea 'oku 'alu fakataha mo e ngaahi kautaha 'oku nau fakatau, tanaki, fakatau atu mo e tu'uaki.",
+    "items": {
+      "wholesale": {
+        "title": "Tufaki mo e fakatau fakalukufua",
+        "text": "Lisi totongi, portfolio, tufaki mo e tanaki 'i ha sēketi 'e taha."
+      },
+      "retail": {
+        "title": "Movetevete",
+        "text": "Falekoloa mo e fale koloa mo e sitoka fehokotaki, fakatau mo e fakafonu."
+      },
+      "food": {
+        "title": "Me'akai mo e inu .",
+        "text": "Ngaahi hala toutou mo ha fale koloa 'oku 'ikai lava ke tu'u."
+      },
+      "pharma": {
+        "title": "Falekoloa faito'o mo e tokanga'i fakafo'ituitui .",
+        "text": "Talitali, to'o mo e pule'i 'o e 'inivenitoa mo e traceability."
+      },
+      "hardware": {
+        "title": "Hardware mo e langa .",
+        "text": "Lahi 'a e ngaahi lave, kau tu'uaki mo e ngaahi tu'uaki ki he ngaue pe falekoloa."
+      },
+      "fmcg": {
+        "title": "Faka'aonga'i lahi",
+        "text": "Ko e kau fakatau 'i he hala mo e fetongi 'o e turnover ma'olunga."
+      },
+      "manufacturing": {
+        "title": "Ngaohi",
+        "text": "Fakatau, fale tuku'anga koloa mo e 'inivenitoa 'oku fakafe'unga'i mo e pule'anga."
+      },
+      "lastmile": {
+        "title": "Tu'uaki mo e maile faka'osi",
+        "text": "Ngaahi hala, kau faka'uli mo e tu'unga 'o e tu'uaki takitaha."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ngaaahi naunau",
+    "title": "Ngaahi fakakaukau mahino ke [[ʻota ʻa e ngāué]].",
+    "intro": "Ngaahi fakahinohino nounou ki he kau pule tufaki'anga koloa 'oku nau 'alu ke fakapapau'i pe ko e fē 'a e sisitemi ke nau piki ki ai.",
+    "items": {
+      "unify": {
+        "title": "Founga ke fakatahataha'i 'a e tufaki'anga koloa ki ha sisitemi 'e taha .",
+        "summary": "Ko e me'a ke fokotu'u fakataha 'uluaki 'i he taimi 'oku nofo ai 'a e fakatau, fale koloa mo e ngaahi tanaki'anga 'i he ngaahi faile kehekehe.",
+        "points": [
+          "Kamata 'aki 'a e kau kasitomaa, koloa mo e ngaahi totongi: ko kinautolu 'a e faiako 'oku faka'aonga'i 'e he tokotaha kotoa pe.",
+          "Fakafehokotaki 'a e 'ota mo e sitoka kimu'a pea toki tanaki atu ha ngaahi tohi kole lahi ange.",
+          "ʻOkú ne fua ha fika faingofua: ngaahi ʻota ʻoku fakahoko ʻo ʻikai toe fai ʻa e foomu."
+        ]
+      },
+      "offline": {
+        "title": "Ngaue 'a e kau fakatau 'o 'ikai 'i he 'initaneti",
+        "summary": "Ko e me'a ke fie ma'u mei ha app 'ota koe'uhi ke 'oua na'a tu'u 'a e tokotaha fakatau koe'uhi ko e faka'ilonga.",
+        "points": [
+          "Ko e kataloko mo e kato pa'anga kuo pau ke 'i he telefoni, 'o 'ikai 'i he 'ao pe.",
+          "'Oku fakahaofi 'a e 'ota 'i he device pea 'oku 'oatu ia 'i he taimi 'oku foki mai ai 'a e netiueka.",
+          "'I he taimi 'oku synchronizing, 'Oku 'osi hū 'a e 'ota ki he fale koloa."
+        ]
+      },
+      "warehouse": {
+        "title": "Fale koloa mo e barcode, ta'e 'i ai ha pepa",
+        "summary": "Founga ke 'alu mei he lisi kuo paaki ki he fakapapau'i 'o e to'o 'i he telefoni.",
+        "points": [
+          "Maʻu ʻo fakafepakiʻi ʻa e ʻota fakataú, ʻo ʻikai fakafepakiʻi ʻa e manatú.",
+          "Fakapapauʻi ʻa e meʻa takitaha ʻi he taimi ʻoku mavahe aí. ʻOku motuhi ʻe he ʻuhikiʻi manupuná ʻa e holó.",
+          "'Oku fakafo'ou 'e he dispatch 'a e sitoka 'oku sio ki ai 'a e tokotaha fakatau."
+        ]
+      },
+      "finance": {
+        "title": "Ko e tanaki 'oku fakafe'unga'i mo e fakatau .",
+        "summary": "Ko e ha 'oku totonu ke sio ai 'a e tokotaha fakatau ki he mo'ua 'a e kasitomaa kimu'a pea toki to'o ha 'ota 'e taha.",
+        "points": [
+          "Ko e 'a'ahi ko e taimi lelei taha ia ke tanaki ai, kapau 'oku 'asi mai 'a e mo'ua.",
+          "Ko e fakatau mo e pa'anga kuo pau ke na sio ki he kasitomaa tatau.",
+          "Ko ha lipooti fakaʻaho ʻoku ʻosi ʻosi ʻoku mahuʻinga ange ia ʻi ha tāpuni tōmui."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ngaahi totongi",
+    "title": "Ko ha ʻekosisitemi ʻoku [[tupu mo koe]].",
+    "intro": "'Oku 'ikai ke tau pulusi ha totongi fakalukufua: 'oku fakafalala 'a e fakamole 'i he modules, kau faka'aonga'i mo e lahi. 'Oku mau fakahaa'i atu 'a e tu'unga pea fokotu'u fakataha ha fokotu'u mo ho'o ngaue.",
+    "note": "Ko e demo 'oku 'ikai ha totongi pea 'oku 'ikai fiema'u ha aleapau.",
+    "recommended": "Fokotu'u fakakaukau",
+    "faq_title": "Ngaahi fehu'i 'oku toutou 'eke .",
+    "plans": {
+      "essential": {
+        "name": "Uhoʻi",
+        "desc": "Ke fokotu'utu'u 'a e pule'i fakakomesiale mo e tufaki'anga 'i ha tu'unga 'e taha.",
+        "features": [
+          "FullVendor tu'unga 'o e uepi",
+          "Fakatau, fakatau mo e ngaahi koloa",
+          "Kau fakatau, kau tu'uaki mo e ngaahi lipooti",
+          "Kau ngāue‘aki ‘a e ngaahi me‘angāue ‘ōfisí .",
+          "Poupou ki he kamata'anga"
+        ],
+        "cta": "Kole Demo"
+      },
+      "professional": {
+        "name": "Tokotaha 'osi teu'i kiai",
+        "desc": "Ki he ngaahi timi 'oku nau fakatau atu 'i he hala pea teuteu 'a e ngaahi 'ota 'i he fale koloa.",
+        "features": [
+          "Ko e Me'a Mahu'inga Kotoa Pe .",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Ngaue 'i tu'a 'i he 'initaneti mo e ngaahi barcode .",
+          "Lahi ange 'a e kau faka'aonga'i 'o e mala'e mo e fale koloa"
+        ],
+        "cta": "Kole Demo"
+      },
+      "corporate": {
+        "name": "Kautaha",
+        "desc": "Mo e ngaahi kulupu 'oku nau fiema'u 'a e ngaahi me'a fakalotofonua, fakatau, pa'anga mo e ngaahi kautaha kehekehe.",
+        "features": [
+          "Kakato 'a e 'ekosisitemi",
+          "Logistics, Vendor Supplier mo e Finance",
+          "FullVendor ERP mo e ngaahi nofo totongi lahi .",
+          "Ko e totongi faka'ilekitulonika mo e 'akauni .",
+          "Fakafe'ao mo e ma'u 'o e fakamu'omu'a ."
+        ],
+        "cta": "Talanoa ki he kau fakatau ."
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Kuo pau ke u fakatau kotoa e ngaahi koloá?",
+        "a": "Ikai 'E lava ke ke kamata 'aki 'a e FullVendor pea tanaki atu 'a e ngaahi apps pe ERP 'i he taimi 'oku fie ma'u ai 'e he ngaue."
+      },
+      "offline": {
+        "q": "'Oku ngaue 'a e ngaahi polokalama 'o 'ikai ha 'initaneti?",
+        "a": "Sales Man mo e Warehouse hokohoko atu 'a e ngaue 'o 'ikai ha faka'ilonga pea synchronize 'i he taimi 'oku toe fehokotaki ai."
+      },
+      "multi": {
+        "q": "‘Oku ola lelei kapau ‘oku lahi ange ‘i he taha ‘eku kautaha?",
+        "a": "ʻIo. ERP fakakaukau'i 'a e ngaahi kautaha lahi pea 'e lava ke vahevahe 'e he ecosystem 'a e kau 'eiki 'i hona vaha'a."
+      },
+      "demo": {
+        "q": "Ko e hā ʻoku kau ʻi he fakaʻaliʻalí?",
+        "a": "Ko ha ʻaʻahi ki he peletifōmú mo ha keisi ʻoku tatau mo hoʻo keisi. ‘Ikai ha totongi pea ‘ikai ha fatongia."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Faka'ali'ali",
+    "title": "'Oku mau fakahaa'i atu 'a e FullVendor mo e [[ho'o fa'ahinga ngaue]].",
+    "text": "Tala mai ho'o kautaha mo e me'a 'oku ke fie 'ota 'uluaki. Ko e demo 'oku 'ikai ha totongi."
+  },
+  "contact": {
+    "eyebrow": "Fetu'utaki",
+    "title": "Tau talanoa ki he [[hoʻo tafa]].",
+    "text": "Kapau 'oku ke fie ma'u ha demo, ha fokotu'u pe ke orient pe koe 'i he vaha'a 'o e ngaahi koloa, tuku ho'o fakamatala pea te mau tali.",
+    "email": "Meili",
+    "phone": "Telefoni",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Hingoa",
+    "email": "Meili",
+    "phone": "Telefoni",
+    "company": "Kautaha",
+    "country": "Fonua",
+    "team": "Lahi 'o e timi",
+    "interest": "Ko e hā ‘okú ke mahu‘inga‘ia aí?",
+    "message": "Fekau",
+    "optional": "Fili pē",
+    "choose": "Fili",
+    "interest_all": "Ko e ‘ekosisitemi kotoa .",
+    "ph_name": "ho hingoa",
+    "ph_email": "koe@kautaha.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ko ho'o kautaha .",
+    "ph_country": "Fonua",
+    "ph_message": "Tala mai pe 'oku anga fefe ho'o ngaue he 'aho ni .",
+    "privacy_before": "'Oku ou tali 'a hono ngaue'aki 'eku fakamatala 'o fakatatau ki he .",
+    "privacy_after": ".",
+    "submit": "ʻAve ha kole",
+    "sent_title": "'Oku mau tali ho'o kole .",
+    "sent_text": "Mālō. 'E tohi atu 'a e timi fakatau kiate koe ke ke fakafekau'aki 'a e demo pe tali ho'o fehu'i.",
+    "error_required": "Fakakakato ʻa e malaʻe ko ʻení.",
+    "error_email": "Fakahu ha 'imeili 'oku 'aonga.",
+    "error_phone": "Vakaiʻi ʻa e telefoní.",
+    "error_privacy": "'Oku mau fie ma'u ho'o fakangofua ke faka'aonga'i 'a e ngaahi fakaikiiki fetu'utaki.",
+    "error_csrf": "Kuo 'osi 'a e taimi 'o e session. Toe fakahū mai ʻa e foomu.",
+    "error_save": "Naʻe ʻikai ke mau lava ʻo fakahaofi ʻa e kolé. Toe feinga.",
+    "error_generic": "Toe vakaiʻi ʻa e ngaahi malaʻe kuo fakaʻilongaʻí.",
+    "error_rate": "Kataki 'o ki'i tatali kimu'a pea toki fakahu mai ha toe kole.",
+    "team_options": {
+      "1-10": "1 ki he 10 kakai",
+      "11-50": "11 ki he 50 kakai .",
+      "51-200": "51 ki he 200 kakai .",
+      "201-500": "201 ki he 500 kakai .",
+      "500+": "Laka hake he kakai ‘e toko 500 ."
+    }
+  },
+  "video": {
+    "title": "FullVendor 'i he miniti 'e taha .",
+    "prev": "Kimu'a",
+    "next": "Muimui",
+    "slides": [
+      {
+        "title": "Ko ha 'ekosisitemi 'e taha .",
+        "text": "Fakatau, fale koloa, tu'uaki, fakatau mo e pa'anga vahevahe 'a e kau kasitomaa, sitoka mo e ngaahi 'ota."
+      },
+      {
+        "title": "Web mo e mobile fakataha .",
+        "text": "‘Oku ngāue ‘a e ‘ōfisí ‘i he peletifōmú. Ko e hala mo e fale koloa, 'i he ngaahi apps, na'a mo e 'ikai ha faka'ilonga."
+      },
+      {
+        "title": "Ngaohi ke tufaki .",
+        "text": "Mei he 'ota ki he totongi, 'o 'ikai ke paasi 'a e fakamatala mei he faile 'e taha ki he faile 'e taha."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Fekumi ki he ngaahi koloa, ngaahi fakalelei'anga, ngaahi ngaue'anga...",
+    "lang_filter": "Fekumi ki he lea",
+    "intro": "Fekumi ki he ngaahi koloa, ngaahi fakalelei'anga, ngaahi ngaue'anga mo e ngaahi ma'u'anga tokoni.",
+    "empty": "Na’e ‘ikai ke mau ma’u ha ola ki he “{q}”.",
+    "hint": "Feinga ki he fakatau, fale koloa, ngaahi hala pe ngaahi tanaki'anga.",
+    "results": "{n} ngaahi ola",
+    "button": "Kumi ki he .",
+    "kind_product": "Koloa",
+    "kind_solution": "Founga",
+    "kind_industry": "Fale ngaohi'anga koloa",
+    "kind_resource": "Maʻuʻanga tokoni"
+  },
+  "notfound": {
+    "title": "Ko e peesi ko eni 'oku 'ikai .",
+    "text": "'Oku 'ikai ke 'i ai 'a e fehokotaki'anga pe kuo liliu 'a e feitu'u."
+  },
+  "common": {
+    "what": "Ko e hā ʻokú ne solova .",
+    "features": "Ko e hā ʻoku kau ki aí",
+    "benefits": "Ko e hā ʻoku mahuʻinga aí",
+    "for_who": "Ko hai ia?",
+    "related": "Foki 'i he 'ekosisitemi ."
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Fakatau he 'aho ni",
+      "orders": "Ngaahi 'ota",
+      "clients": "Kau kasitomaa",
+      "products": "Ngaahi koloa"
+    },
+    "sidebar": {
+      "dashboard": "Tesipapa",
+      "sales": "Fakatau",
+      "purchases": "Fakatau",
+      "inventory": "Lisi 'o e koloa",
+      "clients": "Kau kasitomaa",
+      "reports": "Ngaahi Lipooti"
+    },
+    "chart": "Fakatau",
+    "channel": "Tufaki 'i he channel",
+    "channels": [
+      "Fale koloa",
+      "Vahevahe",
+      "Fakatau lahi",
+      "Ko e niʻihi kehé"
+    ],
+    "orders": "Ngaahi 'ota fakamuimuitaha",
+    "col_order": "Hokohoko",
+    "col_client": "Kasitomā",
+    "col_status": "Vahefonua",
+    "col_total": "Fakakātoa",
+    "status": [
+      "Osi 'ave",
+      "'I he hala",
+      "Telinga"
+    ],
+    "top": "Koloa fakatau lelei taha",
+    "product": "Koloa",
+    "sales_menu": [
+      "Kau kasitomaa",
+      "Ngaahi 'ota",
+      "Ngaahi koloa",
+      "Ngaahi Hala",
+      "Fakafe'unga'i"
+    ],
+    "warehouse_menu": [
+      "Polokalama talitali",
+      "Ko e to'o",
+      "Lisi 'o e koloa",
+      "Tuku atu",
+      "Fakafe'unga'i"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Tu'utu'uni Fakalukufua",
+    "privacy_intro": "‘Oku fakamatala‘i ‘e he tu‘utu‘uni ko ení ‘a e me‘a ‘oku mau fai ki he fakamatala ‘okú ke tuku ‘i he ngaahi foomu ‘i he saiti ko ení.",
+    "privacy": [
+      {
+        "title": "Ko e hā e ngaahi fakamatala ʻoku mau tānakí",
+        "text": "Kapau te ke kole ha faka'ali'ali pe tohi mai kiate kimautolu, 'Oku mau fakahaofi 'a e hingoa, kautaha, 'imeili, fika telefoni kapau 'oku ke fakahaa'i ia, 'a e fonua, 'a e lahi 'o e timi, 'a e koloa 'o e manako mo e fekau. 'Oku mau lekooti foki 'a e 'aho, lea 'o e peesi mo e tu'asila IP, ke ta'ofi 'a e ngaahi fakahu 'oku ngaue kovi."
+      },
+      {
+        "title": "Ko e hā ʻoku tau fakaʻaongaʻi ai kinautolú?",
+        "text": "'Oku mau faka'aonga'i 'a e fakamatala ko 'eni ke tali pe kiate koe, fakafekau'aki ha faka'ali'ali mo teuteu ha fokotu'u fakakomesiale. ‘Oku ‘ikai te mau fakatau atu kinautolu pe ‘oange kinautolu ki ha lisi ‘o e ngaahi paati ‘e tolu."
+      },
+      {
+        "title": "‘Oku tauhi kinautolu ‘i fē pea ko e hā hono fuoloá?",
+        "text": "'Oku tanaki 'a e ngaahi kole 'i he server 'o e saiti ko 'eni. 'Oku mau tauhi kinautolu ki he taimi 'oku fie ma'u ke tauhi koe mo e muimui'i fakakomesiale, pea 'oku mau tamate'i kinautolu 'i he taimi 'oku ke kole mai ai pe 'i he taimi 'oku 'ikai ke nau toe fie ma'u ai."
+      },
+      {
+        "title": "Ko ho'o ngaahi totonu .",
+        "text": "Te ke lava ʻo kole ke hū, fakatonutonu pe tamateʻi hoʻo fakamatala mei he foomu fetuʻutakí, ʻo fakahaaʻi ia ʻi he pōpoakí. Kapau 'e pulusi 'e he kautaha ha 'imeili 'i he uepisaiti ko 'eni, 'e lava foki ke ke tohi 'i ai."
+      }
+    ],
+    "terms_title": "Ngaahi tu'utu'uni hono ngaue'aki",
+    "terms_intro": "'Oku faka'aonga'i 'a e ngaahi tu'unga ko 'eni ki hono faka'aonga'i 'o e saiti fakahu FullVendor ko 'eni.",
+    "terms": [
+      {
+        "title": "Ngaahi fakamatala fakakomesiale .",
+        "text": "Ngaahi tohi, fakatata 'o e ngaahi fakatata 'o e dashboard mo e ngaahi fakamatala 'oku fakafe'iloaki 'a e tu'unga. 'E lava ke nau fakatonutonu 'i he taimi 'oku liliu ai 'a e koloa pea 'oku 'ikai ko ha foaki tapuni."
+      },
+      {
+        "title": "Ko e demo 'oku 'ikai ko ha aleapau .",
+        "text": "Ko hono fakahū atu ‘o e foomu ‘oku ‘ikai ke ne fakatupu ha fatongia ke fakatau pe tauhi ha totongi. Ko ha aleapau pē ‘oku alea‘i kehekehe ia, ‘i ha tohi, mo hono tu‘unga mo e ngaahi tu‘unga."
+      },
+      {
+        "title": "Kakano 'o e saiti",
+        "text": "Ko e FullVendor faka'ilonga fakatau, ngaahi hingoa 'o e koloa mo e kakano 'o e ngaahi peesi ko 'eni 'oku 'a kinautolu 'oku 'anautolu. He ʻikai lava ke nau hiki tatau ke ʻoatu ha koloa ʻe taha."
+      },
+      {
+        "title": "Fakaʻaongaʻi ʻoku tali",
+        "text": "'Oua 'e ngaue'aki 'a e ngaahi foomu ke fakahu mai ha fakamatala loi, spam pe ngaahi me'a ta'efakalao. Te tau tukunoa‘i nai ‘a e ngaahi kole ‘oku ‘ikai fehoanaki mo ha fetalanoa‘aki fakapisinisi mo‘oni."
+      }
+    ]
+  }
+}

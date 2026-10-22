@@ -73,6 +73,28 @@ function available_locales(): array
     if ($cache !== null) {
         return $cache;
     }
+    $pinned = ['es', 'en', 'pt'];
+    $rest = LOCALES;
+    $cache = [];
+    foreach ($pinned as $code) {
+        if (isset($rest[$code])) {
+            $cache[$code] = $rest[$code];
+            unset($rest[$code]);
+        }
+    }
+    uasort($rest, static fn (array $a, array $b): int => strcasecmp($a['name'], $b['name']));
+    foreach ($rest as $code => $meta) {
+        $cache[$code] = $meta;
+    }
+    return $cache;
+}
+
+function translated_locales(): array
+{
+    static $cache = null;
+    if ($cache !== null) {
+        return $cache;
+    }
     $cache = [];
     foreach (LOCALES as $code => $meta) {
         if (is_file(FV_ROOT . '/lang/' . $code . '.json')) {
@@ -80,6 +102,20 @@ function available_locales(): array
         }
     }
     return $cache;
+}
+
+function locale_has_copy(string $code): bool
+{
+    return isset(translated_locales()[$code]);
+}
+
+function locale_flag(string $code): string
+{
+    $flag = strtolower((string) (LOCALES[$code]['flag'] ?? ''));
+    if (!preg_match('/^[a-z]{2}$/', $flag)) {
+        return '<span class="fi fi-empty" aria-hidden="true"></span>';
+    }
+    return '<span class="fi fi-' . $flag . '" aria-hidden="true"></span>';
 }
 
 function load_lang(string $code): array
@@ -124,7 +160,7 @@ function i18n_get(string $key): mixed
     if ($value !== null) {
         return $value;
     }
-    foreach (['en', 'es'] as $fallback) {
+    foreach (['es', 'en'] as $fallback) {
         if ($fallback === ($locale ?? '')) {
             continue;
         }
@@ -181,6 +217,9 @@ function rich(string $key, array $vars = []): string
 function route_slug(string $lang, string $pageId): string
 {
     $routes = load_lang($lang)['routes'] ?? [];
+    if (!is_array($routes) || !isset($routes[$pageId]) || $routes[$pageId] === '') {
+        $routes = $lang === 'es' ? [] : (load_lang('es')['routes'] ?? []);
+    }
     $slug = is_array($routes) ? (string) ($routes[$pageId] ?? $pageId) : $pageId;
     return safe_slug($slug, $pageId);
 }

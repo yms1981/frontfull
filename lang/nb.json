@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Administrer og utvide virksomheten din",
+    "home_desc": "Alt-i-ett-plattform med web- og mobilløsninger for distribusjon, salg, logistikk, innkjøp, varelager og økonomi.",
+    "products_title": "Produkter | FullVendor",
+    "products_desc": "Bli kjent med økosystemet FullVendor: kommersiell plattform, ERP, logistikk, leverandører og salg, lager- og økonomiapper.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Løsninger | FullVendor",
+    "solutions_desc": "Løsninger for kommersiell ledelse, salgsstyrke, lager, logistikk, innkjøp og økonomi.",
+    "industries_title": "Industrier | FullVendor",
+    "industries_desc": "FullVendor for distribusjon, detaljhandel, mat, apotek, maskinvare, masseforbruk, produksjon og siste mil.",
+    "pricing_title": "Priser | FullVendor",
+    "pricing_desc": "Essensielle, profesjonelle og bedriftsplaner. Forslaget er satt sammen etter moduler, brukere og volum.",
+    "resources_title": "Ressurser | FullVendor",
+    "resources_desc": "Korte guider for å forene distribusjon, selge offline, organisere lageret og få betalt i tide.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Skriv til oss for å lære om FullVendor eller koordiner en samtale med salgsteamet.",
+    "demo_title": "Be om demo | FullVendor",
+    "demo_desc": "Be om en demo av FullVendor og gå rundt på plattformen med en sak som ligner på operasjonen din.",
+    "privacy_title": "Personvern | FullVendor",
+    "terms_title": "Vilkår | FullVendor",
+    "search_title": "Søk | FullVendor",
+    "notfound_title": "Siden ikke funnet | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Hjemmeside",
+    "products": "Produkter",
+    "solutions": "Løsninger",
+    "industries": "Industrier",
+    "pricing": "Priser",
+    "resources": "Ressurser",
+    "contact": "Kontakt",
+    "open_menu": "Åpne menyen",
+    "close": "Lukke"
+  },
+  "cta": {
+    "demo": "Be om demo",
+    "contact": "Kontakt oss",
+    "video": "Se video",
+    "talk": "Snakk med salg",
+    "all_products": "Se alle produktene",
+    "home": "Gå tilbake til hjemmesiden"
+  },
+  "a11y": {
+    "skip": "Gå til innhold",
+    "primary": "Hovednavigasjon",
+    "crumbs": "Navigasjonsrute",
+    "search": "Se etter",
+    "language": "Språk"
+  },
+  "hero": {
+    "eyebrow": "Alt på én plattform",
+    "title": "Administrer og vokse\ndin virksomhet med\n{{brand}}",
+    "subtitle": "En komplett plattform med web- og mobilløsninger for distribusjon, salg, logistikk, innkjøp, varelager, økonomi med mer.",
+    "pill_ecosystem": "Alt i ett enkelt økosystem",
+    "pill_cloud": "I skyen, sikker og skalerbar",
+    "pill_size": "For bedrifter i alle størrelser"
+  },
+  "products_block": {
+    "eyebrow": "Våre produkter",
+    "title": "Et [[komplett økosystem]] for hvert område av virksomheten din",
+    "aside": "Integrerte løsninger som jobber sammen for å gi deg total kontroll, operasjonell effektivitet og større vekst.",
+    "groups": {
+      "money": "Administrasjon og innkreving",
+      "flow": "Kjøp og levering",
+      "field": "Salg og lager"
+    }
+  },
+  "products_page": {
+    "title": "Sju produkter, [[enkel operasjon]]",
+    "text": "Hvert produkt løser et område. Sammen deler de kunder, lager, bestillinger og betalinger."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plattform",
+      "card": "Hovedplattform for kommersiell styring og distribusjon.",
+      "features": [
+        "Salg og kjøp",
+        "Inventar",
+        "Kunder og leverandører",
+        "Rapporter og mer"
+      ],
+      "lead": "Sentrum av din kommersielle drift: bestillinger, priser, lager og kunder på ett sted.",
+      "about": "FullVendor erstatter en distributørs løse regneark og systemer. Herfra kommer bestillinger ut, varelager konsulteres, kundeportefølje ivaretas og dagens tall blir sett på. Resten av økosystemet kobles til denne basen.",
+      "benefits": [
+        {
+          "title": "En enkelt datamaster",
+          "text": "Kunder, produkter og priser deles med salg, lager og økonomi."
+        },
+        {
+          "title": "Tydelig daglig drift",
+          "text": "Bestillinger, kjøp og lager slutter å leve i forskjellige filer."
+        },
+        {
+          "title": "Rapporter å bestemme",
+          "text": "Salg, margin og ventende ses uten å sette sammen en tabell for hånd."
+        },
+        {
+          "title": "Klar til å vokse",
+          "text": "Logistikk, salgsstyrke eller ERP summer når driften ber om det."
+        }
+      ],
+      "audience": "Kommersielle og distribusjonsteam som i dag koordinerer virksomheten mellom flere systemer."
+    },
+    "erp": {
+      "kicker": "Administrasjon",
+      "card": "Fullstendig administrativ og økonomisk styring.",
+      "features": [
+        "Regnskap",
+        "Elektronisk fakturering",
+        "Arbeidsark",
+        "Anleggsmidler",
+        "Multibedrift"
+      ],
+      "lead": "Administrasjon og økonomi, på linje med det som faktisk selges og leveres.",
+      "about": "FullVendor ERP omfatter regnskap, elektronisk fakturering, lønn, anleggsmidler og multibedrift. Den tar den kommersielle driften og konverterer den til posteringer, kvitteringer og erklæringer som finansområdet kan bruke.",
+      "benefits": [
+        {
+          "title": "Koblet regnskap",
+          "text": "Hva som skjer i salg og kjøp feeds regnskap."
+        },
+        {
+          "title": "Elektroniske kvitteringer",
+          "text": "Du utsteder og kontrollerer fakturering fra samme økosystem."
+        },
+        {
+          "title": "Ulike selskaper",
+          "text": "Multibedrift for grupper som opererer under mer enn ett firmanavn."
+        },
+        {
+          "title": "Lønn og eiendeler",
+          "text": "Lønn og anleggsmidler sammen med resten av ledelsen."
+        }
+      ],
+      "audience": "Administrative og økonomiske områder som ønsker å lukke tallene med den reelle driften."
+    },
+    "logistics": {
+      "kicker": "Logistikk",
+      "card": "Kontroll og overvåking av din logistikkdrift.",
+      "features": [
+        "Ruter og leveranser",
+        "Sanntidssporing",
+        "Sjåføroppdrag",
+        "Ruteoptimalisering"
+      ],
+      "lead": "Fra bestilling til levering: ruter, sjåfører og sanntidssporing.",
+      "about": "FullVendor Logistics organiserer utdelingen. Du oppretter ruter, tildeler sjåfører og ser hvor hver leveranse går. Trafikkteamet stopper avhengig av anrop for å finne ut om bestillingen er sendt.",
+      "benefits": [
+        {
+          "title": "Dagens ruter",
+          "text": "Leveranser sortert etter sone, tidsvindu og kapasitet."
+        },
+        {
+          "title": "Tildelt sjåfør",
+          "text": "Hver rute har en ansvarlig person og en tydelig rekkefølge."
+        },
+        {
+          "title": "Oppfølging",
+          "text": "Du vet hva som leveres, på vei eller stoppet."
+        },
+        {
+          "title": "Færre kilometer",
+          "text": "Ruteoptimalisering reduserer leveringstid og kostnader."
+        }
+      ],
+      "audience": "Distribusjonsvirksomhet med egen flåte eller tredjeparter."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Portal for leverandører og innkjøpsledelse.",
+      "features": [
+        "Innkjøpsordrer",
+        "Sitater",
+        "Leverandørstyring",
+        "Integrasjon med inventar"
+      ],
+      "lead": "Dine leverandører gir tilbud, mottar bestillinger og fyller på lager uten løse e-poster.",
+      "about": "Vendor Supplier åpner en portal der innkjøp og leverandører kan jobbe på samme ordre. Tilbud, innkjøpsordrer og kvittering er knyttet til beholdningen i FullVendor.",
+      "benefits": [
+        {
+          "title": "Bestillinger i en kanal",
+          "text": "Leverandøren ser hva som skal leveres, uten e-postkjede."
+        },
+        {
+          "title": "Sammenlignbare sitater",
+          "text": "Du spør etter priser og velger med historikken i sikte."
+        },
+        {
+          "title": "Leverandørmester",
+          "text": "Betingelser, kontakter og ventende i en enkelt post."
+        },
+        {
+          "title": "Gå inn i beholdningen",
+          "text": "Det som ble kjøpt gjenspeiles på lageret når det mottas."
+        }
+      ],
+      "audience": "Innkjøpsteam som fyller på med flere leverandører og trenger sporbarhet."
+    },
+    "salesman": {
+      "kicker": "Mobilapp",
+      "card": "Mobilapplikasjon for salgsteam.",
+      "features": [
+        "Kundebehandling",
+        "Bestilling tar",
+        "Produktkatalog",
+        "Offline arbeid"
+      ],
+      "lead": "Salgsstyrken tar imot bestillinger på gaten, med eller uten signal.",
+      "about": "FullVendor Sales Man setter din portefølje, katalog og ordre over på selgerens telefon. Hvis det ikke er internett, fortsetter arbeidet og synkroniseres når signalet kommer tilbake. Bestillingen kommer klar til klargjøring og levering.",
+      "benefits": [
+        {
+          "title": "Lommebok i lommen",
+          "text": "Selgeren ser kunder, betingelser og ventende varer."
+        },
+        {
+          "title": "Bestill ved besøk",
+          "text": "Ta bestillingen med gjeldende priser og lager."
+        },
+        {
+          "title": "Katalog oppdatert",
+          "text": "Produkter, presentasjoner og priser uten gammel PDF."
+        },
+        {
+          "title": "Virkelig offline",
+          "text": "Arbeid uten dekning og synkroniser senere."
+        }
+      ],
+      "audience": "Veiledere og feltselgere innen distribusjon og masseforbruk."
+    },
+    "warehouse": {
+      "kicker": "Mobilapp",
+      "card": "Mobilapplikasjon for lager.",
+      "features": [
+        "Mottak og utsendelse",
+        "Plukking og pakking",
+        "Lagerkontroll",
+        "Strekkodelesing"
+      ],
+      "lead": "Mottak, plukking og utsendelse med telefon og strekkode.",
+      "about": "FullVendor Warehouse veileder lageret i mottak, plukking, pakking og utsendelse. Lesing av koder reduserer feil og varelager telles ikke lenger bare ved slutten av måneden.",
+      "benefits": [
+        {
+          "title": "Mottak mot bestilling",
+          "text": "Det som kommer inn sammenlignes med kjøpet."
+        },
+        {
+          "title": "Målrettet plukking",
+          "text": "Rederen følger bestillingen og bekrefter hver vare."
+        },
+        {
+          "title": "Strekkoder",
+          "text": "Færre produkt-, batch- eller mengdefeil."
+        },
+        {
+          "title": "Pålitelig lager",
+          "text": "Hvert trekk oppdaterer plattformens beholdning."
+        }
+      ],
+      "audience": "Lagersjefer og redere som i dag utarbeider bestillinger med trykte lister."
+    },
+    "finance": {
+      "kicker": "Mobilapp",
+      "card": "Økonomistyring fra mobilen.",
+      "features": [
+        "Kundefordringer og -gjeld",
+        "Kundestatus",
+        "Betalinger og avstemminger",
+        "Økonomiske rapporter"
+      ],
+      "lead": "Kundefordringer, betalinger og kundestatus, fra telefonen din.",
+      "about": "FullVendor Finance viser innkrevingen på mobilen: hva hver kunde skylder, hva selskapet er i ferd med å betale og hvordan betalingene kommer. Den brukes til å samle inn penger under besøket og til å se i kassen uten å åpne pulten.",
+      "benefits": [
+        {
+          "title": "Samling ved besøket",
+          "text": "Selger vet om kunden er oppdatert før salg."
+        },
+        {
+          "title": "Tilgodehavende og betalbar",
+          "text": "Begge sider av boksen i samme app."
+        },
+        {
+          "title": "Betalinger og avstemminger",
+          "text": "Du registrerer studiepoeng og ser hva som skal krysses."
+        },
+        {
+          "title": "Rapporter for hånden",
+          "text": "Innsamlings- og kontantindikatorer uten å vente på avslutning."
+        }
+      ],
+      "audience": "Ledere, samlere og selgere som trenger kundens situasjon i øyeblikket."
+    }
+  },
+  "why": {
+    "eyebrow": "Hvorfor FullVendor",
+    "title": "Øk virksomheten din\nmed reelle resultater",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Bedrifter stoler på oss"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktive brukere"
+      },
+      {
+        "value": "+10",
+        "suffix": "år",
+        "label": "I konstant utvikling"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Skytilgjengelighet"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hvordan det fungerer",
+    "title": "Fra salg til samling, uten å endre systemer",
+    "text": "Hvert produkt deler kunder, lager, bestillinger og betalinger. Det som skjer på gaten eller på lageret dukker opp på kontoret umiddelbart.",
+    "steps": {
+      "sell": {
+        "title": "Du selger",
+        "text": "Bestillingen legges inn via nettsiden eller gjennom Sales Man, selv uten signal."
+      },
+      "pick": {
+        "title": "Ferdig",
+        "text": "Warehouse mottar, skiller og sender med strekkode."
+      },
+      "deliver": {
+        "title": "Leveranser",
+        "text": "Logistics tildeler ruten og følger leveransen."
+      },
+      "collect": {
+        "title": "Kobraer",
+        "text": "Finance og ERP stenger samlingen, kvitteringene og numrene."
+      }
+    }
+  },
+  "band": {
+    "title": "Klar til å se den med [[operasjonen din]]?",
+    "text": "Vi viser deg økosystemet med en distribusjonsak som ligner på din."
+  },
+  "footer": {
+    "blurb": "Nett- og mobilplattform for distribusjon, salg, logistikk, innkjøp, varelager og økonomi.",
+    "products": "Produkter",
+    "company": "Bedrift",
+    "legal": "Lovlig",
+    "privacy": "Privatliv",
+    "terms": "Vilkår",
+    "rights": "Alle rettigheter forbeholdt."
+  },
+  "solutions": {
+    "eyebrow": "Løsninger",
+    "title": "Hvert område, koblet til [[samme operasjon]]",
+    "intro": "Velg etter problemet du vil løse. Bak deler produktene den samme informasjonen.",
+    "items": {
+      "commercial": {
+        "title": "Kommersiell ledelse",
+        "text": "Ordrer, priser, kunder og varelager for daglig distribusjon."
+      },
+      "field": {
+        "title": "salgsstyrke",
+        "text": "Leverandører tar imot bestillinger på gaten, online eller offline."
+      },
+      "warehouse": {
+        "title": "Lager",
+        "text": "Mottak, plukking, forsendelse og et lager man kan stole på."
+      },
+      "logistics": {
+        "title": "Logistikk og levering",
+        "text": "Ruter, sjåfører og status for hver leveranse."
+      },
+      "purchasing": {
+        "title": "Innkjøp og leverandører",
+        "text": "Tilbud, bestillinger og en portal for den som forsyner deg."
+      },
+      "finance": {
+        "title": "Økonomi og regnskap",
+        "text": "Innkreving, betaling, elektronisk fakturering og regnskap."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrier",
+    "title": "Laget for de som [[flytter produkt]]",
+    "intro": "FullVendor ble født i distribusjon og følger med bedrifter som kjøper, lagrer, selger og leverer.",
+    "items": {
+      "wholesale": {
+        "title": "Distribusjon og engros",
+        "text": "Prislister, portefølje, distribusjon og samling i en enkelt krets."
+      },
+      "retail": {
+        "title": "Detaljhandel",
+        "text": "Butikk og lager med tilknyttet lager, salg og påfyll."
+      },
+      "food": {
+        "title": "Mat og drikke",
+        "text": "Hyppige ruter og et lager som ikke kan stoppe."
+      },
+      "pharma": {
+        "title": "Apotek og personlig pleie",
+        "text": "Mottak, plukking og lagerkontroll med sporbarhet."
+      },
+      "hardware": {
+        "title": "Maskinvare og konstruksjon",
+        "text": "Mange referanser, leverandører og leveranser til jobb eller butikk."
+      },
+      "fmcg": {
+        "title": "Masseforbruk",
+        "text": "Gatesalgsstyrke og utskifting med høy omsetning."
+      },
+      "manufacturing": {
+        "title": "Produksjon",
+        "text": "Innkjøp, lager og varelager i tråd med administrasjon."
+      },
+      "lastmile": {
+        "title": "Levering og siste mil",
+        "text": "Ruter, sjåfører og status for hver leveranse."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ressurser",
+    "title": "Klare ideer for å [[bestille operasjonen]]",
+    "intro": "Korte guider for distribusjonsledere som skal bestemme hvilket system de skal holde seg til.",
+    "items": {
+      "unify": {
+        "title": "Hvordan forene distribusjon til et enkelt system",
+        "summary": "Hva du skal sette sammen først når salg, lager og samlinger lever i ulike filer.",
+        "points": [
+          "Start med kunder, produkter og priser: de er læreren som alle bruker.",
+          "Koble bestillingen til lageret før du legger til flere applikasjoner.",
+          "Det måler et enkelt tall: bestillinger utført uten å gjøre om skjemaet."
+        ]
+      },
+      "offline": {
+        "title": "Salgsstyrken jobber offline",
+        "summary": "Hva kreves av en bestillingsapp slik at selgeren ikke stopper på grunn av signalet.",
+        "points": [
+          "Katalogen og lommeboken må være på telefonen, ikke bare i skyen.",
+          "Bestillingen lagres på enheten og lastes opp når nettverket kommer tilbake.",
+          "Ved synkronisering kommer ordren allerede inn på lageret."
+        ]
+      },
+      "warehouse": {
+        "title": "Lager med strekkode, uten papir",
+        "summary": "Hvordan gå fra den trykte listen til bekreftet plukking på telefonen.",
+        "points": [
+          "Motta mot bestillingen, ikke mot minnet.",
+          "Bekreft hvert element ved separering. Feilen skjærer seg inn i gangen.",
+          "Utsendelsen oppdaterer aksjen som selgeren ser."
+        ]
+      },
+      "finance": {
+        "title": "Samling på linje med salget",
+        "summary": "Hvorfor selgeren bør se kundens gjeld før han tar en ny bestilling.",
+        "points": [
+          "Besøket er den beste tiden å samle inn, hvis gjelden er synlig.",
+          "Salg og økonomi må se på samme kunde.",
+          "En daglig forsinket rapport er verdt mer enn en sen avslutning."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Priser",
+    "title": "Et økosystem som [[vokser med deg]]",
+    "intro": "Vi publiserer ikke en generisk pris: kostnaden avhenger av moduler, brukere og volum. Vi viser deg plattformen og setter sammen et forslag med din drift.",
+    "note": "Demoen har ingen kostnader og krever ingen kontrakt.",
+    "recommended": "Anbefalt",
+    "faq_title": "Ofte stilte spørsmål",
+    "plans": {
+      "essential": {
+        "name": "Viktig",
+        "desc": "Å organisere kommersiell administrasjon og distribusjon på en enkelt plattform.",
+        "features": [
+          "FullVendor nettplattform",
+          "Salg, kjøp og varelager",
+          "Kunder, leverandører og rapporter",
+          "Brukere av kontorutstyr",
+          "Oppstartsstøtte"
+        ],
+        "cta": "Be om demo"
+      },
+      "professional": {
+        "name": "Profesjonell",
+        "desc": "For team som selger på gaten og klargjør bestillinger på lageret.",
+        "features": [
+          "Alt essensielt",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline arbeid og strekkoder",
+          "Flere felt- og lagerbrukere"
+        ],
+        "cta": "Be om demo"
+      },
+      "corporate": {
+        "name": "Bedrift",
+        "desc": "For grupper som trenger logistikk, innkjøp, økonomi og ulike bedrifter.",
+        "features": [
+          "Komplett økosystem",
+          "Logistics, Vendor Supplier og Finance",
+          "FullVendor ERP og flerleieforhold",
+          "Elektronisk fakturering og regnskap",
+          "Akkompagnement og prioritert tilgjengelighet"
+        ],
+        "cta": "Snakk med salg"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Må jeg kjøpe alle produktene?",
+        "a": "Nei. Du kan starte med FullVendor og legge til apper eller ERP når operasjonen trenger det."
+      },
+      "offline": {
+        "q": "Fungerer applikasjonene uten internett?",
+        "a": "Sales Man og Warehouse fortsetter å fungere uten signal og synkroniseres når du kobler til igjen."
+      },
+      "multi": {
+        "q": "Fungerer det hvis jeg har mer enn ett selskap?",
+        "a": "Ja. ERP vurderer multi-bedrift og økosystemet kan dele master mellom seg."
+      },
+      "demo": {
+        "q": "Hva inneholder demoen?",
+        "a": "En omvisning på plattformen med en sak som ligner på din. Ingen kostnader og ingen forpliktelser."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Vi viser deg FullVendor med [[din type operasjon]]",
+    "text": "Fortell oss om din bedrift og hva du ønsker å bestille først. Demoen har ingen kostnad."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "La oss snakke om [[operasjonen din]]",
+    "text": "Ønsker du en demo, et forslag eller bare for å orientere deg mellom produktene, legg igjen informasjonen din så svarer vi.",
+    "email": "Post",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Navn",
+    "email": "Post",
+    "phone": "Telefon",
+    "company": "Bedrift",
+    "country": "Land",
+    "team": "Lagstørrelse",
+    "interest": "Hva interesserer deg?",
+    "message": "Beskjed",
+    "optional": "Valgfri",
+    "choose": "Velge",
+    "interest_all": "Hele økosystemet",
+    "ph_name": "navnet ditt",
+    "ph_email": "du@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Din bedrift",
+    "ph_country": "Land",
+    "ph_message": "Fortell oss hvordan du fungerer i dag",
+    "privacy_before": "Jeg godtar bruken av mine data i henhold til",
+    "privacy_after": ".",
+    "submit": "Send forespørsel",
+    "sent_title": "Vi mottar forespørselen din",
+    "sent_text": "Takk. Salgsteamet vil skrive til deg for å koordinere demoen eller svare på spørsmålet ditt.",
+    "error_required": "Fyll ut dette feltet.",
+    "error_email": "Skriv inn en gyldig e-post.",
+    "error_phone": "Sjekk telefonen.",
+    "error_privacy": "Vi trenger ditt samtykke for å bruke kontaktinformasjon.",
+    "error_csrf": "Økten er utløpt. Send inn skjemaet på nytt.",
+    "error_save": "Vi kunne ikke lagre forespørselen. Prøv igjen.",
+    "error_generic": "Se gjennom de merkede feltene.",
+    "error_rate": "Vent et øyeblikk før du sender inn en ny forespørsel.",
+    "team_options": {
+      "1-10": "1 til 10 personer",
+      "11-50": "11 til 50 personer",
+      "51-200": "51 til 200 personer",
+      "201-500": "201 til 500 personer",
+      "500+": "Mer enn 500 mennesker"
+    }
+  },
+  "video": {
+    "title": "FullVendor på ett minutt",
+    "prev": "Tidligere",
+    "next": "Følgende",
+    "slides": [
+      {
+        "title": "Et enkelt økosystem",
+        "text": "Salg, lager, levering, innkjøp og finans deler kunder, lager og bestillinger."
+      },
+      {
+        "title": "Nett og mobil sammen",
+        "text": "Kontoret jobber på plattformen. Gaten og lageret, i appene, selv uten signal."
+      },
+      {
+        "title": "Laget for å distribuere",
+        "text": "Fra ordre til betaling, uten å overføre informasjon fra en fil til en annen."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Søk etter produkter, løsninger, bransjer...",
+    "lang_filter": "Søk etter språk",
+    "intro": "Søk etter produkter, løsninger, bransjer og ressurser.",
+    "empty": "Vi fant ingen resultater for «{q}».",
+    "hint": "Prøv salg, lager, ruter eller samlinger.",
+    "results": "{n} resultater",
+    "button": "Se etter",
+    "kind_product": "Produkt",
+    "kind_solution": "Løsning",
+    "kind_industry": "Industri",
+    "kind_resource": "Ressurs"
+  },
+  "notfound": {
+    "title": "Denne siden er ikke det",
+    "text": "Koblingen eksisterer ikke eller har endret plassering."
+  },
+  "common": {
+    "what": "Hva løser",
+    "features": "Hva er inkludert",
+    "benefits": "Hvorfor det betyr noe",
+    "for_who": "Hvem er det for?",
+    "related": "Også i økosystemet"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Salg i dag",
+      "orders": "Bestillinger",
+      "clients": "Kunder",
+      "products": "Produkter"
+    },
+    "sidebar": {
+      "dashboard": "Dashbord",
+      "sales": "Salg",
+      "purchases": "Shopping",
+      "inventory": "Inventar",
+      "clients": "Kunder",
+      "reports": "Rapporter"
+    },
+    "chart": "Salg",
+    "channel": "Distribusjon etter kanal",
+    "channels": [
+      "Lager",
+      "Distribusjon",
+      "Grossist",
+      "Andre"
+    ],
+    "orders": "Siste bestillinger",
+    "col_order": "Bestille",
+    "col_client": "Kunde",
+    "col_status": "Tilstand",
+    "col_total": "Total",
+    "status": [
+      "Levert",
+      "På vei",
+      "Ørering"
+    ],
+    "top": "Bestselgende produkter",
+    "product": "Produkt",
+    "sales_menu": [
+      "Kunder",
+      "Bestillinger",
+      "Produkter",
+      "Ruter",
+      "Synkroniser"
+    ],
+    "warehouse_menu": [
+      "Resepsjon",
+      "Plukking",
+      "Inventar",
+      "Utsendelse",
+      "Synkroniser"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Personvernerklæring",
+    "privacy_intro": "Denne policyen forklarer hva vi gjør med dataene du legger igjen i skjemaer på dette nettstedet.",
+    "privacy": [
+      {
+        "title": "Hvilke data vi samler inn",
+        "text": "Hvis du ber om en demo eller skriver til oss, lagrer vi navn, firma, e-post, telefonnummer hvis du oppgir det, landet, størrelsen på laget, produktet av interesse og meldingen. Vi registrerer også datoen, språket på siden og IP-adressen for å forhindre støtende innsendinger."
+      },
+      {
+        "title": "Hva bruker vi dem til?",
+        "text": "Vi bruker disse dataene kun for å svare deg, koordinere en demo og utarbeide et kommersielt forslag. Vi selger dem ikke eller gir dem til en liste over tredjeparter."
+      },
+      {
+        "title": "Hvor lagres de og hvor lenge?",
+        "text": "Forespørsler lagres på denne sidens server. Vi oppbevarer dem i den tiden som er nødvendig for å betjene deg og kommersiell oppfølging, og vi sletter dem når du ber oss om det eller når de ikke lenger er nødvendige."
+      },
+      {
+        "title": "Dine rettigheter",
+        "text": "Du kan be om tilgang, retting eller sletting av dataene dine fra kontaktskjemaet, og angi det i meldingen. Hvis selskapet publiserer en e-post på denne nettsiden, kan du også skrive der."
+      }
+    ],
+    "terms_title": "Vilkår for bruk",
+    "terms_intro": "Disse betingelsene gjelder for bruken av denne FullVendor innsendingssiden.",
+    "terms": [
+      {
+        "title": "Kommersiell informasjon",
+        "text": "Tekster, eksempler på dashbordfigurer og beskrivelser introduserer plattformen. De kan justeres når produktet endres og er ikke et lukket tilbud."
+      },
+      {
+        "title": "Demoen er ikke en kontrakt",
+        "text": "Innsending av skjemaet skaper ingen forpliktelse til å kjøpe eller reservere en pris. Enhver kontrakt avtales separat, skriftlig, med omfang og betingelser."
+      },
+      {
+        "title": "Nettstedets innhold",
+        "text": "FullVendor varemerket, produktnavn og innholdet på disse sidene tilhører deres eiere. De kan ikke kopieres for å presentere et annet produkt."
+      },
+      {
+        "title": "Akseptabel bruk",
+        "text": "Ikke bruk skjemaene til å sende inn falsk informasjon, spam eller ulovlig innhold. Vi kan ignorere forespørsler som ikke samsvarer med en faktisk forretningssamtale."
+      }
+    ]
+  }
+}

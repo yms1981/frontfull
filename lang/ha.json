@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Sarrafa ku haɓaka kasuwancin ku",
+    "home_desc": "Duk-in-daya dandamali tare da yanar gizo da mafita ta wayar hannu don rarrabawa, tallace-tallace, dabaru, siye, ƙira da kuɗi.",
+    "products_title": "Samfura | FullVendor",
+    "products_desc": "Sanin yanayin yanayin FullVendor: dandalin kasuwanci, ERP, dabaru, masu kaya da tallace-tallace, kayan ajiya da kayan kuɗi.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Magani | FullVendor",
+    "solutions_desc": "Magani don gudanar da kasuwanci, ƙarfin tallace-tallace, sito, dabaru, siye da kuɗi.",
+    "industries_title": "Masana'antu | FullVendor",
+    "industries_desc": "FullVendor don rarrabawa, dillali, abinci, kantin magani, kayan aiki, yawan jama'a, masana'anta da mil na ƙarshe.",
+    "pricing_title": "Farashin | FullVendor",
+    "pricing_desc": "Mahimmanci, Ƙwararru da Tsare-tsaren Kamfanoni. An haɗa tsari tare bisa ga kayayyaki, masu amfani da ƙarar.",
+    "resources_title": "Albarkatu | FullVendor",
+    "resources_desc": "Gajerun jagora don haɗa rarrabawa, siyar da layi, tsara sito da samun biyan kuɗi akan lokaci.",
+    "contact_title": "Tuntuɓar | FullVendor",
+    "contact_desc": "Rubuta mana don koyo game da FullVendor ko daidaita tattaunawa tare da ƙungiyar tallace-tallace.",
+    "demo_title": "Neman demo | FullVendor",
+    "demo_desc": "Nemi demo na FullVendor kuma zagayawa dandamali tare da shari'ar kama da aikinku.",
+    "privacy_title": "Sirri | FullVendor",
+    "terms_title": "Sharuɗɗa | FullVendor",
+    "search_title": "Bincike | FullVendor",
+    "notfound_title": "Ba a sami shafi | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Shafin gida",
+    "products": "Kayayyaki",
+    "solutions": "Magani",
+    "industries": "Masana'antu",
+    "pricing": "Farashin",
+    "resources": "Albarkatu",
+    "contact": "Tuntuɓar",
+    "open_menu": "Buɗe menu",
+    "close": "Kusa"
+  },
+  "cta": {
+    "demo": "Nemi Demo",
+    "contact": "Tuntube mu",
+    "video": "Kalli Bidiyo",
+    "talk": "Yi magana da tallace-tallace",
+    "all_products": "Duba duk samfuran",
+    "home": "Komawa shafin gida"
+  },
+  "a11y": {
+    "skip": "Tsallake zuwa abun ciki",
+    "primary": "Babban kewayawa",
+    "crumbs": "Hanyar kewayawa",
+    "search": "Nemo",
+    "language": "Harshe"
+  },
+  "hero": {
+    "eyebrow": "Duk a dandali daya",
+    "title": "Sarrafa kuma girma\nkasuwancin ku da\n{{brand}}",
+    "subtitle": "Cikakken dandamali tare da hanyoyin yanar gizo da wayar hannu don rarrabawa, tallace-tallace, dabaru, siye, ƙira, kuɗi da ƙari.",
+    "pill_ecosystem": "Komai a cikin yanayi guda ɗaya",
+    "pill_cloud": "A cikin gajimare, amintacce kuma mai daidaitawa",
+    "pill_size": "Don kamfanoni masu girma dabam"
+  },
+  "products_block": {
+    "eyebrow": "Kayayyakin mu",
+    "title": "A [[cikakken yanayin muhalli]] ga kowane yanki na kasuwancin ku",
+    "aside": "Haɗaɗɗen mafita waɗanda ke aiki tare don ba ku cikakken iko, ingantaccen aiki da haɓaka girma.",
+    "groups": {
+      "money": "Gudanarwa da tattarawa",
+      "flow": "Sayayya da bayarwa",
+      "field": "Tallace-tallace da sito"
+    }
+  },
+  "products_page": {
+    "title": "Samfura bakwai, [[aikin guda ɗaya]]",
+    "text": "Kowane samfurin yana warware yanki. Tare suna raba abokan ciniki, haja, umarni da biyan kuɗi."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Dandalin",
+      "card": "Babban dandamali don sarrafa kasuwanci da rarrabawa.",
+      "features": [
+        "Tallace-tallace da sayayya",
+        "Kaya",
+        "Abokan ciniki da masu kaya",
+        "Rahotanni da sauransu"
+      ],
+      "lead": "Cibiyar kasuwancin ku: umarni, farashi, haja da abokan ciniki a wuri guda.",
+      "about": "FullVendor yana maye gurbin maƙunsar bayanai da tsarin mai rarrabawa. Daga nan umarni ke fitowa, ana tuntubar kaya, ana kula da fayil ɗin abokin ciniki kuma ana duba lambobin ranar. Sauran yanayin yanayin yana haɗi zuwa wannan tushe.",
+      "benefits": [
+        {
+          "title": "Mai sarrafa bayanai guda ɗaya",
+          "text": "Abokan ciniki, samfura da farashin ana raba su tare da tallace-tallace, sito da kuɗi."
+        },
+        {
+          "title": "Share aikin yau da kullun",
+          "text": "Oda, sayayya da hannun jari sun daina rayuwa a cikin fayiloli daban-daban."
+        },
+        {
+          "title": "Rahotanni don yanke shawara",
+          "text": "Ana ganin tallace-tallace, gefe da jiran aiki ba tare da haɗa tebur da hannu ba."
+        },
+        {
+          "title": "Shirye don girma",
+          "text": "Dabaru, ƙarfin tallace-tallace ko ERP jimlar lokacin da aikin ya buƙace shi."
+        }
+      ],
+      "audience": "Ƙungiyoyin kasuwanci da rarrabawa waɗanda a yau suke daidaita kasuwanci tsakanin tsarin da yawa."
+    },
+    "erp": {
+      "kicker": "Gudanarwa",
+      "card": "Cikakken gudanarwa da gudanarwa na kuɗi.",
+      "features": [
+        "Accounting",
+        "Kuɗin lantarki",
+        "Takardun aiki",
+        "Kafaffen kadarorin",
+        "Multi-kamfani"
+      ],
+      "lead": "Gudanarwa da kuɗi, daidaitawa tare da ainihin abin da aka sayar da kuma isar da shi.",
+      "about": "FullVendor ERP ya ƙunshi lissafin kuɗi, lissafin lantarki, lissafin albashi, ƙayyadaddun kadarorin da kamfanoni masu yawa. Yana ɗaukar aikin kasuwanci kuma yana jujjuya shi zuwa shigarwar, rasit da bayanan da yankin kuɗi zai iya amfani da shi.",
+      "benefits": [
+        {
+          "title": "Haɗin lissafin kuɗi",
+          "text": "Abin da ke faruwa a tallace-tallace da sayayya yana ciyar da lissafin kudi."
+        },
+        {
+          "title": "Rasidun lantarki",
+          "text": "Kuna fitar da sarrafa lissafin kuɗi daga yanayin muhalli iri ɗaya."
+        },
+        {
+          "title": "Kamfanoni daban-daban",
+          "text": "Multi-kamfani don ƙungiyoyin da ke aiki a ƙarƙashin sunan kamfani fiye da ɗaya."
+        },
+        {
+          "title": "Bishiyoyi da kadarori",
+          "text": "Biyan kuɗi da ƙayyadaddun kadarorin tare da sauran gudanarwa."
+        }
+      ],
+      "audience": "Yankunan gudanarwa da na kuɗi waɗanda ke son rufe lambobi tare da ainihin aiki."
+    },
+    "logistics": {
+      "kicker": "Dabarun dabaru",
+      "card": "Sarrafa da saka idanu akan ayyukan kayan aikin ku.",
+      "features": [
+        "Hanyoyi da bayarwa",
+        "Sa ido na ainihi",
+        "Aikin direba",
+        "Inganta hanyoyin hanya"
+      ],
+      "lead": "Daga oda zuwa bayarwa: hanyoyi, direbobi da bin diddigin lokaci.",
+      "about": "FullVendor Logistics yana tsara rarrabawa. Kuna ƙirƙirar hanyoyi, sanya direbobi kuma duba inda kowace isarwa ke tafiya. Ƙungiyar zirga-zirga tana tsayawa dangane da kira don gano ko odar ta shigo.",
+      "benefits": [
+        {
+          "title": "Hanyoyi na ranar",
+          "text": "An ba da odar bayarwa ta yanki, taga lokaci da iya aiki."
+        },
+        {
+          "title": "Direban da aka sanyawa",
+          "text": "Kowace hanya tana da mutum mai kulawa da tsari bayyananne."
+        },
+        {
+          "title": "Bibiya",
+          "text": "Kun san abin da aka kawo, a kan hanya ko aka tsaya."
+        },
+        {
+          "title": "Kadan kilomita",
+          "text": "Inganta hanyoyin hanya yana rage lokacin bayarwa da farashi."
+        }
+      ],
+      "audience": "Ayyukan rarrabawa tare da nasu rundunar jiragen ruwa ko na uku."
+    },
+    "supplier": {
+      "kicker": "Siyayya",
+      "card": "Portal don masu kaya da sarrafa siyayya.",
+      "features": [
+        "odar siyayya",
+        "Magana",
+        "Gudanar da kaya",
+        "Haɗin kai tare da kaya"
+      ],
+      "lead": "Abubuwan da masu samar da ku ke faɗi, karɓi umarni kuma su cika haja ba tare da saƙon imel ba.",
+      "about": "Vendor Supplier yana buɗe tashar yanar gizo don sayayya da masu siyarwa don yin aiki akan oda iri ɗaya. Abubuwan da aka ambata, odar siyayya da rasidi suna da alaƙa da lissafin FullVendor.",
+      "benefits": [
+        {
+          "title": "Oda a cikin tashar",
+          "text": "Mai kaya yana ganin abin da zai isar, ba tare da sarkar imel ba."
+        },
+        {
+          "title": "Kwatankwacin magana",
+          "text": "Kuna neman farashi kuma zaɓi tare da duba tarihin."
+        },
+        {
+          "title": "Jagora mai kaya",
+          "text": "Yanayi, lambobin sadarwa da masu jiran aiki a rikodin guda ɗaya."
+        },
+        {
+          "title": "Shigar da kaya",
+          "text": "Abin da aka saya yana nunawa a cikin hannun jari lokacin da aka karɓa."
+        }
+      ],
+      "audience": "Ƙungiyoyin siyayya waɗanda suka cika da masu samarwa da yawa kuma suna buƙatar ganowa."
+    },
+    "salesman": {
+      "kicker": "Wayar hannu app",
+      "card": "Aikace-aikacen wayar hannu don ƙungiyar tallace-tallace.",
+      "features": [
+        "Gudanar da abokin ciniki",
+        "Yin oda",
+        "Kataloji na samfur",
+        "Aikin layi"
+      ],
+      "lead": "Ƙarfin tallace-tallace yana ɗaukar umarni akan titi, tare da ko ba tare da sigina ba.",
+      "about": "FullVendor Sales Man yana sanya fayil ɗin fayil ɗinku, katalogi da oda a kan wayar mai siyarwa. Idan babu intanet, aikin yana ci gaba kuma yana aiki tare lokacin da siginar ta dawo. Oda ya iso a shirye don shirya da bayarwa.",
+      "benefits": [
+        {
+          "title": "Wallet a aljihu",
+          "text": "Mai siyarwa yana ganin abokan ciniki, yanayi da abubuwan da ke jira."
+        },
+        {
+          "title": "Oda a ziyara",
+          "text": "Dauki tsari tare da farashin yanzu da haja."
+        },
+        {
+          "title": "Katalogi har zuwa yau",
+          "text": "Samfura, gabatarwa da farashi ba tare da tsohon PDF ba."
+        },
+        {
+          "title": "Sahihin layi",
+          "text": "Yi aiki ba tare da ɗaukar hoto ba kuma aiki tare daga baya."
+        }
+      ],
+      "audience": "Masu sa ido da masu siyar da filin a cikin rarrabawa da yawan amfani da su."
+    },
+    "warehouse": {
+      "kicker": "Wayar hannu app",
+      "card": "Aikace-aikacen wayar hannu don sito.",
+      "features": [
+        "liyafar da aikawa",
+        "Zaba da shiryawa",
+        "Ikon kaya",
+        "Karatun lambar sirri"
+      ],
+      "lead": "liyafar, ɗauka da aikawa tare da tarho da lambar lamba.",
+      "about": "FullVendor Warehouse yana jagorantar sito a cikin liyafar, ɗauka, tattarawa da aikawa. Lambobin karantawa suna rage kurakurai kuma ba a ƙidaya ƙidaya kawai a ƙarshen wata.",
+      "benefits": [
+        {
+          "title": "liyafar adawa da oda",
+          "text": "Abin da ya shiga ana kwatanta shi da sayan."
+        },
+        {
+          "title": "Zaɓar da aka yi niyya",
+          "text": "Mai jirgin ya bi umarni kuma ya tabbatar da kowane abu."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Ƙananan samfur, kurakurai ko adadi."
+        },
+        {
+          "title": "Haja mai dogaro",
+          "text": "Kowane motsi yana sabunta abubuwan dandali."
+        }
+      ],
+      "audience": "Manajojin sito da masu mallakar jirgi waɗanda a yau suke shirya oda tare da jerin bugu."
+    },
+    "finance": {
+      "kicker": "Wayar hannu app",
+      "card": "Ikon kuɗi daga wayar hannu.",
+      "features": [
+        "Ana karɓar asusun kuma ana biya",
+        "Matsayin abokin ciniki",
+        "Biyan kuɗi da sulhu",
+        "Rahoton kudi"
+      ],
+      "lead": "Karɓi asusu, biyan kuɗi da matsayin abokin ciniki, daga wayarka.",
+      "about": "FullVendor Finance yana nuna tarin akan wayar hannu: abin da kowane abokin ciniki ke bi bashi, abin da kamfani ke shirin biya da kuma yadda kuɗin ke zuwa. Ana amfani da shi don karɓar kuɗi yayin ziyarar da kuma duba rajistar kuɗi ba tare da buɗe tebur ba.",
+      "benefits": [
+        {
+          "title": "Tarin a ziyarar",
+          "text": "Mai siyarwa ya san idan abokin ciniki ya sabunta kafin siyarwa."
+        },
+        {
+          "title": "Mai karɓa kuma mai biya",
+          "text": "Bangarorin biyu na akwatin a cikin app iri ɗaya."
+        },
+        {
+          "title": "Biyan kuɗi da sulhu",
+          "text": "Kuna yin rajistar ƙididdigewa kuma ku ga abin da ake buƙatar ketare."
+        },
+        {
+          "title": "Rahotanni a hannu",
+          "text": "Manufofin tattarawa da tsabar kuɗi ba tare da jiran rufewa ba."
+        }
+      ],
+      "audience": "Manajoji, masu tarawa da masu siyarwa waɗanda ke buƙatar yanayin abokin ciniki a halin yanzu."
+    }
+  },
+  "why": {
+    "eyebrow": "Me yasa FullVendor",
+    "title": "Haɓaka kasuwancin ku\ntare da sakamako na gaske",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kamfanoni sun amince da mu"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Masu amfani masu aiki"
+      },
+      {
+        "value": "+10",
+        "suffix": "shekaru",
+        "label": "A cikin juyin halitta akai-akai"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Samuwar gajimare"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Yadda yake aiki",
+    "title": "Daga siyarwa zuwa tarawa, ba tare da canza tsarin ba",
+    "text": "Kowane samfurin yana raba abokan ciniki, hannun jari, umarni da biyan kuɗi. Abin da ke faruwa a kan titi ko a cikin sito ya bayyana a ofishin nan take.",
+    "steps": {
+      "sell": {
+        "title": "Kuna sayarwa",
+        "text": "Ana shigar da odar ta hanyar gidan yanar gizon ko ta hanyar Sales Man, koda ba tare da sigina ba."
+      },
+      "pick": {
+        "title": "Shirya",
+        "text": "Warehouse yana karɓa, rarrabawa da aikawa tare da lambar sirri."
+      },
+      "deliver": {
+        "title": "Bayarwa",
+        "text": "Logistics yana ba da hanya kuma yana bin bayarwa."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance da ERP rufe tarin, rasit da lambobi."
+      }
+    }
+  },
+  "band": {
+    "title": "Shirya don ganin shi tare da [[aikin ku]]?",
+    "text": "Muna nuna muku yanayin muhalli tare da shari'ar rarraba kama da taku."
+  },
+  "footer": {
+    "blurb": "Yanar gizo da dandamali na wayar hannu don rarrabawa, tallace-tallace, dabaru, siye, ƙira da kuɗi.",
+    "products": "Kayayyaki",
+    "company": "Kamfanin",
+    "legal": "Shari'a",
+    "privacy": "Keɓantawa",
+    "terms": "Sharuɗɗan",
+    "rights": "An kiyaye duk haƙƙoƙi."
+  },
+  "solutions": {
+    "eyebrow": "Magani",
+    "title": "Kowane yanki, an haɗa shi da [[aikin guda ɗaya]]",
+    "intro": "Zaɓi ta hanyar matsalar da kake son warwarewa. Bayan haka, samfuran suna raba bayanin iri ɗaya.",
+    "items": {
+      "commercial": {
+        "title": "Gudanar da kasuwanci",
+        "text": "Umarni, farashi, abokan ciniki da kaya don rarraba yau da kullun."
+      },
+      "field": {
+        "title": "karfin tallace-tallace",
+        "text": "Masu siyarwa suna yin oda akan titi, kan layi ko a layi."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "liyafar, ɗauka, aikawa da haja da za a iya amincewa da ita."
+      },
+      "logistics": {
+        "title": "Dabaru da bayarwa",
+        "text": "Hanyoyi, direbobi da matsayin kowane bayarwa."
+      },
+      "purchasing": {
+        "title": "Saye da masu kaya",
+        "text": "Quotes, oda da tashar yanar gizo ga duk wanda ya ba ku."
+      },
+      "finance": {
+        "title": "Kudi da lissafin kudi",
+        "text": "Tari, biyan kuɗi, lissafin lantarki da lissafin kuɗi."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Masana'antu",
+    "title": "An yi shi don waɗanda [[matsar da samfur]]",
+    "intro": "FullVendor an haife shi a cikin rarrabawa kuma yana rakiyar kamfanoni masu siya, adanawa, siyarwa da bayarwa.",
+    "items": {
+      "wholesale": {
+        "title": "Rarraba da jumloli",
+        "text": "Lissafin farashi, fayil, rarrabawa da tarawa a cikin da'ira ɗaya."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Adana da sito tare da haɗe-haɗe, tallace-tallace da ƙari."
+      },
+      "food": {
+        "title": "Abinci da abin sha",
+        "text": "Hanyoyi akai-akai da ɗakin ajiya wanda ba zai iya tsayawa ba."
+      },
+      "pharma": {
+        "title": "Pharmacy da kulawa na sirri",
+        "text": "liyafar, ɗauka da sarrafa kaya tare da ganowa."
+      },
+      "hardware": {
+        "title": "Hardware da gini",
+        "text": "Yawancin nassoshi, masu kaya da isarwa zuwa aiki ko adanawa."
+      },
+      "fmcg": {
+        "title": "Yawan cin abinci",
+        "text": "Ƙarfin tallace-tallacen titi da babban canji."
+      },
+      "manufacturing": {
+        "title": "Kerawa",
+        "text": "Saye, sito da kaya masu dacewa da gudanarwa."
+      },
+      "lastmile": {
+        "title": "Bayarwa da mil na ƙarshe",
+        "text": "Hanyoyi, direbobi da matsayin kowane bayarwa."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Albarkatu",
+    "title": "Share ra'ayoyin zuwa [[oda aikin]]",
+    "intro": "Gajerun jagorori ga manajojin rarraba waɗanda za su yanke shawarar tsarin da za su tsaya da shi.",
+    "items": {
+      "unify": {
+        "title": "Yadda za a haɗa rarraba zuwa tsarin guda ɗaya",
+        "summary": "Abin da za a haɗa tare da farko lokacin da tallace-tallace, sito da tarin ke zaune a cikin fayiloli daban-daban.",
+        "points": [
+          "Fara da abokan ciniki, samfura da farashi: su ne malamin da kowa ke amfani da shi.",
+          "Haɗa oda tare da haja kafin ƙara ƙarin aikace-aikace.",
+          "Yana auna lamba mai sauƙi: oda sun cika ba tare da sake yin fom ba."
+        ]
+      },
+      "offline": {
+        "title": "Ƙarfin tallace-tallace yana aiki a layi",
+        "summary": "Abin da ake buƙata daga aikace-aikacen oda don kada mai siyarwa ya tsaya saboda siginar.",
+        "points": [
+          "Katalogi da walat ɗin dole ne su kasance akan wayar, ba kawai a cikin gajimare ba.",
+          "Ana ajiye odar akan na'urar kuma ana loda shi lokacin da hanyar sadarwa ta dawo.",
+          "Lokacin aiki tare, odar ta riga ta shiga cikin sito."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse tare da lambar lamba, ba tare da takarda ba",
+        "summary": "Yadda ake tafiya daga jerin bugu zuwa tabbataccen ɗauka akan wayar.",
+        "points": [
+          "Karɓa akan odar siyayya, ba akan ƙwaƙwalwar ajiya ba.",
+          "Tabbatar da kowane abu lokacin rabuwa. Kwaro ya yanke cikin hallway.",
+          "Aika yana sabunta haja da mai siyarwa ke gani."
+        ]
+      },
+      "finance": {
+        "title": "Tarin yayi daidai da siyarwa",
+        "summary": "Me yasa mai siyarwa yakamata ya ga bashin abokin ciniki kafin ɗaukar wani oda.",
+        "points": [
+          "Ziyarar ita ce mafi kyawun lokacin tattarawa, idan bashin yana bayyane.",
+          "Tallace-tallace da kuɗi dole ne su kalli abokin ciniki iri ɗaya.",
+          "Rahoton da ya ƙare na yau da kullun yana da daraja fiye da ƙarshen rufewa."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Farashin",
+    "title": "Tsarin muhalli wanda [[yana girma tare da ku]]",
+    "intro": "Ba mu buga jimlar adadin ba: farashin ya dogara da kayayyaki, masu amfani da ƙarar. Muna nuna muku dandamali kuma mun haɗa tsari tare da aikin ku.",
+    "note": "demo ba shi da farashi kuma baya buƙatar kwangila.",
+    "recommended": "Nasiha",
+    "faq_title": "Tambayoyin da ake yawan yi",
+    "plans": {
+      "essential": {
+        "name": "Mahimmanci",
+        "desc": "Don tsara gudanarwar kasuwanci da rarrabawa akan dandamali ɗaya.",
+        "features": [
+          "FullVendor dandalin yanar gizo",
+          "Tallace-tallace, sayayya da kaya",
+          "Abokan ciniki, masu kaya da rahotanni",
+          "Masu amfani da kayan aikin ofis",
+          "Tallafin farawa"
+        ],
+        "cta": "Nemi Demo"
+      },
+      "professional": {
+        "name": "Kwararren",
+        "desc": "Don ƙungiyoyin da ke siyarwa akan titi da shirya oda a cikin sito.",
+        "features": [
+          "Komai Mahimmanci",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Aiki na kan layi da lambobin barcode",
+          "Ƙarin masu amfani da filin da sito"
+        ],
+        "cta": "Nemi Demo"
+      },
+      "corporate": {
+        "name": "Kamfanin",
+        "desc": "Ga ƙungiyoyin da ke buƙatar dabaru, siye, kuɗi da kamfanoni daban-daban.",
+        "features": [
+          "Cikakken yanayin muhalli",
+          "Logistics, Vendor Supplier da Finance",
+          "FullVendor ERP da yawan haya",
+          "Lantarki lissafin kuɗi da lissafin kudi",
+          "Rakiya da kasancewar fifiko"
+        ],
+        "cta": "Yi magana da tallace-tallace"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Dole ne in sayi duk samfuran?",
+        "a": "A'a. Kuna iya farawa da FullVendor kuma ƙara apps ko ERP lokacin da aikin ke buƙata."
+      },
+      "offline": {
+        "q": "Shin aikace-aikacen suna aiki ba tare da intanet ba?",
+        "a": "Sales Man da Warehouse suna ci gaba da aiki ba tare da sigina ba kuma suna aiki tare lokacin sake haɗawa."
+      },
+      "multi": {
+        "q": "Shin yana aiki idan ina da kamfani fiye da ɗaya?",
+        "a": "Ee. ERP yayi la'akari da kamfanoni da yawa kuma yanayin muhalli na iya raba masters a tsakanin su."
+      },
+      "demo": {
+        "q": "Menene demo ya haɗa?",
+        "a": "Yawon shakatawa na dandali tare da akwati mai kama da na ku. Babu farashi kuma babu wajibai."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Muna nuna muku FullVendor tare da [[nau'in aikin ku]]",
+    "text": "Faɗa mana game da kamfanin ku da abin da kuke son yin oda da farko. Dimokuradiyya ba shi da tsada."
+  },
+  "contact": {
+    "eyebrow": "Tuntuɓar",
+    "title": "Bari mu yi magana game da [[aikin ku]]",
+    "text": "Idan kuna son demo, tsari ko kawai don daidaita kanku tsakanin samfuran, bar bayanin ku kuma zamu amsa.",
+    "email": "Wasika",
+    "phone": "Waya",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Suna",
+    "email": "Wasika",
+    "phone": "Waya",
+    "company": "Kamfanin",
+    "country": "Ƙasa",
+    "team": "Girman ƙungiyar",
+    "interest": "Menene sha'awar ku?",
+    "message": "Sako",
+    "optional": "Na zaɓi",
+    "choose": "Zaɓi",
+    "interest_all": "Gaba dayan yanayin halittu",
+    "ph_name": "sunanka",
+    "ph_email": "ka @company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kamfanin ku",
+    "ph_country": "Ƙasa",
+    "ph_message": "Faɗa mana yadda kuke aiki yau",
+    "privacy_before": "Na yarda da amfani da bayanana bisa ga",
+    "privacy_after": ".",
+    "submit": "Aika bukata",
+    "sent_title": "Mun karbi bukatar ku",
+    "sent_text": "Na gode. Ƙungiyar tallace-tallace za ta rubuta muku don daidaita demo ko amsa tambayar ku.",
+    "error_required": "Kammala wannan filin.",
+    "error_email": "Shigar da ingantaccen imel.",
+    "error_phone": "Duba wayar.",
+    "error_privacy": "Muna buƙatar izinin ku don amfani da bayanan tuntuɓar.",
+    "error_csrf": "Zaman ya kare. Sake shigar da fom.",
+    "error_save": "Ba mu iya ajiye bukatar ba. Gwada kuma.",
+    "error_generic": "Yi nazarin filayen da aka yiwa alama.",
+    "error_rate": "Da fatan za a jira ɗan lokaci kafin gabatar da wata bukata.",
+    "team_options": {
+      "1-10": "1 zuwa 10 mutane",
+      "11-50": "11 zuwa 50 mutane",
+      "51-200": "51 zuwa 200 mutane",
+      "201-500": "201 zuwa 500 mutane",
+      "500+": "Fiye da mutane 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor a cikin minti daya",
+    "prev": "Tsohon",
+    "next": "Masu bi",
+    "slides": [
+      {
+        "title": "Tsarin muhalli guda ɗaya",
+        "text": "Tallace-tallace, sito, bayarwa, siye da raba kuɗi na abokan ciniki, haja da oda."
+      },
+      {
+        "title": "Yanar gizo da wayar hannu tare",
+        "text": "Ofishin yana aiki akan dandamali. Titin da sito, a cikin apps, koda ba tare da sigina ba."
+      },
+      {
+        "title": "An yi don rarrabawa",
+        "text": "Daga oda zuwa biya, ba tare da aika bayanai daga wannan fayil zuwa wani ba."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Nemo samfura, mafita, masana'antu…",
+    "lang_filter": "Bincika harshe",
+    "intro": "Bincika samfurori, mafita, masana'antu da albarkatu.",
+    "empty": "Ba mu sami sakamako na \"{q}\".",
+    "hint": "Gwada tallace-tallace, sito, hanyoyi ko tarin yawa.",
+    "results": "{n} sakamakon",
+    "button": "Nemo",
+    "kind_product": "Samfura",
+    "kind_solution": "Magani",
+    "kind_industry": "Masana'antu",
+    "kind_resource": "Albarkatu"
+  },
+  "notfound": {
+    "title": "Wannan shafin ba",
+    "text": "Babu hanyar haɗin yanar gizon ko ta canza wuri."
+  },
+  "common": {
+    "what": "Me warwarewa",
+    "features": "Me ya hada",
+    "benefits": "Me ya sa yake da mahimmanci",
+    "for_who": "Don wa?",
+    "related": "Haka kuma a cikin yanayin muhalli"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Siyarwa a yau",
+      "orders": "Umarni",
+      "clients": "Abokan ciniki",
+      "products": "Kayayyaki"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Tallace-tallace",
+      "purchases": "Siyayya",
+      "inventory": "Kaya",
+      "clients": "Abokan ciniki",
+      "reports": "Rahotanni"
+    },
+    "chart": "Tallace-tallace",
+    "channel": "Rarraba ta tashar",
+    "channels": [
+      "Store",
+      "Rarrabawa",
+      "Dillali",
+      "Wasu"
+    ],
+    "orders": "Sabbin umarni",
+    "col_order": "Oda",
+    "col_client": "Abokin ciniki",
+    "col_status": "Jiha",
+    "col_total": "Jimlar",
+    "status": [
+      "Isar da",
+      "A hanya",
+      "Kunnen kunne"
+    ],
+    "top": "Mafi kyawun samfuran siyarwa",
+    "product": "Samfura",
+    "sales_menu": [
+      "Abokan ciniki",
+      "Umarni",
+      "Kayayyaki",
+      "Hanyoyi",
+      "Aiki tare"
+    ],
+    "warehouse_menu": [
+      "liyafar",
+      "Zaba",
+      "Kaya",
+      "Aika",
+      "Aiki tare"
+    ]
+  },
+  "legal": {
+    "privacy_title": "takardar kebantawa",
+    "privacy_intro": "Wannan manufar tana bayanin abin da muke yi da bayanan da kuka barsu cikin fom akan wannan rukunin yanar gizon.",
+    "privacy": [
+      {
+        "title": "Abin da bayanai muke tattara",
+        "text": "Idan kuna buƙatar demo ko rubuta mana, muna adana sunan, kamfani, imel, lambar tarho idan kun nuna shi, ƙasar, girman ƙungiyar, samfurin sha'awa da saƙon. Muna kuma rikodin kwanan wata, harshen shafin da adireshin IP, don hana ƙaddamar da zagi."
+      },
+      {
+        "title": "Me muke amfani da su?",
+        "text": "Muna amfani da wannan bayanan kawai don amsa muku, daidaita demo da shirya shawarwarin kasuwanci. Ba mu sayar da su ko ba su ga jerin wasu kamfanoni."
+      },
+      {
+        "title": "A ina ake adana su kuma tsawon nawa?",
+        "text": "Ana adana buƙatun akan sabar wannan rukunin yanar gizon. Muna adana su don lokacin da ake buƙata don yi muku hidima da bin diddigin kasuwanci, kuma muna share su lokacin da kuka tambaye mu ko kuma lokacin da ba a buƙatar su."
+      },
+      {
+        "title": "Hakkin ku",
+        "text": "Kuna iya buƙatar samun dama, gyara ko goge bayananku daga hanyar tuntuɓar, yana nuna shi a cikin saƙon. Idan kamfani ya buga imel akan wannan gidan yanar gizon, kuna iya rubutawa a wurin."
+      }
+    ],
+    "terms_title": "Sharuɗɗan amfani",
+    "terms_intro": "Waɗannan sharuɗɗan sun shafi amfani da wannan rukunin ƙaddamarwa na FullVendor.",
+    "terms": [
+      {
+        "title": "Bayanin kasuwanci",
+        "text": "Rubutu, misali alkaluman dashboard da kwatance suna gabatar da dandamali. Ana iya daidaita su lokacin da samfurin ya canza kuma ba tayin da aka rufe ba."
+      },
+      {
+        "title": "Demo ba kwangila ba ne",
+        "text": "Miƙa fam ɗin baya haifar da wajibci don siye ko ajiyar farashi. Ana yarda da kowace kwangila daban, a rubuce, tare da iyakarta da yanayinta."
+      },
+      {
+        "title": "Abubuwan da ke cikin rukunin yanar gizon",
+        "text": "Alamar kasuwanci ta FullVendor, sunayen samfur da abun ciki na waɗannan shafuka na masu su ne. Ba za a iya kwafi su don gabatar da wani samfur ba."
+      },
+      {
+        "title": "Amfani mai karɓuwa",
+        "text": "Kar a yi amfani da fom ɗin don ƙaddamar da bayanan karya, spam ko abun ciki na haram. Za mu iya yin watsi da buƙatun da ba su dace da ainihin tattaunawar kasuwanci ba."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Lawula no kurisa bindzu ra wena",
+    "home_desc": "Pulatifomo ya hinkwaswo eka yin’we leyi nga na swintshuxo swa webu na swa tiselfoni swa ku hangalasiwa, ku xavisa, vutleketli, ku xava, nhundzu na timali.",
+    "products_title": "Swikumiwa | FullVendor .",
+    "products_desc": "Tiva ikhosisteme FullVendor: pulatifomo ya mabindzu, ERP, vutleketli, vaphakeri na ku xavisa, ti-app ta vuhlayiselo na timali.",
+    "product_title": "{name} | FullVendor .",
+    "solutions_title": "Switshuxo swa | FullVendor .",
+    "solutions_desc": "Switshuxo swa vufambisi bya mabindzu, vuthu ro xavisa, vuhlayiselo, vutleketli, ku xava na timali.",
+    "industries_title": "Tiindasitiri ta | FullVendor .",
+    "industries_desc": "FullVendor ku hangalasiwa, vuxavisi, swakudya, khemisi, tihardware, ku tirhisiwa hi vunyingi, vumaki na khilomitara yo hetelela.",
+    "pricing_title": "Minxavo ya | FullVendor .",
+    "pricing_desc": "Tipulani ta Nkoka, ta Xiphurofexinali na ta Nhlangano. Xiringanyeto xi hlanganisiwa hi ku ya hi mimojula, vatirhisi na vholumo.",
+    "resources_title": "Switirhisiwa | FullVendor .",
+    "resources_desc": "Swiletelo swo koma swo hlanganisa ku hangalasiwa, ku xavisa ehandle ka inthanete, ku hlela ndhawu yo hlayisela swilo na ku hakeriwa hi nkarhi.",
+    "contact_title": "Tihlanganisi na | FullVendor .",
+    "contact_desc": "Hi tsalele ku dyondza hi FullVendor kumbe ku hlanganisa mbulavurisano na ntlawa wa vaxavisi.",
+    "demo_title": "Kombela demo | FullVendor .",
+    "demo_desc": "Kombela demo ya FullVendor ivi u famba-famba eplatifomo hi case leyi fanaka ni ya ntirho wa wena.",
+    "privacy_title": "Vuhlayiseki bya xihundla | FullVendor .",
+    "terms_title": "Mimpimanyeto | FullVendor .",
+    "search_title": "Ku lavisisa | FullVendor .",
+    "notfound_title": "Tluka a ri kumeki | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Tluka ra le kaya",
+    "products": "Swikumiwa",
+    "solutions": "Switshuxo",
+    "industries": "Tiindasitiri",
+    "pricing": "Minxavo",
+    "resources": "Switirhisiwa",
+    "contact": "Hlanganisa",
+    "open_menu": "Pfula menu",
+    "close": "Pfala"
+  },
+  "cta": {
+    "demo": "Xikombelo xa Demo",
+    "contact": "Tihlanganise na hina",
+    "video": "Languta Vhidiyo",
+    "talk": "Vulavula na vaxavisi",
+    "all_products": "Vona swilo hinkwaswo leswi endliweke",
+    "home": "Vuya eka tluka ra le kaya"
+  },
+  "a11y": {
+    "skip": "Tlula eka leswi nga endzeni",
+    "primary": "Ku famba-famba lokukulu",
+    "crumbs": "Ndlela yo famba hi xikepe",
+    "search": "Languta",
+    "language": "Ririmi"
+  },
+  "hero": {
+    "eyebrow": "Hinkwaswo swi le ka pulatifomo yin’we",
+    "title": "Lawula na ku kula\nbindzu ra wena na\n{{brand}} .",
+    "subtitle": "Pulatifomo leyi heleleke leyi nga na swintshuxo swa webu na swa tiselfoni swa ku hangalasiwa, ku xavisa, vutleketli, ku xava, nhundzu, timali na swin’wana.",
+    "pill_ecosystem": "Hinkwaswo eka fambiselo rin’we ra ikholoji",
+    "pill_cloud": "Eka xigwitsirisi, swi sirhelelekile naswona swi nga ringaniseriwa",
+    "pill_size": "Eka tikhampani ta vukulu hinkwabyo"
+  },
+  "products_block": {
+    "eyebrow": "Switirhisiwa swa hina",
+    "title": "[[ecosystem leyi heleleke]] ya ndhawu yin’wana na yin’wana ya bindzu ra wena",
+    "aside": "Switshuxo leswi hlanganisiweke leswi tirhaka swin’we ku ku nyika vulawuri hinkwabyo, vukorhokeri bya matirhelo na ku kula lokukulu.",
+    "groups": {
+      "money": "Vufambisi na nhlengeleto",
+      "flow": "Ku xava na ku rhumeriwa",
+      "field": "Ku xavisiwa na vuhlayiselo bya swilo"
+    }
+  },
+  "products_page": {
+    "title": "Swikumiwa swa nkombo, [[ntirho wun’we]].",
+    "text": "Xiendliwa xin’wana ni xin’wana xi tlhantlha ndhawu yo karhi. Swin’we va avelana vaxavi, xitoko, tioda na tihakelo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Ndhawu",
+      "card": "Pulatifomo leyikulu ya vufambisi bya mabindzu na ku hangalasiwa.",
+      "features": [
+        "Ku xavisiwa na ku xava",
+        "Nxaxamelo",
+        "Tikhasimende na vaphakeri",
+        "Swiviko na swin’wana"
+      ],
+      "lead": "Senthara ya ntirho wa wena wa mabindzu: tioda, minxavo, xitoko na vaxavi eka ndhawu yin’we.",
+      "about": "FullVendor yi siva swiphephana swa muxavisi leswi ntshunxekeke na tisisiteme. Ku suka laha ku huma ti oda, ku langutisiwa inventory, ku hlayisiwa portfolio ya vaxavi naswona tinomboro ta siku ti langutiwa. Ecosystem hinkwayo yi hlanganisa na xisekelo lexi.",
+      "benefits": [
+        {
+          "title": "Mufambisi un’we wa data",
+          "text": "Vaxavi, swikumiwa na minxavo swi averiwa na vuxavisi, vuhlayiselo na timali."
+        },
+        {
+          "title": "Ku tirha ka siku na siku loku nga erivaleni",
+          "text": "Ti oda, ku xava na switoko swi tshika ku hanya eka tifayela to hambana."
+        },
+        {
+          "title": "Swiviko swo endla xiboho",
+          "text": "Ku xavisiwa, margin na pending swi voniwa handle ko hlanganisa tafula hi voko."
+        },
+        {
+          "title": "Swi lunghekele ku kula",
+          "text": "Logistics, sales force kumbe ERP sums loko ntirho wu swi kombela."
+        }
+      ],
+      "audience": "Swipano swa mabindzu na ku hangalasa leswi namuntlha swi hlanganisaka bindzu exikarhi ka tisisiteme to hlayanyana."
+    },
+    "erp": {
+      "kicker": "Vufambisi",
+      "card": "Vufambisi lebyi heleleke bya vufambisi na bya timali.",
+      "features": [
+        "Vutivi bya xibalo",
+        "Ku hakela hi xielekitironiki",
+        "Maphepha ya ntirho",
+        "Nhundzu leyi nga cinciki",
+        "Tikhamphani to tala"
+      ],
+      "lead": "Vufambisi na timali, leswi fambelanaka na leswi hakunene swi xavisiwaka no yisiwa.",
+      "about": "FullVendor ERP yi katsa xibalo, ku endla ti-invoyisi ta xielekitironiki, minxaxamelo ya miholo, nhundzu leyi nga cinciki na tikhamphani to tala. Yi teka matirhelo ya mabindzu yi ma hundzula ku va swingheniso, tirhisithi na switatimende leswi ndhawu ya swa timali yi nga swi tirhisaka.",
+      "benefits": [
+        {
+          "title": "Xibalo lexi hlanganisiweke",
+          "text": "Leswi humelelaka eka ku xavisa na ku xava swi phamela xibalo."
+        },
+        {
+          "title": "Tirisiti ta xielekitironiki",
+          "text": "U humesa no lawula ku hakela ku suka eka ikhosisteme yin’we."
+        },
+        {
+          "title": "Tikhampani to hambana-hambana",
+          "text": "Tikhamphani to tala ta mintlawa leyi tirhaka ehansi ka mavito yo tlula yin’we ya tikhamphani."
+        },
+        {
+          "title": "Minxaxamelo ya miholo na nhundzu",
+          "text": "Nxaxamelo wa miholo na nhundzu leyi nga cinciki xikan’we na vufambisi hinkwabyo."
+        }
+      ],
+      "audience": "Tindhawu ta vufambisi na ta timali leti lavaka ku pfala tinomboro hi matirhelo ya xiviri."
+    },
+    "logistics": {
+      "kicker": "Vutleketli bya swilo",
+      "card": "Ku lawula na ku veka tihlo eka matirhelo ya wena ya vutleketli.",
+      "features": [
+        "Tindlela na ku rhumeriwa ka swilo",
+        "Ku landzelerisa hi nkarhi wa xiviri",
+        "Xiavelo xa muchayeri",
+        "Ku antswisiwa ka ndlela"
+      ],
+      "lead": "Ku suka eka oda ku ya eka ku rhumeriwa: tindlela, vachayeri na ku landzelerisa hi nkarhi wa xiviri.",
+      "about": "FullVendor Logistics yi hlela ku hangalasiwa. U tumbuluxa tindlela, u avela vachayeri u vona laha ku rhumeriwa kun’wana na kun’wana ku yaka kona. Xipano xa le magondzweni xi yima ku ya hi tifoyini ku kuma loko oda yi rhumeriwile.",
+      "benefits": [
+        {
+          "title": "Tindlela ta siku",
+          "text": "Ku rhumeriwa loku odariweke hi zoni, fasitere ra nkarhi na vuswikoti."
+        },
+        {
+          "title": "Muchayeri loyi a averiweke",
+          "text": "Ndlela yin’wana ni yin’wana yi ni munhu loyi a langutelaka ni ntlhandlamano lowu nga erivaleni."
+        },
+        {
+          "title": "Landzelerisa",
+          "text": "Wa swi tiva leswi tisiwaka, endleleni kumbe ku yimisiwa."
+        },
+        {
+          "title": "Tikhilomitara ti nga ri tingani",
+          "text": "Ku antswisiwa ka ndlela swi hunguta nkarhi wo rhumela na ntsengo."
+        }
+      ],
+      "audience": "Matirhelo yo hangalasa na swikepe swa wena kumbe vanhu va vunharhu."
+    },
+    "supplier": {
+      "kicker": "Ku xava",
+      "card": "Portal ya vaphakeri na vufambisi bya ku xava.",
+      "features": [
+        "Tioda to xava",
+        "Mintshaho",
+        "Vufambisi bya vaphakeri",
+        "Ku hlanganisiwa na nhundzu"
+      ],
+      "lead": "Vaphakeri va wena va koxa, va amukela tioda na ku tata xitoko handle ka ti-imeyili leti ntshunxekeke.",
+      "about": "Vendor Supplier yi pfula portal ya ku xava na vaphakeri ku tirha eka tioda leti fanaka. Tikhoti, tioda to xava na risiti swi boheleriwe eka nhundzu ya FullVendor.",
+      "benefits": [
+        {
+          "title": "Tioda eka xitichi",
+          "text": "Muphakeri u vona leswi a faneleke ku swi yisa, handle ka email chain."
+        },
+        {
+          "title": "Switlhokovetselo leswi ringanisiwaka",
+          "text": "U kombela minxavo ivi u hlawula u ri karhi u languta matimu."
+        },
+        {
+          "title": "Muphakeri Master",
+          "text": "Swiyimo, vuhlanganisi na leswi yimeleke eka rhekhodo yin’we."
+        },
+        {
+          "title": "Nghenisa nxaxamelo wa swilo leswi xavisiwaka",
+          "text": "Leswi xaviweke swi kombisiwa eka xitoko loko xi amukeriwa."
+        }
+      ],
+      "audience": "Swipano swo xava leswi tataka hi vaphakeri vo hlayanyana naswona swi lavaka ku landzelerisiwa."
+    },
+    "salesman": {
+      "kicker": "App ya movha",
+      "card": "Xitirhisiwa xa mobile xa xipano xa vuxavisi.",
+      "features": [
+        "Vufambisi bya vaxavi",
+        "Ku teka oda",
+        "Khathalogi ya swikumiwa",
+        "Ntirho wa le handle ka inthanete"
+      ],
+      "lead": "Ntlawa wa vaxavisi wu teka tioda exitarateni, wu ri ni xikombiso kumbe wu nga ri na wona.",
+      "about": "FullVendor Sales Man yi veka photifoliyo ya wena, khathalogi na ku teka oda eka riqingho ra muxavisi. Loko ku nga ri na inthanete, ntirho wu ya emahlweni naswona wu fambisana loko xigingi xi vuya. Odara yi fika yi lunghekele ku lunghiselela ni ku yi yisa.",
+      "benefits": [
+        {
+          "title": "Xipachi xa le xikhwameni",
+          "text": "Muxavisi u vona tiklayenti, swiyimo na swilo leswi nga yimisiwa."
+        },
+        {
+          "title": "Oda loko u endzela",
+          "text": "Teka oda na minxavo ya sweswi na xitoko."
+        },
+        {
+          "title": "Khathalogi ya sweswi",
+          "text": "Switirhisiwa, swikombiso na minxavo handle ka PDF ya khale."
+        },
+        {
+          "title": "Xiviri xa le handle ka inthanete",
+          "text": "Tirha handle ka coverage naswona synchronize endzhaku."
+        }
+      ],
+      "audience": "Valanguteri na vaxavisi va le masin’wini eka ku hangalasiwa na ku tirhisiwa hi vunyingi."
+    },
+    "warehouse": {
+      "kicker": "App ya movha",
+      "card": "Xitirhisiwa xa movha xa ndhawu yo hlayisela swilo.",
+      "features": [
+        "Ku amukeriwa na ku rhumeriwa",
+        "Ku tshovela na ku paka",
+        "Vulawuri bya nhundzu",
+        "Ku hlaya ka tibarakhodi"
+      ],
+      "lead": "Ku amukela, ku teka na ku rhumela hi riqingho na barkhodi.",
+      "about": "FullVendor Warehouse yi kongomisa ndhawu yo hlayisela swilo eka ku amukela, ku tshovela, ku paka na ku rhumela. Ku hlaya tikhodi swi hunguta swihoxo naswona nhundzu a ya ha hlayiwi ntsena eku heleni ka n’hweti.",
+      "benefits": [
+        {
+          "title": "Ku amukeriwa ku lwisana na xileriso",
+          "text": "Leswi nghenaka swi pimanisiwa na ku xava."
+        },
+        {
+          "title": "Ku tshovela loku kongomisiweke",
+          "text": "N’wini wa xikepe u landzela oda naswona u tiyisekisa nchumu wun’wana ni wun’wana."
+        },
+        {
+          "title": "Tibarakhodi",
+          "text": "Swihoxo switsongo swa xiendliwa, ntlawa kumbe nhlayo."
+        },
+        {
+          "title": "Xitoko lexi tshembekaka",
+          "text": "Ku rhurha kun’wana ni kun’wana ku pfuxeta nhundzu ya pulatifomo."
+        }
+      ],
+      "audience": "Vafambisi va tindhawu to hlayisela swilo ni vini va swikepe lava namuntlha va lunghiselelaka tioda hi minxaxamelo leyi kandziyisiweke."
+    },
+    "finance": {
+      "kicker": "App ya movha",
+      "card": "Vulawuri bya swa timali ku suka eka mobile ya wena.",
+      "features": [
+        "Tiakhawunti leti amukeriwaka na leti hakeriwaka",
+        "Xiyimo xa muxavi",
+        "Ku hakela na ku vuyelelana",
+        "Swiviko swa timali"
+      ],
+      "lead": "Tiakhawunti leti amukeriwaka, tihakelo na xiyimo xa vaxavi, ku suka eka riqingho ra wena.",
+      "about": "FullVendor Finance yi kombisa nhlengeleto eka movha: leswi khalayente yin’wana na yin’wana yi swi kolotaka, leswi khamphani yi nga kusuhi no swi hakela na ndlela leyi tihakelo ti taka ha yona. Yi tirhisiwa ku hlengeleta mali hi nkarhi wa riendzo na ku languta eka rhijisitara ra mali handle ko pfula desika.",
+      "benefits": [
+        {
+          "title": "Nhlengeleto eka riendzo",
+          "text": "Muxavisi wa swi tiva loko muxavi a ri eka nkarhi wa sweswi a nga si xavisa."
+        },
+        {
+          "title": "Ku amukeriwa na ku hakeriwa",
+          "text": "Matlhelo hamambirhi ya bokisi eka app yin’we."
+        },
+        {
+          "title": "Ku hakela na ku vuyelelana",
+          "text": "U tsarisa swikweleti u vona leswi lavaka ku tsemakanya."
+        },
+        {
+          "title": "Swiviko leswi nga evokweni",
+          "text": "Swikombiso swa nhlengeleto na mali handle ko rindza ku pfala."
+        }
+      ],
+      "audience": "Vafambisi, vahlengeleti na vaxavisi lava lavaka xiyimo xa muxavi eka nkarhi wa sweswi."
+    }
+  },
+  "why": {
+    "eyebrow": "Ha yini FullVendor .",
+    "title": "Tlakusa bindzu ra wena\nhi vuyelo bya xiviri",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Tikhampani ta hi tshemba"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Vatirhisi lava tirhaka"
+      },
+      {
+        "value": "+10",
+        "suffix": "malembe",
+        "label": "Eka ku hundzuka loku tshamaka ku ri kona"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ku kumeka ka mapapa"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ndlela leyi swi tirhaka ha yona",
+    "title": "Kusuka eka ku xavisiwa kuya eka nhlengeleto, handle ko cinca maendlelo",
+    "text": "Xiendliwa xin’wana na xin’wana xi avelana vaxavi, xitoko, tioda na tihakelo. Leswi humelelaka exitarateni kumbe evuhlayiselweni swi humelela ehofisini hi ku hatlisa.",
+    "steps": {
+      "sell": {
+        "title": "U xavisa",
+        "text": "Odara yi nghenisiwa hi ku tirhisa webusayiti kumbe hi ku tirhisa Sales Man, hambi ku ri handle ka xikombiso."
+      },
+      "pick": {
+        "title": "Lulamile",
+        "text": "Warehouse yi amukela, yi hambanyisa na ku rhumela hi barkhodi."
+      },
+      "deliver": {
+        "title": "Ku rhumeriwa ka swilo",
+        "text": "Logistics yi avela ndlela naswona yi landzelela ku rhumeriwa."
+      },
+      "collect": {
+        "title": "Ti- cobra ta swinyenyana",
+        "text": "Finance na ERP swi pfala nhlengeleto, tirhisithi na tinomboro."
+      }
+    }
+  },
+  "band": {
+    "title": "Xana u lunghekele ku yi vona hi [[vuhandzuri bya wena]]?",
+    "text": "Hi ku komba ecosystem leyi nga na case ya distribution leyi fanaka na ya wena."
+  },
+  "footer": {
+    "blurb": "Pulatifomo ya webu na ya movha ya ku hangalasa, ku xavisa, vutleketli, ku xava, nhundzu na timali.",
+    "products": "Swikumiwa",
+    "company": "Khamphani",
+    "legal": "Xinawu",
+    "privacy": "Xihundla",
+    "terms": "Minkarhi",
+    "rights": "Timfanelo hinkwato ti hlayisiwile."
+  },
+  "solutions": {
+    "eyebrow": "Switshuxo",
+    "title": "Ndhawu yin’wana ni yin’wana, leyi hlanganisiweke ni [[ntirho lowu fanaka]].",
+    "intro": "Hlawula hi xiphiqo lexi u lavaka ku xi tlhantlha. Endzhaku, swilo leswi endliweke swi avelana rungula leri fanaka.",
+    "items": {
+      "commercial": {
+        "title": "Vufambisi bya mabindzu",
+        "text": "Tioda, minxavo, vaxavi na nhundzu ya ku hangalasiwa ka siku na siku."
+      },
+      "field": {
+        "title": "vuthu ra vuxavisi",
+        "text": "Vaxavisi va teka tioda exitarateni, eka inthanete kumbe ehandle ka inthanete."
+      },
+      "warehouse": {
+        "title": "Veka",
+        "text": "Ku amukeriwa, ku tshovela, ku rhumeriwa na xitoko lexi nga tshembiwaka."
+      },
+      "logistics": {
+        "title": "Logistics na ku rhumeriwa ka swilo",
+        "text": "Tindlela, vachayeri na xiyimo xa ku rhumeriwa kun’wana na kun’wana."
+      },
+      "purchasing": {
+        "title": "Ku xava na vaphakeri",
+        "text": "Tiquotes, ti order na portal ya mani na mani loyi a ku phakelaka."
+      },
+      "finance": {
+        "title": "Timali na xibalo",
+        "text": "Ku hlengeletiwa, ku hakela, ku hakela hi xielekitironiki na xibalo."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Tiindasitiri",
+    "title": "Yi endleriwe lava [[ku rhurhela xiendliwa]].",
+    "intro": "FullVendor yi velekiwile eka ku hangalasiwa naswona yi fambisana na tikhamphani leti xavaka, ti hlayisaka, ti xavisa na ku yisa.",
+    "items": {
+      "wholesale": {
+        "title": "Ku hangalasiwa na ku xavisa hi xitalo",
+        "text": "Minxaxamelo ya minxavo, photifoliyo, ku hangalasiwa na nhlengeleto eka xiyenge xin’we."
+      },
+      "retail": {
+        "title": "Xavisa",
+        "text": "Vhengele na vuhlayiselo lebyi nga na xitoko lexi hlanganisiweke, ku xavisiwa na ku tata."
+      },
+      "food": {
+        "title": "Swakudya ni swakunwa",
+        "text": "Tindlela leti talaka ku famba na ndhawu yo hlayisela swilo leyi nga kotiki ku yima."
+      },
+      "pharma": {
+        "title": "Vukhemisi na vukorhokeri bya munhu hi xiyexe",
+        "text": "Ku amukeriwa, ku tshovela na vulawuri bya nhundzu na ku landzelerisa."
+      },
+      "hardware": {
+        "title": "Hardware na ku aka",
+        "text": "Swikombo swo tala, vaphakeri na ku rhumeriwa entirhweni kumbe exitolo."
+      },
+      "fmcg": {
+        "title": "Ku tirhisiwa ka swilo hi vunyingi",
+        "text": "Vuthu ra ku xavisa exitarateni na ku cinciwa ka vuxavisi bya le henhla."
+      },
+      "manufacturing": {
+        "title": "Ku endla swilo",
+        "text": "Ku xava, vuhlayiselo na nhundzu leyi fambelanaka na vufambisi."
+      },
+      "lastmile": {
+        "title": "Ku rhumeriwa na khilomitara yo hetelela",
+        "text": "Tindlela, vachayeri na xiyimo xa ku rhumeriwa kun’wana na kun’wana."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Switirhisiwa",
+    "title": "Miehleketo leyi nga erivaleni ku [[oda vuhandzuri]].",
+    "intro": "Swiletelo swo koma swa vafambisi va ku hangalasiwa lava nga ta teka xiboho xa leswaku i sisiteme yihi leyi va faneleke ku namarhela eka yona.",
+    "items": {
+      "unify": {
+        "title": "Ndlela yo hlanganisa ku hangalasiwa eka sisiteme yin’we",
+        "summary": "Leswi u faneleke ku swi hlanganisa ku sungula loko ku xavisiwa, vuhlayiselo na nhlengeleto swi tshama eka tifayela to hambana.",
+        "points": [
+          "Sungula hi vaxavi, swikumiwa na minxavo: i mudyondzisi loyi un’wana na un’wana a n’wi tirhisaka.",
+          "Hlanganisa oda na xitoko loko unga se engetela switirhisiwa swin’wana.",
+          "Yi pima nhlayo yo olova: tioda leti hetisisiweke handle ko endla fomo nakambe."
+        ]
+      },
+      "offline": {
+        "title": "Vuthu ra vuxavisi leri tirhaka ehandle ka inthanete",
+        "summary": "Leswi u faneleke ku swi lava eka app yo oda leswaku muxavisi a nga yimi hikwalaho ka xigingi.",
+        "points": [
+          "Khathalogi na xipachi swi fanele swi va eka riqingho, ku nga ri eka xigwitsirisi ntsena.",
+          "Odara yi hlayisiwa eka xitirhisiwa ivi yi layicha loko netiweke yi vuya.",
+          "Loko ku fambisana, oda se yi nghena eka ndhawu yo hlayisela swilo."
+        ]
+      },
+      "warehouse": {
+        "title": "Ndhawu yo hlayisela swilo leyi nga ni barcode, leyi nga riki na phepha",
+        "summary": "Ndlela yo suka eka nxaxamelo lowu kandziyisiweke ku ya eka ku hlawula loku tiyisisiweke eka riqingho.",
+        "points": [
+          "Amukela ku lwisana na oda yo xava, ku nga ri ku lwisana na memori.",
+          "Tiyisisa nchumu wun’wana ni wun’wana loko u hambanisa. Xitsotswana lexi xi tsema xi nghena ephasejini.",
+          "Dispatch yi pfuxeta xitoko lexi muxavisi a xi vonaka."
+        ]
+      },
+      "finance": {
+        "title": "Nhlengeleto wu fambisana na ku xavisiwa",
+        "summary": "Ha yini muxavisi a fanele a vona xikweleti xa muxavi a nga si teka oda yin’wana.",
+        "points": [
+          "Ku endzela i nkarhi lowunene wo hlengeleta, loko xikweleti xi vonaka.",
+          "Ku xavisa na timali swi fanele ku languta khasimende yin’we.",
+          "Xiviko xa siku na siku lexi hundzeriweke hi nkarhi xi na nkoka ku tlula ku pfala endzhaku ka nkarhi."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Minxavo",
+    "title": "Fambiselo ra ikholoji leri [[ku kulaka na wena]].",
+    "intro": "A hi kandziyisi mpimo wa xivumbeko xa le henhla: ntsengo wu titshege hi mimojula, vatirhisi na vholumo. Hi ku komba pulatifomo hi tlhela hi hlanganisa xiringanyeto na matirhelo ya wena.",
+    "note": "Demo a yi na ntsengo naswona a yi lavi kontraka.",
+    "recommended": "Ringanyeta",
+    "faq_title": "Swivutiso leswi talaka ku vutisisiwa",
+    "plans": {
+      "essential": {
+        "name": "Nkoka",
+        "desc": "Ku hlela vufambisi bya mabindzu na ku hangalasiwa eka pulatifomo yin’we.",
+        "features": [
+          "FullVendor pulatifomo ya webu",
+          "Ku xavisiwa, ku xava na nhundzu",
+          "Tikhasimende, vaphakeri na swiviko",
+          "Vatirhisi va switirhisiwa swa le hofisini",
+          "Nseketelo wo sungula"
+        ],
+        "cta": "Xikombelo xa Demo"
+      },
+      "professional": {
+        "name": "Xiphurofexini",
+        "desc": "Eka swipano leswi xavisaka exitarateni na ku lunghiselela tioda eka ndhawu yo hlayisela swilo.",
+        "features": [
+          "Hinkwaswo Swa Nkoka",
+          "Xitirhisiwa xa FullVendor Sales Man .",
+          "Xitirhisiwa xa FullVendor Warehouse .",
+          "Ntirho wa le handle ka inthanete na tibarkhodi",
+          "Vatirhisi vo tala va nsimu na vuhlayiselo"
+        ],
+        "cta": "Xikombelo xa Demo"
+      },
+      "corporate": {
+        "name": "Xiyenge xa ​​mabindzu",
+        "desc": "Eka mintlawa leyi lavaka logistics, ku xava, timali na tikhamphani to hambana hambana.",
+        "features": [
+          "Ikhosisteme leyi heleleke",
+          "Logistics, Vendor Supplier na Finance .",
+          "FullVendor ERP na ku hirha ko tala",
+          "Ku hakela hi xielekitironiki na xibalo",
+          "Ku heleketiwa na ku kumeka ka swilo leswi rhangisaka emahlweni"
+        ],
+        "cta": "Vulavula na vaxavisi"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Xana ndzi fanele ndzi xava swilo hinkwaswo leswi endliweke?",
+        "a": "No. U nga sungula hi FullVendor ivi u engetela ti-app kumbe ERP loko ntirho wu swi lava."
+      },
+      "offline": {
+        "q": "Xana ti application ti tirha handle ka internet?",
+        "a": "Sales Man na Warehouse va ya emahlweni va tirha handle ka xigingi naswona va fambisana loko va hlanganisa nakambe."
+      },
+      "multi": {
+        "q": "Xana swa tirha loko ndzi ri ni tikhampani to tlula yin’we?",
+        "a": "Ina. ERP yi anakanyisisa hi tikhamphani to tala naswona ikhosisteme yi nga avelana vafumi exikarhi ka vona."
+      },
+      "demo": {
+        "q": "Xana demo yi katsa yini?",
+        "a": "Ku endzela eplatifomo hi xikhwama lexi fanaka ni xa wena. A ku na ntsengo naswona a ku na vutihlamuleri."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Xikombiso",
+    "title": "Hi ku komba FullVendor hi [[muxaka wa wena wa ntirho]].",
+    "text": "Hi byele hi khamphani ya wena na leswi u lavaka ku swi oda ku sungula. Demo a yi na mali yo tala."
+  },
+  "contact": {
+    "eyebrow": "Hlanganisa",
+    "title": "A hi buleni hi [[vuhandzuri bya wena]].",
+    "text": "Loko u lava demo, xiringanyeto kumbe ntsena ku ti orienta exikarhi ka swikumiwa, siya vuxokoxoko bya wena hi ta hlamula.",
+    "email": "Poso",
+    "phone": "Riqingho",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Vito",
+    "email": "Poso",
+    "phone": "Riqingho",
+    "company": "Khamphani",
+    "country": "Tiko",
+    "team": "Vukulu bya xipano",
+    "interest": "I yini lexi ku tsakisaka?",
+    "message": "Hungu",
+    "optional": "Hlawula",
+    "choose": "Hlawula",
+    "interest_all": "Fambiselo hinkwaro ra ikholoji",
+    "ph_name": "vito ra wena",
+    "ph_email": "wena@khamphani.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Khamphani ya wena",
+    "ph_country": "Tiko",
+    "ph_message": "Hi byele ndlela leyi u tirhaka ha yona namuntlha",
+    "privacy_before": "Ndzi amukela ku tirhisiwa ka data ya mina hi ku ya hi",
+    "privacy_after": ".",
+    "submit": "Rhumela xikombelo",
+    "sent_title": "Hi amukela xikombelo xa wena",
+    "sent_text": "Inkomu. Xipano xa vaxavisi xi ta ku tsalela ku hlanganisa demo kumbe ku hlamula xivutiso xa wena.",
+    "error_required": "Hetisa nsimu leyi.",
+    "error_email": "Nghenisa imeyili leyi tirhaka.",
+    "error_phone": "Languta riqingho.",
+    "error_privacy": "Hi lava mpfumelelo wa wena ku tirhisa vuxokoxoko bya vuhlanganisi.",
+    "error_csrf": "Nkarhi wu herile. Rhumela fomo nakambe.",
+    "error_save": "A hi swi kotanga ku hlayisa xikombelo. Ringeta nakambe.",
+    "error_generic": "Pfuxeta tinsimu leti funghiweke.",
+    "error_rate": "Hi kombela mi yima nkarhinyana mi nga si rhumela xikombelo xin’wana.",
+    "team_options": {
+      "1-10": "1 ku ya eka 10 wa vanhu",
+      "11-50": "11 ku ya eka 50 wa vanhu",
+      "51-200": "51 ku ya eka 200 wa vanhu",
+      "201-500": "201 ku ya eka 500 wa vanhu",
+      "500+": "Vanhu vo tlula 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor hi minete yin’we",
+    "prev": "Khale",
+    "next": "Landzelaka",
+    "slides": [
+      {
+        "title": "Fambiselo rin’we ra ikholoji",
+        "text": "Ku xavisa, vuhlayiselo, ku rhumela, ku xava na ku avelana timali ta vaxavi, xitoko na tioda."
+      },
+      {
+        "title": "Web na mobile swin’we",
+        "text": "Hofisi yi tirha eplatifomo. Xitarata na ndhawu yo hlayisela swilo, eka ti-app, hambi ku ri handle ka xikombiso."
+      },
+      {
+        "title": "Yi endliwe ku hangalasa",
+        "text": "Ku suka eka oda ku ya eka hakelo, handle ko hundzisela rungula ku suka eka fayili yin’wana ku ya eka yin’wana."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Ku lavisisa swikumiwa, swintshuxo, tiindasitiri...",
+    "lang_filter": "Ku lavisisa ririmi",
+    "intro": "Ku lavisisa swikumiwa, swintshuxo, tiindasitiri na switirhisiwa.",
+    "empty": "A hi kumanga mbuyelo wa “{q}”.",
+    "hint": "Ringeta ku xavisa, vuhlayiselo, tindlela kumbe nhlengeleto.",
+    "results": "{n} mbuyelo",
+    "button": "Languta",
+    "kind_product": "Ximakiwa",
+    "kind_solution": "Xitshunxo",
+    "kind_industry": "Vumaki",
+    "kind_resource": "Xitirhisiwa"
+  },
+  "notfound": {
+    "title": "Tluka leri a ri tano",
+    "text": "Xihlanganisi a xi kona kumbe xi cincile ndhawu."
+  },
+  "common": {
+    "what": "Leswi tlhantlhaka",
+    "features": "Leswi katsekaka",
+    "benefits": "Ha yini swi ri swa nkoka",
+    "for_who": "I ya mani?",
+    "related": "Nakambe eka fambiselo ra ikholoji"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ku xavisiwa namuntlha",
+      "orders": "Tioda",
+      "clients": "Vaxavi",
+      "products": "Swikumiwa"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Ku xavisiwa",
+      "purchases": "Ku xava",
+      "inventory": "Nxaxamelo",
+      "clients": "Vaxavi",
+      "reports": "Swiviko"
+    },
+    "chart": "Ku xavisiwa",
+    "channel": "Ku hangalasiwa hi ku ya hi xitichi",
+    "channels": [
+      "Veka",
+      "Hangalasa",
+      "Muxavisi wa swilo hi xitalo",
+      "Van’wana"
+    ],
+    "orders": "Tioda ta sweswinyana",
+    "col_order": "Xileriso",
+    "col_client": "Khasimende",
+    "col_status": "Hlamusela",
+    "col_total": "Hinkwaswo",
+    "status": [
+      "Yisiwile",
+      "Endleleni",
+      "Xingwavila xa ndleve"
+    ],
+    "top": "Switirhisiwa leswi xavisiwaka ngopfu",
+    "product": "Ximakiwa",
+    "sales_menu": [
+      "Vaxavi",
+      "Tioda",
+      "Swikumiwa",
+      "Tindlela ta tindlela",
+      "Ku fambisana"
+    ],
+    "warehouse_menu": [
+      "Vuamukeri",
+      "Ku tshovela",
+      "Nxaxamelo",
+      "Rhumela",
+      "Ku fambisana"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Pholisi ya Vuhlayiseki bya Swihundla",
+    "privacy_intro": "Pholisi leyi yi hlamusela leswi hi swi endlaka hi data leyi u yi siyaka eka tifomo eka sayiti leyi.",
+    "privacy": [
+      {
+        "title": "Hi yihi data leyi hi yi hlengeletaka",
+        "text": "Loko u kombela demo kumbe u hi tsalela, hi hlayisa vito, khamphani, email, nomboro ya riqingho loko u swi kombisa, tiko, vukulu bya xipano, xiendliwa lexi u xi tsakelaka na rungula. Hi tlhela hi rhekhoda siku, ririmi ra pheji na adirese ya IP, ku sivela ku rhumeriwa ka swilo hi ndlela yo biha."
+      },
+      {
+        "title": "Hi ma tirhisa yini?",
+        "text": "Hi tirhisa data leyi ntsena ku hlamula eka wena, ku hlanganisa demo na ku lulamisa xiringanyeto xa mabindzu. A hi ti xavisi kumbe ku ti nyika nxaxamelo wa vanhu va vunharhu."
+      },
+      {
+        "title": "Xana ti hlayisiwa kwihi naswona ti hlayisiwa nkarhi wo tanihi kwihi?",
+        "text": "Swikombelo swi hlayisiwa eka sevha ya sayiti leyi. Hi ti hlayisa nkarhi lowu lavekaka ku ku tirhela na ku landzelerisa ka mabindzu, naswona hi ti susa loko u hi kombela kumbe loko ti nga ha laveki."
+      },
+      {
+        "title": "Timfanelo ta wena",
+        "text": "U nga kombela ku nghena, ku lulamisiwa kumbe ku susiwa ka datha ya wena eka fomo ya vuhlanganisi, u yi kombisa eka rungula. Loko khamphani yi kandziyisa email eka website leyi, u nga tlhela u tsala kona."
+      }
+    ],
+    "terms_title": "Mimpimanyeto ya ku tirhisa",
+    "terms_intro": "Swiyimo leswi swi tirha eka ku tirhisiwa ka sayiti leyi ya FullVendor yo rhumela.",
+    "terms": [
+      {
+        "title": "Rungula ra mabindzu",
+        "text": "Matsalwa, xikombiso swifaniso swa dashboard na tinhlamuselo swi tivisa pulatifomo. Tinga lulamisiwa loko xitirhisiwa xi cinca naswona ahi nyiko leyi pfalekeke."
+      },
+      {
+        "title": "Demo a hi kontraka",
+        "text": "Ku rhumela fomo a swi tumbuluxi vutihlamuleri byo xava kumbe ku hlayisa nxavo. Kontiraka yin’wana na yin’wana yi pfumelelaniwa hi ku hambana, hi ku tsala, na vukulu bya yona na swiyimo swa yona."
+      },
+      {
+        "title": "Vuxokoxoko bya sayiti",
+        "text": "Xikombiso xa bindzu xa FullVendor, mavito ya swikumiwa na leswi nga endzeni ka matluka lawa i swa vini va wona. A ti nge kopiwi leswaku ti nyikela xiendliwa xin’wana."
+      },
+      {
+        "title": "Ku tirhisiwa loku amukelekaka",
+        "text": "U nga tirhisi tifomo ku rhumela mahungu ya mavunwa, spam kumbe swilo leswi nga riki enawini. Hi nga ha honisa swikombelo leswi nga fambisaniki ni bulo ra xiviri ra bindzu."
+      }
+    ]
+  }
+}

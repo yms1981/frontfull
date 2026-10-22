@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Tantano sy ampitomboy ny orinasanao",
+    "home_desc": "Sehatra iray miaraka amin'ny vahaolana amin'ny tranonkala sy finday ho an'ny fizarana, fivarotana, lozisialy, fividianana, famoriam-bola ary fitantanam-bola.",
+    "products_title": "Products | FullVendor",
+    "products_desc": "Fantaro ny tontolo iainana FullVendor: sehatra ara-barotra, ERP, lozisialy, mpamatsy sy varotra, trano fanatobiana entana ary fampiharana ara-bola.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Vahaolana | FullVendor",
+    "solutions_desc": "Vahaolana ho an'ny fitantanana ara-barotra, varotra, trano fanatobiana entana, lozisialy, fividianana ary fitantanam-bola.",
+    "industries_title": "Indostria | FullVendor",
+    "industries_desc": "FullVendor ho an'ny fizarana, antsinjarany, sakafo, fivarotam-panafody, fitaovana, fanjifana faobe, famokarana ary kilaometatra farany.",
+    "pricing_title": "Vidiny | FullVendor",
+    "pricing_desc": "Drafitra ilaina, matihanina ary orinasa. Ny tolo-kevitra dia atambatra araka ny modules, mpampiasa ary volume.",
+    "resources_title": "Resources | FullVendor",
+    "resources_desc": "Torolàlana fohy hanambatra ny fizarana, hivarotra an-tserasera, handamina ny trano fanatobiana entana ary hahazo karama ara-potoana.",
+    "contact_title": "Contact | FullVendor",
+    "contact_desc": "Manorata aminay mba hianatra momba ny FullVendor na handrindra ny resaka miaraka amin'ny ekipan'ny varotra.",
+    "demo_title": "Mangataka demo | FullVendor",
+    "demo_desc": "Mangataha demo amin'ny FullVendor ary tsidiho ny lampihazo miaraka amin'ny tranga mitovy amin'ny asanao.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Fepetra | FullVendor",
+    "search_title": "Fikarohana | FullVendor",
+    "notfound_title": "Pejy tsy hita | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pejy fandraisana",
+    "products": "Products",
+    "solutions": "vahaolana",
+    "industries": "Indostria",
+    "pricing": "vidin'ny",
+    "resources": "Loharano",
+    "contact": "Contact",
+    "open_menu": "Sokafy ny sakafo",
+    "close": "AKAIKY"
+  },
+  "cta": {
+    "demo": "Mangataha Demo",
+    "contact": "Mifandraisa aminay",
+    "video": "Jereo Video",
+    "talk": "Miresaha amin'ny varotra",
+    "all_products": "Jereo ny vokatra rehetra",
+    "home": "Hiverina any amin'ny pejy fandraisana"
+  },
+  "a11y": {
+    "skip": "Mandehana any amin'ny votoaty",
+    "primary": "Fikarohana lehibe",
+    "crumbs": "Lalana fitetezana",
+    "search": "Mitady",
+    "language": "Fiteny"
+  },
+  "hero": {
+    "eyebrow": "Ao anaty sehatra iray avokoa",
+    "title": "Mitantana sy mitombo\nny orinasanao miaraka amin'ny\n{{brand}}",
+    "subtitle": "Sehatra feno misy vahaolana amin'ny tranonkala sy finday ho an'ny fizarana, varotra, lozisialy, fividianana, fanisana, fitantanam-bola ary maro hafa.",
+    "pill_ecosystem": "Ny zava-drehetra ao anaty tontolo iainana tokana",
+    "pill_cloud": "Ao amin'ny rahona, azo antoka sy azo scalable",
+    "pill_size": "Ho an'ny orinasa amin'ny habe rehetra"
+  },
+  "products_block": {
+    "eyebrow": "Ny vokatray",
+    "title": "[[ecosystem feno]] ho an'ny faritra tsirairay amin'ny orinasanao",
+    "aside": "Vahaolana mitambatra izay miara-miasa mba hanomezana anao fifehezana tanteraka, fahombiazana amin'ny fampandehanana ary fitomboana bebe kokoa.",
+    "groups": {
+      "money": "Fitantanana sy fanangonana",
+      "flow": "Fividianana sy fanaterana",
+      "field": "Varotra sy trano fanatobiana entana"
+    }
+  },
+  "products_page": {
+    "title": "Vokatra fito, [[operation tokana]]",
+    "text": "Ny vokatra tsirairay dia mamaha faritra iray. Miara-mizara mpanjifa, tahiry, baiko ary fandoavam-bola izy ireo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Sehatra lehibe amin'ny fitantanana sy fizarana ara-barotra.",
+      "features": [
+        "Varotra sy fividianana",
+        "lisitra",
+        "Mpanjifa sy mpamatsy",
+        "Tatitra sy ny maro hafa"
+      ],
+      "lead": "Ivon'ny asa ara-barotra ataonao: baiko, vidiny, tahiry ary mpanjifa amin'ny toerana iray.",
+      "about": "FullVendor dia manolo ny takelaka sy ny rafitry ny mpaninjara. Avy eto no mivoaka ny baiko, dinihina ny fanisana, karakaraina ny portfolio-n'ny mpanjifa ary jerena ny laharan'ny andro. Ny sisa amin'ny tontolo iainana dia mifandray amin'io fototra io.",
+      "benefits": [
+        {
+          "title": "Master data tokana",
+          "text": "Ny mpanjifa, ny vokatra ary ny vidiny dia zaraina amin'ny varotra, trano fanatobiana entana ary ara-bola."
+        },
+        {
+          "title": "Mazava ny asa isan'andro",
+          "text": "Ny baiko, ny fividianana ary ny tahiry dia mijanona amin'ny rakitra samihafa."
+        },
+        {
+          "title": "Tatitra hanapa-kevitra",
+          "text": "Ny varotra, ny sisiny ary ny miandry dia hita tsy misy latabatra amin'ny tanana."
+        },
+        {
+          "title": "Vonona hitombo",
+          "text": "Logistics, varotra na ERP vola rehefa mangataka izany ny fandidiana."
+        }
+      ],
+      "audience": "Ekipa ara-barotra sy fizarana izay mandrindra ny raharaha eo amin'ny rafitra maro ankehitriny."
+    },
+    "erp": {
+      "kicker": "fitantanan-draharaha",
+      "card": "Fitantanana ara-pitantanana sy ara-bola feno.",
+      "features": [
+        "nihevitra",
+        "Faktiora elektronika",
+        "Taratasy asa",
+        "Fananana raikitra",
+        "Orinasa maro"
+      ],
+      "lead": "Fitantanana sy fitantanam-bola, mifanaraka amin'izay tena amidy sy aterina.",
+      "about": "FullVendor ERP dia mirakitra ny kaonty, faktiora elektronika, karama, fananana raikitra ary orinasa maro. Mitaky ny fampandehanana ara-barotra izany ary mamadika izany ho fampidirana, rosia ary fanambarana izay azon'ny faritra ara-bola ampiasaina.",
+      "benefits": [
+        {
+          "title": "Kaonty mifandray",
+          "text": "Ny zava-mitranga amin'ny varotra sy ny fividianana dia mamahana kaonty."
+        },
+        {
+          "title": "Receipt elektronika",
+          "text": "Mamoaka sy mifehy faktiora avy amin'ny tontolo iainana iray ihany ianao."
+        },
+        {
+          "title": "Orinasa isan-karazany",
+          "text": "Orinasa marobe ho an'ny vondrona izay miasa amin'ny anaran'ny orinasa mihoatra ny iray."
+        },
+        {
+          "title": "Payrolls sy fananana",
+          "text": "Taratasy karama sy fananana raikitra miaraka amin'ny mpitantana sisa."
+        }
+      ],
+      "audience": "Faritra administratif sy ara-bola izay te hanakatona ny isa amin'ny asa tena izy."
+    },
+    "logistics": {
+      "kicker": "fampitaovana",
+      "card": "Fanaraha-maso sy fanaraha-maso ny fiasanao ara-pitaovana.",
+      "features": [
+        "Lalana sy fanaterana",
+        "Fanaraha-maso amin'ny fotoana tena izy",
+        "Fanendrena mpamily",
+        "Optimization ny lalana"
+      ],
+      "lead": "Avy amin'ny baiko mankany amin'ny fanaterana: lalana, mpamily ary fanaraha-maso amin'ny fotoana tena izy.",
+      "about": "FullVendor Logistics no mikarakara ny fizarana. Mamorona lalana ianao, manendry mpamily ary jereo izay alehan'ny fanaterana tsirairay. Ny ekipan'ny fifamoivoizana dia mijanona miankina amin'ny antso mba hahitana raha efa nalefa ny baiko.",
+      "benefits": [
+        {
+          "title": "Làlan'ny andro",
+          "text": "Manao livraison araka ny faritra, ny fe-potoana ary ny fahafaha-manao."
+        },
+        {
+          "title": "Voatendry mpamily",
+          "text": "Ny lalana tsirairay dia manana ny tompon'andraikitra ary mazava ny filaharana."
+        },
+        {
+          "title": "Hanaraka",
+          "text": "Fantatrao izay aterina, eny an-dalana na mijanona."
+        },
+        {
+          "title": "Vitsy kilometatra",
+          "text": "Mampihena ny fotoana sy ny saran-dalana ny fanatsarana ny lalana."
+        }
+      ],
+      "audience": "Asa fitsinjarana miaraka amin'ny andian-tsambo manokana na antoko fahatelo."
+    },
+    "supplier": {
+      "kicker": "fiantsenana",
+      "card": "Portal ho an'ny mpamatsy sy ny fitantanana ny fividianana.",
+      "features": [
+        "Fividianana baiko",
+        "Quotes",
+        "Fitantanana ny mpamatsy",
+        "Fampidirana amin'ny inventaire"
+      ],
+      "lead": "Ny mpamatsy anao dia manonona, mandray baiko ary mameno ny tahiry tsy misy mailaka.",
+      "about": "Vendor Supplier dia manokatra vavahadin-tserasera ho an'ny fividianana sy ny mpamatsy hiasa amin'ny baiko mitovy. Ny teny nalaina, ny baiko fividianana ary ny tapakila dia mifamatotra amin'ny lisitry ny FullVendor.",
+      "benefits": [
+        {
+          "title": "Kaomandy amina fantsona iray",
+          "text": "Ny mpamatsy dia mahita izay haterina, tsy misy rojo mailaka."
+        },
+        {
+          "title": "Teny azo ampitahaina",
+          "text": "Mangataka vidiny ianao ary misafidy miaraka amin'ny tantara jerena."
+        },
+        {
+          "title": "Mpamatsy mpamatsy",
+          "text": "Fepetra, fifandraisana ary miandry ao anaty rakitsoratra tokana."
+        },
+        {
+          "title": "Ampidiro ny rakitra",
+          "text": "Ny zavatra novidina dia hita taratra ao amin'ny tahiry rehefa voaray."
+        }
+      ],
+      "audience": "Ekipa mividy izay mameno mpamatsy maromaro ary mila traceability."
+    },
+    "salesman": {
+      "kicker": "Fampiharana finday",
+      "card": "Fampiharana finday ho an'ny ekipan'ny varotra.",
+      "features": [
+        "Fitantanana mpanjifa",
+        "fandraisana baiko",
+        "katalaogin'ny vokatra",
+        "Asa an-tserasera"
+      ],
+      "lead": "Ny mpivarotra dia mandray baiko eny an-dalana, na misy famantarana na tsy misy.",
+      "about": "FullVendor Sales Man dia mametraka ny portfolio-nao, ny katalaogy ary ny baikonao amin'ny telefaonan'ny mpivarotra. Raha tsy misy aterineto dia mitohy ny asa ary mirindra rehefa miverina ny famantarana. Tonga ny commande vonona hanomana sy hanatitra.",
+      "benefits": [
+        {
+          "title": "Wallet ao anaty paosy",
+          "text": "Ny mpivarotra dia mahita mpanjifa, fepetra ary zavatra miandry."
+        },
+        {
+          "title": "Manafatra amin'ny fitsidihana",
+          "text": "Raiso ny baiko miaraka amin'ny vidiny sy ny tahiry ankehitriny."
+        },
+        {
+          "title": "Catalog hatramin'izao",
+          "text": "Vokatra, famelabelarana ary vidiny tsy misy PDF taloha."
+        },
+        {
+          "title": "Tena ivelan'ny aterineto",
+          "text": "Miasa tsy misy fandrakofana ary ampifanaraho any aoriana."
+        }
+      ],
+      "audience": "Ny mpanara-maso sy ny mpivarotra eny an-tsaha amin'ny fitsinjarana sy fanjifana faobe."
+    },
+    "warehouse": {
+      "kicker": "Fampiharana finday",
+      "card": "Fampiharana finday ho an'ny trano fanatobiana entana.",
+      "features": [
+        "Fandraisana sy fandefasana",
+        "Mitsimpona sy famonosana",
+        "Fanaraha-maso ny tahiry",
+        "Famakiana barcode"
+      ],
+      "lead": "Fandraisana, fakana ary fandefasana miaraka amin'ny telefaona sy barcode.",
+      "about": "FullVendor Warehouse mitarika ny trano fanatobiana entana amin'ny fandraisana, fanangonana, famonosana ary fandefasana. Mampihena ny lesoka ny kaody famakiana ary tsy isaina amin'ny faran'ny volana intsony ny fanisana.",
+      "benefits": [
+        {
+          "title": "Fandraisana manohitra ny filaminana",
+          "text": "Ny zavatra miditra dia ampitahaina amin'ny fividianana."
+        },
+        {
+          "title": "Fiadiana kendrena",
+          "text": "Ny tompon'ny sambo dia manaraka ny baiko ary manamarina ny entana tsirairay."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Vitsy kokoa ny vokatra, batch na habe."
+        },
+        {
+          "title": "Stock azo antoka",
+          "text": "Ny hetsika tsirairay dia manavao ny lisitry ny sehatra."
+        }
+      ],
+      "audience": "Mpitantana trano fanatobiana entana sy tompona sambo izay manomana baiko miaraka amin'ny lisitra vita pirinty ankehitriny."
+    },
+    "finance": {
+      "kicker": "Fampiharana finday",
+      "card": "Fanaraha-maso ara-bola avy amin'ny findainao.",
+      "features": [
+        "Kaonty azo antoka sy azo aloa",
+        "Satan'ny mpanjifa",
+        "Fandoavana sy fampihavanana",
+        "Tatitra ara-bola"
+      ],
+      "lead": "Ny kaontim-bola, ny fandoavam-bola ary ny satan'ny mpanjifa, avy amin'ny findainao.",
+      "about": "FullVendor Finance dia mampiseho ny fanangonana amin'ny finday: inona no trosan'ny mpanjifa tsirairay, inona no handoavana ny orinasa ary ahoana no ahatongavan'ny fandoavam-bola. Ampiasaina izy io mba hanangonana vola mandritra ny fitsidihana ary hijerena ny tranom-bola nefa tsy manokatra ny birao.",
+      "benefits": [
+        {
+          "title": "Collection amin'ny fitsidihana",
+          "text": "Fantatry ny mpivarotra raha toa ka misy vaovao farany ny mpanjifa alohan'ny hivarotra."
+        },
+        {
+          "title": "Receivable sy azo aloa",
+          "text": "Ny lafiny roa amin'ny boaty amin'ny fampiharana iray ihany."
+        },
+        {
+          "title": "Fandoavana sy fampihavanana",
+          "text": "Misoratra anarana crédit ianao ary mahita izay tokony hiampitana."
+        },
+        {
+          "title": "Tatitra eo am-pelatanana",
+          "text": "Tondro fanangonam-bola sy vola tsy miandry ny fanakatonana."
+        }
+      ],
+      "audience": "Mpitantana, mpanangom-bokatra ary mpivarotra mila ny toe-javatra iainan'ny mpanjifa amin'izao fotoana izao."
+    }
+  },
+  "why": {
+    "eyebrow": "Nahoana FullVendor",
+    "title": "Ampitomboy ny orinasanao\nmiaraka amin'ny vokatra tena izy",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Matoky antsika ny orinasa"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Mpampiasa mavitrika"
+      },
+      {
+        "value": "+10",
+        "suffix": "taona",
+        "label": "Amin'ny evolisiona tsy tapaka"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ny fisian'ny rahona"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ahoana ny fiasan'izany",
+    "title": "Manomboka amin'ny fivarotana ka hatramin'ny fanangonana, tsy misy fanovana rafitra",
+    "text": "Ny vokatra tsirairay dia mizara mpanjifa, tahiry, baiko ary fandoavam-bola. Ny zava-mitranga eny an-dalambe na any amin'ny trano fanatobiana entana dia miseho avy hatrany ao amin'ny birao.",
+    "steps": {
+      "sell": {
+        "title": "Mivarotra ianao",
+        "text": "Ny baiko dia miditra amin'ny alàlan'ny tranokala na amin'ny Sales Man, na dia tsy misy famantarana aza."
+      },
+      "pick": {
+        "title": "Vonona",
+        "text": "Warehouse mandray, manasaraka ary mandefa miaraka amin'ny barcode."
+      },
+      "deliver": {
+        "title": "fiterahana",
+        "text": "Logistics manome ny lalana ary manaraka ny fanaterana."
+      },
+      "collect": {
+        "title": "Ny menarana",
+        "text": "Finance sy ERP akatona ny famoriam-bola, ny rosia ary ny isa."
+      }
+    }
+  },
+  "band": {
+    "title": "Vonona ny hahita azy amin'ny [[ny fandidiana anao]]?",
+    "text": "Asehonay anao ny tontolo iainana misy tranga fizarana mitovy amin'ny anao."
+  },
+  "footer": {
+    "blurb": "Tranonkala sy finday ho an'ny fizarana, varotra, lozisialy, fividianana, fanisana ary ara-bola.",
+    "products": "Products",
+    "company": "orinasa",
+    "legal": "Ara-dalàna",
+    "privacy": "ny fiainana manokana",
+    "terms": "Anarana iombonana",
+    "rights": "Zo rehetra voatokana."
+  },
+  "solutions": {
+    "eyebrow": "vahaolana",
+    "title": "Ny faritra tsirairay, mifandray amin'ny [[operation mitovy]]",
+    "intro": "Fidio amin'ny olana tianao hovahana. Ao ambadika, mizara vaovao mitovy ny vokatra.",
+    "items": {
+      "commercial": {
+        "title": "Fitantanana ara-barotra",
+        "text": "Kaomandy, vidiny, mpanjifa ary ny tahiry ho an'ny fizarana isan'andro."
+      },
+      "field": {
+        "title": "hery varotra",
+        "text": "Mpivarotra mandray kaomandy eny an-dalana, na an-tserasera na an-tserasera."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Fandraisana, fanangonana, fandefasana ary tahiry azo itokisana."
+      },
+      "logistics": {
+        "title": "Logistics sy fanaterana",
+        "text": "Lalana, mpamily ary ny satan'ny fanaterana tsirairay."
+      },
+      "purchasing": {
+        "title": "Fividianana sy mpamatsy",
+        "text": "Teny nalaina, baiko ary vavahadin-tserasera ho an'izay mamatsy anao."
+      },
+      "finance": {
+        "title": "Fitantanam-bola sy kaonty",
+        "text": "Fanangonana, fandoavam-bola, faktiora elektronika ary kaonty."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Indostria",
+    "title": "Natao ho an'ireo izay [[mifindra vokatra]]",
+    "intro": "FullVendor dia teraka tamin'ny fizarana ary miaraka amin'ireo orinasa mividy, mitahiry, mivarotra ary manatitra.",
+    "items": {
+      "wholesale": {
+        "title": "Fizarana sy ambongadiny",
+        "text": "Ny lisitry ny vidiny, ny portfolio, ny fizarana ary ny fanangonana amin'ny faritra tokana."
+      },
+      "retail": {
+        "title": "Antsinjarany",
+        "text": "Fivarotana sy trano fanatobiana entana misy tahiry mifandray, varotra ary famenoana."
+      },
+      "food": {
+        "title": "Sakafo sy zava-pisotro",
+        "text": "Lalana matetika sy trano fanatobiana entana tsy mahajanona."
+      },
+      "pharma": {
+        "title": "Pharmacy sy fikarakarana manokana",
+        "text": "Ny fandraisana, ny fakana ary ny fanaraha-maso ny fitahirizana miaraka amin'ny traceability."
+      },
+      "hardware": {
+        "title": "Fitaovana sy fanorenana",
+        "text": "References maro, mpamatsy ary fanaterana any am-piasana na fivarotana."
+      },
+      "fmcg": {
+        "title": "Fanjifana faobe",
+        "text": "Ny herin'ny varotra an-dalambe sy ny fanoloana vola be."
+      },
+      "manufacturing": {
+        "title": "fanamboarana",
+        "text": "Fividianana, trano fanatobiana entana ary fitahirizana mifanaraka amin'ny fitantanana."
+      },
+      "lastmile": {
+        "title": "Livraison sy maily farany",
+        "text": "Lalana, mpamily ary ny satan'ny fanaterana tsirairay."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Loharano",
+    "title": "Hevitra mazava ho [[hanafatra ny fandidiana]]",
+    "intro": "Torolàlana fohy ho an'ny mpitantana ny fizarana izay hanapa-kevitra izay rafitra hifikitra.",
+    "items": {
+      "unify": {
+        "title": "Ahoana ny fampiraisana ny fizarana ho rafitra tokana",
+        "summary": "Inona no hatambatra voalohany rehefa mipetraka amin'ny rakitra samihafa ny varotra, trano fanatobiana entana ary fanangonana.",
+        "points": [
+          "Manomboka amin'ny mpanjifa, vokatra ary vidiny: izy ireo no mpampianatra ampiasain'ny rehetra.",
+          "Ampifandraiso amin'ny tahiry ny baiko alohan'ny hanampiana fampiharana bebe kokoa.",
+          "Mandrefy isa tsotra izy io: tanterahana ny baiko nefa tsy mamerina ny endrika."
+        ]
+      },
+      "offline": {
+        "title": "Varotra miasa ivelan'ny aterineto",
+        "summary": "Inona no takiana amin'ny fampiharana manafatra mba tsy hijanonan'ny mpivarotra noho ny famantarana.",
+        "points": [
+          "Ny katalaogy sy ny poketra dia tsy maintsy atao amin'ny telefaona, fa tsy ao anaty rahona fotsiny.",
+          "Ny baiko dia voatahiry ao amin'ny fitaovana ary ampidirina rehefa miverina ny tambajotra.",
+          "Rehefa synchronize dia efa miditra ao amin'ny trano fanatobiana entana ny baiko."
+        ]
+      },
+      "warehouse": {
+        "title": "Trano fitehirizam-bokatra misy barcode, tsy misy taratasy",
+        "summary": "Ahoana ny fandehanana amin'ny lisitra vita pirinty mankany amin'ny fanamafisana ny telefaona.",
+        "points": [
+          "Raiso manohitra ny baikon'ny fividianana fa tsy manohitra ny fitadidiana.",
+          "Hamafiso ny singa tsirairay rehefa misaraka. Manapaka ny lalantsara ilay bibikely.",
+          "Ny fandefasana dia manavao ny tahiry hitan'ny mpivarotra."
+        ]
+      },
+      "finance": {
+        "title": "Ny fanangonana mifanaraka amin'ny fivarotana",
+        "summary": "Nahoana ny mpivarotra no tokony hahita ny trosan'ny mpanjifa alohan'ny handraisana baiko hafa.",
+        "points": [
+          "Ny fitsidihana no fotoana tsara indrindra hanangonana, raha hita ny trosa.",
+          "Tsy maintsy mijery mpanjifa iray ihany ny varotra sy ny fitantanam-bola.",
+          "Ny tatitra tara isan'andro dia mendrika kokoa noho ny fanakatonana tara."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "vidin'ny",
+    "title": "Ny tontolo iainana [[mitombo miaraka aminao]]",
+    "intro": "Tsy mamoaka taham-pamokarana izahay: miankina amin'ny maody, mpampiasa ary volume ny vidiny. Asehoy anao ny sehatra ary nanangona tolo-kevitra miaraka amin'ny hetsika ataonao.",
+    "note": "Ny demo dia tsy misy vidiny ary tsy mitaky fifanarahana.",
+    "recommended": "soso-kevitra",
+    "faq_title": "Fanontaniana apetraka matetika",
+    "plans": {
+      "essential": {
+        "name": "Essential",
+        "desc": "Mandamina ny fitantanana ara-barotra sy ny fizarana amin'ny sehatra tokana.",
+        "features": [
+          "FullVendor sehatra tranonkala",
+          "Varotra, fividianana ary fitahirizana",
+          "Mpanjifa, mpamatsy ary tatitra",
+          "Mpampiasa fitaovana birao",
+          "Fanohanana fanombohana"
+        ],
+        "cta": "Mangataha Demo"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Ho an'ny ekipa mivarotra eny an-dalana sy manomana baiko ao amin'ny trano fanatobiana entana.",
+        "features": [
+          "Zava-dehibe ny zava-drehetra",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Asa an-tserasera sy barcodes",
+          "More mpampiasa saha sy trano fanatobiana entana"
+        ],
+        "cta": "Mangataha Demo"
+      },
+      "corporate": {
+        "name": "orinasa",
+        "desc": "Ho an'ny vondrona mila logistika, fividianana, fitantanam-bola ary orinasa isan-karazany.",
+        "features": [
+          "Ecosystem feno",
+          "Logistics, Vendor Supplier ary Finance",
+          "FullVendor ERP ary fanofanana maro",
+          "Faktiora elektronika sy kaonty",
+          "Ny fiarahana sy ny laharam-pahamehana"
+        ],
+        "cta": "Miresaha amin'ny varotra"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Tsy maintsy mividy ny vokatra rehetra ve aho?",
+        "a": "Tsia. Afaka manomboka amin'ny FullVendor ianao ary manampy apps na ERP rehefa mila izany ny fandidiana."
+      },
+      "offline": {
+        "q": "Mandeha ve ny fampiharana raha tsy misy Internet?",
+        "a": "Sales Man sy Warehouse dia manohy miasa tsy misy famantarana ary mirindra rehefa mifandray indray."
+      },
+      "multi": {
+        "q": "Mandeha ve izany raha manana orinasa mihoatra ny iray aho?",
+        "a": "Eny. ERP dia mandinika orinasa maro ary ny tontolo iainana dia afaka mizara tompony amin'izy ireo."
+      },
+      "demo": {
+        "q": "Inona no tafiditra amin'ny demo?",
+        "a": "Fitsidihana ny lampihazo misy tranga mitovy amin'ny anao. Tsy misy sarany ary tsy misy adidy."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Asehonay anao ny FullVendor miaraka amin'ny [[karazana fandidiana]]",
+    "text": "Lazao anay ny momba ny orinasanao sy izay tianao hanafatra voalohany. Tsy misy vidiny ny demo."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Andao hiresaka momba ny [[ny fandidiana anao]]",
+    "text": "Raha mila demo ianao, tolo-kevitra na hampifantoka ny tenanao amin'ny vokatra fotsiny, avelao ny fampahalalana anao dia hamaly izahay.",
+    "email": "namany Sary",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Anarana",
+    "email": "namany Sary",
+    "phone": "Phone",
+    "company": "orinasa",
+    "country": "Firenena",
+    "team": "Haben'ny ekipa",
+    "interest": "Inona no mahaliana anao?",
+    "message": "hAFATRA",
+    "optional": "tsy voatery",
+    "choose": "Select",
+    "interest_all": "Ny tontolo iainana manontolo",
+    "ph_name": "ny anaranao",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ny orinasanao",
+    "ph_country": "Firenena",
+    "ph_message": "Lazao anay ny fomba fiasanao anio",
+    "privacy_before": "Manaiky ny fampiasana ny angonako aho araka ny",
+    "privacy_after": ".",
+    "submit": "Alefaso fangatahana",
+    "sent_title": "Raisinay ny fangatahanao",
+    "sent_text": "Misaotra anao. Ny ekipan'ny varotra dia hanoratra aminao mba handrindrana ny demo na hamaly ny fanontanianao.",
+    "error_required": "Fenoy ity saha ity.",
+    "error_email": "Ampidiro mailaka manan-kery.",
+    "error_phone": "Jereo ny finday.",
+    "error_privacy": "Mila ny fanekenao izahay hampiasa ny antsipirihan'ny fifandraisana.",
+    "error_csrf": "Tapitra ny fotoam-pivoriana. Alefaso indray ny endrika.",
+    "error_save": "Tsy afaka nitahiry ilay fangatahana izahay. Andramo indray mandeha.",
+    "error_generic": "Avereno jerena ireo saha voamarika.",
+    "error_rate": "Andraso kely azafady vao mandefa fangatahana hafa.",
+    "team_options": {
+      "1-10": "1 hatramin'ny 10 olona",
+      "11-50": "11 hatramin'ny 50 olona",
+      "51-200": "51 hatramin'ny 200 olona",
+      "201-500": "201 hatramin'ny 500 olona",
+      "500+": "Olona 500 mahery"
+    }
+  },
+  "video": {
+    "title": "FullVendor ao anatin’ny iray minitra",
+    "prev": "Teo aloha",
+    "next": "FANARAHANA",
+    "slides": [
+      {
+        "title": "Ecosystem tokana",
+        "text": "Varotra, trano fanatobiana entana, fanaterana, fividianana sy ara-bola mizara mpanjifa, tahiry sy baiko."
+      },
+      {
+        "title": "Web sy finday miaraka",
+        "text": "Ny birao dia miasa eo amin'ny lampihazo. Ny arabe sy ny trano fanatobiana entana, ao amin'ny apps, na dia tsy misy famantarana aza."
+      },
+      {
+        "title": "Natao hizarana",
+        "text": "Avy amin'ny baiko mankany amin'ny fandoavam-bola, tsy mampita vaovao avy amin'ny rakitra iray mankany amin'ny iray hafa."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Mitadiava vokatra, vahaolana, indostria…",
+    "lang_filter": "Fiteny fikarohana",
+    "intro": "Mitadiava vokatra, vahaolana, indostria ary loharano.",
+    "empty": "Tsy nahita valiny momba ny \"{q}\" izahay.",
+    "hint": "Andramo fivarotana, trano fanatobiana entana, lalana na fanangonana.",
+    "results": "{n} vokatra",
+    "button": "Mitady",
+    "kind_product": "vokatra",
+    "kind_solution": "vahaolana",
+    "kind_industry": "TAOZAVA-BAVENTY",
+    "kind_resource": "loharano"
+  },
+  "notfound": {
+    "title": "Tsy misy ity pejy ity",
+    "text": "Tsy misy ny rohy na niova toerana."
+  },
+  "common": {
+    "what": "Inona no mamaha",
+    "features": "Inona no tafiditra",
+    "benefits": "Nahoana no zava-dehibe izany",
+    "for_who": "Ho an'iza izany?",
+    "related": "Ao amin'ny ecosystem koa"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Varotra androany",
+      "orders": "Filaharana",
+      "clients": "mpanjifa",
+      "products": "Products"
+    },
+    "sidebar": {
+      "dashboard": "anaty fiara",
+      "sales": "Varotra",
+      "purchases": "fiantsenana",
+      "inventory": "lisitra",
+      "clients": "mpanjifa",
+      "reports": "tatitra"
+    },
+    "chart": "Varotra",
+    "channel": "Fizarana amin'ny fantsona",
+    "channels": [
+      "Store",
+      "fizarana",
+      "Mpivarotra ambongadiny",
+      "Ny hafa"
+    ],
+    "orders": "Kaomandy farany",
+    "col_order": "mba",
+    "col_client": "mpanjifa",
+    "col_status": "FANJAKANA",
+    "col_total": "sokajy",
+    "status": [
+      "Nafahana",
+      "Eny an-dàlana",
+      "kavin'orona"
+    ],
+    "top": "Ny vokatra lafo indrindra",
+    "product": "vokatra",
+    "sales_menu": [
+      "mpanjifa",
+      "Filaharana",
+      "Products",
+      "LALAN'NY MPANAFIKA",
+      "mampifanaraka"
+    ],
+    "warehouse_menu": [
+      "fandraisana",
+      "maka",
+      "lisitra",
+      "Dispatch",
+      "mampifanaraka"
+    ]
+  },
+  "legal": {
+    "privacy_title": "politika fiarovana fiainan'olona",
+    "privacy_intro": "Ity politika ity dia manazava ny ataonay amin'ny angona avelanao amin'ny endrika amin'ity tranokala ity.",
+    "privacy": [
+      {
+        "title": "Inona no angona angoninay",
+        "text": "Raha mangataka demo ianao na manoratra aminay dia tehirizinay ny anarana, orinasa, mailaka, nomeraon-telefaona raha manondro izany ianao, ny firenena, ny haben'ny ekipa, ny vokatra mahaliana ary ny hafatra. Raketinay ihany koa ny daty, ny fitenin'ny pejy ary ny adiresy IP, mba hisorohana ny fandefasana fanararaotana."
+      },
+      {
+        "title": "Inona no ampiasana azy ireny?",
+        "text": "Mampiasa an'ity data ity izahay mba hamaliana anao, handrindra ny demo ary hanomana tolo-kevitra ara-barotra. Tsy mivarotra azy ireo izahay na manome azy ireo amin'ny lisitry ny antoko fahatelo."
+      },
+      {
+        "title": "Aiza no fitahirizana azy ireo ary hafiriana?",
+        "text": "Ny fangatahana dia voatahiry ao amin'ny lohamilin'ity tranokala ity. Tehirizinay izy ireo mandritra ny fotoana ilaina hanompoana anao sy ny fanaraha-maso ara-barotra, ary mamafa azy ireo izahay rehefa mangataka anay ianao na rehefa tsy ilaina intsony."
+      },
+      {
+        "title": "Zonao",
+        "text": "Azonao atao ny mangataka fidirana, fanitsiana na famafana ny angonao amin'ny endrika fifandraisana, manondro izany ao amin'ny hafatra. Raha mamoaka mailaka amin'ity tranokala ity ny orinasa dia afaka manoratra ao ihany koa ianao."
+      }
+    ],
+    "terms_title": "Fepetra fampiasana",
+    "terms_intro": "Ireo fepetra ireo dia mihatra amin'ny fampiasana ity tranokala FullVendor ity.",
+    "terms": [
+      {
+        "title": "Fampahalalana ara-barotra",
+        "text": "Ny lahatsoratra, ny sarin'ny dashboard ohatra ary ny famaritana dia mampiditra ny sehatra. Azo amboarina izy ireo rehefa miova ny vokatra ary tsy tolotra mihidy."
+      },
+      {
+        "title": "Ny demo dia tsy fifanarahana",
+        "text": "Ny fandefasana ny taratasy dia tsy miteraka adidy amin'ny fividianana na famandrihana vidiny. Ny fifanarahana rehetra dia ekena misaraka, an-tsoratra, miaraka amin'ny sehatra sy fepetra."
+      },
+      {
+        "title": "votoatin'ny tranokala",
+        "text": "Ny marika FullVendor, ny anaran'ny vokatra ary ny votoatin'ireo pejy ireo dia an'ny tompony. Tsy azo adika izy ireo mba hanolotra vokatra hafa."
+      },
+      {
+        "title": "Fampiasana azo ekena",
+        "text": "Aza mampiasa ny endrika handefasana vaovao diso, spam na votoaty tsy ara-dalàna. Mety tsy hiraharaha ireo fangatahana tsy mifanaraka amin'ny resaka raharaham-barotra tena izy."
+      }
+    ]
+  }
+}

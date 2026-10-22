@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Pamahalaan at palaguin ang iyong negosyo",
+    "home_desc": "All-in-one na platform na may mga solusyon sa web at mobile para sa pamamahagi, pagbebenta, logistik, pagbili, imbentaryo at pananalapi.",
+    "products_title": "Mga Produkto | FullVendor",
+    "products_desc": "Kilalanin ang ecosystem FullVendor: komersyal na platform, ERP, logistik, mga supplier at benta, warehouse at mga app sa pananalapi.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Mga Solusyon | FullVendor",
+    "solutions_desc": "Mga solusyon para sa komersyal na pamamahala, lakas ng pagbebenta, bodega, logistik, pagbili at pananalapi.",
+    "industries_title": "Mga industriya | FullVendor",
+    "industries_desc": "FullVendor para sa pamamahagi, tingi, pagkain, parmasya, hardware, mass consumption, pagmamanupaktura at huling milya.",
+    "pricing_title": "Mga Presyo | FullVendor",
+    "pricing_desc": "Mahahalaga, Propesyonal at Pangkumpanyang Plano. Ang panukala ay pinagsama-sama ayon sa mga module, mga gumagamit at dami.",
+    "resources_title": "Mga Mapagkukunan | FullVendor",
+    "resources_desc": "Mga maiikling gabay upang pag-isahin ang pamamahagi, magbenta offline, ayusin ang bodega at mabayaran sa oras.",
+    "contact_title": "Makipag-ugnayan sa | FullVendor",
+    "contact_desc": "Sumulat sa amin upang malaman ang tungkol sa FullVendor o makipag-ugnayan sa isang pag-uusap sa koponan ng pagbebenta.",
+    "demo_title": "Humiling ng demo | FullVendor",
+    "demo_desc": "Humiling ng demo ng FullVendor at libutin ang platform na may kaso na katulad ng iyong operasyon.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Mga Tuntunin | FullVendor",
+    "search_title": "Maghanap | FullVendor",
+    "notfound_title": "Hindi nahanap ang pahina | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Home page",
+    "products": "Mga produkto",
+    "solutions": "Mga solusyon",
+    "industries": "Mga industriya",
+    "pricing": "Mga presyo",
+    "resources": "Mga mapagkukunan",
+    "contact": "Makipag-ugnayan",
+    "open_menu": "Buksan ang menu",
+    "close": "Isara"
+  },
+  "cta": {
+    "demo": "Humiling ng Demo",
+    "contact": "Makipag-ugnayan sa amin",
+    "video": "Manood ng Video",
+    "talk": "Makipag-usap sa mga benta",
+    "all_products": "Tingnan ang lahat ng mga produkto",
+    "home": "Bumalik sa home page"
+  },
+  "a11y": {
+    "skip": "Lumaktaw sa nilalaman",
+    "primary": "Pangunahing nabigasyon",
+    "crumbs": "Ruta ng nabigasyon",
+    "search": "Hanapin mo",
+    "language": "Wika"
+  },
+  "hero": {
+    "eyebrow": "Lahat sa isang platform",
+    "title": "Pamahalaan at palaguin\niyong negosyo kasama\n{{brand}}",
+    "subtitle": "Isang kumpletong platform na may mga solusyon sa web at mobile para sa pamamahagi, pagbebenta, logistik, pagbili, imbentaryo, pananalapi at higit pa.",
+    "pill_ecosystem": "Lahat sa iisang ekosistema",
+    "pill_cloud": "Sa cloud, secure at scalable",
+    "pill_size": "Para sa mga kumpanya sa lahat ng laki"
+  },
+  "products_block": {
+    "eyebrow": "Ang aming mga produkto",
+    "title": "Isang [[kumpletong ecosystem]] para sa bawat lugar ng iyong negosyo",
+    "aside": "Mga pinagsama-samang solusyon na nagtutulungan upang bigyan ka ng kabuuang kontrol, kahusayan sa pagpapatakbo at higit na paglago.",
+    "groups": {
+      "money": "Pangangasiwa at pagkolekta",
+      "flow": "Mga pagbili at paghahatid",
+      "field": "Benta at bodega"
+    }
+  },
+  "products_page": {
+    "title": "Pitong produkto, [[iisang operasyon]]",
+    "text": "Ang bawat produkto ay nalulutas ang isang lugar. Magkasama silang nagbabahagi ng mga customer, stock, order at pagbabayad."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataporma",
+      "card": "Pangunahing plataporma para sa komersyal na pamamahala at pamamahagi.",
+      "features": [
+        "Mga benta at pagbili",
+        "Imbentaryo",
+        "Mga kliyente at supplier",
+        "Mga ulat at higit pa"
+      ],
+      "lead": "Ang sentro ng iyong komersyal na operasyon: mga order, presyo, stock at mga customer sa isang lugar.",
+      "about": "Pinapalitan ng FullVendor ang mga loose spreadsheet at system ng distributor. Mula dito lumalabas ang mga order, kinokonsulta ang imbentaryo, inaalagaan ang portfolio ng customer at tinitingnan ang mga numero sa araw. Ang natitirang bahagi ng ecosystem ay kumokonekta sa base na ito.",
+      "benefits": [
+        {
+          "title": "Isang master ng data",
+          "text": "Ang mga customer, produkto at presyo ay ibinabahagi sa mga benta, bodega at pananalapi."
+        },
+        {
+          "title": "I-clear ang pang-araw-araw na operasyon",
+          "text": "Ang mga order, pagbili at stock ay humihinto sa pamumuhay sa iba't ibang mga file."
+        },
+        {
+          "title": "Mga ulat upang magpasya",
+          "text": "Ang mga benta, margin at nakabinbin ay nakikita nang hindi pinagsama ang isang talahanayan sa pamamagitan ng kamay."
+        },
+        {
+          "title": "Handa nang lumaki",
+          "text": "Logistics, sales force o ERP sums kapag hiniling ito ng operasyon."
+        }
+      ],
+      "audience": "Commercial at distribution teams na ngayon ay nag-coordinate ng negosyo sa pagitan ng ilang system."
+    },
+    "erp": {
+      "kicker": "Pangangasiwa",
+      "card": "Kumpletuhin ang pamamahala sa administratibo at pananalapi.",
+      "features": [
+        "Accounting",
+        "Electronic na pagsingil",
+        "Mga worksheet",
+        "Mga fixed asset",
+        "Multi-company"
+      ],
+      "lead": "Pangangasiwa at pananalapi, na nakahanay sa kung ano ang aktwal na ibinebenta at inihatid.",
+      "about": "FullVendor ERP sumasaklaw sa accounting, electronic invoice, payroll, fixed asset at multi-company. Kinukuha nito ang komersyal na operasyon at iko-convert ito sa mga entry, resibo at pahayag na magagamit ng financial area.",
+      "benefits": [
+        {
+          "title": "Konektadong accounting",
+          "text": "Ano ang nangyayari sa mga benta at pagbili ng feed accounting."
+        },
+        {
+          "title": "Mga elektronikong resibo",
+          "text": "Nag-isyu at kinokontrol mo ang pagsingil mula sa parehong ecosystem."
+        },
+        {
+          "title": "Iba't ibang kumpanya",
+          "text": "Multi-company para sa mga pangkat na nagpapatakbo sa ilalim ng higit sa isang pangalan ng kumpanya."
+        },
+        {
+          "title": "Payroll at asset",
+          "text": "Payroll at fixed asset kasama ang iba pang management."
+        }
+      ],
+      "audience": "Mga lugar na pang-administratibo at pananalapi na gustong isara ang mga numero sa totoong operasyon."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Kontrolin at pagsubaybay sa iyong operasyon sa logistik.",
+      "features": [
+        "Mga ruta at paghahatid",
+        "Real-time na pagsubaybay",
+        "Pagtatalaga ng driver",
+        "Pag-optimize ng ruta"
+      ],
+      "lead": "Mula sa pagkakasunud-sunod hanggang sa paghahatid: mga ruta, mga driver at real-time na pagsubaybay.",
+      "about": "FullVendor Logistics inaayos ang pamamahagi. Gumawa ka ng mga ruta, magtalaga ng mga driver at tingnan kung saan pupunta ang bawat paghahatid. Humihinto ang pangkat ng trapiko depende sa mga tawag para malaman kung naipadala na ang order.",
+      "benefits": [
+        {
+          "title": "Mga ruta ng araw",
+          "text": "Ang mga paghahatid ay iniutos ayon sa zone, time window at kapasidad."
+        },
+        {
+          "title": "Nakatalagang driver",
+          "text": "Ang bawat ruta ay may isang tao na namamahala at isang malinaw na pagkakasunud-sunod."
+        },
+        {
+          "title": "Pagsubaybay",
+          "text": "Alam mo kung ano ang inihatid, sa daan o huminto."
+        },
+        {
+          "title": "Mas kaunting kilometro",
+          "text": "Binabawasan ng pag-optimize ng ruta ang oras at gastos sa paghahatid."
+        }
+      ],
+      "audience": "Mga operasyon sa pamamahagi na may sariling fleet o mga third party."
+    },
+    "supplier": {
+      "kicker": "Pamimili",
+      "card": "Portal para sa mga supplier at pamamahala sa pagbili.",
+      "features": [
+        "Mga order sa pagbili",
+        "Mga quotes",
+        "Pamamahala ng supplier",
+        "Pagsasama sa imbentaryo"
+      ],
+      "lead": "Ang iyong mga supplier ay nag-quote, tumanggap ng mga order at muling naglalagay ng stock nang walang maluwag na mga email.",
+      "about": "Vendor Supplier ay nagbubukas ng portal para sa mga pagbili at mga supplier upang gumana sa parehong mga order. Ang mga quote, purchase order at resibo ay nakatali sa imbentaryo ng FullVendor.",
+      "benefits": [
+        {
+          "title": "Mga order sa isang channel",
+          "text": "Nakikita ng supplier kung ano ang ihahatid, nang walang email chain."
+        },
+        {
+          "title": "Maihahambing na mga quotes",
+          "text": "Humihingi ka ng mga presyo at pumili nang may nakikitang kasaysayan."
+        },
+        {
+          "title": "Master ng Supplier",
+          "text": "Mga kundisyon, contact at nakabinbin sa isang talaan."
+        },
+        {
+          "title": "Ipasok ang imbentaryo",
+          "text": "Ang binili ay makikita sa stock kapag ito ay natanggap."
+        }
+      ],
+      "audience": "Pagbili ng mga team na nagre-reply ng ilang mga supplier at nangangailangan ng traceability."
+    },
+    "salesman": {
+      "kicker": "Mobile app",
+      "card": "Mobile application para sa sales team.",
+      "features": [
+        "Pamamahala ng customer",
+        "Pagkuha ng order",
+        "Katalogo ng produkto",
+        "Offline na trabaho"
+      ],
+      "lead": "Ang sales force ay tumatanggap ng mga order sa kalye, mayroon man o walang signal.",
+      "about": "FullVendor Sales Man inilalagay ang iyong portfolio, catalog at pagkuha ng order sa telepono ng nagbebenta. Kung walang internet, magpapatuloy ang trabaho at magsi-synchronize kapag bumalik ang signal. Dumating ang order na handang maghanda at maghatid.",
+      "benefits": [
+        {
+          "title": "Wallet sa bulsa",
+          "text": "Nakikita ng nagbebenta ang mga kliyente, kundisyon at mga nakabinbing item."
+        },
+        {
+          "title": "Mag-order sa pagbisita",
+          "text": "Kunin ang order na may kasalukuyang mga presyo at stock."
+        },
+        {
+          "title": "Napapanahon ang katalogo",
+          "text": "Mga produkto, presentasyon at presyo na walang lumang PDF."
+        },
+        {
+          "title": "Tunay na offline",
+          "text": "Magtrabaho nang walang saklaw at mag-synchronize sa ibang pagkakataon."
+        }
+      ],
+      "audience": "Supervisor at field salespeople sa distribution at mass consumption."
+    },
+    "warehouse": {
+      "kicker": "Mobile app",
+      "card": "Mobile application para sa bodega.",
+      "features": [
+        "Pagtanggap at pagpapadala",
+        "Pagpili at pag-iimpake",
+        "Kontrol ng imbentaryo",
+        "Pagbabasa ng barcode"
+      ],
+      "lead": "Pagtanggap, pagpili at pagpapadala gamit ang telepono at barcode.",
+      "about": "FullVendor Warehouse ginagabayan ang bodega sa pagtanggap, pagpili, pag-iimpake at pagpapadala. Ang mga code sa pagbabasa ay binabawasan ang mga error at ang imbentaryo ay hindi na binibilang lamang sa katapusan ng buwan.",
+      "benefits": [
+        {
+          "title": "Pagtanggap laban sa order",
+          "text": "Kung ano ang pumapasok ay inihambing sa pagbili."
+        },
+        {
+          "title": "Naka-target na pagpili",
+          "text": "Sinusunod ng may-ari ng barko ang utos at kinukumpirma ang bawat item."
+        },
+        {
+          "title": "Mga barcode",
+          "text": "Mas kaunting mga error sa produkto, batch o dami."
+        },
+        {
+          "title": "Maaasahang stock",
+          "text": "Ina-update ng bawat galaw ang imbentaryo ng platform."
+        }
+      ],
+      "audience": "Mga tagapamahala ng bodega at mga may-ari ng barko na ngayon ay naghahanda ng mga order na may mga naka-print na listahan."
+    },
+    "finance": {
+      "kicker": "Mobile app",
+      "card": "Kontrol sa pananalapi mula sa iyong mobile.",
+      "features": [
+        "Mga account receivable at payable",
+        "Katayuan ng customer",
+        "Mga pagbabayad at pagkakasundo",
+        "Mga ulat sa pananalapi"
+      ],
+      "lead": "Mga account na natatanggap, mga pagbabayad at katayuan ng customer, mula sa iyong telepono.",
+      "about": "FullVendor Finance ipinapakita ang koleksyon sa mobile: kung ano ang utang ng bawat kliyente, ano ang babayaran ng kumpanya at kung paano dumarating ang mga pagbabayad. Ito ay ginagamit upang mangolekta ng pera sa panahon ng pagbisita at upang tingnan ang cash register nang hindi binubuksan ang desk.",
+      "benefits": [
+        {
+          "title": "Koleksyon sa pagbisita",
+          "text": "Alam ng nagbebenta kung napapanahon ang customer bago magbenta."
+        },
+        {
+          "title": "Matatanggap at babayaran",
+          "text": "Magkabilang panig ng kahon sa iisang app."
+        },
+        {
+          "title": "Mga pagbabayad at pagkakasundo",
+          "text": "Magrehistro ka ng mga kredito at makita kung ano ang kailangang i-cross."
+        },
+        {
+          "title": "Mga ulat sa kamay",
+          "text": "Mga tagapagpahiwatig ng koleksyon at cash nang hindi naghihintay ng pagsasara."
+        }
+      ],
+      "audience": "Mga manager, collectors at salespeople na nangangailangan ng sitwasyon ng kliyente sa ngayon."
+    }
+  },
+  "why": {
+    "eyebrow": "Bakit FullVendor",
+    "title": "Palakasin ang iyong negosyo\nna may tunay na mga resulta",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Pinagkakatiwalaan kami ng mga kumpanya"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Mga aktibong user"
+      },
+      {
+        "value": "+10",
+        "suffix": "taon",
+        "label": "Sa patuloy na ebolusyon"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Availability ng ulap"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Paano ito gumagana",
+    "title": "Mula sa pagbebenta hanggang sa pagkolekta, nang hindi binabago ang mga sistema",
+    "text": "Ang bawat produkto ay nagbabahagi ng mga customer, stock, mga order at mga pagbabayad. Ang nangyayari sa kalye o sa bodega ay lilitaw kaagad sa opisina.",
+    "steps": {
+      "sell": {
+        "title": "Magbenta ka",
+        "text": "Ang order ay ipinasok sa pamamagitan ng website o sa pamamagitan ng Sales Man, kahit na walang signal."
+      },
+      "pick": {
+        "title": "handa na",
+        "text": "Warehouse tumatanggap, naghihiwalay at nagpapadala ng barcode."
+      },
+      "deliver": {
+        "title": "Mga paghahatid",
+        "text": "Logistics nagtatalaga ng ruta at sumusunod sa paghahatid."
+      },
+      "collect": {
+        "title": "Mga ulupong",
+        "text": "Finance at ERP isara ang koleksyon, ang mga resibo at ang mga numero."
+      }
+    }
+  },
+  "band": {
+    "title": "Handa nang makita ito sa [[iyong operasyon]]?",
+    "text": "Ipinapakita namin sa iyo ang ecosystem na may distribution case na katulad ng sa iyo."
+  },
+  "footer": {
+    "blurb": "Web at mobile platform para sa pamamahagi, pagbebenta, logistik, pagbili, imbentaryo at pananalapi.",
+    "products": "Mga produkto",
+    "company": "kumpanya",
+    "legal": "Legal",
+    "privacy": "Pagkapribado",
+    "terms": "Mga tuntunin",
+    "rights": "Lahat ng karapatan ay nakalaan."
+  },
+  "solutions": {
+    "eyebrow": "Mga solusyon",
+    "title": "Ang bawat lugar, konektado sa [[parehong operasyon]]",
+    "intro": "Piliin ayon sa problemang gusto mong lutasin. Sa likod, ang mga produkto ay nagbabahagi ng parehong impormasyon.",
+    "items": {
+      "commercial": {
+        "title": "Pamamahala ng komersyal",
+        "text": "Mga order, presyo, customer at imbentaryo para sa pang-araw-araw na pamamahagi."
+      },
+      "field": {
+        "title": "lakas ng benta",
+        "text": "Mga vendor na kumukuha ng mga order sa kalye, online o offline."
+      },
+      "warehouse": {
+        "title": "Tindahan",
+        "text": "Reception, picking, dispatch at isang stock na mapagkakatiwalaan."
+      },
+      "logistics": {
+        "title": "Logistics at paghahatid",
+        "text": "Mga ruta, mga driver at ang katayuan ng bawat paghahatid."
+      },
+      "purchasing": {
+        "title": "Pagbili at mga supplier",
+        "text": "Mga quote, order at isang portal para sa sinumang nagbibigay sa iyo."
+      },
+      "finance": {
+        "title": "Pananalapi at accounting",
+        "text": "Mga koleksyon, pagbabayad, electronic billing at accounting."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Mga industriya",
+    "title": "Ginawa para sa mga [[gumagalaw ng produkto]]",
+    "intro": "Si FullVendor ay ipinanganak sa pamamahagi at sinasamahan ang mga kumpanyang bumibili, nag-iimbak, nagbebenta at naghahatid.",
+    "items": {
+      "wholesale": {
+        "title": "Pamamahagi at pakyawan",
+        "text": "Mga listahan ng presyo, portfolio, pamamahagi at koleksyon sa iisang circuit."
+      },
+      "retail": {
+        "title": "Pagtitingi",
+        "text": "Tindahan at bodega na may konektadong stock, benta at muling pagdadagdag."
+      },
+      "food": {
+        "title": "Pagkain at inumin",
+        "text": "Mga madalas na ruta at isang bodega na hindi maaaring huminto."
+      },
+      "pharma": {
+        "title": "Pharmacy at personal na pangangalaga",
+        "text": "Pagtanggap, pagpili at kontrol ng imbentaryo na may kakayahang masubaybayan."
+      },
+      "hardware": {
+        "title": "Hardware at konstruksyon",
+        "text": "Maraming mga sanggunian, mga supplier at mga paghahatid sa trabaho o tindahan."
+      },
+      "fmcg": {
+        "title": "Pagkonsumo ng masa",
+        "text": "Street sales force at mataas na turnover replacement."
+      },
+      "manufacturing": {
+        "title": "Paggawa",
+        "text": "Ang pagbili, bodega at imbentaryo ay nakahanay sa pangangasiwa."
+      },
+      "lastmile": {
+        "title": "Paghahatid at huling milya",
+        "text": "Mga ruta, mga driver at ang katayuan ng bawat paghahatid."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Mga mapagkukunan",
+    "title": "I-clear ang mga ideya para [[i-order ang operasyon]]",
+    "intro": "Maikling gabay para sa mga tagapamahala ng pamamahagi na magpapasya kung aling sistema ang pananatilihin.",
+    "items": {
+      "unify": {
+        "title": "Paano pag-isahin ang pamamahagi sa iisang sistema",
+        "summary": "Ano ang dapat pagsama-samahin kapag ang mga benta, bodega at mga koleksyon ay nakatira sa iba't ibang mga file.",
+        "points": [
+          "Magsimula sa mga customer, produkto at presyo: sila ang guro na ginagamit ng lahat.",
+          "Ikonekta ang order sa stock bago magdagdag ng higit pang mga application.",
+          "Sinusukat nito ang isang simpleng numero: natupad ang mga order nang hindi muling ginagawa ang form."
+        ]
+      },
+      "offline": {
+        "title": "Sales force na nagtatrabaho offline",
+        "summary": "Ano ang kinakailangan mula sa isang pag-order ng app upang hindi tumigil ang nagbebenta dahil sa signal.",
+        "points": [
+          "Ang catalog at wallet ay kailangang nasa telepono, hindi lang sa cloud.",
+          "Ang order ay nai-save sa device at ina-upload kapag bumalik ang network.",
+          "Kapag nag-synchronize, ang order ay pumapasok na sa bodega."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse na may barcode, walang papel",
+        "summary": "Paano pumunta mula sa naka-print na listahan sa kumpirmadong pagpili sa telepono.",
+        "points": [
+          "Tumanggap laban sa purchase order, hindi laban sa memorya.",
+          "Kumpirmahin ang bawat item kapag naghihiwalay. Ang surot ay pumutol sa pasilyo.",
+          "Ina-update ng dispatch ang stock na nakikita ng nagbebenta."
+        ]
+      },
+      "finance": {
+        "title": "Koleksyon na nakahanay sa benta",
+        "summary": "Bakit dapat makita ng nagbebenta ang utang ng customer bago kumuha ng isa pang order.",
+        "points": [
+          "Ang pagbisita ay ang pinakamahusay na oras upang mangolekta, kung ang utang ay nakikita.",
+          "Ang mga benta at pananalapi ay kailangang tumingin sa parehong customer.",
+          "Ang isang pang-araw-araw na overdue na ulat ay nagkakahalaga ng higit pa sa isang huli na pagsasara."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Mga presyo",
+    "title": "Isang ecosystem na [[lumalaki kasama mo]]",
+    "intro": "Hindi kami nag-publish ng generic na rate: depende ang gastos sa mga module, user at volume. Ipinakita namin sa iyo ang platform at pinagsama-sama ang isang panukala sa iyong operasyon.",
+    "note": "Ang demo ay walang gastos at hindi nangangailangan ng kontrata.",
+    "recommended": "Inirerekomenda",
+    "faq_title": "Mga madalas itanong",
+    "plans": {
+      "essential": {
+        "name": "Mahalaga",
+        "desc": "Upang ayusin ang komersyal na pamamahala at pamamahagi sa isang solong platform.",
+        "features": [
+          "FullVendor platform sa web",
+          "Mga benta, pagbili at imbentaryo",
+          "Mga kliyente, supplier at ulat",
+          "Mga gumagamit ng kagamitan sa opisina",
+          "Suporta sa pagsisimula"
+        ],
+        "cta": "Humiling ng Demo"
+      },
+      "professional": {
+        "name": "Propesyonal",
+        "desc": "Para sa mga team na nagbebenta sa kalye at naghahanda ng mga order sa bodega.",
+        "features": [
+          "Lahat ng Mahalaga",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline na trabaho at mga barcode",
+          "Mas maraming gumagamit ng field at warehouse"
+        ],
+        "cta": "Humiling ng Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Para sa mga grupo na nangangailangan ng logistik, pagbili, pananalapi at iba't ibang kumpanya.",
+        "features": [
+          "Kumpletong ecosystem",
+          "Logistics, Vendor Supplier at Finance",
+          "FullVendor ERP at multi-tenancy",
+          "Electronic billing at accounting",
+          "Pagiging may kasama at priyoridad"
+        ],
+        "cta": "Makipag-usap sa mga benta"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Kailangan ko bang bilhin ang lahat ng mga produkto?",
+        "a": "Hindi. Maaari kang magsimula sa FullVendor at magdagdag ng mga app o ERP kapag kailangan ito ng operasyon."
+      },
+      "offline": {
+        "q": "Gumagana ba ang mga application nang walang internet?",
+        "a": "Sales Man at Warehouse patuloy na gumagana nang walang signal at nagsi-synchronize kapag muling kumonekta."
+      },
+      "multi": {
+        "q": "Gumagana ba ito kung mayroon akong higit sa isang kumpanya?",
+        "a": "Oo. ERP nag-iisip ng maraming kumpanya at ang ecosystem ay maaaring magbahagi ng mga masters sa pagitan nila."
+      },
+      "demo": {
+        "q": "Ano ang kasama sa demo?",
+        "a": "Isang paglilibot sa platform na may case na katulad ng sa iyo. Walang gastos at walang obligasyon."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ipinapakita namin sa iyo ang FullVendor kasama ng [[iyong uri ng operasyon]]",
+    "text": "Sabihin sa amin ang tungkol sa iyong kumpanya at kung ano ang gusto mong i-order muna. Ang demo ay walang gastos."
+  },
+  "contact": {
+    "eyebrow": "Makipag-ugnayan",
+    "title": "Pag-usapan natin ang [[iyong operasyon]]",
+    "text": "Kung gusto mo ng demo, proposal o para lang i-orient ang iyong sarili sa pagitan ng mga produkto, iwanan ang iyong impormasyon at tutugon kami.",
+    "email": "Mail",
+    "phone": "Telepono",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Pangalan",
+    "email": "Mail",
+    "phone": "Telepono",
+    "company": "kumpanya",
+    "country": "Bansa",
+    "team": "Laki ng koponan",
+    "interest": "Ano ang interes mo?",
+    "message": "Mensahe",
+    "optional": "Opsyonal",
+    "choose": "Pumili",
+    "interest_all": "Ang buong ecosystem",
+    "ph_name": "pangalan mo",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ang iyong kumpanya",
+    "ph_country": "Bansa",
+    "ph_message": "Sabihin sa amin kung paano ka nagpapatakbo ngayon",
+    "privacy_before": "Tinatanggap ko ang paggamit ng aking data ayon sa",
+    "privacy_after": ".",
+    "submit": "Magpadala ng kahilingan",
+    "sent_title": "Natanggap namin ang iyong kahilingan",
+    "sent_text": "salamat po. Susulatan ka ng sales team para i-coordinate ang demo o sagutin ang iyong tanong.",
+    "error_required": "Kumpletuhin ang field na ito.",
+    "error_email": "Maglagay ng wastong email.",
+    "error_phone": "Suriin ang telepono.",
+    "error_privacy": "Kailangan namin ang iyong pahintulot na gamitin ang mga detalye ng contact.",
+    "error_csrf": "Nag-expire na ang session. Muling isumite ang form.",
+    "error_save": "Hindi namin ma-save ang kahilingan. Subukan muli.",
+    "error_generic": "Suriin ang mga minarkahang field.",
+    "error_rate": "Mangyaring maghintay ng ilang sandali bago magsumite ng isa pang kahilingan.",
+    "team_options": {
+      "1-10": "1 hanggang 10 tao",
+      "11-50": "11 hanggang 50 katao",
+      "51-200": "51 hanggang 200 katao",
+      "201-500": "201 hanggang 500 katao",
+      "500+": "Mahigit 500 katao"
+    }
+  },
+  "video": {
+    "title": "FullVendor sa isang minuto",
+    "prev": "dating",
+    "next": "Sumusunod",
+    "slides": [
+      {
+        "title": "Isang ecosystem",
+        "text": "Ang mga benta, bodega, paghahatid, pagbili at pananalapi ay nagbabahagi ng mga customer, stock at mga order."
+      },
+      {
+        "title": "Magkasama ang web at mobile",
+        "text": "Ang opisina ay gumagana sa platform. Ang kalye at ang bodega, sa mga app, kahit walang signal."
+      },
+      {
+        "title": "Ginawa upang ipamahagi",
+        "text": "Mula sa pagkakasunud-sunod hanggang sa pagbabayad, nang hindi nagpapasa ng impormasyon mula sa isang file patungo sa isa pa."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Maghanap ng mga produkto, solusyon, industriya…",
+    "lang_filter": "Wika ng paghahanap",
+    "intro": "Maghanap ng mga produkto, solusyon, industriya at mapagkukunan.",
+    "empty": "Wala kaming nakitang mga resulta para sa “{q}”.",
+    "hint": "Subukan ang mga benta, bodega, ruta o koleksyon.",
+    "results": "{n} resulta",
+    "button": "Hanapin mo",
+    "kind_product": "produkto",
+    "kind_solution": "Solusyon",
+    "kind_industry": "Industriya",
+    "kind_resource": "mapagkukunan"
+  },
+  "notfound": {
+    "title": "Ang page na ito ay hindi",
+    "text": "Ang link ay wala o nagbago ng lokasyon."
+  },
+  "common": {
+    "what": "Ano ang nalulutas",
+    "features": "Ano ang kasama",
+    "benefits": "Bakit ito mahalaga",
+    "for_who": "Para kanino ito?",
+    "related": "Gayundin sa ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Benta ngayon",
+      "orders": "Mga order",
+      "clients": "Mga customer",
+      "products": "Mga produkto"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Benta",
+      "purchases": "Pamimili",
+      "inventory": "Imbentaryo",
+      "clients": "Mga customer",
+      "reports": "Mga ulat"
+    },
+    "chart": "Benta",
+    "channel": "Pamamahagi ayon sa channel",
+    "channels": [
+      "Tindahan",
+      "Pamamahagi",
+      "Wholesaler",
+      "Iba"
+    ],
+    "orders": "Pinakabagong mga order",
+    "col_order": "Umorder",
+    "col_client": "Customer",
+    "col_status": "Estado",
+    "col_total": "Kabuuan",
+    "status": [
+      "Naihatid",
+      "Sa ruta",
+      "Hikaw"
+    ],
+    "top": "Pinakamabentang produkto",
+    "product": "produkto",
+    "sales_menu": [
+      "Mga customer",
+      "Mga order",
+      "Mga produkto",
+      "Mga Ruta",
+      "I-synchronize"
+    ],
+    "warehouse_menu": [
+      "Pagtanggap",
+      "Pagpili",
+      "Imbentaryo",
+      "Pagpapadala",
+      "I-synchronize"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Patakaran sa Privacy",
+    "privacy_intro": "Ipinapaliwanag ng patakarang ito kung ano ang ginagawa namin sa data na iniiwan mo sa mga form sa site na ito.",
+    "privacy": [
+      {
+        "title": "Anong data ang aming kinokolekta",
+        "text": "Kung humiling ka ng demo o sumulat sa amin, ise-save namin ang pangalan, kumpanya, email, numero ng telepono kung ipahiwatig mo ito, ang bansa, ang laki ng koponan, ang produkto ng interes at ang mensahe. Itinatala din namin ang petsa, ang wika ng pahina at ang IP address, upang maiwasan ang mga mapang-abusong pagsusumite."
+      },
+      {
+        "title": "Ano ang ginagamit natin sa kanila?",
+        "text": "Ginagamit lang namin ang data na ito upang tumugon sa iyo, mag-coordinate ng isang demo at maghanda ng isang komersyal na panukala. Hindi namin sila ibinebenta o ibinibigay sa isang listahan ng mga third party."
+      },
+      {
+        "title": "Saan sila nakaimbak at gaano katagal?",
+        "text": "Ang mga kahilingan ay iniimbak sa server ng site na ito. Iniingatan namin ang mga ito para sa oras na kinakailangan upang maihatid sa iyo at komersyal na follow-up, at tinatanggal namin ang mga ito kapag hiniling mo sa amin o kapag hindi na sila kailangan."
+      },
+      {
+        "title": "Ang iyong mga karapatan",
+        "text": "Maaari kang humiling ng pag-access, pagwawasto o pagtanggal ng iyong data mula sa form ng contact, na nagpapahiwatig nito sa mensahe. Kung ang kumpanya ay nag-publish ng isang email sa website na ito, maaari ka ring sumulat doon."
+      }
+    ],
+    "terms_title": "Mga tuntunin sa paggamit",
+    "terms_intro": "Ang mga kundisyong ito ay nalalapat sa paggamit nitong FullVendor na lugar ng pagsusumite.",
+    "terms": [
+      {
+        "title": "Komersyal na impormasyon",
+        "text": "Ang mga teksto, halimbawa ng mga numero ng dashboard at mga paglalarawan ay nagpapakilala sa platform. Maaari silang ayusin kapag nagbago ang produkto at hindi isang saradong alok."
+      },
+      {
+        "title": "Ang demo ay hindi isang kontrata",
+        "text": "Ang pagsusumite ng form ay hindi lumilikha ng obligasyong bumili o magreserba ng presyo. Ang anumang kontrata ay pinagkasunduan nang hiwalay, sa pamamagitan ng pagsulat, kasama ang saklaw at kundisyon nito."
+      },
+      {
+        "title": "Nilalaman ng site",
+        "text": "Ang FullVendor trademark, mga pangalan ng produkto at ang nilalaman ng mga pahinang ito ay pagmamay-ari ng mga ito. Hindi sila maaaring kopyahin para magpakita ng isa pang produkto."
+      },
+      {
+        "title": "Katanggap-tanggap na paggamit",
+        "text": "Huwag gamitin ang mga form upang magsumite ng maling impormasyon, spam o ilegal na nilalaman. Maaari naming balewalain ang mga kahilingan na hindi tumutugma sa isang aktwal na pag-uusap sa negosyo."
+      }
+    ]
+  }
+}

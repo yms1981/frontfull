@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Pārvaldiet un attīstiet savu biznesu",
+    "home_desc": "Viss vienā platforma ar tīmekļa un mobilajiem risinājumiem izplatīšanai, pārdošanai, loģistikai, pirkšanai, krājumiem un finansēm.",
+    "products_title": "Produkti | FullVendor",
+    "products_desc": "Iepazīstiet ekosistēmu FullVendor: komerciālā platforma, ERP, loģistika, piegādātāji un pārdošana, noliktavas un finanšu lietotnes.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Risinājumi | FullVendor",
+    "solutions_desc": "Risinājumi komerciālai vadībai, pārdošanas darbiniekiem, noliktavai, loģistikai, iepirkumiem un finansēm.",
+    "industries_title": "Nozares | FullVendor",
+    "industries_desc": "FullVendor izplatīšanai, mazumtirdzniecībai, pārtikai, aptiekai, datortehnikai, masveida patēriņam, ražošanai un pēdējai jūdzei.",
+    "pricing_title": "Cenas | FullVendor",
+    "pricing_desc": "Būtiski, profesionāli un korporatīvie plāni. Piedāvājums ir salikts atbilstoši moduļiem, lietotājiem un apjomam.",
+    "resources_title": "Resursi | FullVendor",
+    "resources_desc": "Īsas rokasgrāmatas, lai vienotu izplatīšanu, pārdotu bezsaistē, sakārtotu noliktavu un laicīgi saņemtu samaksu.",
+    "contact_title": "Sazināties | FullVendor",
+    "contact_desc": "Rakstiet mums, lai uzzinātu par FullVendor vai saskaņotu sarunu ar pārdošanas komandu.",
+    "demo_title": "Pieprasīt demonstrāciju | FullVendor",
+    "demo_desc": "Pieprasiet FullVendor demonstrāciju un apskatiet platformu ar līdzīgu lietu kā jūsu darbībai.",
+    "privacy_title": "Privātums | FullVendor",
+    "terms_title": "Noteikumi | FullVendor",
+    "search_title": "Meklēt | FullVendor",
+    "notfound_title": "Lapa nav atrasta | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Mājas lapa",
+    "products": "Produkti",
+    "solutions": "Risinājumi",
+    "industries": "Nozares",
+    "pricing": "Cenas",
+    "resources": "Resursi",
+    "contact": "Sazināties",
+    "open_menu": "Atvērt izvēlni",
+    "close": "Aizvērt"
+  },
+  "cta": {
+    "demo": "Pieprasīt demonstrāciju",
+    "contact": "Sazinieties ar mums",
+    "video": "Skatīties video",
+    "talk": "Runājiet ar pārdošanu",
+    "all_products": "Skatīt visus produktus",
+    "home": "Atgriezties uz sākumlapu"
+  },
+  "a11y": {
+    "skip": "Pāriet uz saturu",
+    "primary": "Galvenā navigācija",
+    "crumbs": "Navigācijas maršruts",
+    "search": "meklēt",
+    "language": "Valoda"
+  },
+  "hero": {
+    "eyebrow": "Viss vienā platformā",
+    "title": "Pārvaldiet un augiet\njūsu bizness ar\n{{brand}}",
+    "subtitle": "Pilnīga platforma ar tīmekļa un mobilajiem risinājumiem izplatīšanai, pārdošanai, loģistikai, pirkšanai, krājumiem, finansēm un citiem.",
+    "pill_ecosystem": "Viss vienā ekosistēmā",
+    "pill_cloud": "Mākonī, drošs un mērogojams",
+    "pill_size": "Visu izmēru uzņēmumiem"
+  },
+  "products_block": {
+    "eyebrow": "Mūsu produkti",
+    "title": "[[pilnīga ekosistēma]] katrai jūsu uzņēmuma jomai",
+    "aside": "Integrēti risinājumi, kas darbojas kopā, lai sniegtu jums pilnīgu kontroli, darbības efektivitāti un lielāku izaugsmi.",
+    "groups": {
+      "money": "Administrēšana un iekasēšana",
+      "flow": "Pirkumi un piegāde",
+      "field": "Pārdošana un noliktava"
+    }
+  },
+  "products_page": {
+    "title": "Septiņi produkti, [[viena darbība]]",
+    "text": "Katrs produkts atrisina apgabalu. Kopā viņi dalās ar klientiem, krājumiem, pasūtījumiem un maksājumiem."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Galvenā platforma komerciālai vadībai un izplatīšanai.",
+      "features": [
+        "Pārdošana un pirkšana",
+        "Inventārs",
+        "Klienti un piegādātāji",
+        "Pārskati un vairāk"
+      ],
+      "lead": "Jūsu komerciālās darbības centrs: pasūtījumi, cenas, krājumi un klienti vienuviet.",
+      "about": "FullVendor aizstāj izplatītāja brīvās izklājlapas un sistēmas. No šejienes tiek izdoti pasūtījumi, tiek apspriests inventārs, tiek aprūpēts klientu portfelis un apskatīti dienu skaitļi. Pārējā ekosistēma savienojas ar šo bāzi.",
+      "benefits": [
+        {
+          "title": "Viens datu meistars",
+          "text": "Klienti, produkti un cenas tiek dalītas ar pārdošanu, noliktavu un finansēm."
+        },
+        {
+          "title": "Skaidra ikdienas darbība",
+          "text": "Pasūtījumi, pirkumi un krājumi pārstāj dzīvot dažādos failos."
+        },
+        {
+          "title": "Ziņojumi, lai izlemtu",
+          "text": "Pārdošana, peļņa un gaidīšana tiek aplūkota, nesaliekot tabulu ar roku."
+        },
+        {
+          "title": "Gatavs augt",
+          "text": "Loģistikas, pārdošanas vai ERP summas, kad operācija to pieprasa."
+        }
+      ],
+      "audience": "Tirdzniecības un izplatīšanas komandas, kas šodien koordinē uzņēmējdarbību starp vairākām sistēmām."
+    },
+    "erp": {
+      "kicker": "Administrācija",
+      "card": "Pilnīga administratīvā un finanšu vadība.",
+      "features": [
+        "Grāmatvedība",
+        "Elektroniskā norēķinu veikšana",
+        "Darba lapas",
+        "Pamatlīdzekļi",
+        "Daudzuzņēmums"
+      ],
+      "lead": "Administrācija un finanses, kas saskaņotas ar to, kas faktiski tiek pārdots un piegādāts.",
+      "about": "FullVendor ERP attiecas uz grāmatvedību, elektroniskajiem rēķiniem, algām, pamatlīdzekļiem un vairākiem uzņēmumiem. Tas ņem komerciālo darbību un pārvērš to ierakstos, kvītīs un pārskatos, ko var izmantot finanšu joma.",
+      "benefits": [
+        {
+          "title": "Savienota grāmatvedība",
+          "text": "Kas notiek pārdošanas un pirkšanas plūsmas uzskaitē."
+        },
+        {
+          "title": "Elektroniskās kvītis",
+          "text": "Jūs izsniedzat un kontrolējat rēķinus no vienas ekosistēmas."
+        },
+        {
+          "title": "Dažādi uzņēmumi",
+          "text": "Vairāki uzņēmumi grupām, kas darbojas ar vairākiem uzņēmuma nosaukumiem."
+        },
+        {
+          "title": "Algas un aktīvi",
+          "text": "Algas un pamatlīdzekļi kopā ar pārējo vadību."
+        }
+      ],
+      "audience": "Administratīvās un finanšu jomas, kas vēlas slēgt skaitļus ar reālo darbību."
+    },
+    "logistics": {
+      "kicker": "Loģistika",
+      "card": "Jūsu loģistikas darbības kontrole un uzraudzība.",
+      "features": [
+        "Maršruti un piegādes",
+        "Reāllaika izsekošana",
+        "Šofera norīkojums",
+        "Maršruta optimizācija"
+      ],
+      "lead": "No pasūtījuma līdz piegādei: maršruti, vadītāji un reāllaika izsekošana.",
+      "about": "FullVendor Logistics organizē izplatīšanu. Jūs veidojat maršrutus, piešķirat vadītājus un redzat, kur notiek katra piegāde. Satiksmes komanda apstājas atkarībā no zvaniem, lai noskaidrotu, vai pasūtījums ir nosūtīts.",
+      "benefits": [
+        {
+          "title": "Dienas maršruti",
+          "text": "Piegādes pasūtītas pēc zonas, laika loga un jaudas."
+        },
+        {
+          "title": "Piešķirtais vadītājs",
+          "text": "Katram maršrutam ir atbildīgā persona un skaidra secība."
+        },
+        {
+          "title": "Pēcpārbaude",
+          "text": "Jūs zināt, kas tiek piegādāts, ceļā vai apturēts."
+        },
+        {
+          "title": "Mazāk kilometru",
+          "text": "Maršruta optimizācija samazina piegādes laiku un izmaksas."
+        }
+      ],
+      "audience": "Izplatīšanas operācijas ar savu autoparku vai trešajām personām."
+    },
+    "supplier": {
+      "kicker": "Iepirkšanās",
+      "card": "Portāls piegādātājiem un iepirkumu vadībai.",
+      "features": [
+        "Pirkuma pasūtījumi",
+        "Citāti",
+        "Piegādātāju vadība",
+        "Integrācija ar inventāru"
+      ],
+      "lead": "Jūsu piegādātāji piedāvā piedāvājumus, saņem pasūtījumus un papildina krājumus bez brīviem e-pastiem.",
+      "about": "Vendor Supplier abre un portal para que compras y proveedores trabajen sobre las mismas órdenes. Cotizaciones, órdenes de compra y recepción quedan atadas al inventario de FullVendor.",
+      "benefits": [
+        {
+          "title": "Pasūtījumi kanālā",
+          "text": "Piegādātājs redz, ko piegādāt, bez e-pasta ķēdes."
+        },
+        {
+          "title": "Salīdzināmi citāti",
+          "text": "Jūs jautājat cenas un izvēlaties, ņemot vērā vēsturi."
+        },
+        {
+          "title": "Piegādātāja meistars",
+          "text": "Nosacījumi, kontakti un gaidīšana vienā ierakstā."
+        },
+        {
+          "title": "Ievadiet inventāru",
+          "text": "Iegādātais tiek atspoguļots krājumā, kad tas tiek saņemts."
+        }
+      ],
+      "audience": "Iepirkumu komandas, kas tiek papildinātas ar vairākiem piegādātājiem un kurām nepieciešama izsekojamība."
+    },
+    "salesman": {
+      "kicker": "Mobilā lietotne",
+      "card": "Mobilā aplikācija pārdošanas komandai.",
+      "features": [
+        "Klientu vadība",
+        "Pasūtījumu pieņemšana",
+        "Preču katalogs",
+        "Darbs bezsaistē"
+      ],
+      "lead": "Pārdevēji pieņem pasūtījumus uz ielas, ar vai bez signāla.",
+      "about": "FullVendor Sales Man ievieto jūsu portfolio, katalogu un pasūtījumu pieņemšanu pārdevēja tālrunī. Ja nav interneta, darbs turpinās un sinhronizējas, kad signāls atgriežas. Pasūtījums ir gatavs sagatavošanai un piegādei.",
+      "benefits": [
+        {
+          "title": "Maks kabatā",
+          "text": "Pārdevējs redz klientus, nosacījumus un neapstiprinātās preces."
+        },
+        {
+          "title": "Pasūtiet vizītē",
+          "text": "Pieņemiet pasūtījumu ar pašreizējām cenām un krājumiem."
+        },
+        {
+          "title": "Katalogs ir atjaunināts",
+          "text": "Produkti, prezentācijas un cenas bez veca PDF."
+        },
+        {
+          "title": "Īsta bezsaistē",
+          "text": "Strādājiet bez pārklājuma un sinhronizējiet vēlāk."
+        }
+      ],
+      "audience": "Uzraugi un lauka pārdevēji sadalē un masveida patēriņā."
+    },
+    "warehouse": {
+      "kicker": "Mobilā lietotne",
+      "card": "Mobilā aplikācija noliktavai.",
+      "features": [
+        "Pieņemšana un izsūtīšana",
+        "Savākšana un iepakošana",
+        "Inventāra kontrole",
+        "Svītrkoda lasīšana"
+      ],
+      "lead": "Pieņemšana, komplektēšana un izsūtīšana ar telefonu un svītrkodu.",
+      "about": "FullVendor Warehouse vada noliktavu pieņemšanas, komplektēšanas, iepakošanas un nosūtīšanas laikā. Kodu lasīšana samazina kļūdu skaitu, un krājumi vairs netiek uzskaitīti tikai mēneša beigās.",
+      "benefits": [
+        {
+          "title": "Pieņemšana pret pasūtījumu",
+          "text": "Ienākošais tiek salīdzināts ar pirkumu."
+        },
+        {
+          "title": "Mērķtiecīga atlase",
+          "text": "Kuģa īpašnieks izpilda pasūtījumu un apstiprina katru preci."
+        },
+        {
+          "title": "Svītrkodi",
+          "text": "Mazāk produktu, partiju vai daudzuma kļūdu."
+        },
+        {
+          "title": "Uzticams krājums",
+          "text": "Katra kustība atjaunina platformas inventāru."
+        }
+      ],
+      "audience": "Noliktavu vadītāji un kuģu īpašnieki, kas šodien sagatavo pasūtījumus ar drukātiem sarakstiem."
+    },
+    "finance": {
+      "kicker": "Mobilā lietotne",
+      "card": "Finanšu kontrole no mobilā tālruņa.",
+      "features": [
+        "Debitoru un kreditoru parādi",
+        "Klienta statuss",
+        "Maksājumi un saskaņošana",
+        "Finanšu pārskati"
+      ],
+      "lead": "Debitoru parādi, maksājumi un klienta statuss no jūsu tālruņa.",
+      "about": "FullVendor Finance parāda iekasēšanu mobilajā tālrunī: ko katrs klients ir parādā, ko uzņēmums gatavojas maksāt un kā notiek maksājumi. To izmanto, lai vizītes laikā savāktu naudu un apskatītu kasi, neatverot galdu.",
+      "benefits": [
+        {
+          "title": "Savākšana vizītē",
+          "text": "Pārdevējs pirms pārdošanas zina, vai klients ir lietas kursā."
+        },
+        {
+          "title": "Saņemams un maksājams",
+          "text": "Abas kastes puses vienā lietotnē."
+        },
+        {
+          "title": "Maksājumi un saskaņošana",
+          "text": "Jūs reģistrējat kredītus un redzat, kas jāpārvar."
+        },
+        {
+          "title": "Pārskati pie rokas",
+          "text": "Inkasācijas un skaidras naudas rādītāji, negaidot slēgšanu."
+        }
+      ],
+      "audience": "Vadītāji, kolekcionāri un pārdevēji, kuriem šobrīd nepieciešama klienta situācija."
+    }
+  },
+  "why": {
+    "eyebrow": "Kāpēc FullVendor",
+    "title": "Veiciniet savu biznesu\nar reāliem rezultātiem",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Uzņēmumi mums uzticas"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktīvie lietotāji"
+      },
+      {
+        "value": "+10",
+        "suffix": "gadiem",
+        "label": "Pastāvīgā evolūcijā"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Mākoņu pieejamība"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kā tas darbojas",
+    "title": "No pārdošanas līdz savākšanai, nemainot sistēmas",
+    "text": "Katrs produkts dalās ar klientiem, krājumiem, pasūtījumiem un maksājumiem. Tas, kas notiek uz ielas vai noliktavā, uzreiz parādās birojā.",
+    "steps": {
+      "sell": {
+        "title": "Jūs pārdodat",
+        "text": "Pasūtījums tiek ievadīts caur vietni vai caur Sales Man, pat bez signāla."
+      },
+      "pick": {
+        "title": "Gatavs",
+        "text": "Warehouse saņem, atdala un nosūta ar svītrkodu."
+      },
+      "deliver": {
+        "title": "Piegādes",
+        "text": "Logistics piešķir maršrutu un seko piegādei."
+      },
+      "collect": {
+        "title": "Kobras",
+        "text": "Finance un ERP aizver kolekciju, kvītis un numurus."
+      }
+    }
+  },
+  "band": {
+    "title": "Vai esat gatavs to redzēt ar [[jūsu operāciju]]?",
+    "text": "Mēs parādām jums ekosistēmu ar izplatīšanas gadījumu, kas ir līdzīgs jums."
+  },
+  "footer": {
+    "blurb": "Tīmekļa un mobilā platforma izplatīšanai, pārdošanai, loģistikai, pirkšanai, krājumiem un finansēm.",
+    "products": "Produkti",
+    "company": "Uzņēmums",
+    "legal": "Juridisks",
+    "privacy": "Privātums",
+    "terms": "Noteikumi",
+    "rights": "Visas tiesības paturētas."
+  },
+  "solutions": {
+    "eyebrow": "Risinājumi",
+    "title": "Katrs apgabals, kas saistīts ar [[tā pati darbība]]",
+    "intro": "Izvēlieties pēc problēmas, kuru vēlaties atrisināt. Tālāk produktiem ir tāda pati informācija.",
+    "items": {
+      "commercial": {
+        "title": "Komerciālā vadība",
+        "text": "Pasūtījumi, cenas, klienti un krājumi ikdienas izplatīšanai."
+      },
+      "field": {
+        "title": "pārdošanas spēks",
+        "text": "Pārdevēji pieņem pasūtījumus uz ielas, tiešsaistē vai bezsaistē."
+      },
+      "warehouse": {
+        "title": "Veikals",
+        "text": "Pieņemšana, komplektēšana, nosūtīšana un krājumi, kuriem var uzticēties."
+      },
+      "logistics": {
+        "title": "Loģistika un piegāde",
+        "text": "Maršruti, vadītāji un katras piegādes statuss."
+      },
+      "purchasing": {
+        "title": "Iepirkšanās un piegādātāji",
+        "text": "Citāti, pasūtījumi un portāls tiem, kas jums piegādā."
+      },
+      "finance": {
+        "title": "Finanses un grāmatvedība",
+        "text": "Inkasācijas, maksājumi, elektroniskie norēķini un grāmatvedība."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Nozares",
+    "title": "Paredzēts tiem, kas [[pārvieto produktu]]",
+    "intro": "FullVendor ir dzimis izplatīšanas jomā un pavada uzņēmumus, kas pērk, uzglabā, pārdod un piegādā.",
+    "items": {
+      "wholesale": {
+        "title": "Izplatīšana un vairumtirdzniecība",
+        "text": "Cenu lapas, portfolio, izplatīšana un kolekcija vienā ķēdē."
+      },
+      "retail": {
+        "title": "Mazumtirdzniecība",
+        "text": "Veikals un noliktava ar pieslēgtu krājumu, pārdošanu un papildināšanu."
+      },
+      "food": {
+        "title": "Ēdieni un dzērieni",
+        "text": "Bieži maršruti un noliktava, kas nevar apstāties."
+      },
+      "pharma": {
+        "title": "Aptieka un personīgā aprūpe",
+        "text": "Pieņemšana, komplektēšana un inventāra kontrole ar izsekojamību."
+      },
+      "hardware": {
+        "title": "Aparatūra un konstrukcija",
+        "text": "Daudzas atsauces, piegādātāji un piegādes uz darbu vai veikalu."
+      },
+      "fmcg": {
+        "title": "Masveida patēriņš",
+        "text": "Ielu tirdzniecības darbinieki un liela apgrozījuma nomaiņa."
+      },
+      "manufacturing": {
+        "title": "Ražošana",
+        "text": "Iepirkšana, noliktava un inventārs saskaņots ar administrāciju."
+      },
+      "lastmile": {
+        "title": "Piegāde un pēdējā jūdze",
+        "text": "Maršruti, vadītāji un katras piegādes statuss."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resursi",
+    "title": "Skaidras idejas [[pasūtīt operāciju]]",
+    "intro": "Īsas rokasgrāmatas izplatīšanas vadītājiem, kuri gatavojas izlemt, kuru sistēmu izvēlēties.",
+    "items": {
+      "unify": {
+        "title": "Kā apvienot izplatīšanu vienā sistēmā",
+        "summary": "Ko vispirms salikt kopā, kad pārdošana, noliktava un kolekcijas atrodas dažādos failos.",
+        "points": [
+          "Sāciet ar klientiem, produktiem un cenām: viņi ir skolotāji, kurus izmanto visi.",
+          "Pirms vairāku lietojumprogrammu pievienošanas savienojiet pasūtījumu ar krājumu.",
+          "Tas mēra vienkāršu skaitli: pasūtījumi, kas izpildīti, nepārpildot veidlapu."
+        ]
+      },
+      "offline": {
+        "title": "Pārdošanas darbinieki strādā bezsaistē",
+        "summary": "Ko prasīt no pasūtīšanas lietotnes, lai pārdevējs neapstātos signāla dēļ.",
+        "points": [
+          "Katalogam un maciņam ir jābūt tālrunī, nevis tikai mākonī.",
+          "Pasūtījums tiek saglabāts ierīcē un augšupielādēts, kad tīkls atgriežas.",
+          "Sinhronizējot pasūtījums jau nonāk noliktavā."
+        ]
+      },
+      "warehouse": {
+        "title": "Noliktava ar svītrkodu, bez papīra",
+        "summary": "Kā pāriet no drukātā saraksta uz apstiprinātu atlasi pa tālruni.",
+        "points": [
+          "Saņem pret pirkuma pasūtījumu, nevis pret atmiņu.",
+          "Atdalot, apstipriniet katru vienumu. Blaktis iegriežas gaitenī.",
+          "Nosūtīšana atjaunina krājumus, ko redz pārdevējs."
+        ]
+      },
+      "finance": {
+        "title": "Kolekcija saskaņota ar izpārdošanu",
+        "summary": "Kāpēc pārdevējam pirms cita pasūtījuma ir jāredz klienta parāds.",
+        "points": [
+          "Vizīte ir labākais laiks piedziņai, ja parāds ir redzams.",
+          "Pārdošanu un finanses ir jāskatās uz vienu un to pašu klientu.",
+          "Ikdienas nokavēts pārskats ir vairāk vērtīgs nekā novēlota slēgšana."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Cenas",
+    "title": "Ekosistēma, kas [[aug kopā ar jums]]",
+    "intro": "Mēs nepublicējam vispārīgu likmi: izmaksas ir atkarīgas no moduļiem, lietotājiem un apjoma. Mēs parādīsim jums platformu un sastādīsim piedāvājumu ar jūsu darbību.",
+    "note": "Demonstrācijai nav jāmaksā, un tai nav nepieciešams līgums.",
+    "recommended": "Ieteicams",
+    "faq_title": "Bieži uzdotie jautājumi",
+    "plans": {
+      "essential": {
+        "name": "Būtiski",
+        "desc": "Organizēt komerciālo vadību un izplatīšanu vienā platformā.",
+        "features": [
+          "FullVendor tīmekļa platforma",
+          "Pārdošana, pirkšana un inventārs",
+          "Klienti, piegādātāji un atskaites",
+          "Biroja tehnikas lietotāji",
+          "Uzsākšanas atbalsts"
+        ],
+        "cta": "Pieprasīt demonstrāciju"
+      },
+      "professional": {
+        "name": "Profesionāls",
+        "desc": "Komandām, kas pārdod uz ielas un gatavo pasūtījumus noliktavā.",
+        "features": [
+          "Viss Būtiskais",
+          "Lietotne FullVendor Sales Man",
+          "Lietotne FullVendor Warehouse",
+          "Bezsaistes darbs un svītrkodi",
+          "Vairāk lauka un noliktavas lietotāju"
+        ],
+        "cta": "Pieprasīt demonstrāciju"
+      },
+      "corporate": {
+        "name": "Korporatīvs",
+        "desc": "Grupām, kurām nepieciešama loģistika, iepirkumi, finanses un dažādi uzņēmumi.",
+        "features": [
+          "Pilnīga ekosistēma",
+          "Logistics, Vendor Supplier un Finance",
+          "FullVendor ERP un vairāku īri",
+          "Elektroniskā norēķinu un grāmatvedības uzskaite",
+          "Pavadījums un prioritāra pieejamība"
+        ],
+        "cta": "Runājiet ar pārdošanu"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Vai man ir jāiegādājas visi produkti?",
+        "a": "Nē. Varat sākt ar FullVendor un pievienot lietotnes vai ERP, kad darbībai tas ir nepieciešams."
+      },
+      "offline": {
+        "q": "Vai lietojumprogrammas darbojas bez interneta?",
+        "a": "Sales Man un Warehouse turpina strādāt bez signāla un sinhronizē, kad tiek atkārtoti izveidots savienojums."
+      },
+      "multi": {
+        "q": "Vai tas darbojas, ja man ir vairāk nekā viens uzņēmums?",
+        "a": "Jā. ERP paredz vairāku uzņēmumu izveidi, un ekosistēma var dalīties starp tiem."
+      },
+      "demo": {
+        "q": "Kas ir iekļauts demonstrācijā?",
+        "a": "Ekskursija pa platformu ar jums līdzīgu korpusu. Bez izmaksām un bez saistībām."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demonstrācija",
+    "title": "Mēs parādīsim FullVendor ar [[jūsu darbības veidu]]",
+    "text": "Vispirms pastāstiet mums par savu uzņēmumu un to, ko vēlaties pasūtīt. Demonstrācijai nav jāmaksā."
+  },
+  "contact": {
+    "eyebrow": "Sazināties",
+    "title": "Parunāsim par [[jūsu operāciju]]",
+    "text": "Ja vēlaties demo, piedāvājumu vai vienkārši orientēties starp produktiem, atstājiet savu informāciju un mēs atbildēsim.",
+    "email": "Pasts",
+    "phone": "Tālrunis",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Vārds",
+    "email": "Pasts",
+    "phone": "Tālrunis",
+    "company": "Uzņēmums",
+    "country": "Valsts",
+    "team": "Komandas lielums",
+    "interest": "Kas tevi interesē?",
+    "message": "Ziņojums",
+    "optional": "Pēc izvēles",
+    "choose": "Izvēlieties",
+    "interest_all": "Visa ekosistēma",
+    "ph_name": "tavs vārds",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Jūsu uzņēmums",
+    "ph_country": "Valsts",
+    "ph_message": "Pastāstiet mums, kā jūs strādājat šodien",
+    "privacy_before": "Es piekrītu savu datu izmantošanai saskaņā ar",
+    "privacy_after": ".",
+    "submit": "Nosūtīt pieprasījumu",
+    "sent_title": "Mēs saņemam jūsu pieprasījumu",
+    "sent_text": "Paldies. Pārdošanas komanda jums rakstīs, lai saskaņotu demonstrāciju vai atbildētu uz jūsu jautājumu.",
+    "error_required": "Aizpildiet šo lauku.",
+    "error_email": "Ievadiet derīgu e-pasta adresi.",
+    "error_phone": "Pārbaudiet tālruni.",
+    "error_privacy": "Mums ir nepieciešama jūsu piekrišana, lai izmantotu kontaktinformāciju.",
+    "error_csrf": "Sesija ir beigusies. Atkārtoti iesniedziet veidlapu.",
+    "error_save": "Mēs nevarējām saglabāt pieprasījumu. Mēģiniet vēlreiz.",
+    "error_generic": "Pārskatiet atzīmētos laukus.",
+    "error_rate": "Lūdzu, uzgaidiet brīdi, pirms iesniedzat citu pieprasījumu.",
+    "team_options": {
+      "1-10": "1 līdz 10 cilvēkiem",
+      "11-50": "11 līdz 50 cilvēki",
+      "51-200": "no 51 līdz 200 cilvēkiem",
+      "201-500": "no 201 līdz 500 cilvēkiem",
+      "500+": "Vairāk nekā 500 cilvēku"
+    }
+  },
+  "video": {
+    "title": "FullVendor vienā minūtē",
+    "prev": "Bijušais",
+    "next": "Sekošana",
+    "slides": [
+      {
+        "title": "Vienota ekosistēma",
+        "text": "Pārdošana, noliktava, piegāde, pirkšana un finanses dalās ar klientiem, krājumiem un pasūtījumiem."
+      },
+      {
+        "title": "Tīmeklis un mobilā ierīce kopā",
+        "text": "Birojs strādā uz platformas. Iela un noliktava, lietotnēs, pat bez signāla."
+      },
+      {
+        "title": "Izgatavots izplatīšanai",
+        "text": "No pasūtījuma līdz samaksai, nenododot informāciju no viena faila uz otru."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Meklēt produktus, risinājumus, nozares…",
+    "lang_filter": "Meklēšanas valoda",
+    "intro": "Meklējiet produktus, risinājumus, nozares un resursus.",
+    "empty": "Mēs neatradām rezultātus vaicājumam “{q}”.",
+    "hint": "Izmēģiniet pārdošanu, noliktavu, maršrutus vai kolekcijas.",
+    "results": "{n} rezultāti",
+    "button": "meklēt",
+    "kind_product": "Produkts",
+    "kind_solution": "Risinājums",
+    "kind_industry": "Rūpniecība",
+    "kind_resource": "Resurss"
+  },
+  "notfound": {
+    "title": "Šī lapa nav",
+    "text": "Saite neeksistē vai ir mainījusi atrašanās vietu."
+  },
+  "common": {
+    "what": "Kas atrisina",
+    "features": "Kas ir iekļauts",
+    "benefits": "Kāpēc tas ir svarīgi",
+    "for_who": "Kam tas paredzēts?",
+    "related": "Arī ekosistēmā"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Izpārdošana šodien",
+      "orders": "Pasūtījumi",
+      "clients": "Klienti",
+      "products": "Produkti"
+    },
+    "sidebar": {
+      "dashboard": "Informācijas panelis",
+      "sales": "Pārdošana",
+      "purchases": "Iepirkšanās",
+      "inventory": "Inventārs",
+      "clients": "Klienti",
+      "reports": "Pārskati"
+    },
+    "chart": "Pārdošana",
+    "channel": "Izplatīšana pa kanāliem",
+    "channels": [
+      "Veikals",
+      "Izplatīšana",
+      "Vairumtirgotājs",
+      "Citi"
+    ],
+    "orders": "Jaunākie pasūtījumi",
+    "col_order": "Pasūtiet",
+    "col_client": "Klients",
+    "col_status": "valsts",
+    "col_total": "Kopā",
+    "status": [
+      "Piegādāts",
+      "Ceļā",
+      "Auskars"
+    ],
+    "top": "Vislabāk pārdotie produkti",
+    "product": "Produkts",
+    "sales_menu": [
+      "Klienti",
+      "Pasūtījumi",
+      "Produkti",
+      "Maršruti",
+      "Sinhronizēt"
+    ],
+    "warehouse_menu": [
+      "Uzņemšana",
+      "Picking",
+      "Inventārs",
+      "Nosūtīšana",
+      "Sinhronizēt"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privātuma politika",
+    "privacy_intro": "Šī politika izskaidro, ko mēs darām ar datiem, ko atstājat šīs vietnes veidlapās.",
+    "privacy": [
+      {
+        "title": "Kādus datus mēs apkopojam",
+        "text": "Pieprasot demonstrāciju vai rakstot mums, mēs saglabājam vārdu, uzņēmumu, e-pastu, tālruņa numuru, ja to norādāt, valsti, komandas lielumu, interesējošo produktu un ziņu. Mēs arī ierakstām datumu, lapas valodu un IP adresi, lai novērstu ļaunprātīgu iesniegšanu."
+      },
+      {
+        "title": "Kam mēs tos izmantojam?",
+        "text": "Mēs izmantojam šos datus tikai, lai atbildētu uz jums, koordinētu demonstrāciju un sagatavotu komerciālu piedāvājumu. Mēs tos nepārdodam un nenododam trešo pušu sarakstam."
+      },
+      {
+        "title": "Kur tie tiek glabāti un cik ilgi?",
+        "text": "Pieprasījumi tiek glabāti šīs vietnes serverī. Mēs tos glabājam tik ilgi, cik nepieciešams jūsu apkalpošanai un komerciāliem pasākumiem, un mēs tos izdzēšam, kad to lūdzat vai kad tie vairs nav vajadzīgi."
+      },
+      {
+        "title": "Jūsu tiesības",
+        "text": "Piekļuvi saviem datiem, to labošanu vai dzēšanu varat pieprasīt no saziņas formas, norādot to ziņojumā. Ja uzņēmums šajā vietnē publicē e-pastu, varat arī rakstīt tur."
+      }
+    ],
+    "terms_title": "Lietošanas noteikumi",
+    "terms_intro": "Šie nosacījumi attiecas uz šīs FullVendor iesniegšanas vietnes izmantošanu.",
+    "terms": [
+      {
+        "title": "Komerciāla informācija",
+        "text": "Teksti, informācijas paneļa attēlu piemēri un apraksti iepazīstina ar platformu. Tos var pielāgot, mainoties precei, un tie nav slēgts piedāvājums."
+      },
+      {
+        "title": "Demonstrācija nav līgums",
+        "text": "Veidlapas iesniegšana nerada pienākumu iegādāties vai rezervēt cenu. Jebkurš līgums tiek saskaņots atsevišķi, rakstiski, norādot tā apjomu un nosacījumus."
+      },
+      {
+        "title": "Vietnes saturs",
+        "text": "FullVendor preču zīme, produktu nosaukumi un šo lapu saturs pieder to īpašniekiem. Tos nevar kopēt, lai prezentētu citu produktu."
+      },
+      {
+        "title": "Pieņemama lietošana",
+        "text": "Neizmantojiet veidlapas, lai iesniegtu nepatiesu informāciju, surogātpastu vai nelegālu saturu. Mēs varam ignorēt pieprasījumus, kas neatbilst faktiskai biznesa sarunai."
+      }
+    ]
+  }
+}

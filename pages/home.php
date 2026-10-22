@@ -33,21 +33,49 @@ $steps = ['sell', 'pick', 'deliver', 'collect'];
       </div>
       <p class="section-aside"><?= e(t('products_block.aside')) ?></p>
     </div>
-    <div class="product-grid">
-      <?php foreach (FV_PRODUCTS as $id => $product): ?>
-        <a class="product-card accent-<?= e($id) ?>" href="<?= e(url_to($locale, 'product', $id)) ?>">
-          <span class="art-wrap"><?php art_svg($product['art']); ?></span>
-          <h3><?= e($product['name']) ?></h3>
-          <p><?= e(t('products.' . $id . '.card')) ?></p>
-          <ul>
-            <?php foreach (ta('products.' . $id . '.features') as $feature): ?>
-              <?php if (is_string($feature)): ?><li><?= e($feature) ?></li><?php endif; ?>
-            <?php endforeach; ?>
-          </ul>
-          <span class="go" aria-hidden="true"><?= icon('arrow') ?></span>
-        </a>
-      <?php endforeach; ?>
-    </div>
+
+    <?php
+    $showcase = 'fullvendor';
+    $productGroups = [
+        'money' => ['erp', 'finance'],
+        'flow' => ['supplier', 'logistics'],
+        'field' => ['salesman', 'warehouse'],
+    ];
+    ?>
+    <a class="product-showcase" href="<?= e(url_to($locale, 'product', $showcase)) ?>">
+      <span class="product-photo">
+        <img src="<?= e(asset('assets/img/products/' . $showcase . '.jpg')) ?>" alt="">
+      </span>
+      <span class="product-copy">
+        <span class="eyebrow"><?= e(t('products.' . $showcase . '.kicker')) ?></span>
+        <h3><?= e(FV_PRODUCTS[$showcase]['name']) ?></h3>
+        <p><?= e(t('products.' . $showcase . '.lead')) ?></p>
+        <ul>
+          <?php foreach (ta('products.' . $showcase . '.features') as $feature): ?>
+            <?php if (is_string($feature)): ?><li><?= e($feature) ?></li><?php endif; ?>
+          <?php endforeach; ?>
+        </ul>
+      </span>
+    </a>
+
+    <?php foreach ($productGroups as $group => $ids): ?>
+      <div class="product-band">
+        <p class="product-band-title"><?= e(t('products_block.groups.' . $group)) ?></p>
+        <div class="product-pair">
+          <?php foreach ($ids as $id): ?>
+            <a class="product-tile" href="<?= e(url_to($locale, 'product', $id)) ?>">
+              <img src="<?= e(asset('assets/img/products/' . $id . '.jpg')) ?>" alt="">
+              <span class="product-tile-body">
+                <span class="product-kicker"><?= e(t('products.' . $id . '.kicker')) ?></span>
+                <h3><?= e(FV_PRODUCTS[$id]['name']) ?></h3>
+                <p><?= e(t('products.' . $id . '.lead')) ?></p>
+                <span class="product-more" aria-hidden="true"><?= icon('arrow') ?></span>
+              </span>
+            </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+    <?php endforeach; ?>
   </div>
 </section>
 

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Administru kaj kreskigu vian komercon",
+    "home_desc": "Tute-en-unu platformo kun interretaj kaj moveblaj solvoj por distribuado, vendo, loĝistiko, aĉetado, inventaro kaj financo.",
+    "products_title": "Produktoj | FullVendor",
+    "products_desc": "Konu la ekosistemon FullVendor: komerca platformo, ERP, loĝistiko, provizantoj kaj vendoj, magazenaj kaj financaj apoj.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solvoj | FullVendor",
+    "solutions_desc": "Solvoj por komerca administrado, venda forto, magazeno, loĝistiko, aĉetado kaj financo.",
+    "industries_title": "Industrioj | FullVendor",
+    "industries_desc": "FullVendor por distribuado, podetala komerco, manĝaĵo, apoteko, aparataro, amasa konsumo, fabrikado kaj lasta mejlo.",
+    "pricing_title": "Prezoj | FullVendor",
+    "pricing_desc": "Esencaj, Profesiaj kaj Korporaciaj Planoj. La propono estas kunmetita laŭ moduloj, uzantoj kaj volumo.",
+    "resources_title": "Rimedoj | FullVendor",
+    "resources_desc": "Mallongaj gvidiloj por unuigi distribuadon, vendi eksterrete, organizi la magazenon kaj esti pagita ĝustatempe.",
+    "contact_title": "Kontaktu | FullVendor",
+    "contact_desc": "Skribu al ni por lerni pri FullVendor aŭ kunordigi konversacion kun la venda teamo.",
+    "demo_title": "Petu demonstraĵon | FullVendor",
+    "demo_desc": "Petu demonstraĵon de FullVendor kaj travojaĝu la platformon kun kazo simila al via operacio.",
+    "privacy_title": "Privateco | FullVendor",
+    "terms_title": "Kondiĉoj | FullVendor",
+    "search_title": "Serĉu | FullVendor",
+    "notfound_title": "Paĝo ne trovita | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Hejmpaĝo",
+    "products": "Produktoj",
+    "solutions": "Solvoj",
+    "industries": "Industrioj",
+    "pricing": "Prezoj",
+    "resources": "Rimedoj",
+    "contact": "Kontaktu",
+    "open_menu": "Malfermu menuon",
+    "close": "Fermu"
+  },
+  "cta": {
+    "demo": "Petu Demo",
+    "contact": "Kontaktu nin",
+    "video": "Spektu Videon",
+    "talk": "Parolu kun vendoj",
+    "all_products": "Vidu ĉiujn produktojn",
+    "home": "Reiru al ĉefpaĝo"
+  },
+  "a11y": {
+    "skip": "Saltu al enhavo",
+    "primary": "Ĉefa navigado",
+    "crumbs": "Navigada vojo",
+    "search": "Serĉu",
+    "language": "Lingvo"
+  },
+  "hero": {
+    "eyebrow": "Ĉio en unu platformo",
+    "title": "Administri kaj kreski\nvia komerco kun\n{{brand}}",
+    "subtitle": "Kompleta platformo kun interretaj kaj moveblaj solvoj por distribuado, vendo, loĝistiko, aĉetado, inventaro, financo kaj pli.",
+    "pill_ecosystem": "Ĉio en ununura ekosistemo",
+    "pill_cloud": "En la nubo, sekura kaj skalebla",
+    "pill_size": "Por kompanioj de ĉiuj grandecoj"
+  },
+  "products_block": {
+    "eyebrow": "Niaj produktoj",
+    "title": "[[kompleta ekosistemo]] por ĉiu areo de via komerco",
+    "aside": "Integritaj solvoj, kiuj funkcias kune por doni al vi totalan kontrolon, funkcian efikecon kaj pli grandan kreskon.",
+    "groups": {
+      "money": "Administrado kaj kolekto",
+      "flow": "Aĉetoj kaj livero",
+      "field": "Vendo kaj magazeno"
+    }
+  },
+  "products_page": {
+    "title": "Sep produktoj, [[ununura operacio]]",
+    "text": "Ĉiu produkto solvas areon. Kune ili dividas klientojn, akciojn, mendojn kaj pagojn."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platformo",
+      "card": "Ĉefa platformo por komerca administrado kaj distribuado.",
+      "features": [
+        "Vendoj kaj aĉetoj",
+        "Inventaro",
+        "Klientoj kaj provizantoj",
+        "Raportoj kaj pli"
+      ],
+      "lead": "La centro de via komerca operacio: mendoj, prezoj, stokoj kaj klientoj en unu loko.",
+      "about": "FullVendor anstataŭigas la malfiksajn kalkultabelojn kaj sistemojn de distribuisto. De ĉi tie eliras mendoj, inventaro estas konsultita, klienta biletujo estas prizorgata kaj la tagaj nombroj estas rigardataj. La resto de la ekosistemo ligas al ĉi tiu bazo.",
+      "benefits": [
+        {
+          "title": "Ununura datumastro",
+          "text": "Klientoj, produktoj kaj prezoj estas dividitaj kun vendoj, magazeno kaj financo."
+        },
+        {
+          "title": "Klara ĉiutaga operacio",
+          "text": "Mendoj, aĉetoj kaj akcioj ĉesas vivi en malsamaj dosieroj."
+        },
+        {
+          "title": "Raportoj por decidi",
+          "text": "Vendoj, marĝeno kaj pritraktata vidiĝas sen kunmeti tablon permane."
+        },
+        {
+          "title": "Preta kreski",
+          "text": "Loĝistiko, venda forto aŭ ERP sumoj kiam la operacio petas ĝin."
+        }
+      ],
+      "audience": "Komercaj kaj distribuaj teamoj, kiuj hodiaŭ kunordigas la komercon inter pluraj sistemoj."
+    },
+    "erp": {
+      "kicker": "Administrado",
+      "card": "Plena administra kaj financa administrado.",
+      "features": [
+        "Kontado",
+        "Elektronika fakturo",
+        "Laborfolioj",
+        "Fiksaj aktivoj",
+        "Multi-kompanio"
+      ],
+      "lead": "Administrado kaj financo, akordigita kun tio, kio estas fakte vendita kaj liverita.",
+      "about": "FullVendor ERP kovras kontadon, elektronikan fakturadon, etatojn, fiksajn aktivojn kaj multfirmaojn. Ĝi prenas la komercan operacion kaj konvertas ĝin en enskribojn, kvitancojn kaj deklarojn, kiujn la financa areo povas uzi.",
+      "benefits": [
+        {
+          "title": "Konektita kontado",
+          "text": "Kio okazas en vendoj kaj aĉetoj nutras kontadon."
+        },
+        {
+          "title": "Elektronikaj kvitancoj",
+          "text": "Vi eldonas kaj kontrolas fakturadon de la sama ekosistemo."
+        },
+        {
+          "title": "Diversaj kompanioj",
+          "text": "Plurfirmao por grupoj kiuj funkcias sub pli ol unu kompania nomo."
+        },
+        {
+          "title": "Salajroj kaj aktivoj",
+          "text": "Salajro kaj fiksaj aktivoj kune kun la resto de la administrado."
+        }
+      ],
+      "audience": "Administraj kaj financaj areoj, kiuj volas fermi la nombrojn kun la reala operacio."
+    },
+    "logistics": {
+      "kicker": "Loĝistiko",
+      "card": "Kontrolo kaj monitorado de via loĝistika operacio.",
+      "features": [
+        "Itineroj kaj liveroj",
+        "Realtempa spurado",
+        "Tasko de ŝoforo",
+        "Itinera optimumigo"
+      ],
+      "lead": "De mendo ĝis livero: itineroj, ŝoforoj kaj realtempa spurado.",
+      "about": "FullVendor Logistics organizas la dissendon. Vi kreas itinerojn, asignas ŝoforojn kaj vidas kien ĉiu livero iras. La trafika teamo ĉesas dependi de vokoj por ekscii ĉu la mendo ekspediĝis.",
+      "benefits": [
+        {
+          "title": "Itineroj de la tago",
+          "text": "Liveroj menditaj laŭ zono, tempofenestro kaj kapacito."
+        },
+        {
+          "title": "Asignita ŝoforo",
+          "text": "Ĉiu itinero havas respondeculon kaj klaran sinsekvon."
+        },
+        {
+          "title": "Sekvo",
+          "text": "Vi scias, kio estas liverita, survoje aŭ haltita."
+        },
+        {
+          "title": "Malpli da kilometroj",
+          "text": "Itinera optimumigo reduktas livertempon kaj koston."
+        }
+      ],
+      "audience": "Distribuaj operacioj kun propra floto aŭ triaj."
+    },
+    "supplier": {
+      "kicker": "Butikumado",
+      "card": "Portalo por provizantoj kaj aĉetadministrado.",
+      "features": [
+        "Aĉetmendoj",
+        "Citaĵoj",
+        "Administrado de provizantoj",
+        "Integriĝo kun inventaro"
+      ],
+      "lead": "Viaj provizantoj citas, ricevas mendojn kaj replenigas stokojn sen malfiksaj retpoŝtoj.",
+      "about": "Vendor Supplier malfermas portalon por aĉetoj kaj provizantoj por labori pri la samaj mendoj. Citaĵoj, aĉetmendoj kaj kvitanco estas ligitaj al la inventaro de FullVendor.",
+      "benefits": [
+        {
+          "title": "Mendoj en kanalo",
+          "text": "La provizanto vidas kion liveri, sen retpoŝta ĉeno."
+        },
+        {
+          "title": "Kompareblaj citaĵoj",
+          "text": "Vi petas prezojn kaj elektas kun la historio en vido."
+        },
+        {
+          "title": "Provizanto Majstro",
+          "text": "Kondiĉoj, kontaktoj kaj pritraktataj en ununura registro."
+        },
+        {
+          "title": "Enigu la inventaron",
+          "text": "Kio estis aĉetita estas reflektita en la stoko kiam ĝi estas ricevita."
+        }
+      ],
+      "audience": "Aĉetaj teamoj, kiuj plenigas per pluraj provizantoj kaj bezonas spureblecon."
+    },
+    "salesman": {
+      "kicker": "Poŝtelefona aplikaĵo",
+      "card": "Poŝtelefona aplikaĵo por venda teamo.",
+      "features": [
+        "Administrado de klientoj",
+        "Preno de ordono",
+        "Produkta katalogo",
+        "Senrete laboro"
+      ],
+      "lead": "La venda forto prenas mendojn surstrate, kun aŭ sen signalo.",
+      "about": "FullVendor Sales Man metas vian biletujon, katalogon kaj mendon alprenante la telefonon de la vendisto. Se ne ekzistas interreto, la laboro daŭras kaj sinkronigas kiam la signalo revenas. La mendo alvenas preta por prepari kaj liveri.",
+      "benefits": [
+        {
+          "title": "Monujo en la poŝo",
+          "text": "La vendisto vidas klientojn, kondiĉojn kaj pritraktatajn erojn."
+        },
+        {
+          "title": "Mendu ĉe vizito",
+          "text": "Prenu la mendon kun aktualaj prezoj kaj stoko."
+        },
+        {
+          "title": "Katalogo ĝisdata",
+          "text": "Produktoj, prezentoj kaj prezoj sen malnova PDF."
+        },
+        {
+          "title": "Vera eksterrete",
+          "text": "Laboru sen kovrado kaj sinkronigu poste."
+        }
+      ],
+      "audience": "Kontrolistoj kaj kampaj vendistoj en distribuo kaj amaskonsumo."
+    },
+    "warehouse": {
+      "kicker": "Poŝtelefona aplikaĵo",
+      "card": "Poŝtelefona aplikaĵo por magazeno.",
+      "features": [
+        "Akcepto kaj sendo",
+        "Plukado kaj pakado",
+        "Stokkontrolo",
+        "Strekkoda legado"
+      ],
+      "lead": "Akcepto, elektado kaj sendo kun la telefono kaj strekokodo.",
+      "about": "FullVendor Warehouse gvidas la magazenon en akcepto, plukado, pakado kaj sendo. Legado de kodoj reduktas erarojn kaj inventaro ne plu estas kalkulita nur fine de la monato.",
+      "benefits": [
+        {
+          "title": "Akcepto kontraŭ ordo",
+          "text": "Kio eniras estas komparata kun la aĉeto."
+        },
+        {
+          "title": "Celita elektado",
+          "text": "La ŝipposedanto sekvas la ordon kaj konfirmas ĉiun objekton."
+        },
+        {
+          "title": "Strekkodoj",
+          "text": "Malpli da eraroj de produkto, aro aŭ kvanto."
+        },
+        {
+          "title": "Fidinda stoko",
+          "text": "Ĉiu movo ĝisdatigas la inventaron de la platformo."
+        }
+      ],
+      "audience": "Magazenestroj kaj ŝipposedantoj, kiuj hodiaŭ preparas mendojn kun presitaj listoj."
+    },
+    "finance": {
+      "kicker": "Poŝtelefona aplikaĵo",
+      "card": "Financa kontrolo de via poŝtelefono.",
+      "features": [
+        "Kontoj riceveblaj kaj pagendaj",
+        "Kliento statuso",
+        "Pagoj kaj repaciĝoj",
+        "Financaj raportoj"
+      ],
+      "lead": "Kontoj riceveblaj, pagoj kaj kliento-statuso, de via telefono.",
+      "about": "FullVendor Finance montras la kolekton sur la poŝtelefono: kion ĉiu kliento ŝuldas, kion la firmao estas pagonta kaj kiel la pagoj venas. Ĝi estas uzata por kolekti monon dum la vizito kaj por rigardi la kason sen malfermi la skribotablon.",
+      "benefits": [
+        {
+          "title": "Kolekto ĉe la vizito",
+          "text": "La vendisto scias ĉu la kliento estas ĝisdatigita antaŭ ol vendi."
+        },
+        {
+          "title": "Ricevebla kaj pagenda",
+          "text": "Ambaŭ flankoj de la skatolo en la sama programo."
+        },
+        {
+          "title": "Pagoj kaj repaciĝoj",
+          "text": "Vi registras kreditojn kaj vidas tion, kion oni devas transiri."
+        },
+        {
+          "title": "Raportoj ĉe mano",
+          "text": "Kolekto- kaj monindikiloj sen atendi fermon."
+        }
+      ],
+      "audience": "Perantoj, kolektantoj kaj vendistoj, kiuj bezonas la situacion de la kliento nuntempe."
+    }
+  },
+  "why": {
+    "eyebrow": "Kial FullVendor",
+    "title": "Plifortigu vian komercon\nkun realaj rezultoj",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Firmaoj fidas nin"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktivaj uzantoj"
+      },
+      {
+        "value": "+10",
+        "suffix": "jaroj",
+        "label": "En konstanta evoluo"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Nuba havebleco"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kiel ĝi funkcias",
+    "title": "De vendo ĝis kolekto, sen ŝanĝi sistemojn",
+    "text": "Ĉiu produkto dividas klientojn, akciojn, mendojn kaj pagojn. Kio okazas surstrate aŭ en la magazeno, tuj aperas en la oficejo.",
+    "steps": {
+      "sell": {
+        "title": "Vi vendas",
+        "text": "La mendo estas enmetita per la retejo aŭ per Sales Man, eĉ sen signalo."
+      },
+      "pick": {
+        "title": "Preta",
+        "text": "Warehouse ricevas, disigas kaj sendas kun strekkodo."
+      },
+      "deliver": {
+        "title": "Liveroj",
+        "text": "Logistics asignas la itineron kaj sekvas la transdonon."
+      },
+      "collect": {
+        "title": "Kobroj",
+        "text": "Finance kaj ERP fermas la kolekton, la kvitancojn kaj la numerojn."
+      }
+    }
+  },
+  "band": {
+    "title": "Ĉu vi pretas vidi ĝin kun [[via operacio]]?",
+    "text": "Ni montras al vi la ekosistemon kun distribua kazo simila al via."
+  },
+  "footer": {
+    "blurb": "Reta kaj movebla platformo por distribuado, vendo, loĝistiko, aĉetado, inventaro kaj financo.",
+    "products": "Produktoj",
+    "company": "Kompanio",
+    "legal": "Laŭleĝa",
+    "privacy": "Privateco",
+    "terms": "Kondiĉoj",
+    "rights": "Ĉiuj rajtoj rezervitaj."
+  },
+  "solutions": {
+    "eyebrow": "Solvoj",
+    "title": "Ĉiu areo, ligita al la [[sama operacio]]",
+    "intro": "Elektu laŭ la problemo, kiun vi volas solvi. Malantaŭe, la produktoj dividas la samajn informojn.",
+    "items": {
+      "commercial": {
+        "title": "Komerca administrado",
+        "text": "Mendoj, prezoj, klientoj kaj inventaro por ĉiutaga distribuo."
+      },
+      "field": {
+        "title": "venda forto",
+        "text": "Vendistoj prenante mendojn surstrate, interrete aŭ eksterrete."
+      },
+      "warehouse": {
+        "title": "Vendejo",
+        "text": "Ricevo, plukado, sendo kaj stoko, kiu povas esti fidinda."
+      },
+      "logistics": {
+        "title": "Loĝistiko kaj livero",
+        "text": "Itineroj, ŝoforoj kaj la stato de ĉiu livero."
+      },
+      "purchasing": {
+        "title": "Aĉetado kaj provizantoj",
+        "text": "Citaĵoj, mendoj kaj portalo por kiu ajn provizas vin."
+      },
+      "finance": {
+        "title": "Financo kaj kontado",
+        "text": "Kolektoj, pagoj, elektronika fakturado kaj kontado."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrioj",
+    "title": "Farita por tiuj, kiuj [[movas produkton]]",
+    "intro": "FullVendor naskiĝis en distribuado kaj akompanas kompaniojn, kiuj aĉetas, stokas, vendas kaj liveras.",
+    "items": {
+      "wholesale": {
+        "title": "Distribuado kaj pogranda",
+        "text": "Prezlistoj, biletujo, distribuo kaj kolekto en ununura cirkvito."
+      },
+      "retail": {
+        "title": "Podetala komerco",
+        "text": "Vendejo kaj magazeno kun koneksa stoko, vendo kaj replenigo."
+      },
+      "food": {
+        "title": "Manĝaĵoj kaj trinkaĵoj",
+        "text": "Oftaj vojoj kaj magazeno, kiu ne povas halti."
+      },
+      "pharma": {
+        "title": "Apoteko kaj persona prizorgo",
+        "text": "Akcepto, elektado kaj stokregistrokontrolo kun spurebleco."
+      },
+      "hardware": {
+        "title": "Aparataro kaj konstruo",
+        "text": "Multaj referencoj, provizantoj kaj transdonoj al laboro aŭ vendejo."
+      },
+      "fmcg": {
+        "title": "Amasa konsumo",
+        "text": "Strata venda forto kaj alta spezo-anstataŭaĵo."
+      },
+      "manufacturing": {
+        "title": "Fabrikado",
+        "text": "Aĉetado, stokejo kaj stokregistro akordigita kun administrado."
+      },
+      "lastmile": {
+        "title": "Livero kaj lasta mejlo",
+        "text": "Itineroj, ŝoforoj kaj la stato de ĉiu livero."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Rimedoj",
+    "title": "Klaraj ideoj por [[ordigi la operacion]]",
+    "intro": "Mallongaj gvidiloj por distribuaj administrantoj, kiuj decidos, kiun sistemon resti.",
+    "items": {
+      "unify": {
+        "title": "Kiel unuigi distribuon en ununuran sistemon",
+        "summary": "Kion unue kunmeti kiam vendoj, magazenoj kaj kolektoj vivas en malsamaj dosieroj.",
+        "points": [
+          "Komencu kun klientoj, produktoj kaj prezoj: ili estas la instruisto, kiun ĉiuj uzas.",
+          "Konektu la mendon kun la stoko antaŭ ol aldoni pliajn aplikojn.",
+          "Ĝi mezuras simplan nombron: mendoj plenumitaj sen refari la formularon."
+        ]
+      },
+      "offline": {
+        "title": "Vendforto laboranta eksterrete",
+        "summary": "Kion postuli de menda apo por ke la vendisto ne ĉesu pro la signalo.",
+        "points": [
+          "La katalogo kaj monujo devas esti ĉe la telefono, ne nur en la nubo.",
+          "La mendo estas konservita sur la aparato kaj alŝutita kiam la reto revenas.",
+          "Sinkronigante, la mendo jam eniras la magazenon."
+        ]
+      },
+      "warehouse": {
+        "title": "Stokejo kun strekokodo, sen papero",
+        "summary": "Kiel iri de la presita listo al konfirmita elekto sur la telefono.",
+        "points": [
+          "Ricevu kontraŭ la aĉetmendo, ne kontraŭ memoro.",
+          "Konfirmu ĉiun eron dum disiĝo. La cimo tranĉas en la koridoron.",
+          "La sendo ĝisdatigas la stokon, kiun la vendisto vidas."
+        ]
+      },
+      "finance": {
+        "title": "Kolekto akordigita kun la vendo",
+        "summary": "Kial la vendisto devus vidi la ŝuldon de la kliento antaŭ ol preni alian mendon.",
+        "points": [
+          "La vizito estas la plej bona tempo por kolekti, se la ŝuldo estas videbla.",
+          "Vendo kaj financo devas rigardi la saman klienton.",
+          "Ĉiutaga posttempa raporto valoras pli ol malfrua fermo."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prezoj",
+    "title": "Ekosistemo kiu [[kreskas kun vi]]",
+    "intro": "Ni ne publikigas ĝeneralan tarifon: la kosto dependas de la moduloj, uzantoj kaj volumo. Ni montras al vi la platformon kaj kunmetas proponon kun via operacio.",
+    "note": "La demo ne havas koston kaj ne postulas kontrakton.",
+    "recommended": "Rekomendita",
+    "faq_title": "Oftaj demandoj",
+    "plans": {
+      "essential": {
+        "name": "Esenca",
+        "desc": "Organizi komercan administradon kaj distribuadon sur ununura platformo.",
+        "features": [
+          "FullVendor retejo platformo",
+          "Vendoj, aĉetoj kaj inventaro",
+          "Klientoj, provizantoj kaj raportoj",
+          "Uzantoj de oficejaj ekipaĵoj",
+          "Komenca subteno"
+        ],
+        "cta": "Petu Demo"
+      },
+      "professional": {
+        "name": "Profesia",
+        "desc": "Por teamoj, kiuj vendas surstrate kaj preparas mendojn en la magazeno.",
+        "features": [
+          "Ĉio Esenca",
+          "Apo FullVendor Sales Man",
+          "Apo FullVendor Warehouse",
+          "Senreta laboro kaj strekokodoj",
+          "Pli da kampo kaj magazenaj uzantoj"
+        ],
+        "cta": "Petu Demo"
+      },
+      "corporate": {
+        "name": "Korporacia",
+        "desc": "Por grupoj kiuj bezonas loĝistikon, aĉetadon, financon kaj diversajn kompaniojn.",
+        "features": [
+          "Kompleta ekosistemo",
+          "Logistics, Vendor Supplier kaj Finance",
+          "FullVendor ERP kaj plurluado",
+          "Elektronika fakturado kaj kontado",
+          "Akompano kaj prioritata havebleco"
+        ],
+        "cta": "Parolu kun vendoj"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ĉu mi devas aĉeti ĉiujn produktojn?",
+        "a": "Ne. Vi povas komenci per FullVendor kaj aldoni apojn aŭ ERP kiam la operacio bezonas ĝin."
+      },
+      "offline": {
+        "q": "Ĉu la aplikaĵoj funkcias sen interreto?",
+        "a": "Sales Man kaj Warehouse daŭre funkcias sen signalo kaj sinkronigas dum rekonekto."
+      },
+      "multi": {
+        "q": "Ĉu ĝi funkcias se mi havas pli ol unu kompanion?",
+        "a": "Jes. ERP kontemplas multfirmaon kaj la ekosistemo povas dividi mastrojn inter ili."
+      },
+      "demo": {
+        "q": "Kion inkluzivas la demo?",
+        "a": "Travojaĝo de la platformo kun kazo simila al via. Neniu kosto kaj neniu devo."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ni montras al vi FullVendor per [[via tipo de operacio]]",
+    "text": "Diru al ni pri via kompanio kaj kion vi volas mendi unue. La demo ne havas koston."
+  },
+  "contact": {
+    "eyebrow": "Kontaktu",
+    "title": "Ni parolu pri [[via operacio]]",
+    "text": "Se vi volas demonstraĵon, proponon aŭ simple orientiĝi inter la produktoj, lasu viajn informojn kaj ni respondos.",
+    "email": "Poŝto",
+    "phone": "Telefono",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nomo",
+    "email": "Poŝto",
+    "phone": "Telefono",
+    "company": "Kompanio",
+    "country": "Lando",
+    "team": "Teama grandeco",
+    "interest": "Kio interesas vin?",
+    "message": "Mesaĝo",
+    "optional": "Laŭvola",
+    "choose": "Elektu",
+    "interest_all": "La tuta ekosistemo",
+    "ph_name": "via nomo",
+    "ph_email": "vi@firmao.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Via kompanio",
+    "ph_country": "Lando",
+    "ph_message": "Diru al ni kiel vi funkcias hodiaŭ",
+    "privacy_before": "Mi akceptas la uzon de miaj datumoj laŭ la",
+    "privacy_after": ".",
+    "submit": "Sendu peton",
+    "sent_title": "Ni ricevas vian peton",
+    "sent_text": "Dankon. La venda teamo skribos al vi por kunordigi la demo aŭ respondi vian demandon.",
+    "error_required": "Kompletigu ĉi tiun kampon.",
+    "error_email": "Enigu validan retpoŝton.",
+    "error_phone": "Kontrolu la telefonon.",
+    "error_privacy": "Ni bezonas vian konsenton por uzi kontaktajn detalojn.",
+    "error_csrf": "La sesio eksvalidiĝis. Resendu la formularon.",
+    "error_save": "Ni ne povis konservi la peton. Provu denove.",
+    "error_generic": "Revizu la markitajn kampojn.",
+    "error_rate": "Bonvolu atendi momenton antaŭ sendi alian peton.",
+    "team_options": {
+      "1-10": "1 ĝis 10 personoj",
+      "11-50": "11 ĝis 50 homoj",
+      "51-200": "51 ĝis 200 homoj",
+      "201-500": "201 ĝis 500 homoj",
+      "500+": "Pli ol 500 homoj"
+    }
+  },
+  "video": {
+    "title": "FullVendor en unu minuto",
+    "prev": "Iama",
+    "next": "Sekvante",
+    "slides": [
+      {
+        "title": "Ununura ekosistemo",
+        "text": "Vendo, magazeno, livero, aĉetado kaj financo kundividas klientojn, stokojn kaj mendojn."
+      },
+      {
+        "title": "Retejo kaj poŝtelefono kune",
+        "text": "La oficejo funkcias sur la platformo. La strato kaj la magazeno, en la apps, eĉ sen signalo."
+      },
+      {
+        "title": "Farita por distribui",
+        "text": "De mendo ĝis pago, sen pasi informojn de unu dosiero al alia."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Serĉu produktojn, solvojn, industriojn...",
+    "lang_filter": "Serĉu lingvon",
+    "intro": "Serĉu produktojn, solvojn, industriojn kaj rimedojn.",
+    "empty": "Ni ne trovis rezultojn por “{q}”.",
+    "hint": "Provu vendojn, magazenon, itinerojn aŭ kolektojn.",
+    "results": "{n} rezultoj",
+    "button": "Serĉu",
+    "kind_product": "Produkto",
+    "kind_solution": "Solvo",
+    "kind_industry": "Industrio",
+    "kind_resource": "Rimedo"
+  },
+  "notfound": {
+    "title": "Ĉi tiu paĝo ne estas",
+    "text": "La ligilo ne ekzistas aŭ ŝanĝis lokon."
+  },
+  "common": {
+    "what": "Kio solvas",
+    "features": "Kio estas inkluzivita",
+    "benefits": "Kial gravas",
+    "for_who": "Por kiu ĝi estas?",
+    "related": "Ankaŭ en la ekosistemo"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vendoj hodiaŭ",
+      "orders": "Mendoj",
+      "clients": "Klientoj",
+      "products": "Produktoj"
+    },
+    "sidebar": {
+      "dashboard": "Panelo",
+      "sales": "Vendoj",
+      "purchases": "Butikumado",
+      "inventory": "Inventaro",
+      "clients": "Klientoj",
+      "reports": "Raportoj"
+    },
+    "chart": "Vendoj",
+    "channel": "Distribuado laŭ kanalo",
+    "channels": [
+      "Vendejo",
+      "Distribuado",
+      "Pograndisto",
+      "Aliaj"
+    ],
+    "orders": "Plej novaj mendoj",
+    "col_order": "Ordonu",
+    "col_client": "Kliento",
+    "col_status": "Ŝtato",
+    "col_total": "Entute",
+    "status": [
+      "Liverita",
+      "Survoje",
+      "Orelringo"
+    ],
+    "top": "Plej vendataj produktoj",
+    "product": "Produkto",
+    "sales_menu": [
+      "Klientoj",
+      "Mendoj",
+      "Produktoj",
+      "Itineroj",
+      "Sinkronigi"
+    ],
+    "warehouse_menu": [
+      "Akcepto",
+      "Plukado",
+      "Inventaro",
+      "Sendo",
+      "Sinkronigi"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privateca Politiko",
+    "privacy_intro": "Ĉi tiu politiko klarigas, kion ni faras kun la datumoj, kiujn vi lasas en formularoj en ĉi tiu retejo.",
+    "privacy": [
+      {
+        "title": "Kiajn datumojn ni kolektas",
+        "text": "Se vi petas demo aŭ skribas al ni, ni konservas la nomon, firmaon, retpoŝton, telefonnumeron se vi indikas ĝin, la landon, la grandecon de la teamo, la produkton de intereso kaj la mesaĝon. Ni ankaŭ registras la daton, la lingvon de la paĝo kaj la IP-adreson, por malhelpi misurajn sendadojn."
+      },
+      {
+        "title": "Por kio ni uzas ilin?",
+        "text": "Ni uzas ĉi tiujn datumojn nur por respondi al vi, kunordigi demo kaj prepari komercan proponon. Ni ne vendas ilin aŭ donas ilin al listo de triaj."
+      },
+      {
+        "title": "Kie ili estas konservitaj kaj kiom longe?",
+        "text": "Petoj estas konservitaj en la servilo de ĉi tiu retejo. Ni konservas ilin dum la tempo necesa por servi vin kaj komercan sekvadon, kaj ni forigas ilin kiam vi petas de ni aŭ kiam ili ne plu bezonas."
+      },
+      {
+        "title": "Viaj rajtoj",
+        "text": "Vi povas peti aliron, korekton aŭ forigon de viaj datumoj de la kontaktformularo, indikante ĝin en la mesaĝo. Se la kompanio publikigas retmesaĝon en ĉi tiu retejo, vi ankaŭ povas skribi tie."
+      }
+    ],
+    "terms_title": "Kondiĉoj de uzo",
+    "terms_intro": "Ĉi tiuj kondiĉoj validas por la uzo de ĉi tiu submetejo FullVendor.",
+    "terms": [
+      {
+        "title": "Komercaj informoj",
+        "text": "Tekstoj, ekzemploj de instrumenttabulo-ciferoj kaj priskriboj enkondukas la platformon. Ili povas esti ĝustigitaj kiam la produkto ŝanĝiĝas kaj ne estas fermita oferto."
+      },
+      {
+        "title": "La demo ne estas kontrakto",
+        "text": "Sendi la formularon ne kreas devon aĉeti aŭ rezervi prezon. Ĉiu kontrakto estas interkonsentita aparte, skribe, kun ĝia amplekso kaj kondiĉoj."
+      },
+      {
+        "title": "Enhavo de la retejo",
+        "text": "La varmarko FullVendor, produktnomoj kaj la enhavo de ĉi tiuj paĝoj apartenas al iliaj posedantoj. Ili ne povas esti kopiitaj por prezenti alian produkton."
+      },
+      {
+        "title": "Akceptebla uzo",
+        "text": "Ne uzu la formojn por sendi falsajn informojn, spamon aŭ kontraŭleĝan enhavon. Ni povas ignori petojn, kiuj ne respondas al reala komerca konversacio."
+      }
+    ]
+  }
+}

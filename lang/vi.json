@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Quản lý và phát triển doanh nghiệp của bạn",
+    "home_desc": "Nền tảng tất cả trong một với các giải pháp web và di động dành cho phân phối, bán hàng, hậu cần, mua hàng, tồn kho và tài chính.",
+    "products_title": "Sản phẩm | FullVendor",
+    "products_desc": "Tìm hiểu hệ sinh thái FullVendor: nền tảng thương mại, ERP, hậu cần, nhà cung cấp và ứng dụng bán hàng, kho hàng và tài chính.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Giải pháp | FullVendor",
+    "solutions_desc": "Giải pháp về quản lý thương mại, lực lượng bán hàng, kho bãi, hậu cần, mua hàng và tài chính.",
+    "industries_title": "Công nghiệp | FullVendor",
+    "industries_desc": "FullVendor dành cho phân phối, bán lẻ, thực phẩm, dược phẩm, phần cứng, tiêu dùng đại trà, sản xuất và chặng cuối.",
+    "pricing_title": "Giá | FullVendor",
+    "pricing_desc": "Các kế hoạch thiết yếu, chuyên nghiệp và doanh nghiệp. Đề xuất được tập hợp lại theo mô-đun, người dùng và khối lượng.",
+    "resources_title": "Tài nguyên | FullVendor",
+    "resources_desc": "Hướng dẫn ngắn gọn thống nhất phân phối, bán hàng offline, sắp xếp kho hàng và nhận lương đúng hạn.",
+    "contact_title": "Liên hệ | FullVendor",
+    "contact_desc": "Viết thư cho chúng tôi để tìm hiểu về FullVendor hoặc phối hợp trò chuyện với nhóm bán hàng.",
+    "demo_title": "Yêu cầu demo | FullVendor",
+    "demo_desc": "Yêu cầu bản demo FullVendor và tham quan nền tảng với trường hợp tương tự như hoạt động của bạn.",
+    "privacy_title": "Quyền riêng tư | FullVendor",
+    "terms_title": "Điều khoản | FullVendor",
+    "search_title": "Tìm kiếm | FullVendor",
+    "notfound_title": "Không tìm thấy trang | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Các sản phẩm",
+    "solutions": "Giải pháp",
+    "industries": "ngành công nghiệp",
+    "pricing": "Giá cả",
+    "resources": "Tài nguyên",
+    "contact": "Liên hệ",
+    "open_menu": "Mở trình đơn",
+    "close": "Đóng"
+  },
+  "cta": {
+    "demo": "Yêu cầu bản demo",
+    "contact": "Liên hệ với chúng tôi",
+    "video": "Xem video",
+    "talk": "Nói chuyện với người bán hàng",
+    "all_products": "Xem tất cả sản phẩm",
+    "home": "Trở về trang chủ"
+  },
+  "a11y": {
+    "skip": "Chuyển đến nội dung",
+    "primary": "Điều hướng chính",
+    "crumbs": "Tuyến đường điều hướng",
+    "search": "tìm kiếm",
+    "language": "Ngôn ngữ"
+  },
+  "hero": {
+    "eyebrow": "Tất cả trong một nền tảng",
+    "title": "Quản lý và phát triển\ndoanh nghiệp của bạn với\n{{brand}}",
+    "subtitle": "Một nền tảng hoàn chỉnh với các giải pháp web và di động dành cho phân phối, bán hàng, hậu cần, mua hàng, tồn kho, tài chính, v.v.",
+    "pill_ecosystem": "Mọi thứ trong một hệ sinh thái duy nhất",
+    "pill_cloud": "Trên đám mây, an toàn và có thể mở rộng",
+    "pill_size": "Dành cho các công ty thuộc mọi quy mô"
+  },
+  "products_block": {
+    "eyebrow": "Sản phẩm của chúng tôi",
+    "title": "Một [[hệ sinh thái hoàn chỉnh]] cho từng lĩnh vực kinh doanh của bạn",
+    "aside": "Các giải pháp tích hợp phối hợp với nhau để mang lại cho bạn khả năng kiểm soát toàn diện, hiệu quả hoạt động và mức tăng trưởng cao hơn.",
+    "groups": {
+      "money": "Quản lý và thu thập",
+      "flow": "Mua hàng và giao hàng",
+      "field": "Bán hàng và kho bãi"
+    }
+  },
+  "products_page": {
+    "title": "Bảy sản phẩm, [[hoạt động đơn lẻ]]",
+    "text": "Mỗi sản phẩm giải quyết một lĩnh vực. Họ cùng nhau chia sẻ khách hàng, cổ phiếu, đơn đặt hàng và thanh toán."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Nền tảng",
+      "card": "Nền tảng chính để quản lý và phân phối thương mại.",
+      "features": [
+        "Bán hàng và mua hàng",
+        "Hàng tồn kho",
+        "Khách hàng và nhà cung cấp",
+        "Báo cáo và hơn thế nữa"
+      ],
+      "lead": "Trung tâm hoạt động thương mại của bạn: đơn đặt hàng, giá cả, hàng tồn kho và khách hàng ở cùng một nơi.",
+      "about": "FullVendor thay thế các bảng tính và hệ thống lỏng lẻo của nhà phân phối. Từ đây các đơn đặt hàng xuất hiện, hàng tồn kho được tư vấn, danh mục khách hàng được chăm sóc và các con số trong ngày được xem xét. Phần còn lại của hệ sinh thái kết nối với cơ sở này.",
+      "benefits": [
+        {
+          "title": "Một bậc thầy dữ liệu duy nhất",
+          "text": "Khách hàng, sản phẩm và giá cả được chia sẻ với bộ phận bán hàng, kho hàng và tài chính."
+        },
+        {
+          "title": "Hoạt động hàng ngày rõ ràng",
+          "text": "Đơn đặt hàng, mua hàng và hàng tồn kho không còn tồn tại trong các tệp khác nhau."
+        },
+        {
+          "title": "Báo cáo để quyết định",
+          "text": "Doanh thu, lợi nhuận và chờ xử lý được nhìn thấy mà không cần lập bảng bằng tay."
+        },
+        {
+          "title": "Sẵn sàng để phát triển",
+          "text": "Hậu cần, lực lượng bán hàng hoặc các khoản tiền ERP khi hoạt động yêu cầu."
+        }
+      ],
+      "audience": "Các nhóm thương mại và phân phối ngày nay điều phối hoạt động kinh doanh giữa một số hệ thống."
+    },
+    "erp": {
+      "kicker": "Sự quản lý",
+      "card": "Hoàn thiện công tác quản lý hành chính và tài chính.",
+      "features": [
+        "Kế toán",
+        "Thanh toán điện tử",
+        "Bảng tính",
+        "Tài sản cố định",
+        "Đa công ty"
+      ],
+      "lead": "Quản lý và tài chính, phù hợp với những gì thực sự được bán và giao.",
+      "about": "FullVendor ERP bao gồm kế toán, hóa đơn điện tử, bảng lương, tài sản cố định và đa công ty. Nó thực hiện hoạt động thương mại và chuyển nó thành các mục, biên lai và báo cáo mà khu vực tài chính có thể sử dụng.",
+      "benefits": [
+        {
+          "title": "Kế toán kết nối",
+          "text": "Điều gì xảy ra trong kế toán nguồn cấp dữ liệu bán hàng và mua hàng."
+        },
+        {
+          "title": "Biên lai điện tử",
+          "text": "Bạn phát hành và kiểm soát việc thanh toán từ cùng một hệ sinh thái."
+        },
+        {
+          "title": "Nhiều công ty khác nhau",
+          "text": "Đa công ty dành cho các nhóm hoạt động dưới nhiều tên công ty."
+        },
+        {
+          "title": "Tiền lương và tài sản",
+          "text": "Bảng lương và tài sản cố định cùng với phần còn lại của việc quản lý."
+        }
+      ],
+      "audience": "Khu vực hành chính, tài chính muốn chốt số với hoạt động thực tế."
+    },
+    "logistics": {
+      "kicker": "hậu cần",
+      "card": "Kiểm soát và giám sát hoạt động hậu cần của bạn.",
+      "features": [
+        "Các tuyến đường và giao hàng",
+        "Theo dõi thời gian thực",
+        "Phân công lái xe",
+        "Tối ưu hóa tuyến đường"
+      ],
+      "lead": "Từ đặt hàng đến giao hàng: tuyến đường, tài xế và theo dõi thời gian thực.",
+      "about": "FullVendor Logistics tổ chức phân phối. Bạn tạo các tuyến đường, chỉ định tài xế và xem mỗi lần giao hàng sẽ đi đâu. Đội giao thông dừng lại tùy theo cuộc gọi để tìm hiểu xem đơn hàng đã được chuyển chưa.",
+      "benefits": [
+        {
+          "title": "Các tuyến đường trong ngày",
+          "text": "Việc giao hàng được sắp xếp theo khu vực, thời gian và năng lực."
+        },
+        {
+          "title": "Lái xe được chỉ định",
+          "text": "Mỗi tuyến đường đều có người phụ trách và trình tự rõ ràng."
+        },
+        {
+          "title": "Theo dõi",
+          "text": "Bạn biết những gì được giao, trên đường đi hoặc dừng lại."
+        },
+        {
+          "title": "Ít km hơn",
+          "text": "Tối ưu hóa tuyến đường giúp giảm thời gian và chi phí giao hàng."
+        }
+      ],
+      "audience": "Hoạt động phân phối với đội tàu riêng hoặc bên thứ ba."
+    },
+    "supplier": {
+      "kicker": "Mua sắm",
+      "card": "Cổng thông tin dành cho nhà cung cấp và quản lý mua hàng.",
+      "features": [
+        "Đơn đặt hàng",
+        "Báo giá",
+        "Quản lý nhà cung cấp",
+        "Tích hợp với hàng tồn kho"
+      ],
+      "lead": "Nhà cung cấp của bạn báo giá, nhận đơn đặt hàng và bổ sung hàng hóa mà không cần gửi email.",
+      "about": "Vendor Supplier mở ra một cổng thông tin để người mua và nhà cung cấp làm việc theo cùng một đơn đặt hàng. Báo giá, đơn đặt hàng và biên lai được gắn với lượng hàng tồn kho FullVendor.",
+      "benefits": [
+        {
+          "title": "Đơn đặt hàng trong một kênh",
+          "text": "Nhà cung cấp biết những gì cần gửi mà không cần chuỗi email."
+        },
+        {
+          "title": "Báo giá so sánh",
+          "text": "Bạn hỏi giá và chọn theo lịch sử."
+        },
+        {
+          "title": "Bậc thầy về nhà cung cấp",
+          "text": "Điều kiện, địa chỉ liên lạc và đang chờ xử lý trong một bản ghi duy nhất."
+        },
+        {
+          "title": "Nhập hàng tồn kho",
+          "text": "Những gì đã mua sẽ được phản ánh trong kho khi nó được nhận."
+        }
+      ],
+      "audience": "Nhóm mua hàng bổ sung với một số nhà cung cấp và cần truy xuất nguồn gốc."
+    },
+    "salesman": {
+      "kicker": "Ứng dụng di động",
+      "card": "Ứng dụng di động dành cho đội ngũ bán hàng.",
+      "features": [
+        "Quản lý khách hàng",
+        "Nhận đơn hàng",
+        "Danh mục sản phẩm",
+        "Làm việc ngoại tuyến"
+      ],
+      "lead": "Lực lượng bán hàng nhận đơn đặt hàng trên đường phố, có hoặc không có tín hiệu.",
+      "about": "FullVendor Sales Man đưa danh mục đầu tư, danh mục và đơn đặt hàng của bạn vào điện thoại của người bán. Nếu không có internet, công việc vẫn tiếp tục và đồng bộ khi có tín hiệu trở lại. Đơn hàng đã đến sẵn sàng để chuẩn bị và giao hàng.",
+      "benefits": [
+        {
+          "title": "Ví trong túi",
+          "text": "Người bán nhìn thấy khách hàng, điều kiện và các mặt hàng đang chờ xử lý."
+        },
+        {
+          "title": "Đặt hàng khi ghé thăm",
+          "text": "Nhận đơn đặt hàng với giá hiện tại và cổ phiếu."
+        },
+        {
+          "title": "Danh mục được cập nhật",
+          "text": "Sản phẩm, bài thuyết trình và giá cả không có bản PDF cũ."
+        },
+        {
+          "title": "Thực nhé",
+          "text": "Làm việc mà không cần bảo hiểm và đồng bộ hóa sau này."
+        }
+      ],
+      "audience": "Người giám sát và nhân viên bán hàng tại khu vực phân phối và tiêu dùng đại chúng."
+    },
+    "warehouse": {
+      "kicker": "Ứng dụng di động",
+      "card": "Ứng dụng di động cho kho.",
+      "features": [
+        "Tiếp nhận và gửi đi",
+        "Chọn và đóng gói",
+        "Kiểm soát hàng tồn kho",
+        "Đọc mã vạch"
+      ],
+      "lead": "Tiếp nhận, lấy hàng và gửi hàng bằng điện thoại và mã vạch.",
+      "about": "FullVendor Warehouse hướng dẫn kho trong việc tiếp nhận, lấy hàng, đóng gói và gửi đi. Việc đọc mã giúp giảm sai sót và hàng tồn kho không còn chỉ được tính vào cuối tháng.",
+      "benefits": [
+        {
+          "title": "Tiếp nhận trái lệnh",
+          "text": "Những gì nhập vào được so sánh với việc mua hàng."
+        },
+        {
+          "title": "Chọn mục tiêu",
+          "text": "Chủ tàu làm theo đơn và xác nhận từng món."
+        },
+        {
+          "title": "Mã vạch",
+          "text": "Ít lỗi về sản phẩm, lô hàng hoặc số lượng hơn."
+        },
+        {
+          "title": "Cổ phiếu đáng tin cậy",
+          "text": "Mỗi động thái sẽ cập nhật kho hàng của nền tảng."
+        }
+      ],
+      "audience": "Người quản lý kho hàng và chủ tàu ngày nay chuẩn bị đơn đặt hàng với danh sách in sẵn."
+    },
+    "finance": {
+      "kicker": "Ứng dụng di động",
+      "card": "Kiểm soát tài chính từ điện thoại di động của bạn.",
+      "features": [
+        "Các khoản phải thu và phải trả",
+        "Trạng thái khách hàng",
+        "Thanh toán và đối chiếu",
+        "Báo cáo tài chính"
+      ],
+      "lead": "Các khoản phải thu, thanh toán và trạng thái khách hàng, từ điện thoại của bạn.",
+      "about": "FullVendor Finance hiển thị bộ sưu tập trên thiết bị di động: mỗi khách hàng nợ những gì, công ty sắp trả những gì và các khoản thanh toán đến như thế nào. Nó được sử dụng để thu tiền trong chuyến thăm và nhìn vào máy tính tiền mà không cần mở bàn.",
+      "benefits": [
+        {
+          "title": "Thu thập tại chuyến thăm",
+          "text": "Người bán biết liệu khách hàng có cập nhật hay không trước khi bán."
+        },
+        {
+          "title": "Phải thu và phải trả",
+          "text": "Cả hai mặt của hộp trong cùng một ứng dụng."
+        },
+        {
+          "title": "Thanh toán và đối chiếu",
+          "text": "Bạn đăng ký tín dụng và xem những gì cần phải vượt qua."
+        },
+        {
+          "title": "Báo cáo trong tầm tay",
+          "text": "Chỉ báo thu thập và tiền mặt mà không cần chờ đóng cửa."
+        }
+      ],
+      "audience": "Người quản lý, người thu gom và nhân viên bán hàng cần tình hình của khách hàng vào lúc này."
+    }
+  },
+  "why": {
+    "eyebrow": "Tại sao FullVendor",
+    "title": "Thúc đẩy doanh nghiệp của bạn\ncó kết quả thực tế",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Các công ty tin tưởng chúng tôi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Người dùng đang hoạt động"
+      },
+      {
+        "value": "+10",
+        "suffix": "năm",
+        "label": "Trong sự tiến hóa không ngừng"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Tính khả dụng của đám mây"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Nó hoạt động như thế nào",
+    "title": "Từ bán hàng đến thu tiền, không thay đổi hệ thống",
+    "text": "Mỗi sản phẩm chia sẻ khách hàng, kho hàng, đơn đặt hàng và thanh toán. Những gì xảy ra trên đường phố hay trong nhà kho đều xuất hiện ngay trong văn phòng.",
+    "steps": {
+      "sell": {
+        "title": "Bạn bán",
+        "text": "Lệnh được nhập qua trang web hoặc qua Sales Man, thậm chí không có tín hiệu."
+      },
+      "pick": {
+        "title": "Sẵn sàng",
+        "text": "Warehouse nhận, phân tách và gửi đi bằng mã vạch."
+      },
+      "deliver": {
+        "title": "Giao hàng",
+        "text": "Logistics chỉ định lộ trình và theo dõi quá trình phân phối."
+      },
+      "collect": {
+        "title": "Rắn hổ mang",
+        "text": "Finance và ERP đóng bộ sưu tập, biên lai và các con số."
+      }
+    }
+  },
+  "band": {
+    "title": "Bạn đã sẵn sàng xem nó với [[hoạt động của bạn]] chưa?",
+    "text": "Chúng tôi cho bạn thấy hệ sinh thái có trường hợp phân phối tương tự như của bạn."
+  },
+  "footer": {
+    "blurb": "Nền tảng web và di động dành cho phân phối, bán hàng, hậu cần, mua hàng, tồn kho và tài chính.",
+    "products": "Các sản phẩm",
+    "company": "Công ty",
+    "legal": "Hợp pháp",
+    "privacy": "Sự riêng tư",
+    "terms": "Điều khoản",
+    "rights": "Mọi quyền được bảo lưu."
+  },
+  "solutions": {
+    "eyebrow": "Giải pháp",
+    "title": "Mỗi khu vực, được kết nối với [[cùng hoạt động]]",
+    "intro": "Chọn theo vấn đề bạn muốn giải quyết. Đằng sau, các sản phẩm đều có chung thông tin.",
+    "items": {
+      "commercial": {
+        "title": "Quản lý thương mại",
+        "text": "Đơn đặt hàng, giá cả, khách hàng và hàng tồn kho để phân phối hàng ngày."
+      },
+      "field": {
+        "title": "lực lượng bán hàng",
+        "text": "Người bán hàng nhận đơn đặt hàng trên đường phố, trực tuyến hoặc ngoại tuyến."
+      },
+      "warehouse": {
+        "title": "Cửa hàng",
+        "text": "Tiếp nhận, chọn hàng, gửi hàng và một kho hàng có thể tin cậy được."
+      },
+      "logistics": {
+        "title": "Hậu cần và giao hàng",
+        "text": "Các tuyến đường, trình điều khiển và tình trạng của mỗi lần giao hàng."
+      },
+      "purchasing": {
+        "title": "Mua hàng và nhà cung cấp",
+        "text": "Báo giá, đơn đặt hàng và cổng thông tin dành cho bất cứ ai cung cấp cho bạn."
+      },
+      "finance": {
+        "title": "Tài chính và kế toán",
+        "text": "Thu thập, thanh toán, thanh toán điện tử và kế toán."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "ngành công nghiệp",
+    "title": "Dành cho những người [[di chuyển sản phẩm]]",
+    "intro": "FullVendor ra đời trong lĩnh vực phân phối và đồng hành cùng các công ty mua, lưu trữ, bán và giao hàng.",
+    "items": {
+      "wholesale": {
+        "title": "Phân phối và bán buôn",
+        "text": "Bảng giá, danh mục đầu tư, phân phối và thu thập trong một mạch duy nhất."
+      },
+      "retail": {
+        "title": "Bán lẻ",
+        "text": "Lưu trữ và kho hàng với hàng hóa, hoạt động bán hàng và bổ sung được kết nối."
+      },
+      "food": {
+        "title": "Thức ăn và đồ uống",
+        "text": "Những tuyến đường thường xuyên và một nhà kho không thể dừng lại."
+      },
+      "pharma": {
+        "title": "Dược phẩm và chăm sóc cá nhân",
+        "text": "Tiếp nhận, lấy hàng và kiểm soát hàng tồn kho với khả năng truy xuất nguồn gốc."
+      },
+      "hardware": {
+        "title": "Phần cứng và xây dựng",
+        "text": "Nhiều tài liệu tham khảo, nhà cung cấp và giao hàng đến nơi làm việc hoặc cửa hàng."
+      },
+      "fmcg": {
+        "title": "Tiêu thụ hàng loạt",
+        "text": "Lực lượng bán hàng đường phố và doanh thu thay thế cao."
+      },
+      "manufacturing": {
+        "title": "Sản xuất",
+        "text": "Mua hàng, kho bãi và hàng tồn kho phù hợp với quản lý."
+      },
+      "lastmile": {
+        "title": "Giao hàng và dặm cuối",
+        "text": "Các tuyến đường, trình điều khiển và tình trạng của mỗi lần giao hàng."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Tài nguyên",
+    "title": "Xóa ý tưởng để [[đặt hàng hoạt động]]",
+    "intro": "Hướng dẫn ngắn gọn dành cho người quản lý phân phối, những người sắp quyết định nên gắn bó với hệ thống nào.",
+    "items": {
+      "unify": {
+        "title": "Cách thống nhất phân phối thành một hệ thống duy nhất",
+        "summary": "Những gì cần kết hợp với nhau trước tiên khi doanh số bán hàng, kho hàng và bộ sưu tập nằm trong các tệp khác nhau.",
+        "points": [
+          "Bắt đầu với khách hàng, sản phẩm và giá cả: họ là người thầy mà mọi người đều sử dụng.",
+          "Kết nối đơn hàng với kho trước khi thêm nhiều ứng dụng hơn.",
+          "Nó đo một con số đơn giản: các đơn hàng được thực hiện mà không cần làm lại biểu mẫu."
+        ]
+      },
+      "offline": {
+        "title": "Lực lượng bán hàng làm việc ngoại tuyến",
+        "summary": "Yêu cầu gì từ ứng dụng đặt hàng để người bán không dừng lại vì tín hiệu.",
+        "points": [
+          "Danh mục và ví phải có trên điện thoại chứ không chỉ trên đám mây.",
+          "Lệnh được lưu trên thiết bị và upload khi mạng hoạt động trở lại.",
+          "Khi đồng bộ thì đơn hàng đã vào kho rồi."
+        ]
+      },
+      "warehouse": {
+        "title": "Kho có mã vạch, không có giấy tờ",
+        "summary": "Cách đi từ danh sách in đến xác nhận chọn hàng trên điện thoại.",
+        "points": [
+          "Nhận theo đơn đặt hàng, không theo bộ nhớ.",
+          "Xác nhận từng mục khi tách. Con bọ cắt vào hành lang.",
+          "Công văn cập nhật hàng hóa mà người bán nhìn thấy."
+        ]
+      },
+      "finance": {
+        "title": "Bộ sưu tập phù hợp với đợt giảm giá",
+        "summary": "Tại sao người bán nên xem khoản nợ của khách hàng trước khi nhận đơn hàng khác.",
+        "points": [
+          "Chuyến thăm là thời điểm tốt nhất để thu thập, nếu khoản nợ có thể nhìn thấy được.",
+          "Bán hàng và tài chính phải nhìn vào cùng một khách hàng.",
+          "Một báo cáo quá hạn hàng ngày có giá trị hơn việc đóng cửa muộn."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Giá cả",
+    "title": "Một hệ sinh thái [[phát triển cùng bạn]]",
+    "intro": "Chúng tôi không công bố tỷ lệ chung: chi phí phụ thuộc vào mô-đun, người dùng và khối lượng. Chúng tôi giới thiệu cho bạn nền tảng và đưa ra đề xuất cho hoạt động của bạn.",
+    "note": "Bản demo không mất phí và không yêu cầu hợp đồng.",
+    "recommended": "Khuyến khích",
+    "faq_title": "Câu hỏi thường gặp",
+    "plans": {
+      "essential": {
+        "name": "Thiết yếu",
+        "desc": "Tổ chức quản lý và phân phối thương mại trên một nền tảng duy nhất.",
+        "features": [
+          "FullVendor nền tảng web",
+          "Bán hàng, mua hàng và hàng tồn kho",
+          "Khách hàng, nhà cung cấp và báo cáo",
+          "Người sử dụng thiết bị văn phòng",
+          "Hỗ trợ khởi nghiệp"
+        ],
+        "cta": "Yêu cầu bản demo"
+      },
+      "professional": {
+        "name": "Chuyên nghiệp",
+        "desc": "Dành cho các đội bán hàng trên đường và chuẩn bị đơn hàng trong kho.",
+        "features": [
+          "Mọi thứ cần thiết",
+          "Ứng dụng FullVendor Sales Man",
+          "Ứng dụng FullVendor Warehouse",
+          "Công việc ngoại tuyến và mã vạch",
+          "Nhiều người dùng hiện trường và kho hơn"
+        ],
+        "cta": "Yêu cầu bản demo"
+      },
+      "corporate": {
+        "name": "Công ty",
+        "desc": "Dành cho các nhóm cần hậu cần, mua hàng, tài chính và các công ty khác nhau.",
+        "features": [
+          "Hệ sinh thái hoàn chỉnh",
+          "Logistics, Vendor Supplier và Finance",
+          "FullVendor ERP và nhiều người thuê nhà",
+          "Thanh toán và kế toán điện tử",
+          "Sự đồng hành và sự sẵn sàng ưu tiên"
+        ],
+        "cta": "Nói chuyện với người bán hàng"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Tôi có phải mua tất cả các sản phẩm không?",
+        "a": "Không. Bạn có thể bắt đầu với FullVendor và thêm ứng dụng hoặc ERP khi thao tác cần."
+      },
+      "offline": {
+        "q": "Các ứng dụng có hoạt động mà không cần internet không?",
+        "a": "Sales Man và Warehouse tiếp tục hoạt động mà không có tín hiệu và đồng bộ hóa khi kết nối lại."
+      },
+      "multi": {
+        "q": "Nó có hoạt động không nếu tôi có nhiều hơn một công ty?",
+        "a": "Đúng. ERP dự tính có nhiều công ty và hệ sinh thái có thể chia sẻ quyền quản lý giữa chúng."
+      },
+      "demo": {
+        "q": "Bản demo bao gồm những gì?",
+        "a": "Chuyến tham quan nền tảng với trường hợp tương tự như trường hợp của bạn. Không có chi phí và không có nghĩa vụ."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Thử nghiệm",
+    "title": "Chúng tôi hiển thị cho bạn FullVendor với [[loại hoạt động của bạn]]",
+    "text": "Hãy cho chúng tôi biết về công ty của bạn và những gì bạn muốn đặt hàng đầu tiên. Bản demo không có chi phí."
+  },
+  "contact": {
+    "eyebrow": "Liên hệ",
+    "title": "Hãy nói về [[hoạt động của bạn]]",
+    "text": "Nếu bạn muốn demo, đề xuất hoặc chỉ để định hướng giữa các sản phẩm, hãy để lại thông tin của bạn và chúng tôi sẽ phản hồi.",
+    "email": "Thư",
+    "phone": "Điện thoại",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Tên",
+    "email": "Thư",
+    "phone": "Điện thoại",
+    "company": "Công ty",
+    "country": "Quốc gia",
+    "team": "Quy mô đội",
+    "interest": "Điều gì khiến bạn quan tâm?",
+    "message": "Tin nhắn",
+    "optional": "Không bắt buộc",
+    "choose": "Lựa chọn",
+    "interest_all": "Toàn bộ hệ sinh thái",
+    "ph_name": "tên của bạn",
+    "ph_email": "bạn@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Công ty của bạn",
+    "ph_country": "Quốc gia",
+    "ph_message": "Hãy cho chúng tôi biết hôm nay bạn hoạt động như thế nào",
+    "privacy_before": "Tôi chấp nhận việc sử dụng dữ liệu của mình theo quy định",
+    "privacy_after": ".",
+    "submit": "Gửi yêu cầu",
+    "sent_title": "Chúng tôi nhận được yêu cầu của bạn",
+    "sent_text": "Cảm ơn. Đội ngũ bán hàng sẽ viết thư cho bạn để phối hợp demo hoặc trả lời câu hỏi của bạn.",
+    "error_required": "Hoàn thành trường này.",
+    "error_email": "Nhập một email hợp lệ.",
+    "error_phone": "Kiểm tra điện thoại.",
+    "error_privacy": "Chúng tôi cần sự đồng ý của bạn để sử dụng chi tiết liên lạc.",
+    "error_csrf": "Phiên đã hết hạn. Gửi lại biểu mẫu.",
+    "error_save": "Chúng tôi không thể lưu yêu cầu. Hãy thử lại.",
+    "error_generic": "Xem lại các trường được đánh dấu.",
+    "error_rate": "Vui lòng đợi một lát trước khi gửi yêu cầu khác.",
+    "team_options": {
+      "1-10": "1 đến 10 người",
+      "11-50": "11 đến 50 người",
+      "51-200": "51 đến 200 người",
+      "201-500": "201 đến 500 người",
+      "500+": "Hơn 500 người"
+    }
+  },
+  "video": {
+    "title": "FullVendor trong một phút",
+    "prev": "Trước",
+    "next": "Tiếp theo",
+    "slides": [
+      {
+        "title": "Một hệ sinh thái duy nhất",
+        "text": "Bán hàng, kho bãi, giao hàng, mua hàng và tài chính chia sẻ khách hàng, hàng tồn kho và đơn đặt hàng."
+      },
+      {
+        "title": "Web và di động cùng nhau",
+        "text": "Văn phòng hoạt động trên nền tảng này. Đường phố và nhà kho, trong ứng dụng, thậm chí không có tín hiệu."
+      },
+      {
+        "title": "Được thực hiện để phân phối",
+        "text": "Từ đặt hàng đến thanh toán, không chuyển thông tin từ tệp này sang tệp khác."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Tìm kiếm sản phẩm, giải pháp, ngành nghề…",
+    "lang_filter": "Tìm kiếm ngôn ngữ",
+    "intro": "Tìm kiếm sản phẩm, giải pháp, ngành và tài nguyên.",
+    "empty": "Chúng tôi không tìm thấy kết quả nào cho “{q}”.",
+    "hint": "Hãy thử bán hàng, kho hàng, tuyến đường hoặc bộ sưu tập.",
+    "results": "{n} kết quả",
+    "button": "tìm kiếm",
+    "kind_product": "Sản phẩm",
+    "kind_solution": "Giải pháp",
+    "kind_industry": "Ngành công nghiệp",
+    "kind_resource": "Tài nguyên"
+  },
+  "notfound": {
+    "title": "Trang này không phải",
+    "text": "Liên kết không tồn tại hoặc đã thay đổi vị trí."
+  },
+  "common": {
+    "what": "Giải quyết được gì",
+    "features": "Bao gồm những gì",
+    "benefits": "Tại sao nó quan trọng",
+    "for_who": "Nó dành cho ai?",
+    "related": "Còn trong hệ sinh thái"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Bán hàng hôm nay",
+      "orders": "Đơn đặt hàng",
+      "clients": "Khách hàng",
+      "products": "Các sản phẩm"
+    },
+    "sidebar": {
+      "dashboard": "Trang tổng quan",
+      "sales": "Việc bán hàng",
+      "purchases": "Mua sắm",
+      "inventory": "Hàng tồn kho",
+      "clients": "Khách hàng",
+      "reports": "Báo cáo"
+    },
+    "chart": "Việc bán hàng",
+    "channel": "Phân phối theo kênh",
+    "channels": [
+      "Cửa hàng",
+      "Phân bổ",
+      "Nhà bán buôn",
+      "Người khác"
+    ],
+    "orders": "Đơn hàng mới nhất",
+    "col_order": "Đặt hàng",
+    "col_client": "Khách hàng",
+    "col_status": "Tình trạng",
+    "col_total": "Tổng cộng",
+    "status": [
+      "Đã giao hàng",
+      "Đang trên đường",
+      "Bông tai"
+    ],
+    "top": "Sản phẩm bán chạy nhất",
+    "product": "Sản phẩm",
+    "sales_menu": [
+      "Khách hàng",
+      "Đơn đặt hàng",
+      "Các sản phẩm",
+      "Tuyến đường",
+      "Đồng bộ hóa"
+    ],
+    "warehouse_menu": [
+      "Thu nhận",
+      "Chọn",
+      "Hàng tồn kho",
+      "Gửi đi",
+      "Đồng bộ hóa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Chính sách bảo mật",
+    "privacy_intro": "Chính sách này giải thích những gì chúng tôi làm với dữ liệu bạn để lại trong các biểu mẫu trên trang web này.",
+    "privacy": [
+      {
+        "title": "Dữ liệu nào chúng tôi thu thập",
+        "text": "Nếu bạn yêu cầu bản demo hoặc viết thư cho chúng tôi, chúng tôi sẽ lưu tên, công ty, email, số điện thoại nếu bạn cho biết, quốc gia, quy mô của nhóm, sản phẩm quan tâm và tin nhắn. Chúng tôi cũng ghi lại ngày, ngôn ngữ của trang và địa chỉ IP để ngăn chặn việc gửi bài mang tính lạm dụng."
+      },
+      {
+        "title": "Chúng ta sử dụng chúng để làm gì?",
+        "text": "Chúng tôi chỉ sử dụng dữ liệu này để trả lời bạn, điều phối bản demo và chuẩn bị đề xuất thương mại. Chúng tôi không bán chúng hoặc cung cấp chúng cho danh sách các bên thứ ba."
+      },
+      {
+        "title": "Chúng được lưu trữ ở đâu và trong bao lâu?",
+        "text": "Yêu cầu được lưu trữ trên máy chủ của trang web này. Chúng tôi lưu giữ chúng trong thời gian cần thiết để phục vụ bạn và theo dõi hoạt động thương mại, đồng thời chúng tôi xóa chúng khi bạn yêu cầu hoặc khi không còn cần thiết nữa."
+      },
+      {
+        "title": "Quyền của bạn",
+        "text": "Bạn có thể yêu cầu quyền truy cập, chỉnh sửa hoặc xóa dữ liệu của mình khỏi biểu mẫu liên hệ, cho biết điều đó trong tin nhắn. Nếu công ty xuất bản một email trên trang web này, bạn cũng có thể viết ở đó."
+      }
+    ],
+    "terms_title": "Điều khoản sử dụng",
+    "terms_intro": "Những điều kiện này áp dụng cho việc sử dụng trang web gửi FullVendor này.",
+    "terms": [
+      {
+        "title": "Thông tin thương mại",
+        "text": "Các văn bản, ví dụ về số liệu và mô tả trên bảng điều khiển giới thiệu nền tảng. Chúng có thể được điều chỉnh khi sản phẩm thay đổi và không phải là một ưu đãi đã đóng."
+      },
+      {
+        "title": "Bản demo không phải là hợp đồng",
+        "text": "Việc gửi biểu mẫu không tạo ra nghĩa vụ mua hoặc đặt giá. Bất kỳ hợp đồng nào cũng được thỏa thuận riêng bằng văn bản với phạm vi và điều kiện của nó."
+      },
+      {
+        "title": "Nội dung trang web",
+        "text": "Nhãn hiệu FullVendor, tên sản phẩm và nội dung của các trang này thuộc về chủ sở hữu của chúng. Chúng không thể được sao chép để giới thiệu một sản phẩm khác."
+      },
+      {
+        "title": "Sử dụng chấp nhận được",
+        "text": "Không sử dụng các biểu mẫu để gửi thông tin sai lệch, thư rác hoặc nội dung bất hợp pháp. Chúng tôi có thể bỏ qua các yêu cầu không tương ứng với cuộc trò chuyện kinh doanh thực tế."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Gestisce è cresce a vostra attività",
+    "home_desc": "Piattaforma all-in-one cù soluzioni web è mobili per a distribuzione, vendita, logistica, compra, inventariu è finanza.",
+    "products_title": "Prudutti | FullVendor",
+    "products_desc": "Cunniscite l'ecosistema FullVendor: piattaforma cummerciale, ERP, logistica, fornituri è vendite, magazzini è app finanziarii.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Soluzioni | FullVendor",
+    "solutions_desc": "Soluzioni per a gestione cummerciale, forza di vendita, magazzinu, logistica, compra è finanza.",
+    "industries_title": "Industries | FullVendor",
+    "industries_desc": "FullVendor per a distribuzione, vendita al dettaglio, alimentazione, farmacia, hardware, cunsumu di massa, fabricazione è ultima milla.",
+    "pricing_title": "Prezzi | FullVendor",
+    "pricing_desc": "Piani essenziali, prufessiunali è corporativi. A pruposta hè riunita secondu moduli, utilizatori è voluminu.",
+    "resources_title": "Risorse | FullVendor",
+    "resources_desc": "Guide brevi per unificà a distribuzione, vende offline, urganizà u magazzinu è paganu in tempu.",
+    "contact_title": "Cuntattu | FullVendor",
+    "contact_desc": "Scriviteci per amparà nantu à FullVendor o coordinate una conversazione cù a squadra di vendita.",
+    "demo_title": "Richiede a demo | FullVendor",
+    "demo_desc": "Richiede una demo di FullVendor è visita a piattaforma cù un casu simili à a vostra operazione.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Termini | FullVendor",
+    "search_title": "Ricerca | FullVendor",
+    "notfound_title": "Pagina micca trovu | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pagina di casa",
+    "products": "I prudutti",
+    "solutions": "Soluzioni",
+    "industries": "Industries",
+    "pricing": "Prezzi",
+    "resources": "Risorse",
+    "contact": "Cuntattu",
+    "open_menu": "Apri menu",
+    "close": "Chiudi"
+  },
+  "cta": {
+    "demo": "Richiede Demo",
+    "contact": "Cuntatta ci",
+    "video": "Fighjate u Video",
+    "talk": "Parlate à a vendita",
+    "all_products": "Vede tutti i prudutti",
+    "home": "Ritorna à a pagina di casa"
+  },
+  "a11y": {
+    "skip": "Passà à u cuntenutu",
+    "primary": "Navigazione principale",
+    "crumbs": "Percorsu di navigazione",
+    "search": "Fighjà",
+    "language": "Lingua"
+  },
+  "hero": {
+    "eyebrow": "Tuttu in una piattaforma",
+    "title": "Gestisce è cresce\nu vostru affari cun\n{{brand}}",
+    "subtitle": "Una piattaforma cumpleta cù soluzioni web è mobili per a distribuzione, vendita, logistica, compra, inventariu, finanza è più.",
+    "pill_ecosystem": "Tuttu in un solu ecosistema",
+    "pill_cloud": "In u nuvulu, sicuru è scalabile",
+    "pill_size": "Per imprese di tutte e dimensioni"
+  },
+  "products_block": {
+    "eyebrow": "I nostri prudutti",
+    "title": "Un [[ecosistema cumpletu]] per ogni area di a vostra attività",
+    "aside": "Soluzioni integrate chì travaglianu inseme per dà un cuntrollu tutale, efficienza operativa è crescita più grande.",
+    "groups": {
+      "money": "Amministrazione è cullizzioni",
+      "flow": "Acquisti è consegna",
+      "field": "Vendita è magazzinu"
+    }
+  },
+  "products_page": {
+    "title": "Sette prudutti, [[operazione unica]]",
+    "text": "Ogni pruduttu risolve una zona. Inseme sparte clienti, stock, ordini è pagamenti."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Piattaforma",
+      "card": "Piattaforma principale per a gestione cummerciale è a distribuzione.",
+      "features": [
+        "Vendite è compra",
+        "Inventariu",
+        "Clienti è fornitori",
+        "Rapporti è più"
+      ],
+      "lead": "U centru di a vostra operazione cummerciale: ordini, prezzi, stock è clienti in un locu.",
+      "about": "FullVendor rimpiazza i spreadsheets è i sistemi di un distributore. Da quì l'ordine esce, l'inventariu hè cunsultatu, a cartera di i clienti hè curata è i numeri di u ghjornu sò guardati. U restu di l'ecosistema cunnetta à sta basa.",
+      "benefits": [
+        {
+          "title": "Un unicu maestru di dati",
+          "text": "I clienti, i prudutti è i prezzi sò spartuti cù vendita, magazzinu è finanza."
+        },
+        {
+          "title": "Pulisce u funziunamentu di ogni ghjornu",
+          "text": "L'ordine, l'acquistu è l'azzioni fermanu di campà in diversi schedari."
+        },
+        {
+          "title": "Rapporti da decide",
+          "text": "Vendite, margini è pendenti sò veduti senza mette un tavulinu à manu."
+        },
+        {
+          "title": "Pronta à cresce",
+          "text": "Logistica, forza di vendita o ERP sume quandu l'operazione dumanda."
+        }
+      ],
+      "audience": "Squadre cummirciali è di distribuzione chì oghje coordinanu l'affari trà parechji sistemi."
+    },
+    "erp": {
+      "kicker": "Amministrazione",
+      "card": "Gestione amministrativa è finanziaria cumpleta.",
+      "features": [
+        "Contabilità",
+        "Facturazione elettronica",
+        "Fogli di travagliu",
+        "Assi fissi",
+        "Multi-cumpagnia"
+      ],
+      "lead": "Amministrazione è finanzii, allinati cù ciò chì hè veramente vendutu è furnitu.",
+      "about": "FullVendor ERP copre a cuntabilità, a fatturazione elettronica, i salari, l'assi fissi è a multi-cumpagnia. Piglia l'operazione cummerciale è u cunvertisce in entrate, ricevute è dichjarazioni chì l'area finanziaria pò utilizà.",
+      "benefits": [
+        {
+          "title": "Contabilità cunnessa",
+          "text": "Ciò chì succede in vendita è compra alimenta a contabilità."
+        },
+        {
+          "title": "Ricevute elettroniche",
+          "text": "Emette è cuntrole a fattura da u stessu ecosistema."
+        },
+        {
+          "title": "Diverse cumpagnie",
+          "text": "Multi-cumpagnia per i gruppi chì operanu sottu più di un nome di cumpagnia."
+        },
+        {
+          "title": "Pagamenti è beni",
+          "text": "Paga è assi fissi inseme cù u restu di a gestione."
+        }
+      ],
+      "audience": "I zoni amministrativi è finanziarii chì volenu chjude i numeri cù l'operazione vera."
+    },
+    "logistics": {
+      "kicker": "Logistica",
+      "card": "Cuntrolla è surviglianza di a vostra operazione logistica.",
+      "features": [
+        "Itinerari e spedizioni",
+        "Tracking in tempu reale",
+        "Assegnazione di u driver",
+        "Ottimisazione di rotta"
+      ],
+      "lead": "Da l'ordine à a consegna: rotte, cunduttori è seguimentu in tempu reale.",
+      "about": "FullVendor Logistics urganizeghja a distribuzione. Crea rotte, assignate i cunduttori è vede induve ogni spedizione va. A squadra di u trafficu si ferma secondu e chjama per sapè se l'ordine hè speditu.",
+      "benefits": [
+        {
+          "title": "I percorsi di u ghjornu",
+          "text": "Spedizioni urdinate per zona, finestra di tempu è capacità."
+        },
+        {
+          "title": "Driver assignatu",
+          "text": "Ogni rotta hà una persona in capu è una sequenza chjara."
+        },
+        {
+          "title": "Seguità",
+          "text": "Sapete ciò chì hè mandatu, in strada o fermatu."
+        },
+        {
+          "title": "Meno chilometri",
+          "text": "L'ottimisazione di rotta riduce u tempu è u costu di consegna."
+        }
+      ],
+      "audience": "Operazioni di distribuzione cù a propria flotta o terzi."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Portale per i fornitori è a gestione di l'acquisti.",
+      "features": [
+        "Ordini di compra",
+        "Quotes",
+        "Gestione di i fornitori",
+        "Integrazione cù l'inventariu"
+      ],
+      "lead": "I vostri fornitori citanu, ricevenu ordini è ricostituite l'azzioni senza e-mail sciolti.",
+      "about": "Vendor Supplier apre un portale per e compra è i fornituri per travaglià nantu à i stessi ordini. Quotes, ordini di compra è ricivutu sò ligati à l'inventariu di FullVendor.",
+      "benefits": [
+        {
+          "title": "Ordini in un canale",
+          "text": "U fornitore vede ciò chì furnisce, senza una catena di email."
+        },
+        {
+          "title": "Citazioni comparabili",
+          "text": "Dumandate i prezzi è sceglite cù a storia in vista."
+        },
+        {
+          "title": "Maestru fornitore",
+          "text": "Cundizioni, cuntatti è pendenti in un unicu record."
+        },
+        {
+          "title": "Entre in l'inventariu",
+          "text": "Ciò chì hè acquistatu hè riflessu in u stock quandu hè ricevutu."
+        }
+      ],
+      "audience": "E squadre d'acquistu chì rimpianu cù parechji fornitori è necessitanu tracciabilità."
+    },
+    "salesman": {
+      "kicker": "App mobile",
+      "card": "Applicazione mobile per a squadra di vendita.",
+      "features": [
+        "Gestione di i clienti",
+        "Piglia l'ordine",
+        "Catalogu di prudutti",
+        "U travagliu offline"
+      ],
+      "lead": "A forza di vendita piglia ordini in a strada, cù o senza signale.",
+      "about": "FullVendor Sales Man mette a vostra cartera, catalogu è ordine piglià u telefonu di u venditore. Se ùn ci hè micca internet, u travagliu cuntinueghja è sincronizza quandu u signale torna. L'ordine arriva pronta per preparà è consegna.",
+      "benefits": [
+        {
+          "title": "Portafoglio in tasca",
+          "text": "U venditore vede i clienti, e cundizioni è l'articuli pendenti."
+        },
+        {
+          "title": "Ordine in visita",
+          "text": "Pigliate l'ordine cù i prezzi attuali è u stock."
+        },
+        {
+          "title": "Catalogu aghjurnatu",
+          "text": "Prudutti, presentazioni è prezzi senza un vechju PDF."
+        },
+        {
+          "title": "Veru offline",
+          "text": "U travagliu senza cobertura è sincronizà dopu."
+        }
+      ],
+      "audience": "Supervisori è venditori di campu in a distribuzione è u cunsumu di massa."
+    },
+    "warehouse": {
+      "kicker": "App mobile",
+      "card": "Applicazione mobile per u magazzinu.",
+      "features": [
+        "Reception è spedizione",
+        "Coglie è imballu",
+        "U cuntrollu di l'inventariu",
+        "Lettura di codice à barre"
+      ],
+      "lead": "Reception, scelta è spedizione cù u telefunu è u codice à barre.",
+      "about": "FullVendor Warehouse guida u magazzinu in ricezione, picking, imballaggio è spedizione. A lettura di codici riduce l'errori è l'inventariu ùn hè più cuntatu solu à a fine di u mese.",
+      "benefits": [
+        {
+          "title": "Reception contr'à ordine",
+          "text": "Ciò chì entra hè paragunatu à a compra."
+        },
+        {
+          "title": "Scelta mirata",
+          "text": "U armatore seguita l'ordine è cunfirma ogni articulu."
+        },
+        {
+          "title": "Codici a barre",
+          "text": "Meno errore di produttu, batch o quantità."
+        },
+        {
+          "title": "stock affidabile",
+          "text": "Ogni muvimentu aghjurnà l'inventariu di a piattaforma."
+        }
+      ],
+      "audience": "Amministratori di magazzini è armatori chì oghje preparanu ordini cù listi stampati."
+    },
+    "finance": {
+      "kicker": "App mobile",
+      "card": "U cuntrollu finanziariu da u vostru telefuninu.",
+      "features": [
+        "Conti à riceve è à pagà",
+        "Status di u cliente",
+        "Pagamenti è cunciliazioni",
+        "Rapporti finanziarii"
+      ],
+      "lead": "Accounts receivable, pagamenti è statutu di u cliente, da u vostru telefunu.",
+      "about": "FullVendor Finance mostra a cullezzione nantu à u telefuninu: ciò chì ogni cliente deve, ciò chì a cumpagnia hà da pagà è cumu vene i pagamenti. Hè adupratu per cullà soldi durante a visita è per fighjà u cash register senza apre u desk.",
+      "benefits": [
+        {
+          "title": "Raccolta à a visita",
+          "text": "U venditore sapi se u cliente hè aghjurnatu prima di vende."
+        },
+        {
+          "title": "Receivable è pagà",
+          "text": "I dui lati di a scatula in a listessa app."
+        },
+        {
+          "title": "Pagamenti è cunciliazioni",
+          "text": "Registrate crediti è vede ciò chì deve esse attraversatu."
+        },
+        {
+          "title": "Rapporti a manu",
+          "text": "Indicatori di cullizzioni è di cash senza aspittà di una chiusura."
+        }
+      ],
+      "audience": "Managers, cullezzione è venditori chì anu bisognu di a situazione di u cliente in u mumentu."
+    }
+  },
+  "why": {
+    "eyebrow": "Perchè FullVendor",
+    "title": "Impulsate a vostra attività\ncù risultati veri",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "L'imprese si fidanu di noi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Utenti attivi"
+      },
+      {
+        "value": "+10",
+        "suffix": "anni",
+        "label": "In constante evoluzione"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilità cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Cumu funziona",
+    "title": "Da a vendita à a cullezzione, senza cambià i sistemi",
+    "text": "Ogni pruduttu sparte clienti, stock, ordini è pagamenti. Ciò chì succede in a strada o in u magazzinu appare in l'uffiziu istantaneamente.",
+    "steps": {
+      "sell": {
+        "title": "Tu vendi",
+        "text": "L'ordine hè inseritu à traversu u situ web o attraversu Sales Man, ancu senza signale."
+      },
+      "pick": {
+        "title": "Pronti",
+        "text": "Warehouse riceve, separa è spedisce cù codice à barre."
+      },
+      "deliver": {
+        "title": "Consegna",
+        "text": "Logistics assigna a strada è seguita a consegna."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance è ERP chjude a cullizzioni, i ricevuti è i numeri."
+      }
+    }
+  },
+  "band": {
+    "title": "Pronti à vede cù [[a vostra operazione]]?",
+    "text": "Vi mustramu l'ecosistema cù un casu di distribuzione simili à u vostru."
+  },
+  "footer": {
+    "blurb": "Piattaforma web è mobile per distribuzione, vendita, logistica, compra, inventariu è finanza.",
+    "products": "I prudutti",
+    "company": "Cumpagnia",
+    "legal": "Legale",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "rights": "Tutti i diritti riservati."
+  },
+  "solutions": {
+    "eyebrow": "Soluzioni",
+    "title": "Ogni zona, cunnessa à a [[stessa operazione]]",
+    "intro": "Sceglite da u prublema chì vulete risolve. Dopu, i prudutti sparte a listessa infurmazione.",
+    "items": {
+      "commercial": {
+        "title": "Gestione cummerciale",
+        "text": "Ordini, prezzi, clienti è inventariu per a distribuzione di u ghjornu."
+      },
+      "field": {
+        "title": "forza di vendita",
+        "text": "Venditori chì piglianu ordini in strada, in linea o offline."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Reception, picking, dispatch è un stock chì pò esse fiducia."
+      },
+      "logistics": {
+        "title": "Logistica è consegna",
+        "text": "I rotte, i cunduttori è u statutu di ogni spedizione."
+      },
+      "purchasing": {
+        "title": "Acquistu è fornitori",
+        "text": "Quotes, ordini è un portale per quellu chì vi furnisce."
+      },
+      "finance": {
+        "title": "Finanza è cuntabilità",
+        "text": "Cullezzione, pagamenti, fattura elettronica è cuntabilità."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "Fattu per quelli chì [[move u pruduttu]]",
+    "intro": "FullVendor hè natu in a distribuzione è accumpagna l'imprese chì cumprà, almacenà, vende è furnisce.",
+    "items": {
+      "wholesale": {
+        "title": "Distribuzione è ingrossu",
+        "text": "Lista di prezzi, cartera, distribuzione è cullezzione in un circuitu unicu."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Magazzinu è magazzinu cù magazzini cunnessi, vendite è rifornimentu."
+      },
+      "food": {
+        "title": "Alimentazione è bevande",
+        "text": "Percorsi frequenti è un magazzinu chì ùn si pò piantà."
+      },
+      "pharma": {
+        "title": "Farmacia è cura persunale",
+        "text": "Reception, picking è cuntrollu di l'inventariu cù tracciabilità."
+      },
+      "hardware": {
+        "title": "Hardware è custruzzione",
+        "text": "Parechji riferimenti, fornituri è spedizioni à u travagliu o à a tenda."
+      },
+      "fmcg": {
+        "title": "U cunsumu di massa",
+        "text": "Forza di vendita in strada è rimpiazzamentu di alta rotazione."
+      },
+      "manufacturing": {
+        "title": "Fabricazione",
+        "text": "Acquistu, magazzinu è inventariu allinati cù l'amministrazione."
+      },
+      "lastmile": {
+        "title": "Consegna è ultimu chilometru",
+        "text": "I rotte, i cunduttori è u statutu di ogni spedizione."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Risorse",
+    "title": "Idee chjaru per [[ordinà l'operazione]]",
+    "intro": "Guide brevi per i gestori di distribuzione chì anu da decide di quale sistema attaccà.",
+    "items": {
+      "unify": {
+        "title": "Cumu unificà a distribuzione in un sistema unicu",
+        "summary": "Cosa à mette inseme prima quandu vendite, magazzinu è cullezzione campanu in diversi schedari.",
+        "points": [
+          "Cumincià cù i clienti, i prudutti è i prezzi : sò u maestru chì tutti usanu.",
+          "Cunnette l'ordine cù u stock prima di aghjunghje più applicazioni.",
+          "Misura un numeru simplice: ordini cumpleti senza rifarà a forma."
+        ]
+      },
+      "offline": {
+        "title": "Forza di vendita chì travaglia offline",
+        "summary": "Ciò chì deve esse dumandatu da una app di ordine per chì u venditore ùn si ferma micca per via di u signale.",
+        "points": [
+          "U catalogu è a billetera anu da esse in u telefunu, micca solu in u nuvulu.",
+          "L'ordine hè salvatu nantu à u dispusitivu è caricatu quandu a reta torna.",
+          "Quandu si sincronizza, l'ordine entra digià in u magazzinu."
+        ]
+      },
+      "warehouse": {
+        "title": "Magazzinu cù codice à barre, senza carta",
+        "summary": "Cumu andà da a lista stampata à a cugliera cunfirmata in u telefunu.",
+        "points": [
+          "Riceve contru à l'ordine di compra, micca contru à a memoria.",
+          "Cunfirmà ogni articulu quandu si separanu. U bug si taglia in u corridoiu.",
+          "U dispatch aghjurnà u stock chì u venditore vede."
+        ]
+      },
+      "finance": {
+        "title": "Cullizzioni allinata cù a vendita",
+        "summary": "Perchè u vinditore deve vede u debitu di u cliente prima di piglià un altru ordine.",
+        "points": [
+          "A visita hè u megliu tempu per cullà, se u debitu hè visibile.",
+          "A vendita è a finanza anu da vede u stessu cliente.",
+          "Un rapportu di ritardo di ogni ghjornu vale più di una chiusura tardiva."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prezzi",
+    "title": "Un ecosistema chì [[cresce cun voi]]",
+    "intro": "Ùn publicemu micca una tarifa generica: u costu dipende di i moduli, l'utilizatori è u voluminu. Vi mustramu a piattaforma è mette una pruposta cù a vostra operazione.",
+    "note": "A demo ùn hà micca costu è ùn hà micca bisognu di un cuntrattu.",
+    "recommended": "Cunsigliatu",
+    "faq_title": "Domande frequenti",
+    "plans": {
+      "essential": {
+        "name": "Essenziale",
+        "desc": "Per urganizà a gestione cummerciale è a distribuzione nantu à una sola piattaforma.",
+        "features": [
+          "FullVendor piattaforma web",
+          "Vendite, compra è inventariu",
+          "Clienti, fornitori è rapporti",
+          "Utenti di l'equipaggiu d'uffiziu",
+          "Supportu à l'iniziu"
+        ],
+        "cta": "Richiede Demo"
+      },
+      "professional": {
+        "name": "Prufessiunale",
+        "desc": "Per e squadre chì vendenu in strada è preparanu ordini in u magazzinu.",
+        "features": [
+          "Tuttu Essenziale",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "U travagliu offline è i codici à barre",
+          "Più utilizatori di campu è magazzinu"
+        ],
+        "cta": "Richiede Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Per i gruppi chì necessitanu logistica, compra, finanza è diverse cumpagnie.",
+        "features": [
+          "Ecosistema cumpletu",
+          "Logistics, Vendor Supplier è Finance",
+          "FullVendor ERP è multi-tenancy",
+          "Fatturazione elettronica è cuntabilità",
+          "Accumpagnamentu è dispunibilità di priorità"
+        ],
+        "cta": "Parlate à a vendita"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Aghju da cumprà tutti i prudutti?",
+        "a": "No. Pudete principià cù FullVendor è aghjunghje Apps o ERP quandu l'operazione hà bisognu."
+      },
+      "offline": {
+        "q": "L'applicazioni funzionanu senza internet?",
+        "a": "Sales Man è Warehouse cuntinuà à travaglià senza signale è sincronizà quandu si ricollega."
+      },
+      "multi": {
+        "q": "Funziona se aghju più di una cumpagnia?",
+        "a": "Iè. ERP contempla multi-cumpagnia è l'ecosistema pò sparte maestri trà elli."
+      },
+      "demo": {
+        "q": "Chì include a demo?",
+        "a": "Un tour di a piattaforma cù un casu simile à u vostru. Nisun costu è senza obbligu."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Vi mustramu FullVendor cù [[u vostru tipu di operazione]]",
+    "text": "Parlaci di a vostra cumpagnia è ciò chì vulete ordine prima. A demo ùn hà micca costu."
+  },
+  "contact": {
+    "eyebrow": "Cuntattu",
+    "title": "Parlemu di [[a vostra operazione]]",
+    "text": "Se vulete una demo, una pruposta o solu per urientà trà i prudutti, lasciate a vostra infurmazione è risponderemu.",
+    "email": "Mail",
+    "phone": "telefonu",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nome",
+    "email": "Mail",
+    "phone": "telefonu",
+    "company": "Cumpagnia",
+    "country": "Paese",
+    "team": "Dimensione di a squadra",
+    "interest": "Chì vi interessa ?",
+    "message": "Missaghju",
+    "optional": "Opcional",
+    "choose": "Selezziunà",
+    "interest_all": "Tuttu l'ecosistema",
+    "ph_name": "u vostru nome",
+    "ph_email": "voi@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "A vostra cumpagnia",
+    "ph_country": "Paese",
+    "ph_message": "Diteci cumu operate oghje",
+    "privacy_before": "Accetta l'usu di i mo dati secondu a",
+    "privacy_after": ".",
+    "submit": "Mandate a dumanda",
+    "sent_title": "Ricevemu a vostra dumanda",
+    "sent_text": "Grazie. A squadra di vendita vi scriverà per coordenà a demo o risponde à a vostra dumanda.",
+    "error_required": "Completa stu campu.",
+    "error_email": "Inserite un email validu.",
+    "error_phone": "Verificate u telefunu.",
+    "error_privacy": "Avemu bisognu di u vostru accunsentu per utilizà i dati di cuntattu.",
+    "error_csrf": "A sessione hè scaduta. Riinvià a forma.",
+    "error_save": "Ùn pudemu micca salvà a dumanda. Prova dinò.",
+    "error_generic": "Rivedi i campi marcati.",
+    "error_rate": "Per piacè aspettate un mumentu prima di mandà una altra dumanda.",
+    "team_options": {
+      "1-10": "1 à 10 persone",
+      "11-50": "11 à 50 persone",
+      "51-200": "51 à 200 persone",
+      "201-500": "201 à 500 persone",
+      "500+": "Più di 500 persone"
+    }
+  },
+  "video": {
+    "title": "FullVendor in un minutu",
+    "prev": "Anzianu",
+    "next": "Dopu",
+    "slides": [
+      {
+        "title": "Un solu ecosistema",
+        "text": "Vendite, magazzini, consegna, compra è finanzii sparte clienti, stock è ordini."
+      },
+      {
+        "title": "Web è mobile inseme",
+        "text": "L'uffiziu travaglia nantu à a piattaforma. A strada è u magazzinu, in l'app, ancu senza signale."
+      },
+      {
+        "title": "Fattu per distribuisce",
+        "text": "Da l'ordine à u pagamentu, senza passà infurmazione da un schedariu à l'altru."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Ricerca di prudutti, soluzioni, industrii...",
+    "lang_filter": "Ricerca lingua",
+    "intro": "Ricerca prudutti, suluzioni, industrii è risorse.",
+    "empty": "Ùn avemu micca truvatu risultati per \"{q}\".",
+    "hint": "Pruvate vendita, magazzinu, rotte o cullezzione.",
+    "results": "{n} risultati",
+    "button": "Fighjà",
+    "kind_product": "Pruduttu",
+    "kind_solution": "Soluzione",
+    "kind_industry": "Industria",
+    "kind_resource": "Risorsa"
+  },
+  "notfound": {
+    "title": "Questa pagina ùn hè micca",
+    "text": "U ligame ùn esiste micca o hà cambiatu locu."
+  },
+  "common": {
+    "what": "Ciò chì risolve",
+    "features": "Ciò chì hè inclusu",
+    "benefits": "Perchè importa",
+    "for_who": "Per quale hè ?",
+    "related": "Ancu in l'ecosistema"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vendite oghje",
+      "orders": "Ordini",
+      "clients": "Clienti",
+      "products": "I prudutti"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Vendite",
+      "purchases": "Shopping",
+      "inventory": "Inventariu",
+      "clients": "Clienti",
+      "reports": "Rapporti"
+    },
+    "chart": "Vendite",
+    "channel": "Distribuzione per canali",
+    "channels": [
+      "Store",
+      "Distribuzione",
+      "Grossista",
+      "Altri"
+    ],
+    "orders": "Ultimi ordini",
+    "col_order": "Ordine",
+    "col_client": "Cliente",
+    "col_status": "Statu",
+    "col_total": "Totale",
+    "status": [
+      "Cunsegnatu",
+      "In strada",
+      "Orecchinu"
+    ],
+    "top": "I prudutti più venduti",
+    "product": "Pruduttu",
+    "sales_menu": [
+      "Clienti",
+      "Ordini",
+      "I prudutti",
+      "Percorsi",
+      "Sincronizza"
+    ],
+    "warehouse_menu": [
+      "Reception",
+      "Coglie",
+      "Inventariu",
+      "Dispatch",
+      "Sincronizza"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Pulitica di privacy",
+    "privacy_intro": "Sta pulitica spiega ciò chì facemu cù e dati chì lasciate in forme in stu situ.",
+    "privacy": [
+      {
+        "title": "Chì dati raccogliemu",
+        "text": "Sè vo dumandate una demo o scrivite à noi, salvemu u nome, a cumpagnia, l'email, u numeru di telefunu s'ellu indica, u paese, a dimensione di a squadra, u pruduttu d'interessu è u missaghju. Avemu ancu registratu a data, a lingua di a pagina è l'indirizzu IP, per prevene sottumissioni abusive."
+      },
+      {
+        "title": "Per chì li usemu?",
+        "text": "Usemu questi dati solu per risponde à voi, coordinate una demo è preparanu una pruposta cummerciale. Ùn li vendemu micca o li damu à una lista di terze parti."
+      },
+      {
+        "title": "Induve sò guardati è per quantu tempu?",
+        "text": "E dumande sò guardate nantu à u servitore di stu situ. Li mantenemu per u tempu necessariu per serve à voi è u seguitu cummerciale, è l'eliminemu quandu ci dumandate o quandu ùn sò più necessarii."
+      },
+      {
+        "title": "I vostri diritti",
+        "text": "Pudete dumandà l'accessu, a currezzione o l'eliminazione di i vostri dati da a forma di cuntattu, indicà in u missaghju. Se a cumpagnia publica un email in stu situ web, pudete ancu scrive quì."
+      }
+    ],
+    "terms_title": "Termini di usu",
+    "terms_intro": "Sti cundizioni s'applicanu à l'usu di stu situ di sottumissione FullVendor.",
+    "terms": [
+      {
+        "title": "L'infurmazione cummerciale",
+        "text": "Testi, figure d'esempiu di dashboard è descrizzioni intruducenu a piattaforma. Puderanu esse aghjustatu quandu u pruduttu cambia è ùn sò micca una offerta chjusa."
+      },
+      {
+        "title": "A demo ùn hè micca un cuntrattu",
+        "text": "Invià u furmulariu ùn crea micca l'obbligazione di cumprà o riservà un prezzu. Ogni cuntrattu hè accunsentutu separatamente, in scrittura, cù u so scopu è e cundizioni."
+      },
+      {
+        "title": "U cuntenutu di u situ",
+        "text": "A marca FullVendor, i nomi di i prudutti è u cuntenutu di sti pagine appartenenu à i so patroni. Ùn ponu esse copiati per presentà un altru pruduttu."
+      },
+      {
+        "title": "Usu accettabile",
+        "text": "Ùn aduprate micca e forme per invià infurmazioni falsi, spam o cuntenutu illegale. Pudemu ignurà e dumande chì ùn currispondenu micca à una conversazione cummerciale attuale."
+      }
+    ]
+  }
+}

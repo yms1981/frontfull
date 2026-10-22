@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Behere en vergroete eur bedrief",
+    "home_desc": "All-in-one platform mit web- en mobiele oplossinge veur distributie, verkoupe, logistiek, aankoupe, veurraod en financiën.",
+    "products_title": "Produkte | FullVendor",
+    "products_desc": "Leer bekind mit ‘t ecosysteem FullVendor: commercieel platform, ERP, logistiek, leveranciers en verkoupe, magazijn- en financieringsapps.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Oplossinge | FullVendor",
+    "solutions_desc": "Oplossinge veur commercieel management, verkoopspersoneel, magazijn, logistiek, aankoupe en financiën.",
+    "industries_title": "Industrieje | FullVendor",
+    "industries_desc": "FullVendor veur distributie, detailhandel, voedsel, apotheek, hardware, massaconsumptie, productie en last mile.",
+    "pricing_title": "Prijze | FullVendor",
+    "pricing_desc": "Essentiële, professionele en bedriefsplanne. ‘t Veursjtel is samegevoeg volgens modules, gebruukers en volume.",
+    "resources_title": "Bronne | FullVendor",
+    "resources_desc": "Korte gidse um de distributie te vereinege, offline te verkoupe, ‘t pakhuis te organisere en op tied betaold te kriege.",
+    "contact_title": "Contact | FullVendor",
+    "contact_desc": "Sjrief us um te weite te komme euver FullVendor of coördineer un gesprek mit ut verkoopsteam.",
+    "demo_title": "Demo aanvraoge | FullVendor",
+    "demo_desc": "Vraog ‘n demo vaan FullVendor aan en bezeuk ‘t platform mit ‘n zaak dee vergeliekbaar is mit eur operatie.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Voorwaardes | FullVendor",
+    "search_title": "Zoek | FullVendor",
+    "notfound_title": "Pagina neet gevonde | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Homepagina",
+    "products": "Produkte",
+    "solutions": "Oplossinge",
+    "industries": "Industrieje",
+    "pricing": "Prijze",
+    "resources": "Bronne",
+    "contact": "Kontak",
+    "open_menu": "Open menu",
+    "close": "Sjleete"
+  },
+  "cta": {
+    "demo": "Demo aanvraoge",
+    "contact": "Neem contact op mit us",
+    "video": "Bekiek de video",
+    "talk": "Sprek mit de verkoup",
+    "all_products": "Bekiek alle produkte",
+    "home": "Kier trök nao de startpagina"
+  },
+  "a11y": {
+    "skip": "Slaag nao inhoud",
+    "primary": "Hoofnavigatie",
+    "crumbs": "Navigatieroute",
+    "search": "Zoek nao",
+    "language": "Taal"
+  },
+  "hero": {
+    "eyebrow": "Alles in ein platform",
+    "title": "Behere en greuje\neur bedrief mit\n{{brand}}",
+    "subtitle": "‘n Compleet platform mit web- en mobiele oplossinge veur distributie, verkoupe, logistiek, aankoupe, veurraod, financiën en nog veul mie.",
+    "pill_ecosystem": "Alles in ein ecosysteem",
+    "pill_cloud": "In de wolk, veilig en sjaolbaar",
+    "pill_size": "Veur bedrieve vaan alle gruuttes"
+  },
+  "products_block": {
+    "eyebrow": "Ozze produkte",
+    "title": "‘n [[complete ecosysteem]] veur eder gebeed vaan eur bedrief",
+    "aside": "Geïntegreerde oplossinge die samewèrke um u volledige controle, operationele efficiëntie en mie greuj te geve.",
+    "groups": {
+      "money": "Bestuur en inzameling",
+      "flow": "Aankoupe en levering",
+      "field": "Verkoupe en pakhuis"
+    }
+  },
+  "products_page": {
+    "title": "Zeve produkte, [[enkele operatie]]",
+    "text": "Eeder produk los un gebeed op. Same deile ze klante, veurraod, bestellinge en betalinge."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Hoofplatform veur commercieel management en distributie.",
+      "features": [
+        "Verkoupe en aankoupe",
+        "Inventaaris",
+        "Klante en leveranciers",
+        "Rapporte en meer"
+      ],
+      "lead": "‘t Centrum vaan eur commerciële bedrief: bestellinge, prijze, veurraod en klante op ein plaots.",
+      "about": "FullVendor vervangt de losse spreadsheets en systeme vaan ‘n distribiteur. Vanaof hei komme bestellinge oet, de veurraod weurt geconsulteerd, de klantportfolio weurt verzörg en de ciefers vaan de daag weure bekeke. De res vaan ‘t ecosysteem verbint zich mit deze basis.",
+      "benefits": [
+        {
+          "title": "‘n Enkele datamaster",
+          "text": "Klante, producte en prijze weure gedeild mit verkoupe, pakhuis en financiën."
+        },
+        {
+          "title": "Daaglikse werking duidelijk",
+          "text": "Bestellinge, aankoupe en veurraod stoppe in versjillende bestanden te leve."
+        },
+        {
+          "title": "Rapporte um te beslisse",
+          "text": "Verkoupe, marge en afwachting zien gezeen zoonder ‘n tabel mit de hand same te stèlle."
+        },
+        {
+          "title": "Klaar um te greuje",
+          "text": "Logistiek, verkoopspersoneel of ERP somme es de operatie dat vraog."
+        }
+      ],
+      "audience": "Commercieel en distributieteams die allewijl de zake tusse versjèllende systeme coördinere."
+    },
+    "erp": {
+      "kicker": "Bestuur",
+      "card": "Volledig administratief en financieel beheer.",
+      "features": [
+        "Boekhoudkunde",
+        "Elektronische facturering",
+        "Werkblaajer",
+        "Vaste activa",
+        "Multi-bedrief"
+      ],
+      "lead": "Administratie en financiën, in lijn mit wat daodwerkelek weurt verkoch en geleverd.",
+      "about": "FullVendor ERP umvat boekhouding, elektronische fakturering, loonstate, vaste activa en multibedrieve. ‘t Nump de commerciële operatie en zet ‘m um in insjrifte, ontvangste en state die ‘t financiële gebeed kin gebruke.",
+      "benefits": [
+        {
+          "title": "Verboonde boekhouding",
+          "text": "Wat d’r gebeurt in verkoupe en aankoupe voedt de boekhouding."
+        },
+        {
+          "title": "Elektronische kwitantie",
+          "text": "Uw oetgief en controleert fakturering oet ‘tzelfde ecosysteem."
+        },
+        {
+          "title": "Versjèllende bedrieve",
+          "text": "Multi-bedrief veur gróppe die oonder mie es ein bedriefsnaom wèrke."
+        },
+        {
+          "title": "Loonstate en bezittinge",
+          "text": "Loonstaat en vaste middele, same mit de res vaan ‘t management."
+        }
+      ],
+      "audience": "Administratieve en financiële gebeeje die de getalle wille slete mit de echte operatie."
+    },
+    "logistics": {
+      "kicker": "Logistiek",
+      "card": "Controle en bewaking vaan eur logistieke operaties.",
+      "features": [
+        "Routes en leveringe",
+        "Real-time tracking",
+        "Toewijzing vaan bestuurder",
+        "Route-optimalisatie"
+      ],
+      "lead": "Vaan bestelling tot levering: routes, chauffeurs en real-time tracking.",
+      "about": "FullVendor Logistics organiseert de verdeiling. Geer maak routes, wies chauffeurs touw en kiek boe eder levering heen geit. ‘t Verkeersteam stop aafhankelik vaan oproepe um d’r achter te komme of de besjtelling is verzend.",
+      "benefits": [
+        {
+          "title": "Routes vaan de daag",
+          "text": "Afleveringe besteld volgens zone, tiedsvenster en capaciteit."
+        },
+        {
+          "title": "Toegeweze bestuurder",
+          "text": "Iedere route heet ‘n persoen dee verantwoordelik is en ‘n duudelike volgorde."
+        },
+        {
+          "title": "Opvolge",
+          "text": "Geer wit wat weurt geleverd, oonderweg of gestop."
+        },
+        {
+          "title": "Minder kilometers",
+          "text": "Route-optimalisatie vermindert leveringstied en koste."
+        }
+      ],
+      "audience": "Distributieactiviteite mit eige vloot of derde partije."
+    },
+    "supplier": {
+      "kicker": "Winkele",
+      "card": "Portaal veur leveranciers en inkoopmanagement.",
+      "features": [
+        "Bestellinge",
+        "Citate",
+        "Leveranciersmanagement",
+        "Integratie mit veurraod"
+      ],
+      "lead": "Uw leveranciers geve offerte, ontvange besjtellinge en völle veurraod aan zonder losse e-mails.",
+      "about": "Vendor Supplier opent un portaal veur aankoupe en leveranciers um aon dezelfde bestellinge te wèrke. Aanbiedinge, bestellinge en kwitantie zien gekoppeld aon de veurraod vaan FullVendor.",
+      "benefits": [
+        {
+          "title": "Bestellinge in un kanaal",
+          "text": "De leverancier zuut wat heer mot aflevere, zoonder e-mailketting."
+        },
+        {
+          "title": "Vergeliekbare citate",
+          "text": "Geer vraog um prijze en keus mit de gesjiedenis in ‘t oog."
+        },
+        {
+          "title": "Leverancier Meester",
+          "text": "Voorwaardes, contacte en afwachting in ein dossier."
+        },
+        {
+          "title": "Voer de veurraod in",
+          "text": "Wat gekoch is, weurt weerspiegeld in de veurraod es ‘t weurt ontvange."
+        }
+      ],
+      "audience": "Aankoopteams die zich bijvölle mit versjillende leveranciers en traceerbaarheid nuudig höbbe."
+    },
+    "salesman": {
+      "kicker": "Mobiele app",
+      "card": "Mobiele applicatie veur verkoopsteam.",
+      "features": [
+        "Klantmanagement",
+        "Bestelling opnumme",
+        "Produktcatalogus",
+        "Offline werk"
+      ],
+      "lead": "De verkoopspersoneel nump besjtellinge aan op straot, mit of zonder signaal.",
+      "about": "FullVendor Sales Man plaats eur portfolio, catalogus en besjtelling op de telefoon vaan de verkoper. Es d’r gein internet is, geit ‘t werk door en synchroniseert ‘t es ‘t signaal trökkeert. De besjtelling kump klaor um veur te bereide en aflevere.",
+      "benefits": [
+        {
+          "title": "Portemonnee in de zaak",
+          "text": "De verkoper zuut klante, condities en hangende items."
+        },
+        {
+          "title": "Bestel bij bezeuk",
+          "text": "Neem de bestelling aan mit de huidige prijze en veurraod."
+        },
+        {
+          "title": "Catalogus up to date",
+          "text": "Producte, presentaties en prijze zonder un awwe PDF."
+        },
+        {
+          "title": "Echt offline",
+          "text": "Werk zoonder dekking en synchroniseer later."
+        }
+      ],
+      "audience": "Toezichhawwers en veldverkopers in distributie en massaconsumptie."
+    },
+    "warehouse": {
+      "kicker": "Mobiele app",
+      "card": "Mobiele applicatie veur pakhuis.",
+      "features": [
+        "Ontvangs en verzending",
+        "Oppakke en verpakke",
+        "Veurraodcontrole",
+        "Barcodelezing"
+      ],
+      "lead": "Ontvangs, ophaole en verzende mit de telefoon en barcode.",
+      "about": "FullVendor Warehouse leijt ‘t magazijn bij ontvangs, ophaole, inpakken en verzende. ‘t Leze vaan codes vermindert foute en veurraod weurt neet langer allein aon ‘t eind vaan de maond getèld.",
+      "benefits": [
+        {
+          "title": "Ontvangs tege besjtelling",
+          "text": "Wat binnekump weurt vergeleke mit de aankoop."
+        },
+        {
+          "title": "Doelgerichte keuze",
+          "text": "De rederieje volg de besjtelling en bevestig eder item."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Minder product-, batch- of hoeveelheidsfoute."
+        },
+        {
+          "title": "Betrouwbare veurraod",
+          "text": "Iedere beweging updatet de veurraod vaan ‘t platform."
+        }
+      ],
+      "audience": "Magazijnmanagers en rederiejere die allewijl bestellinge veurbereie mit gedrukde lieste."
+    },
+    "finance": {
+      "kicker": "Mobiele app",
+      "card": "Financiële controle vanaaf eur mobiel.",
+      "features": [
+        "Debiteure en verschuldigde",
+        "Klantstatus",
+        "Betalinge en verzoeninge",
+        "Financiële versjlage"
+      ],
+      "lead": "Debiteure, betalinge en klantstatus, vaan eur tillefoon.",
+      "about": "FullVendor Finance toent de inzameling op de mobiel: wat eder cliënt schuldig is, wat ‘t bedrief op ‘t punt is te betaole en wie de betalinge gebeure. ‘t Weurt gebruuk um geld in te haole tijdens ‘t bezeuk en um nao de kassa te kieke zoonder ‘t lessenaar ope te make.",
+      "benefits": [
+        {
+          "title": "Verzameling bij de bezeuk",
+          "text": "De verkoper wit of de klant op de huugte is veurtot ze verkoup."
+        },
+        {
+          "title": "Ontvangbaar en betaalbaar",
+          "text": "Allebei kante vaan de doos in dezelfde app."
+        },
+        {
+          "title": "Betalinge en verzoeninge",
+          "text": "Geer registreert credits en kiek wat gekruus moot weure."
+        },
+        {
+          "title": "Rapporte bij de hand",
+          "text": "Inzameling en cash-indicatore zoonder te wachte op ‘n sleting."
+        }
+      ],
+      "audience": "Managers, verzameleers en verkopers die de situatie vaan de klant op ‘t momint nuudig höbbe."
+    }
+  },
+  "why": {
+    "eyebrow": "Waarom FullVendor",
+    "title": "Boost eur bedrief\nmit echte resultate",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Bedrieve vertrouwe us"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Actieve gebrukers"
+      },
+      {
+        "value": "+10",
+        "suffix": "joare",
+        "label": "In constante evolutie"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud besjikbaarheid"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Wie ut wèrk",
+    "title": "Vaan verkoop tot verzameling, zoonder systeme te verandere",
+    "text": "Eeder product deilt klante, veurraod, besjtellinge en betalinge. Wat op straot of in ‘t magazijn gebeurt, versjient direk in ‘t kantoor.",
+    "steps": {
+      "sell": {
+        "title": "Ge verköp",
+        "text": "De bestelling weurt ingevoerd via de website of via Sales Man, zelfs zoonder signaal."
+      },
+      "pick": {
+        "title": "Kloar",
+        "text": "Warehouse ontvangt, sjeidt en sjikt mit barcode."
+      },
+      "deliver": {
+        "title": "Afleveringe",
+        "text": "Logistics wies de route touw en volg de levering."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance en ERP slete de inzameling, de kwitantieje en de getalle."
+      }
+    }
+  },
+  "band": {
+    "title": "Klaor um ‘t te zeen mit [[u bewerking]]?",
+    "text": "Ver laote uch ‘t ecosysteem zien mit ‘n verdeilingsgeval dee geliek is aon uch."
+  },
+  "footer": {
+    "blurb": "Web- en mobiel platform veur distributie, verkoupe, logistiek, aankoupe, veurraod en financiering.",
+    "products": "Produkte",
+    "company": "Bedrief",
+    "legal": "Juriedies",
+    "privacy": "Privaasie",
+    "terms": "Veurwaarde",
+    "rights": "Alle rechte veurbehawwe."
+  },
+  "solutions": {
+    "eyebrow": "Oplossinge",
+    "title": "Eeder gebeed, verboonde mit de [[zelfde bewerking]]",
+    "intro": "Kies op basis vaan ‘t probleem det geer wilt oplosse. Achterin deile de producte dezelfde informatie.",
+    "items": {
+      "commercial": {
+        "title": "Commercieel beheer",
+        "text": "Bestellinge, prijze, klante en veurraod veur daag-tot-daag distributie."
+      },
+      "field": {
+        "title": "verkoopspersoneel",
+        "text": "Verkopers die bestellinge aannumme op straot, online of offline."
+      },
+      "warehouse": {
+        "title": "Winkel",
+        "text": "Ontvangs, ophaole, verzending en ‘n veurraod dee vertrouwd kin weure."
+      },
+      "logistics": {
+        "title": "Logistiek en levering",
+        "text": "Routes, chauffeurs en de status vaan eder levering."
+      },
+      "purchasing": {
+        "title": "Aankope en leveranciers",
+        "text": "Aanbiedinge, besjtellinge en un portaal veur wee uch ouch levere."
+      },
+      "finance": {
+        "title": "Financiën en boekhouding",
+        "text": "Inzamelinge, betalinge, elektronische fakturering en boekhouding."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrieje",
+    "title": "Gemaakt veur diegene die [[product verplaats]]",
+    "intro": "FullVendor is gebore in de distributie en geit same mit bedrieve die koupe, opslaon, verkoupe en levere.",
+    "items": {
+      "wholesale": {
+        "title": "Distributie en groothandel",
+        "text": "Prijslies, portefeuille, distributie en verzameling in ein circuit."
+      },
+      "retail": {
+        "title": "Winkelverkaup",
+        "text": "Winkel en magazijn mit verboonde veurraod, verkoupe en bijvölling."
+      },
+      "food": {
+        "title": "Ete en drinke",
+        "text": "Frequente routes en un magazijn dat neet kin stoppe."
+      },
+      "pharma": {
+        "title": "Apotheek en persoonleke verzörging",
+        "text": "Ontvangs, ophaole en veurraodcontrole mit traceerbaarheid."
+      },
+      "hardware": {
+        "title": "Hardware en bouw",
+        "text": "Väöl referenties, leveranciers en leveringe nao de werk of de winkel."
+      },
+      "fmcg": {
+        "title": "Massaconsumptie",
+        "text": "Straotverkoopspersoneel en hoege omzetvervanging."
+      },
+      "manufacturing": {
+        "title": "Productie",
+        "text": "Aankoupe, magazijn en veurraod in lijn met de administratie."
+      },
+      "lastmile": {
+        "title": "Aflevering en lètste mijl",
+        "text": "Routes, chauffeurs en de status vaan eder levering."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Bronne",
+    "title": "Dudelike ideeje um [[de bewèrking te bepaole]]",
+    "intro": "Korte gidse veur distributiemanagers die gaon beslisse bij welk systeem ze motte blieve.",
+    "items": {
+      "unify": {
+        "title": "Wie kinste de verdeiling in ein systeem vereinege",
+        "summary": "Wat te iers samestèlle es verkoupe, magazijn en inzamelinge in versjillende bestande zitte.",
+        "points": [
+          "Begin mit klante, producte en prijze: ze zien de lieraar dee iedereen gebruuk.",
+          "Verbind de besjtelling mit de voorraad veurtot ge meer toepassinge toevoog.",
+          "‘t Meet ‘n eenvoudig getal: besjtellinge die zien voltoejd zoonder ‘t formulier te herhaole."
+        ]
+      },
+      "offline": {
+        "title": "Verkoopspersoneel wèrk offline",
+        "summary": "Wat te vereise vaan ‘n bestellingsapp zodat de verkoper neet stopt vanwege ‘t signaal.",
+        "points": [
+          "De catalogus en de portemonnee motte op de telefoon zitte, neet allein in de cloud.",
+          "De bestelling weurt opgeslage op ‘t apparaat en geüpload es ‘t netwerk trökkeert.",
+          "Bij ‘t synchronisere kump de besjtelling al in ‘t magazijn."
+        ]
+      },
+      "warehouse": {
+        "title": "Magazijn mit barcode, zonder papier",
+        "summary": "Wie gaon geer vaan de gedrukde lies nao de bevestigde keuze op de telefoon.",
+        "points": [
+          "Ontvang tege de bestelling, neet tege ‘t geheuge.",
+          "Bevestig eder item bij ‘t sjeije. De kever snijt de gang in.",
+          "De verzending updatet de veurraod die de verkoper ziet."
+        ]
+      },
+      "finance": {
+        "title": "Collectie in lijn mit de verkoup",
+        "summary": "Waarom de verkoper de sjöld vaan de klant zouw motte zeen veurtot heer nog ‘n bestelling aannump.",
+        "points": [
+          "‘t Bezeuk is de beste momint um in te haole, es de sjöld zichbaar is.",
+          "Verkoupe en financiën motte nao dezelfde klant kieke.",
+          "‘n Daagliks vertraogde rapport is meer weerd es ‘n laat sleting."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prijze",
+    "title": "‘n Ecosysteem dat [[mit dich greujt]]",
+    "intro": "Ver publicere gein generieke tarief: de koste zien aafhankelik vaan de modules, de gebrukers en ‘t volume. Ver laote uch ‘t platform zien en stèlle ‘n veursjtel same mit uch operatie.",
+    "note": "De demo heet gein koste en heet gein contrak nuudig.",
+    "recommended": "Aanbevole",
+    "faq_title": "Veurkaomende vraoge",
+    "plans": {
+      "essential": {
+        "name": "Veurnaamste",
+        "desc": "Um commercieel management en distributie op ein platform te organisere.",
+        "features": [
+          "FullVendor webplatform",
+          "Verkoupe, aankoupe en veurraod",
+          "Klante, leveranciers en rapporte",
+          "Gebruukers vaan kantoorapparatuur",
+          "Ondersteuning veur start-up"
+        ],
+        "cta": "Demo aanvraoge"
+      },
+      "professional": {
+        "name": "Profesjoneel",
+        "desc": "Veur teams die op straot verkoupe en bestellinge in ‘t pakhuis veurbereie.",
+        "features": [
+          "Alles wat essentieel is",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline werk en barcodes",
+          "Mie veld- en pakhuisgebruukers"
+        ],
+        "cta": "Demo aanvraoge"
+      },
+      "corporate": {
+        "name": "Zakelek",
+        "desc": "Veur gróppe die logistiek, inkoop, financiën en versjillende bedrieve nuudig höbbe.",
+        "features": [
+          "Compleet ecosysteem",
+          "Logistics, Vendor Supplier en Finance",
+          "FullVendor ERP en multi-huur",
+          "Elektronische facturering en boekhouding",
+          "Begeleijing en veurrang besjikbaarheid"
+        ],
+        "cta": "Sprek mit de verkoup"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Mot ich alle producte koupe?",
+        "a": "Nee. Geer kin beginne mit FullVendor en apps of ERP toevoege es de bewerking ‘t nuudig heet."
+      },
+      "offline": {
+        "q": "Werke de toepassinge zoonder internet?",
+        "a": "Sales Man en Warehouse blieve wèrke zoonder signaal en synchronisere es ze weer verbinde."
+      },
+      "multi": {
+        "q": "Werk ‘t es ich mie es ein bedrief höb?",
+        "a": "Joa. ERP besjouwt multi-bedrief en ‘t ecosysteem kin masters tusse hun deile."
+      },
+      "demo": {
+        "q": "Wat umvat de demo?",
+        "a": "‘n Toer door ‘t platform mit ‘n koffer die vergeliekbaar is mit de dien. Geen koste en gein verpliechting."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ver toene u FullVendor mit [[u soort bewerking]]",
+    "text": "Vertel us euver eur bedrief en wat geer iers wilt bestelle. De demo heet gein koste."
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Laote we praote euver [[u operatie]]",
+    "text": "Es geer un demo, un veurstel of gewoen um uchzelf te oriëntere tösse de producte wilt, laot daan uch informatie achter en ver zulle reagere.",
+    "email": "Post",
+    "phone": "Teelefoon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Naam",
+    "email": "Post",
+    "phone": "Teelefoon",
+    "company": "Bedrief",
+    "country": "Land",
+    "team": "Teamgrootte",
+    "interest": "Wat interesseert dich?",
+    "message": "Berich",
+    "optional": "Opsjoneel",
+    "choose": "Selectere",
+    "interest_all": "‘t Ganse ecosysteem",
+    "ph_name": "eur naam",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Uw bedrief",
+    "ph_country": "Land",
+    "ph_message": "Vertel us wie geer vandaag wèrk",
+    "privacy_before": "Ich accepteer ‘t gebruuk vaan mien data volgens de",
+    "privacy_after": ".",
+    "submit": "Stuur verzeuk",
+    "sent_title": "Ver ontvange eur verzoek",
+    "sent_text": "Danke. ‘t Verkoopsteam zal nao uch sjrieve um de demo te coördinere of uch vraog te beantwoorde.",
+    "error_required": "Vul dit veld in.",
+    "error_email": "Voer un geldige e-mail in.",
+    "error_phone": "Controleer de telefoon.",
+    "error_privacy": "We höbbe eur toestumming nuudig um contactgegeves te gebruke.",
+    "error_csrf": "De sessie is verloup. Stuur ut formulier opnuuj in.",
+    "error_save": "Ver kooste ut verzeuk neet opsjlaon. Probeer nog ummer.",
+    "error_generic": "Bekiek de gemarkeerde velde.",
+    "error_rate": "Wach un momint veurtot ge un aander verzoek instuurt.",
+    "team_options": {
+      "1-10": "1 tot 10 lui",
+      "11-50": "11 tot 50 lui",
+      "51-200": "51 tot 200 lui",
+      "201-500": "201 tot 500 lui",
+      "500+": "Meer dan 500 lui"
+    }
+  },
+  "video": {
+    "title": "FullVendor in ein minuut",
+    "prev": "Auwd",
+    "next": "Vollige",
+    "slides": [
+      {
+        "title": "‘n Inkel ecosysteem",
+        "text": "Verkoup, magazijn, levering, aankoop en financiering deile klante, veurraod en besjtellinge."
+      },
+      {
+        "title": "Web en mobiel same",
+        "text": "‘t Kantoor wèrk op ‘t platform. De straot en ‘t pakhuis, in de apps, zelfs zoonder signaal."
+      },
+      {
+        "title": "Gemaakt um te verspreide",
+        "text": "Vaan besjtelling tot betaoling, zoonder informatie vaan ‘t eine dossier nao ‘t aandere door te geve."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Zeuk nao producte, oplossinge, industrieje…",
+    "lang_filter": "Zoektaal",
+    "intro": "Zoek produkte, oplossinge, industrieje en middele.",
+    "empty": "Ver höbbe gein resultate gevoonde veur “{q}”.",
+    "hint": "Probeer verkoupe, pakhuis, routes of verzamelinge.",
+    "results": "{n} resultate",
+    "button": "Zoek nao",
+    "kind_product": "Produk",
+    "kind_solution": "Oplossing",
+    "kind_industry": "Industrie",
+    "kind_resource": "Bron"
+  },
+  "notfound": {
+    "title": "Deze pagina is neet",
+    "text": "De link besteit neet of heet de locatie veranderd."
+  },
+  "common": {
+    "what": "Wat oplos",
+    "features": "Wat is inbegrepe",
+    "benefits": "Waarom ut belaankriek is",
+    "for_who": "Veur wee is ut?",
+    "related": "Ouch in ut ecosysteem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Verkoupe vandaag",
+      "orders": "Bestellinge",
+      "clients": "Klante",
+      "products": "Produkte"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Verkoupe",
+      "purchases": "Winkele",
+      "inventory": "Inventaaris",
+      "clients": "Klante",
+      "reports": "Rapporte"
+    },
+    "chart": "Verkoupe",
+    "channel": "Verspreiding per kanaal",
+    "channels": [
+      "Winkel",
+      "Verdeile",
+      "Groothandel",
+      "Angere"
+    ],
+    "orders": "Nieuwste bestellinge",
+    "col_order": "Bestèlling",
+    "col_client": "Klant",
+    "col_status": "Sjtoat",
+    "col_total": "Totaal",
+    "status": [
+      "Geleverd",
+      "Oonderweg",
+      "Oorring"
+    ],
+    "top": "Bes verkochte produkte",
+    "product": "Produk",
+    "sales_menu": [
+      "Klante",
+      "Bestellinge",
+      "Produkte",
+      "Routes",
+      "Synchronisere"
+    ],
+    "warehouse_menu": [
+      "Resepsie",
+      "Pikke",
+      "Inventaaris",
+      "Wegsjture",
+      "Synchronisere"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacybeleid",
+    "privacy_intro": "Dit beleid lègk oet wat we doen mit de data die geer in formuliere op dees site achterlaot.",
+    "privacy": [
+      {
+        "title": "Welke data we verzamele",
+        "text": "Es geer un demo aanvraogt of nao us sjrijf, bewaore ver de naam, bedrief, e-mail, tillefoonnummer es geer ut aongief, ut land, de gruutde vaan ut team, ut produk vaan interesse en de boodsjap. We registrere ouch de datum, de taol vaan de pagina en ‘t IP-adres, um misbruukde inzendinge te veurkomme."
+      },
+      {
+        "title": "Waarveur gebruke we ze?",
+        "text": "Ver gebruke dees data allein um op uch te reagere, un demo te coördinere en un commercieel veurstel veur te bereie. Ver verkoupe ze neet of geve ze neet aon un lies vaan derde partije."
+      },
+      {
+        "title": "Woe weure ze opgeslage en veur wie lang?",
+        "text": "Verzeuke weure opgeslage op de server vaan deze site. Ver behawwe ze veur de tied die nuudig is um uch te bediene en um de commerciële opvolging te bediene, en ver verwijdere ze es ge os dat vraogt of es ze neet langer nuudig zien."
+      },
+      {
+        "title": "U rechte",
+        "text": "Geer kin toegang, corrigering of verwijdering vaan eur data aonvraoge vaan ‘t contactformulier, door dit in ‘t beriech aon te geve. Es ‘t bedrief ‘n e-mail op deze website publiceert, kinste dao ouch sjrieve."
+      }
+    ],
+    "terms_title": "Gebruuksvoorwaardes",
+    "terms_intro": "Dees veurwaarde zien van toepassing op ‘t gebruuk vaan deze FullVendor-inzendingssite.",
+    "terms": [
+      {
+        "title": "Commercieel informatie",
+        "text": "Tekste, veurbeelde vaan ‘t dashboardfiguur en besjrievinge introducere ‘t platform. Ze kinne were aongepas es ‘t produk verandert en zien gein geslote aanbod."
+      },
+      {
+        "title": "De demo is gein contrak",
+        "text": "‘t Inzende vaan ‘t formulier creëert gein verpliechting um ‘n pries te koupe of te reservere. Eeder contrak weurt apaart, sjriftelijk, euvereingekomme mit zien umvang en veurwaardes."
+      },
+      {
+        "title": "Inhoud vaan de site",
+        "text": "‘t FullVendor-handelsmerk, productnaome en de inhoud vaan dees pagina’s behure aon hun eigenaere. Ze kinne neet were gekopiëerd um un aander produk te presentere."
+      },
+      {
+        "title": "Geaccepteerd gebruuk",
+        "text": "Gebruuk de formuliere neet um valse informatie, spam of illegale inhoud in te diene. Ver kinne verzeuke negere die neet euvereinkomme mit un daodwerkelek zakeleke gesprek."
+      }
+    ]
+  }
+}

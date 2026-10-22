@@ -105,8 +105,10 @@ $locale = $requested;
 $i18n = load_lang($locale);
 
 $routeMap = [];
-foreach (FV_PAGES as $pageName) {
-    $routeMap[route_slug($locale, $pageName)] = $pageName;
+foreach (['es', 'en', $locale] as $routeLang) {
+    foreach (FV_PAGES as $pageName) {
+        $routeMap[route_slug($routeLang, $pageName)] = $pageName;
+    }
 }
 
 $rest = array_slice($segments, 1);
@@ -199,7 +201,7 @@ header('X-Frame-Options: SAMEORIGIN');
 function sitemap_xml(): string
 {
     $pages = ['home', 'products', 'solutions', 'industries', 'pricing', 'resources', 'contact', 'demo', 'privacy', 'terms'];
-    $locales = array_keys(available_locales());
+    $locales = array_keys(translated_locales());
     $entries = [];
     foreach ($locales as $lang) {
         foreach ($pages as $page) {

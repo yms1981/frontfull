@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Bainistigh agus fás do ghnó",
+    "home_desc": "Ardán uile-i-amháin le réitigh ghréasáin agus soghluaiste le haghaidh dáileadh, díolacháin, lóistíocht, ceannach, fardal agus airgeadas.",
+    "products_title": "Táirgí | FullVendor",
+    "products_desc": "Cuir aithne ar an éiceachóras FullVendor: ardán tráchtála, ERP, lóistíocht, soláthraithe agus díolacháin, trádstórais agus aipeanna airgeadais.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Réitigh | FullVendor",
+    "solutions_desc": "Réitigh do bhainistíocht tráchtála, fórsa díolacháin, stóras, lóistíocht, ceannach agus airgeadas.",
+    "industries_title": "Tionscail | FullVendor",
+    "industries_desc": "FullVendor le dáileadh, miondíol, bia, cógaslann, crua-earraí, olltomhaltas, déantúsaíocht agus míle deireanach.",
+    "pricing_title": "Praghsanna | FullVendor",
+    "pricing_desc": "Pleananna Riachtanacha, Gairmiúla agus Corparáideacha. Cuirtear an togra le chéile de réir modúil, úsáideoirí agus toirte.",
+    "resources_title": "Acmhainní | FullVendor",
+    "resources_desc": "Treoracha gearra chun dáileadh a aontú, díol as líne, an stóras a eagrú agus íocaíocht a fháil in am.",
+    "contact_title": "Teagmháil | FullVendor",
+    "contact_desc": "Scríobh chugainn le foghlaim faoi FullVendor nó comhordaigh comhrá leis an bhfoireann díolacháin.",
+    "demo_title": "Iarratas taispeána | FullVendor",
+    "demo_desc": "Iarr taispeántas FullVendor agus tabhair cuairt ar an ardán le cás cosúil le d’oibríocht.",
+    "privacy_title": "Príobháideacht | FullVendor",
+    "terms_title": "Téarmaí | FullVendor",
+    "search_title": "Cuardach | FullVendor",
+    "notfound_title": "Leathanach gan aimsiú | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Leathanach baile",
+    "products": "Táirgí",
+    "solutions": "Réitigh",
+    "industries": "Tionscail",
+    "pricing": "Praghsanna",
+    "resources": "Acmhainní",
+    "contact": "Teagmháil",
+    "open_menu": "Roghchlár a oscailt",
+    "close": "Dún"
+  },
+  "cta": {
+    "demo": "Iarr Taispeántas",
+    "contact": "Déan teagmháil linn",
+    "video": "Féach Físeán",
+    "talk": "Labhair le díolacháin",
+    "all_products": "Féach ar na táirgí go léir",
+    "home": "Fill ar an leathanach baile"
+  },
+  "a11y": {
+    "skip": "Léim ar ábhar",
+    "primary": "Príomh-loingseoireachta",
+    "crumbs": "Bealach loingseoireachta",
+    "search": "Cuardaigh le haghaidh",
+    "language": "Teanga"
+  },
+  "hero": {
+    "eyebrow": "Gach in aon ardán amháin",
+    "title": "Bainistigh agus fás\ndo ghnó le\n{{brand}}",
+    "subtitle": "Ardán iomlán le réitigh ghréasáin agus soghluaiste le haghaidh dáileadh, díolacháin, lóistíocht, ceannach, fardal, airgeadas agus go leor eile.",
+    "pill_ecosystem": "Gach rud in éiceachóras amháin",
+    "pill_cloud": "Sa scamall, slán agus inscálaithe",
+    "pill_size": "Do chuideachtaí de gach méid"
+  },
+  "products_block": {
+    "eyebrow": "Ár gcuid táirgí",
+    "title": "A [[éiceachóras iomlán]] do gach réimse de do ghnó",
+    "aside": "Réitigh chomhtháite a oibríonn le chéile chun smacht iomlán, éifeachtúlacht oibriúcháin agus fás níos mó a thabhairt duit.",
+    "groups": {
+      "money": "Riarachán agus bailiú",
+      "flow": "Ceannacháin agus seachadadh",
+      "field": "Díolacháin agus stóras"
+    }
+  },
+  "products_page": {
+    "title": "Seacht dtáirge, [[oibríocht aonair]]",
+    "text": "Réitíonn gach táirge limistéar. Roinneann siad custaiméirí, stoc, orduithe agus íocaíochtaí le chéile."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Ardán",
+      "card": "Príomh-ardán le haghaidh bainistíochta agus dáileadh tráchtála.",
+      "features": [
+        "Díolacháin agus ceannacháin",
+        "Fardal",
+        "Cliaint agus soláthraithe",
+        "Tuarascálacha agus níos mó"
+      ],
+      "lead": "Lár d’oibríochta tráchtála: orduithe, praghsanna, stoc agus custaiméirí in aon áit amháin.",
+      "about": "Cuirtear FullVendor in ionad scarbhileoga agus córais scaoilte an dáileora. As seo a thagann orduithe amach, téitear i gcomhairle le fardal, tugtar aire do phunann custaiméirí agus breathnaítear ar líon an lae. Ceanglaíonn an chuid eile den éiceachóras leis an mbonn seo.",
+      "benefits": [
+        {
+          "title": "Máistir sonraí amháin",
+          "text": "Roinntear custaiméirí, táirgí agus praghsanna le díolacháin, trádstórais agus airgeadas."
+        },
+        {
+          "title": "Oibriú laethúil soiléir",
+          "text": "Stopann orduithe, ceannacháin agus stoic maireachtáil i gcomhaid éagsúla."
+        },
+        {
+          "title": "Tuarascálacha le cinneadh a dhéanamh",
+          "text": "Feictear díolacháin, corrlach agus ar feitheamh gan tábla a chur le chéile de láimh."
+        },
+        {
+          "title": "Réidh le fás",
+          "text": "Suimeanna lóistíochta, díolacháin nó ERP nuair a iarrann an oibríocht é."
+        }
+      ],
+      "audience": "Foirne tráchtála agus dáileacháin a chomhordaíonn an gnó idir córais éagsúla inniu."
+    },
+    "erp": {
+      "kicker": "Riarachán",
+      "card": "Bainistíocht riaracháin agus airgeadais a chomhlánú.",
+      "features": [
+        "Cuntasaíocht",
+        "Billeáil leictreonach",
+        "Bileoga oibre",
+        "Sócmhainní seasta",
+        "Il-chuideachta"
+      ],
+      "lead": "Riarachán agus airgeadas, ailínithe leis an méid a dhíoltar agus a sheachadtar.",
+      "about": "Clúdaíonn FullVendor ERP cuntasaíocht, sonrascadh leictreonach, párolla, sócmhainní seasta agus ilchuideachta. Glacann sé an oibríocht tráchtála agus déanann sé iontrálacha, admhálacha agus ráitis é ar féidir leis an réimse airgeadais a úsáid.",
+      "benefits": [
+        {
+          "title": "Cuntasaíocht nasctha",
+          "text": "Cothaíonn an méid a tharlaíonn i ndíolacháin agus i gceannacháin cuntasaíocht."
+        },
+        {
+          "title": "Admhálacha leictreonacha",
+          "text": "Eisíonn agus rialaíonn tú billeáil ón éiceachóras céanna."
+        },
+        {
+          "title": "Cuideachtaí éagsúla",
+          "text": "Ilchuideachta do ghrúpaí a oibríonn faoi níos mó ná ainm cuideachta amháin."
+        },
+        {
+          "title": "Párolla agus sócmhainní",
+          "text": "Párolla agus sócmhainní seasta mar aon leis an gcuid eile den bhainistíocht."
+        }
+      ],
+      "audience": "Réimsí riaracháin agus airgeadais atá ag iarraidh na huimhreacha a dhúnadh leis an oibríocht fíor."
+    },
+    "logistics": {
+      "kicker": "Loighistic",
+      "card": "Rialú agus monatóireacht ar d'oibríocht lóistíochta.",
+      "features": [
+        "Bealaí agus seachadtaí",
+        "Rianú fíor-ama",
+        "Tiománaí tasc",
+        "Optimization bealaigh"
+      ],
+      "lead": "Ón ordú go seachadadh: bealaí, tiománaithe agus rianú fíor-ama.",
+      "about": "FullVendor Logistics a eagraíonn an dáileadh. Cruthaíonn tú bealaí, sannann tú tiománaithe agus feiceann tú cá bhfuil gach seachadadh ag dul. Stopann an fhoireann tráchta ag brath ar ghlaonna le fáil amach an bhfuil an t-ordú seolta.",
+      "benefits": [
+        {
+          "title": "Bealaí an lae",
+          "text": "Seachadtaí arna n-ordú de réir crios, fuinneog ama agus toilleadh."
+        },
+        {
+          "title": "Tiománaí sannta",
+          "text": "Tá duine i gceannas ar gach bealach agus seicheamh soiléir."
+        },
+        {
+          "title": "Leantach",
+          "text": "Tá a fhios agat cad a sheachadtar, ar an mbealach nó a stoptar."
+        },
+        {
+          "title": "Níos lú ciliméadar",
+          "text": "Laghdaíonn leas iomlán a bhaint bealaí am seachadta agus costas."
+        }
+      ],
+      "audience": "Oibríochtaí dáileacháin leis an bhflít féin nó le tríú páirtithe."
+    },
+    "supplier": {
+      "kicker": "Siopadóireacht",
+      "card": "Tairseach do sholáthróirí agus bainistíocht ceannacháin.",
+      "features": [
+        "Orduithe ceannaigh",
+        "Sleachta",
+        "Bainistíocht soláthraí",
+        "Comhtháthú le fardal"
+      ],
+      "lead": "Dearbhaíonn do sholáthraithe, faigheann siad orduithe agus athlíonann siad stoc gan ríomhphoist scaoilte.",
+      "about": "Osclaíonn Vendor Supplier tairseach le haghaidh ceannacháin agus soláthraithe chun oibriú ar na horduithe céanna. Tá meastacháin, orduithe ceannaigh agus admháil ceangailte le fardal FullVendor.",
+      "benefits": [
+        {
+          "title": "Orduithe i gcainéal",
+          "text": "Feiceann an soláthraí cad atá le seachadadh, gan slabhra ríomhphoist."
+        },
+        {
+          "title": "Sleachta inchomparáide",
+          "text": "Iarrann tú praghsanna agus roghnaíonn tú leis an stair atá i gceist."
+        },
+        {
+          "title": "Máistir Soláthraí",
+          "text": "Coinníollacha, teagmhálacha agus ar feitheamh i dtaifead amháin."
+        },
+        {
+          "title": "Cuir isteach an fardal",
+          "text": "Léirítear an méid a ceannaíodh sa stoc nuair a fhaightear é."
+        }
+      ],
+      "audience": "Foirne ceannaigh a athlánaíonn le roinnt soláthraithe agus a dteastaíonn inrianaitheacht uathu."
+    },
+    "salesman": {
+      "kicker": "App soghluaiste",
+      "card": "Iarratas soghluaiste don fhoireann díolacháin.",
+      "features": [
+        "Bainistíocht custaiméirí",
+        "Ordú a ghlacadh",
+        "Catalóg táirgí",
+        "Obair as líne"
+      ],
+      "lead": "Glacann an fórsa díolacháin orduithe ar an tsráid, le comhartha nó gan comhartha.",
+      "about": "FullVendor Sales Man cuireann sé do phunann, catalóg agus ordú a ghlacadh ar ghuthán an díoltóra. Mura bhfuil idirlíon ann, leanann an obair ar aghaidh agus sioncronaíonn sí nuair a fhilleann an comhartha. Tagann an t-ordú réidh le hullmhú agus le seachadadh.",
+      "benefits": [
+        {
+          "title": "Sparán sa phóca",
+          "text": "Feiceann an díoltóir cliaint, coinníollacha agus míreanna ar feitheamh."
+        },
+        {
+          "title": "Ordú ag cuairt",
+          "text": "Glac an t-ordú le praghsanna reatha agus stoc."
+        },
+        {
+          "title": "Catalóg suas chun dáta",
+          "text": "Táirgí, cur i láthair agus praghsanna gan sean-PDF."
+        },
+        {
+          "title": "Fíorúil as líne",
+          "text": "Oibrigh gan clúdach agus sioncrónaigh níos déanaí."
+        }
+      ],
+      "audience": "Maoirseoirí agus díoltóirí allamuigh i ndáileadh agus tomhaltas mais."
+    },
+    "warehouse": {
+      "kicker": "App soghluaiste",
+      "card": "Iarratas soghluaiste le haghaidh stóras.",
+      "features": [
+        "Fáiltiú agus seoladh",
+        "Piocadh agus pacáil",
+        "Rialú fardail",
+        "Léamh barrachóid"
+      ],
+      "lead": "Fáiltiú, piocadh agus seoladh leis an teileafón agus barrachóid.",
+      "about": "Treoraíonn FullVendor Warehouse an stóras maidir le fáiltiú, piocadh, pacáil agus seoladh. Laghdaíonn cóid léitheoireachta earráidí agus ní dhéantar fardal a chomhaireamh a thuilleadh ach ag deireadh na míosa.",
+      "benefits": [
+        {
+          "title": "Fáiltiú in aghaidh ordú",
+          "text": "Is é an rud a thagann isteach i gcomparáid leis an gceannach."
+        },
+        {
+          "title": "Piocadh spriocdhírithe",
+          "text": "Leanann an t-úinéir loinge an t-ordú agus deimhníonn sé gach mír."
+        },
+        {
+          "title": "Barrachóid",
+          "text": "Níos lú earráidí táirge, bhaisc nó cainníochta."
+        },
+        {
+          "title": "Stoc iontaofa",
+          "text": "Déanann gach gluaiseacht fardal an ardáin a nuashonrú."
+        }
+      ],
+      "audience": "Bainisteoirí stórais agus úinéirí long a ullmhaíonn orduithe inniu le liostaí clóite."
+    },
+    "finance": {
+      "kicker": "App soghluaiste",
+      "card": "Rialú airgeadais ó do ghuthán póca.",
+      "features": [
+        "Cuntais infhaighte agus iníoctha",
+        "Stádas custaiméara",
+        "Íocaíochtaí agus réitigh",
+        "Tuarascálacha airgeadais"
+      ],
+      "lead": "Cuntais infhaighte, íocaíochtaí agus stádas custaiméara, ó do ghuthán.",
+      "about": "Taispeánann FullVendor Finance an bailiúchán ar an bhfón póca: an méid atá ag gach cliant, cad atá ar an gcuideachta a íoc agus conas a thagann na híocaíochtaí. Úsáidtear é chun airgead a bhailiú le linn na cuairte agus chun breathnú ar an gclár airgid gan an deasc a oscailt.",
+      "benefits": [
+        {
+          "title": "Bailiúchán ag an gcuairt",
+          "text": "Tá a fhios ag an díoltóir an bhfuil an custaiméir cothrom le dáta roimh dhíol."
+        },
+        {
+          "title": "Infhaighte agus iníoctha",
+          "text": "An dá thaobh den bhosca san app céanna."
+        },
+        {
+          "title": "Íocaíochtaí agus réitigh",
+          "text": "Cláraíonn tú creidmheasanna agus feiceann tú cad is gá a thrasnú."
+        },
+        {
+          "title": "Tuarascálacha ar láimh",
+          "text": "Bailiúchán agus táscairí airgid gan fanacht le dúnadh."
+        }
+      ],
+      "audience": "Bainisteoirí, bailitheoirí agus salespeople a bhfuil gá acu le staid an chliaint i láthair na huaire."
+    }
+  },
+  "why": {
+    "eyebrow": "Cén fáth FullVendor",
+    "title": "Treisiú do ghnó\nle torthaí fíor",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Tá muinín ag cuideachtaí asainn"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Úsáideoirí gníomhacha"
+      },
+      {
+        "value": "+10",
+        "suffix": "blianta",
+        "label": "In éabhlóid leanúnach"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Infhaighteacht scamall"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Conas a oibríonn sé",
+    "title": "Ó dhíol go bailiúchán, gan córais a athrú",
+    "text": "Roinneann gach táirge custaiméirí, stoc, orduithe agus íocaíochtaí. Cad a tharlaíonn ar an tsráid nó sa stóras le feiceáil san oifig láithreach.",
+    "steps": {
+      "sell": {
+        "title": "Dhíol tú",
+        "text": "Cuirtear an t-ordú isteach tríd an suíomh Gréasáin nó trí Sales Man, fiú gan comhartha."
+      },
+      "pick": {
+        "title": "Réidh",
+        "text": "Warehouse Faigheann, scarann ​​agus seoltar le barrachód."
+      },
+      "deliver": {
+        "title": "Seachadtaí",
+        "text": "Sannann Logistics an bealach agus leanann sé an seachadadh."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance agus ERP dún an bailiúchán, na hadmhálacha agus na huimhreacha."
+      }
+    }
+  },
+  "band": {
+    "title": "Réidh chun é a fheiceáil le [[d'oibríocht]]?",
+    "text": "Léiríonn muid duit an éiceachóras le cás dáileacháin cosúil leis an gceann atá agatsa."
+  },
+  "footer": {
+    "blurb": "Ardán gréasáin agus soghluaiste le haghaidh dáileadh, díolacháin, lóistíochta, ceannach, fardal agus airgeadas.",
+    "products": "Táirgí",
+    "company": "Cuideachta",
+    "legal": "Dlíthiúil",
+    "privacy": "Príobháideacht",
+    "terms": "Téarmaí",
+    "rights": "Gach ceart ar cosaint."
+  },
+  "solutions": {
+    "eyebrow": "Réitigh",
+    "title": "Gach limistéar, ceangailte leis an [[oibríocht chéanna]]",
+    "intro": "Roghnaigh de réir na faidhbe is mian leat a réiteach. Taobh thiar de, roinneann na táirgí an fhaisnéis chéanna.",
+    "items": {
+      "commercial": {
+        "title": "Bainistíocht tráchtála",
+        "text": "Orduithe, praghsanna, custaiméirí agus fardal le dáileadh ó lá go lá."
+      },
+      "field": {
+        "title": "fórsa díolacháin",
+        "text": "Díoltóirí a ghlacann orduithe ar an tsráid, ar líne nó as líne."
+      },
+      "warehouse": {
+        "title": "Stóráil",
+        "text": "Fáiltiú, piocadh, seoladh agus stoc is féidir a bheith iontaofa."
+      },
+      "logistics": {
+        "title": "Loighistic agus seachadadh",
+        "text": "Bealaí, tiománaithe agus stádas gach seachadta."
+      },
+      "purchasing": {
+        "title": "Ceannach agus soláthraithe",
+        "text": "Sleachta, orduithe agus tairseach don té a sholáthraíonn tú."
+      },
+      "finance": {
+        "title": "Airgeadas agus cuntasaíocht",
+        "text": "Bailiúcháin, íocaíochtaí, billeáil leictreonach agus cuntasaíocht."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Tionscail",
+    "title": "Déanta dóibh siúd a [[bogann táirge]]",
+    "intro": "Rugadh FullVendor sa dáileachán agus téann sé in éineacht le cuideachtaí a cheannaíonn, a stórálann, a dhíolann agus a sheachadann.",
+    "items": {
+      "wholesale": {
+        "title": "Dáileadh agus mórdhíola",
+        "text": "Praghasliostaí, punann, dáileadh agus bailiú i gciorcad amháin."
+      },
+      "retail": {
+        "title": "Miondíol",
+        "text": "Stóras agus trádstóras le stoc ceangailte, díolacháin agus athsholáthar."
+      },
+      "food": {
+        "title": "Bia agus deochanna",
+        "text": "Bealaí minice agus stóras nach féidir a stopadh."
+      },
+      "pharma": {
+        "title": "Cógaisíocht agus cúram pearsanta",
+        "text": "Fáiltiú, piocadh agus rialú fardail le hinrianaitheacht."
+      },
+      "hardware": {
+        "title": "Crua-earraí agus tógáil",
+        "text": "Go leor tagairtí, soláthraithe agus seachadtaí chuig an obair nó a stóráil."
+      },
+      "fmcg": {
+        "title": "Tomhaltas mais",
+        "text": "Fórsa díolacháin sráide agus athsholáthar ard láimhdeachais."
+      },
+      "manufacturing": {
+        "title": "Monarú",
+        "text": "Ceannach, stóras agus fardal ailínithe le riarachán."
+      },
+      "lastmile": {
+        "title": "Seachadadh agus an míle deireanach",
+        "text": "Bealaí, tiománaithe agus stádas gach seachadta."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Acmhainní",
+    "title": "Smaointe soiléir chun [[an oibríocht a ordú]]",
+    "intro": "Treoracha gearra do bhainisteoirí dáileacháin atá chun cinneadh a dhéanamh maidir leis an gcóras ar cheart cloí leis.",
+    "items": {
+      "unify": {
+        "title": "Conas an dáileadh a aontú i gcóras amháin",
+        "summary": "Cad is cóir a chur le chéile ar dtús nuair a chónaíonn díolacháin, trádstórais agus bailiúcháin i gcomhaid éagsúla.",
+        "points": [
+          "Tosaigh le custaiméirí, táirgí agus praghsanna: is iadsan an múinteoir a úsáideann gach duine.",
+          "Ceangail an t-ordú leis an stoc sula gcuirtear níos mó iarratais leis.",
+          "Tomhaiseann sé uimhir shimplí: orduithe comhlíonta gan an fhoirm a athdhéanamh."
+        ]
+      },
+      "offline": {
+        "title": "Fórsa díolacháin ag obair as líne",
+        "summary": "Cad a theastaíonn ó app ordú ionas nach stopann an díoltóir mar gheall ar an comhartha.",
+        "points": [
+          "Caithfidh an chatalóg agus an sparán a bheith ar an bhfón, ní hamháin sa scamall.",
+          "Sábháiltear an t-ordú ar an ngléas agus uaslódáiltear é nuair a fhilleann an líonra.",
+          "Nuair a dhéantar sioncrónú, téann an t-ordú isteach sa stóras cheana féin."
+        ]
+      },
+      "warehouse": {
+        "title": "Stóras le barrachóid, gan páipéar",
+        "summary": "Conas dul ón liosta clóite go dtí an piocadh deimhnithe ar an bhfón.",
+        "points": [
+          "Faigh i gcoinne an ordaithe ceannaigh, ní i gcoinne cuimhne.",
+          "Deimhnigh gach mír agus tú ag scaradh. Gearrann an fabht isteach sa halla.",
+          "Nuashonraíonn an seoladh an stoc a fheiceann an díoltóir."
+        ]
+      },
+      "finance": {
+        "title": "Bailiúchán ailínithe leis an díolachán",
+        "summary": "Cén fáth ar cheart don díoltóir fiacha an chustaiméara a fheiceáil sula ndéanann sé ordú eile.",
+        "points": [
+          "Is é an chuairt an t-am is fearr le bailiú, má tá an fiach le feiceáil.",
+          "Caithfidh díolacháin agus airgeadas breathnú ar an gcustaiméir céanna.",
+          "Is fiú níos mó ná dúnadh déanach tuairisc laethúil thar téarma."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Praghsanna",
+    "title": "Éiceachóras a [[a fhásann leat]]",
+    "intro": "Ní fhoilsímid ráta cineálach: braitheann an costas ar na modúil, na húsáideoirí agus an toirt. Léiríonn muid an t-ardán duit agus cuirimid togra le chéile le d’oibríocht.",
+    "note": "Níl aon chostas ar an taispeántas agus ní gá conradh.",
+    "recommended": "Molta",
+    "faq_title": "Ceisteanna coitianta",
+    "plans": {
+      "essential": {
+        "name": "Riachtanach",
+        "desc": "Bainistíocht agus dáileadh tráchtála a eagrú ar ardán amháin.",
+        "features": [
+          "FullVendor ardán gréasáin",
+          "Díolacháin, ceannacháin agus fardal",
+          "Cliaint, soláthraithe agus tuarascálacha",
+          "Úsáideoirí trealaimh oifige",
+          "Tacaíocht tosaithe"
+        ],
+        "cta": "Iarr Taispeántas"
+      },
+      "professional": {
+        "name": "Gairmiúil",
+        "desc": "D'fhoirne a dhíol ar an tsráid agus orduithe a ullmhú sa stóras.",
+        "features": [
+          "Gach rud Riachtanach",
+          "Aip FullVendor Sales Man",
+          "Aip FullVendor Warehouse",
+          "Obair as líne agus barrachóid",
+          "Níos mó úsáideoirí allamuigh agus stórais"
+        ],
+        "cta": "Iarr Taispeántas"
+      },
+      "corporate": {
+        "name": "Corparáideach",
+        "desc": "Do ghrúpaí a bhfuil gá acu le lóistíocht, ceannach, airgeadas agus cuideachtaí éagsúla.",
+        "features": [
+          "Éiceachóras iomlán",
+          "Logistics, Vendor Supplier agus Finance",
+          "FullVendor ERP agus ilthionóntacht",
+          "Billeáil leictreonach agus cuntasaíocht",
+          "Tionlacan agus infhaighteacht tosaíochta"
+        ],
+        "cta": "Labhair le díolacháin"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "An gcaithfidh mé na táirgí go léir a cheannach?",
+        "a": "Is féidir leat tosú le FullVendor agus aipeanna nó ERP a chur leis nuair a bhíonn sé ag teastáil ón oibríocht."
+      },
+      "offline": {
+        "q": "An oibríonn na feidhmchláir gan idirlíon?",
+        "a": "Sales Man agus Warehouse leanúint ar aghaidh ag obair gan comhartha agus sioncrónaigh agus tú ag athcheangal."
+      },
+      "multi": {
+        "q": "An n-oibríonn sé má tá níos mó ná cuideachta amháin agam?",
+        "a": "Tá. Déanann ERP machnamh ar ilchuideachta agus is féidir leis an éiceachóras máistrí a roinnt eatarthu."
+      },
+      "demo": {
+        "q": "Cad a chuimsíonn an taispeántas?",
+        "a": "Turas timpeall an ardáin le cás cosúil leis an gceann atá agatsa. Gan chostas agus gan aon oibleagáid."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Taispeántas",
+    "title": "Taispeánaimid FullVendor duit le [[do chineál oibríochta]]",
+    "text": "Inis dúinn faoi do chuideachta agus cad ba mhaith leat a ordú ar dtús. Níl aon chostas ar an taispeántas."
+  },
+  "contact": {
+    "eyebrow": "Teagmháil",
+    "title": "Labhraímis faoi [[d’oibríocht]]",
+    "text": "Más mian leat taispeántas, togra nó díreach chun tú féin a threorú idir na táirgí, fág do chuid faisnéise agus tabharfaimid freagra.",
+    "email": "Ríomhphost",
+    "phone": "Fón",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ainm",
+    "email": "Ríomhphost",
+    "phone": "Fón",
+    "company": "Cuideachta",
+    "country": "Tír",
+    "team": "Méid foirne",
+    "interest": "Cad a bhfuil spéis agat ann?",
+    "message": "Teachtaireacht",
+    "optional": "Roghnach",
+    "choose": "Roghnaigh",
+    "interest_all": "An éiceachóras ar fad",
+    "ph_name": "d'ainm",
+    "ph_email": "tusa@cuideachta.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Do chuideachta",
+    "ph_country": "Tír",
+    "ph_message": "Inis dúinn conas a oibríonn tú inniu",
+    "privacy_before": "Glacaim le húsáid mo shonraí de réir an",
+    "privacy_after": ".",
+    "submit": "Seol iarratas",
+    "sent_title": "Faighimid d'iarratas",
+    "sent_text": "Go raibh maith agat. Scríobhfaidh an fhoireann díolacháin chugat chun an taispeántas a chomhordú nó chun do cheist a fhreagairt.",
+    "error_required": "Comhlánaigh an réimse seo.",
+    "error_email": "Cuir isteach ríomhphost bailí.",
+    "error_phone": "Seiceáil an fón.",
+    "error_privacy": "Teastaíonn do thoiliú uainn chun sonraí teagmhála a úsáid.",
+    "error_csrf": "Tá an seisiún imithe in éag. Seol an fhoirm ar ais.",
+    "error_save": "Níorbh fhéidir linn an t-iarratas a shábháil. Bain triail eile as.",
+    "error_generic": "Déan athbhreithniú ar na réimsí marcáilte.",
+    "error_rate": "Fan nóiméad roimh iarratas eile a chur isteach.",
+    "team_options": {
+      "1-10": "1 go 10 duine",
+      "11-50": "11 go 50 duine",
+      "51-200": "51 go 200 duine",
+      "201-500": "201 go 500 duine",
+      "500+": "Níos mó ná 500 duine"
+    }
+  },
+  "video": {
+    "title": "FullVendor i nóiméad amháin",
+    "prev": "iar",
+    "next": "Ag leanúint",
+    "slides": [
+      {
+        "title": "Éiceachóras amháin",
+        "text": "Díolacháin, trádstórais, seachadadh, ceannach agus sciar custaiméirí, stoc agus orduithe."
+      },
+      {
+        "title": "Gréasáin agus soghluaiste le chéile",
+        "text": "Oibríonn an oifig ar an ardán. An tsráid agus an stóras, sna apps, fiú gan comhartha."
+      },
+      {
+        "title": "Déanta a dháileadh",
+        "text": "Ó ordú go híocaíocht, gan faisnéis a aistriú ó chomhad amháin go ceann eile."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Cuardaigh táirgí, réitigh, tionscail…",
+    "lang_filter": "Cuardaigh teanga",
+    "intro": "Cuardaigh táirgí, réitigh, tionscail agus acmhainní.",
+    "empty": "Ní bhfuaireamar torthaí do “{q}”.",
+    "hint": "Bain triail as díolacháin, trádstórais, bealaí nó bailiúcháin.",
+    "results": "{n} torthaí",
+    "button": "Cuardaigh le haghaidh",
+    "kind_product": "Táirge",
+    "kind_solution": "Réiteach",
+    "kind_industry": "Tionscal",
+    "kind_resource": "Acmhainn"
+  },
+  "notfound": {
+    "title": "Níl an leathanach seo",
+    "text": "Níl an nasc ann nó tá suíomh athraithe aige."
+  },
+  "common": {
+    "what": "Cad a réitíonn",
+    "features": "Cad atá san áireamh",
+    "benefits": "Cén fáth go bhfuil sé tábhachtach",
+    "for_who": "Cé dó a bhfuil sé?",
+    "related": "Chomh maith leis sin san éiceachóras"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Díolacháin inniu",
+      "orders": "Orduithe",
+      "clients": "Custaiméirí",
+      "products": "Táirgí"
+    },
+    "sidebar": {
+      "dashboard": "Deais",
+      "sales": "Díolacháin",
+      "purchases": "Siopadóireacht",
+      "inventory": "Fardal",
+      "clients": "Custaiméirí",
+      "reports": "Tuarascálacha"
+    },
+    "chart": "Díolacháin",
+    "channel": "Dáileadh de réir cainéil",
+    "channels": [
+      "Stóráil",
+      "Dáileadh",
+      "Mórdhíoltóir",
+      "Daoine eile"
+    ],
+    "orders": "Orduithe is déanaí",
+    "col_order": "Ordú",
+    "col_client": "Custaiméir",
+    "col_status": "Stáit",
+    "col_total": "Iomlán",
+    "status": [
+      "Seachadadh",
+      "Ar an mbealach",
+      "cluaise"
+    ],
+    "top": "Táirgí díola is fearr",
+    "product": "Táirge",
+    "sales_menu": [
+      "Custaiméirí",
+      "Orduithe",
+      "Táirgí",
+      "Bealaí",
+      "Sioncrónaigh"
+    ],
+    "warehouse_menu": [
+      "Fáiltiú",
+      "Ag piocadh",
+      "Fardal",
+      "Seolta",
+      "Sioncrónaigh"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Beartas Príobháideachta",
+    "privacy_intro": "Míníonn an polasaí seo cad a dhéanaimid leis na sonraí a fhágann tú i bhfoirmeacha ar an suíomh seo.",
+    "privacy": [
+      {
+        "title": "Cad iad na sonraí a bhailímid",
+        "text": "Má iarrann tú taispeántas nó má scríobhann tú chugainn, sábhálann tú an t-ainm, an chuideachta, an ríomhphost, an uimhir theileafóin má chuireann tú in iúl é, an tír, méid na foirne, an táirge spéise agus an teachtaireacht. Déanaimid taifead freisin ar an dáta, ar theanga an leathanaigh agus ar an seoladh IP, chun aighneachtaí maslacha a chosc."
+      },
+      {
+        "title": "Cad chuige a n-úsáidimid iad?",
+        "text": "Ní úsáidimid na sonraí seo ach chun freagra a thabhairt duit, chun taispeántas a chomhordú agus chun togra tráchtála a ullmhú. Ní dhíolaimid iad ná ní thugann muid do liosta tríú páirtithe iad."
+      },
+      {
+        "title": "Cá bhfuil siad stóráilte agus cé chomh fada?",
+        "text": "Stóráiltear iarratais ar fhreastalaí an tsuímh seo. Coimeádaimid iad ar feadh an ama is gá chun freastal ort agus obair leantach tráchtála, agus scriosaimid iad nuair a iarrann tú orainn nó nuair nach bhfuil gá leo a thuilleadh."
+      },
+      {
+        "title": "Do chearta",
+        "text": "Is féidir leat rochtain, ceartú nó scriosadh do shonraí a iarraidh ón bhfoirm teagmhála, á léiriú sa teachtaireacht. Má fhoilsíonn an chuideachta ríomhphost ar an suíomh Gréasáin seo, is féidir leat scríobh ann freisin."
+      }
+    ],
+    "terms_title": "Téarmaí úsáide",
+    "terms_intro": "Baineann na coinníollacha seo le húsáid an láithreáin aighneachta FullVendor seo.",
+    "terms": [
+      {
+        "title": "Eolas tráchtála",
+        "text": "Cuireann téacsanna, mar shampla, figiúirí deais agus tuairiscí an t-ardán i láthair. Is féidir iad a choigeartú nuair a athraíonn an táirge agus nach tairiscint dúnta iad."
+      },
+      {
+        "title": "Ní conradh é an taispeántas",
+        "text": "Ní chruthaítear oibleagáid praghas a cheannach nó a chur in áirithe má chuirtear isteach an fhoirm. Comhaontaítear aon chonradh ar leithligh, i scríbhinn, lena raon feidhme agus lena choinníollacha."
+      },
+      {
+        "title": "Ábhar an tsuímh",
+        "text": "Is lena n-úinéirí an trádmharc FullVendor, ainmneacha táirgí agus ábhar na leathanaigh seo. Ní féidir iad a chóipeáil chun táirge eile a chur i láthair."
+      },
+      {
+        "title": "Úsáid inghlactha",
+        "text": "Ná húsáid na foirmeacha chun faisnéis bhréagach, turscar nó ábhar mídhleathach a chur isteach. Is féidir linn neamhaird a dhéanamh ar iarratais nach gcomhfhreagraíonn do chomhrá gnó iarbhír."
+      }
+    ]
+  }
+}

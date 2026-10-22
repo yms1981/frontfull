@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Suliffeqarfiit aqutsillugillu ineriartortikkit",
+    "home_desc": "All-in-one platform web-imik aamma mobilimik aaqqiissutissanik siammarterinermut, tuniniaanermut, logistikkimut, pisiniarnermut, nioqqutissanik aamma aningaasaqarnermut.",
+    "products_title": "Nioqqutissat | FullVendor",
+    "products_desc": "Uumassusillit ilisimasaqarfigiuk FullVendor: niuernermi platformi, ERP, logistik, nioqqutissiortut aamma tuniniaaneq, lager aamma aningaasaqarnermut appit.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ajornartorsiutit | FullVendor",
+    "solutions_desc": "Aningaasarsiornikkut aqutsinermut, tuniniaanermut, lager-imut, logistikkimut, pisiniarnermut aningaasaqarnermullu aaqqiissutissat.",
+    "industries_title": "Suliffeqarfiit | FullVendor",
+    "industries_desc": "FullVendor nioqqutissiornermut, pisiniarfimmut, nerisassanut, apotekerimut, hardwaremut, massakkorpiaq atuinermut, nioqqutissiornermut aamma last mile-mut.",
+    "pricing_title": "Akit | FullVendor",
+    "pricing_desc": "Pingaarutilimmik, Suliamik aamma Ingerlatseqatigiiffimmi Pilersaarusiat. Siunnersuut modulit, atuisut aammalu annertussuseq malillugit ataatsimoortinneqarpoq.",
+    "resources_title": "Atortussat | FullVendor",
+    "resources_desc": "Najoqqutassiat naatsut siammarterineq ataatsimoortinniarlugu, offline-imik tuniniaaneq, lager-imik aaqqissuussineq aamma piffissamik naleqquttumik akiliisoqarnissaa.",
+    "contact_title": "Attaveqarfik | FullVendor",
+    "contact_desc": "FullVendor pillugu paasisaqarusukkuit imaluunniit tuniniaanermi teamimi oqaloqatigiinnermik ataqatigiissaariumaguit allagit.",
+    "demo_title": "Demo-mik piumasaqarneq | FullVendor",
+    "demo_desc": "FullVendor-mik demo-mik piumasaqarit aammalu ingerlatsinermut assingusumik suliamik platformimik takornariarit.",
+    "privacy_title": "Inuttut pisinnaatitaaffiit | FullVendor",
+    "terms_title": "Atukkat | FullVendor",
+    "search_title": "Ujaasineq | FullVendor",
+    "notfound_title": "Qupperneq nassaarineqanngilaq | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Qupperneq angerlarsimaffik",
+    "products": "Nioqqutissat",
+    "solutions": "Ajornartorsiutit",
+    "industries": "Suliffissuit",
+    "pricing": "Akit",
+    "resources": "Atortussat",
+    "contact": "Atassuteqaat",
+    "open_menu": "Menu ammasoq",
+    "close": "Matujuk"
+  },
+  "cta": {
+    "demo": "Demo-mik piumasaqarneq",
+    "contact": "Attaveqarfigisinnaavagut",
+    "video": "Video takuuk",
+    "talk": "Tunisassiortut oqaloqatigikkit",
+    "all_products": "Nioqqutissat tamarmik takukkit",
+    "home": "Quppernermut angerlarsimaffimmut uteqqigit"
+  },
+  "a11y": {
+    "skip": "Imarisanut ingerlagit",
+    "primary": "Pingaarnertut navianartorsiorneq",
+    "crumbs": "Navigation-imik aqqut",
+    "search": "Ujarlugu",
+    "language": "Oqaatsit"
+  },
+  "hero": {
+    "eyebrow": "Tamarmik ataatsimi platformimi",
+    "title": "Aqutsineq aamma ineriartorneq\nsuliffeqarfiit atorlugit\n{{brand}}",
+    "subtitle": "Platformi tamakkersimasoq web-imik aamma mobilimik aaqqiissutissanik siammarterinermut, tuniniaanermut, logistikkimut, pisiniarnermut, nioqqutissanik, aningaasaqarnermut allanullu.",
+    "pill_ecosystem": "Suut tamarmik ataatsimi økosystemimi",
+    "pill_cloud": "Cloudimi, isumannaatsumik aammalu skalersinnaasumik",
+    "pill_size": "Suliffeqarfinnut tamanut annertussusilinnut"
+  },
+  "products_block": {
+    "eyebrow": "Nioqqutissat",
+    "title": "Suliffeqarfimmi sumiiffinnut ataasiakkaanut [[økosystemi tamakkersimasoq]].",
+    "aside": "Ajornartorsiutit ataatsimoorussat, tamakkiisumik aqutsisinnaanermik, ingerlatsinermi effektivitetimik aamma annertunerusumik ineriartornermik tunniussisinnaasut.",
+    "groups": {
+      "money": "Aqutsineq aamma katersuineq",
+      "flow": "Pisiniarnerit aamma nassiussinerit",
+      "field": "Tunisassiorneq aamma lager"
+    }
+  },
+  "products_page": {
+    "title": "Nioqqutissat arfineq marluk, [[ataatsimik ingerlatsineq]].",
+    "text": "Nioqqutissat ataasiakkaat sumiiffimmik aaqqiissuteqartarput. Peqatigalugit ataasiakkaat, lager, inniminniinerit akiliutillu avitseqatigiissutigaat."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platformi",
+      "card": "Aningaasarsiornikkut aqutsinermut aamma siammarterinermut pingaarnertut platformi.",
+      "features": [
+        "Tunisassiorneq pisinerlu",
+        "Pigisat",
+        "Sullissisut aamma nioqqutissiortut",
+        "Nalunaarutit allallu"
+      ],
+      "lead": "Niuernermik ingerlatsinermi qitiusoq: inniminniinerit, akiitsut, lager aamma ataasiakkaat sumiiffimmi ataatsimi.",
+      "about": "FullVendor-ip taarserpaa distributorip løse regnearkit aamma systemit. Tassanngaanniit inniminniinerit saqqummertarput, nioqqutissat tusarniaavigineqartarput, ataasiakkaat portfolioat isumagineqartarpoq aammalu ulloq kisitsisit qiviarneqartarlutik. Ekosystemip sinnera tassunga attaveqarpoq.",
+      "benefits": [
+        {
+          "title": "Datamesteri ataaseq",
+          "text": "Pisisartut, nioqqutissat akillu tuniniaanermi, lager-imi aningaasaqarnermilu avitseqatigiissutigineqartarput."
+        },
+        {
+          "title": "Ulluinnarni ingerlatsineq ersarissoq",
+          "text": "Inniminniinerit, pisiniarnerit aamma lager-it assigiinngitsuni filini inuuneq unitsippaat."
+        },
+        {
+          "title": "Nalunaarutit aalajangiiffigissallugit",
+          "text": "Tunisaqarnerit, margin aamma pending takuneqartarput tabeli atorlugu ataatsimoortinnagu."
+        },
+        {
+          "title": "Ineriartornissamut piareersimavoq",
+          "text": "Logistik, tuniniaanermi imaluunniit ERP summit ingerlatsiviup piumasaqarnerani."
+        }
+      ],
+      "audience": "Niuernermi aamma siammarterinermi teamit ullumikkut suliffeqarfimmik systemit arlallit akornanni ataqatigiissaarisut."
+    },
+    "erp": {
+      "kicker": "Aqutsineq",
+      "card": "Allaffissornikkut aningaasaqarnikkullu aqutsineq naammattoq.",
+      "features": [
+        "Naatsorsuuserineq",
+        "Elektronisk akiliisitsineq",
+        "Suliassat",
+        "Pigisat aalajangersimasut",
+        "Arlalinnik suliffeqarfik"
+      ],
+      "lead": "Aqutsineq aningaasaqarnerlu, ilumut tuniniarneqartartumut tunniunneqartartumullu naleqqussarneqarlutik.",
+      "about": "FullVendor ERP-imi pineqarput naatsorsuuserineq, elektroniskimik akiliisitsisarneq, akissarsiat, pigisat aamma suliffeqarfiit arlallit. Taanna aningaasarsiornikkut ingerlatsineq tigusarpaa, aningaasarsiornikkut suliassaqarfiup atorsinnaasaanik allattorsimaffinnut, kvitterinut aamma nalunaarutinut allanngortittarlugu.",
+      "benefits": [
+        {
+          "title": "Attaveqartumik naatsorsuuserineq",
+          "text": "Tunisaqarnermi pisiniarnermilu qanoq pisoqartarnersoq feed-inik naatsorsuuserineq."
+        },
+        {
+          "title": "Elektroniskimik kvitterit",
+          "text": "Illit økosystemimiit tassanngaannaq akiliisitsisarpit aammalu aqutsisarpit."
+        },
+        {
+          "title": "Suliffeqarfiit assigiinngitsut",
+          "text": "Multi-selskab gruppinut suliffeqarfiit aqqanik ataatsimik amerlanerusunik ingerlataqartunut."
+        },
+        {
+          "title": "Akissarsiat aamma pisuussutit",
+          "text": "Akissarsiat aammalu pigisat aqutsisut sinnerat peqatigalugu."
+        }
+      ],
+      "audience": "Aqutsinermut aningaasaqarnermullu tunngasut ilumut ingerlatsinermik amerlassutsinik matusiumasut."
+    },
+    "logistics": {
+      "kicker": "Logistik",
+      "card": "Logistik-imik ingerlatsinermik aqutsineq aamma nakkutilliineq.",
+      "features": [
+        "Aqqutit aamma nioqqutissat",
+        "Piffissaq eqqorlugu malinnaaneq",
+        "Aquttumut suliassaq",
+        "Route-mik pitsanngorsaaneq"
+      ],
+      "lead": "Inniminniinermit nassiussinermut: aqqutit, aqutsisut aamma piffissaq eqqorlugu malinnaaneq.",
+      "about": "FullVendor Logistics-ip agguaassineq aaqqissuussisarpaa. Aqquserngit pilersittarpatit, aqutsisut toqqassavatit aammalu nioqqutissiat ataasiakkaat sumut ingerlanersut takusarlugit. Trafikteam sianernerit apeqqutaatillugit unittarpoq, paasiniarlugu inniminniineq nassiunneqarsimanersoq.",
+      "benefits": [
+        {
+          "title": "Ullup ingerlanerani aqqutissat",
+          "text": "Nioqqutissat sumiiffiit, nalunaaqutaq igalaaq aamma kapacitet malillugit inniminnigaapput."
+        },
+        {
+          "title": "Ajoqusersimasoq aqutsisoq",
+          "text": "Aqqutit tamarmik immikkut aqutsisoqarpoq aammalu ersarissumik malittarisassaqarlutik."
+        },
+        {
+          "title": "Nangitsineq",
+          "text": "Illit nalunngilat suna tunniunneqartarnersoq, aqqusinermi imaluunniit unittooqqanermi."
+        },
+        {
+          "title": "Kilometerit ikinnerusut",
+          "text": "Aqqut pitsanngorsarneqarnera nassiussassanik piffissaq akillu annikillisarpai."
+        }
+      ],
+      "audience": "Nammineq angallatinik imaluunniit pingajuusunik siammarterinermik ingerlatsineq."
+    },
+    "supplier": {
+      "kicker": "Pisiniarneq",
+      "card": "Nioqqutissiortunut aamma pisiniarnermik aqutsinermut portali.",
+      "features": [
+        "Pisiniarnermi inniminniinerit",
+        "Oqaatsit ilaaqqissaakkat",
+        "Tarnikkut aqutsineq",
+        "Inventariamik ataatsimoortitsineq"
+      ],
+      "lead": "Nioqqutissiortutit najoqqutassiortarput, inniminniinerit tigusarpaat aammalu emailit annaasaqarnatik nioqqutissat immertarpaat.",
+      "about": "Vendor Supplier-ip pisiniarfinnut aamma nioqqutissiortunut tillinniarnernik taamaallaat suliaqarnissamut portalimik ammaassivoq. Qulequttat, pisiniarnermut inniminniinerit aamma kvitterineq FullVendor-imi inventarimut atassuteqarput.",
+      "benefits": [
+        {
+          "title": "Kanalimi inniminniinerit",
+          "text": "Pisiortortup takusinnaavaa qanoq nioqquteqarnissaq, emailikædeqanngitsumik."
+        },
+        {
+          "title": "Nalinginnaasumik citat",
+          "text": "Akit apeqqutigisarpatit aammalu oqaluttuaq eqqarsaatigalugu toqqaasarlutit."
+        },
+        {
+          "title": "Pisiortortoq Mester",
+          "text": "Pissutsit, attaveqaatit aamma utaqqisut ataatsimi allattorsimaffimmi."
+        },
+        {
+          "title": "Inventariamut ilanngukkit",
+          "text": "Pisiarineqarsimasoq tiguneqarpat lager-imi ersersinneqartarpoq."
+        }
+      ],
+      "audience": "Pisiniarnermi holdit arlalinnik nioqqutissiortunik ulikkaartartut aammalu malinnaasinnaanermik pisariaqartitsisut."
+    },
+    "salesman": {
+      "kicker": "Mobil-app",
+      "card": "Mobilimik qinnuteqaat tuniniaanermi teamimut.",
+      "features": [
+        "Ataasiakkaanik aqutsineq",
+        "Inniminniinermik tigusineq",
+        "Nioqqutissat katalogiat",
+        "Offline-imik sulineq"
+      ],
+      "lead": "Tunisassiorfiup aqqusinermi inniminniinerit tigusarpai, nalunaaruteqarluniluunniit.",
+      "about": "FullVendor Sales Man portfolio-t, katalogit aammalu inniminniinermik tigusineq tuniniaasup telefonianut inissittarpai. Internetteqanngippat suliaq ingerlaqqittarpoq aammalu signali uteqqippat synkroniseqartarluni. Tillissineq piareersarnissamut aammalu tunniunneqarnissaanut piareersimalluni tikittarpoq.",
+      "benefits": [
+        {
+          "title": "Aningaasaateqarfik lummimi",
+          "text": "Tunisassiortup sullitat, pissutsit aamma nioqqutissat utaqqisut takusarpai."
+        },
+        {
+          "title": "Tikeraarnermi inniminniineq",
+          "text": "Inniminniineq ullumikkut akiitsut aamma lager ilanngullugit tigujuk."
+        },
+        {
+          "title": "Katalogi ullumikkut atuuttoq",
+          "text": "Nioqqutissat, saqqummiussinerit aamma akiitsut PDF-imik qangarnisaq atorlugu."
+        },
+        {
+          "title": "Ilumut offline-imik",
+          "text": "Kattuffiunngitsumik sulineq kingusinnerusukkullu synkroniseqarneq."
+        }
+      ],
+      "audience": "Siaruarterinermi aamma massakkorpiaq atuinermi aqutsisut aammalu field-imi tuniniaasartut."
+    },
+    "warehouse": {
+      "kicker": "Mobil-app",
+      "card": "Lager-imut mobilimik qinnuteqaat.",
+      "features": [
+        "Tigusineq aamma nassiussineq",
+        "Pilersaarusiorneq aamma poortorneq",
+        "Inventariami nakkutilliineq",
+        "Stregkodemik atuarneq"
+      ],
+      "lead": "Telefoni aamma stregkode atorlugit tigusineq, tigusineq aamma nassiussineq.",
+      "about": "FullVendor Warehouse-ip lager-imik tigusisarnermi, pissarsiornermi, poortornermi aamma nassiussinermi najoqqutassiorpaa. Kode-nik atuarneq kukkunernik annikillisaalluni aammalu inventari qaammatip naanerani aatsaat naatsorsorneqartarneq ajortoq.",
+      "benefits": [
+        {
+          "title": "Inniminniinermut akerliusumik tigusineq",
+          "text": "Isertoq pisiniarnermut sanilliunneqartarpoq."
+        },
+        {
+          "title": "Target-imik pilersuineq",
+          "text": "Umiatsiaararsortup inniminniineq malillugu nioqqutissat ataasiakkaat uppernarsartarpai."
+        },
+        {
+          "title": "Stregkode-t",
+          "text": "Nioqqutissanik, partiinik imaluunniit amerlassutsinik kukkuneq ikinnerusoq."
+        },
+        {
+          "title": "Lager qularnaveeqqusaasoq",
+          "text": "Nuussinerit ataasiakkaat platformip inventariaanik nutarterisarput."
+        }
+      ],
+      "audience": "Lagerchefit aamma umiarsuaatileqatigiit ullumikkut inniminniinernik allattukkanik piareersartartunik."
+    },
+    "finance": {
+      "kicker": "Mobil-app",
+      "card": "Mobilimit aningaasaqarnermik aqutsineq.",
+      "features": [
+        "Konto-t akiligassat aamma akiligassat",
+        "Ataatsimiititaliap inissisimanera",
+        "Akiliinerit aamma isumaqatigiinniarnerit",
+        "Aningaasaqarnermut nalunaarutit"
+      ],
+      "lead": "Konto-t, akiligassat aammalu ataasiakkaat inissisimanerat, telefonimiit.",
+      "about": "FullVendor Finance-imi mobilimi katersuineq takuneqarsinnaavoq: sullitat ataasiakkaat qanoq akiligassaqarnersut, suliffeqarfiup qanoq akiliiniarnera aammalu akiliutit qanoq tikittarnersut. Taanna atorneqartarpoq tikeraarnermi aningaasanik katersuiniarluni aammalu allaffik ammatinnagu aningaasanik kasserertarfik qiviarniarlugu.",
+      "benefits": [
+        {
+          "title": "Tikeraarnermi katersuineq",
+          "text": "Tunisassiortup nalunngilaa pisisoq tuniniaannginnermini ullumikkut atuuttoq."
+        },
+        {
+          "title": "Tigussaasumik aamma akiligassamik",
+          "text": "App-imi ataatsimi boksip sinnera marluk."
+        },
+        {
+          "title": "Akiliinerit aamma isumaqatigiinniarnerit",
+          "text": "Kreditit nalunaarsortarpatit aammalu suut aqqusaarneqartariaqarnersut takusarlugit."
+        },
+        {
+          "title": "Nalunaarutit atorlugit",
+          "text": "Katersuineq aamma aningaasanik takussutissat matunissaq utaqqiinnarlugu."
+        }
+      ],
+      "audience": "Pisortat, katersuisut aamma tuniniaasut ullumikkut klientip inissisimaneranik pisariaqartitsisut."
+    }
+  },
+  "why": {
+    "eyebrow": "Sooq FullVendor .",
+    "title": "Suliffeqarfiit annertusaruk\nilumut angusaqarluarluni",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Suliffeqarfiit uagutsinnik tatiginnipput"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Atuisut aktiiviusut"
+      },
+      {
+        "value": "+10",
+        "suffix": "Ikiut",
+        "label": "Evolutionimi ataavartumik"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud-imik atuineq"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Qanoq ingerlanersoq",
+    "title": "Tunisaqarnermit katersuiniarnermut, systemit allanngortinnagit",
+    "text": "Nioqqutissat ataasiakkaat ataasiakkaat, lager, inniminniinerit akiliutillu avitseqatigiissutigaat. Aqqusinermi imaluunniit lager-imi pisimasoq allaffimmi toqqaannartumik takussaavoq.",
+    "steps": {
+      "sell": {
+        "title": "Illit tuniniaasarputit",
+        "text": "Inniminniineq nittartagaq aqqutigalugu imaluunniit Sales Man aqqutigalugu isertinneqartarpoq, allaat signaleqanngikkaluarluni."
+      },
+      "pick": {
+        "title": "Piareerpoq",
+        "text": "Warehouse stregkode atorlugu tigusisartoq, immikkoortitsisartoq nassiussisartorlu."
+      },
+      "deliver": {
+        "title": "Nioqqutissat",
+        "text": "Logistics-ip aqqut toqqammavigalugu aammalu nioqquteqarneq malillugu."
+      },
+      "collect": {
+        "title": "Kobrat",
+        "text": "Finance aamma ERP suleqatigaat katersugaasivik, tigusat aamma kisitsisit."
+      }
+    }
+  },
+  "band": {
+    "title": "[[ingerlatsinerpit]] atorlugu takunissaanut piareersimavit?",
+    "text": "Uumassusillit takutippagut illit agguaassisarnermut tunngasumik assingusumik."
+  },
+  "footer": {
+    "blurb": "Siaruarterinermut, tuniniaanermut, logistikkimut, pisiniarnermut, nioqqutissat aningaasaqarnermullu nittartakkamut mobilimullu platformi.",
+    "products": "Nioqqutissat",
+    "company": "Pulaartoq",
+    "legal": "Akuerisaq",
+    "privacy": "Inuup nammineq",
+    "terms": "Piumasaqaatit",
+    "rights": "Pisinnaatitaaffiit tamarmik pigineqarput."
+  },
+  "solutions": {
+    "eyebrow": "Ajornartorsiutit",
+    "title": "Sumiiffiit ataasiakkaat, [[ingerlatsineq taanna]]-mut atasut.",
+    "intro": "Ajornartorsiut aaqqinniarlugu toqqaruk. Tunuani nioqqutissat paasissutissat taamaattut avitseqatigiissutigaat.",
+    "items": {
+      "commercial": {
+        "title": "Aningaasarsiornikkut aqutsineq",
+        "text": "Inniminniinerit, akiitsut, ataasiakkaat aamma ulluinnarni agguaassisarnermut nioqqutissat."
+      },
+      "field": {
+        "title": "tuniniaanermi nukissaq",
+        "text": "Tunisassiortut aqqusinermi, onlinekkut imaluunniit offlinekkut inniminniinernik tigusisarnerat."
+      },
+      "warehouse": {
+        "title": "Pisiniarfik",
+        "text": "Tigusineq, tigusineq, nassiussineq aamma lager tatigineqarsinnaasoq."
+      },
+      "logistics": {
+        "title": "Logistik aamma tuniniaaneq",
+        "text": "Aqqutit, ajoqusertut aammalu nioqqutissat ataasiakkaat inissisimanerat."
+      },
+      "purchasing": {
+        "title": "Pisiniarneq aamma nioqqutissiortut",
+        "text": "Citatit, inniminniinerit aamma portali kikkulluunniit nioqqutigisarpaatit."
+      },
+      "finance": {
+        "title": "Aningaasaqarneq aamma naatsorsuuserineq",
+        "text": "Katersuiniarnerit, akiliinerit, elektroniskimik akiliisitsisarnerit aamma naatsorsuuserineq."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Suliffissuit",
+    "title": "[[produktimik nuutsitsisartunut]] sananeqarpoq.",
+    "intro": "FullVendor siammarterinermi inunngorpoq suliffeqarfinnullu pisisartunik, toqqorsiviusunik, tuniniaasartunik aammalu tuniniaasartunik malinnaasarluni.",
+    "items": {
+      "wholesale": {
+        "title": "Siaruarterineq aamma engros",
+        "text": "Akit allattorsimaffiat, portfolio, siammarterineq aamma katersuineq ataatsimut ingerlaarfiusumi."
+      },
+      "retail": {
+        "title": "Paasissutissanik niuverneq",
+        "text": "Pisiniarfik aamma lager ataqatigiissumik lager-imik, tuniniaanermik aamma ilanngaatissanik."
+      },
+      "food": {
+        "title": "Nerisassat aamma imeruersaatit",
+        "text": "Aqquserngit arlaleriarlutik aammalu lager unitsinneqarsinnaanngitsoq."
+      },
+      "pharma": {
+        "title": "Apoteker aamma nammineq isumaginninneq",
+        "text": "Tigusineq, pilersuineq aamma nioqqutissanik nakkutilliineq malinnaavigineqarsinnaasumik."
+      },
+      "hardware": {
+        "title": "Hardware aamma sanaartorneq",
+        "text": "Najoqqutassat amerlasuut, nioqqutissiortut aamma suliffimmut pisiniarfimmulluunniit nioqqutissat."
+      },
+      "fmcg": {
+        "title": "Massakkut atuineq",
+        "text": "Aqqusinermi tuniniaanermi nukissaq aammalu høj umsetningsforsvar."
+      },
+      "manufacturing": {
+        "title": "Sanaartorneq",
+        "text": "Pisiniarneq, lager aamma nioqqutissat allaffissornikkut naapertorlugit."
+      },
+      "lastmile": {
+        "title": "Nioqqutissiorneq aamma last mile",
+        "text": "Aqqutit, ajoqusertut aammalu nioqqutissat ataasiakkaat inissisimanerat."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Atortussat",
+    "title": "[[ingerlatsineq inniminniarlugu]] isumassarsiat ersarissut.",
+    "intro": "Siaruarterinermi aqutsisunut najoqqutassat piviusunngortinneqarsimasut, systemi sorleq atorlugu ingerlaqqinnissaq aalajangissavaat.",
+    "items": {
+      "unify": {
+        "title": "Qanoq ililluni siammarterineq ataatsimoortinneqarsinnaava",
+        "summary": "Tunisaqarnerit, lager aamma katersukkat assigiinngitsuni filini najugaqarpata siullermik suut ataatsimoortinneqarnissaat.",
+        "points": [
+          "Aallartillutit ataasiakkaat, nioqqutissat akillu: taakkuuppuut ilinniartitsisoq kikkut tamarmik atortagaat.",
+          "Qinnuteqaatit allat ilanngunneqannginneranni inniminniineq lager-imut attavilerlugu.",
+          "Taanna amerlassutsimik ajornanngitsumik uuttortaavoq: inniminniinerit naammassineqarsimasut allagartaq suliarineqanngikkaluarluni."
+        ]
+      },
+      "offline": {
+        "title": "Tunisassiorfik offline-imik sulisoq",
+        "summary": "Inniminniinermut app-imiit qanoq piumasaqartoqarsinnaanersoq, tuniniaasoq signali pissutigalugu unitsinnginnissaanut.",
+        "points": [
+          "Katalogi aamma aningaasat telefonimiissapput, cloudimiinnaanngitsoq.",
+          "Tillissineq atortumi allanneqartarpoq aammalu netværki uterpat upload-erneqartarluni.",
+          "Synkronisering-imi inniminniineq lager-imut isereerpoq."
+        ]
+      },
+      "warehouse": {
+        "title": "Lager stregkode-mik, pappiaqqanik peqanngitsumik",
+        "summary": "Qanoq ililluni allattorsimaffimmiit telefonikkut uppernarsarneqarsimasumut pissarsisinnaanermut.",
+        "points": [
+          "Pisiniarnermut inniminniinermut akerliusumik tigusineq, eqqaamasassamut akerliunngitsoq.",
+          "Immikkoortitsinermi ataasiakkaat uppernarsaruk. Bug-ip illup iluanukarpoq.",
+          "Dispatchip nioqqutissat tuniniaasup takusimasaat nutartertarpai."
+        ]
+      },
+      "finance": {
+        "title": "Katersuineq tuniniaanermut naleqquttoq",
+        "summary": "Sooq tuniniaasoq allamik inniminniisoqarnissaa sioqqullugu pisisup akiitsoqarnera takusariaqarpaa.",
+        "points": [
+          "Tikeraarneq tassaavoq katersuiniarnermi piffissaq pitsaanerpaaq, akiitsoq takuneqarsinnaappat.",
+          "Tunisaqarnermi aningaasaqarnermilu ataasiakkaaq qiviartariaqarpaat.",
+          "Ullormut nalunaarusiaq kinguartinneqartoq kingusissukkut matuneqarnermit naleqarpoq."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Akit",
+    "title": "Ekosystemi [[illit peqatigalugit ineriartortoq]].",
+    "intro": "Generisk akitsuut saqqummersinngilagut: aki modulinut, atuisunut aammalu annertussusaanut apeqqutaasarpoq. Platformi takutittarparput aammalu ingerlatsinersi peqatigalugu siunnersuut ataatsimoortillugu.",
+    "note": "Demo-q akeqanngilaq aammalu isumaqatigiissuteqarnissaq pisariaqartinneqanngilaq.",
+    "recommended": "Siunnersuutigaa",
+    "faq_title": "Apeqqutit arlaleriarluni apeqqutigineqartartut",
+    "plans": {
+      "essential": {
+        "name": "Pisarialik",
+        "desc": "Niuernermik aqutsineq aamma siammarterineq ataatsimoortumik aaqqissuunniarlugu.",
+        "features": [
+          "FullVendor nittartakkakkut platformi",
+          "Tunisassiorneq, pisiniarneq aamma nioqqutissat",
+          "Sullissisut, nioqqutissiortut aamma nalunaarutit",
+          "Allaffimmi atortunik atuisut",
+          "Aallartitsinermut tapersersuineq"
+        ],
+        "cta": "Demo-mik piumasaqarneq"
+      },
+      "professional": {
+        "name": "Akissarsiutilik",
+        "desc": "Team-inut aqqusinermi tuniniaasunut aammalu lager-imi inniminniinernik piareersartunut.",
+        "features": [
+          "Suna tamaat Pingaaruteqartoq",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline-imik suliaqarneq aamma stregkode-t",
+          "Amerlanerusut field aamma lager atuisut"
+        ],
+        "cta": "Demo-mik piumasaqarneq"
+      },
+      "corporate": {
+        "name": "Ingerlatseqatigiiffik",
+        "desc": "Gruppinut logistikkimik, pisiniarnermik, aningaasaqarnermik aamma suliffeqarfinnut assigiinngitsunut pisariaqartitsisunut.",
+        "features": [
+          "Tamakkiisumik økosystem",
+          "Logistics, Vendor Supplier aamma Finance .",
+          "FullVendor ERP aamma arlalinnik attartortitsineq",
+          "Elektroniskimik akiliisitsisarneq aamma naatsorsuuserineq",
+          "Peqateqarneq aamma pingaarnertut pissarsiarineqarsinnaaneq"
+        ],
+        "cta": "Tunisassiortut oqaloqatigikkit"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Nioqqutissat tamarmik pisiarisariaqarpakka?",
+        "a": "Aap, FullVendor-imik aallartitsisinnaavutit aammalu ingerlatsineq pisariaqartitsilerpat appinik imaluunniit ERP-inik ilanngussinnaallutit."
+      },
+      "offline": {
+        "q": "Qinnuteqaatit interneteqanngitsumik sulisarpat?",
+        "a": "Sales Man aamma Warehouse signaleqanngitsumik sulineq ingerlateqqittarpaat aammalu attaveqateqqinnermi synkroniseqartarlutik."
+      },
+      "multi": {
+        "q": "Suliffeqarfiit ataatsiminngaanniit amerlanerusut peqarpat iluaqutaava?",
+        "a": "Aap. ERP-imi suliffeqarfiit arlallit eqqarsaatigineqarput aammalu økosystemip taakku akornanni mesterinik avitseqatigiissinnaavoq."
+      },
+      "demo": {
+        "q": "Demo-mi suna ilaatinneqarpa?",
+        "a": "Platformimi angalaarneq, illit suliassannut assingusumik suliassaqarluni. Akissaqanngilaq aamma pisussaaffeqanngilaq."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "FullVendor [[ingerlatsinermi suussuseq]] atorlugu takutipparput.",
+    "text": "Suliffeqarfiit pillugit oqaluttuarit aammalu siullermik suut inniminniarniarlugit. Demo-q akeqanngilaq."
+  },
+  "contact": {
+    "eyebrow": "Atassuteqaat",
+    "title": "[[ingerlatsinerpit]] pillugu oqaluttuaratta.",
+    "text": "Demo-mik, siunnersuutimik imaluunniit nioqqutissat akornanni imminut orienterusukkuit, paasissutissaatitit qimakkit akissavagut.",
+    "email": "Maili",
+    "phone": "Oqarasuaat",
+    "whatsapp": "WhatsAppi"
+  },
+  "form": {
+    "name": "Ateq",
+    "email": "Maili",
+    "phone": "Oqarasuaat",
+    "company": "Pulaartoq",
+    "country": "Nuna",
+    "team": "Team-ip annertussusaa",
+    "interest": "Suna soqutigiviuk?",
+    "message": "Nalunaarut",
+    "optional": "Nammineq toqqagassaq",
+    "choose": "Toqqaruk",
+    "interest_all": "Ekosystemi tamakkerlugu",
+    "ph_name": "aqqit",
+    "ph_email": "illit@suliffeqarfik.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Suliffeqarfiit",
+    "ph_country": "Nuna",
+    "ph_message": "Ullumikkut qanoq ingerlatsisarnersutit oqaluttuaruk",
+    "privacy_before": "Uanga akuersaarpara paasissutissanik atuineq malillugu",
+    "privacy_after": ".",
+    "submit": "Qinnuteqaat nassiuk",
+    "sent_title": "Qinnuteqaatit tiguarput",
+    "sent_text": "Qujanaq. Tunisassiortut ilinnut allassapput demo-mik ataqatigiissaarinissaq imaluunniit apeqquteqaatit akissuteqarnissaq.",
+    "error_required": "Allaffik una naammassiuk.",
+    "error_email": "Email atuuttoq allaguk.",
+    "error_phone": "Telefoni misissoruk.",
+    "error_privacy": "Attaveqarfigisinnaasatit atorniarlugit akuersissutit pisariaqartipparput.",
+    "error_csrf": "Ataatsimiinneq qaangiuppoq. Immersugassaq nassiussaqqiguk.",
+    "error_save": "Piumasaqaat annaassinnaasimanngilagut. Misilittariaqarpat.",
+    "error_generic": "Allagartat nalunaarsorneqarsimasut misissoruk.",
+    "error_rate": "Qinnuteqaammik allamik nassiussisoqannginnerani utaqqigit.",
+    "team_options": {
+      "1-10": "1-imiit 10-nut",
+      "11-50": "11-miit 50-it tungaanut",
+      "51-200": "51-it 200-llu akornanni",
+      "201-500": "201-it 500-llu akornanni",
+      "500+": "Inuit 500-t sinnerlugit"
+    }
+  },
+  "video": {
+    "title": "FullVendor minutsimi ataatsimi",
+    "prev": "Siornatigut",
+    "next": "Malinnaavingaa",
+    "slides": [
+      {
+        "title": "Ataatsimik økosystemimik",
+        "text": "Tunisassiorneq, nioqqutissiorfik, nassiussineq, pisineq aamma aningaasaqarneq pisisartunik, lager-inik inniminniinernillu avitseqatigiittarput."
+      },
+      {
+        "title": "Web aamma mobil ataatsimoorlutik",
+        "text": "Allaffik platformimi sulisarpoq. Aqqusineq aamma lager, app-ini, allaat signaleqanngitsumik."
+      },
+      {
+        "title": "Siaruarterinissamut sananeqarpoq",
+        "text": "Inniminniinermit akiliinermut, paasissutissat filimiit allamut ingerlatinnagit."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Nioqqutissanik, aaqqiissutissanik, suliffissuarnik ujarlerneq...",
+    "lang_filter": "Ujaasineq oqaatsit",
+    "intro": "Nioqqutissat, aaqqiissutissat, suliffissuit aamma pisuussutit ujarlugit.",
+    "empty": "”{q}”-mut tunngatillugu angusaqarsimanngilagut.",
+    "hint": "Tunisassiorneq, lager, aqqutit imaluunniit katersukkat misilikkit.",
+    "results": "{n} angusat",
+    "button": "Ujarlugu",
+    "kind_product": "Tunisassiaq",
+    "kind_solution": "Aaqqiissutissaq",
+    "kind_industry": "Suliffissuaq",
+    "kind_resource": "Atortussaq"
+  },
+  "notfound": {
+    "title": "Qupperneq una taamaanngilaq",
+    "text": "Link-i peqanngilaq imaluunniit sumiiffimmik allanngortitsisimavoq."
+  },
+  "common": {
+    "what": "Suna aaqqiisarpa",
+    "features": "Suna ilanngunneqarpa",
+    "benefits": "Sooq pingaaruteqarpa",
+    "for_who": "Kikkunut?",
+    "related": "Aamma økosystemimi"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ullumikkut tuniniaaneq",
+      "orders": "Tillissinerit",
+      "clients": "Ataasiakkaat",
+      "products": "Nioqqutissat"
+    },
+    "sidebar": {
+      "dashboard": "Instrumentbordi",
+      "sales": "Tunisaqarneq",
+      "purchases": "Pisiniarneq",
+      "inventory": "Pigisat",
+      "clients": "Ataasiakkaat",
+      "reports": "Nalunaarusiat"
+    },
+    "chart": "Tunisaqarneq",
+    "channel": "Kanalikkut siammarterineq",
+    "channels": [
+      "Pisiniarfik",
+      "Agguataarineq",
+      "Engros-imik tuniniaasoq",
+      "Allat"
+    ],
+    "orders": "Inniminniinerit kingulliit",
+    "col_order": "Inniminnigaq",
+    "col_client": "Sullitaq",
+    "col_status": "Naalagaaffik",
+    "col_total": "Katillugit",
+    "status": [
+      "Tunniunneqarpoq",
+      "Aqqusinermi",
+      "Siutip"
+    ],
+    "top": "Nioqqutissat tuniniarneqarnerpaat",
+    "product": "Tunisassiaq",
+    "sales_menu": [
+      "Ataasiakkaat",
+      "Tillissinerit",
+      "Nioqqutissat",
+      "Aqqutit",
+      "Synkroniserineq"
+    ],
+    "warehouse_menu": [
+      "Saaffiginnittarfik",
+      "Pikkorissarneq",
+      "Pigisat",
+      "Massiussineq",
+      "Synkroniserineq"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Personvernpolitikki",
+    "privacy_intro": "Politikkimi tassani nassuiarneqarpoq paasissutissat nittartakkami matumani immersukkani allattorsimaffinni qanoq iliortarnersugut.",
+    "privacy": [
+      {
+        "title": "Suut paasissutissat katersortarpagut",
+        "text": "Demo-mik piumasaqarpat imaluunniit allaffigisinnaagukku, aqqit, suliffeqarfik, emailik, oqarasuaatip normua nalunaarutigigukku, nuna, holdip annertussusaa, soqutigineqartumik nioqqutissaq aammalu nalunaarusiaq allattortarpagut. Aamma ulloq, quppernerup oqaasii aamma IP-adressi allattortarpagut, atornerluilluni nassiussat pinaveersaartinniarlugit."
+      },
+      {
+        "title": "Sumut atortarpagut?",
+        "text": "Paasissutissat taakku atortarpagut ilinnut akissuteqarnissatsinnut, demomik ataqatigiissaarinissatsinnut aammalu aningaasarsiornikkut siunnersuut piareersarnissatsinnut. Taakku tuniniarneq ajorpagut aammalu pingajuusunut allattorsimaffimmut tunniunneq ajorpagut."
+      },
+      {
+        "title": "Sumi toqqorneqartarpat aamma qanoq sivisutigisumik?",
+        "text": "Piumasaqaatit nittartakkap matuma serveriani toqqoqqapput. Piffissaq pisariaqartoq ilinnut kiffartuussinissamut aamma aningaasarsiornikkut malinnaavigineqarnissamut pigisarpagut, aammalu piumasaqarpat imaluunniit pisariaqartinneqanngippata piiartarpagut."
+      },
+      {
+        "title": "Pisinnaatitaaffiit",
+        "text": "Attaveqarfimmut immersugassamiit paasissutissanik pissarsinissaq, eqqortinnissaq imaluunniit piiarnissaq piumasarisinnaavat, nalunaarusiami tamanna nalunaarutigineqarluni. Suliffeqarfik nittartakkami matumani mailimik saqqummersitsippat, tassani aamma allassinnaavutit."
+      }
+    ],
+    "terms_title": "Atuinermut piumasaqaatit",
+    "terms_intro": "Pissutsit taakku FullVendor-mik tunniussisarfiup matuma atorneqarneranut atuupput.",
+    "terms": [
+      {
+        "title": "Aningaasarsiornikkut paasissutissat",
+        "text": "Allaaserisat, assersuutigalugu dashboardimi kisitsisit aamma nassuiaatit platformimik ilisarititsipput. Taakku nioqqutissaq allanngortinneqarpat naleqqussarneqarsinnaapput aammalu matuneqarsimasumik neqeroorutaanngillat."
+      },
+      {
+        "title": "Demo-q tassaavoq kontrakti",
+        "text": "Immersugassaq nassiunneqarpat pisiniarnissamut imaluunniit akimik inniminniinissamut pisussaaffimmik pilersitsisoqanngilaq. Isumaqatigiissut sunaluunniit immikkut isumaqatigiissutigineqartarpoq, allakkatigut, annertussusaa piumasaqaatillu ilanngullugit."
+      },
+      {
+        "title": "Nittartakkap imarisaa",
+        "text": "FullVendor-mik nioqqutissiamik nalunaaqutsiineq, nioqqutissat aqqi aamma quppernerit taakku imarisaat piginnittuminnut pigineqarput. Taakku nioqqutissamik allamik saqqummiussinissamut kopierneqarsinnaanngillat."
+      },
+      {
+        "title": "Akuerineqarsinnaasumik atuineq",
+        "text": "Immersukkat atornagit eqqunngitsunik paasissutissanik, spam-imik imaluunniit inatsisitigut unioqqutitsinermik nassiussinissamut. Piumasaqaatit suliffeqarfimmi oqaloqatigiinnermut ilumut naapertuutinngitsut soqutiginngitsoorsinnaavagut."
+      }
+    ]
+  }
+}

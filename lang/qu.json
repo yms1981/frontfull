@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Negocioykita kamachiy hinaspa wiñachiy",
+    "home_desc": "Tukuy ima hukllapi plataforma web chaymanta movil solucionkunayuq rakiypaq, rantiypaq, logística kaqpaq, rantiypaq, inventario kaqpaq chaymanta qullqipaq.",
+    "products_title": "Rurukuna | FullVendor nisqapi.",
+    "products_desc": "Ecosistema FullVendor riqsiy: plataforma comercial, ERP, logística, suministradores chaymanta rantiy, almacén chaymanta qullqi apps.",
+    "product_title": "{name} | FullVendor nisqapi.",
+    "solutions_title": "Allchaykuna | FullVendor nisqapi.",
+    "solutions_desc": "Comercial kamachiypaq, rantiq kallpapaq, almacén kaqpaq, logística kaqpaq, rantiypaq chaymanta qullqipaq allichaykuna.",
+    "industries_title": "Industrias nisqakuna | FullVendor nisqapi.",
+    "industries_desc": "FullVendor rakinapaq, qhatuypaq, mikhuypaq, farmaciapaq, hardware kaqpaq, achka mikhuypaq, ruwaypaq chaymanta qhipa milla kaqpaq.",
+    "pricing_title": "Precios | FullVendor nisqapi.",
+    "pricing_desc": "Planes Esenciales, Profesionales y Corporativos nisqakuna. Chay propuestaqa churasqa kachkan módulos, usuarios hinaspa volumen nisqaman hina.",
+    "resources_title": "Recursos nisqakuna | FullVendor nisqapi.",
+    "resources_desc": "Pisi pusaqkuna rakiyta hukllanapaq, mana internetpi ranqhanapaq, almacén nisqa wakichinapaq chaymanta pachanpi qullqita chaskinapaq.",
+    "contact_title": "Contacto | FullVendor nisqapi.",
+    "contact_desc": "Qillqamuwayku FullVendor kaqmanta yachanaykipaq utaq rantiq equipowan rimanakuyta kuskanchanaykipaq.",
+    "demo_title": "Demo mañakuy | FullVendor nisqapi.",
+    "demo_desc": "Mañakuy huk demo FullVendor kaqmanta chaymanta plataformata puriy huk casowan operaciónniykiman rikch'akuq.",
+    "privacy_title": "Sapanchasqa kay | FullVendor nisqapi.",
+    "terms_title": "Términos | FullVendor nisqapi.",
+    "search_title": "Maskay | FullVendor nisqapi.",
+    "notfound_title": "P'anqa mana tarisqachu | FullVendor nisqapi."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Qallariy p’anqa",
+    "products": "Rurukuna",
+    "solutions": "Allchaykuna",
+    "industries": "Industrias nisqakuna",
+    "pricing": "Preciokuna",
+    "resources": "Imakuna",
+    "contact": "Tupaqmasi",
+    "open_menu": "Menú kichay",
+    "close": "Wichqay"
+  },
+  "cta": {
+    "demo": "Demo mañakuy",
+    "contact": "Ñoqaykuwan rimanakuy",
+    "video": "Videota qhaway",
+    "talk": "Ventaswan rimay",
+    "all_products": "Tukuy rurukunata qhaway",
+    "home": "Wasi p’anqaman kutiy"
+  },
+  "a11y": {
+    "skip": "Contenido nisqaman saltay",
+    "primary": "Principal navegación",
+    "crumbs": "Navegación nisqa ñan",
+    "search": "Maskay",
+    "language": "Simi"
+  },
+  "hero": {
+    "eyebrow": "Tukuy huk plataformallapi",
+    "title": "Kamachiy hinaspa wiñachiy\nnegocioykiwan\n{{brand}} nisqapi.",
+    "subtitle": "Huk hunt'asqa plataforma web chaymanta movil solucionkunayuq rakiypaq, rantiypaq, logística kaqpaq, rantiypaq, inventario kaqpaq, qullqipaq chaymanta aswan kaqpaq.",
+    "pill_ecosystem": "Tukuy imapas huklla ecosistema nisqapi",
+    "pill_cloud": "Puyupi, seguro hinaspa escalable",
+    "pill_size": "Tukuy sayayniyuq empresakunapaq"
+  },
+  "products_block": {
+    "eyebrow": "Rurunchikkuna",
+    "title": "Huk [[ecosistema hunt’asqa]] sapa área negocioykipaq",
+    "aside": "Huñusqa solucionkuna kuska llamk'anku tukuy control, eficiencia operativa chaymanta aswan wiñaynin qusunaykipaq.",
+    "groups": {
+      "money": "Kamachiy hinaspa huñuy",
+      "flow": "Rantinakuykuna, apachiy ima",
+      "field": "Ventas y almacén"
+    }
+  },
+  "products_page": {
+    "title": "Qanchis rurukuna, [[huklla llamk'ay]].",
+    "text": "Sapa rurum huk áreata allichan. Kuska rantiqkunata, stockta, pedidokunata hinaspa pagaykunata rakinakunku."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataforma",
+      "card": "Plataforma principal comercial kamachiypaq chaymanta rakiypaq.",
+      "features": [
+        "Qhatuy, rantiy ima",
+        "Inventario",
+        "Clientekuna hinaspa suministradorkuna",
+        "Willakuykuna hinaspa aswan achka"
+      ],
+      "lead": "Comercial operacionniykipa chawpin: pedidokuna, preciokuna, stock chaymanta rantiqkuna huk sitiollapi.",
+      "about": "FullVendor huk rakiqpa suchu raphikuna chaymanta sistemakuna tikran. Kaymantam pedidokuna lluqsimun, inventario nisqamanta tapukun, cartera de clientes nisqamanta cuidasqa hinaspa punchawpa yupayninkuna qawasqa. Puchuq ecosistema nisqapas kay base nisqawanmi tinkin.",
+      "benefits": [
+        {
+          "title": "Huk sapalla willay kamachiq",
+          "text": "Clientekuna, rurukuna chaymanta chaninkuna rantiywan, almacén kaqwan chaymanta qullqiwan kuskachasqa kanku."
+        },
+        {
+          "title": "Sapa punchaw chuya llamkay",
+          "text": "Pedidokuna, rantiykuna chaymanta stock nisqakuna hukniray archivokunapi kawsasqankuta saqipunku."
+        },
+        {
+          "title": "Willakuykuna tanteanapaq",
+          "text": "Ventas, margen y pendiente nisqakunan rikukun mana makiwan huk mesata huñuspa."
+        },
+        {
+          "title": "Wiñananpaq wakichisqa",
+          "text": "Logística, rantiq kallpa utaq ERP qullqikuna mayk'aq llamk'ay mañakun."
+        }
+      ],
+      "audience": "Comercial chaymanta distribución equipokuna kunan pacha achka sistemakunapura negociota kuskanchanku."
+    },
+    "erp": {
+      "kicker": "Administración nisqa",
+      "card": "Kamachiy hinaspa qolqe kamachiy hunt’asqa.",
+      "features": [
+        "Contabilidad nisqamanta yachay",
+        "Facturación electrónica nisqa",
+        "Llamkana rapikuna",
+        "Kaqkunapas takyasqa",
+        "Achka empresayuq"
+      ],
+      "lead": "Administración y finanzas, chiqap ranqhasqa, qusqa imawan tupachisqa.",
+      "about": "FullVendor ERP contabilidad, facturación electrónica, nóminas, activos fijos chaymanta achka empresakuna kaqmanta qhawan. Operación comercial nisqa hap’in hinaspan t’ikrakun qelqakunaman, recibokunaman, declaraciones nisqakunaman ima, chaykunatan área financiera nisqa llank’ayta atin.",
+      "benefits": [
+        {
+          "title": "T’inkisqa yupay",
+          "text": "Imachus rantiypi, rantiypi ima pasakun, contabilidadta mikhuchin."
+        },
+        {
+          "title": "Recibos electrónicos nisqakuna",
+          "text": "Kikin ecosistemamanta facturacionta hurqunki chaymanta kamachinki."
+        },
+        {
+          "title": "Imaymana empresakuna",
+          "text": "Askha empresayuq huñukunapaq aswan huk empresa sutiwan llamk'aq."
+        },
+        {
+          "title": "Nóminas y activos nisqakuna",
+          "text": "Nómina y activos fijos nisqakuna wakin kamachiqkunawan kuska."
+        }
+      ],
+      "audience": "Áreas administrativas y financieras nisqakunan yupaykunata wisq’ayta munanku cheqaq operación nisqawan."
+    },
+    "logistics": {
+      "kicker": "Logística nisqa",
+      "card": "Control y monitoreo nisqa llamkay logística nisqaykimanta.",
+      "features": [
+        "Rutas y entregas",
+        "Chiqap pacha qatipay",
+        "Choferpa llamkaynin",
+        "Ruta allinchay"
+      ],
+      "lead": "Pedidomanta entregakama: ñankuna, choferkuna chaymanta chiqap pacha qatipay.",
+      "about": "FullVendor Logistics rakiyta wakichin. Rutakunata ruwanki, choferkunata churanki chaymanta mayman sapa apachiy richkan chayta qhawanki. Equipo de tránsito nisqa sayan waqyakuykunaman hina, chaywanmi yachakun sichus chay pedido apachisqa kashan chayta.",
+      "benefits": [
+        {
+          "title": "Rutas del día",
+          "text": "Zona, pacha ventana chaymanta capacidad kamachisqa apachiykuna."
+        },
+        {
+          "title": "Asignasqa chofer",
+          "text": "Sapa ñanpiqa kanmi huk runa kamachiq hinaspa sut’i secuencia."
+        },
+        {
+          "title": "Qatipay",
+          "text": "Yachankiñam imakuna apachisqa kasqanmanta, ñanpi utaq sayachisqa kasqanmanta."
+        },
+        {
+          "title": "Aswan pisi kilumitrukuna",
+          "text": "Ruta allinchayqa pisiyachin chayachiy pachata chaymanta qullqita."
+        }
+      ],
+      "audience": "Kikin flotawan utaq kimsa kaqwan rakiy ruwaykuna."
+    },
+    "supplier": {
+      "kicker": "Rantiy",
+      "card": "Portal suministradorkunapaq chaymanta rantiy kamachiypaq.",
+      "features": [
+        "Rantinapaq kamachiykuna",
+        "Citakuna",
+        "Proveedorpa kamachiynin",
+        "Inventario nisqawan kuskachakuy"
+      ],
+      "lead": "Proveedorniykikuna citanku, pedidokunata chaskinku chaymanta stockta hunt'achinku mana suchu correo electrónicos kaqwan.",
+      "about": "Vendor Supplier huk portalta kichan rantiykunapaq chaymanta quqkunapaq kikin kamachiykunapi llamk'anankupaq. Cotización, rantiy kamachiykuna chaymanta recibo FullVendor inventario kaqman watasqa kanku.",
+      "benefits": [
+        {
+          "title": "Huk kanalpi kamachiykuna",
+          "text": "Suministradorqa qhawan imatachus apachinanta, mana huk cadena de correo electrónico kaqwan."
+        },
+        {
+          "title": "Tupachisqa citakuna",
+          "text": "Preciokunata mañakunki hinaspa historiata qawaspa akllanki."
+        },
+        {
+          "title": "Proveedor Maestro",
+          "text": "Condiciones, contactos y pendientes nisqakuna huk registrollapi."
+        },
+        {
+          "title": "Inventario nisqaman yaykuy",
+          "text": "Imachus rantisqa kasqanqa, chaskisqa kaptin, chay acción nisqapi rikukun."
+        }
+      ],
+      "audience": "Rantinakuy equipokuna mayqinkunachus achka suministradorkunawan hunt'achinku chaymanta qatiy atiyta necesitanku."
+    },
+    "salesman": {
+      "kicker": "Aplicación móvil nisqa",
+      "card": "Venta equipopaq móvil aplicación.",
+      "features": [
+        "Clientekuna kamachiy",
+        "Kamachiy hapiy",
+        "Catálogo de productos nisqa",
+        "Mana internetpi llamk’ay"
+      ],
+      "lead": "Qhatuqkuna callepi pedidokunata hap’in, señalniyuq utaq mana señalniyuq.",
+      "about": "FullVendor Sales Man carterayki, catálogoyki chaymanta pedido hapiy rantiqpa telefononpi churan. Mana internet kaptinqa llamkayqa hinallam purin, señal kutimuptinpas sincronizakunmi. Pedidoqa chayan listo preparananpaq hinaspa entregananpaq.",
+      "benefits": [
+        {
+          "title": "Bolsillopi billetera",
+          "text": "Vendedorqa clientekunata, condicionkunata hinaspa pendiente kaqkunata qawan."
+        },
+        {
+          "title": "Watukuypi kamachiy",
+          "text": "Kunan preciokunawan hinaspa stockwan pedidota hapiy."
+        },
+        {
+          "title": "Catálogo kunankama",
+          "text": "Rurukuna, rikuchiykuna chaymanta chaninkuna mana mawk'a PDF kaqwan."
+        },
+        {
+          "title": "Chiqap mana internetniyuq",
+          "text": "Mana coberturayuq llamk'ay chaymanta qhipaman sincronizay."
+        }
+      ],
+      "audience": "Qhawaqkuna hinallataq chakra qhatuqkuna rakiypi hinallataq askha mikhuypi."
+    },
+    "warehouse": {
+      "kicker": "Aplicación móvil nisqa",
+      "card": "Almacén nisqapaq aplicación móvil nisqa.",
+      "features": [
+        "Chaskiy hinaspa kachay",
+        "Pallay hinaspa embalaje",
+        "Inventario nisqa kamachiy",
+        "Código de barras nisqa ñawinchay"
+      ],
+      "lead": "Chaskiy, akllay hinaspa apachiy telefonowan hinaspa código de barraswan.",
+      "about": "FullVendor Warehouse almacén nisqatam pusarin chaskiypi, pallaypi, embalaje nisqapi hinaspa apachiypi. Códigokunata ñawiriyqa pantaykunata pisiyachin chaymanta inventarioqa manaña killa tukukuyllapichu yupakun.",
+      "benefits": [
+        {
+          "title": "Chaskiy contra orden",
+          "text": "Imachus yaykun chayta tupachikun rantiywan."
+        },
+        {
+          "title": "Dirigido picking nisqa",
+          "text": "Buqueyuq runaqa kamachikuynintam qatipan hinaspam sapa imapas kaqta takyachin."
+        },
+        {
+          "title": "Códigos de barras nisqakuna",
+          "text": "Aswan pisi ruru, lote utaq achka pantaykuna."
+        },
+        {
+          "title": "Confiable stock nisqa",
+          "text": "Sapa kuyuyqa plataformapa inventario nisqatam musuqyachin."
+        }
+      ],
+      "audience": "Almacén nisqapi encargadokuna, barcoyoq runakunapas, paykunan kunan tiempopi listakuna imprimisqawan pedidokunata ruwanku."
+    },
+    "finance": {
+      "kicker": "Aplicación móvil nisqa",
+      "card": "Qullqimanta kamachiy celularniykimanta.",
+      "features": [
+        "Cuentakuna chaskinapaq hinaspa paganapaq",
+        "Clientepa kaynin",
+        "Pagokuna hinaspa allipunachiykuna",
+        "Qullqimanta willakuykuna"
+      ],
+      "lead": "Cuentas chaskisqa, qullqi quy chaymanta rantiqpa kaynin, telefonoykimanta.",
+      "about": "FullVendor Finance kuyuchinapi huñusqa kaqta rikuchin: sapa cliente imatachus manukun, imatachus empresa pagananpaqña kachkan chaymanta imaynatachus qullqi quykuna chayamunku. Watukuchkaspa qullqita huñunapaq, mana escritoriota mana kichaspa qullqi waqaychana wasi qhawanapaq ima.",
+      "benefits": [
+        {
+          "title": "Watukuypi huñuy",
+          "text": "Vendeqqa yachanmi manaraq vendechkaspa rantikuq kunankama kasqanmanta."
+        },
+        {
+          "title": "Chaskinapaq hinaspa paganapaq",
+          "text": "Iskaynin lado cajapi kaq app nisqapi."
+        },
+        {
+          "title": "Pagokuna hinaspa allipunachiykuna",
+          "text": "Créditos nisqakunata registranki hinaspa qawanki imakunam chimpana kasqanmanta."
+        },
+        {
+          "title": "Makipi willakuykuna",
+          "text": "Huñuy hinaspa qullqi qawachiqkuna mana wichqakuyta suyaspa."
+        }
+      ],
+      "audience": "Gerentekuna, huñuqkuna chaymanta ranqhaqkuna mayqinkunachus kunan pacha clientepa situacionninta necesitanku."
+    }
+  },
+  "why": {
+    "eyebrow": "Imaraykutaq FullVendor .",
+    "title": "Negocioykita kallpachay\nchiqap ruwaykunawan",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Empresakunaqa confiawankun"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Usuariokuna ruwaqkuna"
+      },
+      {
+        "value": "+10",
+        "suffix": "watakuna",
+        "label": "Sapa kuti evolución nisqapi"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Puyuyuq kaynin"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Imaynatataq llamkan",
+    "title": "Qhatuymanta huñunakama, mana sistemakunata tikraspa",
+    "text": "Sapa ruru rantiqkunata, stockta, kamachiykunata chaymanta qullqi quykunata rakin. Callepi otaq almacén nisqapi imachus pasasqanqa chay ratollan oficinapi rikhurin.",
+    "steps": {
+      "sell": {
+        "title": "Qamqa rantikunki",
+        "text": "Kamachiyqa web kititakama utaq Sales Man kaqnintakama yaykun, mana señalniyuq kachkaspapas."
+      },
+      "pick": {
+        "title": "Ñam",
+        "text": "Warehouse código de barras kaqwan chaskikun, t'aqakun chaymanta kachan."
+      },
+      "deliver": {
+        "title": "Entregakuna",
+        "text": "Logistics ñanta churan chaymanta chay apachiyta qatin."
+      },
+      "collect": {
+        "title": "Cobras nisqakuna",
+        "text": "Finance hinaspa ERP huñusqa, chaskiykunata hinaspa yupaykunata wichqanku."
+      }
+    }
+  },
+  "band": {
+    "title": "¿Listochu kashanki [[operacionniyki]]wan qhawanaykipaq?",
+    "text": "Ecosistema nisqatam qawachiykiku qamman rikchakuq distribución caso nisqawan."
+  },
+  "footer": {
+    "blurb": "Web chaymanta móvil plataforma rakinapaq, rantiypaq, logística kaqpaq, rantiypaq, inventario kaqpaq chaymanta qullqipaq.",
+    "products": "Rurukuna",
+    "company": "Hatun llamkana",
+    "legal": "Legal",
+    "privacy": "Sapanchasqa",
+    "terms": "Kamachiykuna",
+    "rights": "Tukuy hayñikuna waqaychasqa."
+  },
+  "solutions": {
+    "eyebrow": "Allchaykuna",
+    "title": "Sapa área, [[kikillan llamk'ay]] nisqawan tinkisqa.",
+    "intro": "Allchay munasqayki sasachakuyman hina akllay. Qhipanpi, rurukuna kikin willayta qunakunku.",
+    "items": {
+      "commercial": {
+        "title": "Comercial nisqa kamachiy",
+        "text": "Pedidos, precios, clientes chaymanta inventario sapa p'unchaw rakinapaq."
+      },
+      "field": {
+        "title": "rantiq kallpa",
+        "text": "Callepi, internetpi utaq mana internetpi pedidokunata hapiq ranqhaqkuna."
+      },
+      "warehouse": {
+        "title": "Qatu",
+        "text": "Chaskiy, pallay, apachiy hinaspa huk stock confianapaq hina."
+      },
+      "logistics": {
+        "title": "Logística y entrega nisqa",
+        "text": "Rutakuna, choferkuna hinaspa sapa apachiypa imayna kasqanmanta."
+      },
+      "purchasing": {
+        "title": "Rantinakuy hinaspa suministradorkuna",
+        "text": "Citakuna, pedidokuna hinaspa huk portal pichus suministrasunki chaypaq."
+      },
+      "finance": {
+        "title": "Qullqimanta hinaspa yupaymanta",
+        "text": "Huñuy, qullqi quy, facturación electrónica chaymanta contabilidad."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrias nisqakuna",
+    "title": "[[producto kuyuchiq]]paq ruwasqa.",
+    "intro": "FullVendor rakiypi paqarirqa chaymanta rantiq, waqaychaq, ranqhaq chaymanta quq empresakunawan kuska purin.",
+    "items": {
+      "wholesale": {
+        "title": "Rakiy hinaspa hatun rantikuy",
+        "text": "Preciokuna listakuna, cartera, rakiy hinaspa huñuy huk circuitollapi."
+      },
+      "retail": {
+        "title": "Uchuy rantiy",
+        "text": "Tienda hinaspa almacén conectado stockwan, rantiywan hinaspa huntachiywan."
+      },
+      "food": {
+        "title": "Mikhuna, upyana",
+        "text": "Sapa kuti purina ñankuna hinaspa mana sayay atiq almacén."
+      },
+      "pharma": {
+        "title": "Farmacia y cuidado personal nisqa",
+        "text": "Chaskiy, akllay chaymanta inventario kamachiy qatiy atiywan."
+      },
+      "hardware": {
+        "title": "Ferretería y construcción nisqa",
+        "text": "Achka referenciakuna, suministradores chaymanta entregakuna llamkanaman utaq tiendaman."
+      },
+      "fmcg": {
+        "title": "Masi consumo nisqa",
+        "text": "Callepi rantiq kallpa hinaspa hatun turnover sustitución."
+      },
+      "manufacturing": {
+        "title": "Ruway",
+        "text": "Rantinakuy, almacén hinaspa inventario nisqa kamachikuywan tupachisqa."
+      },
+      "lastmile": {
+        "title": "Entrega y último milla",
+        "text": "Rutakuna, choferkuna hinaspa sapa apachiypa imayna kasqanmanta."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Imakuna",
+    "title": "Ch’uya yuyaykunata [[operacionta kamachiy]].",
+    "intro": "Rakiy kamachiqkunapaq pisi pusaqkuna mayqin sistemawan k'askanakunankupaq tanteanankupaq rinku.",
+    "items": {
+      "unify": {
+        "title": "Imaynatataq rakiyta huklla sistemaman hukllana",
+        "summary": "Imakunata ñawpaqta huñuna, rantiy, almacén chaymanta huñusqakuna hukniray archivokunapi kawsaptinku.",
+        "points": [
+          "Qallarinapaq rantiqkunawan, rurukunawan hinaspa chaninkunawan: paykunam yachachiq kanku, chaytam llapallanku llamkachinku.",
+          "Pedidota stockwan tinkuchiy manaraq aswan aplicacionkunata yapachkaspa.",
+          "Huk sanu yupayta tupun: kamachiykuna hunt’asqa mana formulariota wakmanta ruwaspa."
+        ]
+      },
+      "offline": {
+        "title": "Qhatuy kallpa mana internetpi llamk'aq",
+        "summary": "Imakunata huk pedido appmanta mañakuna chaymanta rantiq mana sayananpaq señalrayku.",
+        "points": [
+          "Catálogo nisqapas, billeterapas telefonopim kanan, manam puyullapichu.",
+          "Kamachiyqa dispositivopi waqaychasqa chaymanta llika kutimuptin kargasqa.",
+          "Sincronización kaqpi, kamachiyqa almacén kaqman yaykunña."
+        ]
+      },
+      "warehouse": {
+        "title": "Almacén código de barras nisqawan, mana papelniyuq",
+        "summary": "Imaynatataq riyta lista impresomanta telefonopi takyasqa akllayman.",
+        "points": [
+          "Rantinakuy kamachiypa contranpi chaskiy, mana yuyariypa contranpichu.",
+          "T’aqaspa sapa imapas takyachiy. Chay kuruqa pasillomanmi kuchun.",
+          "Chay apachiyqa rantiqpa rikusqan stockta musuqyachin."
+        ]
+      },
+      "finance": {
+        "title": "Huñusqa rantikuywan tupachisqa",
+        "summary": "Imaraykutaq rantikuq manaraq huk pedidota ruwachkaspa rantiqpa manukuyninta qawanan.",
+        "points": [
+          "Watukuyqa aswan allinmi huñunapaq, manukuy rikukuq kaptinqa.",
+          "Ventaswan qullqiwanqa kikin rantiqta qhawananku tiyan.",
+          "Sapa p’unchay vencido nisqa willakuyqa aswan valorniyoqmi, qhepata wisq’anamantaqa."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preciokuna",
+    "title": "Huk ecosistema [[qanwan kuska wiñaq]].",
+    "intro": "Mana tarifa genérica kaqmanta lluqsichiykuchu: qullqiqa módulos kaqmanta, usuarios kaqmanta chaymanta volumen kaqmanta kanqa. Plataformata qawachiykiku hinaspam operacionnikiwan huk propuestata huñuyku.",
+    "note": "Demo mana qullqiyuqchu, manataqmi contratota necesitanchu.",
+    "recommended": "Kunasqa",
+    "faq_title": "Sapa kuti tapusqa tapukuykuna",
+    "plans": {
+      "essential": {
+        "name": "Kaqpuni",
+        "desc": "Huk plataformallapi qhatuy kamachiyta, rakiyta ima wakichinapaq.",
+        "features": [
+          "FullVendor web nisqa plataforma",
+          "Qhatuy, rantiy hinaspa inventario nisqa",
+          "Clientekuna, suministradorkuna chaymanta willakuykuna",
+          "Oficinapi equipokuna llamk’achiqkuna",
+          "Qallariy yanapakuy"
+        ],
+        "cta": "Demo mañakuy"
+      },
+      "professional": {
+        "name": "Profesional",
+        "desc": "Callepi rantikuq equipokunapaq, almacén nisqapi pedidokunata wakichiqkunapaq.",
+        "features": [
+          "Tukuy imapas Esencial",
+          "Aplicación FullVendor Sales Man nisqapi.",
+          "Aplicación FullVendor Warehouse nisqapi.",
+          "Mana tinkisqa llamkay hinaspa código de barras",
+          "Aswan chakra hinaspa almacén nisqapi llamkaqkuna"
+        ],
+        "cta": "Demo mañakuy"
+      },
+      "corporate": {
+        "name": "Corporativo nisqa",
+        "desc": "Logística, rantiy, qullqi hinaspa imaymana empresakuna necesitaqkuna huñukunapaq.",
+        "features": [
+          "Ecosistema hunt’asqa",
+          "Logistics, Vendor Supplier hinaspa Finance .",
+          "FullVendor ERP hinaspa achka arrendamiento nisqa",
+          "Facturación electrónica y contabilidad nisqa",
+          "Acompañamiento y prioridad nisqa tarikuy"
+        ],
+        "cta": "Ventaswan rimay"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "¿Llapa rurukunatachu rantinay?",
+        "a": "Manan FullVendor kaqwan qallariyta atikunki chaymanta apps utaq ERP yapayta atikunki mayk'aq llamk'ay necesitan."
+      },
+      "offline": {
+        "q": "¿Aplicacionkuna mana internetniyuqchu llamkanku?",
+        "a": "Sales Man chaymanta Warehouse llamk'ayta qatinku mana señalniyuq chaymanta sincronización kaqmanta tinkinku."
+      },
+      "multi": {
+        "q": "¿Aswan empresayuq kaspayqa allinchu?",
+        "a": "Arí. ERP achka empresakunata yuyaymanan chaymanta ecosistema paykunapura patronkunata rakinakunman."
+      },
+      "demo": {
+        "q": "¿Imakunataq chay demostracionpi kachkan?",
+        "a": "Plataformapi puriy, qanman rikch’akuq cajayoq. Mana qullqiyuq nitaq mana obligacionniyuq."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "FullVendor nisqatam qawachiykiku [[laya llamkayniyki]] nisqawan.",
+    "text": "Willawayku empresaykimanta hinaspa imakunatam ñawpaqta mañakuyta munanki. Chay demo nisqa mana ima qullqiyuqchu."
+  },
+  "contact": {
+    "eyebrow": "Tupaqmasi",
+    "title": "[[operacionniykimanta]] rimasunchik.",
+    "text": "Sichus huk demostración, huk propuesta utaq rurukunapura orientakunaykipaqlla munanki, willakuyniykita saqiy chaymanta kutichisaqku.",
+    "email": "Correo",
+    "phone": "Telefono",
+    "whatsapp": "WhatsApp nisqawan"
+  },
+  "form": {
+    "name": "Suti",
+    "email": "Correo",
+    "phone": "Telefono",
+    "company": "Ruwana",
+    "country": "Hatun llaqta",
+    "team": "Equipopa sayaynin",
+    "interest": "¿Imataq interesasunki?",
+    "message": "Willakuy",
+    "optional": "Akllanapaq",
+    "choose": "Akllay",
+    "interest_all": "Tukuy ecosistema nisqa",
+    "ph_name": "sutiyki",
+    "ph_email": "qam@empresa.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Empresayki",
+    "ph_country": "Hatun llaqta",
+    "ph_message": "Kunan punchaw imayna operasqaykichikta willawayku",
+    "privacy_before": "Aceptani datosniypa llamk'ayninta chayman hina",
+    "privacy_after": ".",
+    "submit": "Mañakuy apachiy",
+    "sent_title": "Mañakusqaykita chaskiyku",
+    "sent_text": "Riqsikuyki. Venta equipo qillqasunki demota coordinanaykipaq utaq tapukuyniykita kutichinaykipaq.",
+    "error_required": "Kay chakrata hunt’achiy.",
+    "error_email": "Huk allin correo electrónico nisqa qillqay.",
+    "error_phone": "Telefonota qhaway.",
+    "error_privacy": "Consentimientoykita necesitayku contacto detalles llamk'achinapaq.",
+    "error_csrf": "Sesión nisqa tukusqañam. Formulariota wakmanta apachiy.",
+    "error_save": "Chay mañakuytaqa manam waqaychayta atirqaykuchu. Hukmanta kallpachakuy.",
+    "error_generic": "Markasqa pampakunata qhawariy.",
+    "error_rate": "Ama hina kaspa, huk ratuta suyay manaraq huk mañakuyta apachichkaspa.",
+    "team_options": {
+      "1-10": "1manta 10 runakunakama",
+      "11-50": "11manta 50 runakunakama",
+      "51-200": "51manta 200 runakunakama",
+      "201-500": "201manta 500 runakunakama",
+      "500+": "500 masnin runakuna"
+    }
+  },
+  "video": {
+    "title": "FullVendor huk minutollapi",
+    "prev": "Ñawpaq",
+    "next": "Qatiy",
+    "slides": [
+      {
+        "title": "Huklla ecosistema nisqa",
+        "text": "Venta, almacén, entrega, rantiy chaymanta qullqi qunakuy rantiqkuna, stock chaymanta pedidokuna."
+      },
+      {
+        "title": "Webwan movilwan kuska",
+        "text": "Oficinaqa plataformapin llank’an. Calle y almacén, chay apps nisqapi, mana señalniyuq kachkaspapas."
+      },
+      {
+        "title": "Rakinapaq ruwasqa",
+        "text": "Kamachiymanta qullqi quykama, mana huk archivomanta huk archivoman willayta pasachispa."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Maskay rurukuna, solucionkuna, industriakuna...",
+    "lang_filter": "Maskay simi",
+    "intro": "Rurukunata, allichaykunata, industriakunata hinaspa yanapakuykunata maskay.",
+    "empty": "Mana tarirqaykuchu “{q}” nisqapaq ruwaykunata.",
+    "hint": "Qhatuykunata, almacén, ñankunata utaq huñuykunata pruebay.",
+    "results": "{n} ruwasqakuna",
+    "button": "Maskay",
+    "kind_product": "Ruru",
+    "kind_solution": "Chuyanay",
+    "kind_industry": "Industria",
+    "kind_resource": "Hanpi"
+  },
+  "notfound": {
+    "title": "Kay p'anqaqa manam",
+    "text": "T'inkiqa manam kanchu icha maypi kasqanmi tikrasqa."
+  },
+  "common": {
+    "what": "Imataq allichan",
+    "features": "Imataq chaypi kachkan",
+    "benefits": "Imaraykun importante",
+    "for_who": "¿Pipaqtaq?",
+    "related": "Hinallataqmi ecosistema nisqapipas"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Kunan punchaw rantikuy",
+      "orders": "Kamachiykuna",
+      "clients": "Clientekuna",
+      "products": "Rurukuna"
+    },
+    "sidebar": {
+      "dashboard": "Tabla de mando",
+      "sales": "Qhatuy",
+      "purchases": "Rantiy",
+      "inventory": "Inventario",
+      "clients": "Clientekuna",
+      "reports": "Willakuykuna"
+    },
+    "chart": "Qhatuy",
+    "channel": "Kanal nisqaman hina rakiy",
+    "channels": [
+      "Qatu",
+      "Aypuy",
+      "Mayorista",
+      "Hukkuna"
+    ],
+    "orders": "Qhipa kamachiykuna",
+    "col_order": "Ñiqinchay",
+    "col_client": "Rantiq",
+    "col_status": "Imayna kasqan",
+    "col_total": "Llapan",
+    "status": [
+      "Qusqa",
+      "Ñanpi",
+      "Kaqraq"
+    ],
+    "top": "Aswan rantisqa rurukuna",
+    "product": "Ruru",
+    "sales_menu": [
+      "Clientekuna",
+      "Kamachiykuna",
+      "Rurukuna",
+      "Rutas",
+      "Sinkronizay"
+    ],
+    "warehouse_menu": [
+      "Recepcion",
+      "Pallakuy",
+      "Inventario",
+      "Apachiy",
+      "Sinkronizay"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Sapanchasqa willakuy",
+    "privacy_intro": "Kay kamachiy sut'inchan ima ruwasqayku willayta kay sitiopi formulariokunapi saqisqaykiwan.",
+    "privacy": [
+      {
+        "title": "Ima datoskunatataq huñunchik",
+        "text": "Sichus huk demostracionta mañanki utaq ñuqaykuman qillqanki, sutita, empresata, correo electrónicota, telefono yupayta waqaychayku sichus chayta, suyuta, equipopa sayayninta, interesniyuq ruruta chaymanta willakuyta. Hinallataq, p'unchawta, p'anqap siminta chaymanta IP tiyapuyninta qillqayku, mana allin apachiykunata hark'anapaq."
+      },
+      {
+        "title": "¿Imapaqtaq chaykunata apaykachanchik?",
+        "text": "Kay willayta qamman kutichinaykupaq, huk demota coordinanaykupaq chaymanta huk propuesta comercial wakichinaykupaqlla llamk'achiyku. Manam rantikuykuchu nitaqmi kimsa kaq runakunapa listanmanpas quykuchu."
+      },
+      {
+        "title": "¿Maypitaq waqaychanku, hayka tiempopaqtaq?",
+        "text": "Mañakuykunaqa kay kitip sirwiqninpi waqaychasqam. Chaykunata waqaychayku chay pachapaq necesario servinapaq qampaq chaymanta comercial qatiypaq, chaymanta qulluyku mayk'aqchus mañawayku utaq manaña necesitakunchu."
+      },
+      {
+        "title": "Derechoykikuna",
+        "text": "Mañakuy atikunki yaykuyta, allichayta utaq qulluyta willakuyniykiman formulario de contacto kaqmanta, willakuypi rikuchispa. Sichus empresa kay web nisqapi huk correo electrónicota horqomun chayqa, chaypi qelqawaqtaqmi."
+      }
+    ],
+    "terms_title": "Términos de uso nisqa",
+    "terms_intro": "Kay condicionkuna kay FullVendor apachiy sitio llamk'achinapaq ruwakunku.",
+    "terms": [
+      {
+        "title": "Qhatuymanta willakuy",
+        "text": "Textos, ejemplo tabla de mando siqikuna chaymanta descripciones plataformata riqsichin. Chaykunataqa allinchasqa kankuman mayk'aqchus ruru tikrakun chaymanta mana wichq'asqa quychu kanku."
+      },
+      {
+        "title": "Chay demostracionqa manan contratochu",
+        "text": "Formulariota apachiyqa manam obligaciontachu ruwan rantiyta nitaq preciota reservayta. Ima contratopas sapaqmantan rimanakunku, qelqapi, alcance nisqawan, condicionninkunawan ima."
+      },
+      {
+        "title": "Sitio nisqapi kaq contenido",
+        "text": "FullVendor rantiqpa markan, rurukuna sutikuna chaymanta kay p'anqakunap kaqnin dueñonkumanta kanku. Chaykunataqa manam copiayta atikunmanchu huk ruruta qawachinapaq."
+      },
+      {
+        "title": "Aceptable utilización",
+        "text": "Ama formulariokunata llamk'achiychu llulla willayta, spam utaq mana kamachisqa willayta apachinaykipaq. Ichapas mana uyarichwanchu mañakuykunata mana chiqap negocio rimanakuywan tupaq."
+      }
+    ]
+  }
+}

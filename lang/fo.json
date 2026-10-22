@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Stjóra og vaksa um tína fyritøku",
+    "home_desc": "Alt í einum pallur við vev- og fartelefonloysnum til útbreiðslu, sølu, logistikk, innkeyp, goymslu og fíggjar.",
+    "products_title": "Vørur | FullVendor",
+    "products_desc": "Lær vistskipanina at kenna FullVendor: handilspallur, ERP, logistikk, veitarar og søla, goymslu- og fíggjarappir.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Loysnir | FullVendor",
+    "solutions_desc": "Loysnir til handilsliga leiðslu, sølufólk, goymslu, logistikk, innkeyp og fíggjar.",
+    "industries_title": "Vinnugreinar | FullVendor",
+    "industries_desc": "FullVendor til útbýti, smásølu, matvøru, apotek, byggibúnað, hópnýtslu, framleiðslu og seinastu míl.",
+    "pricing_title": "Prísir | FullVendor",
+    "pricing_desc": "Alneyðugar, fakligar og fyritøkuætlanir. Uppskotið er sett saman eftir modulum, brúkarum og rúmd.",
+    "resources_title": "Tilfar | FullVendor",
+    "resources_desc": "Stuttar vegleiðingar um at sameina útbýti, selja offline, skipa goymsluna og fáa løn til tíðina.",
+    "contact_title": "Samband | FullVendor",
+    "contact_desc": "Skriva til okkum fyri at kunna teg um FullVendor ella samskipa samrøðu við sølutoymið.",
+    "demo_title": "Bið um demo | FullVendor",
+    "demo_desc": "Bið um eina demo av FullVendor og rundvís á pallin við einum máli, sum líkist tínum rakstri.",
+    "privacy_title": "Persónligur dátur | FullVendor",
+    "terms_title": "Treytir | FullVendor",
+    "search_title": "Leita | FullVendor",
+    "notfound_title": "Síða ikki funnin | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Heimasíða",
+    "products": "Vørur",
+    "solutions": "Loysnir",
+    "industries": "Vinnugreinar",
+    "pricing": "Prísur",
+    "resources": "Snarræði",
+    "contact": "Samband",
+    "open_menu": "Opna valmynd",
+    "close": "Lata aftur"
+  },
+  "cta": {
+    "demo": "Bið um sýning",
+    "contact": "Set teg í samband við okkum",
+    "video": "Hygg eftir video",
+    "talk": "Tosa við søluna",
+    "all_products": "Sí allar vørur",
+    "home": "Far aftur til heimasíðuna"
+  },
+  "a11y": {
+    "skip": "Hopp til innihald",
+    "primary": "Høvuðssigling",
+    "crumbs": "Siglingarleið",
+    "search": "Leita eftir",
+    "language": "Mál"
+  },
+  "hero": {
+    "eyebrow": "Alt í einum palli",
+    "title": "Umsita og vaksa\ntína fyritøku við\n{{brand}}",
+    "subtitle": "Ein fullfíggjaður pallur við vev- og fartelefonloysnum til útbreiðslu, sølu, logistikk, innkeyp, goymslu, fíggjar og annað.",
+    "pill_ecosystem": "Alt í eini vistskipan",
+    "pill_cloud": "Í skýnum, trygt og skalerbart",
+    "pill_size": "Fyri fyritøkur í øllum støddum"
+  },
+  "products_block": {
+    "eyebrow": "Okkara vørur",
+    "title": "Ein [[fullfíggjað vistskipan]] fyri hvørt øki í tínari fyritøku",
+    "aside": "Samlaðar loysnir, sum virka saman fyri at geva tær totalt stýring, rakstrareffektivitet og størri vøkstur.",
+    "groups": {
+      "money": "Umsiting og innkrevjing .",
+      "flow": "Keyp og avhending",
+      "field": "Søla og goymsla ."
+    }
+  },
+  "products_page": {
+    "title": "Sjey vørur, [[ein rakstur]].",
+    "text": "Hvør vøra loysir eitt øki. Saman deila tey kundar, goymslu, bíleggingar og gjaldingar."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Pallgrund",
+      "card": "Høvuðspallur til handilsliga leiðslu og útbreiðslu.",
+      "features": [
+        "Søla og keyp",
+        "Uppgerð",
+        "Viðskiftafólk og veitarar",
+        "Frágreiðingar og annað"
+      ],
+      "lead": "Miðdepilin í tínum handilsliga rakstri: bíleggingar, prísir, goymsla og kundar á einum stað.",
+      "about": "FullVendor kemur í staðin fyri leysar rokniark og skipanir hjá einum útflytara. Hiðani koma bíleggingar út, goymsla verður hoyrd, kundaportfolio verður tikið sær av og hugt verður eftir dagsins tølum. Restin av vistskipanini knýtir seg at hesum støði.",
+      "benefits": [
+        {
+          "title": "Ein dátumeistari",
+          "text": "Kundar, vørur og prísir eru deildir við sølu, goymslu og fíggjar."
+        },
+        {
+          "title": "Týðiligur dagligur rakstur",
+          "text": "Bíleggingar, keyp og goymsla lata vera við at liva í ymiskum skráum."
+        },
+        {
+          "title": "Frágreiðingar at taka støðu til",
+          "text": "Søla, marginal og pending síggjast uttan at seta talvu saman við hond."
+        },
+        {
+          "title": "Klárt at vaksa",
+          "text": "Logistikkur, sølufólk ella ERP upphæddir, tá raksturin biður um tað."
+        }
+      ],
+      "audience": "Handils- og útbreiðslutoymi, sum í dag samskipa virksemið millum fleiri skipanir."
+    },
+    "erp": {
+      "kicker": "Fyrisiting",
+      "card": "Fullfíggjað fyrisitingarliga og fíggjarliga stýring.",
+      "features": [
+        "Bókhald",
+        "Elektronisk fakturering",
+        "Arbeiðsbløð",
+        "Fastar ognir .",
+        "Fleirfyritøka"
+      ],
+      "lead": "Umsiting og fíggjarmál, í tráð við tað, sum í roynd og veru verður selt og avhendað.",
+      "about": "FullVendor ERP fevnir um bókhald, elektroniska fakturering, lønartalvur, fastar ognir og fleirfyritøku. Hon tekur handilsliga raksturin og umroknar hann til upptøkur, viðtøkur og útrokningar, sum fíggjarøkið kann brúka.",
+      "benefits": [
+        {
+          "title": "Sambandsroknskapur",
+          "text": "Tað, sum hendir í sølu og keypi, nørir roknskap."
+        },
+        {
+          "title": "Elektroniskar kvittanir",
+          "text": "Tú gevur út og stýrir rokning frá somu vistskipan."
+        },
+        {
+          "title": "Ymiskar fyritøkur",
+          "text": "Fleirfelag fyri bólkar, sum virka undir fleiri enn einum fyritøkunavni."
+        },
+        {
+          "title": "Lønarseðlar og ognir .",
+          "text": "Lønartalvur og føst ogn saman við restini av leiðsluni."
+        }
+      ],
+      "audience": "Fyrisitingarlig og fíggjarlig øki, sum vilja lukka tølini við veruliga rakstrinum."
+    },
+    "logistics": {
+      "kicker": "Logistikkur",
+      "card": "Stýring og eftirlit við tínum logistikkrakstri.",
+      "features": [
+        "Leiðir og avhendingar",
+        "Sporing í sanntíð",
+        "Bilførarauppgáva",
+        "Optimering av leiðini"
+      ],
+      "lead": "Frá bílegging til avhending: leiðir, bilførarar og sporing í sanntíð.",
+      "about": "FullVendor Logistics skipar fyri býtinum. Tú gert leiðir, tildeilir bilførarar og sært, hvar hvør avhending gongur. Ferðslutoymið steðgar alt eftir uppringingum fyri at vita, um bíleggingin er send.",
+      "benefits": [
+        {
+          "title": "Dagsins leiðir",
+          "text": "Avhendingar bílagdar eftir øki, tíðarvindeyga og kapasiteti."
+        },
+        {
+          "title": "Tilnevndur bilførari",
+          "text": "Hvør leið hevur ein ábyrgdarmann og eina greiða raðfylgju."
+        },
+        {
+          "title": "Málsframhald",
+          "text": "Tú veitst, hvat er avhendað, á veg ella steðgað."
+        },
+        {
+          "title": "Færri kilometrar",
+          "text": "Leiðoptimering minkar um leveringstíðina og kostnaðin."
+        }
+      ],
+      "audience": "Útbýtisrakstur við egnum flota ella triðjaparti."
+    },
+    "supplier": {
+      "kicker": "Keypa",
+      "card": "Portalur fyri veitarar og innkeypsleiðslu.",
+      "features": [
+        "Innkeypsskipanir",
+        "Sitera",
+        "Veitaraleiðsla",
+        "Integratión við goymslu"
+      ],
+      "lead": "Tínir veitarar geva tilboð, taka ímóti bíleggingum og fylla upp á goymsluna uttan leysar teldupostar.",
+      "about": "Vendor Supplier letur upp ein portal til keyp og veitarar at arbeiða við somu skipanum. Tilboð, innkeypsskipanir og móttøka eru knýtt at goymsluni í FullVendor.",
+      "benefits": [
+        {
+          "title": "Bíleggingar í rás",
+          "text": "Veitarin sær hvat skal avhendast, uttan teldupostketu."
+        },
+        {
+          "title": "Sambærlig sitat",
+          "text": "Tú spyrt um prísir og velur við søguni í huga."
+        },
+        {
+          "title": "Veitari meistari",
+          "text": "Treytir, kontaktir og bíðandi í einari skrá."
+        },
+        {
+          "title": "Skriva goymsluna",
+          "text": "Tað, sum varð keypt, sæst aftur í lagrinum, tá tað er móttikið."
+        }
+      ],
+      "audience": "Innkeypstoymi, sum fylla upp við fleiri veitarunum og hava tørv á sporføri."
+    },
+    "salesman": {
+      "kicker": "Fartelefon app",
+      "card": "Fartelefonforrit til sølutoymi.",
+      "features": [
+        "Kundaleiðsla",
+        "Bíleggingartøka",
+        "Vøruskrá",
+        "Arbeiði uttanfyri netið"
+      ],
+      "lead": "Søludeildin tekur ímóti bíleggingum á gøtuni, við ella uttan signali.",
+      "about": "FullVendor Sales Man leggur tína portfolio, katalog og bíleggingartøku á telefonina hjá seljaranum. Um einki internet er, heldur arbeiðið fram og synkroniserar, tá signalið kemur aftur. Bíleggingin kemur klár at fyrireika og avhenda.",
+      "benefits": [
+        {
+          "title": "Veski í lummanum",
+          "text": "Seljarin sær kundar, treytir og bíðandi lutir."
+        },
+        {
+          "title": "Bílegg við vitjan",
+          "text": "Tak bíleggingina við galdandi prísum og lagri."
+        },
+        {
+          "title": "Skrá dagført",
+          "text": "Vørur, framløgur og prísir uttan gamla PDF."
+        },
+        {
+          "title": "Veruliga av netinum",
+          "text": "Arbeiði uttan dekning og synkronisera seinni."
+        }
+      ],
+      "audience": "Umsjónarmenn og økissølufólk í útbýti og hópnýtslu."
+    },
+    "warehouse": {
+      "kicker": "Fartelefon app",
+      "card": "Fartelefonforrit til goymslu.",
+      "features": [
+        "Móttøka og sending",
+        "Heinta og pakka",
+        "Goymslueftirlit",
+        "Strikakotulesing"
+      ],
+      "lead": "Móttøka, heinta og sending við telefon og strikukotu.",
+      "about": "FullVendor Warehouse vegleiðir goymsluna í móttøku, tíning, pakking og útsending. At lesa kotur minkar um feilir og goymslan verður ikki longur bert tald við mánaðarskiftið.",
+      "benefits": [
+        {
+          "title": "Móttøka móti bílegging",
+          "text": "Tað, sum kemur inn, er samanborið við keypið."
+        },
+        {
+          "title": "Málvíst tína",
+          "text": "Reiðarin fylgir skipanini og staðfestir hvønn pkt."
+        },
+        {
+          "title": "Strikakotur",
+          "text": "Færri vøru-, hóp- ella nøgdarfeil."
+        },
+        {
+          "title": "Álítandi goymsla",
+          "text": "Hvørt stig dagførir goymsluna á pallinum."
+        }
+      ],
+      "audience": "Goymsluleiðarar og reiðarar sum í dag fyrireika bíleggingar við prentaðum listum."
+    },
+    "finance": {
+      "kicker": "Fartelefon app",
+      "card": "Fíggjarligt stýring frá fartelefonini.",
+      "features": [
+        "Debitor- og skuldarroknskapur .",
+        "Kundastøða",
+        "Gjaldingar og avstemmingar .",
+        "Roknskaparfrágreiðingar ."
+      ],
+      "lead": "Debitorroknskapur, gjaldingar og kundastøða, frá tínari telefon.",
+      "about": "FullVendor Finance vísir innkrevjingina á fartelefonini: hvat hvør kundi skyldar, hvat felagið er í ferð við at rinda og hvussu útgjaldingarnar koma. Tað verður brúkt til at savna pening inn undir vitjanini og at hyggja í kassan uttan at lata skriviborðið upp.",
+      "benefits": [
+        {
+          "title": "Innsavnan við vitjan",
+          "text": "Seljarin veit, um kundin er dagførdur, áðrenn hann selur."
+        },
+        {
+          "title": "Móttakandi og gjaldskyldugur .",
+          "text": "Báðar síður av kassanum í somu app."
+        },
+        {
+          "title": "Gjaldingar og avstemmingar .",
+          "text": "Tú skrásetur eintøk og sært, hvat skal krossast."
+        },
+        {
+          "title": "Frágreiðingar við hondina",
+          "text": "Innkrevjingar- og kassavísarar uttan at bíða eftir stongsli."
+        }
+      ],
+      "audience": "Stjórar, innsavnarar og sølufólk, sum hava tørv á støðuni hjá kundanum í løtuni."
+    }
+  },
+  "why": {
+    "eyebrow": "Hví FullVendor .",
+    "title": "Økja tína fyritøku\nvið veruligum úrslitum",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Fyritøkur hava álit á okkum"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Virknir brúkarar"
+      },
+      {
+        "value": "+10",
+        "suffix": "ár",
+        "label": "Í støðugari menning"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Tilgongd í skýggjum"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hvussu tað virkar",
+    "title": "Frá sølu til innsavning, uttan at broyta skipanir",
+    "text": "Hvør vøra deilir kundar, goymslu, bíleggingar og gjaldingar. Tað, sum hendir á gøtuni ella á goymsluni, kemur fram á skrivstovuni beinanvegin.",
+    "steps": {
+      "sell": {
+        "title": "Tú selur",
+        "text": "Skipanin er førd inn gjøgnum heimasíðuna ella gjøgnum Sales Man, eisini uttan signal."
+      },
+      "pick": {
+        "title": "Til reiðar",
+        "text": "Warehouse tekur ímóti, skilur og sendir út við strikukotu."
+      },
+      "deliver": {
+        "title": "Avhendingar",
+        "text": "Logistics tilskilar farleiðina og fylgir avhendingini."
+      },
+      "collect": {
+        "title": "Kobrar",
+        "text": "Finance og ERP loka savnið, viðtøkurnar og tølini."
+      }
+    }
+  },
+  "band": {
+    "title": "Klárur at síggja tað við [[tínum rakstri]]?",
+    "text": "Vit vísa tær vistskipanina við einum útbreiðslumáli, sum líkist tínum."
+  },
+  "footer": {
+    "blurb": "Vev- og fartelefonpallur til útbreiðslu, sølu, logistikk, innkeyp, goymslu og fíggjar.",
+    "products": "Vørur",
+    "company": "Vertskapur",
+    "legal": "Lógligur",
+    "privacy": "Einvera",
+    "terms": "Máliska",
+    "rights": "Øll rættindi tilskilað."
+  },
+  "solutions": {
+    "eyebrow": "Loysnir",
+    "title": "Hvørt øki, knýtt at [[sama rakstri]].",
+    "intro": "Vel eftir trupulleikanum, tú vilt loysa. Aftanfyri deila vørurnar somu upplýsingar.",
+    "items": {
+      "commercial": {
+        "title": "Handilsleiðsla .",
+        "text": "Bíleggingar, prísir, kundar og goymsla til dagliga útbýtið."
+      },
+      "field": {
+        "title": "sølufólk",
+        "text": "Sølufólk, sum taka bíleggingar á gøtuni, á netinum ella uttanfyri netið."
+      },
+      "warehouse": {
+        "title": "Handil",
+        "text": "Móttøka, tína, sending og ein lager, sum kann hava álit á."
+      },
+      "logistics": {
+        "title": "Logistikkur og avhending",
+        "text": "Leiðir, bilførarar og støðan hjá hvørjari avhending."
+      },
+      "purchasing": {
+        "title": "Innkeyp og veitarar",
+        "text": "Tilboð, bíleggingar og ein portal til tann, sum veitir teg."
+      },
+      "finance": {
+        "title": "Fíggjar- og roknskaparmál",
+        "text": "Innsavningar, gjaldingar, elektronisk fakturering og bókhald."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Vinnugreinar",
+    "title": "Gjørt til tey, sum [[flytur vøru]].",
+    "intro": "FullVendor varð føddur í útbreiðslu og fylgir fyritøkum, sum keypa, goyma, selja og avhenda.",
+    "items": {
+      "wholesale": {
+        "title": "Útbreiðsla og heilsøla",
+        "text": "Príslistar, portfolio, útbreiðsla og innsavnan í einari ringrás."
+      },
+      "retail": {
+        "title": "Smásøla",
+        "text": "Goymsla og goymsla við tilknýttum lagri, sølu og áfylling."
+      },
+      "food": {
+        "title": "Matur og drekka",
+        "text": "Tíðarhóskandi rutur og goymsla, sum ikki kann steðga."
+      },
+      "pharma": {
+        "title": "Apotek og persónlig røkt",
+        "text": "Móttøka, tína og goymslueftirlit við sporføri."
+      },
+      "hardware": {
+        "title": "Hardware og bygging",
+        "text": "Nógvar tilvísingar, veitarar og avhendingar til vinnu ella goymslu."
+      },
+      "fmcg": {
+        "title": "Hópnýtsla",
+        "text": "Gøtusølumegi og høgur umsetningur útskifting."
+      },
+      "manufacturing": {
+        "title": "Framleiðsla",
+        "text": "Innkeyp, goymsla og goymsla í tráð við umsiting."
+      },
+      "lastmile": {
+        "title": "Avhending og seinasta míl",
+        "text": "Leiðir, bilførarar og støðan hjá hvørjari avhending."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Snarræði",
+    "title": "Greið hugskot til [[bíleggja raksturin]]",
+    "intro": "Stuttar vegleiðingar til útbreiðsluleiðarar, sum skulu gera av, hvørja skipan teir skulu halda seg til.",
+    "items": {
+      "unify": {
+        "title": "Hvussu vit sameina býtið í eina skipan",
+        "summary": "Hvat skal setast saman fyrst tá søla, goymsla og savn liva í ymiskum skráum.",
+        "points": [
+          "Byrja við kundum, vørum og prísum: tey eru lærarin, sum øll brúka.",
+          "Set bíleggingina saman við goymsluni, áðrenn tú leggur fleiri umsóknir afturat.",
+          "Tað mátar eitt einfalt tal: bíleggingar, sum verða útfyltar uttan at gera oyðublaðið aftur."
+        ]
+      },
+      "offline": {
+        "title": "Sølufólkið arbeiðir uttanfyri netið",
+        "summary": "Hvat skal krevjast frá einari bíleggingar app soleiðis at seljarin ikki steðgar orsakað av signalinum.",
+        "points": [
+          "Skráin og pengapungurin mugu vera á telefonini, ikki bara í skýnum.",
+          "Bíleggingin verður goymd á tólinum og løgd upp, tá netið kemur aftur.",
+          "Við synkronisering kemur bíleggingin longu inn á goymsluna."
+        ]
+      },
+      "warehouse": {
+        "title": "Goymsla við strikukotu, uttan pappír",
+        "summary": "Hvussu fert tú frá prentaða listanum til staðfest tína á telefonini.",
+        "points": [
+          "Móttaka móti innkeypsskipanini, ikki móti minninum.",
+          "Staðfest hvønn lutur, tá tú skilur. Villurin sker inn í gongina.",
+          "Sendingin dagførir lagrið, sum seljarin sær."
+        ]
+      },
+      "finance": {
+        "title": "Innsavnan í tráð við søluna",
+        "summary": "Hví seljarin skal síggja skuldina hjá kundanum, áðrenn hann tekur aðra bílegging.",
+        "points": [
+          "Vitjanin er besta tíðin at heinta inn, um skuldin er sjónlig.",
+          "Søla og fíggjar mugu hyggja at sama kunda.",
+          "Ein daglig forfall frágreiðing er meira verd enn ein sein stongd."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prísur",
+    "title": "Ein vistskipan, sum [[veksur saman við tær]].",
+    "intro": "Vit geva ikki út generiskan prís: kostnaðurin er treytaður av modulum, brúkarum og rúmd. Vit vísa tær pallin og seta saman eitt uppskot við tínum rakstri.",
+    "note": "Demo hevur ongan kostnað og krevur ikki sáttmála.",
+    "recommended": "Viðmæla",
+    "faq_title": "Ofta spurdir spurningar",
+    "plans": {
+      "essential": {
+        "name": "Kjarni",
+        "desc": "At skipa handilsliga stýring og útbreiðslu á einum palli.",
+        "features": [
+          "FullVendor vevpallur",
+          "Søla, keyp og goymsla",
+          "Viðskiftafólk, veitarar og frágreiðingar",
+          "Brúkarar av skrivstovuútgerð",
+          "Uppstartsstuðul"
+        ],
+        "cta": "Bið um sýning"
+      },
+      "professional": {
+        "name": "Yrkisfólk",
+        "desc": "Fyri toymi, sum selja á gøtuni og fyrireika bíleggingar á goymsluni.",
+        "features": [
+          "Alt neyðugt",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline arbeiði og strikukotur",
+          "Fleiri økis- og goymslubrúkarar"
+        ],
+        "cta": "Bið um sýning"
+      },
+      "corporate": {
+        "name": "Fyritøkur",
+        "desc": "Fyri bólkar, sum hava tørv á logistikki, innkeypi, fíggjar og ymiskum fyritøkum.",
+        "features": [
+          "Fullfíggjað vistskipan",
+          "Logistics, Vendor Supplier og Finance",
+          "FullVendor ERP og fleirleigu .",
+          "Elektronisk fakturering og bókhald",
+          "Fylgispæl og prioriterað tøkni"
+        ],
+        "cta": "Tosa við søluna"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Skal eg keypa allar vørurnar?",
+        "a": "Nei Tú kanst byrja við FullVendor og leggja appir ella ERP til, tá raksturin hevur brúk fyri tí."
+      },
+      "offline": {
+        "q": "Virka forritini uttan internet?",
+        "a": "Sales Man og Warehouse halda fram at virka uttan signal og synkronisera, tá ið samband verður sett aftur."
+      },
+      "multi": {
+        "q": "Riggar tað, um eg havi fleiri enn eina fyritøku?",
+        "a": "Ja. ERP hugsar um fleirfyritøku og vistskipanin kann deila meistarar teirra millum."
+      },
+      "demo": {
+        "q": "Hvat inniheldur demo'in?",
+        "a": "Ein rundvísing á pallinum við einum máli, sum líkist tínum. Eingin kostnaður og eingin skylda."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Vit vísa tær FullVendor við [[títt slag av rakstri]].",
+    "text": "Fortel okkum um tína fyritøku og hvat tú ynskir ​​at bíleggja fyrst. Demo'in hevur ongan kostnað."
+  },
+  "contact": {
+    "eyebrow": "Samband",
+    "title": "Latið okkum tosa um [[tín rakstur]]",
+    "text": "Ynskir ​​tú eina demo, eitt uppskot ella bara at orientera teg millum vørurnar, so legg tínar upplýsingar eftir og vit svara.",
+    "email": "Postur",
+    "phone": "Telefon",
+    "whatsapp": "Hvatsapp"
+  },
+  "form": {
+    "name": "Navn",
+    "email": "Postur",
+    "phone": "Telefon",
+    "company": "Vertskapur",
+    "country": "Land",
+    "team": "Liðstødd",
+    "interest": "Hvat hevur tín áhuga?",
+    "message": "Boð",
+    "optional": "Valfríur",
+    "choose": "Velja",
+    "interest_all": "Øll vistskipanin",
+    "ph_name": "títt navn",
+    "ph_email": "tú@fyritøka.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Tín fyritøka",
+    "ph_country": "Land",
+    "ph_message": "Sig okkum, hvussu tú virkar í dag",
+    "privacy_before": "Eg góðtaki nýtsluna av mínum dátum sambært",
+    "privacy_after": ".",
+    "submit": "Send fyrispurning",
+    "sent_title": "Vit fáa tína umbøn",
+    "sent_text": "Takk fyri. Sølutoymið skrivar til tín fyri at samskipa demo'ina ella svara tínum spurningi.",
+    "error_required": "Fyll út hendan teigin.",
+    "error_email": "Skriva ein gyldugan teldupost.",
+    "error_phone": "Kanna telefonina.",
+    "error_privacy": "Vit hava brúk fyri tínum samtykki til at brúka kontaktupplýsingar.",
+    "error_csrf": "Tingfundurin er útrunnin. Send oyðublaðið inn aftur.",
+    "error_save": "Vit kundu ikki goyma umbønina. Royn aftur.",
+    "error_generic": "Gjøgnumganga merktu teigarnar.",
+    "error_rate": "Vinarliga bíða eina løtu, áðrenn tú sendir eina aðra umbøn inn.",
+    "team_options": {
+      "1-10": "1 til 10 fólk",
+      "11-50": "11 til 50 fólk",
+      "51-200": "51 til 200 fólk",
+      "201-500": "201 til 500 fólk",
+      "500+": "Fleiri enn 500 fólk"
+    }
+  },
+  "video": {
+    "title": "FullVendor í einum minutti",
+    "prev": "Fyrrverandi",
+    "next": "Fyljga",
+    "slides": [
+      {
+        "title": "Ein vistskipan .",
+        "text": "Søla, goymsla, avhending, innkeyp og fígging deila kundar, goymslu og bíleggingar."
+      },
+      {
+        "title": "Vev og fartelefon saman",
+        "text": "Skrivstovan arbeiðir á pallinum. Gøtan og goymslan, í appunum, eisini uttan signal."
+      },
+      {
+        "title": "Gjørd til at býta út",
+        "text": "Frá bílegging til gjald, uttan at lata upplýsingar víðari frá eini skrá til aðra."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Leita eftir vørum, loysnum, vinnugreinum...",
+    "lang_filter": "Leita mál",
+    "intro": "Leita eftir vørum, loysnum, vinnugreinum og tilfeingi.",
+    "empty": "Vit funnu ikki úrslit fyri “{q}”.",
+    "hint": "Royn sølu, goymslu, leiðir ella savn.",
+    "results": "{n} úrslit",
+    "button": "Leita eftir",
+    "kind_product": "Vøra",
+    "kind_solution": "Avgerð",
+    "kind_industry": "Íðni",
+    "kind_resource": "Tilfeingi"
+  },
+  "notfound": {
+    "title": "Hendan síðan er ikki",
+    "text": "Leinkjan er ikki til ella hevur broytt stað."
+  },
+  "common": {
+    "what": "Hvat loysir",
+    "features": "Hvat er íroknað",
+    "benefits": "Hví tað hevur týdning",
+    "for_who": "Hvørjum er tað fyri?",
+    "related": "Eisini í vistskipanini"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sølan í dag",
+      "orders": "Bíleggingar",
+      "clients": "Kundar",
+      "products": "Vørur"
+    },
+    "sidebar": {
+      "dashboard": "Stýriborð",
+      "sales": "Søla",
+      "purchases": "Keypa",
+      "inventory": "Uppgerð",
+      "clients": "Kundar",
+      "reports": "Frágreiðingar"
+    },
+    "chart": "Søla",
+    "channel": "Útbreiðsla eftir rás",
+    "channels": [
+      "Handil",
+      "Útbýting",
+      "Heilsøla",
+      "Onnur"
+    ],
+    "orders": "Nýggjastu bíleggingarnar",
+    "col_order": "Sum er",
+    "col_client": "Viðskiftafólk",
+    "col_status": "Støða",
+    "col_total": "Samantald upphædd",
+    "status": [
+      "Úborið",
+      "Á veg",
+      "Oyralokkur"
+    ],
+    "top": "Mest seljandi vørur",
+    "product": "Vøra",
+    "sales_menu": [
+      "Kundar",
+      "Bíleggingar",
+      "Vørur",
+      "Leiðir",
+      "Samskipa"
+    ],
+    "warehouse_menu": [
+      "Móttøka",
+      "Tína",
+      "Uppgerð",
+      "Sending",
+      "Samskipa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Persónsverndarpolitikkur",
+    "privacy_intro": "Hesin politikkurin greiðir frá, hvat vit gera við dáturnar, tú letur eftir í oyðubløðum á hesi síðuni.",
+    "privacy": [
+      {
+        "title": "Hvørji dátu vit savna inn",
+        "text": "Um tú biður um demo ella skrivar til okkum, goyma vit navnið, fyritøkuna, teldupostið, telefonnummarið um tú vísir tað, landið, støddina á toyminum, vøruna, sum tú hevur áhuga í, og boðini. Vit skráseta eisini dagfestingina, málið á síðuni og IP-adressuna, fyri at forða fyri misnýtslu av innsendingum."
+      },
+      {
+        "title": "Hvat brúka vit tey til?",
+        "text": "Vit brúka hesar dátur bert til at svara tær, samskipa eina demo og fyrireika eitt handilsligt uppskot. Vit selja tey ikki ella geva tey til ein lista yvir triðjapartar."
+      },
+      {
+        "title": "Hvar eru tey goymd og hvussu leingi?",
+        "text": "Umbønir eru goymdar á ambætaranum á hesi síðuni. Vit goyma tey til ta tíðina, sum er neyðug fyri at tæna tær og handilsliga eftirfylgju, og vit strika tey, tá tú biður okkum um tað ella tá tørvur ikki er á teimum longur."
+      },
+      {
+        "title": "Tíni rættindi",
+        "text": "Tú kanst biðja um atgongd, rætting ella striking av tínum dátum frá kontaktoyðublaðnum, og vísa tað í boðunum. Um fyritøkan leggur ein teldupost út á hesa heimasíðuna, ber eisini til at skriva har."
+      }
+    ],
+    "terms_title": "Nýtslutreytir",
+    "terms_intro": "Hesar treytir eru galdandi fyri nýtslu av hesi FullVendor innlatingarsíðu.",
+    "terms": [
+      {
+        "title": "Handilsligar upplýsingar",
+        "text": "Tekstur, dømi um stýriborðsmyndir og lýsingar innleiða pallin. Tær kunnu stillast, tá vøran broytist og eru ikki eitt lukkað tilboð."
+      },
+      {
+        "title": "Demo'in er ikki ein sáttmáli",
+        "text": "At lata oyðublaðið inn skapar ikki skyldu at keypa ella bíleggja prís. Ein og hvør sáttmáli er avtalaður hvør sær, skrivliga, við umfangi og treytum."
+      },
+      {
+        "title": "Innihald á síðuni",
+        "text": "FullVendor vørumerkið, vørunøvn og innihaldið á hesum síðum eigur eigarar teirra. Tey kunnu ikki avritast fyri at vísa aðra vøru fram."
+      },
+      {
+        "title": "Góðkend nýtsla",
+        "text": "Brúka ikki oyðubløðini til at senda inn skeivar upplýsingar, spam ella ólógligt innihald. Vit kunnu ignorera áheitanir, sum ikki samsvara við eina veruliga vinnuliga samrøðu."
+      }
+    ]
+  }
+}

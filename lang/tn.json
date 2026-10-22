@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Laola le go godisa kgwebo ya gago",
+    "home_desc": "Sethala sa tsotlhe mo go se le sengwe se se nang le ditharabololo tsa webo le tsa selulafouno tsa kabo, thekiso, dithulaganyo, go reka, lenaane la dithoto le matlole.",
+    "products_title": "Dikumo | FullVendor",
+    "products_desc": "Itse thulaganyo ya tikologo FullVendor: sethala sa kgwebo, ERP, dithulaganyo, batlamedi ba ditirelo le thekiso, ditiriso tsa polokelo le tsa matlole.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ditharabololo | FullVendor",
+    "solutions_desc": "Ditharabololo tsa botsamaisi jwa kgwebo, barekisi, bobolokelo, dithulaganyo, go reka le tsa madi.",
+    "industries_title": "Diintaseteri | FullVendor",
+    "industries_desc": "FullVendor bakeng sa kabo, thekiso, dijo, khemisi, hardware, tshebediso ya bongata, tlhahiso le maele ya ho qetela.",
+    "pricing_title": "Ditlhwatlhwa | FullVendor",
+    "pricing_desc": "Dithulaganyo tsa Botlhokwa, tsa Porofešenale le tsa Kgwebo. Tshisinyo e behilwe hammoho ho latela dimmojule, basebedisi ba le bophahamo ba modumo.",
+    "resources_title": "Didirisiwa | FullVendor",
+    "resources_desc": "Dikaedi tse dikhutshwane tsa go kopanya kabo, go rekisa kwa ntle ga inthanete, go rulaganya bobolokelo le go duelwa ka nako.",
+    "contact_title": "Ikgolaganye | FullVendor",
+    "contact_desc": "Re kwalele go ithuta ka FullVendor kgotsa go rulaganya motlotlo le setlhopha sa barekisi.",
+    "demo_title": "Kopa pontsho | FullVendor",
+    "demo_desc": "Kopa pontsho ya FullVendor mme o etele sethala ka kgetse e tshwanang le tshebetso ya hao.",
+    "privacy_title": "Bosephiri | FullVendor",
+    "terms_title": "Dipeelano | FullVendor",
+    "search_title": "Batla | FullVendor",
+    "notfound_title": "Tsebe ga e bonwe | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Tsebegae",
+    "products": "Dikumo",
+    "solutions": "Ditharabololo",
+    "industries": "Diintaseteri",
+    "pricing": "Ditlhwatlhwa",
+    "resources": "Metswedithuso",
+    "contact": "Kgolagano",
+    "open_menu": "Bula menyu",
+    "close": "Tswala"
+  },
+  "cta": {
+    "demo": "Kopa Pontsho",
+    "contact": "Ikgolaganye le rona",
+    "video": "Lebelela Bidio",
+    "talk": "Bua le barekisi",
+    "all_products": "Bona dikumo tsotlhe",
+    "home": "Boela kwa tsebeng ya gae"
+  },
+  "a11y": {
+    "skip": "Tlolela kwa diteng",
+    "primary": "Tsamaiso e kgolo",
+    "crumbs": "Tsela ya go tsamaya",
+    "search": "Batla",
+    "language": "Puo"
+  },
+  "hero": {
+    "eyebrow": "Tsotlhe mo polatefomong e le nngwe",
+    "title": "Laola le go godisa\nkgwebo ya gago ka\n{{brand}}",
+    "subtitle": "Sethala se feletseng se nang le ditharollo tsa webo le tsa selefouno bakeng sa kabo, thekiso, dithulaganyo, ho reka, lenane la dintho tse fumanwang, ditjhelete le tse ling.",
+    "pill_ecosystem": "Sengwe le sengwe mo thulaganyong e le nngwe ya tikologo",
+    "pill_cloud": "Mo lerung, e sireletsegile e bile e ka lekanyediwa",
+    "pill_size": "Go ditlamo tsa bogolo jotlhe"
+  },
+  "products_block": {
+    "eyebrow": "Dikumo tsa rona",
+    "title": "[[thulaganyo e e feletseng ya tikologo]] ya karolo nngwe le nngwe ya kgwebo ya gago",
+    "aside": "Ditharabololo tse di kopantsweng tse di dirang mmogo go go naya taolo e e feletseng, bokgoni jwa go dira le kgolo e kgolwane.",
+    "groups": {
+      "money": "Tsamaiso le kokoanyo",
+      "flow": "Ditheko le thomelo",
+      "field": "Thekiso le bobolokelo"
+    }
+  },
+  "products_page": {
+    "title": "Dihlahiswa tse supileng, [[tshebetso e le nngwe]]",
+    "text": "Setlhagiswa sengwe le sengwe se rarabolola lefelo. Mmogo ba abelana bareki, setoko, ditaelo le dituelo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Seralo",
+      "card": "Sethala se segolo sa taolo ya kgwebo le kabo.",
+      "features": [
+        "Dithekiso le ditheko",
+        "Lenanethoto",
+        "Ditlelaente le batlamedi",
+        "Dipegelo le tse dingwe"
+      ],
+      "lead": "Setsi sa tshebetso ya hao ya kgwebo: ditaelo, ditheko, setoko le bareki sebakeng se le seng.",
+      "about": "FullVendor e emisetsa dipampiri le ditsamaiso tse di sa gagamalang tsa moabi. Go tswa fano go tswa ditaelo, go bodiwa lenaane la dithoto, go tlhokomelwa photefolio ya bareki mme go lebelelwa dinomoro tsa letsatsi. Thulaganyo yotlhe ya tikologo e golagana le motheo ono.",
+      "benefits": [
+        {
+          "title": "Tshedimosetso e le nngwe",
+          "text": "Bareki, dihlahiswa le ditheko di arolelana le thekiso, polokelo le ditjhelete."
+        },
+        {
+          "title": "Tlhatswa tiriso ya letsatsi le letsatsi",
+          "text": "Ditaelo, ditheko le setoko di emisa go nna mo difaeleng tse di farologaneng."
+        },
+        {
+          "title": "Dipegelo tse di tshwanetseng go swetswa",
+          "text": "Thekiso, moedi le pending di bonwa ntle le ho kopanya tafole ka letsoho."
+        },
+        {
+          "title": "E siametse go gola",
+          "text": "Dithulaganyo, thekiso kgotsa ERP dipalo fa tshebetso e e kopa."
+        }
+      ],
+      "audience": "Ditlhopha tsa kgwebo le tsa kabo tse gompieno di gokaganyang kgwebo fa gare ga ditsamaiso di le mmalwa."
+    },
+    "erp": {
+      "kicker": "Tsamaiso",
+      "card": "Taolo e e feletseng ya tsamaiso le ya madi.",
+      "features": [
+        "Bobalamatlotlo",
+        "Go duela ka eleketeroniki",
+        "Dipampiritiro",
+        "Dithoto tse di tlhomameng",
+        "Dikhamphani tse dintsi"
+      ],
+      "lead": "Tsamaiso le matlole, go tsamaisana le se tota se rekisiwang le go gorosiwa.",
+      "about": "FullVendor ERP e akaretsa diakhaonto, go dira ditshupamolato ka eleketeroniki, dituelo, dithoto tse di tlhomameng le dikhamphani tse dintsi. E nka tshebetso ya kgwebo mme e e fetolela ho ditsenngwa, dipoelo le ditatamente tseo sebaka sa ditjhelete se ka di sebedisang.",
+      "benefits": [
+        {
+          "title": "Diakhaonto tse di golagantsweng",
+          "text": "Se se diragalang mo thekisong le thekong se fepa diakhaonto."
+        },
+        {
+          "title": "Dirasiti tsa eleketeroniki",
+          "text": "O ntsha le go laola go duela go tswa mo thulaganyong e le nngwe ya tikologo."
+        },
+        {
+          "title": "Ditlamo tse di farologaneng",
+          "text": "Khamphani e ntsi ya ditlhopha tse di dirang ka fa tlase ga maina a khamphani a a fetang bongwe."
+        },
+        {
+          "title": "Dituelo le dithoto",
+          "text": "Payroll le dithoto tse di tlhomameng mmogo le botsamaisi jotlhe."
+        }
+      ],
+      "audience": "Tsamaiso le libakeng tsa lichelete tse batlang ho koala dinomoro le tshebetso ya sebele."
+    },
+    "logistics": {
+      "kicker": "Dithulaganyo",
+      "card": "Taolo le go ela tlhoko tiro ya gago ya dithulaganyo.",
+      "features": [
+        "Ditsela le dithomelo",
+        "Go latedisa ka nako ya mmatota",
+        "Kabelo ya mokgweetsi",
+        "Go tokafatsa tsela"
+      ],
+      "lead": "Go tswa mo otareng go ya kwa thomelong: ditsela, bakgweetsi le go latedisa ka nako ya mmatota.",
+      "about": "FullVendor Logistics o rulaganya kabo. O tlhama ditsela, o abela bakgweetsi mme o bone gore thomelo nngwe le nngwe e ya kae. Setlhopha sa pharakano se ema go ikaegile ka megala go bona gore a otara e rometswe.",
+      "benefits": [
+        {
+          "title": "Ditsela tsa letsatsi",
+          "text": "Dithomelo di laetswe ka kgaolo, fensetere ya nako le bokgoni."
+        },
+        {
+          "title": "Mokgweetsi yo o abetsweng",
+          "text": "Tsela nngwe le nngwe e na le motho yo o okametseng le tatelano e e tlhapileng."
+        },
+        {
+          "title": "Latedisa",
+          "text": "O itse se se gorosiwang, mo tseleng kgotsa se emisitswe."
+        },
+        {
+          "title": "Dikilometara di le mmalwa",
+          "text": "Go tokafatsa tsela go fokotsa nako ya go isa le ditshenyegelo."
+        }
+      ],
+      "audience": "Ditshebetso tsa kabo le sekepe sa hae kapa batho ba boraro."
+    },
+    "supplier": {
+      "kicker": "Go reka",
+      "card": "Portal ya batlamedi ba ditirelo le taolo ya theko.",
+      "features": [
+        "Diotara tsa go reka",
+        "Dinopolo",
+        "Botsamaisi jwa batlamedi",
+        "Go kopanngwa le lenaanethoto"
+      ],
+      "lead": "Batlamedi ba gago ba nopola, ba amogela diotara le go tlatsa setoko kwantle ga diimeile tse di sa tlhomamang.",
+      "about": "Vendor Supplier e bula kgoro ya gore bareki le batlamedi ba ditirelo ba dire ka ditaelo tse di tshwanang. Ditsopolo, ditaelo tsa theko le kamogelo di bofilwe mo lenaaneng la dithoto la FullVendor.",
+      "benefits": [
+        {
+          "title": "Diotara mo tšhaneleng",
+          "text": "Morekisi o bona se a tshwanetseng go se tlisa, ntle le ketane ya imeile."
+        },
+        {
+          "title": "Dinopolo tse di bapisiwang",
+          "text": "O kopa ditlhwatlhwa mme o tlhophe o akantse ka hisitori."
+        },
+        {
+          "title": "Morekisi",
+          "text": "Maemo, mabitso le tse letisitsweng rekotong e le nngwe."
+        },
+        {
+          "title": "Tsenya lenaanethoto",
+          "text": "Se se rekilweng se bonala mo setokong fa se amogelwa."
+        }
+      ],
+      "audience": "Ditlhopha tsa go reka tse di tlatsang ka batlamedi ba le mmalwa mme di tlhoka go latedisiwa."
+    },
+    "salesman": {
+      "kicker": "App ya selulafouno",
+      "card": "Kopo ya selulafouno ya setlhopha sa barekisi.",
+      "features": [
+        "Botsamaisi jwa bareki",
+        "Go tsewa ga otara",
+        "Lenaneo la dikumo",
+        "Tiro ya kwa ntle ga inthanete"
+      ],
+      "lead": "Barekisi ba tsaya diotara mo mmileng, ka letshwao kgotsa kwantle ga lone.",
+      "about": "FullVendor Sales Man e beha photefolio ya hao, lenane la ditaelo le ho nka taelo fonong ya morekisi. Fa go sena inthanete, tiro e a tswelela le go tsamaisana fa letshwao le boa. Otara e goroga e siametse go baakanngwa le go gorosiwa.",
+      "benefits": [
+        {
+          "title": "Sepatšhe mo kgetsaneng",
+          "text": "Morekisi o bona bareki, maemo le dintho tse letisitsweng."
+        },
+        {
+          "title": "Otara fa o etela",
+          "text": "Tsaya otara ka ditlhwatlhwa tsa ga jaana le setoko."
+        },
+        {
+          "title": "Khathaloko e mo nakong",
+          "text": "Dihlahiswa, dipontsho le ditheko ntle le PDF ya kgale."
+        },
+        {
+          "title": "Tota o se mo inthaneteng",
+          "text": "Bereka ntle le go akaretsa mme o tsamaisane moragonyana."
+        }
+      ],
+      "audience": "Baokamedi le barekisi ba tshimo ka kabo le tshebediso ya bongata."
+    },
+    "warehouse": {
+      "kicker": "App ya selulafouno",
+      "card": "Kopo ya selulafouno ya ntlo ya polokelo.",
+      "features": [
+        "Kamogelo le thomelo",
+        "Go kgetla le go phutha",
+        "Taolo ya lenaanethoto",
+        "Go buisa khoutu ya dibara"
+      ],
+      "lead": "Kamogelo, go tsaya le go romela ka mogala le khoutu ya dibara.",
+      "about": "FullVendor Warehouse e kaela ntlo ya polokelo mo kamogelong, go kgetla, go paka le go romela. Go bala dikhoutu go fokotsa diphoso mme lenaane la dithoto ga le tlhole le balwa fela kwa bokhutlong jwa kgwedi.",
+      "benefits": [
+        {
+          "title": "Kamogelo kgatlhanong le taelo",
+          "text": "Se se tsenang se bapisiwa le theko."
+        },
+        {
+          "title": "Go kgetla go go ikaeletsweng",
+          "text": "Mong wa sekepe o latela taelo mme o tlhomamisa sengwe le sengwe."
+        },
+        {
+          "title": "Dikhoutu tsa dibara",
+          "text": "Diphoso di le mmalwa tsa setlhagiswa, setlhopha kgotsa bontsi."
+        },
+        {
+          "title": "Setoko se se ikanyegang",
+          "text": "Motsamao mongwe le mongwe o tlhabolola lenaane la dithoto la polatefomo."
+        }
+      ],
+      "audience": "Batsamaisi ba mabolokelo le beng ba dikepe bao kajeno ba lokisang ditaelo tse nang le manane a hatisitsweng."
+    },
+    "finance": {
+      "kicker": "App ya selulafouno",
+      "card": "Taolo ya madi go tswa mo selulafounong ya gago.",
+      "features": [
+        "Diakhaonto tse di amogelwang le tse di duelwang",
+        "Seemo sa khasetomara",
+        "Dituelo le dituelano",
+        "Dipegelo tsa matlole"
+      ],
+      "lead": "Diakhaonto tse di amogelwang, dituelo le seemo sa khasetomara, go tswa mo founong ya gago.",
+      "about": "FullVendor Finance e bontsha kokoanyo mo selulafounong: se moreki mongwe le mongwe a se kolotang, se khamphani e tlogang e se duela le gore dituelo di tla jang. E dirisiwa go tsaya madi ka nako ya ketelo le go leba motšhini wa go ntsha madi kwantle ga go bula tafole.",
+      "benefits": [
+        {
+          "title": "Go kokoanya madi kwa ketelong",
+          "text": "Morekisi o itse gore a moreki o mo nakong pele a rekisa."
+        },
+        {
+          "title": "E e amogelwang le e e duelwang",
+          "text": "Matlhakore ka bobedi a lebokoso mo app e le nngwe."
+        },
+        {
+          "title": "Dituelo le dituelano",
+          "text": "O kwadisa dikrediti mme o bone gore ke eng se se tlhokang go kgabaganngwa."
+        },
+        {
+          "title": "Dipegelo di le teng",
+          "text": "Ditshupo tsa pokello le tjhelete ntle le ho emela ho kwalwa."
+        }
+      ],
+      "audience": "Batsamaisi, bakgoboketsi le barekisi ba hlokang boemo ba moreki ka nako ena."
+    }
+  },
+  "why": {
+    "eyebrow": "Goreng FullVendor",
+    "title": "Godisa kgwebo ya gago\nka dipholo tsa mmatota",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ditlamo di a re tshepa"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Badirisi ba ba matlhagatlhaga"
+      },
+      {
+        "value": "+10",
+        "suffix": "dingwaga",
+        "label": "Mo thutotlhagelelong e e sa kgaotseng"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Go nna teng ga maru"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kafa e dirang ka gone",
+    "title": "Go tswa mo thekisong go ya kwa kokoanyong, kwantle ga go fetola ditsamaiso",
+    "text": "Sehlahiswa se seng le se seng se arolelana bareki, setoko, ditaelo le ditefello. Se se diragalang mo mmileng kgotsa mo bobolokelong se tlhagelela mo ofising ka ponyo ya leitlho.",
+    "steps": {
+      "sell": {
+        "title": "O rekisa",
+        "text": "Taelo e tsenngwa ka webosaete kgotsa ka Sales Man, le fa go sena letshwao."
+      },
+      "pick": {
+        "title": "Siame",
+        "text": "Warehouse o amogela, o kgaoganya le go romela ka khoutu ya dibara."
+      },
+      "deliver": {
+        "title": "Dithomelo",
+        "text": "Logistics e abela tsela mme e latela thomelo."
+      },
+      "collect": {
+        "title": "Dikobra",
+        "text": "Finance le ERP di tswala kokoanyo, dipoelo le dinomoro."
+      }
+    }
+  },
+  "band": {
+    "title": "A o siametse go e bona ka [[karo ya gago]]?",
+    "text": "Re go bontsha thulaganyo ya tikologo ka kgetse ya kabo e e tshwanang le ya gago."
+  },
+  "footer": {
+    "blurb": "Webo le polatefomo ya selulafouno ya kabo, thekiso, dithulaganyo, go reka, lenaanethoto le matlole.",
+    "products": "Dikumo",
+    "company": "Setlamo",
+    "legal": "Semolao",
+    "privacy": "Bosephiri",
+    "terms": "Metlha",
+    "rights": "Ditshwanelo tsotlhe di beilwe."
+  },
+  "solutions": {
+    "eyebrow": "Ditharabololo",
+    "title": "Lefelo lengwe le lengwe, le le golagantsweng le [[tiro e e tshwanang]]",
+    "intro": "Tlhopha ka bothata jo o batlang go bo rarabolola. Ka morao, dihlahiswa arolelana tlhahisoleseding e tšoanang.",
+    "items": {
+      "commercial": {
+        "title": "Botsamaisi jwa kgwebo",
+        "text": "Ditaelo, ditlhwatlhwa, bareki le lenaane la dithoto la kabo ya letsatsi le letsatsi."
+      },
+      "field": {
+        "title": "barekisi",
+        "text": "Barekisi ba tsaya diotara mo mmileng, mo inthaneteng kgotsa kwa ntle ga inthanete."
+      },
+      "warehouse": {
+        "title": "Lebenkele",
+        "text": "Kamogelo, go kgetla, go romela le setoko se se ka ikanngwang."
+      },
+      "logistics": {
+        "title": "Dithulaganyo le thomelo",
+        "text": "Ditsela, bakgweetsi le boemo jwa thomelo nngwe le nngwe."
+      },
+      "purchasing": {
+        "title": "Go reka le batlamedi",
+        "text": "Ditsopolo, diotara le portal ya ope fela yo o go tlamelang."
+      },
+      "finance": {
+        "title": "Matlole le diakhaonto",
+        "text": "Dikokoanyo, dituelo, go duela ka eleketeroniki le go dira diakhaonto."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Diintaseteri",
+    "title": "E diretswe ba ba [[sutsang setlhagiswa]]",
+    "intro": "FullVendor e tshotswe mo kabo mme e tsamaya le dikhamphani tse di rekang, di bolokang, di rekisa le go isa.",
+    "items": {
+      "wholesale": {
+        "title": "Phasalatso le thekiso ka bontsi",
+        "text": "Manaane a ditlhwatlhwa, photefolio, kabo le kokoanyo mo seketeng se le sengwe."
+      },
+      "retail": {
+        "title": "Kgwebo",
+        "text": "Lebenkele le bobolokelo jo bo nang le setoko se se golagantsweng, thekiso le go tlaleletsa."
+      },
+      "food": {
+        "title": "Dijo le dino",
+        "text": "Ditsela tsa kgapetsakgapetsa le ntlo ya polokelo e e sa kgoneng go ema."
+      },
+      "pharma": {
+        "title": "Khemisi le tlhokomelo ya botho",
+        "text": "Kamogelo, go kgetla le taolo ya lenaane la dithoto ka go latedisa."
+      },
+      "hardware": {
+        "title": "Serwethata le kago",
+        "text": "Ditshupiso tse ngata, bafepedi le dithomelo mosebetsing kapa lebenkeleng."
+      },
+      "fmcg": {
+        "title": "Tiriso ya bontsi",
+        "text": "Street thekiso mabotho le phahameng thekiso sebaka."
+      },
+      "manufacturing": {
+        "title": "Tlhagiso",
+        "text": "Go reka, bobolokelo le lenaane la dithoto go tsamaisana le botsamaisi."
+      },
+      "lastmile": {
+        "title": "Thomelo le maele ya bofelo",
+        "text": "Ditsela, bakgweetsi le boemo jwa thomelo nngwe le nngwe."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Metswedithuso",
+    "title": "Dikakanyo tse di phepa tsa go [[otara tiro]]",
+    "intro": "Dikaedi tse dikhutshwane tsa batsamaisi ba kabo ba ba tlileng go swetsa gore ba ngaparele tsamaiso efe.",
+    "items": {
+      "unify": {
+        "title": "Tsela ya go kopanya kabo go nna thulaganyo e le nngwe",
+        "summary": "Se o tshwanetseng go se kopanya pele fa thekiso, ntlo ya polokelo le dikokoanyo di nna mo difaeleng tse di farologaneng.",
+        "points": [
+          "Simolola ka bareki, dikumo le ditlhwatlhwa: ke morutabana yo mongwe le mongwe a mo dirisang.",
+          "Golaganya otara le setoko pele o tsenya dikopo tse dingwe.",
+          "E lekanya palo e bonolo: ditaelo tse phethahaditsweng ntle le ho etsa foromo hape."
+        ]
+      },
+      "offline": {
+        "title": "Barekisi ba bereka kwa ntle ga inthanete",
+        "summary": "Se o tshwanetseng go se tlhoka mo app ya go otara gore morekisi a se ka a ema ka ntlha ya letshwao.",
+        "points": [
+          "Khathaloko le sepatšhe di tshwanetse go nna mo founong, e seng fela mo lerung.",
+          "Otara e bolokwa mo sedirisweng mme e laisiwe fa neteweke e boa.",
+          "Fa synchronizing, taelo e setse e tsena mo ntlong ya polokelo."
+        ]
+      },
+      "warehouse": {
+        "title": "Bobolokelo jo bo nang le khoutu ya dibara, bo se na pampiri",
+        "summary": "Tsela ya go tswa mo lenaaneng le le gatisitsweng go ya kwa go tlhopheng go go netefaditsweng mo founong.",
+        "points": [
+          "Amogela kgatlhanong le taelo ya theko, e seng kgatlhanong le memori.",
+          "Netefatsa ntlha nngwe le nngwe fa o kgaoganya. Khukhwana e sega mo phashiting.",
+          "Thomelo e tlhabolola setoko se morekisi a se bonang."
+        ]
+      },
+      "finance": {
+        "title": "Kokoanyo e tsamaisana le thekiso",
+        "summary": "Goreng morekisi a tshwanetse go bona sekoloto sa moreki pele a tsaya otara e nngwe.",
+        "points": [
+          "Ketelo ke nako e e siameng ya go phutha, fa sekoloto se bonala.",
+          "Thekiso le matlole di tshwanetse go leba moreki a le mongwe.",
+          "Pego e e fetilweng ke nako ya letsatsi le letsatsi e botlhokwa go feta go tswalelwa thari."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ditlhwatlhwa",
+    "title": "Thulaganyo ya tikologo e e [[golang le wena]]",
+    "intro": "Ga re phasalatse seelo sa kakaretso: ditshenyegelo di ikaegile ka dimmojule, badirisi le bolumu. Re go bontsha polatefomo le go kopanya tshitshinyo le tshebetso ya gago.",
+    "note": "Demo ga e na ditshenyegelo e bile ga e tlhoke konteraka.",
+    "recommended": "Atlenegisitse",
+    "faq_title": "Dipotso tse di bodiwang kgapetsakgapetsa",
+    "plans": {
+      "essential": {
+        "name": "Botlhokwa",
+        "desc": "Go rulaganya taolo ya kgwebo le kabo mo sethaleng se le sengwe.",
+        "features": [
+          "FullVendor polatefomo ya webo",
+          "Thekiso, ditheko le lenaanethoto",
+          "Ditlelaente, batlamedi ba ditirelo le dipegelo",
+          "Badirisi ba didirisiwa tsa ofisi",
+          "Tshegetso ya tshimologo"
+        ],
+        "cta": "Kopa Pontsho"
+      },
+      "professional": {
+        "name": "Porofešhenale",
+        "desc": "Bakeng sa dihlopha tse rekisang mmileng mme di lokisetsa diotara sebakeng sa polokelo.",
+        "features": [
+          "Sengwe le sengwe se se botlhokwa",
+          "Tiriso FullVendor Sales Man",
+          "Tiriso FullVendor Warehouse",
+          "Tiro ya kwa ntle ga inthanete le dikhoutu tsa dibara",
+          "Badirisi ba bangwe ba masimo le ba bobolokelo"
+        ],
+        "cta": "Kopa Pontsho"
+      },
+      "corporate": {
+        "name": "Kgwebo",
+        "desc": "Bakeng sa dihlopha tse hlokang dithulaganyo, ho reka, ditjhelete le dikhamphani tse fapaneng.",
+        "features": [
+          "Thulaganyo ya tikologo e e feletseng",
+          "Logistics, Vendor Supplier y Finance",
+          "FullVendor ERP le dihiri tse dintsi",
+          "Go duela ka eleketeroniki le go dira diakhaonto",
+          "Se se tsamayang le sone le go nna teng ga sone se se tlang pele"
+        ],
+        "cta": "Bua le barekisi"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "A ke tshwanetse go reka dikumo tsotlhe?",
+        "a": "Nnyaa O ka simolola ka FullVendor mme wa tsenya ditiriso kgotsa ERP fa tiro e e tlhoka."
+      },
+      "offline": {
+        "q": "A ditiriso di bereka kwantle ga inthanete?",
+        "a": "Sales Man le Warehouse di tswelela go dira kwantle ga letshwao le go tsamaisana fa di golagana gape."
+      },
+      "multi": {
+        "q": "A go a bereka fa ke na le dikhamphani tse di fetang bongwe?",
+        "a": "Ee. ERP e akanyetsa dikhamphani tse dintsi mme thulaganyo ya tikologo e ka abelana beng ba tsone fa gare ga tsone."
+      },
+      "demo": {
+        "q": "Demo e akaretsa eng?",
+        "a": "Leeto la serala ka kgetse e e tshwanang le ya gago. Ga go na ditshenyegelo e bile ga go na tlamego."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Pontsho",
+    "title": "Re go bontsha FullVendor ka [[mofuta wa tiro ya gago]]",
+    "text": "Re bolelele ka khamphani ya gago le gore o batla go otara eng pele. Demo ga e na ditshenyegelo."
+  },
+  "contact": {
+    "eyebrow": "Kgolagano",
+    "title": "A re bue ka [[karo ya gago]]",
+    "text": "Fa o batla pontsho, tshitshinyo kgotsa fela go itshupa fa gare ga dikumo, tlogela tshedimosetso ya gago mme re tla araba.",
+    "email": "Poso",
+    "phone": "Mogala",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Leina",
+    "email": "Poso",
+    "phone": "Mogala",
+    "company": "Setlamo",
+    "country": "Naga",
+    "team": "Bogolo jwa setlhopha",
+    "interest": "Ke eng se o se kgatlhegelang?",
+    "message": "Molaetsa",
+    "optional": "Ga e patelediwe",
+    "choose": "Tlhopha",
+    "interest_all": "Thulaganyo yotlhe ya ditshedi",
+    "ph_name": "leina la gago",
+    "ph_email": "wena@khamphani.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Khamphani ya gago",
+    "ph_country": "Naga",
+    "ph_message": "Re bolelele gore o dira jang gompieno",
+    "privacy_before": "Ke amogela tiriso ya tshedimosetso ya me go ya ka",
+    "privacy_after": ".",
+    "submit": "Romela kopo",
+    "sent_title": "Re amogela kopo ya gago",
+    "sent_text": "Ke a leboga. Setlhopha sa barekisi se tla go kwalela go gokaganya pontsho kgotsa go araba potso ya gago.",
+    "error_required": "Tlatsa karolo eno.",
+    "error_email": "Tsenya imeile e e amogelesegang.",
+    "error_phone": "Tlhola founo.",
+    "error_privacy": "Re tlhoka tumelelo ya gago go dirisa dintlha tsa kgolagano.",
+    "error_csrf": "Thulaganyo e fedile. Romela foromo gape.",
+    "error_save": "Ga re a kgona go boloka kopo. Leka gape.",
+    "error_generic": "Boeletsa dikarolo tse di tshwailweng.",
+    "error_rate": "Tsweetswee ema go sekae pele ga o romela kopo e nngwe.",
+    "team_options": {
+      "1-10": "Batho ba le 1 go ya go ba le 10",
+      "11-50": "Batho ba le 11 go ya go ba le 50",
+      "51-200": "Batho ba le 51 go ya go 200",
+      "201-500": "Batho ba le 201 go ya go 500",
+      "500+": "Batho ba feta 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor mo motsotsong o le mongwe",
+    "prev": "Pele",
+    "next": "Latelang",
+    "slides": [
+      {
+        "title": "Thulaganyo e le nngwe ya tikologo",
+        "text": "Thekiso, bobolokelo, thomelo, go reka le ditšhelete di abelana bareki, setoko le diotara."
+      },
+      {
+        "title": "Webo le selulafouno mmogo",
+        "text": "Ofisi e bereka mo seraleng. Mmila le ntlo ya polokelo, ka ditiriso tse dingwe, esita le ntle le letshwao."
+      },
+      {
+        "title": "E dirilwe go anamisiwa",
+        "text": "Go tswa mo taelong go ya kwa tuelong, kwantle ga go fetisa tshedimosetso go tswa mo faeleng e nngwe go ya kwa go e nngwe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Batla dikumo, ditharabololo, madirelo...",
+    "lang_filter": "Puo ya patlo",
+    "intro": "Batla dikumo, ditharabololo, madirelo le didirisiwa.",
+    "empty": "Ga re a bona dipholo tsa “{q}”.",
+    "hint": "Leka thekiso, bobolokelo, ditsela kgotsa dikokoanyo.",
+    "results": "{n} dipholo",
+    "button": "Batla",
+    "kind_product": "Kungo",
+    "kind_solution": "Tharabololo",
+    "kind_industry": "Madirelo",
+    "kind_resource": "Motswedi"
+  },
+  "notfound": {
+    "title": "Tsebe e ga se",
+    "text": "Kgokagano ga e yo kgotsa e fetotse lefelo."
+  },
+  "common": {
+    "what": "Ke eng se se rarabololang",
+    "features": "Ke eng se se akareditsweng",
+    "benefits": "Goreng go le botlhokwa",
+    "for_who": "E diretswe bomang?",
+    "related": "Gape mo thulaganyong ya tikologo"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Thekiso gompieno",
+      "orders": "Diotara",
+      "clients": "Dikhasetomara",
+      "products": "Dikumo"
+    },
+    "sidebar": {
+      "dashboard": "Dasheboto",
+      "sales": "Thekiso",
+      "purchases": "Go reka",
+      "inventory": "Lenanethoto",
+      "clients": "Dikhasetomara",
+      "reports": "Dipegelo"
+    },
+    "chart": "Thekiso",
+    "channel": "Phasalatso ka tšhanele",
+    "channels": [
+      "Lebenkele",
+      "Phatlalatso",
+      "Morekisi yo mogolo",
+      "Tse dingwe"
+    ],
+    "orders": "Diotara tsa bosheng",
+    "col_order": "Taelo",
+    "col_client": "Moreki",
+    "col_status": "Boemo",
+    "col_total": "Palogotlhe",
+    "status": [
+      "Golotswe",
+      "Mo tseleng",
+      "Masale"
+    ],
+    "top": "Dikumo tse di rekisiwang thata",
+    "product": "Kungo",
+    "sales_menu": [
+      "Dikhasetomara",
+      "Diotara",
+      "Dikumo",
+      "Ditsela",
+      "Kamaganya"
+    ],
+    "warehouse_menu": [
+      "Kamogelo",
+      "Go kgetla",
+      "Lenanethoto",
+      "Fofotsa",
+      "Kamaganya"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Pholisi ya Bosephiri",
+    "privacy_intro": "Pholisi eno e tlhalosa gore re dira eng ka tshedimosetso e o e tlogelang mo diforomong mo saeteng eno.",
+    "privacy": [
+      {
+        "title": "Re kokoanya tshedimosetso efe",
+        "text": "Fa o kopa pontsho kgotsa o re kwalela, re boloka leina, khamphani, imeile, nomoro ya mogala fa o e supa, naga, bogolo jwa setlhopha, setlhagiswa se o se kgatlhegelang le molaetsa. Gape re kwala letlha, puo ya tsebe le aterese ya IP, go thibela dithomelo tse di sotlakang."
+      },
+      {
+        "title": "Re di dirisetsa eng?",
+        "text": "Re dirisa tshedimosetso eno fela go go araba, go gokaganya pontsho le go baakanyetsa tshitshinyo ya kgwebo. Ga re di rekise kgotsa go di naya lenaane la batho ba bangwe."
+      },
+      {
+        "title": "Di bolokwa kae le gore di bolokwa lobaka lo lo kana kang?",
+        "text": "Dikopo di bolokwa mo sefareng ya saete eno. Re di boloka ka nako e e tlhokegang go go direla le go latedisa kgwebo, mme re di phimola fa o re kopa kgotsa fa di sa tlhole di tlhokega."
+      },
+      {
+        "title": "Ditshwanelo tsa gago",
+        "text": "O ka kopa phitlhelelo, paakanyo kgotsa phimolo ya tshedimosetso ya gago mo foromong ya go ikgolaganya, o e supa mo molaetseng. Fa setlamo se gatisa imeile mo webosaeteng eno, le wena o ka kwala koo."
+      }
+    ],
+    "terms_title": "Melawana ya tiriso",
+    "terms_intro": "Maemo ana a sebetsa tshebedisong ya sebaka sena sa thomelo sa FullVendor.",
+    "terms": [
+      {
+        "title": "Tshedimosetso ya kgwebo",
+        "text": "Ditlhangwa, sekao sa dipalo tsa dashboard le ditlhaloso di itsise polatefomo. Di ka fetolwa ha sehlahiswa se fetoha mme ha se theko e tswetsweng."
+      },
+      {
+        "title": "Pontsho ga se konteraka",
+        "text": "Go romela foromo ga go tlhole tlamego ya go reka kgotsa go beeletsa tlhwatlhwa. Konteraka efe kapa efe e dumellanwe ka thoko, ka ho ngola, le boholo ba yona le maemo a yona."
+      },
+      {
+        "title": "Diteng tsa saete",
+        "text": "Letshwao la kgwebo la FullVendor, mabitso a dihlahiswa le dikahare tsa ditsebe tsena ke tsa beng ba tsona. Ga di ka ke tsa kopololwa go tlhagisa setlhagiswa se sengwe."
+      },
+      {
+        "title": "Tiriso e e amogelesegang",
+        "text": "O se ke wa sebedisa diforomo ho romela tlhahisoleseding e fosahetseng, sepamo kapa dikahare tse seng molaong. Re ka nna ra itlhokomolosa dikopo tse di sa tsamaisaneng le motlotlo wa mmatota wa kgwebo."
+      }
+    ]
+  }
+}

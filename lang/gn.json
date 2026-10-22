@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor rehegua | Emohenda ha emongakuaa ne negocio",
+    "home_desc": "Plataforma opa mba'e peteîme orekóva soluciones web ha móvil distribución, venta, logística, compra, inventario ha finanzas.",
+    "products_title": "Umi mba’e ojejapóva | FullVendor rehegua .",
+    "products_desc": "Eikuaa ecosistema FullVendor: plataforma comercial, ERP, logística, proveedor ha venta, almacén ha finanzas aplicaciones.",
+    "product_title": "{name} rehegua | FullVendor rehegua .",
+    "solutions_title": "Soluciones rehegua | FullVendor rehegua .",
+    "solutions_desc": "Soluciones gestión comercial, fuerza de ventas, almacén, logística, compra ha finanzas-pe guarã.",
+    "industries_title": "Industrias-kuéra rehegua | FullVendor rehegua .",
+    "industries_desc": "FullVendor distribución, ñemuha, hi’upyrã, farmacia, hardware, consumo masivo, fabricación ha milla paha rehegua.",
+    "pricing_title": "Precios | FullVendor rehegua .",
+    "pricing_desc": "Planes Esenciales, Profesionales ha Corporativos rehegua. Ko propuesta oñemoî oñondive según módulo, usuario ha volumen.",
+    "resources_title": "Recursos rehegua | FullVendor rehegua .",
+    "resources_desc": "Guía mbykymi ombojoaju haguã distribución, ovende haguã fuera de línea, omohenda almacén ha ojepaga a tiempo.",
+    "contact_title": "Ñe’ẽmondo | FullVendor rehegua .",
+    "contact_desc": "Ehai oréve reikuaa haguã FullVendor térã embojoaju peteĩ ñomongeta equipo de ventas ndive.",
+    "demo_title": "Ojerure demostración | FullVendor rehegua .",
+    "demo_desc": "Ejerure peteĩ demostración FullVendor rehegua ha ejere plataforma rehe peteĩ káso ojoguáva nde operación-pe.",
+    "privacy_title": "Privacidad rehegua | FullVendor rehegua .",
+    "terms_title": "Ñe’ẽme’ẽ | FullVendor rehegua .",
+    "search_title": "Ojeporeka | FullVendor rehegua .",
+    "notfound_title": "Página ndojejuhúi | FullVendor rehegua ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Página principal",
+    "products": "Umi mba’e ojejapóva",
+    "solutions": "Soluciones rehegua",
+    "industries": "Industria-kuéra rehegua",
+    "pricing": "Umi mba’erepy",
+    "resources": "Tembiporu",
+    "contact": "Jekuaaverã",
+    "open_menu": "Ojepe’a menú",
+    "close": "Mboty"
+  },
+  "cta": {
+    "demo": "Ojerure Demo",
+    "contact": "Eñe'ẽ orendive",
+    "video": "Ehecha pe vidéo",
+    "talk": "Eñe’ẽ umi venta ndive",
+    "all_products": "Ehecha opaite mba’e ojejapóva",
+    "home": "Ejevy páhina ypykuépe"
+  },
+  "a11y": {
+    "skip": "Ojesalta contenido-pe",
+    "primary": "Navegación principal rehegua",
+    "crumbs": "Ruta de navegación rehegua",
+    "search": "Heka",
+    "language": "Ñe'ẽ"
+  },
+  "hero": {
+    "eyebrow": "Opa mba’e peteĩ plataforma-pe",
+    "title": "Ojesareko ha okakuaa\nnde negocio ndive\n{{brand}} rehegua .",
+    "subtitle": "Peteî plataforma completa orekóva soluciones web ha móviles distribución, venta, logística, compra, inventario, finanzas ha hetave mba'e.",
+    "pill_ecosystem": "Opa mba’e oĩva peteĩ ecosistema-pe",
+    "pill_cloud": "Araipe, seguro ha escalable",
+    "pill_size": "Umi empresa opaichagua tamaño-pe guarã"
+  },
+  "products_block": {
+    "eyebrow": "Ñande mba’erepy",
+    "title": "Peteĩ [[ecosistema completo]] peteĩteĩva área ne negocio-pe g̃uarã",
+    "aside": "Soluciones integradas omba’apóva oñondive ome’ẽ haĝua ndéve control total, eficiencia operativa ha tuichave okakuaa.",
+    "groups": {
+      "money": "Administración ha colección rehegua",
+      "flow": "Jogua ha ñeme’ẽ",
+      "field": "Ñemuha ha almacén"
+    }
+  },
+  "products_page": {
+    "title": "Siete producto, [[operación peteĩva]].",
+    "text": "Káda producto osoluciona peteĩ área. Oñondivepa okomparti hikuái cliente, stock, pedido ha pago."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Pyendavusu",
+      "card": "Plataforma principal gestión ha distribución comercial-pe guarã.",
+      "features": [
+        "Ñemu ha joguaha",
+        "Jeguerokorysýi",
+        "Cliente ha proveedor-kuéra",
+        "Marandu ha hetave mba’e"
+      ],
+      "lead": "Pe centro nde operación comercial rehegua: pedido, precio, stock ha cliente peteĩ hendápe.",
+      "about": "FullVendor omyengovia peteĩ distribuidor hoja de cálculo ha sistema suelto. Ko'águi osê pedido, oñeconsulta inventario, oñeñangareko cartera de clientes rehe ha ojesareko número ára reheguáva. Pe ecosistema hembýva ojoaju ko base rehe.",
+      "benefits": [
+        {
+          "title": "Peteĩ datokuéra jára añoite",
+          "text": "Umi cliente, producto ha precio oñemboja'o venta, almacén ha finanzas ndive."
+        },
+        {
+          "title": "Operación ára ha ára hesakãva",
+          "text": "Umi pedido, compra ha stock ndoikovéima archivo iñambuévape."
+        },
+        {
+          "title": "Marandu ojedesidi haguã",
+          "text": "Ojehecha venta, margen ha pendiente omoî'ÿre peteî mesa ipo rupive."
+        },
+        {
+          "title": "Oĩmava okakuaa haguã",
+          "text": "Logística, fuerza de ventas térã suma ERP ojerurévo operación."
+        }
+      ],
+      "audience": "Umi equipo comercial ha distribución ko'ã árape ombojoajúva negocio heta sistema mbytépe."
+    },
+    "erp": {
+      "kicker": "Administración rehegua",
+      "card": "Gestión administrativa ha financiera completa.",
+      "features": [
+        "Contabilidad rehegua",
+        "Facturación electrónica rehegua",
+        "Kuatia tembiaporã",
+        "Activo fijo rehegua",
+        "Heta empresa rehegua"
+      ],
+      "lead": "Administración ha finanzas, ojoajúva umi mba'e añetehápe oñevendéva ha oñeme'êva ndive.",
+      "about": "FullVendor ERP oike contabilidad, facturación electrónica, nómina, activo fijo ha multiempresa. Oipyhy operación comercial ha omoambue entrada, recibo ha estado ikatúva oiporu área financiera.",
+      "benefits": [
+        {
+          "title": "Contabilidad ojoajúva",
+          "text": "Mba’épa oiko venta ha compra-pe omongaru contabilidad."
+        },
+        {
+          "title": "Umi recibo electrónico rehegua",
+          "text": "Peẽ peguenohẽ ha pecontrola facturación peteĩ ecosistema-gui."
+        },
+        {
+          "title": "Opáichagua empresa",
+          "text": "Multi-empresa umi aty ombaꞌapóva hetave empresa réra rupive."
+        },
+        {
+          "title": "Nómina ha bienes rehegua",
+          "text": "Nómina ha activo fijo-kuéra ndive ambue gestión ndive."
+        }
+      ],
+      "audience": "Área administrativa ha financiera ombotyséva umi número orekóva operación real."
+    },
+    "logistics": {
+      "kicker": "Logística rehegua",
+      "card": "Control ha monitoreo nde operación logística rehegua.",
+      "features": [
+        "Ruta ha entrega-kuéra rehegua",
+        "Seguimiento tiempo real-pe",
+        "Asignación chofer rehegua",
+        "Ruta optimización rehegua"
+      ],
+      "lead": "Pedido guive entrega peve: ruta, chofer ha seguimiento tiempo real.",
+      "about": "FullVendor Logistics omohenda pe ñemyasãi. Rejapo ruta, reasigna chofer ha rehecha moõpa oho peteĩteĩ entrega. Pe equipo de tránsito opyta odependévo umi llamada rehe oikuaa haguã oñemondopa pe pedido.",
+      "benefits": [
+        {
+          "title": "Rutakuéra ára rehegua",
+          "text": "Umi entrega ojeordenáva zona, ventana de tiempo ha capacidad rupive."
+        },
+        {
+          "title": "Chofer oñeasigna va’ekue",
+          "text": "Káda ruta oreko peteĩ tapicha encargado ha peteĩ secuencia hesakãva."
+        },
+        {
+          "title": "Rakykuerereka",
+          "text": "Peẽ peikuaa mba’épa oñeme’ẽ, tapére térã ojejoko."
+        },
+        {
+          "title": "Sa’ive kilómetro",
+          "text": "Ruta optimización omboguejy tiempo ha costo de entrega."
+        }
+      ],
+      "audience": "Umi operación de distribución orekóva flota propia térã tercero."
+    },
+    "supplier": {
+      "kicker": "Jogua",
+      "card": "Portal umi proveedor ha gestión de compras-pe guarã.",
+      "features": [
+        "Umi pedido ojejoguáva rehegua",
+        "Jojuhu",
+        "Proveedor jesareko",
+        "Integración inventario ndive"
+      ],
+      "lead": "Umi ne proveedor ocotiza, orrecibi pedido ha omyenyhẽ stock correo electrónico suelto’ỹre.",
+      "about": "Vendor Supplier oipe’a peteĩ portal ojejoguáva ha umi proveedor omba’apo haguã peteĩchagua pedido-pe. Umi cotización, pedido de compra ha recibo ojejokua inventario FullVendor-pe.",
+      "benefits": [
+        {
+          "title": "Umi pedido peteĩ canal-pe",
+          "text": "Pe proveedor ohecha mba’épa omoguahẽta, cadena de correo electrónico ÿre."
+        },
+        {
+          "title": "Cita oñembojojáva",
+          "text": "Rejerure precio ha reiporavo tembiasakue reheve."
+        },
+        {
+          "title": "Proveedor Maestro rehegua",
+          "text": "Condiciones, contactos ha pendiente peteî registro-pe."
+        },
+        {
+          "title": "Oike inventario-pe",
+          "text": "Pe ojejoguava'ekue ojehechauka acción-pe oñeme'êvo."
+        }
+      ],
+      "audience": "Umi equipo ojoguáva omyenyhêva heta proveedor ha oikotevêva trazabilidad."
+    },
+    "salesman": {
+      "kicker": "Aplicación móvil rehegua",
+      "card": "Aplicación móvil equipo de ventas-pe guarã.",
+      "features": [
+        "Cliente ñemboguata",
+        "Orden jegueraha",
+        "Catálogo de producto rehegua",
+        "Tembiapo fuera de línea"
+      ],
+      "lead": "Fuerza de ventas ogueraha pedido tape rehe, orekóva térã ndorekóiva señal.",
+      "about": "FullVendor Sales Man omoĩ nde cartera, catálogo ha pedido oipyhýva teléfono ñemuhárape. Ndaipóriramo internet, tembiapo oñemotenonde ha oñesincronisa ojevy vove señal. Pe pedido oguahê listo oñembosako'i ha oñeme'ê haguã.",
+      "benefits": [
+        {
+          "title": "Billetera oĩva bolsillo-pe",
+          "text": "Pe vendedor ohecha cliente-kuéra, condición ha umi artículo pendiente."
+        },
+        {
+          "title": "Ordenar visita jave",
+          "text": "Ogueraha pedido orekóva precio ko'ágã ha stock."
+        },
+        {
+          "title": "Catálogo ára ha ára",
+          "text": "Umi mba’e’oka, presentación ha precio-kuéra PDF tuja’ỹre."
+        },
+        {
+          "title": "Añetehápe offline",
+          "text": "Emba’apo cobertura’ỹre ha esincronisa upe rire."
+        }
+      ],
+      "audience": "Umi supervisor ha umi vendedor de campo distribución ha consumo masivo-pe."
+    },
+    "warehouse": {
+      "kicker": "Aplicación móvil rehegua",
+      "card": "Aplicación móvil almacén-pe guarã.",
+      "features": [
+        "Recepción ha despacho rehegua",
+        "Oiporavo ha oempaqueta",
+        "Control de inventario rehegua",
+        "Código de barras moñe’ẽrã"
+      ],
+      "lead": "Recepción, picking ha despacho teléfono ha código de barras reheve.",
+      "about": "FullVendor Warehouse odirigíva almacén recepción, picking, embalaje ha despacho-pe. Omoñe’ẽvo código omboguejy jejavy ha inventario ndojeipapavéima jasy pahápe añoite.",
+      "benefits": [
+        {
+          "title": "Recepción contra orden rehegua",
+          "text": "Pe oikéva oñembojoja pe jogua rehe."
+        },
+        {
+          "title": "Pe picking ojepytasóva",
+          "text": "Pe barco jára osegi pe pedido ha omoañete káda mbaʼe."
+        },
+        {
+          "title": "Código de barras rehegua",
+          "text": "Sa’ive ojejavy producto, lote térã cantidad rehegua."
+        },
+        {
+          "title": "Stock ojeroviakuaáva",
+          "text": "Káda movimiento ombopyahu pe plataforma inventario."
+        }
+      ],
+      "audience": "Umi gerente almacén ha umi barco jára ombosako'íva ko'ã árape pedido orekóva lista impresa."
+    },
+    "finance": {
+      "kicker": "Aplicación móvil rehegua",
+      "card": "Control financiero nde móvil guive.",
+      "features": [
+        "Cuenta por cobrar ha ojepagáva rehegua",
+        "Estado cliente rehegua",
+        "Umi pago ha reconciliación rehegua",
+        "Marandu viru rehegua"
+      ],
+      "lead": "Cuenta por cobrar, pago ha cliente estado, nde teléfono guive.",
+      "about": "FullVendor Finance ohechauka colección móvil-pe: mba'épa odevéva cada cliente, mba'épa opaga potaitéma empresa ha mba'éichapa ou umi pago. Ojeporu ombyaty haguã pirapire visita jave ha ojesareko caja registradora rehe ojeipe'a'ÿre escritorio.",
+      "benefits": [
+        {
+          "title": "Colección pe visita-pe",
+          "text": "Pe ovendéva oikuaa pe cliente oĩpa al día ovende mboyve."
+        },
+        {
+          "title": "Ojehupyty ha ojepagáva",
+          "text": "Mokõive lado caja-pe peteĩ app-pe."
+        },
+        {
+          "title": "Umi pago ha reconciliación rehegua",
+          "text": "Reregistra crédito ha rehecha mba’épa tekotevẽ ojehasa."
+        },
+        {
+          "title": "Marandu oĩva ipópe",
+          "text": "Umi indicador de recogida ha efectivo oha'ãrõ'ÿre cierre."
+        }
+      ],
+      "audience": "Umi gerente, coleccionista ha vendedor oikotevëva situación cliente ko'ã momento-pe."
+    }
+  },
+  "why": {
+    "eyebrow": "Mba’érepa FullVendor .",
+    "title": "Emombarete ne negocio\norekóva resultado añeteguáva",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Umi empresa ojerovia ñanderehe"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Umi puruhára omba’apóva"
+      },
+      {
+        "value": "+10",
+        "suffix": "ary",
+        "label": "Evolución constante-pe"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Arai jeguereko"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Mba’éichapa omba’apo",
+    "title": "Venta guive recolección peve, omoambue'ÿre sistema",
+    "text": "Káda producto okomparti cliente, stock, pedido ha pago. Pe oikóva tape rehe térã almacén-pe ojekuaa oficina-pe instantáneamente.",
+    "steps": {
+      "sell": {
+        "title": "Nde revende",
+        "text": "Pe orden ojeike página web rupive térã Sales Man rupive, jepe señal’ỹre."
+      },
+      "pick": {
+        "title": "Oĩmbáma",
+        "text": "Warehouse ohupyty, omboja’o ha omondo código de barras reheve."
+      },
+      "deliver": {
+        "title": "Umi ñeme’ẽ",
+        "text": "Logistics oasigna ruta ha osegi pe entrega."
+      },
+      "collect": {
+        "title": "Cobras rehegua",
+        "text": "Finance ha ERP omboty pe colección, umi recibo ha umi número."
+      }
+    }
+  },
+  "band": {
+    "title": "¿Reimemapa listo rehecha haĝua [[nde operación]] ndive?",
+    "text": "Rohechauka ndéve ecosistema peteĩ káso distribución rehegua ojoguáva nde mba’épe."
+  },
+  "footer": {
+    "blurb": "Plataforma web ha móvil distribución, venta, logística, compra, inventario ha finanzas-pe guarã.",
+    "products": "Umi mba’e ojejapóva",
+    "company": "Tembiaporenda",
+    "legal": "Tekome'ẽhe'íva",
+    "privacy": "Iimba'etee",
+    "terms": "Teko",
+    "rights": "Opaite derecho ojeguerekóva."
+  },
+  "solutions": {
+    "eyebrow": "Soluciones rehegua",
+    "title": "Káda área, oñembojoajúva [[peteĩchagua operación]] rehe.",
+    "intro": "Eiporavo pe provléma resolusionaséva rupive. Hapykuéri, umi producto okomparti peteĩchagua marandu.",
+    "items": {
+      "commercial": {
+        "title": "Gestión comercial rehegua",
+        "text": "Umi pedido, precio, cliente ha inventario distribución ára ha ára."
+      },
+      "field": {
+        "title": "fuerza de ventas rehegua",
+        "text": "Umi ñemuhára oipyhýva pedido tape rehe, en línea térã fuera de línea."
+      },
+      "warehouse": {
+        "title": "Ñemurenda",
+        "text": "Recepción, picking, despacho ha peteî stock ikatúva ojeguerovia."
+      },
+      "logistics": {
+        "title": "Logística ha entrega rehegua",
+        "text": "Ruta, chofer ha estado orekóva cada entrega."
+      },
+      "purchasing": {
+        "title": "Jogua ha proveedor-kuéra",
+        "text": "Cotización, pedido ha peteî portal oimeraêvape guarã ome'êva ndéve."
+      },
+      "finance": {
+        "title": "Viru ha contabilidad rehegua",
+        "text": "Umi cobro, pago, facturación electrónica ha contabilidad."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industria-kuéra rehegua",
+    "title": "Ojejapo umi [[omomýiva producto]].",
+    "intro": "FullVendor heñói distribución-pe ha omoirû empresa ojoguáva, oñongatúva, ovendéva ha omoguahëva.",
+    "items": {
+      "wholesale": {
+        "title": "Distribución ha mayorista rehegua",
+        "text": "Umi lista de precios, cartera, distribución ha cobro peteî circuito-pe."
+      },
+      "retail": {
+        "title": "Ñemumirĩ",
+        "text": "Tienda ha almacén orekóva stock conectado, venta ha relleno."
+      },
+      "food": {
+        "title": "Tembi’u ha mba’yru",
+        "text": "Ruta py'ÿi ha peteî almacén ndikatúiva ojejoko."
+      },
+      "pharma": {
+        "title": "Farmacia ha atención personal rehegua",
+        "text": "Recepción, picking ha control inventario orekóva trazabilidad."
+      },
+      "hardware": {
+        "title": "Ferretería ha construcción rehegua",
+        "text": "Heta referencia, proveedor ha entrega omba'apo haguã térã tenda."
+      },
+      "fmcg": {
+        "title": "Consumo masivo rehegua",
+        "text": "Fuerza de ventas callejera ha reemplazo facturación yvate."
+      },
+      "manufacturing": {
+        "title": "Fabricación rehegua",
+        "text": "Jogua, almacén ha inventario alineado administración ndive."
+      },
+      "lastmile": {
+        "title": "Entrega ha último milla",
+        "text": "Ruta, chofer ha estado orekóva cada entrega."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Tembiporu",
+    "title": "Temiandu hesakãva [[ordena pe operación]].",
+    "intro": "Guía mbykymi umi gerente distribución rehegua odesidítava mba’e sistema-pa ojepytasóta.",
+    "items": {
+      "unify": {
+        "title": "Mba’éichapa oñembojoaju distribución peteĩ sistema-pe",
+        "summary": "Mba’épa ñamoĩ raẽ oñondive umi venta, almacén ha colección oiko jave opaichagua archivo-pe.",
+        "points": [
+          "Eñepyrũ cliente, producto ha precio-kuéragui: ha’ekuéra ha’e mbo’ehára opavave oiporúva.",
+          "Embojoaju pe pedido pe stock ndive emoĩ mboyve hetave aplicación.",
+          "Omedi peteî número simple: umi pedido oñemoañetéva ojejapo jey'ÿre formulario."
+        ]
+      },
+      "offline": {
+        "title": "Fuerza de ventas omba'apóva fuera de línea",
+        "summary": "Mba'épa ojejeruréva peteî aplicación de pedido-gui ani haguã pe vendedor opyta señal rehe.",
+        "points": [
+          "Pe catálogo ha billetera oĩva’erã teléfono-pe, ndaha’éi cloud-pe añónte.",
+          "Pe pedido oñeñongatu tembipuru’ípe ha ojegueraha jey pe red.",
+          "Oñesincronisa jave, pe pedido oikéma almacén-pe."
+        ]
+      },
+      "warehouse": {
+        "title": "Almacén orekóva código de barras, kuatia ÿre",
+        "summary": "Mba'éichapa ikatu jaha lista impresa guive picking confirmado peve teléfono-pe.",
+        "points": [
+          "Ojehupyty pe pedido de compra rehe, ndaha’éi memoria rehe.",
+          "Emoañete peteĩteĩ umi mba’e ojesepara jave. Pe insecto oikytĩ pe pasillo-pe.",
+          "Pe despacho ombopyahu pe stock ohecháva pe vendedor."
+        ]
+      },
+      "finance": {
+        "title": "Colección alineada venta ndive",
+        "summary": "Mba'érepa pe ñemuhára ohechava'erã cliente deuda ogueraha mboyve ambue pedido.",
+        "points": [
+          "Pe visita ha’e pe momento iporãvéva oñembyaty haĝua, ojehecháramo pe deuda.",
+          "Venta ha finanzas ojesarekova'erã peteî cliente rehe.",
+          "Peteî informe vencido diario ovale hetave peteî cierre tarde-gui."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Umi mba’erepy",
+    "title": "Peteĩ ecosistema [[okakuaáva nendive]].",
+    "intro": "Ndoromoherakuãi tasa genérica: costo odepende umi módulo, usuario ha volumen rehe. Rohechauka ndéve plataforma ha romoĩ peteĩ propuesta nde operación ndive.",
+    "note": "Ko demostración ndorekói costo ha noikotevêi contrato.",
+    "recommended": "Jeroviaha",
+    "faq_title": "Porandu ojejapóva jepi",
+    "plans": {
+      "essential": {
+        "name": "Oñeikotevẽva",
+        "desc": "Omohenda haguã gestión ha distribución comercial peteî plataforma-pe.",
+        "features": [
+          "FullVendor plataforma web rehegua",
+          "Ñemuha, jogua ha inventario rehegua",
+          "Cliente, proveedor ha marandu",
+          "Umi tembiporu oficina rehegua oiporúva",
+          "Ñepyrũrã pytyvõ"
+        ],
+        "cta": "Ojerure Demo"
+      },
+      "professional": {
+        "name": "Katupyrytee",
+        "desc": "Umi equipo ovendéva tape rehe ha ombosako'íva pedido almacén-pe.",
+        "features": [
+          "Opa mba’e Iñimportánteva",
+          "Aplicación rehegua FullVendor Sales Man .",
+          "Aplicación rehegua FullVendor Warehouse .",
+          "Tembiapo fuera de línea ha código de barras",
+          "Hetave umi oiporúva campo ha almacén"
+        ],
+        "cta": "Ojerure Demo"
+      },
+      "corporate": {
+        "name": "Corporativo rehegua",
+        "desc": "Umi aty oikotevêva logística, compra, finanzas ha opáichagua empresa-pe guarã.",
+        "features": [
+          "Ecosistema completo rehegua",
+          "Logistics, Vendor Supplier ha Finance .",
+          "FullVendor ERP ha heta arrendamiento rehegua",
+          "Facturación electrónica ha contabilidad rehegua",
+          "Acompañamiento ha disponibilidad prioridad rehegua"
+        ],
+        "cta": "Eñe’ẽ umi venta ndive"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "¿Ajoguavaʼerãpa entéro umi prodúkto?",
+        "a": "Nahániri Ikatu reñepyrũ FullVendor guive ha remoĩve umi app térã ERP pe operación oikotevẽ jave."
+      },
+      "offline": {
+        "q": "¿Omba’apópa umi aplicación internet’ỹre?",
+        "a": "Sales Man ha Warehouse osegi omba’apo señal’ỹre ha oñembojoaju oñembojoaju jeývo."
+      },
+      "multi": {
+        "q": "¿Osẽ porãpa aguerekóramo hetave peteĩ emprésa?",
+        "a": "Heẽ. ERP ocontempla multiempresa ha ecosistema ikatu okomparti maestro ijapytépe kuéra."
+      },
+      "demo": {
+        "q": "Mba’épa oike pe demostración-pe.",
+        "a": "Peteĩ recorrido pe platafórmape orekóva peteĩ káso ojoguáva nde mbaʼépe. Ndaipóri costo ha ndaipóri obligación."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demostración rehegua",
+    "title": "Rohechauka ndéve FullVendor [[nde tipo de operación]] ndive.",
+    "text": "Emombe'u oréve ne empresa rehegua ha mba'épa reordena raẽ. Pe demostración ndorekói costo."
+  },
+  "contact": {
+    "eyebrow": "Jekuaaverã",
+    "title": "Ñañe’ẽmi [[nde operación]] rehe.",
+    "text": "Reipotáramo peteĩ demostración, peteĩ propuesta térã reñeorienta haĝuánte umi producto apytépe, eheja ne marandu ha rombohováita.",
+    "email": "Correo rehegua",
+    "phone": "Pumbyry",
+    "whatsapp": "WhatsApp rehegua"
+  },
+  "form": {
+    "name": "Téra",
+    "email": "Correo rehegua",
+    "phone": "Pumbyry",
+    "company": "Mba'apoha renda",
+    "country": "Tetã",
+    "team": "Equipo tuichakue",
+    "interest": "Mbaʼépa ndegusta?",
+    "message": "Marandu",
+    "optional": "Poravokuaa",
+    "choose": "Poravo",
+    "interest_all": "Pe ecosistema tuichakue",
+    "ph_name": "nde réra",
+    "ph_email": "nde@empresa.com-pe",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Nde empresa",
+    "ph_country": "Tetã",
+    "ph_message": "Emombe'u oréve mba'éichapa remba'apo ko árape",
+    "privacy_before": "Aacepta che dato jeporu según pe...",
+    "privacy_after": ".",
+    "submit": "Omondo mba’ejerure",
+    "sent_title": "Rohupyty ne mba’ejerure",
+    "sent_text": "Aguyje. Pe equipo de ventas ohaíta ndéve ocoordina haĝua pe demostración térã ombohovái haĝua ne porandu.",
+    "error_required": "Emohu’ã ko tenda.",
+    "error_email": "Emoinge peteĩ correo electrónico añetegua.",
+    "error_phone": "Ejesareko teléfono rehe.",
+    "error_privacy": "Roikotevẽ ne consentimiento roipuru hag̃ua umi detalle de contacto.",
+    "error_csrf": "Pe sesión oñemohu’ãma. Emondo jey pe formulario.",
+    "error_save": "Ndaikatúikuri roñongatu pe mba’ejerure. Eñeha’ã jey.",
+    "error_generic": "Ehechamína umi kámpo oñemarkáva.",
+    "error_rate": "Eha’arõmi remondo mboyve ambue mba’ejerure.",
+    "team_options": {
+      "1-10": "1 guive 10 tapicha peve",
+      "11-50": "11 guive 50 tapicha peve",
+      "51-200": "51 ha 200 tapicha",
+      "201-500": "201 guive 500 tapicha peve",
+      "500+": "Hetave 500 tapicha"
+    }
+  },
+  "video": {
+    "title": "FullVendor peteĩ minuto-pe",
+    "prev": "Mboyvegua",
+    "next": "Uperiregua",
+    "slides": [
+      {
+        "title": "Peteĩ ecosistema añoite",
+        "text": "Venta, almacén, entrega, compra ha financiamiento acción cliente-kuéra, stock ha pedido."
+      },
+      {
+        "title": "Web ha móvil oñondive",
+        "text": "Pe ofisína ombaʼapo pe platafórmape. Pe tape ha almacén, umi app-pe, jepe señal ÿre."
+      },
+      {
+        "title": "Ojejapo oñemboja’o haguã",
+        "text": "Pedido guive pago peve, ombohasa’ỹre marandu peteĩ expediente-gui ambuépe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Ojeheka producto, solución, industria-kuéra...",
+    "lang_filter": "Ñe’ẽ jeheka",
+    "intro": "Ojeporeka producto, solución, industria ha recurso-kuéra rehe.",
+    "empty": "Ndorojuhúi resultado “{q}” rehegua.",
+    "hint": "Eñeha’ã venta, almacén, ruta térã colección.",
+    "results": "{n} resultado-kuéra rehegua",
+    "button": "Heka",
+    "kind_product": "Mba'eapopyre",
+    "kind_solution": "Myatyrõ",
+    "kind_industry": "Tembiapo ñemboaporekopýva",
+    "kind_resource": "Pohã"
+  },
+  "notfound": {
+    "title": "Ko páhina ndaha’éi",
+    "text": "Pe enlace ndoikói térã omoambue moõpa oĩ."
+  },
+  "common": {
+    "what": "Mba’épa osoluciona",
+    "features": "Mba'épa oike",
+    "benefits": "Mbaʼérepa iñimportánte",
+    "for_who": "Mávape g̃uarãpa?",
+    "related": "Avei ecosistema-pe"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ventas ko árape",
+      "orders": "Umi orden rehegua",
+      "clients": "Umi cliente-kuéra",
+      "products": "Umi mba’e ojejapóva"
+    },
+    "sidebar": {
+      "dashboard": "Tabla de mando",
+      "sales": "Ñemuha rehegua",
+      "purchases": "Jogua",
+      "inventory": "Jeguerokorysýi",
+      "clients": "Umi cliente-kuéra",
+      "reports": "Marandukuéra"
+    },
+    "chart": "Ñemuha rehegua",
+    "channel": "Distribución canal rupive",
+    "channels": [
+      "Ñemurenda",
+      "Mboja'o",
+      "Mayorista ñemuha",
+      "Ambuekuéra"
+    ],
+    "orders": "Umi pedido ipyahuvéva",
+    "col_order": "Hekopete",
+    "col_client": "Ñemuhára",
+    "col_status": "Teko",
+    "col_total": "Opaite",
+    "status": [
+      "Ñeme'ẽmbyre",
+      "Tape rehe",
+      "Oha'arõva"
+    ],
+    "top": "Umi mba’e oñevendevéva",
+    "product": "Mba'eapopyre",
+    "sales_menu": [
+      "Umi cliente-kuéra",
+      "Umi orden rehegua",
+      "Umi mba’e ojejapóva",
+      "Rutakuéra rehegua",
+      "Oñembojoaju haguã"
+    ],
+    "warehouse_menu": [
+      "Mog̃uahẽ",
+      "Oiporavo haguã",
+      "Jeguerokorysýi",
+      "Guerahauka",
+      "Oñembojoaju haguã"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Polítika Privasida rehegua",
+    "privacy_intro": "Ko política omyesakã mba’épa rojapo umi dato rehejava’ekue formulario-pe ko tendápe.",
+    "privacy": [
+      {
+        "title": "Mba’e dato-pa ñambyaty",
+        "text": "Rejeruréramo peteĩ demostración térã rehai oréve, roñongatu héra, empresa, correo electrónico, teléfono número rehechauka ramo, tetã, equipo tuichakue, producto de interés ha marandu. Avei rohai ára, página ñe’ẽ ha IP dirección, ani hag̃ua oñemondo vai."
+      },
+      {
+        "title": "Mbaʼépepa jaipuru umíva?",
+        "text": "Roipuru ko’ã dato rombohovái hag̃uánte ndéve, romohenda hag̃ua peteĩ demostración ha rombosako’i hag̃ua peteĩ propuesta comercial. Ndorovendéi ni norome’ẽi peteĩ lista de terceros-pe."
+      },
+      {
+        "title": "Moõpa oñeñongatu ha mboy tiémpopa.",
+        "text": "Umi mba’ejerure oñeñongatu ko tendápe servidor-pe. Roñongatu chupekuéra pe tiempo oñeikotevẽva roservi haĝua ndéve ha seguimiento comercial-pe, ha rombogue rejeruréramo oréve térã noñeikotevẽvéima jave."
+      },
+      {
+        "title": "Nde derechokuéra",
+        "text": "Ikatu ejerure jeike, emyatyrõ térã embogue ne marandu formulario de contacto-gui, ehechaukávo marandu-pe. Pe empresa omoherakuãramo peteĩ correo electrónico ko página web-pe, ikatu avei rehai upépe."
+      }
+    ],
+    "terms_title": "Ñe’ẽme’ẽ ojeporúva rehegua",
+    "terms_intro": "Ko’ã condición ojeporu ko FullVendor ñembohasa tenda jeporúpe.",
+    "terms": [
+      {
+        "title": "Marandu ñemu rehegua",
+        "text": "Umi jehaipyre, techapyrã figura panel ha descripción oikuaauka plataforma. Ikatu oñemoambue oñemoambuévo producto ha ndaha'éi oferta oñembotýva."
+      },
+      {
+        "title": "Ko demostración ndaha'éi peteî contrato",
+        "text": "Oñemoguahëvo formulario nomoheñói obligación ojoguávo térã oreserva precio. Oimeraêva contrato oñemoî peteî ñe'ême por separado, kuatiápe, orekóva alcance ha condición orekóva."
+      },
+      {
+        "title": "Contenido sitio rehegua",
+        "text": "Pe FullVendor marca, producto réra ha ko’ã página contenido ha’e ijára mba’e. Ndikatúi ojekopia oñepresenta haguã ambue producto."
+      },
+      {
+        "title": "Jeporu ojeguerohorýva",
+        "text": "Ani reiporu umi formulario remondo hag̃ua marandu japu, spam térã contenido ilegal. Ikatu ñamboyke umi mba’ejerure ndokorrespondéiva peteĩ conversación de negocios añeteguápe."
+      }
+    ]
+  }
+}

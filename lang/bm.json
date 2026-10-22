@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor Kalansenw | I ka jago ɲɛnabɔ ani k’a yiriwa",
+    "home_desc": "Fɛn bɛɛ bɛ kɛ yɔrɔ kelen na ni ɛntɛrinɛti ni telefɔni selilɛriw ɲɛnabɔcogo ye, ka ɲɛsin tilali, feereli, fɛnw ladonni, sanni, fɛnw marali ani wariko ma.",
+    "products_title": "Fɛn minnu bɛ dilan | FullVendor Bamako, Mali.",
+    "products_desc": "Aw ye ɲɛnamaya kɛcogo dɔn FullVendor: jagokɛyɔrɔ, ERP, logistiki, feerekɛlaw ni feereli, depo ni wariko porogaramuw.",
+    "product_title": "{name} Kalansenw | FullVendor Bamako, Mali.",
+    "solutions_title": "Fɛnɲɛnɛmafagalanw | FullVendor Bamako, Mali.",
+    "solutions_desc": "Jago ɲɛnabɔli, feerekɛlaw, fɛnmarayɔrɔ, fɛnw ladonni, sanni ani wariko ɲɛnabɔcogo.",
+    "industries_title": "Industries (Industriw) | FullVendor Bamako, Mali.",
+    "industries_desc": "FullVendor ka ɲɛsin tilali, feereli, dumuni, furakɛli, fɛnɲɛnamafagalan, jamaba dunni, fɛn dilanni ani kilomɛtɛrɛ laban ma.",
+    "pricing_title": "Sɔngɔw | FullVendor Bamako, Mali.",
+    "pricing_desc": "Labɛn nafamaw, baarakɛlaw ani jɛkuluw ka laɲiniw. O hakilina in bɛ Blà ɲɔgɔn na ka Kɛɲɛ ni moduluw, baarakɛlaw ani hakɛ ye.",
+    "resources_title": "Nafolo minnu bɛ sɔrɔ | FullVendor Bamako, Mali.",
+    "resources_desc": "Gafe surunw walasa ka tilali kɛ kelen ye, ka feereli kɛ ɛntɛrinɛti kɔkan, ka fɛnmarayɔrɔ labɛn ani ka sara sɔrɔ a waati la.",
+    "contact_title": "Contact | FullVendor Bamako, Mali.",
+    "contact_desc": "Aw ye sɛbɛn ci an ma walasa ka FullVendor dɔn walima ka baro dɔ labɛn ni feerekɛlaw ye.",
+    "demo_title": "Demo de demande | FullVendor Bamako, Mali.",
+    "demo_desc": "FullVendor demo ɲini ani ka taama kɛ plateforme kan ni case ye min ni i ka baarakɛcogo bɛ tali kɛ ɲɔgɔn na.",
+    "privacy_title": "Kunnafoni dogolenw | FullVendor Bamako, Mali.",
+    "terms_title": "Sariyasenw | FullVendor Bamako, Mali.",
+    "search_title": "Ɲini | FullVendor Bamako, Mali.",
+    "notfound_title": "Page ma sɔrɔ | FullVendor Bamako, Mali."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "So ɲɛ fɔlɔ",
+    "products": "Fɛn minnu bɛ dilan",
+    "solutions": "Fɛnɲɛnɛmafagalanw",
+    "industries": "Industries (Industriw) minnu bɛ yen",
+    "pricing": "Sɔngɔw",
+    "resources": "Sɔ̀rɔda",
+    "contact": "Ka wele",
+    "open_menu": "Meniw da wuli",
+    "close": "Ka datugu"
+  },
+  "cta": {
+    "demo": "Demo Demo ɲini",
+    "contact": "Aw ye ɲɔgɔn sɔrɔ anw fɛ",
+    "video": "Wideyo lajɛ",
+    "talk": "Kuma ni feerekɛlaw ye",
+    "all_products": "Aw ye furaw bɛɛ lajɛ",
+    "home": "Segin ka taa ɲɛ fɔlɔ la"
+  },
+  "a11y": {
+    "skip": "Tɛmɛ ka taa kɔnɔkow la",
+    "primary": "Navigasiyɔn kunbaba",
+    "crumbs": "Navigasiyɔn sira",
+    "search": "Aw ye a ɲini",
+    "language": "Kan"
+  },
+  "hero": {
+    "eyebrow": "O bɛɛ bɛ kɛ plateforme kelen kɔnɔ",
+    "title": "Aw ye a ɲɛnabɔ ani ka bonya\naw ka jago ni\n{{brand}} Bamako, Mali.",
+    "subtitle": "Plateforme dafalen min bɛ ni web ni mobile solutions ye, ka ɲɛsin tilali, feereli, logistiki, sanni, inventory, wariko ani fɛn wɛrɛw ma.",
+    "pill_ecosystem": "Fɛn bɛɛ bɛ ɲɛnamaya kɛcogo kelen na",
+    "pill_cloud": "Sankaba kɔnɔ, a lakananen don ani a bɛ se ka sɛgɛsɛgɛ",
+    "pill_size": "Ka ɲɛsin sosiyetew ma minnu bonya tɛ kelen ye"
+  },
+  "products_block": {
+    "eyebrow": "An ka fɛn dilannenw",
+    "title": "[[ecosystem complet]] min bɛ kɛ i ka jago yɔrɔ kelen-kelen bɛɛ la",
+    "aside": "Fɛnɲɛnɛmafagalanw jɛlen minnu bɛ baara kɛ ɲɔgɔn fɛ walasa ka kunnafoni bɛɛ di i ma, ka baarakɛcogo ɲuman di i ma ani ka bonyaba di i ma.",
+    "groups": {
+      "money": "Mara ni fɛnw dalajɛli",
+      "flow": "Sanni ni fɛnw lasecogo",
+      "field": "Feereli ni fɛnmarayɔrɔ"
+    }
+  },
+  "products_page": {
+    "title": "Fɛn wolonwula, [[baara kelen]].",
+    "text": "Fɛn kelen-kelen bɛɛ bɛ yɔrɔ dɔ ɲɛnabɔ. U bɛ ɲɔgɔn fɛ ka kiliyanw, stock, komandiw ani wari sarataw tila ɲɔgɔn na."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Bɔlɔlɔ kan",
+      "card": "Jago ɲɛnabɔli ni u tilatilali jɔyɔrɔba.",
+      "features": [
+        "Feereli ni sannifeere",
+        "Jatebɔ",
+        "Kliyanw ni feerekɛlaw",
+        "Rapportw ani fɛn wɛrɛw"
+      ],
+      "lead": "I ka jago baara cɛmancɛ : komandiw, sɔngɔw, stock ani kiliyanw yɔrɔ kelen na.",
+      "about": "FullVendor bɛ jatebɔla dɔ ka jatebɔsɛbɛnw ni sistɛmu lafiyalenw bila u nɔ na. Ka bɔ yan komandiw bɛ bɔ, inventory bɛ lajɛ, kiliyanw ka portfolio bɛ ladon ani tile jatew bɛ lajɛ. Lamini tɔ bɛ Jὲ ni o basigi in ye.",
+      "benefits": [
+        {
+          "title": "Donanw ɲɛmɔgɔ kelen",
+          "text": "Kunnafonidila, fɛn dilannenw ani sɔngɔw bɛ tila ni feereli, fɛnmarayɔrɔ ani wariko ye."
+        },
+        {
+          "title": "Don o don baarakɛcogo jɛlen",
+          "text": "Komanw, sanniw ani stockw bɛ sigi dosiye suguya wɛrɛw kɔnɔ."
+        },
+        {
+          "title": "Rapportw ka kan ka latigɛ",
+          "text": "Feereli, margin ani pending bɛ ye k’a sɔrɔ tabali ma fara ɲɔgɔn kan ni bolo ye."
+        },
+        {
+          "title": "Labɛnnen don ka bonya",
+          "text": "Logistiki, feerekɛlaw walima ERP jatebɔw ni baarakɛyɔrɔ y’a ɲini."
+        }
+      ],
+      "audience": "Jagokɛlaw ni tilali jɛkulu minnu bɛ jago ɲɛnabɔ bi sigida caman ni ɲɔgɔn cɛ."
+    },
+    "erp": {
+      "kicker": "Administration (marako) la",
+      "card": "Mara ni wariko ɲɛnabɔli dafalen.",
+      "features": [
+        "Jateblaw ka baara",
+        "Ɛntɛrinɛti kan fatura",
+        "Baarakɛsɛbɛnw",
+        "Nafolo jɔlenw",
+        "Sosiyete caman bɛ yen"
+      ],
+      "lead": "Mara ni wariko, minnu bɛ bɛn ni fɛn ye min bɛ feere tiɲɛ na ani min bɛ lase.",
+      "about": "FullVendor ERP bɛ jatebɔ, ɛntɛrinɛti fatura, sarako, nafolo basigilenw ani sosiyete caman kofɔ. A bɛ jago baara ta k’a sɛmɛntiya ka kɛ sɛbɛnw ye, ka kɛ sɛbɛnw ye minnu bɛ sɔrɔ ani ka kɛ sɛbɛnw ye, wariko yɔrɔ bɛ se ka baara kɛ ni minnu ye.",
+      "benefits": [
+        {
+          "title": "Jatebɔ min bɛ tali kɛ ɲɔgɔn na",
+          "text": "Fɛn min bɛ kɛ feereli ni sannifeere la, o bɛ jatebɔ balo."
+        },
+        {
+          "title": "Resipi minnu bɛ sɔrɔ ɛntɛrinɛti kan",
+          "text": "I bɛ fatura bɔ ani k’a kɔlɔsi ka bɔ ekosisɛti kelen na."
+        },
+        {
+          "title": "Sosiyete suguya caman",
+          "text": "Sosiyete caman ye kuluw ye minnu bɛ baara kɛ sosiyete tɔgɔ caman na."
+        },
+        {
+          "title": "Sarako ni nafolomafɛnw",
+          "text": "Sarako ni nafolo basigilenw ka fara ɲɛmɔgɔ tɔw kan."
+        }
+      ],
+      "audience": "Mara ni wariko yɔrɔ minnu b’a fɛ ka jatew datugu ni baara lakika ye."
+    },
+    "logistics": {
+      "kicker": "Logistiki (logistics) ka baara",
+      "card": "Aw ka logistiki baarakɛcogo kɔlɔsili n’a kɔlɔsili.",
+      "features": [
+        "Siraw ni fɛnw lasecogo",
+        "Waati yɛrɛ la, tugu-tugu ɲɔgɔn kɔ",
+        "Sotigi ka baara",
+        "Siraw ɲɛnabɔli"
+      ],
+      "lead": "K’a ta komandi la ka se a lasecogo ma: siraw, bolifɛntigiw ani waati yɛrɛ la tuguni.",
+      "about": "FullVendor Logistics bɛ tilali labɛn. I bɛ siraw dabɔ, ka bolifɛntigiw bila ani k’a lajɛ jiginni kelen-kelen bɛɛ bɛ taa yɔrɔ min na. Sirako jɛkulu bɛ jɔ ka kɛɲɛ ni weleli ye walasa k’a dɔn ni komandi cilen don.",
+      "benefits": [
+        {
+          "title": "Tile in siraw",
+          "text": "Lase minnu bɛ komandi ka kɛɲɛ ni zone, time window ani capacity ye."
+        },
+        {
+          "title": "Sofɛrɛ min dira a ma",
+          "text": "Sira kelen-kelen bɛɛ bɛ ni mɔgɔ ye min bɛ a ɲɛminɛ ani a bɛ tugu ɲɔgɔn kɔ cogo jɛlen na."
+        },
+        {
+          "title": "Ka tugu",
+          "text": "I b’a dɔn min bɛ lase, sira kan walima min jɔlen don."
+        },
+        {
+          "title": "Kilomɛtɛrɛ damadɔw",
+          "text": "Siraw ɲɛnabɔli bɛ dɔ bɔ jiginni waati ni musakaw la."
+        }
+      ],
+      "audience": "Jatebɔ baara minnu bɛ kɛ ni u yɛrɛ ka kurunba walima mɔgɔ wɛrɛw ye."
+    },
+    "supplier": {
+      "kicker": "Sanni",
+      "card": "Portal for fournisseurs ani sannifeere ɲɛnabɔli.",
+      "features": [
+        "Sannifeere yamaruyaw",
+        "Sɔngɔn di",
+        "Fɛn dilanbagaw ka ɲɛmɔgɔya",
+        "Jɛɲɔgɔnya ni inventory (inventaire) ye"
+      ],
+      "lead": "Aw ka feerekɛlaw bɛ quotation kɛ, ka komandiw sɔrɔ ani ka stock fa ka sɔrɔ u ma email loose.",
+      "about": "Vendor Supplier bɛ dakun dɔ da wuli sannifeerew ni feerekɛlaw ye walasa u ka baara kɛ ni komandi kelenw ye. Quotes, sanni yamaruyaw ani resipiw sirilen bɛ FullVendor ka inventory la.",
+      "benefits": [
+        {
+          "title": "Komanw bɛ kɛ kanal dɔ kɔnɔ",
+          "text": "Fɛn dilanbaga b’a ye a bɛna min lase, k’a sɔrɔ imɛri cakɛda tɛ."
+        },
+        {
+          "title": "Kumasen minnu bɛ se ka suma ɲɔgɔn ma",
+          "text": "I bɛ sɔngɔw ɲini ani ka sugandi ni tariku ye min bɛ i ɲɛ na."
+        },
+        {
+          "title": "Fournisseur Master (Fournisseur Master) ye",
+          "text": "Saratiw, ɲɔgɔnyew ani makɔnɔnenw sɛbɛn kelen kɔnɔ."
+        },
+        {
+          "title": "Aw bɛ don inventory kɔnɔ",
+          "text": "Fɛn min sanna, o bɛ jira stock la ni a sɔrɔla."
+        }
+      ],
+      "audience": "Sanni jɛkulu minnu bɛ fa ni feerekɛla caman ye ani minnu mago bɛ tugu-tugu-ɲɔgɔn kɔ."
+    },
+    "salesman": {
+      "kicker": "Telefɔni selilɛri appli",
+      "card": "Mobili application ka ɲɛsin feerelikɛlaw ma.",
+      "features": [
+        "Kunnafoni minnu bɛ sɔrɔ kiliyanw fɛ",
+        "Komanw tali",
+        "Fɛn dilannenw ka gafesɛbɛn",
+        "Baara min bɛ kɛ ni ɛntɛrinɛti tɛ"
+      ],
+      "lead": "Feerekɛlaw bɛ komandiw ta nbɛda la, ni taamasiyɛn ye walima ni taamasiyɛn tɛ u la.",
+      "about": "FullVendor Sales Man b’i ka portfolio, catalogue ani order ta bila feerekɛla ka telefɔni na. Ni ɛntɛrinɛti tɛ yen, baara bɛ taa ɲɛ, ka kɛ ɲɔgɔn fɛ ni taamasiyɛn seginna. Koman bɛ se ka se ka labɛn ani ka lase.",
+      "benefits": [
+        {
+          "title": "Portefeuille min bɛ bɔrɛ kɔnɔ",
+          "text": "Feerekɛla bɛ kiliyanw ye, cogoyaw ani fɛn minnu bɛ sen na."
+        },
+        {
+          "title": "Aw ye komandi kɛ viziti la",
+          "text": "Aw bɛ komandi ta ni sisan sɔngɔw ni stock ye."
+        },
+        {
+          "title": "Katalogu min bɛ waati la",
+          "text": "Fɛn minnu bɛ dilan, jiracogo ani sɔngɔw ni PDF kɔrɔ tɛ."
+        },
+        {
+          "title": "Tiɲɛ yɛrɛ la offline",
+          "text": "Aw bɛ baara kɛ ni coverage tɛ ani ka synchronisation kɛ kɔfɛ."
+        }
+      ],
+      "audience": "Kɔlɔsilikɛlaw ni foro feerelaw tilali ni jamaba feereli la."
+    },
+    "warehouse": {
+      "kicker": "Telefɔni selilɛri appli",
+      "card": "Aplikasi mobili kɔnɔ min bɛ kɛ depo kama.",
+      "features": [
+        "Jaabi ni cikan",
+        "Picking ani packing (fɛnw tigɛcogo).",
+        "Inventory (fɛnw maracogo) kɔlɔsili",
+        "Barcode kalanni"
+      ],
+      "lead": "Jatigila, picking ani dispatch ni telefɔni ni barcode ye.",
+      "about": "FullVendor Warehouse bɛ fɛnmarayɔrɔ ɲɛminɛ jaabi, fɛnw ta, u pakew ani u cicogo la. Kode kalanni bɛ dɔ bɔ filiw la ani inventory tɛ jate tugun kalo laban dɔrɔn na.",
+      "benefits": [
+        {
+          "title": "Jaabi ka kɛɲɛ ni yamaruya ye",
+          "text": "Fɛn min bɛ don, o bɛ suma ni sanni ye."
+        },
+        {
+          "title": "Laɲini kɛlenw ka picking",
+          "text": "Kuruntigi bɛ tugu o yamaruya kɔ ani ka fɛn kelen-kelen bɛɛ sinsin."
+        },
+        {
+          "title": "Barcodes (Barkode) minnu bɛ yen",
+          "text": "Fɛn dilannen, batch walima hakɛ filiw dɔgɔyara."
+        },
+        {
+          "title": "Stock min bɛ se ka da a kan",
+          "text": "Yɛlɛma kelen-kelen bɛɛ bɛ plateforme ka inventory kura."
+        }
+      ],
+      "audience": "Depo ɲɛmɔgɔw ni kuruntigiw minnu bɛ komandiw labɛn bi ni lisi sɛbɛnnenw ye."
+    },
+    "finance": {
+      "kicker": "Telefɔni selilɛri appli",
+      "card": "Nafolo kɔlɔsili ka bɔ i ka telefɔni selilɛri la.",
+      "features": [
+        "Jatebɔsɛbɛn minnu bɛ sɔrɔ ani minnu bɛ sara",
+        "Kunnafoni minnu bɛ sɔrɔ kiliyanw fɛ",
+        "Sarali ni bɛnkanw",
+        "Nafolo rapɔɔriw"
+      ],
+      "lead": "Jatebɔsɛbɛn minnu bɛ sɔrɔ, wari sarataw ani kiliyanw cogoya, ka bɔ i ka telefɔni na.",
+      "about": "FullVendor Finance bɛ warijɛ lajɛlen jira mobili kan: kiliyan kelen-kelen bɛɛ ka juru bɛ ​​min na, sosiyete bɛna min sara ani wari sarataw bɛ na cogo min na. A bɛ kɛ ka wari lajɛ taama senfɛ ani ka warimarayɔrɔ lajɛ k’a sɔrɔ a ma tabali da wuli.",
+      "benefits": [
+        {
+          "title": "Jatebɔ kɛli la taama na",
+          "text": "Feerekɛla b’a dɔn ni kiliyan bɛ waati la sani a ka feere."
+        },
+        {
+          "title": "Recevable ani sarali",
+          "text": "Box fan fila bɛɛ bɛ appli kelen kɔnɔ."
+        },
+        {
+          "title": "Sarali ni bɛnkanw",
+          "text": "I bɛ kreditiw sɛbɛn k’a lajɛ min ka kan ka tɛmɛn."
+        },
+        {
+          "title": "Rapportw bɛ bolo kan",
+          "text": "Jateminɛ ni warijɛ jiralanw k’a sɔrɔ u ma dadon makɔnɔ."
+        }
+      ],
+      "audience": "Kunnafonidila, warijɛbɔlaw ani feerekɛlaw minnu mago bɛ kiliyan ka ko la sisan."
+    }
+  },
+  "why": {
+    "eyebrow": "Mun na FullVendor .",
+    "title": "Aw ye aw ka jago yiriwa\nni nɔ lakikaw ye",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kɔnpɔsibaw dalen bɛ an na"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Baarakɛlaw minnu bɛ baara kɛ"
+      },
+      {
+        "value": "+10",
+        "suffix": "sanw",
+        "label": "Yɛlɛma-yɛlɛma kɔnɔ tuma bɛɛ"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Sankaba sɔrɔli"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "A bɛ baara kɛ cogo min na",
+    "title": "K’a ta feereli la ka taa a bila dalajɛ la, k’a sɔrɔ u ma sistɛmuw Changé",
+    "text": "Fɛn kelen-kelen bɛɛ bɛ kiliyanw, stock, komandiw ani wari sarataw tila ɲɔgɔn na. Fɛn min bɛ kɛ nbɛda la walima fɛnmarayɔrɔ la, o bɛ bɔ biro kɔnɔ o yɔrɔnin bɛɛ.",
+    "steps": {
+      "sell": {
+        "title": "I bɛ feere kɛ",
+        "text": "O komandi bɛ don site web fɛ walima Sales Man fɛ, hali ni taamasiyɛn tɛ."
+      },
+      "pick": {
+        "title": "Labɛn",
+        "text": "Warehouse bɛ sɔrɔ, ka faranfasi ani ka ci ni barɔdi ye."
+      },
+      "deliver": {
+        "title": "Deliveries (Jɛkulu minnu bɛ ci).",
+        "text": "Logistics bɛ sira di ani ka tugu jiginni kɔ."
+      },
+      "collect": {
+        "title": "Kobraw",
+        "text": "Finance ani ERP bɛ jatebɔ, sɔrɔw ani nimɔrɔw datugu."
+      }
+    }
+  },
+  "band": {
+    "title": "Yala i labɛnnen don k’a ye ni [[i ka opereli]] ye wa?",
+    "text": "An bɛ ekosisɛti jira aw la ni tilali ko ye min ni aw ta bɔlen don."
+  },
+  "footer": {
+    "blurb": "Ɛntɛrinɛti ni mobili jɔyɔrɔ min bɛ tila, feereli, fɛnw ladonni, sanni, fɛnw marali ani wariko.",
+    "products": "Fɛn minnu bɛ dilan",
+    "company": "Cakɛda",
+    "legal": "Dagalen",
+    "privacy": "Daamu",
+    "terms": "Bɛnkanw",
+    "rights": "Hakɛ bɛɛ bɛ a bolo."
+  },
+  "solutions": {
+    "eyebrow": "Fɛnɲɛnɛmafagalanw",
+    "title": "Yɔrɔ kelen-kelen bɛɛ, min bɛ tali kɛ [[opereli kelen] la.",
+    "intro": "I b’a fɛ ka gɛlɛya min ɲɛnabɔ, i k’o sugandi. O kɔfɛ, fɛn dilannenw bɛ kunnafoni kelenw de tila ɲɔgɔn na.",
+    "items": {
+      "commercial": {
+        "title": "Jago ɲɛnabɔli",
+        "text": "Komanw, sɔngɔw, kiliyanw ani fɛnmarataw ka ɲɛsin don o don tilali ma."
+      },
+      "field": {
+        "title": "feerekɛlaw ka fanga",
+        "text": "Feerekɛlaw bɛ komandiw ta nbɛda la, ɛntɛrinɛti kan walima ɛntɛrinɛti kɔkan."
+      },
+      "warehouse": {
+        "title": "Butigi",
+        "text": "Jaabi, picking, dispatch ani stock min bɛ se ka da a la."
+      },
+      "logistics": {
+        "title": "Logistiki ni fɛnw lasecogo",
+        "text": "Siraw, bolifɛntigiw ani jiginni kelen-kelen bɛɛ cogoya."
+      },
+      "purchasing": {
+        "title": "Sannifeere ni feerekɛlaw",
+        "text": "Quotes, orders ani portal min bɛ di i ma."
+      },
+      "finance": {
+        "title": "Nafolo ni jatebɔ",
+        "text": "Jateminɛ, wari sarali, ɛntɛrinɛti kan fatura ani jatebɔ."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries (Industriw) minnu bɛ yen",
+    "title": "A dabɔra mɔgɔ minnu ye [[moves product]].",
+    "intro": "FullVendor bangera tilali la ani a bɛ taa ni tɔnw ye minnu bɛ sanni kɛ, ka mara, ka feere ani ka fɛnw lase.",
+    "items": {
+      "wholesale": {
+        "title": "Jatebla ni jɛgɛfeere",
+        "text": "Sɔngɔ lisɛli, portfolio, tilali ani u lajɛ kafo kelen kɔnɔ."
+      },
+      "retail": {
+        "title": "Dɔgɔdɔgɔnifeere",
+        "text": "Magasin ni depo ni stock connecté, feereli ani fasa."
+      },
+      "food": {
+        "title": "Dumuni ni minfɛnw",
+        "text": "Sira minnu bɛ taa tuma caman na ani fɛnmarayɔrɔ min tɛ se ka jɔ."
+      },
+      "pharma": {
+        "title": "Furakɛyɔrɔ ani mɔgɔ yɛrɛ ladonni",
+        "text": "Jaabi, picking ani inventory control ni traceability ye."
+      },
+      "hardware": {
+        "title": "Hardware ani jɔli",
+        "text": "Reference caman, fournisseurs ani deliveries caman ka taa baara la walima magan na."
+      },
+      "fmcg": {
+        "title": "Mass (jamaba) ka fɛnw dunni",
+        "text": "Nbɛdaw feereli fanga ani jagokɛlaw ka caman cili."
+      },
+      "manufacturing": {
+        "title": "Fɛn dilanni",
+        "text": "Sanni, fɛnmarayɔrɔ ani fɛnmarataw bɛ bɛn marako ma."
+      },
+      "lastmile": {
+        "title": "Delivery ani kilomɛtɛrɛ laban",
+        "text": "Siraw, bolifɛntigiw ani jiginni kelen-kelen bɛɛ cogoya."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Sɔ̀rɔda",
+    "title": "Hakilina jɛlenw ka [[opereli yamaruya]].",
+    "intro": "Gafe surunw jatebɔ ɲɛmɔgɔw ye minnu bɛna a latigɛ u bɛna nɔrɔ sigida min na.",
+    "items": {
+      "unify": {
+        "title": "Jateblaw faralen ɲɔgɔn kan cogo min na ka kɛ sigida kelen ye",
+        "summary": "Fɛn minnu ka kan ka fara ɲɔgɔn kan fɔlɔ ni feereli, fɛnmarayɔrɔ ani fɛnw dalajɛlenw bɛ balo dosiye suguya wɛrɛw kɔnɔ.",
+        "points": [
+          "A daminɛ ni kiliyanw ye, fɛn dilannenw ani sɔngɔw: olu de ye karamɔgɔ ye bɛɛ bɛ baara kɛ ni min ye.",
+          "Aw bɛ komandi ni stock siri ɲɔgɔn na sani aw ka application wɛrɛw fara a kan.",
+          "A bɛ jate nɔgɔman dɔ suman: yamaruya minnu dafara k’a sɔrɔ u ma sɛbɛnfura kɛ kokura."
+        ]
+      },
+      "offline": {
+        "title": "Feerekɛlaw ka baara bɛ baara kɛ ni ɛntɛrinɛti tɛ",
+        "summary": "Fɛn min ka kan ka ɲini komandi app fɛ walasa feerekɛla kana jɔ k’a sababu kɛ taamasiyɛn ye.",
+        "points": [
+          "Katalogu ni portefeuille ka kan ka kɛ telefɔni na, a man kan ka kɛ sankaba dɔrɔn kɔnɔ.",
+          "O komandi bɛ mara minɛn kan, ka bila ni réseau seginna.",
+          "Ni sinkɔrɔni kɛra, komandi bɛ don depo kɔnɔ kaban."
+        ]
+      },
+      "warehouse": {
+        "title": "Depo min bɛ ni barcode ye, ni papier tɛ a la",
+        "summary": "Cogo min na ka bɔ lisi sɛbɛnnen na ka taa picking confirmé telefɔni na.",
+        "points": [
+          "Aw ye sɔrɔ ka kɛɲɛ ni sanni yamaruya ye, aw kana sɔrɔ ka kɛɲɛ ni hakilijagabɔ ye.",
+          "Aw bɛ fɛn kelen-kelen bɛɛ sinsin ni aw bɛ fara ɲɔgɔn kan. Bugun bɛ tigɛ ka don sow kɔnɔ.",
+          "Dispatch bɛ stock kura ye feerekɛla bɛ min ye."
+        ]
+      },
+      "finance": {
+        "title": "Koleksi min bɛ bɛn feereli ma",
+        "summary": "Mun na feerekɛla ka kan ka kiliyan ka juru ye sani a ka komandi wɛrɛ ta.",
+        "points": [
+          "Viziti ye warijɛ lajɛ waati ɲuman ye, ni juru bɛ ​​ye.",
+          "Feere ni wariko ka kan ka kiliyan kelen de lajɛ.",
+          "Don o don, rapɔɔri min bɛ tɛmɛn waati kan, o nafa ka bon ka tɛmɛ dadon kɔfɛ."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Sɔngɔw",
+    "title": "Ecosysteme min [[a bɛ bonya ni i ye]].",
+    "intro": "An tɛ hakɛ caman bɔ kɛnɛ kan : musaka bɛ bɔ moduluw, baarakɛlaw ani hakɛ la. An bɛ plateforme jira aw la ka proposal dɔ fara ɲɔgɔn kan n’aw ka operation ye.",
+    "note": "Demo musaka tɛ kɛ wa a tɛ bɛnkansɛbɛn dɔ wajibiya.",
+    "recommended": "Lakofɔlen",
+    "faq_title": "Ɲininkali minnu bɛ kɛ tuma caman na",
+    "plans": {
+      "essential": {
+        "name": "Fanba",
+        "desc": "Ka jago ɲɛnabɔli ni a tilali labɛn kɛnɛ kelen kan.",
+        "features": [
+          "FullVendor ɛntɛrinɛti yɔrɔ",
+          "Feereli, sanni ani fɛnmarataw",
+          "Clients, fournisseurs ani rapɔɔriw",
+          "Biro minɛnw baarakɛlaw",
+          "Dɛmɛ min bɛ kɛ ka baara daminɛ"
+        ],
+        "cta": "Demo Demo ɲini"
+      },
+      "professional": {
+        "name": "Baarakɛla",
+        "desc": "Ekipu minnu bɛ feere nbɛda la ani ka komandiw labɛn depo kɔnɔ.",
+        "features": [
+          "Fɛn bɛɛ nafa ka bon",
+          "Aplikasi FullVendor Sales Man",
+          "Aplikasi FullVendor Warehouse",
+          "Baara min tɛ ɛntɛrinɛti kan ani barkode",
+          "Foro ni magasin baarakɛlaw ka ca"
+        ],
+        "cta": "Demo Demo ɲini"
+      },
+      "corporate": {
+        "name": "Jɛkuluw ka baarakɛyɔrɔw",
+        "desc": "Jɛkulu minnu mago bɛ logistiki, sanni, wariko ani sosiyete suguya caman na.",
+        "features": [
+          "Ecosysteme dafalen",
+          "Logistics, Vendor Supplier ani Finance",
+          "FullVendor ERP ani lokatɛri caman",
+          "Ɛntɛrinɛti kan fatura ni jatebɔ",
+          "Accompaniment ani priorité sɔrɔli"
+        ],
+        "cta": "Kuma ni feerekɛlaw ye"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Yala ne ka kan ka fɛn dilannenw bɛɛ san wa?",
+        "a": "Ayi, i bɛ se ka daminɛ ni FullVendor ye ka appli walima ERP fara a kan ni opereli mago bɛ o la."
+      },
+      "offline": {
+        "q": "Yala applicationw bɛ baara kɛ ni ɛntɛrinɛti tɛ wa?",
+        "a": "Sales Man ani Warehouse bɛ taa a fɛ ka baara kɛ ni taamasiyɛn tɛ ani ka ɲɔgɔn sɔrɔ ni u bɛ ɲɔgɔn sɔrɔ kokura."
+      },
+      "multi": {
+        "q": "Yala a bɛ baara kɛ ni ne ka sosiyete ka ca ni kelen ye wa?",
+        "a": "Awɔ. ERP bɛ jateminɛ kɛ sosiyete caman na ani ekosisɛti bɛ se ka matigiw tila u ni ɲɔgɔn cɛ."
+      },
+      "demo": {
+        "q": "Mun de bɛ o demo kɔnɔ?",
+        "a": "Taama kɛli plateforme kan ni kɛsu dɔ ye min ni i ta bɔlen don. Musaka tɛ kɛ ani wajibi tɛ."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "An bɛ FullVendor jira aw la ni [[aw ka baara suguya]] ye.",
+    "text": "Aw ka sosiyete ko fɔ an ye ani aw b’a fɛ ka min komandi fɔlɔ. Demo in musaka tɛ."
+  },
+  "contact": {
+    "eyebrow": "Ka wele",
+    "title": "An ka kuma [[aw ka opereli]] kan.",
+    "text": "N’i ​​b’a fɛ ka demo, proposal walima k’i yɛrɛ ɲɛsin dɔrɔn fɛnw cɛ, i k’i ka kunnafoniw to yen an bɛna jaabi di.",
+    "email": "Mail (mail) ci",
+    "phone": "Telefɔni",
+    "whatsapp": "WhatsApp ka baara"
+  },
+  "form": {
+    "name": "Tɔ̀gɔ",
+    "email": "Mail (mail) ci",
+    "phone": "Telefɔni",
+    "company": "Cakɛda",
+    "country": "Jamana",
+    "team": "Ekipu hakɛ",
+    "interest": "Mun de ka di i ye?",
+    "message": "Bataki",
+    "optional": "Wajibi tɛ",
+    "choose": "Ka sugandi",
+    "interest_all": "Ɲɛnamaya kɛcogo bɛɛ",
+    "ph_name": "i tɔgɔ",
+    "ph_email": "aw ye@company.com ye",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Aw ka sosiyete",
+    "ph_country": "Jamana",
+    "ph_message": "Aw bɛ baara kɛ cogo min na bi, aw k’o fɔ an ye",
+    "privacy_before": "N bɛ sɔn ka baara kɛ ni n ka kunnafoniw ye ka kɛɲɛ ni...",
+    "privacy_after": ".",
+    "submit": "Delili ci",
+    "sent_title": "An b’i ka ɲinini sɔrɔ",
+    "sent_text": "A' ni cɛ. Feerekɛlaw ka jɛkulu bɛna sɛbɛn ci i ma walasa ka demokarasi ɲɛnabɔ walima k’i ka ɲininkali jaabi.",
+    "error_required": "Aw ye nin foro in dafa.",
+    "error_email": "I ka email sɛbɛn dɔ sɛbɛn min bɛ se ka kɛ.",
+    "error_phone": "Telefɔni lajɛ.",
+    "error_privacy": "An mago bɛ i ka sɔnni na walasa ka baara kɛ ni mɔgɔw ka kunnafoniw ye.",
+    "error_csrf": "Session (lajɛ) waati tɛmɛna. Aw ye sɛbɛnfura ci kokura.",
+    "error_save": "An ma se ka ɲinini in kisi. Aw bɛ segin ka a lajɛ.",
+    "error_generic": "Foro minnu taamasiyɛn kɛra, aw bɛ segin olu kan.",
+    "error_rate": "Aw ye waati dɔɔnin makɔnɔ sani aw ka ɲinini wɛrɛ kɛ.",
+    "team_options": {
+      "1-10": "Mɔgɔ 1 ka se mɔgɔ 10 ma",
+      "11-50": "Mɔgɔ 11 fo 50",
+      "51-200": "mɔgɔ 51 fo ka se mɔgɔ 200 ma",
+      "201-500": "mɔgɔ 201 ka se mɔgɔ 500 ma",
+      "500+": "Mɔgɔ 500 ni kɔ"
+    }
+  },
+  "video": {
+    "title": "FullVendor miniti kelen kɔnɔ",
+    "prev": "Kɔrɔlen",
+    "next": "Ɲɛfɛta",
+    "slides": [
+      {
+        "title": "Ɲɛnamaya kɛcogo kelen",
+        "text": "Feere, fɛnmarayɔrɔ, fɛnw lase, sanni ani wariko tila kiliyanw, stock ani komandiw."
+      },
+      {
+        "title": "Web ni mobili ye ɲɔgɔn fɛ",
+        "text": "Biro bɛ baara kɛ plateforme kan. Nbɛda ni depo, apps kɔnɔ, hali ni signal tɛ."
+      },
+      {
+        "title": "A dilannen don walasa ka tila-tila",
+        "text": "K’a ta komandi la ka se wari sarali ma, k’a sɔrɔ kunnafoniw ma tɛmɛn dosiye dɔ kan ka taa dosiye wɛrɛ la."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Aw ye fɛnw ɲini, furaw, iziniw...",
+    "lang_filter": "Ɲini kan",
+    "intro": "Fɛnw, furaw, iziniw ani nafolo ɲini.",
+    "empty": "An ma jaabiw sɔrɔ “{q}” kan.",
+    "hint": "Aw bɛ feereli, fɛnmarayɔrɔ, siraw walima fɛnw dalajɛcogo lajɛ.",
+    "results": "{n} jaabiw",
+    "button": "Aw ye a ɲini",
+    "kind_product": "Ka kɛ",
+    "kind_solution": "Fɛɛrɛ",
+    "kind_industry": "Ɛndisiri",
+    "kind_resource": "Nafolo min bɛ sɔrɔ"
+  },
+  "notfound": {
+    "title": "Nin ɲɛ in tɛ",
+    "text": "O jɛgɛnsira tɛ yen walima a yɔrɔ Changé."
+  },
+  "common": {
+    "what": "Min bɛ ɲɛnabɔ",
+    "features": "Min bɛ a kɔnɔ",
+    "benefits": "Mun na o nafa ka bon",
+    "for_who": "A bɛ kɛ jɔn de kama?",
+    "related": "Fana, ɲɛnamaya kɛcogo la"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Feereli bi",
+      "orders": "Komanw (orders) minnu bɛ kɛ",
+      "clients": "Kunnafonidila minnu bɛ yen",
+      "products": "Fɛn minnu bɛ dilan"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard (Dashboard) ye",
+      "sales": "Feereli",
+      "purchases": "Sanni",
+      "inventory": "Jatebɔ",
+      "clients": "Kunnafonidila minnu bɛ yen",
+      "reports": "Rapportw"
+    },
+    "chart": "Feereli",
+    "channel": "A jɛnsɛnni ka kɛɲɛ ni kanw ye",
+    "channels": [
+      "Butigi",
+      "Ɲinli",
+      "Wholesale (Jɛkulu feerela).",
+      "Dɔ wɛrɛw"
+    ],
+    "orders": "Koman labanw",
+    "col_order": "Ci",
+    "col_client": "Sannikɛla",
+    "col_status": "Faso",
+    "col_total": "Kasabi",
+    "status": [
+      "Jiginni",
+      "Sira kan",
+      "Tulolanɛgɛ"
+    ],
+    "top": "Fɛn minnu bɛ feere kosɛbɛ",
+    "product": "Ka kɛ",
+    "sales_menu": [
+      "Kunnafonidila minnu bɛ yen",
+      "Komanw (orders) minnu bɛ kɛ",
+      "Fɛn minnu bɛ dilan",
+      "Sira minnu bɛ yen",
+      "A ka baara kɛ ɲɔgɔn fɛ"
+    ],
+    "warehouse_menu": [
+      "Donda",
+      "Picking (Picking) ye",
+      "Jatebɔ",
+      "Ka ci",
+      "A ka baara kɛ ɲɔgɔn fɛ"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Kunnafoni dogolenw maracogo",
+    "privacy_intro": "Nin sariya in b’a ɲɛfɔ an bɛ min kɛ ni kunnafoniw ye i bɛ minnu to sɛbɛnw kɔnɔ nin yɔrɔ in kan.",
+    "privacy": [
+      {
+        "title": "An bɛ kunnafoni minnu lajɛ",
+        "text": "Ni i ye demo ɲini walima ka sɛbɛn ci an ma, an bɛ tɔgɔ, sosiyete, email, telefɔni nimɔrɔ mara n’i y’a jira, jamana, ekipu bonya, i diyanye fɛn ani cikan. An bɛ don fana sɛbɛn, ɲɛ kan ani IP ladɛrɛsi, walasa ka cikan juguw bali."
+      },
+      {
+        "title": "An bɛ baara kɛ n’u ye mun na?",
+        "text": "An bɛ baara kɛ ni nin kunnafoniw ye dɔrɔn walasa ka jaabi di i ma, ka demo dɔ labɛn ani ka jagokɛcogo dɔ labɛn. An t’u feere wala k’u di mɔgɔ wɛrɛw ka lisi ma."
+      },
+      {
+        "title": "U bɛ mara yɔrɔ jumɛn ani u bɛ mara waati joli kɔnɔ?",
+        "text": "Deliliw bɛ mara nin yɔrɔ in ka sèrwɛri kan. An b’u mara waati min ka kan ka baara kɛ i ye ani jagokɛlaw ka tugu-tugu-ɲɔgɔn kɔ, wa an b’u bɔ yen ni i y’a ɲini an fɛ walima ni u mago tɛ u la tugun."
+      },
+      {
+        "title": "Aw ka josariyaw",
+        "text": "I bɛ se k’a ɲini ka don, k’i ka kunnafoniw latilen walima k’u bɔ yen ka bɔ kunnafonisɛbɛn kɔnɔ, k’o jira cikan kɔnɔ. Ni sosiyete ye bataki dɔ bɔ nin siti in kan, i bɛ se fana ka sɛbɛnni kɛ yen."
+      }
+    ],
+    "terms_title": "Baarakɛcogo sariyaw",
+    "terms_intro": "Nin sariyaw bɛ tali kɛ baara kɛli la ni nin FullVendor cikan yɔrɔ ye.",
+    "terms": [
+      {
+        "title": "Jago kunnafoniw",
+        "text": "Sɛbɛnw, misali dashboard jatew ani ɲɛfɔliw bɛ plateforme (jɔyɔrɔ) jira. U bɛ se ka ladilan ni fɛn dilannen bɛ Changé, wa u tɛ fɛn dagalen ye."
+      },
+      {
+        "title": "Demo tɛ kontra ye",
+        "text": "Ni i ye sɛbɛn ci, o tɛ wajibi don i ka sanni walima sɔngɔ dɔ mara. Kontra o bɛnkan bɛ bɛn a danma, sɛbɛn fɛ, n’a bonya n’a cogoyaw ye."
+      },
+      {
+        "title": "Site kɔnɔkow",
+        "text": "FullVendor jagokɛyɔrɔ taamasiyɛn, fɛn dilannenw tɔgɔw ani o ɲɛw kɔnɔkow ye u tigiw ta ye. U tɛ se ka kopi kɛ walasa ka fɛn wɛrɛ jira."
+      },
+      {
+        "title": "Baarakɛcogo min bɛ sɔn",
+        "text": "Kana baara kɛ ni sɛbɛnw ye walisa ka kunnafoni nkalonmaw, spam walima kunnafoniw ci minnu tɛ sariya kɔnɔ. An bɛ se ka an janto ɲininiw na minnu tɛ bɛn jago baro yɛrɛyɛrɛ ma."
+      }
+    ]
+  }
+}

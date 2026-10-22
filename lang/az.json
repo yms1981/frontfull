@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Biznesinizi idarə edin və inkişaf etdirin",
+    "home_desc": "Dağıtım, satış, logistika, satınalma, inventar və maliyyə üçün veb və mobil həlləri ilə hamısı bir yerdə platforma.",
+    "products_title": "Məhsullar | FullVendor",
+    "products_desc": "FullVendor ekosistemi ilə tanış olun: kommersiya platforması, ERP, logistika, təchizatçılar və satışlar, anbar və maliyyə proqramları.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Həllər | FullVendor",
+    "solutions_desc": "Kommersiya idarəetməsi, satış gücü, anbar, logistika, satınalma və maliyyə üçün həllər.",
+    "industries_title": "Sənaye | FullVendor",
+    "industries_desc": "FullVendor paylama, pərakəndə satış, qida, aptek, aparat, kütləvi istehlak, istehsal və son mil üçün.",
+    "pricing_title": "Qiymətlər | FullVendor",
+    "pricing_desc": "Əsas, Peşəkar və Korporativ Planlar. Təklif modullara, istifadəçilərə və həcmə görə bir araya gətirilir.",
+    "resources_title": "Resurslar | FullVendor",
+    "resources_desc": "Paylanmanı birləşdirmək, oflayn satmaq, anbarı təşkil etmək və vaxtında ödəniş etmək üçün qısa təlimatlar.",
+    "contact_title": "Əlaqə | FullVendor",
+    "contact_desc": "FullVendor haqqında öyrənmək və ya satış komandası ilə söhbəti əlaqələndirmək üçün bizə yazın.",
+    "demo_title": "Demo tələb | FullVendor",
+    "demo_desc": "FullVendor-in demosunu tələb edin və əməliyyatınıza bənzər bir iş ilə platformanı gəzin.",
+    "privacy_title": "Məxfilik | FullVendor",
+    "terms_title": "Şərtlər | FullVendor",
+    "search_title": "Axtar | FullVendor",
+    "notfound_title": "Səhifə tapılmadı | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Əsas səhifə",
+    "products": "Məhsullar",
+    "solutions": "Həll yolları",
+    "industries": "sənayelər",
+    "pricing": "Qiymətlər",
+    "resources": "Resurslar",
+    "contact": "Əlaqə",
+    "open_menu": "Menyu açın",
+    "close": "Bağlayın"
+  },
+  "cta": {
+    "demo": "Demo tələb edin",
+    "contact": "Bizimlə əlaqə saxlayın",
+    "video": "Videoya baxın",
+    "talk": "Satışlarla danışın",
+    "all_products": "Bütün məhsullara baxın",
+    "home": "Əsas səhifəyə qayıt"
+  },
+  "a11y": {
+    "skip": "Məzmuna keçin",
+    "primary": "Əsas naviqasiya",
+    "crumbs": "Naviqasiya marşrutu",
+    "search": "axtarın",
+    "language": "Dil"
+  },
+  "hero": {
+    "eyebrow": "Hamısı bir platformada",
+    "title": "İdarə edin və böyüdün\nilə işiniz\n{{brand}}",
+    "subtitle": "Dağıtım, satış, logistika, satınalma, inventar, maliyyə və sair üçün veb və mobil həlləri olan tam platforma.",
+    "pill_ecosystem": "Hər şey bir ekosistemdə",
+    "pill_cloud": "Buludda, təhlükəsiz və genişləndirilə bilən",
+    "pill_size": "Hər ölçüdə şirkətlər üçün"
+  },
+  "products_block": {
+    "eyebrow": "Məhsullarımız",
+    "title": "Biznesinizin hər bir sahəsi üçün [[tam ekosistem]]",
+    "aside": "Sizə tam nəzarət, əməliyyat səmərəliliyi və daha böyük artım vermək üçün birlikdə işləyən inteqrasiya olunmuş həllər.",
+    "groups": {
+      "money": "İdarəetmə və kolleksiya",
+      "flow": "Satınalma və çatdırılma",
+      "field": "Satış və anbar"
+    }
+  },
+  "products_page": {
+    "title": "Yeddi məhsul, [[tək əməliyyat]]",
+    "text": "Hər bir məhsul bir sahəni həll edir. Onlar birlikdə müştəriləri, səhmləri, sifarişləri və ödənişləri bölüşürlər."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Kommersiya idarəetməsi və paylanması üçün əsas platforma.",
+      "features": [
+        "Satış və alışlar",
+        "İnventar",
+        "Müştərilər və təchizatçılar",
+        "Hesabatlar və daha çox"
+      ],
+      "lead": "Kommersiya əməliyyatınızın mərkəzi: sifarişlər, qiymətlər, ehtiyatlar və müştərilər bir yerdə.",
+      "about": "FullVendor distribyutorun boş cədvəllərini və sistemlərini əvəz edir. Buradan sifarişlər çıxır, inventarla məsləhətləşir, müştəri portfelinə diqqət yetirilir və günün nömrələrinə baxılır. Ekosistemin qalan hissəsi bu bazaya bağlanır.",
+      "benefits": [
+        {
+          "title": "Tək məlumat ustası",
+          "text": "Müştərilər, məhsullar və qiymətlər satış, anbar və maliyyə ilə paylaşılır."
+        },
+        {
+          "title": "Gündəlik əməliyyatı təmizləyin",
+          "text": "Sifarişlər, alışlar və səhmlər fərqli fayllarda yaşamağı dayandırır."
+        },
+        {
+          "title": "Qərar vermək üçün hesabatlar",
+          "text": "Satışlar, marja və gözləntilər masanı əl ilə birləşdirmədən görünür."
+        },
+        {
+          "title": "Böyüməyə hazırdır",
+          "text": "Logistika, satış qüvvəsi və ya əməliyyat tələb etdikdə ERP məbləğləri."
+        }
+      ],
+      "audience": "Bu gün bir neçə sistem arasında işi koordinasiya edən kommersiya və paylama qrupları."
+    },
+    "erp": {
+      "kicker": "İdarəetmə",
+      "card": "Tam inzibati və maliyyə idarəetməsi.",
+      "features": [
+        "Mühasibat uçotu",
+        "Elektron faktura",
+        "İş vərəqləri",
+        "Əsas vəsaitlər",
+        "Çox şirkət"
+      ],
+      "lead": "İdarəetmə və maliyyə, əslində satılan və çatdırılan şeylərlə uyğunlaşdırılır.",
+      "about": "FullVendor ERP mühasibat uçotu, elektron qaimə-faktura, əmək haqqı hesabatları, əsas vəsaitlər və çox şirkətləri əhatə edir. O, kommersiya əməliyyatını götürür və onu maliyyə sahəsinin istifadə edə biləcəyi qeydlərə, qəbzlərə və hesabatlara çevirir.",
+      "benefits": [
+        {
+          "title": "Bağlı mühasibatlıq",
+          "text": "Satış və satınalmalarda baş verənlər mühasibat uçotunu təmin edir."
+        },
+        {
+          "title": "Elektron qəbzlər",
+          "text": "Siz eyni ekosistemdən faktura verir və ona nəzarət edirsiniz."
+        },
+        {
+          "title": "Müxtəlif şirkətlər",
+          "text": "Birdən çox şirkət adı altında fəaliyyət göstərən qruplar üçün çox şirkət."
+        },
+        {
+          "title": "Əmək haqqı və aktivlər",
+          "text": "Rəhbərliyin qalan hissəsi ilə birlikdə əmək haqqı və əsas vəsaitlər."
+        }
+      ],
+      "audience": "İnzibati və maliyyə sahələrində rəqəmləri bağlamaq istəyən real əməliyyat."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Logistika əməliyyatlarınıza nəzarət və monitorinq.",
+      "features": [
+        "Marşrutlar və çatdırılma",
+        "Real vaxtda izləmə",
+        "Sürücü tapşırığı",
+        "Marşrutun optimallaşdırılması"
+      ],
+      "lead": "Sifarişdən çatdırılmaya qədər: marşrutlar, sürücülər və real vaxt izləmə.",
+      "about": "FullVendor Logistics paylanmasını təşkil edir. Siz marşrutlar yaradırsınız, sürücülər təyin edirsiniz və hər bir çatdırılmanın hara getdiyini görürsünüz. Sifarişin göndərilib-söndürülmədiyini öyrənmək üçün trafik qrupu zənglərdən asılı olaraq dayanır.",
+      "benefits": [
+        {
+          "title": "Günün marşrutları",
+          "text": "Çatdırılmalar zona, vaxt pəncərəsi və tutum üzrə sifariş edilir."
+        },
+        {
+          "title": "Təyin edilmiş sürücü",
+          "text": "Hər bir marşrutun məsul şəxsi və aydın ardıcıllığı var."
+        },
+        {
+          "title": "Təqib",
+          "text": "Nə çatdırıldığını, yolda və ya dayandığını bilirsiniz."
+        },
+        {
+          "title": "Daha az kilometr",
+          "text": "Marşrutun optimallaşdırılması çatdırılma vaxtını və dəyərini azaldır."
+        }
+      ],
+      "audience": "Öz donanması və ya üçüncü tərəflərlə paylama əməliyyatları."
+    },
+    "supplier": {
+      "kicker": "Alış-veriş",
+      "card": "Təchizatçılar və satınalmaların idarə edilməsi üçün portal.",
+      "features": [
+        "Satınalma sifarişləri",
+        "Sitatlar",
+        "Təchizatçıların idarə edilməsi",
+        "İnventarla inteqrasiya"
+      ],
+      "lead": "Təchizatçılarınız sitat gətirir, sifarişlər alır və ehtiyatı boş e-poçtlar olmadan doldurur.",
+      "about": "Vendor Supplier eyni sifarişlər üzərində işləmək üçün alışlar və təchizatçılar üçün portal açır. Kotirovkalar, satınalma sifarişləri və qəbz FullVendor inventarına bağlıdır.",
+      "benefits": [
+        {
+          "title": "Kanalda sifarişlər",
+          "text": "Təchizatçı e-poçt zənciri olmadan nə çatdıracağını görür."
+        },
+        {
+          "title": "Müqayisə edilə bilən sitatlar",
+          "text": "Siz qiymətləri soruşursunuz və tarixçəni nəzərə alaraq seçim edirsiniz."
+        },
+        {
+          "title": "Təchizatçı Master",
+          "text": "Şərtlər, kontaktlar və tək qeyddə gözləyənlər."
+        },
+        {
+          "title": "İnventar daxil edin",
+          "text": "Alınan şey alındıqda anbarda əks olunur."
+        }
+      ],
+      "audience": "Bir neçə təchizatçı ilə doldurulan və izlənilməyə ehtiyacı olan satınalma qrupları."
+    },
+    "salesman": {
+      "kicker": "Mobil proqram",
+      "card": "Satış komandası üçün mobil proqram.",
+      "features": [
+        "Müştəri idarəetməsi",
+        "Sifariş qəbulu",
+        "Məhsul kataloqu",
+        "Offline iş"
+      ],
+      "lead": "Satış qüvvəsi siqnallı və ya siqnalsız sifarişləri küçədə qəbul edir.",
+      "about": "FullVendor Sales Man portfelinizi, kataloqunuzu və sifarişinizi satıcının telefonuna qoyur. İnternet yoxdursa, iş davam edir və siqnal qayıtdıqda sinxronizasiya edilir. Sifariş hazırlanmağa və çatdırılmağa hazırdır.",
+      "benefits": [
+        {
+          "title": "Cibdə pul kisəsi",
+          "text": "Satıcı müştəriləri, şərtləri və gözlənilən əşyaları görür."
+        },
+        {
+          "title": "Ziyarət zamanı sifariş edin",
+          "text": "Mövcud qiymətlər və stokla sifariş edin."
+        },
+        {
+          "title": "Kataloq aktualdır",
+          "text": "Köhnə PDF olmadan məhsullar, təqdimatlar və qiymətlər."
+        },
+        {
+          "title": "Real oflayn",
+          "text": "Əhatəsiz işləyin və sonra sinxronlaşdırın."
+        }
+      ],
+      "audience": "Dağıtım və kütləvi istehlakda nəzarətçilər və sahə satıcıları."
+    },
+    "warehouse": {
+      "kicker": "Mobil proqram",
+      "card": "Anbar üçün mobil proqram.",
+      "features": [
+        "Qəbul və göndərmə",
+        "Seçmə və qablaşdırma",
+        "İnventar nəzarəti",
+        "Barkod oxu"
+      ],
+      "lead": "Telefon və barkod ilə qəbul, götürmə və göndərmə.",
+      "about": "FullVendor Warehouse anbarın qəbulu, yığılması, qablaşdırılması və göndərilməsinə rəhbərlik edir. Kodların oxunması səhvləri azaldır və inventar artıq yalnız ayın sonunda hesablanmır.",
+      "benefits": [
+        {
+          "title": "Sifariş əleyhinə qəbul",
+          "text": "Daxil olan alışla müqayisə edilir."
+        },
+        {
+          "title": "Məqsədli toplama",
+          "text": "Gəmi sahibi sifarişə əməl edir və hər bir əşyanı təsdiqləyir."
+        },
+        {
+          "title": "Barkodlar",
+          "text": "Daha az məhsul, partiya və ya kəmiyyət səhvləri."
+        },
+        {
+          "title": "Etibarlı ehtiyat",
+          "text": "Hər bir hərəkət platformanın inventarını yeniləyir."
+        }
+      ],
+      "audience": "Bu gün çap siyahıları ilə sifarişlər hazırlayan anbar rəhbərləri və gəmi sahibləri."
+    },
+    "finance": {
+      "kicker": "Mobil proqram",
+      "card": "Mobil telefonunuzdan maliyyə nəzarəti.",
+      "features": [
+        "Debitor və kreditor borcları",
+        "Müştəri statusu",
+        "Ödənişlər və uzlaşmalar",
+        "Maliyyə hesabatları"
+      ],
+      "lead": "Debitor borcları, ödənişlər və müştəri statusu, telefonunuzdan.",
+      "about": "FullVendor Finance mobil telefonda yığımı göstərir: hər bir müştərinin nə borcu var, şirkət nə ödəmək üzrədir və ödənişlər necə gəlir. Ziyarət zamanı pul yığmaq və stolu açmadan kassaya baxmaq üçün istifadə olunur.",
+      "benefits": [
+        {
+          "title": "Səfər zamanı kolleksiya",
+          "text": "Satıcı, satışdan əvvəl müştərinin aktual olub-olmadığını bilir."
+        },
+        {
+          "title": "Debitor və ödənilməli",
+          "text": "Eyni proqramda qutunun hər iki tərəfi."
+        },
+        {
+          "title": "Ödənişlər və uzlaşmalar",
+          "text": "Siz kreditləri qeyd edirsiniz və nəyin keçməsi lazım olduğunu görürsünüz."
+        },
+        {
+          "title": "Əldə olan hesabatlar",
+          "text": "Kolleksiya və nağd göstəricilərin bağlanmasını gözləmədən."
+        }
+      ],
+      "audience": "Hazırda müştərinin vəziyyətinə ehtiyacı olan menecerlər, kolleksiyaçılar və satış işçiləri."
+    }
+  },
+  "why": {
+    "eyebrow": "Niyə FullVendor",
+    "title": "Biznesinizi gücləndirin\nreal nəticələrlə",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Şirkətlər bizə güvənir"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiv istifadəçilər"
+      },
+      {
+        "value": "+10",
+        "suffix": "illər",
+        "label": "Daimi təkamüldə"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Buludun mövcudluğu"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Necə işləyir",
+    "title": "Sistemləri dəyişdirmədən satışdan kolleksiyaya",
+    "text": "Hər bir məhsul müştəriləri, səhmlərini, sifarişlərini və ödənişlərini bölüşür. Küçədə və ya anbarda baş verənlər dərhal ofisdə görünür.",
+    "steps": {
+      "sell": {
+        "title": "satarsan",
+        "text": "Sifariş internet saytından və ya Sales Man vasitəsilə hətta siqnal olmadan da daxil edilir."
+      },
+      "pick": {
+        "title": "Hazır",
+        "text": "Warehouse ştrix kodu ilə qəbul edir, ayırır və göndərir."
+      },
+      "deliver": {
+        "title": "Çatdırılmalar",
+        "text": "Logistics marşrut təyin edir və çatdırılmanı izləyir."
+      },
+      "collect": {
+        "title": "Kobralar",
+        "text": "Finance və ERP kolleksiyanı, qəbzləri və nömrələri bağlayır."
+      }
+    }
+  },
+  "band": {
+    "title": "Onu [[əməliyyatınız]] ilə görməyə hazırsınız?",
+    "text": "Biz sizə sizinkinə bənzər paylama qutusu olan ekosistemi göstəririk."
+  },
+  "footer": {
+    "blurb": "Dağıtım, satış, logistika, satınalma, inventar və maliyyə üçün veb və mobil platforma.",
+    "products": "Məhsullar",
+    "company": "Şirkət",
+    "legal": "Hüquqi",
+    "privacy": "Məxfilik",
+    "terms": "Şərtlər",
+    "rights": "Bütün hüquqlar qorunur."
+  },
+  "solutions": {
+    "eyebrow": "Həll yolları",
+    "title": "[[eyni əməliyyat]] ilə əlaqəli hər bir sahə",
+    "intro": "Həll etmək istədiyiniz problemə görə seçin. Arxasında məhsullar eyni məlumatları paylaşır.",
+    "items": {
+      "commercial": {
+        "title": "Kommersiya idarəetməsi",
+        "text": "Sifarişlər, qiymətlər, müştərilər və gündəlik paylama üçün inventar."
+      },
+      "field": {
+        "title": "satış qüvvəsi",
+        "text": "Küçədə, onlayn və ya oflayn olaraq sifariş qəbul edən satıcılar."
+      },
+      "warehouse": {
+        "title": "Mağaza",
+        "text": "Qəbul, toplama, göndərmə və etibar edilə bilən ehtiyat."
+      },
+      "logistics": {
+        "title": "Logistika və çatdırılma",
+        "text": "Marşrutlar, sürücülər və hər bir çatdırılmanın vəziyyəti."
+      },
+      "purchasing": {
+        "title": "Satınalma və təchizatçılar",
+        "text": "Sitatlar, sifarişlər və sizi təmin edənlər üçün portal."
+      },
+      "finance": {
+        "title": "Maliyyə və mühasibat uçotu",
+        "text": "Yığımlar, ödənişlər, elektron hesablaşma və mühasibatlıq."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "sənayelər",
+    "title": "[[məhsulu daşıyanlar] üçün hazırlanmışdır",
+    "intro": "FullVendor distribyutorda doğulub və satın alan, saxlayan, satan və çatdıran şirkətləri müşayiət edir.",
+    "items": {
+      "wholesale": {
+        "title": "Paylanma və topdansatış",
+        "text": "Tək dövrədə qiymət siyahıları, portfel, paylama və kolleksiya."
+      },
+      "retail": {
+        "title": "Pərakəndə satış",
+        "text": "Bağlı ehtiyat, satış və doldurma ilə mağaza və anbar."
+      },
+      "food": {
+        "title": "Qida və içkilər",
+        "text": "Tez-tez marşrutlar və dayana bilməyən anbar."
+      },
+      "pharma": {
+        "title": "Əczaçılıq və şəxsi qulluq",
+        "text": "İzləmə qabiliyyəti ilə qəbul, toplama və inventar nəzarəti."
+      },
+      "hardware": {
+        "title": "Avadanlıq və tikinti",
+        "text": "İşə və ya mağazaya bir çox istinad, təchizatçı və çatdırılma."
+      },
+      "fmcg": {
+        "title": "Kütləvi istehlak",
+        "text": "Küçə satış qüvvəsi və yüksək dövriyyənin dəyişdirilməsi."
+      },
+      "manufacturing": {
+        "title": "İstehsal",
+        "text": "Satınalma, anbar və inventar idarəetmə ilə uyğunlaşdırılır."
+      },
+      "lastmile": {
+        "title": "Çatdırılma və son mil",
+        "text": "Marşrutlar, sürücülər və hər bir çatdırılmanın vəziyyəti."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resurslar",
+    "title": "[[əməliyyatı sifariş etmək]] üçün aydın ideyalar",
+    "intro": "Hansı sistemə sadiq qalacağına qərar verən paylama menecerləri üçün qısa təlimatlar.",
+    "items": {
+      "unify": {
+        "title": "Paylanmanı vahid sistemdə necə birləşdirmək olar",
+        "summary": "Satışlar, anbarlar və kolleksiyalar müxtəlif fayllarda yaşayarkən ilk növbədə nə bir araya gətirilməlidir.",
+        "points": [
+          "Müştərilərdən, məhsullardan və qiymətlərdən başlayın: onlar hər kəsin istifadə etdiyi müəllimdir.",
+          "Daha çox proqram əlavə etməzdən əvvəl sifarişi ehtiyatla birləşdirin.",
+          "Sadə bir rəqəmi ölçür: sifarişlər formanı dəyişdirmədən yerinə yetirilir."
+        ]
+      },
+      "offline": {
+        "title": "Satış qrupu oflayn işləyir",
+        "summary": "Sifariş verən proqramdan nə tələb edilməlidir ki, satıcı siqnala görə dayanmasın.",
+        "points": [
+          "Kataloq və pul kisəsi yalnız buludda deyil, telefonda olmalıdır.",
+          "Sifariş cihazda saxlanılır və şəbəkə qayıdanda yüklənir.",
+          "Sinxronizasiya zamanı sifariş artıq anbara daxil olur."
+        ]
+      },
+      "warehouse": {
+        "title": "Barkodlu, kağızsız anbar",
+        "summary": "Çap edilmiş siyahıdan telefonda təsdiqlənmiş seçimə necə keçmək olar.",
+        "points": [
+          "Yaddaş əleyhinə deyil, satınalma sifarişinə qarşı alın.",
+          "Ayırarkən hər bir elementi təsdiqləyin. Böcək dəhlizə daxil olur.",
+          "Göndərmə satıcının gördüyü ehtiyatı yeniləyir."
+        ]
+      },
+      "finance": {
+        "title": "Kolleksiya satışa uyğunlaşdırılıb",
+        "summary": "Niyə satıcı başqa bir sifariş almadan əvvəl müştərinin borcunu görməlidir.",
+        "points": [
+          "Ziyarət, borc görünsə, toplamaq üçün ən yaxşı vaxtdır.",
+          "Satış və maliyyə eyni müştəriyə baxmalıdır.",
+          "Gündəlik vaxtı keçmiş hesabat gec bağlanmadan daha dəyərlidir."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Qiymətlər",
+    "title": "[[sizinlə birlikdə böyüyən]] ekosistem",
+    "intro": "Biz ümumi tarifi dərc etmirik: qiymət modullardan, istifadəçilərdən və həcmdən asılıdır. Sizə platformanı göstəririk və əməliyyatınızla bir təklif hazırlayırıq.",
+    "note": "Demonun heç bir dəyəri yoxdur və müqavilə tələb etmir.",
+    "recommended": "Tövsiyə olunur",
+    "faq_title": "Tez-tez verilən suallar",
+    "plans": {
+      "essential": {
+        "name": "Vacibdir",
+        "desc": "Bir platformada kommersiya idarəetməsini və paylanmasını təşkil etmək.",
+        "features": [
+          "FullVendor veb platforması",
+          "Satış, alış və inventar",
+          "Müştərilər, təchizatçılar və hesabatlar",
+          "Ofis avadanlıqlarının istifadəçiləri",
+          "Başlanğıc dəstəyi"
+        ],
+        "cta": "Demo tələb edin"
+      },
+      "professional": {
+        "name": "Peşəkar",
+        "desc": "Küçədə satış edən və anbarda sifariş hazırlayan komandalar üçün.",
+        "features": [
+          "Hər şey Essential",
+          "Tətbiq FullVendor Sales Man",
+          "Tətbiq FullVendor Warehouse",
+          "Offline iş və barkodlar",
+          "Daha çox sahə və anbar istifadəçisi"
+        ],
+        "cta": "Demo tələb edin"
+      },
+      "corporate": {
+        "name": "Korporativ",
+        "desc": "Logistika, satınalma, maliyyə və müxtəlif şirkətlərə ehtiyacı olan qruplar üçün.",
+        "features": [
+          "Tam ekosistem",
+          "Logistics, Vendor Supplier və Finance",
+          "FullVendor ERP və çox kirayəlik",
+          "Elektron hesablama və mühasibatlıq",
+          "Müşayiət və prioritet mövcudluq"
+        ],
+        "cta": "Satışlarla danışın"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Bütün məhsulları almalıyam?",
+        "a": "Xeyr. Siz FullVendor ilə başlaya və əməliyyat lazım olduqda proqramlar və ya ERP əlavə edə bilərsiniz."
+      },
+      "offline": {
+        "q": "Proqramlar internetsiz işləyir?",
+        "a": "Sales Man və Warehouse siqnalsız işləməyə davam edir və yenidən qoşulduqda sinxronizasiya edir."
+      },
+      "multi": {
+        "q": "Birdən çox şirkətim varsa, bu işləyirmi?",
+        "a": "Bəli. ERP multi-şirkəti nəzərdə tutur və ekosistem onlar arasında ustaları paylaşa bilər."
+      },
+      "demo": {
+        "q": "Demoya nə daxildir?",
+        "a": "Sizinkinə bənzər bir kassa ilə platformaya ekskursiya. Heç bir xərc və öhdəlik yoxdur."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Biz sizə [[əməliyyat növünüz]] ilə FullVendor göstəririk",
+    "text": "Bizə şirkətiniz və əvvəlcə nə sifariş etmək istədiyiniz barədə məlumat verin. Demonun heç bir dəyəri yoxdur."
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "title": "[[əməliyyatınız]] haqqında danışaq",
+    "text": "Demo, təklif və ya sadəcə məhsullar arasında yönləndirmək istəyirsinizsə, məlumatınızı buraxın və biz cavab verəcəyik.",
+    "email": "Poçt",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "ad",
+    "email": "Poçt",
+    "phone": "Telefon",
+    "company": "Şirkət",
+    "country": "ölkə",
+    "team": "Komanda ölçüsü",
+    "interest": "Sizi nə maraqlandırır?",
+    "message": "Mesaj",
+    "optional": "Könüllü",
+    "choose": "seçin",
+    "interest_all": "Bütün ekosistem",
+    "ph_name": "sənin adın",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Sizin şirkətiniz",
+    "ph_country": "ölkə",
+    "ph_message": "Bu gün necə işlədiyinizi bizə deyin",
+    "privacy_before": "Məlumatlarımın istifadəsini qəbul edirəm",
+    "privacy_after": ".",
+    "submit": "Sorğu göndərin",
+    "sent_title": "Müraciətinizi alırıq",
+    "sent_text": "təşəkkür edirəm. Satış qrupu nümayişi əlaqələndirmək və ya sualınıza cavab vermək üçün sizə yazacaq.",
+    "error_required": "Bu sahəni doldurun.",
+    "error_email": "Etibarlı e-poçt ünvanını daxil edin.",
+    "error_phone": "Telefonu yoxlayın.",
+    "error_privacy": "Əlaqə məlumatlarından istifadə etmək üçün razılığınız lazımdır.",
+    "error_csrf": "Sessiya müddəti başa çatıb. Formanı yenidən təqdim edin.",
+    "error_save": "Sorğunu saxlaya bilmədik. Yenidən cəhd edin.",
+    "error_generic": "İşarələnmiş sahələri nəzərdən keçirin.",
+    "error_rate": "Başqa sorğu göndərməzdən əvvəl bir az gözləyin.",
+    "team_options": {
+      "1-10": "1-10 nəfər",
+      "11-50": "11-50 nəfər",
+      "51-200": "51-200 nəfər",
+      "201-500": "201-dən 500 nəfərə qədər",
+      "500+": "500-dən çox insan"
+    }
+  },
+  "video": {
+    "title": "FullVendor bir dəqiqə ərzində",
+    "prev": "Keçmiş",
+    "next": "İzləyir",
+    "slides": [
+      {
+        "title": "Vahid ekosistem",
+        "text": "Satış, anbar, çatdırılma, satınalma və maliyyə payı müştərilər, ehtiyatlar və sifarişlər."
+      },
+      {
+        "title": "Veb və mobil birlikdə",
+        "text": "Ofis platformada işləyir. Küçə və anbar, proqramlarda, hətta siqnal olmadan."
+      },
+      {
+        "title": "Yaymaq üçün hazırlanmışdır",
+        "text": "Sifarişdən ödənişə, bir fayldan digərinə məlumat ötürmədən."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Məhsullar, həllər, sənayelər axtarın...",
+    "lang_filter": "Axtarış dili",
+    "intro": "Məhsulları, həlləri, sənayeləri və resursları axtarın.",
+    "empty": "“{q}” üçün nəticə tapmadıq.",
+    "hint": "Satışları, anbarları, marşrutları və ya kolleksiyaları sınayın.",
+    "results": "{n} nəticələr",
+    "button": "axtarın",
+    "kind_product": "Məhsul",
+    "kind_solution": "Həll",
+    "kind_industry": "sənaye",
+    "kind_resource": "Resurs"
+  },
+  "notfound": {
+    "title": "Bu səhifə deyil",
+    "text": "Link mövcud deyil və ya yerini dəyişib."
+  },
+  "common": {
+    "what": "Nə həll edir",
+    "features": "Nə daxildir",
+    "benefits": "Niyə vacibdir",
+    "for_who": "Kim üçündür?",
+    "related": "Həm də ekosistemdə"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Bu gün satış",
+      "orders": "Sifarişlər",
+      "clients": "Müştərilər",
+      "products": "Məhsullar"
+    },
+    "sidebar": {
+      "dashboard": "İdarə paneli",
+      "sales": "Satış",
+      "purchases": "Alış-veriş",
+      "inventory": "İnventar",
+      "clients": "Müştərilər",
+      "reports": "Hesabatlar"
+    },
+    "chart": "Satış",
+    "channel": "Kanallar üzrə paylama",
+    "channels": [
+      "Mağaza",
+      "Paylanma",
+      "Topdan satıcı",
+      "Digərləri"
+    ],
+    "orders": "Ən son sifarişlər",
+    "col_order": "Sifariş verin",
+    "col_client": "Müştəri",
+    "col_status": "dövlət",
+    "col_total": "Cəmi",
+    "status": [
+      "Çatdırıldı",
+      "Yolda",
+      "Sırğa"
+    ],
+    "top": "Ən çox satılan məhsullar",
+    "product": "Məhsul",
+    "sales_menu": [
+      "Müştərilər",
+      "Sifarişlər",
+      "Məhsullar",
+      "Marşrutlar",
+      "Sinxronlaşdırın"
+    ],
+    "warehouse_menu": [
+      "Qəbul",
+      "Seçim",
+      "İnventar",
+      "Göndərmək",
+      "Sinxronlaşdırın"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Məxfilik Siyasəti",
+    "privacy_intro": "Bu siyasət bu saytda formalarda buraxdığınız data ilə nə etdiyimizi izah edir.",
+    "privacy": [
+      {
+        "title": "Hansı məlumatları toplayırıq",
+        "text": "Demo tələb etsəniz və ya bizə yazsanız, adı, şirkəti, e-poçtu, telefon nömrəsini, ölkəni, komandanın ölçüsünü, maraq doğuran məhsulu və mesajı qeyd etsəniz yadda saxlayırıq. Biz həmçinin təhqiramiz təqdimatların qarşısını almaq üçün tarixi, səhifənin dilini və IP ünvanını qeyd edirik."
+      },
+      {
+        "title": "Onları nə üçün istifadə edirik?",
+        "text": "Biz bu məlumatlardan yalnız sizə cavab vermək, demonu koordinasiya etmək və kommersiya təklifi hazırlamaq üçün istifadə edirik. Biz onları satmırıq və ya üçüncü şəxslərin siyahısına vermirik."
+      },
+      {
+        "title": "Onlar harada və nə qədər saxlanılır?",
+        "text": "Sorğular bu saytın serverində saxlanılır. Biz onları sizə xidmət etmək və kommersiya təqibi üçün lazım olan vaxt ərzində saxlayırıq və bizdən xahiş etdikdə və ya ehtiyac olmadıqda onları silirik."
+      },
+      {
+        "title": "Hüquqlarınız",
+        "text": "Siz mesajda göstərərək məlumatlarınıza giriş, düzəliş və ya silinməsini əlaqə formasından tələb edə bilərsiniz. Əgər şirkət bu saytda e-poçt göndərirsə, siz də ora yaza bilərsiniz."
+      }
+    ],
+    "terms_title": "İstifadə şərtləri",
+    "terms_intro": "Bu şərtlər bu FullVendor təqdimetmə saytının istifadəsinə aiddir.",
+    "terms": [
+      {
+        "title": "Kommersiya məlumatı",
+        "text": "Mətnlər, nümunə tablosuna rəqəmlər və təsvirlər platformanı təqdim edir. Onlar məhsul dəyişdikdə düzəldilə bilər və qapalı təklif deyil."
+      },
+      {
+        "title": "Demo müqavilə deyil",
+        "text": "Formanın təqdim edilməsi qiymət almaq və ya rezerv etmək öhdəliyi yaratmır. İstənilən müqavilə əhatə dairəsi və şərtləri ilə ayrıca, yazılı şəkildə razılaşdırılır."
+      },
+      {
+        "title": "Sayt məzmunu",
+        "text": "FullVendor ticarət nişanı, məhsul adları və bu səhifələrin məzmunu onların sahiblərinə məxsusdur. Başqa məhsul təqdim etmək üçün onları kopyalamaq olmaz."
+      },
+      {
+        "title": "Məqbul istifadə",
+        "text": "Yalan məlumat, spam və ya qeyri-qanuni məzmun təqdim etmək üçün formalardan istifadə etməyin. Biz faktiki iş söhbətinə uyğun gəlməyən sorğuları rədd edə bilərik."
+      }
+    ]
+  }
+}

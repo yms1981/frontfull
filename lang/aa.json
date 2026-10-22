@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | isi kabxa xiinisaay dadlis",
+    "home_desc": "Inkih-inki gudgud weeb kee mobaayil fidgaagi meklaay, limo, uwwayti, limo, gino kee maaliyyah.",
+    "products_title": "Murtitte | FullVendor",
+    "products_desc": "Ecosystem FullVendor: tellemmoh platform, ERP, lowsis, lowsis kee lowsis, lowsis kee maaliyyah apps.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Calli | FullVendor",
+    "solutions_desc": "kabxah xiinissoh fidgaagiiy, limmoysiyyi caylaay, riig, uwwaytiiy, limoo kee maaliyyah fidgaagi.",
+    "industries_title": "Sanaqata | FullVendor",
+    "industries_desc": "FullVendor keefiyo, limo, maaqo, farmaasi, harxiweer, ummatta adoobi, murtisso kee ellecabo maayil.",
+    "pricing_title": "Mellebitte | FullVendor",
+    "pricing_desc": "Faxximta, Mehrat kee Eglah ekraaroora. Ekraaro ittat daffeyte moojuulitteey, xoqoysimaa kee xongolol rakitak.",
+    "resources_title": "Gadditte | FullVendor",
+    "resources_desc": "ux miracsentitte keefiyo inkittinaane, suuquntak iroh yaylammeenimi, riig massoosaanam kee waktil mekla geyaanama.",
+    "contact_title": "angaaraw | FullVendor",
+    "contact_desc": "neh uktub FullVendor wagittam barittuh hinnay koobaahise walal limmoysoh butta lih.",
+    "demo_title": "mayballa esser | FullVendor",
+    "demo_desc": "esser mayballa FullVendor kee wacaysir pilaatformi caalat luk ku taama ceela.",
+    "privacy_title": "Cankâ sirri | FullVendor",
+    "terms_title": "waktitte | FullVendor",
+    "search_title": "Goran | FullVendor",
+    "notfound_title": "Gali mageytiminna | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Buxa gali",
+    "products": "Murtitte",
+    "solutions": "Calli",
+    "industries": "Sanaqata",
+    "pricing": "Mellebitte",
+    "resources": "Gadditte",
+    "contact": "Angaarawa",
+    "open_menu": "Fak gaayimat",
+    "close": "Alif"
+  },
+  "cta": {
+    "demo": "Mayballa essera",
+    "contact": "net ongoorow",
+    "video": "yangayye muuc wagita",
+    "talk": "tellemmo lih yab",
+    "all_products": "Inkih tan murtitte wagita",
+    "home": "Buxa gali fan uduur"
+  },
+  "a11y": {
+    "skip": "addatinoh kaqit",
+    "primary": "Leynâ afkan",
+    "crumbs": "Safar gita",
+    "search": "wagita",
+    "language": "Afa yaaba"
+  },
+  "hero": {
+    "eyebrow": "Inkih inki gudgudul",
+    "title": "Xiinisaanam kee dadlisaanam\nku kabxa lih\n{{brand}}",
+    "subtitle": "kibbimte pilaatformi weeb kee mobaayil fidgaagi mekla, limo, lowsis, limo, gino, maaliyyaa kee mangoomu.",
+    "pill_ecosystem": "Kullim dubuk tan dariifa wagal",
+    "pill_cloud": "Qammurreh addat, amaan kee qeedaalisso",
+    "pill_size": "kulli giddakkiino le massoynaanih"
+  },
+  "products_block": {
+    "eyebrow": "Ni murtitte",
+    "title": "A [[kibbimte dariifa wagal]] ku kabxak kulli aracal",
+    "aside": "Amolladi lowsis, abnisso duddaa kee giffole dadal koh yaceenim itta luk taamitan tengeggele fidgaagi.",
+    "groups": {
+      "money": "Xiinisso kee kobxisso",
+      "flow": "Xaamiyyaa kee gudduyso",
+      "field": "limo kee riig"
+    }
+  },
+  "products_page": {
+    "title": "Malcina murtisso, [[inki taama]]",
+    "text": "Kulli murti arac yafdigeh. oson itta luk maqmilwa tabaatabsan, riig, amrittee kee meklaali."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Missoyna",
+      "card": "kabxah xiinissoo kee fixiixissoh lenna gudgud.",
+      "features": [
+        "limo kee limo",
+        "Uwwat badaaqa",
+        "Madruurwa kee meklaaba",
+        "Gabbaaqu kee ossotinah"
+      ],
+      "lead": "ku kabxah taamah fanteena: amritte, mellebitte, riig kee maqmilwa inki aracal.",
+      "about": "FullVendor fixiixisiyyi meklaanam salac le cisab warkat kee maknayitte. takkek amritte tawqeh, gino faysimteh, maqmiilwah portofiilo hanaawimteh ayroh ixximaami wagitte. raqteh tan dariifa wagittaamal ta rakiibo tangoorowe.",
+      "benefits": [
+        {
+          "title": "Inki oyti master",
+          "text": "Madruurwaay, murtittee kee mellebitte limooy, makaaziin kee maaliyyat tabsan."
+        },
+        {
+          "title": "Ayro taama qaddos",
+          "text": "amritteey, limo kee riig baxaabaxsa le sibaabih addat waaraanam soolisan."
+        },
+        {
+          "title": "Margaqah gabbaaqu",
+          "text": "limmoyso, marjin kee qammalsimak tanbulleem qarwali gabat daffeyse kalah."
+        },
+        {
+          "title": "Dadaluh gulguluh yan",
+          "text": "uwwayti, limmoysiyyi cayli hinnay ERP ossotina taama esserta wak."
+        }
+      ],
+      "audience": "kabxaa kee meklah buttaati too asaaku koobaahiseh tellemmo mango maknayitteh fanat."
+    },
+    "erp": {
+      "kicker": "Xiinisso",
+      "card": "Xiinissoo kee maaliyyah xiinissok gaba kalti.",
+      "features": [
+        "Cisab",
+        "Elektirooniik yoofenta",
+        "Taama warkat",
+        "maytani ikoyta",
+        "Mango-koba"
+      ],
+      "lead": "Xiinissoo kee maaliyyah, nummaak limmowtem kee xayyowtem lih massoowele.",
+      "about": "FullVendor ERP akkaawonti, gommodmaliyyoh yoofenta, meklah meklaali, maytani uwwaytii kee mango kampaanitte edde anuk. kabxah taama beytaah, maaliyyah arac edde yantifiqem duudah yan culmaamiiy, yoofentittee kee mascassa fan korsa.",
+      "benefits": [
+        {
+          "title": "Angaaraw le cisab",
+          "text": "maca akkele limo kee limo maaqiddi cisab."
+        },
+        {
+          "title": "Elektirooniik yoofentitte",
+          "text": "Atu caagid kee kobor mekla inkinnale dariifa seeratak."
+        },
+        {
+          "title": "Baxaabaxsale kobitte",
+          "text": "mango kampaanitte buttaatiy tiyaak daga takke kampaanih migaaqal taamitta."
+        },
+        {
+          "title": "Alsiitâ meklaali kee ikoyta",
+          "text": "Mekla mekla kee maytani ikoyta lih raqte xiinissol."
+        }
+      ],
+      "audience": "Xiinissoo kee maaliyyah arooca too ixximaami aliftam faxxam nummah taama."
+    },
+    "logistics": {
+      "kicker": "Lojistik",
+      "card": "lowsis kee lowsis ku uwwaytih taama.",
+      "features": [
+        "Gititte kee gudduyso",
+        "nummah uddur kattat",
+        "Kokkobiseh ugdubay baaha",
+        "Giti maysaasa"
+      ],
+      "lead": "amriik gufne fan: gititte, saniitisa kee nummah uddur kattat.",
+      "about": "FullVendor Logistics keefiyo massoosa. Atu gititte hadlaay, kokkobiseenit mixxaagissa hayteh kulli gufneh gexxam wagit. taraafik butta soolisseh seecooca elle rakittam irol gorrisuh amri ruubem keeh.",
+      "benefits": [
+        {
+          "title": "Ayrok gititte",
+          "text": "Gudduyso massowteh rasul, wakti xangabuu kee duddal."
+        },
+        {
+          "title": "Mixxaagime kokkobise",
+          "text": "Kulli giti saqolti kee qado yaakumik ciggil le."
+        },
+        {
+          "title": "Tiital lakleh",
+          "text": "Atu taaxigeh maca xayyowtem, gital akkek soolissem."
+        },
+        {
+          "title": "Dago kilometeritte",
+          "text": "Giti maysaasa gufneh uddur kee awqenta salcissa."
+        }
+      ],
+      "audience": "meklah abnissoosa isi doonik akkek sidoc haytoh exxa luk."
+    },
+    "supplier": {
+      "kicker": "Xaamiyya",
+      "card": "Xayyoyseenit kee limoh xiinissoh booxa.",
+      "features": [
+        "Xaamiyyi amritte",
+        "Maxcooci",
+        "Xayyoyse xiinissoh",
+        "gino lih agle"
+      ],
+      "lead": "ku meklaaba tagsi, amritte hargaanam kee riig kibneh salac le imeelitte sinnim.",
+      "about": "Vendor Supplier limoh booxa faktam kee meklaanam inki amrittel taamitoonuh. Ascossitte, limoh amrittee kee yoofenta FullVendor gino luk axawah taniimi.",
+      "benefits": [
+        {
+          "title": "Amritte gitah addat",
+          "text": "mekla abe yubleh maca xayyoosaanam, galele asta sinnim."
+        },
+        {
+          "title": "Qeedalsimta maxcooca",
+          "text": "Atu melleb essertam kee aydaadu wagittaamal doorit."
+        },
+        {
+          "title": "Xayyoyse master",
+          "text": "caaloota, angaaraw kee qammalsimtam dubuk tan tasjiilil."
+        },
+        {
+          "title": "gino culus",
+          "text": "maca xaamimteh sugtem hirigte wak riig addat abaabta."
+        }
+      ],
+      "audience": "buttaati xaamiyyi too mango meklaaba luk kibbimtam kee goranto faxxa."
+    },
+    "salesman": {
+      "kicker": "Mobaayil assabalta",
+      "card": "limmoysoh buttah mobaayil assabalta.",
+      "features": [
+        "Madruur xiinisso",
+        "Amri beyaanama",
+        "Murtisso rorsa",
+        "Gitaak iroh tan taama"
+      ],
+      "lead": "limmoysiyyi cayli amritte gital beya, asta luk akkek asta sinnim.",
+      "about": "FullVendor Sales Man isi portofiilo daffes, kataloog kee amri beyta limmoyse silkil. Internet ane week, taama gexsiteleeh, asta taduure wak sitta ceela. amri gulguluh gufeh gufeh gulguluh gacaanam kee wadbisoonuh.",
+      "benefits": [
+        {
+          "title": "Giibi addat yan santa",
+          "text": "limmoyse maqmilwa yableh, caaloota kee qambalsimta duyye."
+        },
+        {
+          "title": "Gufneh amri",
+          "text": "amri awakih melleb kee riig luk bey."
+        },
+        {
+          "title": "rorsi uddur fan",
+          "text": "Murtisso, xayyos kee melleb raagte PDF sinnim."
+        },
+        {
+          "title": "Numma suuquntak iroh",
+          "text": "reebu sinnim taamitaanam kee sarra ittat axawah haanama."
+        }
+      ],
+      "audience": "koobaahise kee booxah tellemmoh maritte keefiyo kee ummatta adoobi."
+    },
+    "warehouse": {
+      "kicker": "Mobaayil assabalta",
+      "card": "makaadin mobaayil assabalta.",
+      "features": [
+        "Arciba kee ruubiyyi",
+        "ugsaanam kee alfenta",
+        "Luddi lowsis",
+        "Baarkoox kiryaati"
+      ],
+      "lead": "Arciba, ugsaanam kee silki kee baarkoox lih ruubaanama.",
+      "about": "FullVendor Warehouse miracsenta makaadin oggol, ugtuma, alfenta kee ruubiyyi. sirri kiryaati aylalokki salcisaah, gino alsak ellecabol dubuk loowimtam hinna.",
+      "benefits": [
+        {
+          "title": "amri sadih arciba",
+          "text": "macaay cultem limot qalalisan."
+        },
+        {
+          "title": "Hadaf le ugtuma",
+          "text": "markab le num amri katayaah umman uwwayti diggoysa."
+        },
+        {
+          "title": "Baarkoox",
+          "text": "Dago murtisso, butta akkek ixximah hoxitte."
+        },
+        {
+          "title": "Numma le riig",
+          "text": "Kulli angoyyi gudgud gino asqassaabe."
+        }
+      ],
+      "audience": "asaaku massoysan riig saqoltii kee markab le mari amritte matbaqah rortat massoosan."
+    },
+    "finance": {
+      "kicker": "Mobaayil assabalta",
+      "card": "maaliyyah lowsis ku silkik.",
+      "features": [
+        "akkaawonti culma kee mekla",
+        "Madruur caalat",
+        "Meklaali kee wagari",
+        "maaliyyah gabbaaqu"
+      ],
+      "lead": "akkaawonti culma, meklaali kee maqmiil caalat, ku silkik.",
+      "about": "FullVendor Finance mobaayil addal tan kobxisso: kulli maqmiil macah lem, kampaani macah meklaanam faxximtam kee meklaanam mannal tamaatem. gufneh uddur lakqo gaaboysaanam kee korsi fake kal lakqo yaysaqarrimeenimih xoqoysil asele.",
+      "benefits": [
+        {
+          "title": "Gufneh uddur kobxisiyyi",
+          "text": "limmoyse yaaxigeh maqmiil uddurtiino luk sugem limmoysak naharal."
+        },
+        {
+          "title": "oggolimtam kee meklimtam",
+          "text": "sandug namma tattab inki assabaltal."
+        },
+        {
+          "title": "Meklaali kee wagari",
+          "text": "Atu abuud taysaqarrimem kee maca taturtam faxximtam wagit."
+        },
+        {
+          "title": "Gabbaaqu gabat yan",
+          "text": "kobxisso kee lakqoh ascossitte alfimtam qammaale kal."
+        }
+      ],
+      "audience": "Awayih ibak maqmiilwah caalat faxah yan saqoltiiy, gaaboyseenit kee limmoyseenit."
+    }
+  },
+  "why": {
+    "eyebrow": "Macaay FullVendor",
+    "title": "Isi kabxa dadlis\nnumma xalu luk",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "kobitte nee taamine"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Abinal yan xoqoysima"
+      },
+      {
+        "value": "+10",
+        "suffix": "liggiditte",
+        "label": "garuq sinni milaagih addat"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Qammurreera geyto"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Mannal taamitam",
+    "title": "limok gaaboyna fan, maknay milaage kal",
+    "text": "Kulli murti maqmilwaay, riig, amrittee kee meklaali tasgalle. Gita akkek makaazin addal tekkem maktabal too wakaak tanbulle.",
+    "steps": {
+      "sell": {
+        "title": "Atu limmosseh",
+        "text": "amri culeh weebsaayitil hinnay Sales Man, walah asta sinnim."
+      },
+      "pick": {
+        "title": "Bicat gaciyya",
+        "text": "Warehouse culma, baxsi kee ruubiyyi baarkoox luk."
+      },
+      "deliver": {
+        "title": "Gudduyso",
+        "text": "Logistics gita mixxaagisam kee gufne kataya."
+      },
+      "collect": {
+        "title": "Kobras",
+        "text": "Finance kee ERP kobxisso alif, yoofenta kee casritte."
+      }
+    }
+  },
+  "band": {
+    "title": "[[ku taama]] lih tabluh gulguluh tanii?",
+    "text": "nanu koo naybulleem ekoosisteem meklah caalat luk koo ceela."
+  },
+  "footer": {
+    "blurb": "Qarok-qariita kee mobaayil pilaatformi keefiyo, limo, uwwayti, limo, gino kee maaliyyah.",
+    "products": "Murtitte",
+    "company": "Missoyna",
+    "legal": "Madqiino leemi",
+    "privacy": "Dubuukiya",
+    "terms": "Ambalal caaloota",
+    "rights": "Kulli Gaaritte daccarsimte."
+  },
+  "solutions": {
+    "eyebrow": "Calli",
+    "title": "Kulli dariifa, [[inki qaynatih taamat]] garayte.",
+    "intro": "door taqbi atu tafdigem faxxa. Derret, murtisso sitta ceela oyta tabissa.",
+    "items": {
+      "commercial": {
+        "title": "kabxah xiinissoh",
+        "text": "amritte, mellebitte, maqmilwa kee gino ayrook ayroh mekla."
+      },
+      "field": {
+        "title": "limmoysoh cayla",
+        "text": "tellemmo amritte beytam gital, suuquntal akkek suuquntak iroh."
+      },
+      "warehouse": {
+        "title": "Dukkaana",
+        "text": "Arciba, ugtuma, ruubiyyi kee riig too taamineemi."
+      },
+      "logistics": {
+        "title": "Lojistik kee gudduyso",
+        "text": "Gititte, saniitisa kee kulli gufneh caalat."
+      },
+      "purchasing": {
+        "title": "Xaamiyyaa kee meklaaba",
+        "text": "maxcoocaay, amrittee kee booxa faxe numuy koh xayyoosa."
+      },
+      "finance": {
+        "title": "maaliyyaa kee cisab",
+        "text": "kobxisso, meklaali, gommodmali cisab kee akkaawonti."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Sanaqata",
+    "title": "too bicsen [[murti yangayye]]",
+    "intro": "FullVendor elle yoobokem fixiixisiyya kee kampaanitteh xaamiyya, kobxisso, limo kee xayyos.",
+    "items": {
+      "wholesale": {
+        "title": "Baxcisiyyi kee Amoladi tellemmo",
+        "text": "Melleb rorsitteey, mayballaataay, keefiyoo kee kobxisso inki maroh addat."
+      },
+      "retail": {
+        "title": "Boqà tellemo",
+        "text": "riig kee makaadin ittat axawah tan riig, limoo kee kibne luk."
+      },
+      "food": {
+        "title": "Maaqo kee maqab",
+        "text": "Qagaaqagitak gitittee kee makaadin too soolam maduuda."
+      },
+      "pharma": {
+        "title": "Farmasi kee cankâ hanaawi",
+        "text": "Arciba, ugtumaa kee gino kobor goranah."
+      },
+      "hardware": {
+        "title": "Harxiweer kee xisne",
+        "text": "mango mangeela, meklaaba kee gufne taamah hinnay riig."
+      },
+      "fmcg": {
+        "title": "ummatta xoqoyso",
+        "text": "Giti limmoysoh cayla kee fayyale maynaqul ciggiilisso."
+      },
+      "manufacturing": {
+        "title": "Murtisso",
+        "text": "Xaamiyyaay, makaaziin kee gino xiinissol massowte."
+      },
+      "lastmile": {
+        "title": "Gudduyso kee ellecabo maayil",
+        "text": "Gititte, saniitisa kee kulli gufneh caalat."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Gadditte",
+    "title": "Qado mablooli [[abnisso massoosaanam]]",
+    "intro": "ux miracsentitte fikiikissoh saqolti manni maknay lih xakbimtam faatacisam faxa.",
+    "items": {
+      "unify": {
+        "title": "Mannal inkittiino keefiyo inki maknayat",
+        "summary": "limo, riig kee kobox baxaabaxsa le faayilitteh addat yan wak naharak ittat maca daffeysaanam faxxintaah.",
+        "points": [
+          "maqmilwak qimbis, murtisso kee melleb: oson kulli num edde yantifiqe barseenit kinnon.",
+          "mango assabaltooti osissaamak naharal massos riig lih ongoorow.",
+          "toh sahlin ixxima tamqikkine: cibta qagitak abe kal amritte kibbimteh."
+        ]
+      },
+      "offline": {
+        "title": "limmoysiyyi cayli firtak iroh taamita",
+        "summary": "maca essertam amri abnissok tonnal limmoyse masoolisa kah kinnim asta.",
+        "points": [
+          "kataloog kee santa silkil takkem faxximta, dubuk qammurre hinna.",
+          "amri yahaazal daanimtem kee retteemah taduure wak takrimte.",
+          "ittat axawah tan uddur, amri naharal elle makaadin fan cula."
+        ]
+      },
+      "warehouse": {
+        "title": "makaadin baarkoox luk, warkat sinnim",
+        "summary": "mannal gexxam matbaqatak rortak diggowteh silkil ugsaanam.",
+        "points": [
+          "xaamiyyi amriik ugutak, mesenkaca qagitak hinna.",
+          "Baxisan wak kulli tii diggos. Hoora agleelimah addat yiggiriqqeh.",
+          "ruubiyyi limmoyse yubleh yan riig yaqusbuseh."
+        ]
+      },
+      "finance": {
+        "title": "kobxisso limo lih massowteh",
+        "summary": "macaay limmoyse kah yablem maqmiil mogo gersi amri beyaamak afal.",
+        "points": [
+          "gufne tayse wakti gaaboysoonuh, mogo tanbulleek.",
+          "limo kee maaliyyah inki maqmiil wagittam faxximta.",
+          "Ayrol udurrutte gabbaaqul udurrutteh alfimtaamak muxxi xoqoysi le."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Mellebitte",
+    "title": "dariifa seerata too [[kollih dadalta]]",
+    "intro": "Nanu amo ladi caddo matbaqa: awqenti elle rakitam mojuluuy, xoqoysimaa kee xongolo. Nanu gudgud koo naybulleem kee ku taama lih poropozaal ittat hayna.",
+    "note": "mayballa awqenta maliiy ambalal mafaxa.",
+    "recommended": "Fayu leemi",
+    "faq_title": "Qagaaqagitak esseran esseroora",
+    "plans": {
+      "essential": {
+        "name": "Faxximtaama",
+        "desc": "kabxah xiinissoh xisne kee fixiixisso inki gudgudul.",
+        "features": [
+          "FullVendor qarok qari gudgud",
+          "limo, limo kee gino",
+          "Madruurwa, meklaaba kee gabbaaqu",
+          "Biiroh mansoofat xoqoysima",
+          "Qimmisiyyi qokol"
+        ],
+        "cta": "Mayballa essera"
+      },
+      "professional": {
+        "name": "Mihratle",
+        "desc": "buttaatiy gital xaamimtam kee riig addal amritte massoysaanama.",
+        "features": [
+          "Kullim faxximta",
+          "Assabalta FullVendor Sales Man",
+          "Assabalta FullVendor Warehouse",
+          "Gitaak iroh tan taama kee baarkoox",
+          "Ossotinah booxaa kee riig xoqoysima"
+        ],
+        "cta": "Mayballa essera"
+      },
+      "corporate": {
+        "name": "Egla",
+        "desc": "buttaati too faxxam uwwayti, limo, maaliyyaa kee baxaabaxsa le kampaanitte.",
+        "features": [
+          "Inkih yan dariifa wagal",
+          "Logistics, Vendor Supplier kee Finance",
+          "FullVendor ERP kee mango-mardisso",
+          "Elektirooniik yoofenta kee cisab",
+          "ittalluk abit kee qimmo geyto"
+        ],
+        "cta": "tellemmo lih yab"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Anu inkih tan murtitte xaamam faxxintaa?",
+        "a": "Balle.Atu FullVendor qimmisak apps hinnay ERP osissam duddah taama faxxa wak."
+      },
+      "offline": {
+        "q": "Assabaltooti retta sinnim taamittaa?",
+        "a": "Sales Man kee Warehouse asta sinnim taamitaanam kee qagitak yangooroweenimih uddur ittat axawah tan."
+      },
+      "multi": {
+        "q": "Anu tiyaak daga takke kobi liyok taamitelee?",
+        "a": "Yeey. ERP mango kampaanitteh mascassa kee dariifa wagittaamal ken fanat masters tabaatabisaanam duudumtah."
+      },
+      "demo": {
+        "q": "Mayballa maca addat leeh?",
+        "a": "Gufneh pilaatformi ku caalat ceela. uli awqenta kee uli dirki mali."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Mayballa",
+    "title": "Nanu koo naybulleem FullVendor lih [[ku taamah qaynat]]",
+    "text": "neh warisey ku kobah caagid kee atu naharak amrissam faxxam. Mayballa uli awqenta mali."
+  },
+  "contact": {
+    "eyebrow": "Angaarawa",
+    "title": "[[ku neyyah]] wagittaamat yabnay.",
+    "text": "atu mayballa faxxek, poroposal hinnay dubuk isi nabsi murtisso fanat, isi xaagu cab nanu gacsa abenno.",
+    "email": "farmo",
+    "phone": "Telephoonu",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Migaq",
+    "email": "farmo",
+    "phone": "Telephoonu",
+    "company": "Missoyna",
+    "country": "Baaxo",
+    "team": "Buttah giddakiino",
+    "interest": "Atu faxxam macaay?",
+    "message": "Farmo",
+    "optional": "Dirki akke sinni",
+    "choose": "Dooriyya",
+    "interest_all": "Inkih yan dariifa wagal",
+    "ph_name": "ku migaq",
+    "ph_email": "koo@koba.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ku koba",
+    "ph_country": "Baaxo",
+    "ph_message": "Atu asaaku mannal taamittam neh warisey",
+    "privacy_before": "Anu inni oytat xoqoysimaanam oggoleh",
+    "privacy_after": ".",
+    "submit": "essero ruuba",
+    "sent_title": "Nanu ku essero oggolenno",
+    "sent_text": "Gadda gey. limmoysiyyi butta koh aktubelon mayballa koobaahissuh hinnay ku essero gacissuh.",
+    "error_required": "Ta booxa sel.",
+    "error_email": "Gitat tan galelasta culus.",
+    "error_phone": "silki cubbus.",
+    "error_privacy": "Nanu angaaraw alhumittet xoqoysimnuh ku idini fanna.",
+    "error_csrf": "wakti tatreh. Cibta qagitaak culus.",
+    "error_save": "Nanu essero daagisnam madudna. Qagitaak gibbat.",
+    "error_generic": "Asta heen booxaaxi sekkaacis.",
+    "error_rate": "Ku maganak gersi essero culussaamak naharal dagoom qammal.",
+    "team_options": {
+      "1-10": "1 ilaa 10 numuk",
+      "11-50": "11 ilaa 50 numuk",
+      "51-200": "51 ilaa 200 fanah yan mara",
+      "201-500": "201 ilaa 500 fanah yan mara",
+      "500+": "500 daga takke maritte"
+    }
+  },
+  "video": {
+    "title": "FullVendor inki minitih addat",
+    "prev": "Dumaahe",
+    "next": "Ciggiilak",
+    "slides": [
+      {
+        "title": "dubuk yan dariifa wagal",
+        "text": "limmoyso, riig, gudduyso, limo kee maaliyyah maqmilwa, riig kee amritte."
+      },
+      {
+        "title": "Qarok qari kee mobaayil ittalih",
+        "text": "Biiro gudgudul taamitta. Caafata kee makaadin, assabaltooti addat, walaa asta sinnim."
+      },
+      {
+        "title": "Baxcisoonuh bicsen",
+        "text": "amriik mekla fan, oyti inki faayilik gersi faayilit tatruse kalah."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Murtitteey, fidgaagiiy, kuuritteh goranah...",
+    "lang_filter": "Af gorrisa",
+    "intro": "Murtitteey, fidgaagiiy, sanaaqat kee gadditte gorrisa.",
+    "empty": "Nanu \"{q}\" xalu magenno.",
+    "hint": "limo gibbat, riig, gititte akkek koboxitte.",
+    "results": "{n} xalootitte",
+    "button": "wagita",
+    "kind_product": "Murti",
+    "kind_solution": "Fidga",
+    "kind_industry": "Kuur",
+    "kind_resource": "Gaddi"
+  },
+  "notfound": {
+    "title": "Ta gali hinna",
+    "text": "yasgaarawi mayana hinnay arac milaageh."
+  },
+  "common": {
+    "what": "Macaay afdigem",
+    "features": "Maca edde tanim",
+    "benefits": "macah tuxxiq lem",
+    "for_who": "Iyyah imiiy?",
+    "related": "kaadu dariifa seeratih addat"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "asaaku limo",
+      "orders": "Amritte",
+      "clients": "Madruurwa",
+      "products": "Murtitte"
+    },
+    "sidebar": {
+      "dashboard": "Daashborxi",
+      "sales": "limo",
+      "purchases": "Xaamiyya",
+      "inventory": "Uwwat badaaqa",
+      "clients": "Madruurwa",
+      "reports": "Gabbaaqitte"
+    },
+    "chart": "limo",
+    "channel": "Gitaak fixiixisiyyi",
+    "channels": [
+      "Dukkaana",
+      "Fixiixisiyya",
+      "Amolladi limmoyse",
+      "Geerim"
+    ],
+    "orders": "ellecabo amritte",
+    "col_order": "Caddo",
+    "col_client": "Maqmiili",
+    "col_status": "Xiinisso",
+    "col_total": "Amolladih",
+    "status": [
+      "Gufseh",
+      "Gital",
+      "Ayti bila"
+    ],
+    "top": "Tayseh tan limoh murtitte",
+    "product": "Murti",
+    "sales_menu": [
+      "Madruurwa",
+      "Amritte",
+      "Murtitte",
+      "Gititte",
+      "itta ceelis"
+    ],
+    "warehouse_menu": [
+      "Qibnaytiino",
+      "ugtuma",
+      "Uwwat badaaqa",
+      "Farmo",
+      "itta ceelis"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Cankâ pooliisi",
+    "privacy_intro": "ta pooliisi baxxaaqissam maca abnam oyti atu cabte cibtittel ta fanteenal.",
+    "privacy": [
+      {
+        "title": "Nanu manni oyta gaaboynaah",
+        "text": "Demo essertek hinnay neh uktubtek, nanu migaq, kampaani, email, telefoon lowsiisih lowsis, baaxo, buttah gide, fayxih murtisso kee farmo lowsis abna. nanu kalah ayro tasjiilih, galih af kee IP sugmentitte, hoxat tan xayyos waasnuh."
+      },
+      {
+        "title": "Nanu macah keenit xoqoysimnaah?",
+        "text": "Nanu tama oytat dubuk koh gacsa abnuh, mayballah koobaahisso kee kabxah poropozaal massosnuh xoqoysimna. Nanu ken manalimna hinnay sidoc haytoh exxah rorta keenih manaca."
+      },
+      {
+        "title": "oson ankel kobxisen kee magide yakke warguh?",
+        "text": "esseroora ta fanteenah ayfaafayal kobxisen. Nanu ken dacrisnam faxximta waktih ayfaf koh kee tellemmo kattat, kee nanu ken baysenno atu nee esserta wak hinnay oson mangom faxxiime sinni wak."
+      },
+      {
+        "title": "Ku gar",
+        "text": "Atu essertam duuddah gufne, massos hinnay baysi isi oytih cibtak, farmol tescessime. kampaani galelasta ta weebsaayitil yitbiqe koo tekkek, atu kalah wokkel taktubem duddah."
+      }
+    ],
+    "terms_title": "Xoqoysoh waktitte",
+    "terms_intro": "too caaloota assabalta ta FullVendor xayyos aracat duqaysimak.",
+    "terms": [
+      {
+        "title": "kabxah oyta",
+        "text": "kutbe, ceelalloh dashborxih muucittee kee baxxaqsi gudgud yaysixxige. oson massoosaanam duudaanah murtisso milaagimta wak kee alfime xayyos hinna."
+      },
+      {
+        "title": "mayballa ambalal hinna",
+        "text": "Cibta oggolaanam limoh aw melleb tiqobbaroh dirki mabicsa. faxe ambalal siita geyteh baxsah, kutbeh, tet waado kee caaloota luk."
+      },
+      {
+        "title": "Dariifa addatino",
+        "text": "FullVendor tellemmoh asta, murtisso migaaqitte kee too galitteh addatino ken lewanna. oson gersi murti xayyoosoonuh korsaanam maduudan."
+      },
+      {
+        "title": "oggol leh yan xoqoyso",
+        "text": "Dirab oytaay, spam akkek madqak iroh yan addatino culussuh cibtittet madoqaysimina. Nanu nummah kabxâ walalat axaw sinni esseroora habballam bictah."
+      }
+    ]
+  }
+}

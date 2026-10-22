@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Urus dan kembangkan perniagaan anda",
+    "home_desc": "Platform semua-dalam-satu dengan penyelesaian web dan mudah alih untuk pengedaran, jualan, logistik, pembelian, inventori dan kewangan.",
+    "products_title": "Produk | FullVendor",
+    "products_desc": "Kenali ekosistem FullVendor: platform komersial, ERP, logistik, pembekal dan jualan, gudang dan apl kewangan.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Penyelesaian | FullVendor",
+    "solutions_desc": "Penyelesaian untuk pengurusan komersial, tenaga jualan, gudang, logistik, pembelian dan kewangan.",
+    "industries_title": "Industri | FullVendor",
+    "industries_desc": "FullVendor untuk pengedaran, peruncitan, makanan, farmasi, perkakasan, penggunaan besar-besaran, pembuatan dan batu terakhir.",
+    "pricing_title": "Harga | FullVendor",
+    "pricing_desc": "Pelan Penting, Profesional dan Korporat. Cadangan disusun mengikut modul, pengguna dan volum.",
+    "resources_title": "Sumber | FullVendor",
+    "resources_desc": "Panduan ringkas untuk menyatukan pengedaran, menjual di luar talian, mengatur gudang dan mendapat bayaran tepat pada masanya.",
+    "contact_title": "Hubungi | FullVendor",
+    "contact_desc": "Tulis kepada kami untuk mengetahui tentang FullVendor atau menyelaraskan perbualan dengan pasukan jualan.",
+    "demo_title": "Minta demo | FullVendor",
+    "demo_desc": "Minta demo FullVendor dan jelajahi platform dengan kes yang serupa dengan operasi anda.",
+    "privacy_title": "Privasi | FullVendor",
+    "terms_title": "Syarat | FullVendor",
+    "search_title": "Cari | FullVendor",
+    "notfound_title": "Halaman tidak ditemui | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Laman utama",
+    "products": "Produk",
+    "solutions": "Penyelesaian",
+    "industries": "industri",
+    "pricing": "harga",
+    "resources": "Sumber",
+    "contact": "Kenalan",
+    "open_menu": "Buka menu",
+    "close": "tutup"
+  },
+  "cta": {
+    "demo": "Minta Demo",
+    "contact": "Hubungi kami",
+    "video": "Tonton Video",
+    "talk": "Bercakap dengan jualan",
+    "all_products": "Lihat semua produk",
+    "home": "Kembali ke halaman utama"
+  },
+  "a11y": {
+    "skip": "Langkau ke kandungan",
+    "primary": "Navigasi utama",
+    "crumbs": "Laluan navigasi",
+    "search": "carilah",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "eyebrow": "Semua dalam satu platform",
+    "title": "Urus dan kembangkan\nperniagaan anda dengan\n{{brand}}",
+    "subtitle": "Platform lengkap dengan penyelesaian web dan mudah alih untuk pengedaran, jualan, logistik, pembelian, inventori, kewangan dan banyak lagi.",
+    "pill_ecosystem": "Segala-galanya dalam satu ekosistem",
+    "pill_cloud": "Dalam awan, selamat dan berskala",
+    "pill_size": "Untuk syarikat semua saiz"
+  },
+  "products_block": {
+    "eyebrow": "produk kami",
+    "title": "[[ekosistem lengkap]] untuk setiap bidang perniagaan anda",
+    "aside": "Penyelesaian bersepadu yang bekerjasama untuk memberi anda kawalan penuh, kecekapan operasi dan pertumbuhan yang lebih besar.",
+    "groups": {
+      "money": "Pentadbiran dan pengumpulan",
+      "flow": "Pembelian dan penghantaran",
+      "field": "Jualan dan gudang"
+    }
+  },
+  "products_page": {
+    "title": "Tujuh produk, [[operasi tunggal]]",
+    "text": "Setiap produk menyelesaikan kawasan. Bersama-sama mereka berkongsi pelanggan, stok, pesanan dan pembayaran."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Platform utama untuk pengurusan dan pengedaran komersial.",
+      "features": [
+        "Jualan dan pembelian",
+        "Inventori",
+        "Pelanggan dan pembekal",
+        "Laporan dan banyak lagi"
+      ],
+      "lead": "Pusat operasi komersial anda: pesanan, harga, stok dan pelanggan di satu tempat.",
+      "about": "FullVendor menggantikan hamparan dan sistem longgar pengedar. Dari sini pesanan keluar, inventori dirujuk, portfolio pelanggan dijaga dan nombor hari itu dilihat. Selebihnya ekosistem bersambung ke pangkalan ini.",
+      "benefits": [
+        {
+          "title": "Seorang induk data tunggal",
+          "text": "Pelanggan, produk dan harga dikongsi dengan jualan, gudang dan kewangan."
+        },
+        {
+          "title": "Operasi harian yang jelas",
+          "text": "Pesanan, pembelian dan stok berhenti hidup dalam fail yang berbeza."
+        },
+        {
+          "title": "Laporan untuk diputuskan",
+          "text": "Jualan, margin dan belum selesai dilihat tanpa menyusun meja dengan tangan."
+        },
+        {
+          "title": "Bersedia untuk berkembang",
+          "text": "Logistik, tenaga jualan atau ERP jumlah apabila operasi memintanya."
+        }
+      ],
+      "audience": "Pasukan komersial dan pengedaran yang hari ini menyelaraskan perniagaan antara beberapa sistem."
+    },
+    "erp": {
+      "kicker": "Pentadbiran",
+      "card": "Pengurusan pentadbiran dan kewangan yang lengkap.",
+      "features": [
+        "Perakaunan",
+        "Pengebilan elektronik",
+        "Lembaran kerja",
+        "Aset tetap",
+        "Berbilang syarikat"
+      ],
+      "lead": "Pentadbiran dan kewangan, sejajar dengan apa yang sebenarnya dijual dan dihantar.",
+      "about": "FullVendor ERP meliputi perakaunan, invois elektronik, senarai gaji, aset tetap dan berbilang syarikat. Ia mengambil operasi komersial dan menukarnya kepada entri, resit dan penyata yang boleh digunakan oleh kawasan kewangan.",
+      "benefits": [
+        {
+          "title": "Perakaunan bersambung",
+          "text": "Perkara yang berlaku dalam perakaunan suapan jualan dan pembelian."
+        },
+        {
+          "title": "Resit elektronik",
+          "text": "Anda mengeluarkan dan mengawal pengebilan daripada ekosistem yang sama."
+        },
+        {
+          "title": "Pelbagai syarikat",
+          "text": "Berbilang syarikat untuk kumpulan yang beroperasi di bawah lebih daripada satu nama syarikat."
+        },
+        {
+          "title": "Gaji dan aset",
+          "text": "Gaji dan aset tetap bersama-sama pengurusan yang lain."
+        }
+      ],
+      "audience": "Kawasan pentadbiran dan kewangan yang ingin menutup nombor dengan operasi sebenar."
+    },
+    "logistics": {
+      "kicker": "Logistik",
+      "card": "Kawalan dan pemantauan operasi logistik anda.",
+      "features": [
+        "Laluan dan penghantaran",
+        "Penjejakan masa nyata",
+        "Tugasan pemandu",
+        "Pengoptimuman laluan"
+      ],
+      "lead": "Daripada pesanan kepada penghantaran: laluan, pemandu dan penjejakan masa nyata.",
+      "about": "FullVendor Logistics mengatur pengedaran. Anda membuat laluan, menetapkan pemandu dan melihat ke mana setiap penghantaran pergi. Pasukan trafik berhenti bergantung pada panggilan untuk mengetahui sama ada pesanan telah dihantar.",
+      "benefits": [
+        {
+          "title": "Laluan hari ini",
+          "text": "Penghantaran ditempah mengikut zon, tetingkap masa dan kapasiti."
+        },
+        {
+          "title": "Pemandu yang ditugaskan",
+          "text": "Setiap laluan mempunyai orang yang bertanggungjawab dan urutan yang jelas."
+        },
+        {
+          "title": "Tindakan susulan",
+          "text": "Anda tahu apa yang dihantar, dalam perjalanan atau berhenti."
+        },
+        {
+          "title": "Kurang kilometer",
+          "text": "Pengoptimuman laluan mengurangkan masa dan kos penghantaran."
+        }
+      ],
+      "audience": "Operasi pengedaran dengan armada sendiri atau pihak ketiga."
+    },
+    "supplier": {
+      "kicker": "Membeli-belah",
+      "card": "Portal untuk pembekal dan pengurusan pembelian.",
+      "features": [
+        "Pesanan belian",
+        "Petikan",
+        "Pengurusan pembekal",
+        "Integrasi dengan inventori"
+      ],
+      "lead": "Pembekal anda membuat sebut harga, menerima pesanan dan menambah stok tanpa e-mel yang longgar.",
+      "about": "Vendor Supplier membuka portal untuk pembelian dan pembekal bekerja pada pesanan yang sama. Sebut harga, pesanan pembelian dan resit terikat pada inventori FullVendor.",
+      "benefits": [
+        {
+          "title": "Pesanan dalam saluran",
+          "text": "Pembekal melihat apa yang perlu dihantar, tanpa rantaian e-mel."
+        },
+        {
+          "title": "Petikan setanding",
+          "text": "Anda meminta harga dan memilih dengan melihat sejarah."
+        },
+        {
+          "title": "Guru Pembekal",
+          "text": "Syarat, kenalan dan belum selesai dalam satu rekod."
+        },
+        {
+          "title": "Masukkan inventori",
+          "text": "Apa yang dibeli ditunjukkan dalam stok apabila ia diterima."
+        }
+      ],
+      "audience": "Membeli pasukan yang mengisi semula dengan beberapa pembekal dan memerlukan kebolehkesanan."
+    },
+    "salesman": {
+      "kicker": "Apl mudah alih",
+      "card": "Aplikasi mudah alih untuk pasukan jualan.",
+      "features": [
+        "Pengurusan pelanggan",
+        "Pengambilan pesanan",
+        "Katalog produk",
+        "Kerja luar talian"
+      ],
+      "lead": "Pasukan jualan menerima pesanan di jalan, dengan atau tanpa isyarat.",
+      "about": "FullVendor Sales Man meletakkan portfolio, katalog dan pengambilan pesanan anda pada telefon penjual. Jika tiada internet, kerja diteruskan dan disegerakkan apabila isyarat kembali. Tempahan sampai siap sedia dan hantar.",
+      "benefits": [
+        {
+          "title": "Dompet dalam poket",
+          "text": "Penjual melihat pelanggan, keadaan dan item yang belum selesai."
+        },
+        {
+          "title": "Pesanan semasa lawatan",
+          "text": "Ambil pesanan dengan harga semasa dan stok."
+        },
+        {
+          "title": "Katalog terkini",
+          "text": "Produk, persembahan dan harga tanpa PDF lama."
+        },
+        {
+          "title": "Luar talian sebenar",
+          "text": "Bekerja tanpa liputan dan segerakan kemudian."
+        }
+      ],
+      "audience": "Penyelia dan jurujual lapangan dalam pengedaran dan penggunaan besar-besaran."
+    },
+    "warehouse": {
+      "kicker": "Apl mudah alih",
+      "card": "Aplikasi mudah alih untuk gudang.",
+      "features": [
+        "Penerimaan dan penghantaran",
+        "Memetik dan mengemas",
+        "Kawalan inventori",
+        "Bacaan kod bar"
+      ],
+      "lead": "Penerimaan, memilih dan menghantar dengan telefon dan kod bar.",
+      "about": "FullVendor Warehouse membimbing gudang dalam penerimaan, pengambilan, pembungkusan dan penghantaran. Membaca kod mengurangkan ralat dan inventori tidak lagi dikira hanya pada akhir bulan.",
+      "benefits": [
+        {
+          "title": "Penerimaan terhadap perintah",
+          "text": "Apa yang masuk dibandingkan dengan pembelian."
+        },
+        {
+          "title": "Pemilihan sasaran",
+          "text": "Pemilik kapal mengikut pesanan dan mengesahkan setiap item."
+        },
+        {
+          "title": "Kod bar",
+          "text": "Lebih sedikit ralat produk, kelompok atau kuantiti."
+        },
+        {
+          "title": "Stok yang boleh dipercayai",
+          "text": "Setiap langkah mengemas kini inventori platform."
+        }
+      ],
+      "audience": "Pengurus gudang dan pemilik kapal yang hari ini menyediakan pesanan dengan senarai bercetak."
+    },
+    "finance": {
+      "kicker": "Apl mudah alih",
+      "card": "Kawalan kewangan dari telefon bimbit anda.",
+      "features": [
+        "Akaun belum terima dan belum bayar",
+        "Status pelanggan",
+        "Pembayaran dan penyesuaian",
+        "Laporan kewangan"
+      ],
+      "lead": "Akaun belum terima, pembayaran dan status pelanggan, daripada telefon anda.",
+      "about": "FullVendor Finance menunjukkan koleksi pada mudah alih: apa yang setiap pelanggan berhutang, apa yang syarikat akan bayar dan bagaimana pembayaran datang. Ia digunakan untuk mengumpul wang semasa lawatan dan melihat mesin tunai tanpa membuka meja.",
+      "benefits": [
+        {
+          "title": "Koleksi semasa lawatan",
+          "text": "Penjual tahu jika pelanggan dikemas kini sebelum menjual."
+        },
+        {
+          "title": "Boleh terima dan kena bayar",
+          "text": "Kedua-dua belah kotak dalam apl yang sama."
+        },
+        {
+          "title": "Pembayaran dan penyesuaian",
+          "text": "Anda mendaftar kredit dan lihat apa yang perlu dipalang."
+        },
+        {
+          "title": "Laporan di tangan",
+          "text": "Petunjuk kutipan dan tunai tanpa menunggu penutupan."
+        }
+      ],
+      "audience": "Pengurus, pengumpul dan jurujual yang memerlukan situasi pelanggan pada masa ini."
+    }
+  },
+  "why": {
+    "eyebrow": "Mengapa FullVendor",
+    "title": "Tingkatkan perniagaan anda\ndengan hasil yang nyata",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Syarikat mempercayai kami"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Pengguna aktif"
+      },
+      {
+        "value": "+10",
+        "suffix": "tahun",
+        "label": "Dalam evolusi berterusan"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ketersediaan awan"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Bagaimana ia berfungsi",
+    "title": "Dari penjualan hingga pengumpulan, tanpa mengubah sistem",
+    "text": "Setiap produk berkongsi pelanggan, stok, pesanan dan pembayaran. Apa yang berlaku di jalan atau di gudang muncul di pejabat serta-merta.",
+    "steps": {
+      "sell": {
+        "title": "awak jual",
+        "text": "Pesanan dimasukkan melalui laman web atau melalui Sales Man, walaupun tanpa isyarat."
+      },
+      "pick": {
+        "title": "sedia",
+        "text": "Warehouse menerima, memisahkan dan menghantar dengan kod bar."
+      },
+      "deliver": {
+        "title": "Hantaran",
+        "text": "Logistics menetapkan laluan dan mengikuti penghantaran."
+      },
+      "collect": {
+        "title": "Ular tedung",
+        "text": "Finance dan ERP tutup koleksi, resit dan nombor."
+      }
+    }
+  },
+  "band": {
+    "title": "Bersedia untuk melihatnya dengan [[operasi anda]]?",
+    "text": "Kami menunjukkan kepada anda ekosistem dengan kes pengedaran yang serupa dengan anda."
+  },
+  "footer": {
+    "blurb": "Platform web dan mudah alih untuk pengedaran, jualan, logistik, pembelian, inventori dan kewangan.",
+    "products": "Produk",
+    "company": "Syarikat",
+    "legal": "sah",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "rights": "Semua hak terpelihara."
+  },
+  "solutions": {
+    "eyebrow": "Penyelesaian",
+    "title": "Setiap kawasan, disambungkan kepada [[operasi yang sama]]",
+    "intro": "Pilih mengikut masalah yang ingin anda selesaikan. Di belakang, produk berkongsi maklumat yang sama.",
+    "items": {
+      "commercial": {
+        "title": "Pengurusan komersial",
+        "text": "Pesanan, harga, pelanggan dan inventori untuk pengedaran harian."
+      },
+      "field": {
+        "title": "tenaga jualan",
+        "text": "Penjual mengambil pesanan di jalan, dalam talian atau luar talian."
+      },
+      "warehouse": {
+        "title": "Kedai",
+        "text": "Penerimaan, pengambilan, penghantaran dan stok yang boleh dipercayai."
+      },
+      "logistics": {
+        "title": "Logistik dan penghantaran",
+        "text": "Laluan, pemandu dan status setiap penghantaran."
+      },
+      "purchasing": {
+        "title": "Pembelian dan pembekal",
+        "text": "Petikan, pesanan dan portal untuk sesiapa yang membekalkan anda."
+      },
+      "finance": {
+        "title": "Kewangan dan perakaunan",
+        "text": "Pengumpulan, pembayaran, pengebilan elektronik dan perakaunan."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "industri",
+    "title": "Dibuat untuk mereka yang [[memindahkan produk]]",
+    "intro": "FullVendor dilahirkan dalam pengedaran dan mengiringi syarikat yang membeli, menyimpan, menjual dan menghantar.",
+    "items": {
+      "wholesale": {
+        "title": "Pengedaran dan pemborongan",
+        "text": "Senarai harga, portfolio, pengedaran dan pengumpulan dalam satu litar."
+      },
+      "retail": {
+        "title": "Runcit",
+        "text": "Stor dan gudang dengan stok bersambung, jualan dan pengisian semula."
+      },
+      "food": {
+        "title": "Makanan dan minuman",
+        "text": "Laluan yang kerap dan gudang yang tidak boleh berhenti."
+      },
+      "pharma": {
+        "title": "Farmasi dan penjagaan diri",
+        "text": "Penerimaan, pemilihan dan kawalan inventori dengan kebolehkesanan."
+      },
+      "hardware": {
+        "title": "Perkakasan dan pembinaan",
+        "text": "Banyak rujukan, pembekal dan penghantaran ke tempat kerja atau kedai."
+      },
+      "fmcg": {
+        "title": "Penggunaan beramai-ramai",
+        "text": "Tenaga jualan jalanan dan penggantian pusing ganti yang tinggi."
+      },
+      "manufacturing": {
+        "title": "pembuatan",
+        "text": "Pembelian, gudang dan inventori sejajar dengan pentadbiran."
+      },
+      "lastmile": {
+        "title": "Penghantaran dan batu terakhir",
+        "text": "Laluan, pemandu dan status setiap penghantaran."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Sumber",
+    "title": "Idea yang jelas untuk [[memerintahkan operasi]]",
+    "intro": "Panduan ringkas untuk pengurus pengedaran yang akan memutuskan sistem yang akan digunakan.",
+    "items": {
+      "unify": {
+        "title": "Bagaimana untuk menyatukan pengedaran ke dalam satu sistem",
+        "summary": "Perkara yang perlu disatukan dahulu apabila jualan, gudang dan koleksi disimpan dalam fail yang berbeza.",
+        "points": [
+          "Mulakan dengan pelanggan, produk dan harga: mereka adalah guru yang digunakan oleh semua orang.",
+          "Sambungkan pesanan dengan stok sebelum menambah lebih banyak aplikasi.",
+          "Ia mengukur nombor mudah: pesanan dipenuhi tanpa membuat semula borang."
+        ]
+      },
+      "offline": {
+        "title": "Pasukan jualan bekerja di luar talian",
+        "summary": "Perkara yang diperlukan daripada aplikasi pesanan supaya penjual tidak berhenti kerana isyarat.",
+        "points": [
+          "Katalog dan dompet perlu berada di telefon, bukan hanya di awan.",
+          "Pesanan itu disimpan pada peranti dan dimuat naik apabila rangkaian kembali.",
+          "Apabila menyegerakkan, pesanan sudah masuk ke gudang."
+        ]
+      },
+      "warehouse": {
+        "title": "Gudang dengan kod bar, tanpa kertas",
+        "summary": "Bagaimana untuk pergi dari senarai bercetak kepada memilih yang disahkan pada telefon.",
+        "points": [
+          "Terima terhadap pesanan pembelian, bukan terhadap ingatan.",
+          "Sahkan setiap item apabila memisahkan. Pepijat memotong ke dalam lorong.",
+          "Penghantaran mengemas kini stok yang penjual lihat."
+        ]
+      },
+      "finance": {
+        "title": "Koleksi sejajar dengan jualan",
+        "summary": "Mengapa penjual perlu melihat hutang pelanggan sebelum mengambil pesanan lain.",
+        "points": [
+          "Lawatan adalah masa terbaik untuk mengutip, jika hutang itu kelihatan.",
+          "Jualan dan kewangan perlu melihat pelanggan yang sama.",
+          "Laporan tertunggak harian lebih bernilai daripada penutupan lewat."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "harga",
+    "title": "Ekosistem yang [[tumbuh bersama anda]]",
+    "intro": "Kami tidak menerbitkan kadar generik: kos bergantung pada modul, pengguna dan volum. Kami menunjukkan kepada anda platform dan menyusun cadangan dengan operasi anda.",
+    "note": "Demo tidak mempunyai kos dan tidak memerlukan kontrak.",
+    "recommended": "Disyorkan",
+    "faq_title": "Soalan lazim",
+    "plans": {
+      "essential": {
+        "name": "Penting",
+        "desc": "Untuk mengatur pengurusan dan pengedaran komersial pada satu platform.",
+        "features": [
+          "FullVendor platform web",
+          "Jualan, pembelian dan inventori",
+          "Pelanggan, pembekal dan laporan",
+          "Pengguna peralatan pejabat",
+          "Sokongan permulaan"
+        ],
+        "cta": "Minta Demo"
+      },
+      "professional": {
+        "name": "Profesional",
+        "desc": "Untuk pasukan yang menjual di jalan dan menyediakan pesanan di gudang.",
+        "features": [
+          "Semuanya Penting",
+          "Apl FullVendor Sales Man",
+          "Apl FullVendor Warehouse",
+          "Kerja luar talian dan kod bar",
+          "Lebih ramai pengguna lapangan dan gudang"
+        ],
+        "cta": "Minta Demo"
+      },
+      "corporate": {
+        "name": "Korporat",
+        "desc": "Untuk kumpulan yang memerlukan logistik, pembelian, kewangan dan pelbagai syarikat.",
+        "features": [
+          "Ekosistem yang lengkap",
+          "Logistics, Vendor Supplier dan Finance",
+          "FullVendor ERP dan penyewaan berbilang",
+          "Pengebilan dan perakaunan elektronik",
+          "Ketersediaan iringan dan keutamaan"
+        ],
+        "cta": "Bercakap dengan jualan"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Adakah saya perlu membeli semua produk?",
+        "a": "Tidak. Anda boleh mulakan dengan FullVendor dan tambah aplikasi atau ERP apabila operasi memerlukannya."
+      },
+      "offline": {
+        "q": "Adakah aplikasi berfungsi tanpa internet?",
+        "a": "Sales Man dan Warehouse terus bekerja tanpa isyarat dan menyegerakkan apabila menyambung semula."
+      },
+      "multi": {
+        "q": "Adakah ia berfungsi jika saya mempunyai lebih daripada satu syarikat?",
+        "a": "ya. ERP merenung berbilang syarikat dan ekosistem boleh berkongsi tuan antara mereka."
+      },
+      "demo": {
+        "q": "Apakah yang termasuk demo?",
+        "a": "Lawatan ke platform dengan kes yang serupa dengan anda. Tiada kos dan tiada obligasi."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Kami menunjukkan kepada anda FullVendor dengan [[jenis operasi anda]]",
+    "text": "Beritahu kami tentang syarikat anda dan perkara yang ingin anda pesan dahulu. Demo itu tiada kos."
+  },
+  "contact": {
+    "eyebrow": "Kenalan",
+    "title": "Mari kita bercakap tentang [[operasi anda]]",
+    "text": "Jika anda mahukan demo, cadangan atau hanya untuk mengorientasikan diri anda antara produk, tinggalkan maklumat anda dan kami akan bertindak balas.",
+    "email": "Mel",
+    "phone": "telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nama",
+    "email": "Mel",
+    "phone": "telefon",
+    "company": "Syarikat",
+    "country": "Negara",
+    "team": "Saiz pasukan",
+    "interest": "Apa yang menarik minat anda?",
+    "message": "Mesej",
+    "optional": "Pilihan",
+    "choose": "Pilih",
+    "interest_all": "Keseluruhan ekosistem",
+    "ph_name": "nama awak",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Syarikat anda",
+    "ph_country": "Negara",
+    "ph_message": "Beritahu kami cara anda beroperasi hari ini",
+    "privacy_before": "Saya menerima penggunaan data saya mengikut",
+    "privacy_after": ".",
+    "submit": "Hantar permintaan",
+    "sent_title": "Kami menerima permintaan anda",
+    "sent_text": "terima kasih. Pasukan jualan akan menulis surat kepada anda untuk menyelaraskan demo atau menjawab soalan anda.",
+    "error_required": "Lengkapkan bidang ini.",
+    "error_email": "Masukkan e-mel yang sah.",
+    "error_phone": "Semak telefon.",
+    "error_privacy": "Kami memerlukan persetujuan anda untuk menggunakan butiran hubungan.",
+    "error_csrf": "Sesi telah tamat tempoh. Hantar semula borang.",
+    "error_save": "Kami tidak dapat menyimpan permintaan itu. Cuba lagi.",
+    "error_generic": "Semak medan yang ditanda.",
+    "error_rate": "Sila tunggu sebentar sebelum menyerahkan permintaan lain.",
+    "team_options": {
+      "1-10": "1 hingga 10 orang",
+      "11-50": "11 hingga 50 orang",
+      "51-200": "51 hingga 200 orang",
+      "201-500": "201 hingga 500 orang",
+      "500+": "Lebih 500 orang"
+    }
+  },
+  "video": {
+    "title": "FullVendor dalam satu minit",
+    "prev": "Bekas",
+    "next": "Mengikuti",
+    "slides": [
+      {
+        "title": "Satu ekosistem tunggal",
+        "text": "Jualan, gudang, penghantaran, pembelian dan bahagian kewangan pelanggan, stok dan pesanan."
+      },
+      {
+        "title": "Web dan mudah alih bersama-sama",
+        "text": "Pejabat berfungsi di atas platform. Jalan dan gudang, dalam apl, walaupun tanpa isyarat."
+      },
+      {
+        "title": "Dibuat untuk diedarkan",
+        "text": "Dari pesanan kepada pembayaran, tanpa menghantar maklumat dari satu fail ke fail yang lain."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Cari produk, penyelesaian, industri…",
+    "lang_filter": "Bahasa carian",
+    "intro": "Cari produk, penyelesaian, industri dan sumber.",
+    "empty": "Kami tidak menemui hasil untuk \"{q}\".",
+    "hint": "Cuba jualan, gudang, laluan atau koleksi.",
+    "results": "{n} keputusan",
+    "button": "carilah",
+    "kind_product": "produk",
+    "kind_solution": "Penyelesaian",
+    "kind_industry": "industri",
+    "kind_resource": "sumber"
+  },
+  "notfound": {
+    "title": "Halaman ini tidak",
+    "text": "Pautan tidak wujud atau telah menukar lokasi."
+  },
+  "common": {
+    "what": "Apa yang menyelesaikan",
+    "features": "Apa yang disertakan",
+    "benefits": "Mengapa ia penting",
+    "for_who": "untuk siapa?",
+    "related": "Juga dalam ekosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Jualan hari ini",
+      "orders": "Pesanan",
+      "clients": "Pelanggan",
+      "products": "Produk"
+    },
+    "sidebar": {
+      "dashboard": "Papan pemuka",
+      "sales": "Jualan",
+      "purchases": "Membeli-belah",
+      "inventory": "Inventori",
+      "clients": "Pelanggan",
+      "reports": "Laporan"
+    },
+    "chart": "Jualan",
+    "channel": "Pengedaran mengikut saluran",
+    "channels": [
+      "Kedai",
+      "Pengagihan",
+      "Pemborong",
+      "Lain-lain"
+    ],
+    "orders": "Pesanan terkini",
+    "col_order": "Pesanan",
+    "col_client": "Pelanggan",
+    "col_status": "negeri",
+    "col_total": "Jumlah",
+    "status": [
+      "Dihantar",
+      "Dalam perjalanan",
+      "Subang"
+    ],
+    "top": "Produk terlaris",
+    "product": "produk",
+    "sales_menu": [
+      "Pelanggan",
+      "Pesanan",
+      "Produk",
+      "Laluan",
+      "Segerakkan"
+    ],
+    "warehouse_menu": [
+      "Penerimaan",
+      "memetik",
+      "Inventori",
+      "Penghantaran",
+      "Segerakkan"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Dasar Privasi",
+    "privacy_intro": "Dasar ini menerangkan perkara yang kami lakukan dengan data yang anda tinggalkan dalam borang di tapak ini.",
+    "privacy": [
+      {
+        "title": "Data apa yang kami kumpul",
+        "text": "Jika anda meminta demo atau menulis kepada kami, kami menyimpan nama, syarikat, e-mel, nombor telefon jika anda menyatakannya, negara, saiz pasukan, produk yang diminati dan mesej. Kami juga merekodkan tarikh, bahasa halaman dan alamat IP, untuk mengelakkan penyerahan yang kesat."
+      },
+      {
+        "title": "Untuk apa kita menggunakannya?",
+        "text": "Kami menggunakan data ini hanya untuk membalas kepada anda, menyelaraskan demo dan menyediakan cadangan komersial. Kami tidak menjualnya atau memberikannya kepada senarai pihak ketiga."
+      },
+      {
+        "title": "Di mana ia disimpan dan untuk berapa lama?",
+        "text": "Permintaan disimpan pada pelayan tapak ini. Kami menyimpannya untuk masa yang diperlukan untuk memberi perkhidmatan kepada anda dan susulan komersial, dan kami memadamkannya apabila anda meminta kami atau apabila ia tidak diperlukan lagi."
+      },
+      {
+        "title": "Hak awak",
+        "text": "Anda boleh meminta akses, pembetulan atau pemadaman data anda daripada borang kenalan, menunjukkannya dalam mesej. Jika syarikat menerbitkan e-mel di laman web ini, anda juga boleh menulis di sana."
+      }
+    ],
+    "terms_title": "Syarat penggunaan",
+    "terms_intro": "Syarat ini terpakai untuk penggunaan tapak penyerahan FullVendor ini.",
+    "terms": [
+      {
+        "title": "Maklumat komersial",
+        "text": "Teks, contoh angka papan pemuka dan penerangan memperkenalkan platform. Ia boleh dilaraskan apabila produk berubah dan bukan tawaran tertutup."
+      },
+      {
+        "title": "Demo itu bukan kontrak",
+        "text": "Menghantar borang tidak mewujudkan kewajipan untuk membeli atau menempah harga. Sebarang kontrak dipersetujui secara berasingan, secara bertulis, dengan skop dan syaratnya."
+      },
+      {
+        "title": "Kandungan tapak",
+        "text": "Tanda dagangan FullVendor, nama produk dan kandungan halaman ini adalah milik pemiliknya. Mereka tidak boleh disalin untuk mempersembahkan produk lain."
+      },
+      {
+        "title": "Penggunaan yang boleh diterima",
+        "text": "Jangan gunakan borang untuk menyerahkan maklumat palsu, spam atau kandungan haram. Kami mungkin mengabaikan permintaan yang tidak sepadan dengan perbualan perniagaan sebenar."
+      }
+    ]
+  }
+}

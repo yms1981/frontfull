@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Njuɓɓudi e mawninde njulaagu maa",
+    "home_desc": "Platform All-in-one e kuutorɗe web e mobiil ngam renndinde, yeeyde, jogaade, soodde, limtude e kaalis.",
+    "products_title": "Productos | FullVendor",
+    "products_desc": "Anndu ekosistem FullVendor : platform njulaagu, ERP, logistik, yeeyooɓe e yeeyooɓe, appliiji depasuuji e kaalis.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Soluciones | FullVendor",
+    "solutions_desc": "Kuule ngam njuɓɓudi njulaagu, doole yeeyooɓe, depasuuji, logistik, coodgu e kaalis.",
+    "industries_title": "Industrias | FullVendor",
+    "industries_desc": "FullVendor ngam renndinde, soodde, nguura, farmasi, kaɓirɗe, ñaamde jamaanu, peewnugol e kilooji cakkitiiɗi.",
+    "pricing_title": "Precios | FullVendor",
+    "pricing_desc": "Peeje kuuɓtodinɗe, karallaagal e gollorɗe. Eɓɓaande ndee ina waɗee fawaade e mooɓre, huutortooɓe e volume.",
+    "resources_title": "Recursos | FullVendor",
+    "resources_desc": "Ardiiɓe juutɓe ngam hawrude e peccitagol, yeeyde e nder laylaytol, yuɓɓinde depasuuji e yoɓeede e sahaa.",
+    "contact_title": "Contacto | FullVendor",
+    "contact_desc": "Winndu min ngam anndude FullVendor walla yuɓɓinde yeewtere e fedde yeeyooɓe.",
+    "demo_title": "Solicitar demo | FullVendor",
+    "demo_desc": "Ɗaɓɓu demo FullVendor e njillu e platform e case nannduɗo e golle maa.",
+    "privacy_title": "Privacidad | FullVendor",
+    "terms_title": "Términos | FullVendor",
+    "search_title": "Buscar | FullVendor",
+    "notfound_title": "Página no encontrada | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Hello jaɓɓorgo",
+    "products": "Geɗe",
+    "solutions": "Kuule",
+    "industries": "Industiriiji",
+    "pricing": "Coodguuli",
+    "resources": "Ɗaaɗi",
+    "contact": "Footugo",
+    "open_menu": "Uddit menyu",
+    "close": "Mabbugo"
+  },
+  "cta": {
+    "demo": "Ɗaɓɓu Demo",
+    "contact": "Jokkondir e amen",
+    "video": "Yeewtu Wideyoo",
+    "talk": "Haaldu e yeeyooɓe",
+    "all_products": "Ƴeew denndaangal geɗe",
+    "home": "Hoto ngartu e hello jaɓɓorgo"
+  },
+  "a11y": {
+    "skip": "Juppu to loowdi",
+    "primary": "Navigation mawɗo",
+    "crumbs": "Laawol naatgol",
+    "search": "Yiylo...",
+    "language": "Wolde"
+  },
+  "hero": {
+    "eyebrow": "Fof e nder laylaytol gootol",
+    "title": "Gestiona y haz crecer\ntu negocio con\n{{brand}}",
+    "subtitle": "Platform timmuɗo e kuutorɗe web e mobile ngam renndinde, yeeyde, jogaade, soodde, limtude, kaalis e ko nanndi heen.",
+    "pill_ecosystem": "Kala ko woni e ekosistem gooto",
+    "pill_cloud": "E nder duule, kisal e ƴellitaare",
+    "pill_size": "Ngam sosiyeteeji kala"
+  },
+  "products_block": {
+    "eyebrow": "Geɗe men",
+    "title": "A [[ekosistem timmuɗo]] wonande kala fannu gollal maa",
+    "aside": "Kuule kuutorteeɗe ngam rokkude on ɗowgol timmungol, njuɓɓudi golle e ɓeydagol ɓurngol mawnude.",
+    "groups": {
+      "money": "Njuɓɓudi e mooftugol",
+      "flow": "Coodguuli e jokkondire",
+      "field": "Yeeyde e depasuuji"
+    }
+  },
+  "products_page": {
+    "title": "Geɗe jeeɗiɗi, [[golle goote]].",
+    "text": "Kala geɗel ina safra nokku. Ɓe ndennda soodooɓe, restoraaji, yamiroore e yoɓde."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Daaldal",
+      "card": "Platform mawɗo ngam njuɓɓudi njulaagu e saaktude.",
+      "features": [
+        "Yeeyde e soodde",
+        "Limtol",
+        "Kiliyaneeɓe e yeeyooɓe",
+        "Rajooji e ko nanndi heen"
+      ],
+      "lead": "Catal golle mon njulaagu : yamiroore, coggu, njulaagu e soodooɓe e nokku gooto.",
+      "about": "FullVendor lomtotoo ko limtooji e njuɓɓudiiji loowdi renndinde. Gila ɗoo jamirooje njalta, innde ina ƴeewtee, portfolio alɗuɓe ina toppitee, limooje ñalawma ɗee ina ƴeewtee. Heddii ekosistem oo ina jokkondiri e ndeeɗoo tuugnorgal.",
+      "benefits": [
+        {
+          "title": "Jaagorgal data gooto",
+          "text": "Sosiyeteeji, geɗe e cogguuji ina ndenndi e yeeyirde, depasuuji e kaalis."
+        },
+        {
+          "title": "Golle laaɓtuɗe ñalnde kala",
+          "text": "Yamirooje, coodguuli e restoraaji ina ngoppa wuurde e nder fiiluuji ceertuɗi."
+        },
+        {
+          "title": "Rajooji ngam fellitde",
+          "text": "Yeeyde, marge e pending ina njiyee tawa aɗa waɗa heen taƴre e junngo."
+        },
+        {
+          "title": "Heɓde mawnude",
+          "text": "Lojistik, doole yeeyirde walla ERP sums so tawii gollal ngal ina ɗaɓɓi ɗum."
+        }
+      ],
+      "audience": "Kippuuji njulaagu e peccitagol hannde ina njuɓɓina njulaagu hakkunde njuɓɓudiiji keewɗi."
+    },
+    "erp": {
+      "kicker": "Njuɓɓudi",
+      "card": "Njuɓɓudi njuɓɓudi e kaalis timmundi.",
+      "features": [
+        "Hiisawal",
+        "Faggudu elektoronik",
+        "Leppi golle",
+        "Jawdi tabitndi",
+        "Sosiyetee keewɗo"
+      ],
+      "lead": "Njuɓɓudi e kaalis, jokkondirɗi e ko yeeyetee e yettineede tigi rigi.",
+      "about": "FullVendor ERP ina hawra e hiisa, faktiir elektoronik, njoɓdi, jawdi ndariindi e sosiyeteeji keewɗi. Ina ƴetta golle njulaagu, ina wayla ɗum e naatgol, e keɓe e bayyinaaɗe ɗe nokku kaalis oo waawi huutoraade.",
+      "benefits": [
+        {
+          "title": "Hiisawal jokkondirngal",
+          "text": "Ko kewata e yeeyde e soodde ina ñamla hiisa."
+        },
+        {
+          "title": "Keɓe elektoronik",
+          "text": "Aɗa yaltina e aɗa jogoo faktiir ummoraade e ekosistem gooto."
+        },
+        {
+          "title": "Sosiyeteeji keewɗi",
+          "text": "Sosiyetee keewɗo wonande pelle gollotooɗe e innde sosiyetee ɓurnde wootere."
+        },
+        {
+          "title": "Njoɓɗeele e jawdi",
+          "text": "Njoɓdi e jawdi ndariindi wondude e heddiiɓe e njuɓɓudi ndii."
+        }
+      ],
+      "audience": "Nokkuuji njuɓɓudi e kaalis yiɗɓe uddude limooje e golle goonga."
+    },
+    "logistics": {
+      "kicker": "Lojistik",
+      "card": "Konngol e ƴeewndo golle mon logistik.",
+      "features": [
+        "Laabi e jokkondire",
+        "Rewindaade sahaa goonga",
+        "Golle sofereeɓe",
+        "Optimaasiyoŋ laawol"
+      ],
+      "lead": "Gila e yamiroore haa e jokkondire : laabi, difooje e rewindaade e sahaa tigi-rigi.",
+      "about": "FullVendor Logistics ina yuɓɓina peccitagol ngol. Aɗa sosa laabi, aɗa rokka sofereeɓe, aɗa ƴeewa ɗo kala neldugol yahrata. Kippu jolngo ina dartoo fawaade e noddaango ngam anndude so tawii yamiroore ndee neldaama.",
+      "benefits": [
+        {
+          "title": "Laabi ñalawma oo",
+          "text": "Deliveries yamiraama e zone, windo waktu e mbaawka."
+        },
+        {
+          "title": "Sofer toɗɗaaɗo",
+          "text": "Laawol kala ina jogii neɗɗo gardiiɗo e doggol laaɓtungol."
+        },
+        {
+          "title": "Tokkitugo",
+          "text": "Aɗa anndi ko yettinaa, e laawol walla ko dartinaa."
+        },
+        {
+          "title": "Kilooji seeɗa",
+          "text": "Optimisation laawol ina usta waktuuji e njoɓdi jokkondire."
+        }
+      ],
+      "audience": "Golle peccitagol e laana ndiwoowa mum walla terɗe tataɓere."
+    },
+    "supplier": {
+      "kicker": "Soddugo",
+      "card": "Portal ngam yeeyooɓe e njuɓɓudi coodguuli.",
+      "features": [
+        "Yamiroore coodgu",
+        "Ngewte",
+        "Njuɓɓudi dokkoowo",
+        "Naatgol e innde"
+      ],
+      "lead": "Jaaynooɓe maa ina ciftora, ina keɓa yamiroore e ina ɓeyda kaɓirɗe tawa alaa iimeeluuji loowɗi.",
+      "about": "Vendor Supplier udditi portal ngam soodooɓe e yeeyooɓe ngam golloraade jamirooje goote. Kuutorɗe, yamiroore coodgu e keɓgol ina njokkondiri e limto FullVendor.",
+      "benefits": [
+        {
+          "title": "Yamirooje e nder kanaal",
+          "text": "Jaaynoowo oo ina yiytoo ko jogori yettinde, tawa alaa caɗeele imeel."
+        },
+        {
+          "title": "Ko nanndi heen",
+          "text": "Aɗa naamnoo coggu, aɗa suɓa tawa aɗa jogii daartol."
+        },
+        {
+          "title": "Jaagorɗo jom jawdi en",
+          "text": "Sarɗiiji, jokkondiral e pending e nder winndannde wootere."
+        },
+        {
+          "title": "Naatde e innde",
+          "text": "Ko soodaa koo ina feeñi e nder restoraaji so heɓaama."
+        }
+      ],
+      "audience": "Ekipaaji coodguuli keewɗi e yeeyooɓe e haajuuji rewindaade."
+    },
+    "salesman": {
+      "kicker": "App mobiil",
+      "card": "Aplikaasiyoŋ mobiil ngam ekipaaji yeeyooɓe.",
+      "features": [
+        "Njuɓɓudi soodooɓe",
+        "Yamiroore ƴettude",
+        "Catal geɗe",
+        "Golle ɗe ngonaa e laylaytol"
+      ],
+      "lead": "Yeeyooɓe ɓee ina ƴetta yamiroore e mbedda, tawa ina waɗi walla alaa.",
+      "about": "FullVendor Sales Man ina waɗa portfolio maa, catal maa e yamiroore ƴettugol e telefoŋ yeeyoowo oo. So internet alaa, golle ɗee ina njokki, ina sinkronisa so signal oo artii. Yamiroore ndee arii ina hesɗitina ngam feewnude e yettinde.",
+      "benefits": [
+        {
+          "title": "Wallet e nder poos",
+          "text": "Yeeyoowo oo ina yi’a kiliyaneeɓe, sarɗiiji e geɗe jogorɗe."
+        },
+        {
+          "title": "Yamiroore e njillu",
+          "text": "Ƴettu yamiroore ndee e cogguuji jooni ɗii e stock."
+        },
+        {
+          "title": "Catal haa jooni",
+          "text": "Products, presentations e prix tawa alaa PDF ɓooyɗo."
+        },
+        {
+          "title": "Goonga e nder laylaytol",
+          "text": "Golle tawa coverage alaa e sinkronisaade caggal."
+        }
+      ],
+      "audience": "Toppitiiɓe e yeeyooɓe ladde e nder renndo e ñaamde jamaanu."
+    },
+    "warehouse": {
+      "kicker": "App mobiil",
+      "card": "Aplikaasiyoŋ mobiil ngam depasuuji.",
+      "features": [
+        "Jaɓɓungal e neldugol",
+        "Piɗtaali e paaspooruuji",
+        "Konngol innde",
+        "Janngugol kode bar"
+      ],
+      "lead": "Jaɓɓugol, ƴettugol e neldugol e telefoŋ e kode bar.",
+      "about": "FullVendor Warehouse ina ardoo depasuuji ɗii e jaɓɓaade, ƴettude, paaspoor e neldude. Janngude kode ina usta boowal kadi innde nattii limteede tan e darorɗe lewru.",
+      "benefits": [
+        {
+          "title": "Jaɓɓungal luulndiingal yamiroore",
+          "text": "Ko naati koo ina yerondiree e soodde."
+        },
+        {
+          "title": "Piɗtaali tarde",
+          "text": "Joom laana kaa ina rewi e yamiroore ndee, ina tabitina kala huunde."
+        },
+        {
+          "title": "Kode barkeeji",
+          "text": "Juumre geɗe, batch walla keewal ina famɗi."
+        },
+        {
+          "title": "Stock koolaaɗo",
+          "text": "Kala yahdu ina hesɗitina limto platform oo."
+        }
+      ],
+      "audience": "Gardiiɗo depasuuji e jom laanaaji ɗi hannde peewnata yamiroore e doggol binndaangol."
+    },
+    "finance": {
+      "kicker": "App mobiil",
+      "card": "Konngol kaalis ummoraade e mobaayiil maa.",
+      "features": [
+        "Konte keɓaaɗe e yoɓeteeɗe",
+        "Darnde soodoowo",
+        "Yoga e nanondiral",
+        "Ciimtol kaalis"
+      ],
+      "lead": "Konte keɓaaɗe, yoɓde e ngonka alɗuɓe, gila e telefoŋ maa.",
+      "about": "FullVendor Finance hollirta ko mooftirgel ngel e telefoŋ : ko kala kiliyanke foti yoɓde, ko sosiyetee oo foti yoɓde e no yoɓde ndee ardi. Ina huutoree ngam mooftude kaalis e nder njillu nguu e ƴeewde kaalis tawa udditaaki biro.",
+      "benefits": [
+        {
+          "title": "Koolkisagol e njillu nguu",
+          "text": "Yeeyoowo oo ina anndi so soodoowo oo ina jokki hade mum yeeyde."
+        },
+        {
+          "title": "Jaɓɓaade e yoɓeede",
+          "text": "Banngeeji ɗiɗi ɗii fof e nder app gooto."
+        },
+        {
+          "title": "Yoga e nanondiral",
+          "text": "Aɗa winnditoo credits aɗa ƴeewa ko haani taƴeede."
+        },
+        {
+          "title": "Rajooji e junngo",
+          "text": "Kollitooje mooftugol e kaalis tawa ɗaɓɓaani uddital."
+        }
+      ],
+      "audience": "Njuɓɓudi, mooftooɓe e yeeyooɓe haajuuji ngonka kiliyaneeɓe e oo sahaa."
+    }
+  },
+  "why": {
+    "eyebrow": "Ko waɗi FullVendor",
+    "title": "Boost njulaagu maa\nwondude e njeñtudi goonga",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Sosiyeteeji ina ngoongɗini en"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Huutortooɓe gollooɓe"
+      },
+      {
+        "value": "+10",
+        "suffix": "duɓɓi",
+        "label": "E nder ƴellitaare duumiinde"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Heɓde duule"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "No ɗum yahrata",
+    "title": "Gila e yeeyde haa e mooftude, tawa waylaaki njuɓɓudi",
+    "text": "Kala geɗel ina rennda soodooɓe, restoraaji, jamirooje e yoɓde. Ko waɗata e mbedda walla e nder desorɗe feeñata ko e biro ɗoon e ɗoon.",
+    "steps": {
+      "sell": {
+        "title": "Aɗa yeeyda",
+        "text": "Yamiroore ndee naatnetee ko e lowre ndee walla e Sales Man, hay so tawii alaa maande."
+      },
+      "pick": {
+        "title": "Taski",
+        "text": "Warehouse jaɓɓotoo, seernda e nelda e kode bar."
+      },
+      "deliver": {
+        "title": "Jolngooji",
+        "text": "Logistics ina rokka laawol ngol, ina rewi e jokkondire."
+      },
+      "collect": {
+        "title": "Kobraaji",
+        "text": "Finance e ERP ina uddita mooɓondiral, keɓgol e limooje."
+      }
+    }
+  },
+  "band": {
+    "title": "Heɓii yiyde ɗum e [[operaasiyoŋ maa]]?",
+    "text": "Min kollita on ekosistem mo kees renndinde nannduɗo e mon."
+  },
+  "footer": {
+    "blurb": "Platform web e mobile ngam renndinde, yeeyde, jogaade, soodde, limtude e kaalis.",
+    "products": "Geɗe",
+    "company": "Baabal kugal",
+    "legal": "Je umrore",
+    "privacy": "Siiri",
+    "terms": "Wolde",
+    "rights": "Hakkeeji ɗii fof ko resndaaɗi."
+  },
+  "solutions": {
+    "eyebrow": "Kuule",
+    "title": "Kala nokku, jokkondirɗo e [[golle goote]].",
+    "intro": "Suɓo e caɗeele ɗe njiɗɗaa safrude. Caggal, geɗe ɗee ina ndennda kabaruuji gooti.",
+    "items": {
+      "commercial": {
+        "title": "Njuɓɓudi njulaagu",
+        "text": "Yamirooje, cogguuji, soodooɓe e limtooji ngam renndinde ñalnde kala."
+      },
+      "field": {
+        "title": "doole yeeyooɓe",
+        "text": "Yeeyooɓe ƴettude yamiroore e mbedda, e internet walla e nder internet."
+      },
+      "warehouse": {
+        "title": "Sigorde",
+        "text": "Jaɓɓungal, ƴettugol, neldugol e restoraaji baawɗi hoolaade."
+      },
+      "logistics": {
+        "title": "Lojistik e jokkondire",
+        "text": "Laabi, sofereeɓe e ngonka kala yettinnde."
+      },
+      "purchasing": {
+        "title": "Sodeede e yeeyooɓe",
+        "text": "Quotes, yamiroore e portal wonande kala mo rokkata on."
+      },
+      "finance": {
+        "title": "Kaalis e hiisa",
+        "text": "Kollirɗe, yoɓde, facciro elektoronik e hiisa."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industiriiji",
+    "title": "Waɗaa ngam ɓeen ɓe [[moves produit]].",
+    "intro": "FullVendor jibinaa ko e peccitagol, ina yahdi e sosiyeteeji soodooɓe, mooftuɓe, yeeyooɓe e yettinde.",
+    "items": {
+      "wholesale": {
+        "title": "Feccere e njulaagu",
+        "text": "Doggol cogguuji, portfolio, renndinde e mooftude e nder cirko gooto."
+      },
+      "retail": {
+        "title": "Fillu",
+        "text": "Magasin e depasuuji jokkondirɗi e restoraaji, yeeyirde e hesɗitinde."
+      },
+      "food": {
+        "title": "Ñaamde e yarde",
+        "text": "Laabi keewɗi e depasuuji ɗi mbaawaa dartaade."
+      },
+      "pharma": {
+        "title": "Farmasi e toppitagol neɗɗo",
+        "text": "Jaɓɓugol, ƴettugol e ƴeewndo innde e rewindaade."
+      },
+      "hardware": {
+        "title": "Hardware e mahngo",
+        "text": "References keewɗe, dokkoowo e deliveries to golle walla to defterdu."
+      },
+      "fmcg": {
+        "title": "Ñaamde maslahaa",
+        "text": "Doole yeeyde laabi e lomtinande njulaagu toowngu."
+      },
+      "manufacturing": {
+        "title": "Pewnugol",
+        "text": "Coodgu, depasuuji e limtooji ina kawri e njuɓɓudi."
+      },
+      "lastmile": {
+        "title": "Delivery e kilooji cakkitiiɗi",
+        "text": "Laabi, sofereeɓe e ngonka kala yettinnde."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ɗaaɗi",
+    "title": "Miijooji laaɓtuɗi ngam [[yamirde golle ɗee]].",
+    "intro": "Ardorde juutnde wonande ardiiɓe peccitagol yahooɓe e suɓaade hol system mo ɓe njogori jogaade.",
+    "items": {
+      "unify": {
+        "title": "No renndinirta renndinde e nder system gooto",
+        "summary": "Ko foti waɗeede ko adii nde yeeyirde, depasuuji e mooftirɗi nguurdi e fiiluuji ceertuɗi.",
+        "points": [
+          "Fuɗɗoraade e soodooɓe, geɗe e coggu : ko kamɓe ngoni jannginoowo mo gooto fof huutortoo.",
+          "Jokkondir e yamiroore ndee e restoraaji ɗii hade maa ɓeydude kuutorɗe goɗɗe.",
+          "Ina fotnoo limoore hoyre mum : jamirooje timmuɗe tawa mbaɗaaka e mbaydi ndii."
+        ]
+      },
+      "offline": {
+        "title": "Doole yeeyooɓe ina ngolloo tawa ko e laylaytol",
+        "summary": "Ko ɗaɓɓirtee e app yamiroore mbele yeeyoowo oo ina waasa dartaade sabu signal.",
+        "points": [
+          "Catal e kaalis ina poti wonde e telefoŋ, wonaa tan e duule.",
+          "Yamiroore ndee ina hisnee e kaɓirgol ngol, ina neldee so lowre ndee artii.",
+          "So sinkronisaasiyoŋ, yamiroore ndee ina naata e depasuuji ɗii tawo."
+        ]
+      },
+      "warehouse": {
+        "title": "Depo mo barkod, tawa alaa kaayitaaji",
+        "summary": "No yahrata gila e doggol tappirde haa e picking tabitinaaɗo e telefoŋ.",
+        "points": [
+          "Jaɓde e dow yamiroore coodgu, wonaa e dow siftorde.",
+          "Tabintin kala huunde nde seerndata. Buggere ndee taƴata ko e nder galle hee.",
+          "Dispatch ina hesɗitina stock mo yeeyoowo oo yiyata."
+        ]
+      },
+      "finance": {
+        "title": "Koolkisagol ina yahdi e yeeyirde",
+        "summary": "Ko waɗi yeeyoowo ina foti yiyde ñamaande soodoowo hade mum ƴettude yamiroore woɗnde.",
+        "points": [
+          "Njillu nguu ɓuri moƴƴude e mooftude, so tawii ñamaande ina yiyee.",
+          "Yeeyde e kaalis ina poti ƴeewde soodoowo gooto.",
+          "Ciimtol ñalnde kala ngol ɓooyaani ina ɓuri uddude ko juuti."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Coodguuli",
+    "title": "Ekosistem mo [[mawni e maa]].",
+    "intro": "Min njaltinaani tolno generik : njoɓdi ndii fawii ko e moodeluuji, huutortooɓe e njuuteendi. Min kollita on platform e min mbaɗa eɓɓoore e operation mon.",
+    "note": "Demo oo alaa ko yoɓetee, alaa ko ɗaɓɓi so wonaa kontraa.",
+    "recommended": "Feelama",
+    "faq_title": "Naamne keewɗe naamneede",
+    "plans": {
+      "essential": {
+        "name": "Kandudum",
+        "desc": "Yuɓɓinde njuɓɓudi njulaagu e saaktude ɗum e dow lowre wootere.",
+        "features": [
+          "FullVendor lowre web",
+          "Yeeyde, soodde e limde",
+          "Kiliyaneeɓe, yeeyooɓe e ciimtol",
+          "Huutortooɓe kaɓirɗe birooji",
+          "Ballal fuɗɗorde"
+        ],
+        "cta": "Ɗaɓɓu Demo"
+      },
+      "professional": {
+        "name": "Aandi kugal",
+        "desc": "Ngam kippuuji yeeyooɓe e mbedda e peewnugol yamiroore e nder depasuuji.",
+        "features": [
+          "Kala ko ina haani",
+          "Kuutorgal FullVendor Sales Man",
+          "Kuutorgal FullVendor Warehouse",
+          "Golle ɗe ngonaa e laylaytol e kode bar",
+          "Ɓeydu huutortooɓe ladde e depasuuji"
+        ],
+        "cta": "Ɗaɓɓu Demo"
+      },
+      "corporate": {
+        "name": "Korporaasiyoŋ",
+        "desc": "Ngam pelle potɗe jogaade logistique, coodguuli, kaalis e sosiyeteeji ceertuɗi.",
+        "features": [
+          "Ekosistem timmuɗo",
+          "Logistics, Vendor Supplier y Finance",
+          "FullVendor ERP e njulaagu keewngu",
+          "Faktirgol e hiisa elektoronik",
+          "Sehilaagal e keɓal ɓurngal teeŋtude"
+        ],
+        "cta": "Haaldu e yeeyooɓe"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Mbele miɗo foti soodde geɗe ɗee fof?",
+        "a": "Alaa. Aɗa waawi fuɗɗoraade e FullVendor e ɓeydude apps walla ERP so tawii gollal ngal ina haani ɗum."
+      },
+      "offline": {
+        "q": "Mbele applikationji ɗii ina ngolloo tawa internet alaa?",
+        "a": "Sales Man e Warehouse ina njokki golle tawa ngalaa signal e sinkronisaade so ina njokkondiri."
+      },
+      "multi": {
+        "q": "Mbele ina moƴƴi so miɗo jogii ko ɓuri sosiyetee gooto?",
+        "a": "Oho. ERP ina miijo sosiyeteeji keewɗi e ekosistem ina waawi renndude joom mum en."
+      },
+      "demo": {
+        "q": "Hol ko demo oo naati?",
+        "a": "Turtol e laylaytol ngol e kees nannduɗo e maa. Alaa njoɓdi kadi alaa fartaŋŋe."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Min kolli on FullVendor e [[nokku golle mon]].",
+    "text": "Haalan min ko fayti e sosiyetee maa e ko njiɗɗaa yamirde ko adii. Demo oo alaa njoɓdi."
+  },
+  "contact": {
+    "eyebrow": "Footugo",
+    "title": "Haaldu e [[operaasiyoŋ maa]].",
+    "text": "So aɗa yiɗi demo, eɓɓoore walla tan ngam orientaade hoore maa hakkunde geɗe ɗee, accu humpito maa min njaaboo.",
+    "email": "Mail",
+    "phone": "Noɗɗirgel",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Inde",
+    "email": "Mail",
+    "phone": "Noɗɗirgel",
+    "company": "Baabal kugal",
+    "country": "Lesdi",
+    "team": "Mawnugol kippu",
+    "interest": "Hol ko nafata ma?",
+    "message": "Wolde",
+    "optional": "Ha ngiɗa",
+    "choose": "Suɓɓugo",
+    "interest_all": "Ekosistem oo fof",
+    "ph_name": "innde maa",
+    "ph_email": "aan@sosiyetee.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Sosiyetee maa",
+    "ph_country": "Lesdi",
+    "ph_message": "Haalan min no ngollirton hannde",
+    "privacy_before": "Mi jaɓii huutoraade dokke am fawaade e...",
+    "privacy_after": ".",
+    "submit": "Neldu ɗaɓɓaande",
+    "sent_title": "Min keɓii ɗaɓɓaande maa",
+    "sent_text": "Mi yetti. Goomu yeeyooɓe maa winndu ma ngam yuɓɓinde demo walla jaabtaade naamnal maa.",
+    "error_required": "Timmin ndee fannu.",
+    "error_email": "Winndu iimeel moƴƴo.",
+    "error_phone": "Ƴeewto telefoŋ oo.",
+    "error_privacy": "Min njiɗi ko jaɓde maa ngam huutoraade kabaruuji jokkondirɗe.",
+    "error_csrf": "Joɗnde ndee gasii. Waɗtu ɓataake oo kadi.",
+    "error_save": "Min mbaawaano hisnude ɗaɓɓaande ndee. Enndu kadi.",
+    "error_generic": "Yiylo fannuuji maandeeji ɗii.",
+    "error_rate": "Tiiɗno, ɗaɓɓu seeɗa hade maa neldude ɗaɓɓaande woɗnde.",
+    "team_options": {
+      "1-10": "Yimɓe 1 haa 10",
+      "11-50": "11 haa 50 neɗɗo",
+      "51-200": "51 haa 200 neɗɗo",
+      "201-500": "201 haa 500 neɗɗo",
+      "500+": "Ko ɓuri 500 neɗɗo"
+    }
+  },
+  "video": {
+    "title": "FullVendor e nder hojomaaji gooti",
+    "prev": "Je aran",
+    "next": "Tokki",
+    "slides": [
+      {
+        "title": "Ekosistem gooto",
+        "text": "Yeeyirde, depasuuji, yettinde, soodde e kaalis ina ndennda soodooɓe, restoraaji e jamirooje."
+      },
+      {
+        "title": "Web e mobaayil ina kawri",
+        "text": "Biro oo ina gollira e dow laylaytol ngol. Laabi e depasuuji, e nder apps, hay so alaa signal."
+      },
+      {
+        "title": "Waɗaa ngam renndinde",
+        "text": "Gila e yamiroore haa e yoɓde, tawa aɗa rewa kabaruuji e fayndaare wootere fayde e fayndaare woɗnde."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Yiylo geɗe, kuutorɗe, gollorɗe...",
+    "lang_filter": "Ɗemngal njiylawu",
+    "intro": "Yiylo geɗe, kuutorɗe, gollorɗe e kaɓirɗe.",
+    "empty": "En njiytaa njeñtudi “{q}”.",
+    "hint": "Enndu yeeyirde, depasuuji, laabi walla mooftugol.",
+    "results": "{n} njeñtudi",
+    "button": "Yiylo...",
+    "kind_product": "Kuje",
+    "kind_solution": "Dabare",
+    "kind_industry": "Kuugal",
+    "kind_resource": "Ngalu"
+  },
+  "notfound": {
+    "title": "Ngoo hello wonaa...",
+    "text": "Jokkorde ndee woodaani walla waylii nokku."
+  },
+  "common": {
+    "what": "Ko safrata",
+    "features": "Ko woni heen",
+    "benefits": "Ko waɗi ɗum ina waɗi nafoore",
+    "for_who": "Hol mo ɗum woni?",
+    "related": "Kadi e nder ekosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Yeeyde hannde",
+      "orders": "Yamirooje",
+      "clients": "Sosiyeteeji",
+      "products": "Geɗe"
+    },
+    "sidebar": {
+      "dashboard": "Tablo",
+      "sales": "Yeeyde",
+      "purchases": "Soddugo",
+      "inventory": "Limtol",
+      "clients": "Sosiyeteeji",
+      "reports": "Rajooji"
+    },
+    "chart": "Yeeyde",
+    "channel": "Feccere e laabi",
+    "channels": [
+      "Sigorde",
+      "Sendol",
+      "Jaagorgal mawngal",
+      "Woɗɓe"
+    ],
+    "orders": "Yamirooje cakkitiiɗe",
+    "col_order": "Tawreta",
+    "col_client": "Sodowo",
+    "col_status": "Lesdi",
+    "col_total": "Fu",
+    "status": [
+      "Neldini",
+      "En laawol",
+      "Noppi"
+    ],
+    "top": "Products ɓurɗi soodde",
+    "product": "Kuje",
+    "sales_menu": [
+      "Sosiyeteeji",
+      "Yamirooje",
+      "Geɗe",
+      "Laabi",
+      "Sinkronisa"
+    ],
+    "warehouse_menu": [
+      "Jaɓɓugo",
+      "Piɗtaali",
+      "Limtol",
+      "Sandugo",
+      "Sinkronisa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politik sirlu",
+    "privacy_intro": "Ooɗoo kuutorgal ina hollita ko min mbaɗata e dokke ɗe njolnu-ɗaa e formileeruuji e ndee lowre.",
+    "privacy": [
+      {
+        "title": "Hol dokke ɗe min mooftata",
+        "text": "So aɗa ɗaɓɓa demo walla winndude min, min ndarna innde, sosiyetee, iimeel, tonngoode telefoŋ so a hollitii ɗum, leydi, mawneeki ekipaaji, geɗel nafoore e mesaas. Min mbinnda kadi ñalngu nguu, ɗemngal hello ngoo e adres IP, ngam haɗde jokkondire bonɗe."
+      },
+      {
+        "title": "Hol ko kuutortoɗen ɗe?",
+        "text": "Min kuutortoo ko ɗeen dokke tan ngam jaabtaade ma, yuɓɓinde demo e peewnugol eɓɓaande njulaagu. Min njeeyataa ɗe, min ndokkataa ɗe doggol tataɓol."
+      },
+      {
+        "title": "Hol to ɗe ndesndaa e hol no ɗe ndesndata ?",
+        "text": "Ɗaɓɓaaɗe ina mooftaa e lowre ndee. Min keɓata ɗe ngam wakkati potɗo huutoreede ngam gollanaade ma e jokkude njulaagu, kadi min momta ɗe so a naamndiima min walla so ɗe nattii haajde."
+      },
+      {
+        "title": "Hakkeeji maa",
+        "text": "Aɗa waawi ɗaɓɓude heɓde, feewnude walla momtude dokke maa e ɓataake jokkondirɗo, hollir ɗum e nder mesaas. So tawii sosiyetee oo yaltinii iimeel e ndee lowre, aɗa waawi kadi winndude toon."
+      }
+    ],
+    "terms_title": "Sarɗiiji kuutoragol",
+    "terms_intro": "Ɗee sarɗiiji ina kuutoree e huutoraade ndee lowre FullVendor jokkondire.",
+    "terms": [
+      {
+        "title": "Kabaaru njulaagu",
+        "text": "Binndi, yeru limooje daasborde e sifaaji ina naatna plateau. Ɗe mbaawi wayleede so tawii geɗel ngel wayliima tawa wonaa dokkal udditiingal."
+      },
+      {
+        "title": "Demo oo wonaa kontraa",
+        "text": "Jokkude ɓataake oo addantaa neɗɗo fartaŋŋe soodde walla reende coggu. Kala nanondiral ina nanondiree heen, e binndol, e mbaadi mum e sarɗiiji mum."
+      },
+      {
+        "title": "Loowdi lowre ndee",
+        "text": "FullVendor maande njulaagu, inɗe geɗe e ko woni e ɗeen kelle ko jeyi joom mum en. Ɗe mbaawaa koppireede ngam hollirde geɗel goɗngel."
+      },
+      {
+        "title": "Kuutoragol jaɓangol",
+        "text": "Hoto huutoro formileeruuji ɗii ngam neldude kabaruuji fenaande, spam walla loowdi ndi sariya haɗi. En mbaawa yejjiteede e ɗaɓɓaande nde yahdaani e yeewtere njulaagu tigi-rigi."
+      }
+    ]
+  }
+}

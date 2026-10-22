@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Kudeatu eta hazi zure negozioa",
+    "home_desc": "Banaketa, salmenta, logistika, erosketa, inbentarioa eta finantzaketarako web eta mugikorretarako soluzioekin bat-bateko plataforma.",
+    "products_title": "Produktuak | FullVendor",
+    "products_desc": "Ekosistema ezagutu FullVendor: plataforma komertziala, ERP, logistika, hornitzaileak eta salmentak, biltegia eta finantza aplikazioak.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Irtenbideak | FullVendor",
+    "solutions_desc": "Kudeaketa komertziala, salmenta indarra, biltegia, logistika, erosketa eta finantzaketarako irtenbideak.",
+    "industries_title": "Industriak | FullVendor",
+    "industries_desc": "FullVendor banaketa, txikizkako, janari, farmazia, hardware, kontsumo masiboa, fabrikazioa eta azken kilometrorako.",
+    "pricing_title": "Prezioak | FullVendor",
+    "pricing_desc": "Plan ezinbestekoak, profesionalak eta korporatiboak. Proposamena moduluen, erabiltzaileen eta bolumenaren arabera biltzen da.",
+    "resources_title": "Baliabideak | FullVendor",
+    "resources_desc": "Banaketa bateratzeko, lineaz kanpo saltzeko, biltegia antolatzeko eta garaiz ordaintzeko gida laburrak.",
+    "contact_title": "Kontaktua | FullVendor",
+    "contact_desc": "Idatzi iezaguzu FullVendor buruz jakiteko edo salmenta-taldearekin elkarrizketa bat koordinatzeko.",
+    "demo_title": "Eskatu demoa | FullVendor",
+    "demo_desc": "Eskatu FullVendor-ren demo bat eta bisitatu plataforma zure eragiketaren antzeko kasu batekin.",
+    "privacy_title": "Pribatutasuna | FullVendor",
+    "terms_title": "Baldintzak | FullVendor",
+    "search_title": "Bilatu | FullVendor",
+    "notfound_title": "Ez da orria aurkitu | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Hasierako orria",
+    "products": "Produktuak",
+    "solutions": "Irtenbideak",
+    "industries": "Industriak",
+    "pricing": "Prezioak",
+    "resources": "Baliabideak",
+    "contact": "Harremanetan jarri",
+    "open_menu": "Ireki menua",
+    "close": "Itxi"
+  },
+  "cta": {
+    "demo": "Eskatu Demo",
+    "contact": "Jarri gurekin harremanetan",
+    "video": "Ikusi bideoa",
+    "talk": "Salmentekin hitz egin",
+    "all_products": "Ikusi produktu guztiak",
+    "home": "Itzuli hasierako orrira"
+  },
+  "a11y": {
+    "skip": "Saltatu edukira",
+    "primary": "Nabigazio nagusia",
+    "crumbs": "Nabigazio ibilbidea",
+    "search": "Bilatu",
+    "language": "Hizkuntza"
+  },
+  "hero": {
+    "eyebrow": "Guztia plataforma bakarrean",
+    "title": "Kudeatu eta hazi\nzure negozioarekin\n{{brand}}",
+    "subtitle": "Banaketa, salmenta, logistika, erosketa, inbentarioa, finantzak eta abarretarako web eta mugikorreko soluzioekin plataforma osoa.",
+    "pill_ecosystem": "Dena ekosistema bakarrean",
+    "pill_cloud": "Hodeian, segurua eta eskalagarria",
+    "pill_size": "Tamaina guztietako enpresentzat"
+  },
+  "products_block": {
+    "eyebrow": "Gure produktuak",
+    "title": "[[Ekosistema osoa]] zure negozioaren eremu bakoitzerako",
+    "aside": "Elkarrekin lan egiten duten soluzio integratuak kontrol osoa, eraginkortasun operatiboa eta hazkunde handiagoa emateko.",
+    "groups": {
+      "money": "Administrazioa eta bilketa",
+      "flow": "Erosketak eta entrega",
+      "field": "Salmenta eta biltegia"
+    }
+  },
+  "products_page": {
+    "title": "Zazpi produktu, [[eragiketa bakarra]]",
+    "text": "Produktu bakoitzak eremu bat konpontzen du. Elkarrekin bezeroak, stockak, eskaerak eta ordainketak partekatzen dituzte."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataforma",
+      "card": "Kudeaketa eta banaketa komertzialaren plataforma nagusia.",
+      "features": [
+        "Salmentak eta erosketak",
+        "Inbentarioa",
+        "Bezeroak eta hornitzaileak",
+        "Txostenak eta gehiago"
+      ],
+      "lead": "Zure merkataritza-eragiketaren erdigunea: eskaerak, prezioak, stockak eta bezeroak leku bakarrean.",
+      "about": "FullVendor banatzaile baten kalkulu-orri solteak eta sistemak ordezkatzen ditu. Hemendik eskaerak ateratzen dira, inbentarioa kontsultatzen da, bezeroen zorroa zaintzen da eta eguneko zenbakiak aztertzen dira. Gainerako ekosistema oinarri honekin konektatzen da.",
+      "benefits": [
+        {
+          "title": "Datu maisu bakarra",
+          "text": "Bezeroak, produktuak eta prezioak salmentarekin, biltegiarekin eta finantzarekin partekatzen dira."
+        },
+        {
+          "title": "Garbitu eguneroko funtzionamendua",
+          "text": "Eskaerak, erosketak eta stockak fitxategi ezberdinetan bizitzeari uzten diote."
+        },
+        {
+          "title": "Erabakitzeko txostenak",
+          "text": "Salmentak, marjina eta pendienteak taula bat eskuz bildu gabe ikusten dira."
+        },
+        {
+          "title": "Hazteko prest",
+          "text": "Logistika, salmenta indarra edo ERP batuketak eragiketak hala eskatzen duenean."
+        }
+      ],
+      "audience": "Gaur egun negozioa hainbat sistemen artean koordinatzen duten merkataritza eta banaketa taldeak."
+    },
+    "erp": {
+      "kicker": "Administrazioa",
+      "card": "Kudeaketa administratibo eta finantzario osoa.",
+      "features": [
+        "Kontabilitatea",
+        "Fakturazio elektronikoa",
+        "Lan-fitxak",
+        "Aktibo finkoa",
+        "Enpresa anitzekoa"
+      ],
+      "lead": "Administrazioa eta finantzak, benetan saldu eta entregatzen denarekin lerrokatuta.",
+      "about": "FullVendor ERP kontabilitatea, faktura elektronikoa, nominak, ibilgetua eta enpresa anitzekoa hartzen ditu. Eragiketa komertziala hartzen du eta finantza-arloak erabil ditzakeen sarrera, ordainagiri eta aitorpenetan bihurtzen du.",
+      "benefits": [
+        {
+          "title": "Konektatutako kontabilitatea",
+          "text": "Salmentetan eta erosketetan gertatzen dena jario kontabilitatea."
+        },
+        {
+          "title": "Ordainagiri elektronikoak",
+          "text": "Ekosistema beretik igortzen eta kontrolatzen duzu fakturazioa."
+        },
+        {
+          "title": "Hainbat enpresa",
+          "text": "Sozietate anitzeko enpresa-izen bat baino gehiagorekin jarduten duten taldeentzat."
+        },
+        {
+          "title": "Nominak eta ondarea",
+          "text": "Nomina eta ibilgetua gainontzeko kudeaketarekin batera."
+        }
+      ],
+      "audience": "Eragiketa errealarekin zenbakiak itxi nahi dituzten administrazio eta finantza arloak."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Zure eragiketa logistikoaren kontrola eta jarraipena.",
+      "features": [
+        "Ibilbideak eta bidalketak",
+        "Denbora errealeko jarraipena",
+        "Gidariaren esleipena",
+        "Ibilbideen optimizazioa"
+      ],
+      "lead": "Eskaeratik entregara: ibilbideak, gidariak eta denbora errealeko jarraipena.",
+      "about": "FullVendor Logistics banaketa antolatzen du. Ibilbideak sortu, gidariak esleitu eta entrega bakoitza nora doan ikusten duzu. Trafiko taldea deien arabera gelditzen da eskaera bidali den ala ez jakiteko.",
+      "benefits": [
+        {
+          "title": "Eguneko ibilbideak",
+          "text": "Zona, ordu-leihoaren eta edukieraren arabera ordenatutako bidalketak."
+        },
+        {
+          "title": "Esleitutako gidaria",
+          "text": "Ibilbide bakoitzak arduradun bat eta sekuentzia argia du."
+        },
+        {
+          "title": "Jarraipena",
+          "text": "Badakizu zer entregatu den, bidean edo geldituta."
+        },
+        {
+          "title": "Kilometro gutxiago",
+          "text": "Ibilbideen optimizazioak entrega-denbora eta kostua murrizten ditu."
+        }
+      ],
+      "audience": "Banaketa-eragiketak flota propioarekin edo hirugarrenekin."
+    },
+    "supplier": {
+      "kicker": "Erosketak",
+      "card": "Hornitzaileentzako eta erosketen kudeaketarako ataria.",
+      "features": [
+        "Erosketa-aginduak",
+        "Aipamenak",
+        "Hornitzaileen kudeaketa",
+        "Inbentarioarekin integratzea"
+      ],
+      "lead": "Zure hornitzaileek aurrekontua, eskaerak jaso eta stocka hornitu mezu elektroniko solterik gabe.",
+      "about": "Vendor Supplier atari bat irekitzen du erosketak eta hornitzaileak eskaera berdinetan lan egiteko. Aurrekontuak, erosketa-aginduak eta ordainagiria FullVendor-ko inbentarioari lotuta daude.",
+      "benefits": [
+        {
+          "title": "Eskaerak kanal batean",
+          "text": "Hornitzaileak ikusten du zer entregatu, posta elektronikoko katerik gabe."
+        },
+        {
+          "title": "Aipamen konparagarriak",
+          "text": "Prezioak eskatu eta historia ikusita aukeratzen duzu."
+        },
+        {
+          "title": "Hornitzaile Masterra",
+          "text": "Baldintzak, kontaktuak eta zain dauden erregistro bakarrean."
+        },
+        {
+          "title": "Sartu inbentarioa",
+          "text": "Erositakoa stockean islatzen da jasotzen denean."
+        }
+      ],
+      "audience": "Hainbat hornitzailez hornitzen diren eta trazabilitatea behar duten erosketa-taldeak."
+    },
+    "salesman": {
+      "kicker": "Mugikorretarako aplikazioa",
+      "card": "Aplikazio mugikorra salmenta-taldearentzat.",
+      "features": [
+        "Bezeroen kudeaketa",
+        "Aginduak hartzea",
+        "Produktuen katalogoa",
+        "Lineaz kanpoko lana"
+      ],
+      "lead": "Salmenta indarrak kalean hartzen ditu eskaerak, seinalearekin edo gabe.",
+      "about": "FullVendor Sales Man bere zorroa, katalogoa eta eskaera saltzailearen telefonoan jartzen ditu. Internetik ez badago, lanak jarraitzen du eta seinalea itzultzen denean sinkronizatzen da. Eskaera prestatzeko eta entregatzeko prest iristen da.",
+      "benefits": [
+        {
+          "title": "Poltsikoan zorroa",
+          "text": "Saltzaileak bezeroak, baldintzak eta zain dauden elementuak ikusten ditu."
+        },
+        {
+          "title": "Eska ezazu bisitan",
+          "text": "Hartu eskaera egungo prezioekin eta stockekin."
+        },
+        {
+          "title": "Katalogoa eguneratua",
+          "text": "PDF zaharrik gabeko produktuak, aurkezpenak eta prezioak."
+        },
+        {
+          "title": "Benetako lineaz kanpo",
+          "text": "Lan egin estaldurarik gabe eta sinkronizatu geroago."
+        }
+      ],
+      "audience": "Begiraleak eta eremuko saltzaileak banaketan eta kontsumo masiboan."
+    },
+    "warehouse": {
+      "kicker": "Mugikorretarako aplikazioa",
+      "card": "Biltegirako aplikazio mugikorra.",
+      "features": [
+        "Harrera eta bidalketa",
+        "Bilketa eta paketatzea",
+        "Inbentarioen kontrola",
+        "Barra-kodeen irakurketa"
+      ],
+      "lead": "Telefonoarekin eta barra-kodearekin harrera, bilketa eta bidalketa.",
+      "about": "FullVendor Warehouse-ek biltegia harreran, bilketan, paketatzean eta bidalketan gidatzen du. Kodeak irakurtzeak erroreak murrizten ditu eta inbentarioa ez da hilaren amaieran soilik zenbatzen.",
+      "benefits": [
+        {
+          "title": "Aginduaren aurkako harrera",
+          "text": "Sartzen dena erosketarekin alderatzen da."
+        },
+        {
+          "title": "Helburuko bilketa",
+          "text": "Armadoreak eskaera jarraitzen du eta elementu bakoitza berresten du."
+        },
+        {
+          "title": "Barra-kodeak",
+          "text": "Produktu, lote edo kantitate errore gutxiago."
+        },
+        {
+          "title": "Stock fidagarria",
+          "text": "Mugimendu bakoitzak plataformaren inbentarioa eguneratzen du."
+        }
+      ],
+      "audience": "Gaur egun zerrenda inprimatuekin eskaerak prestatzen dituzten biltegi-kudeatzaileak eta armadoreak."
+    },
+    "finance": {
+      "kicker": "Mugikorretarako aplikazioa",
+      "card": "Kontrol finantzarioa zure mugikorretik.",
+      "features": [
+        "Hartzeko eta ordaindu beharreko kontuak",
+        "Bezeroaren egoera",
+        "Ordainketak eta bateratzeak",
+        "Txosten finantzarioak"
+      ],
+      "lead": "Hartzeko kontuak, ordainketak eta bezeroaren egoera, zure telefonotik.",
+      "about": "FullVendor Finance-k mugikorrean jasotako bilketa erakusten du: bezero bakoitzak zer zor duen, enpresak zer ordaintzekotan dagoen eta ordainketak nola datozen. Bisitaldian dirua biltzeko eta mahaia ireki gabe kutxazainari begiratzeko erabiltzen da.",
+      "benefits": [
+        {
+          "title": "Bilketa bisitan",
+          "text": "Saltzaileak badaki bezeroa eguneratuta dagoen ala ez saldu aurretik."
+        },
+        {
+          "title": "Kobratzekoa eta ordaintzekoa",
+          "text": "Kutxaren bi aldeak aplikazio berean."
+        },
+        {
+          "title": "Ordainketak eta bateratzeak",
+          "text": "Kredituak erregistratu eta zer gurutzatu behar den ikusten duzu."
+        },
+        {
+          "title": "Txostenak eskura",
+          "text": "Bilketa eta kutxa adierazleak itxiera itxaron gabe."
+        }
+      ],
+      "audience": "Une honetan bezeroaren egoera behar duten kudeatzaileak, biltzaileak eta saltzaileak."
+    }
+  },
+  "why": {
+    "eyebrow": "Zergatik FullVendor",
+    "title": "Bultza ezazu zure negozioa\nbenetako emaitzekin",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Enpresek gugan konfiantza dute"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Erabiltzaile aktiboak"
+      },
+      {
+        "value": "+10",
+        "suffix": "urteak",
+        "label": "Etengabeko bilakaeran"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Hodeiaren erabilgarritasuna"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Nola funtzionatzen duen",
+    "title": "Salmentatik bilketara, sistemak aldatu gabe",
+    "text": "Produktu bakoitzak bezeroak, stockak, eskaerak eta ordainketak partekatzen ditu. Kalean edo biltegian gertatzen dena bulegoan berehala agertzen da.",
+    "steps": {
+      "sell": {
+        "title": "Saltzen duzu",
+        "text": "Eskaera webgunearen bidez edo Sales Man bidez sartzen da, seinalerik gabe ere."
+      },
+      "pick": {
+        "title": "Prest",
+        "text": "Warehouse barra-kodearekin jasotzen, bereizten eta bidaltzen du."
+      },
+      "deliver": {
+        "title": "Bidalketak",
+        "text": "Logistics ibilbidea esleitzen du eta entrega jarraitzen du."
+      },
+      "collect": {
+        "title": "Kobrak",
+        "text": "Finance eta ERP bilduma, ordainagiriak eta zenbakiak ixten dituzte."
+      }
+    }
+  },
+  "band": {
+    "title": "[[zure eragiketa]]-rekin ikusteko prest?",
+    "text": "Ekosistema erakusten dizugu zurearen antzeko banaketa kasu batekin."
+  },
+  "footer": {
+    "blurb": "Banaketa, salmenta, logistika, erosketa, inbentarioa eta finantzak egiteko web eta mugikorreko plataforma.",
+    "products": "Produktuak",
+    "company": "Enpresa",
+    "legal": "Legezkoa",
+    "privacy": "Pribatutasuna",
+    "terms": "Baldintzak",
+    "rights": "Eskubide guztiak erreserbatuta."
+  },
+  "solutions": {
+    "eyebrow": "Irtenbideak",
+    "title": "Eremu bakoitza, [[eragiketa bera]]",
+    "intro": "Aukeratu konpondu nahi duzun arazoaren arabera. Atzean, produktuek informazio bera partekatzen dute.",
+    "items": {
+      "commercial": {
+        "title": "Kudeaketa komertziala",
+        "text": "Eskaerak, prezioak, bezeroak eta inbentarioa eguneroko banaketarako."
+      },
+      "field": {
+        "title": "salmenta indarra",
+        "text": "Eskaerak kalean, linean edo lineaz kanpo hartzen dituzten saltzaileak."
+      },
+      "warehouse": {
+        "title": "Denda",
+        "text": "Harrera, picking, bidalketa eta fidagarria den stocka."
+      },
+      "logistics": {
+        "title": "Logistika eta entrega",
+        "text": "Ibilbideak, gidariak eta entrega bakoitzaren egoera."
+      },
+      "purchasing": {
+        "title": "Erosketak eta hornitzaileak",
+        "text": "Aurrekontuak, eskaerak eta hornitzen zaituenarentzat ataria."
+      },
+      "finance": {
+        "title": "Finantza eta kontabilitatea",
+        "text": "Kobraketak, ordainketak, fakturazio elektronikoa eta kontabilitatea."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industriak",
+    "title": "[[produktua mugitzen dutenentzat]]",
+    "intro": "FullVendor banaketan jaio zen eta erosten, biltegiratu, saltzen eta entregatzen duten enpresekin batera joaten da.",
+    "items": {
+      "wholesale": {
+        "title": "Banaketa eta handizkakoa",
+        "text": "Prezio zerrendak, zorroa, banaketa eta bilketa zirkuitu bakarrean."
+      },
+      "retail": {
+        "title": "Txikizkako salmenta",
+        "text": "Denda eta biltegia konektatutako stockarekin, salmentarekin eta horniketarekin."
+      },
+      "food": {
+        "title": "Janaria eta edariak",
+        "text": "Ibilbide ohikoak eta gelditu ezin den biltegia."
+      },
+      "pharma": {
+        "title": "Farmazia eta zainketa pertsonala",
+        "text": "Harrera, picking eta inbentarioen kontrola trazabilitatearekin."
+      },
+      "hardware": {
+        "title": "Hardwarea eta eraikuntza",
+        "text": "Erreferentzia, hornitzaile eta lanera edo dendarako bidalketa ugari."
+      },
+      "fmcg": {
+        "title": "Kontsumo masiboa",
+        "text": "Kaleko salmenta indarra eta fakturazio handiko ordezkapena."
+      },
+      "manufacturing": {
+        "title": "Fabrikazioa",
+        "text": "Erosketak, biltegia eta inbentarioa administrazioarekin lerrokatuta."
+      },
+      "lastmile": {
+        "title": "Entrega eta azken kilometroa",
+        "text": "Ibilbideak, gidariak eta entrega bakoitzaren egoera."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Baliabideak",
+    "title": "Ideia garbiak [[eragiketa ordenatzeko]]",
+    "intro": "Gida laburrak zein sistemari eutsi erabakiko duten banaketa-kudeatzaileentzako.",
+    "items": {
+      "unify": {
+        "title": "Nola bateratu banaketa sistema bakarrean",
+        "summary": "Zer bildu lehenik salmentak, biltegia eta bildumak fitxategi ezberdinetan bizi direnean.",
+        "points": [
+          "Hasi bezero, produktu eta prezioetatik: denek erabiltzen duten irakaslea dira.",
+          "Konektatu eskaera stockarekin aplikazio gehiago gehitu aurretik.",
+          "Zenbaki sinple bat neurtzen du: formularioa berriro egin gabe betetako eskaerak."
+        ]
+      },
+      "offline": {
+        "title": "Salmenta indarra lineaz kanpo lanean",
+        "summary": "Eskaerak egiteko aplikazio bati zer eskatu behar dion saltzailea seinaleagatik geldi ez dadin.",
+        "points": [
+          "Katalogoak eta zorroak telefonoan egon behar dute, ez hodeian bakarrik.",
+          "Eskaera gailuan gordetzen da eta sarea itzultzen denean kargatzen da.",
+          "Sinkronizatzean, eskaera dagoeneko biltegian sartzen da."
+        ]
+      },
+      "warehouse": {
+        "title": "Biltegia barra-kodearekin, paperik gabe",
+        "summary": "Nola joan inprimatutako zerrendatik telefonoan berretsitako hautaketara.",
+        "points": [
+          "Erosketa eskaeraren aurka jaso, ez memoriaren aurka.",
+          "Berretsi elementu bakoitza bereiztean. Zomorroa korridorean sartzen da.",
+          "Bidalketak saltzaileak ikusten duen stocka eguneratzen du."
+        ]
+      },
+      "finance": {
+        "title": "Salmentarekin bat datorren bilduma",
+        "summary": "Zergatik saltzaileak bezeroaren zorra ikusi behar du beste eskaera bat hartu aurretik.",
+        "points": [
+          "Bisita da kobratzeko unerik onena, zorra ikusten bada.",
+          "Salmentak eta finantzak bezero berari begiratu behar diote.",
+          "Eguneko atzeratutako txostenak berandu ixteak baino gehiago balio du."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prezioak",
+    "title": "[[zurekin hazten den ekosistema]]",
+    "intro": "Ez dugu tasa generikorik argitaratzen: kostua moduluen, erabiltzaileen eta bolumenaren araberakoa da. Plataforma erakusten dizugu eta zure eragiketarekin proposamen bat egiten dugu.",
+    "note": "Demoak ez du kosturik eta ez du kontraturik behar.",
+    "recommended": "Gomendagarria",
+    "faq_title": "Maiz egiten diren galderak",
+    "plans": {
+      "essential": {
+        "name": "Ezinbestekoa",
+        "desc": "Kudeaketa eta banaketa komertziala plataforma bakarrean antolatzea.",
+        "features": [
+          "FullVendor web plataforma",
+          "Salmentak, erosketak eta inbentarioa",
+          "Bezeroak, hornitzaileak eta txostenak",
+          "Bulegoko ekipoen erabiltzaileak",
+          "Hasteko laguntza"
+        ],
+        "cta": "Eskatu Demo"
+      },
+      "professional": {
+        "name": "Profesionala",
+        "desc": "Kalean saltzen duten eta biltegian eskaerak prestatzen dituzten taldeentzat.",
+        "features": [
+          "Ezinbestekoa dena",
+          "Aplikazioa FullVendor Sales Man",
+          "Aplikazioa FullVendor Warehouse",
+          "Lineaz kanpoko lana eta barra-kodeak",
+          "Eremu eta biltegiko erabiltzaile gehiago"
+        ],
+        "cta": "Eskatu Demo"
+      },
+      "corporate": {
+        "name": "Korporatiboa",
+        "desc": "Logistika, erosketa, finantza eta hainbat enpresa behar dituzten taldeentzat.",
+        "features": [
+          "Ekosistema osoa",
+          "Logistics, Vendor Supplier eta Finance",
+          "FullVendor ERP eta alokairu anitzeko",
+          "Fakturazio elektronikoa eta kontabilitatea",
+          "Akonpainamendua eta lehentasunezko erabilgarritasuna"
+        ],
+        "cta": "Salmentekin hitz egin"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Produktu guztiak erosi behar al ditut?",
+        "a": "Ez. FullVendor-rekin hasi eta aplikazioak edo ERP gehi ditzakezu eragiketak behar duenean."
+      },
+      "offline": {
+        "q": "Aplikazioek Internetik gabe funtzionatzen dute?",
+        "a": "Sales Man eta Warehouse seinalerik gabe lanean jarraitzen dute eta sinkronizatzen dira berriro konektatzean."
+      },
+      "multi": {
+        "q": "Funtzionatzen al du enpresa bat baino gehiago baditut?",
+        "a": "Bai. ERP-k enpresa anitzeko aurreikusten du eta ekosistemak haien artean masterrak parteka ditzake."
+      },
+      "demo": {
+        "q": "Zer barne hartzen du demoak?",
+        "a": "Plataforman zehar bira bat zurearen antzeko kasu batekin. Ez kosturik eta ez betebeharrik."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "FullVendor erakusten dizugu [[zure eragiketa mota]]",
+    "text": "Esan iezaguzu zure enpresari buruz eta zer eskatu nahi duzun lehenik. Demoak ez du kosturik."
+  },
+  "contact": {
+    "eyebrow": "Harremanetan jarri",
+    "title": "Hitz egin dezagun [[zure eragiketa]]",
+    "text": "Demo bat, proposamen bat edo produktuen artean orientatzea nahi baduzu, utzi zure informazioa eta erantzungo dizugu.",
+    "email": "Posta",
+    "phone": "Telefonoa",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Izena",
+    "email": "Posta",
+    "phone": "Telefonoa",
+    "company": "Enpresa",
+    "country": "Herrialdea",
+    "team": "Taldearen tamaina",
+    "interest": "Zer interesatzen zaizu?",
+    "message": "Mezua",
+    "optional": "Aukerakoa",
+    "choose": "Hautatu",
+    "interest_all": "Ekosistema osoa",
+    "ph_name": "zure izena",
+    "ph_email": "zu@enpresa.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Zure konpainia",
+    "ph_country": "Herrialdea",
+    "ph_message": "Esaiguzu gaur nola funtzionatzen duzun",
+    "privacy_before": "Nire datuen erabilera onartzen dut",
+    "privacy_after": ".",
+    "submit": "Bidali eskaera",
+    "sent_title": "Zure eskaera jasotzen dugu",
+    "sent_text": "Eskerrik asko. Salmenta taldeak idatziko dizu demoa koordinatzeko edo zure galdera erantzuteko.",
+    "error_required": "Bete eremu hau.",
+    "error_email": "Sartu baliozko posta elektroniko bat.",
+    "error_phone": "Begiratu telefonoa.",
+    "error_privacy": "Zure baimena behar dugu harremanetarako datuak erabiltzeko.",
+    "error_csrf": "Saioa iraungi da. Bidali berriro inprimakia.",
+    "error_save": "Ezin izan dugu eskaera gorde. Saiatu berriro.",
+    "error_generic": "Berrikusi markatutako eremuak.",
+    "error_rate": "Mesedez, itxaron une bat beste eskaera bat bidali aurretik.",
+    "team_options": {
+      "1-10": "1 eta 10 pertsona",
+      "11-50": "11 eta 50 pertsona",
+      "51-200": "51 eta 200 lagun artean",
+      "201-500": "201 eta 500 lagun artean",
+      "500+": "500 pertsona baino gehiago"
+    }
+  },
+  "video": {
+    "title": "FullVendor minutu batean",
+    "prev": "Lehengoa",
+    "next": "Jarraian",
+    "slides": [
+      {
+        "title": "Ekosistema bakarra",
+        "text": "Salmentak, biltegia, entrega, erosketak eta finantzak partekatzen dituzten bezeroak, stockak eta eskaerak."
+      },
+      {
+        "title": "Weba eta mugikorra batera",
+        "text": "Bulegoak plataforman lan egiten du. Kalea eta biltegia, aplikazioetan, seinalerik gabe ere."
+      },
+      {
+        "title": "Banatzeko egina",
+        "text": "Eskaeratik ordainketara arte, fitxategi batetik bestera informazioa pasatu gabe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Bilatu produktuak, irtenbideak, industriak...",
+    "lang_filter": "Bilatu hizkuntza",
+    "intro": "Bilatu produktuak, irtenbideak, industriak eta baliabideak.",
+    "empty": "Ez dugu emaitzarik aurkitu “{q}”.",
+    "hint": "Probatu salmentak, biltegia, ibilbideak edo bildumak.",
+    "results": "{n} emaitzak",
+    "button": "Bilatu",
+    "kind_product": "Produktua",
+    "kind_solution": "Irtenbidea",
+    "kind_industry": "Industria",
+    "kind_resource": "Baliabidea"
+  },
+  "notfound": {
+    "title": "Orrialde hau ez da",
+    "text": "Esteka ez dago edo kokapena aldatu du."
+  },
+  "common": {
+    "what": "Zer konpontzen den",
+    "features": "Zer sartzen den",
+    "benefits": "Zergatik du garrantzia",
+    "for_who": "Norentzat da?",
+    "related": "Ekosisteman ere bai"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Salmentak gaur",
+      "orders": "Aginduak",
+      "clients": "Bezeroak",
+      "products": "Produktuak"
+    },
+    "sidebar": {
+      "dashboard": "Aginte-panela",
+      "sales": "Salmentak",
+      "purchases": "Erosketak",
+      "inventory": "Inbentarioa",
+      "clients": "Bezeroak",
+      "reports": "Txostenak"
+    },
+    "chart": "Salmentak",
+    "channel": "Banaketa kanalen arabera",
+    "channels": [
+      "Denda",
+      "Banaketa",
+      "Handizkaria",
+      "Beste batzuk"
+    ],
+    "orders": "Azken eskaerak",
+    "col_order": "Agindu",
+    "col_client": "Bezeroa",
+    "col_status": "Estatua",
+    "col_total": "Guztira",
+    "status": [
+      "Entregatua",
+      "Bidean",
+      "Belarritakoa"
+    ],
+    "top": "Produkturik salduenak",
+    "product": "Produktua",
+    "sales_menu": [
+      "Bezeroak",
+      "Aginduak",
+      "Produktuak",
+      "Ibilbideak",
+      "Sinkronizatu"
+    ],
+    "warehouse_menu": [
+      "Harrera",
+      "Hautaketa",
+      "Inbentarioa",
+      "Bidalketa",
+      "Sinkronizatu"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Pribatutasun politika",
+    "privacy_intro": "Politika honek webgune honetako inprimakietan uzten dituzun datuekin zer egiten dugun azaltzen du.",
+    "privacy": [
+      {
+        "title": "Zer datu biltzen ditugun",
+        "text": "Demo bat eskatzen baduzu edo idazten badiguzu, izena, enpresa, posta elektronikoa, telefono zenbakia, adieraziz gero, herrialdea, taldearen tamaina, interesa duen produktua eta mezua gordetzen ditugu. Data, orriaren hizkuntza eta IP helbidea ere erregistratzen ditugu, bidalketa abusuak saihesteko."
+      },
+      {
+        "title": "Zertarako erabiltzen ditugu?",
+        "text": "Datu hauek zuri erantzuteko, demo bat koordinatzeko eta proposamen komertziala prestatzeko soilik erabiltzen ditugu. Ez ditugu saltzen edo hirugarrenen zerrenda bati ematen."
+      },
+      {
+        "title": "Non gordetzen dira eta zenbat denboraz?",
+        "text": "Eskaerak gune honetako zerbitzarian gordetzen dira. Zure zerbitzurako eta jarraipen komertzialerako behar den denborarako gordetzen ditugu, eta eskatzen diguzunean edo gehiago behar ez direnean ezabatzen ditugu."
+      },
+      {
+        "title": "Zure eskubideak",
+        "text": "Harremanetarako formulariotik zure datuak sartzea, zuzentzea edo ezabatzea eska dezakezu, mezuan adieraziz. Enpresak webgune honetan mezu elektroniko bat argitaratzen badu, bertan ere idatzi dezakezu."
+      }
+    ],
+    "terms_title": "Erabilera-baldintzak",
+    "terms_intro": "Baldintza hauek FullVendor bidalketa gune honen erabilerari aplikatzen zaizkio.",
+    "terms": [
+      {
+        "title": "Informazio komertziala",
+        "text": "Testuak, adibide-panelaren irudiak eta deskribapenak plataforma aurkezten dute. Produktua aldatzen denean egokitu daitezke eta ez dira eskaintza itxia."
+      },
+      {
+        "title": "Demoa ez da kontratu bat",
+        "text": "Inprimakia bidaltzeak ez du prezio bat erosteko edo erreserbatzeko betebeharrik sortzen. Edozein kontratu bereizita hitzartzen da, idatziz, bere irismenarekin eta baldintzekin."
+      },
+      {
+        "title": "Gunearen edukia",
+        "text": "FullVendor marka komertziala, produktuen izenak eta orrialde hauen edukia haien jabeenak dira. Ezin dira kopiatu beste produktu bat aurkezteko."
+      },
+      {
+        "title": "Erabilera onargarria",
+        "text": "Ez erabili inprimakiak informazio faltsua, spam edo legez kanpoko edukia bidaltzeko. Benetako negozio-elkarrizketa bati dagozkion eskaerak alde batera utzi ditzakegu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Merañ ha kreskiñ hoc'h embregerezh",
+    "home_desc": "Leurenn holl-en-unan gant disoc'hoù web ha hezoug evit an dasparzh, ar gwerzhañ, al lojistikel, ar prenañ, an enporzhiañ hag an arc'hantaouiñ.",
+    "products_title": "Produioù | FullVendor",
+    "products_desc": "Ober anaoudegezh gant an ekoreizhiad FullVendor : leurenn genwerzhel, ERP, lojistikel, pourvezerien ha gwerzhañ, arloadoù sanailh ha arc'hant.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Disoc'hoù | FullVendor",
+    "solutions_desc": "Disoc'hoù evit ar merañ kenwerzhel, ar gwerzhañ, an departamant, al lojistikel, ar prenañ hag an arc'hantaouiñ.",
+    "industries_title": "Micheroù | FullVendor",
+    "industries_desc": "FullVendor evit an dasparzh, ar gwerzhañ, ar boued, an apotikerezh, an dafar, ar gounezerezh dre vras, ar sevel hag ar c'hilometr diwezhañ.",
+    "pricing_title": "Prizioù | FullVendor",
+    "pricing_desc": "Raktresoù diazez, micherel hag embregerezh. Savet eo ar c'hinnig hervez ar moduloù, an implijerien hag ar volum.",
+    "resources_title": "Danvezioù | FullVendor",
+    "resources_desc": "Titouroù berr evit unvaniñ an dasparzh, gwerzhañ ezlinenn, aozañ an departamant ha bezañ paeet d'an amzer.",
+    "contact_title": "Darempred | FullVendor",
+    "contact_desc": "Skrivit deomp evit gouzout hiroc'h diwar-benn FullVendor pe kenurzhiañ ur gaozeadenn gant ar skipailh gwerzhañ.",
+    "demo_title": "Goulenn demo | FullVendor",
+    "demo_desc": "Goulenn un demo eus FullVendor ha mont war-dro ar bladenn gant ur c'hasedig heñvel ouzh ho obererezh.",
+    "privacy_title": "Prevezded | FullVendor",
+    "terms_title": "Termenoù | FullVendor",
+    "search_title": "Klask | FullVendor",
+    "notfound_title": "Pajenn n'eo ket bet kavet | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pajenn degemer",
+    "products": "Produioù",
+    "solutions": "Disoc'hoù",
+    "industries": "Greanterezh |",
+    "pricing": "Prizioù",
+    "resources": "Loazioù",
+    "contact": "Darempred",
+    "open_menu": "Digeriñ al lañser",
+    "close": "Serriñ"
+  },
+  "cta": {
+    "demo": "Goulenn un diskouezadeg",
+    "contact": "Kit e darempred ganeomp",
+    "video": "Sellit ouzh ar video",
+    "talk": "Komz gant ar gwerzherien",
+    "all_products": "Gwelet an holl broduioù",
+    "home": "Distreiñ d'ar bajenn degemer"
+  },
+  "a11y": {
+    "skip": "Mont d'an endalc'had",
+    "primary": "Merdeiñ pennañ",
+    "crumbs": "Hent merdeiñ",
+    "search": "Klask",
+    "language": "Yezh"
+  },
+  "hero": {
+    "eyebrow": "An holl en ur savenn",
+    "title": "Merañ ha kreskiñ\nhoc'h embregerezh gant\n{{brand}}",
+    "subtitle": "Ur bladenn klok gant disoc'hoù web ha hezoug evit an dasparzh, ar gwerzhañ, al lojistikel, ar prenañ, an enporzhiañ, an arc'hantaouiñ hag all.",
+    "pill_ecosystem": "Pep tra en un ekoreizhiad hepken",
+    "pill_cloud": "Er c'hoad, sur ha skedus",
+    "pill_size": "Evit embregerezhioù a bep seurt"
+  },
+  "products_block": {
+    "eyebrow": "Ar produioù",
+    "title": "Un [[ekoreizhiad klok]] evit pep tachenn eus hoc'h embregerezh",
+    "aside": "Disoc'hoù kevredet a labour asambles evit reiñ deoc'h ur c'hontrol hollek, un efedusted oberiant hag ur c'hresk brasoc'h.",
+    "groups": {
+      "money": "Melestradurezh ha dastum",
+      "flow": "Prenañ ha degas",
+      "field": "Gwerzhañ ha sanailh"
+    }
+  },
+  "products_page": {
+    "title": "Seizh produ, [[oberiadenn unvan]]",
+    "text": "Pep produ a ziskoulm un dachenn. Asambles e rannont ar c'hliented, ar stokoù, ar gourc'hemennoù hag ar paemantoù."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Savenn",
+      "card": "Leurenn bennañ evit merañ ha skignañ armerzhel.",
+      "features": [
+        "Gwerzhañ ha prenañ |",
+        "Renabl",
+        "Kliented ha pourvezerien",
+        "Danevelloù ha muioc'h c'hoazh"
+      ],
+      "lead": "Kreizenn ho obererezh kenwerzhel : urzhioù, prizioù, stok ha kliented en ul lec'h hepken.",
+      "about": "FullVendor a erlec'h follennoù jediñ ha reizhiadoù didalvoud un dasparzher. Diwar-se e vez embannet ar gourc'hemennoù, goulennet e vez an enrolladennoù, kemeret e vez perzh e portfolio ar c'hliented ha sellet ouzh niveroù an devezh. Ar peurrest eus an ekoreizhiad a liamm ouzh ar bazenn-se.",
+      "benefits": [
+        {
+          "title": "Ur mestr roadennoù hepken",
+          "text": "Ar c'hliented, ar produioù hag ar prizioù a vez rannet gant ar gwerzhañ, an departamant hag an arc'hant."
+        },
+        {
+          "title": "Obererezh pemdeziek sklaer",
+          "text": "Paouez a ra ar gourc'hemennoù, ar prenadennoù hag ar stokoù da vevañ e restroù disheñvel."
+        },
+        {
+          "title": "Danevelloù da zivizout",
+          "text": "Gwelet e vez ar gwerzh, ar marz hag ar c'hortoz hep lakaat un daolenn asambles gant an dorn."
+        },
+        {
+          "title": "Prest da greskiñ",
+          "text": "Lojistikel, nerzh gwerzhañ pe sammadoù ERP pa c'houlenn an obererezh."
+        }
+      ],
+      "audience": "Skipailhoù kenwerzhel ha skignañ a genurzh an aferioù etre meur a reizhiad hiziv an deiz."
+    },
+    "erp": {
+      "kicker": "Melestradurezh",
+      "card": "Merañ melestradurel hag arc'hantel klok.",
+      "features": [
+        "Kontañ",
+        "Fakturerezh elektronek",
+        "Fichennoù labour",
+        "Madoù diazez",
+        "Lies-embregerezh"
+      ],
+      "lead": "Melestradurezh hag arc'hant, a-du gant ar pezh a vez gwerzhet ha degaset e gwirionez.",
+      "about": "FullVendor ERP a denn d'ar c'hontañ, d'ar fakturañ elektronek, d'ar goproù, d'ar madoù stag ha d'an embregerezhioù lies. Kemer a ra an obererezh kenwerzhel ha treiñ a ra anezhañ e skridoù, resevoù ha disklêriadurioù a c'hall an dachenn arc'hant implijout.",
+      "benefits": [
+        {
+          "title": "Kontañ kevreet",
+          "text": "Ar pezh a c'hoarvez er gwerzhioù hag er prenadennoù a gas war-raok ar c'hontañ."
+        },
+        {
+          "title": "Resevoù elektronek",
+          "text": "Embann ha kontrolliñ a rit ar fakturañ diwar ar memes ekoreizhiad."
+        },
+        {
+          "title": "Embregerezhioù liesseurt",
+          "text": "Lies-embregerezh evit ar strolladoù a ra war-dro muioc'h eget un anv embregerezh."
+        },
+        {
+          "title": "Paeañ ha madoù",
+          "text": "Ar gopr hag ar madoù stag asambles gant ar peurrest eus ar gevredigezh."
+        }
+      ],
+      "audience": "Tachennoù melestradurel hag arc’hantel a fell dezho serriñ an niveroù gant an obererezh gwirion."
+    },
+    "logistics": {
+      "kicker": "Lojistik",
+      "card": "Kontrolliñ ha evezhiañ ho obererezhioù lojistikel.",
+      "features": [
+        "Hentoù ha degasadennoù",
+        "Heuliañ e-gwirion",
+        "Kefridi ar blenier",
+        "Gwellaat an hentoù"
+      ],
+      "lead": "Eus ar gourc'hemenn betek an degasadenn : hentoù, blenierien ha heuliañ e amzer gwirion.",
+      "about": "FullVendor Logistics a aoz an dasparzh. Krouiñ a rit hentoù, lakaat blenierien ha gwelet pelec'h e ya pep degasadenn. Paouez a ra ar skipailh treuzdougen diouzh ar galvoù evit gouzout hag-eñ eo bet kaset ar gourc'hemenn.",
+      "benefits": [
+        {
+          "title": "Hentoù an devezh",
+          "text": "Degasadennoù urzhiet dre rannvro, prantad amzer ha galloud."
+        },
+        {
+          "title": "Ar blenier roet",
+          "text": "Pep hent en deus un den e penn hag un heuliad sklaer."
+        },
+        {
+          "title": "Heuliañ",
+          "text": "Gouzout a rez petra a vez degaset, war an hent pe paouezet."
+        },
+        {
+          "title": "Nebeutoc'h a gilometradoù",
+          "text": "An optimizadur hent a zigresk an amzer hag ar c'houst degas."
+        }
+      ],
+      "audience": "Obererezhioù skignañ gant ur flodad personel pe gant tredeogoù."
+    },
+    "supplier": {
+      "kicker": "Staliaoua",
+      "card": "Porched evit ar pourvezerien hag ar merañ prenañ.",
+      "features": [
+        "Urzhioù prenañ",
+        "Arroudoù",
+        "Merañ ar pourvezerien",
+        "Enframmañ gant an enrolladennoù"
+      ],
+      "lead": "Ho pourvezerien a ginnig prizioù, a resev urzhioù hag a adtapout ar stok hep posteloù kollet.",
+      "about": "Vendor Supplier a zigor ur porched evit ar prenadennoù hag ar pourvezerien da labourat war ar memes urzhioù. Stag eo ar prizioù, ar gourc'hemennoù prenañ hag ar resev ouzh enrolladenn FullVendor.",
+      "benefits": [
+        {
+          "title": "Urzhioù en ur chadenn",
+          "text": "Gwelet a ra ar pourvezer ar pezh a vo kaset, hep chadenn posteloù."
+        },
+        {
+          "title": "Mennozhioù keñverius",
+          "text": "Goulenn a rit prizioù ha dibab a rit gant an istor e sell."
+        },
+        {
+          "title": "Mestr ar pourvezer",
+          "text": "Kondisionoù, darempredoù ha gortoz en ur skrid hepken."
+        },
+        {
+          "title": "Lakait an enrolladenn",
+          "text": "Ar pezh a oa bet prenet a vez diskouezet er stok pa vez resevet."
+        }
+      ],
+      "audience": "Skipailhoù prenañ a adtapout meur a pourvezer hag a rank bezañ heuliet."
+    },
+    "salesman": {
+      "kicker": "Arload hezoug",
+      "card": "Arload hezoug evit ar skipailh gwerzhañ.",
+      "features": [
+        "Merañ ar c'hliented",
+        "Kemer urzhioù",
+        "Katalog ar produioù",
+        "Labour ezlinenn"
+      ],
+      "lead": "Ar gwerzherien a gemer ar gourc'hemennoù er straed, gant ur sinal pe hep.",
+      "about": "FullVendor Sales Man a laka ho portfolio, ho katalog hag ho koumanant war pellgomzer ar gwerzher. Ma n'eus ket a internet e kendalc'h al labour ha sinkronisaat a ra pa zistro ar sinal. Erruout a ra ar gourc'hemenn prest da aozañ ha da gas.",
+      "benefits": [
+        {
+          "title": "Ur yalc'h er godell",
+          "text": "Gwelet a ra ar gwerzher ar c'hliented, an traoù hag an elfennoù o c'hortoz."
+        },
+        {
+          "title": "Gourc'hemennit pa weladennit",
+          "text": "Kemer ar gourc'hemenn gant ar prizioù bremañ hag ar stok."
+        },
+        {
+          "title": "Hizivaet ar c'hatalog",
+          "text": "Produioù, kinnigoù ha prizioù hep ur PDF kozh."
+        },
+        {
+          "title": "Ezlinenn gwirion",
+          "text": "Labourat hep goleiñ ha sinkronelaat diwezhatoc'h."
+        }
+      ],
+      "audience": "Merourien ha gwerzherien war an dachenn e-barzh an dasparzh hag ar gounezerezh dre vras."
+    },
+    "warehouse": {
+      "kicker": "Arload hezoug",
+      "card": "Arload hezoug evit an departamant.",
+      "features": [
+        "Degemer ha kas",
+        "Dastum ha pakañ",
+        "Kontroll an enrolladennoù",
+        "Lenn ar c'hod barrennoù"
+      ],
+      "lead": "Degemer, dastum ha kas gant ar pellgomz hag ar c'hod barrennoù.",
+      "about": "FullVendor Warehouse a gas an ti-embann da zegemer, da zastum, da embann ha da gas. Lenn ar c'hodoù a zigresk ar fazioù ha ne vez ket mui kontet an enrolladennoù nemet e fin ar miz.",
+      "benefits": [
+        {
+          "title": "Degemer a-enep urzh",
+          "text": "Ar pezh a ya e-barzh a vez keñveriet gant ar prenadenn."
+        },
+        {
+          "title": "Dibab tarzhet",
+          "text": "Heuliañ a ra ar perc'henn ar gourc'hemenn ha kadarnaat a ra pep tra."
+        },
+        {
+          "title": "Kodoù barrennoù",
+          "text": "Nebeutoc'h a fazioù produ, lodenn pe kementad."
+        },
+        {
+          "title": "Stok fiziañs",
+          "text": "Pep emdroadur a hiziva enrolladenn ar bladenn."
+        }
+      ],
+      "audience": "Renerien ar sanailhoù hag ar perc'henned listri a ginnig hiziv an deiz urzhioù gant rolloù moullet."
+    },
+    "finance": {
+      "kicker": "Arload hezoug",
+      "card": "Kontroll arc'hant diwar ho pellgomzer hezoug.",
+      "features": [
+        "Kontoù da resev ha da baeañ",
+        "Stad ar c'hlient",
+        "Paemantoù ha kendivizoù",
+        "Danevelloù arc'hant"
+      ],
+      "lead": "Kontoù da resev, paemantoù ha statud ar c'hlient, diwar ho pellgomzer.",
+      "about": "FullVendor Finance a ziskouez an dastum war ar pellgomzer hezoug : ar pezh a dle pep kliant, ar pezh a zo o vont da baeañ an embregerezh ha penaos e teu ar paemantoù. Implijet e vez evit dastum arc'hant e-pad ar weladenn ha sellet ouzh ar c'hasedig hep digeriñ ar burev.",
+      "benefits": [
+        {
+          "title": "Dastumad er weladenn",
+          "text": "Ar gwerzher a oar hag-eñ eo hizivaet ar c'hlient a-raok gwerzhañ."
+        },
+        {
+          "title": "Da resev ha da baeañ",
+          "text": "An daou du eus ar voest er memes arload."
+        },
+        {
+          "title": "Paemantoù ha kendivizoù",
+          "text": "Enrollañ a rez ar c'hredennoù ha gwelet a rez ar pezh a ranker treuziñ."
+        },
+        {
+          "title": "Danevelloù a-vremañ",
+          "text": "Diskouezadegoù dastum ha arc'hant hep gortoz ur serriñ."
+        }
+      ],
+      "audience": "Renerien, dastumerien ha gwerzherien o deus ezhomm eus stad ar c'hlient er mare-mañ."
+    }
+  },
+  "why": {
+    "eyebrow": "Perak FullVendor",
+    "title": "Lakaat hoc'h embregerezh war-raok\ngant disoc'hoù gwirion",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Fiziañs a ra an embregerezhioù ennomp"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Implijerien oberiant"
+      },
+      {
+        "value": "+10",
+        "suffix": "bloavezhioù",
+        "label": "En emdroadur didalvoud"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ar c'hoad a c'haller kaout"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Penaos e ya en-dro",
+    "title": "Eus ar gwerzh d'an dastum, hep cheñch reizhiadoù",
+    "text": "Pep produ a rann ar c'hliented, ar stokoù, ar gourc'hemennoù hag ar paemantoù. Ar pezh a c'hoarvez er straed pe er sanailh a zeu war wel er burev diouzhtu.",
+    "steps": {
+      "sell": {
+        "title": "Gwerzhañ a rit",
+        "text": "Lakaet e vez an urzh dre al lec'hienn pe dre Sales Man, zoken hep sinal."
+      },
+      "pick": {
+        "title": "Prest",
+        "text": "Warehouse a resev, a zisparti hag a gas gant ur c'hod barrennoù."
+      },
+      "deliver": {
+        "title": "Degasadennoù",
+        "text": "Logistics a ro an hent hag a heuilh an degasadenn."
+      },
+      "collect": {
+        "title": "Kobraoù",
+        "text": "Finance ha ERP a serr an dastum, ar resevoù hag an niveroù."
+      }
+    }
+  },
+  "band": {
+    "title": "Prest da welet anezhañ gant [[hoc'h obererezh]] ?",
+    "text": "Diskouez a reomp deoc'h an ekoreizhiad gant ur c'has dasparzhañ heñvel ouzh ho hini."
+  },
+  "footer": {
+    "blurb": "Leurenn web ha hezoug evit an dasparzh, ar gwerzhañ, al lojistikel, ar prenañ, an enporzhiañ hag an arc'hantaouiñ.",
+    "products": "Produioù",
+    "company": "Kompagnunezh",
+    "legal": "Hervez lezenn",
+    "privacy": "Prevezded",
+    "terms": "Termenoù",
+    "rights": "An holl wirioù miret."
+  },
+  "solutions": {
+    "eyebrow": "Disoc'hoù",
+    "title": "Pep tachenn, kevreet ouzh an [[memes obererezh]].",
+    "intro": "Dibabit hervez ar gudenn a fell deoc'h diskoulmañ. A-dreñv, ar produioù a rann ar memes titouroù.",
+    "items": {
+      "commercial": {
+        "title": "Merañ ar c'henwerzh |",
+        "text": "Urzhioù, prizioù, kliented ha pourvezioù evit an dasparzh bemdez."
+      },
+      "field": {
+        "title": "nerzh gwerzhañ",
+        "text": "Gwerzherien o kemer urzhioù er straedoù, enlinenn pe ezlinenn."
+      },
+      "warehouse": {
+        "title": "Stal",
+        "text": "Degemer, dastum, kas hag ur stok a c'haller fiziout ennañ."
+      },
+      "logistics": {
+        "title": "Lojistik ha degas",
+        "text": "Hentoù, blenierien ha statud pep degasadenn."
+      },
+      "purchasing": {
+        "title": "Prenañ ha pourvezerien",
+        "text": "Prizioù, urzhioù hag ur porched evit an hini a ginnigo deoc'h."
+      },
+      "finance": {
+        "title": "Arc'hant ha kontadurezh |",
+        "text": "Dastumoù, paemantoù, fakturañ elektronek ha kontañ."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Greanterezh |",
+    "title": "Graet evit ar re a [[dilec'hiañ ar produ]]",
+    "intro": "FullVendor a zo bet ganet e-barzh an dasparzh hag a ya gant embregerezhioù a bren, a zalc'h, a werzh hag a gas.",
+    "items": {
+      "wholesale": {
+        "title": "Dasparzhañ ha gwerzhañ dre vras",
+        "text": "Rolloù prizioù, portfolio, dasparzh ha dastum en ur c'hirri-nij hepken."
+      },
+      "retail": {
+        "title": "A-vunut",
+        "text": "Stal ha sanailh gant stok kevreet, gwerzhañ ha leuniañ."
+      },
+      "food": {
+        "title": "Boued hag evajoù",
+        "text": "Hentoù alies hag un departamant na c'hell ket paouez."
+      },
+      "pharma": {
+        "title": "Apotikerezh ha prederioù personel",
+        "text": "Degemer, dastum ha kontrollañ an enrolladennoù gant heuliañ."
+      },
+      "hardware": {
+        "title": "Dafar ha sevel",
+        "text": "Kalz a daveoù, pourvezerien ha degasadennoù d'al labour pe d'ar stal."
+      },
+      "fmcg": {
+        "title": "Beveziñ dre vras",
+        "text": "Nerzh gwerzhañ er straedoù hag erlec'hiañ gant ur c'henwerzh uhel."
+      },
+      "manufacturing": {
+        "title": "Sevel",
+        "text": "Prenañ, sanailhañ ha pourveziñ a-du gant ar melestradurezh."
+      },
+      "lastmile": {
+        "title": "Degas ha mil diwezhañ",
+        "text": "Hentoù, blenierien ha statud pep degasadenn."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Loazioù",
+    "title": "Mennozhioù sklaer evit [[urzhiañ an obererezh]].",
+    "intro": "Titouroù berr evit ar renerien dasparzhañ a vo o tivizout gant peseurt reizhiad chom stag outañ.",
+    "items": {
+      "unify": {
+        "title": "Penaos unvaniñ an dasparzh en ur reizhiad hepken",
+        "summary": "Petra lakaat asambles da gentañ pa vev ar gwerzhioù, an departamant hag an dastumadoù e restroù disheñvel.",
+        "points": [
+          "Kregiñ gant ar c'hliented, ar produioù hag ar prizioù : int eo ar c'helenner a vez implijet gant pep hini.",
+          "Kevreit ar gourc'hemenn ouzh ar stok a-raok ouzhpennañ muioc'h a arloadoù.",
+          "Muzuliañ a ra un niver simpl : urzhioù sevenet hep adsevel ar furmskrid."
+        ]
+      },
+      "offline": {
+        "title": "Nerzh gwerzhañ o labourat ezlinenn",
+        "summary": "Petra a c'houlenn digant un arload urzhiañ evit ma ne baouezfe ket ar gwerzher abalamour d'ar sinal.",
+        "points": [
+          "Ret eo d'ar c'hatalog ha d'ar yalc'h bezañ war ar pellgomzer, ha n'eo ket er c'hoad hepken.",
+          "Enrollet e vez an urzh war an dafariad ha pellgarget pa zistro ar rouedad.",
+          "Pa vez sinkronisaet e vez lakaet ar gourc'hemenn e-barzh ar sanailh dija."
+        ]
+      },
+      "warehouse": {
+        "title": "Departamant gant barrennoù, hep paper",
+        "summary": "Penaos mont eus ar roll moullet d'an dibab kadarnaet war ar pellgomzer.",
+        "points": [
+          "Resev a-enep ar gourc'hemenn prenañ, n'eo ket a-enep ar memor.",
+          "Kadarnaat pep elfenn pa vez dispartiet. Troc'hañ a ra ar c'hrign-bev er sal.",
+          "Hizivaat a ra ar c'hemennadenn ar stok a vez gwelet gant ar gwerzher."
+        ]
+      },
+      "finance": {
+        "title": "Dastumad a-du gant ar gwerzh",
+        "summary": "Perak e rank ar gwerzher gwelet dle ar c'hlient a-raok kemer ur gourc'hemenn all.",
+        "points": [
+          "Ar weladenn eo ar mare gwellañ evit dastum, ma vez gwelet an dle.",
+          "Ret eo d'ar gwerzhañ ha d'an arc'hantaouiñ sellet ouzh ar memes kliant.",
+          "Ur skouerenn bemdeziek dale a dalv muioc'h eget ur serriñ diwezhat."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prizioù",
+    "title": "Un ekoreizhiad hag a [[kresk ganeoc'h]].",
+    "intro": "Ne embannomp ket ur feur hollek : ar c'houst a zalc'h ouzh ar moduloù, an implijerien hag ar volum. Diskouez a reomp deoc'h al leurenn ha lakaat a reomp asambles ur c'hinnig gant ho obererezh.",
+    "note": "N'eus koust ebet evit an demo ha n'eus ket ezhomm eus ur c'hontrad.",
+    "recommended": "Erbedet",
+    "faq_title": "Goulennoù graet alies",
+    "plans": {
+      "essential": {
+        "name": "Hollret",
+        "desc": "Aozañ ar merañ hag an dasparzh kenwerzhel war ur bladenn hepken.",
+        "features": [
+          "FullVendor leurenn web",
+          "Gwerzhañ, prenañ hag enporzhiañ",
+          "Kliented, pourvezerien ha danevelloù",
+          "Implijerien dafar burev",
+          "Skoazell startijenn"
+        ],
+        "cta": "Goulenn un diskouezadeg"
+      },
+      "professional": {
+        "name": "Micherel",
+        "desc": "Evit ar skipailhoù a werzh war ar straed hag a aoz ar gourc'hemennoù er sanailh.",
+        "features": [
+          "Pep tra diazez",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Labour ezlinenn ha kodoù barrennoù",
+          "Muioc'h a implijerien war an dachenn hag an departamant"
+        ],
+        "cta": "Goulenn un diskouezadeg"
+      },
+      "corporate": {
+        "name": "Embregerezh",
+        "desc": "Evit ar strolladoù o deus ezhomm eus lojistik, prenañ, arc'hantaouiñ hag embregerezhioù liesseurt.",
+        "features": [
+          "Ekoreizhiad klok",
+          "Logistics, Vendor Supplier ha Finance",
+          "FullVendor ERP ha lieslojeiz",
+          "Fakturañ ha kontañ elektronek",
+          "Heuliañ ha mont en-dro da gentañ"
+        ],
+        "cta": "Komz gant ar gwerzherien"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ha ret eo din prenañ an holl broduioù ?",
+        "a": "Nann. Gallout a rit kregiñ gant FullVendor hag ouzhpennañ arloadoù pe ERP pa vez ezhomm gant an oberiadenn."
+      },
+      "offline": {
+        "q": "Ha mont en-dro an arloadoù hep internet ?",
+        "a": "Sales Man ha Warehouse a gendalc'h da labourat hep sinal ha sinkronelaat a reont pa vez adkevreet."
+      },
+      "multi": {
+        "q": "Hag-eñ e ya en-dro ma 'm eus muioc'h eget un embregerezh ?",
+        "a": "Ya. ERP a sell ouzh lies-embregerezh hag an ekoreizhiad a c'hall rannañ mistri etrezo."
+      },
+      "demo": {
+        "q": "Petra a zo e-barzh an demo ?",
+        "a": "Ur veaj dre ar bladenn gant ur c'hasedig heñvel ouzh ho hini. Koust ebet ha redi ebet."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Diskouez a reomp deoc'h FullVendor gant [[ho doare obererezh]].",
+    "text": "Kontit deomp diwar-benn hoc'h embregerezh ha petra a fell deoc'h goulenn da gentañ. N'eus koust ebet evit an demo."
+  },
+  "contact": {
+    "eyebrow": "Darempred",
+    "title": "Komzomp diwar-benn [[hoc'h obererezh]].",
+    "text": "Mar fell deoc'h kaout un demo, ur c'hinnig pe evit en em lakaat etre ar produioù, lezit ho titouroù ha respont a raimp.",
+    "email": "Postel",
+    "phone": "Pellgomz",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Anv",
+    "email": "Postel",
+    "phone": "Pellgomz",
+    "company": "Kompagnunezh",
+    "country": "Bro",
+    "team": "Ment ar skipailh",
+    "interest": "Petra a blij deoc'h ?",
+    "message": "Kemennadenn",
+    "optional": "Diret",
+    "choose": "Diuzañ",
+    "interest_all": "An ekoreizhiad a-bezh",
+    "ph_name": "ho anv",
+    "ph_email": "c'hwi@embregerezh.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Hoc'h embregerezh",
+    "ph_country": "Bro",
+    "ph_message": "Lavar deomp penaos e labourit hiziv",
+    "privacy_before": "Degemer a ran implij ma roadennoù hervez ar",
+    "privacy_after": ".",
+    "submit": "Kas ar goulenn",
+    "sent_title": "Degemer a reomp ho koulenn",
+    "sent_text": "Trugarez deoc'h. Ar skipailh gwerzhañ a skrivo deoc'h evit kenurzhiañ an demo pe respont d'ho koulenn.",
+    "error_required": "Leuniañ ar vaezienn-mañ.",
+    "error_email": "Lakait ur postel reizh.",
+    "error_phone": "Sellit ouzh ar pellgomzer.",
+    "error_privacy": "Ezhomm hon eus eus ho asant evit implijout ho titouroù darempred.",
+    "error_csrf": "Echu eo an dalc'h. Adkas ar furmskrid.",
+    "error_save": "N'hon eus ket gallet enrollañ ar goulenn. Klaskit en-dro.",
+    "error_generic": "Adwelet ar maeziennoù merket.",
+    "error_rate": "Gortozit un tamm a-raok kas ur goulenn all.",
+    "team_options": {
+      "1-10": "1 da 10 den",
+      "11-50": "11 da 50 den",
+      "51-200": "51 da 200 den",
+      "201-500": "201 da 500 a dud",
+      "500+": "Ouzhpenn 500 den"
+    }
+  },
+  "video": {
+    "title": "FullVendor en ur vunutenn",
+    "prev": "Bet",
+    "next": "Da-heul",
+    "slides": [
+      {
+        "title": "Un ekoreizhiad hepken",
+        "text": "Gwerzhañ, staliañ, degas, prenañ hag arc'hantaouiñ a rann ar c'hliented, ar stok hag ar gourc'hemennoù."
+      },
+      {
+        "title": "Web ha pellgomzer hezoug asambles",
+        "text": "Labourat a ra ar burev war ar savenn. Ar straed hag an departamant, en apps, zoken hep sinal."
+      },
+      {
+        "title": "Graet evit skignañ",
+        "text": "Eus ar gourc'hemenn d'ar paeamant, hep treuzkas titouroù eus an eil restr d'eben."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Klask produioù, diskoulmoù, micherioù...",
+    "lang_filter": "Yezh klask",
+    "intro": "Klask produioù, disoc'hoù, micherioù ha danvezioù.",
+    "empty": "N'hon eus ket kavet disoc'hoù evit “{q}”.",
+    "hint": "Klaskit gwerzhañ, sanailhañ, hentoù pe dastumadegoù.",
+    "results": "{n} disoc'hoù",
+    "button": "Klask",
+    "kind_product": "Produ",
+    "kind_solution": "Diskoulm",
+    "kind_industry": "Industriezh",
+    "kind_resource": "Arc'hant"
+  },
+  "notfound": {
+    "title": "N'eo ket ar bajenn-mañ",
+    "text": "N'eus ket anezhañ eus al liamm pe cheñchet lec'hiadur en deus."
+  },
+  "common": {
+    "what": "Petra a ziskoulm",
+    "features": "Petra zo e-barzh",
+    "benefits": "Perak eo pouezus",
+    "for_who": "Evit piv eo ?",
+    "related": "En ekoreizhiad ivez"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Gwerzh hiziv",
+      "orders": "Urzhioù",
+      "clients": "Ar c'hliented",
+      "products": "Produioù"
+    },
+    "sidebar": {
+      "dashboard": "Taolenn-stur",
+      "sales": "Gwerzhañ",
+      "purchases": "Staliaoua",
+      "inventory": "Renabl",
+      "clients": "Ar c'hliented",
+      "reports": "Danevelloù"
+    },
+    "chart": "Gwerzhañ",
+    "channel": "Dasparzh dre chadenn",
+    "channels": [
+      "Stal",
+      "Dasparzh",
+      "Gwerzher dre vras",
+      "Re all"
+    ],
+    "orders": "Urzhioù diwezhañ",
+    "col_order": "Urzhiañ",
+    "col_client": "Arval",
+    "col_status": "Stad",
+    "col_total": "Hollad",
+    "status": [
+      "Degas",
+      "War an hent",
+      "Skouarn-skouarn"
+    ],
+    "top": "Produioù gwerzhet ar muiañ",
+    "product": "Produ",
+    "sales_menu": [
+      "Ar c'hliented",
+      "Urzhioù",
+      "Produioù",
+      "Hentoù",
+      "Sinkronelaat"
+    ],
+    "warehouse_menu": [
+      "Degemer",
+      "Dibab",
+      "Renabl",
+      "Kas",
+      "Sinkronelaat"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politikerezh prevezded",
+    "privacy_intro": "Displegañ a ra ar politikerezh-mañ ar pezh a reomp gant ar roadennoù a lezit war ar furmskridoù war al lec'hienn-mañ.",
+    "privacy": [
+      {
+        "title": "Peseurt roadennoù a zastumomp",
+        "text": "Ma c'houlennit un demo pe ma skrivit deomp, e enrollomp an anv, an embregerezh, ar postel, an niverenn bellgomz ma tiskouezit, ar vro, ment ar skipailh, ar produ a blij deoc'h hag ar gemennadenn. Enrollañ a reomp ivez an deiziad, yezh ar bajenn hag ar chomlec'h IP, evit mirout ouzh ar c'hinnigoù drouk."
+      },
+      {
+        "title": "Evit petra e implijomp anezho ?",
+        "text": "Implijout a reomp ar roadennoù-mañ evit respont deoc'h, kenurzhiañ un demo ha prientiñ ur c'hinnig kenwerzhel hepken. Ne werzhomp ket anezho pe ne roomp ket anezho d'ur roll tredeogoù."
+      },
+      {
+        "title": "Pelec'h e vezont miret ha pegeit amzer ?",
+        "text": "Enrollet e vez ar goulennoù war servijer al lec'hienn-mañ. Mirout a reomp anezho e-pad an amzer ret evit ho servij hag an heuliañ kenwerzhel, ha diverkañ a reomp anezho pa c'houlennit diganeomp pe pa ne vezont ket mui ezhomm anezho."
+      },
+      {
+        "title": "Ho gwirioù",
+        "text": "Gallout a rit goulenn mont e darempred, reizhañ pe diverkañ ho roadennoù diwar ar furmskrid darempred, en ur verkañ anezho er gemennadenn. Ma vez embannet ur postel gant an embregerezh war al lec'hienn-mañ e c'hallit skrivañ eno ivez."
+      }
+    ],
+    "terms_title": "Termenoù implij",
+    "terms_intro": "Ar c'hondisionoù-mañ a dalvez evit implij al lec'hienn kinnig FullVendor-mañ.",
+    "terms": [
+      {
+        "title": "Titouroù kenwerzhel",
+        "text": "Testennoù, skeudennoù skouer eus ar panelloù-stur ha deskrivadurioù a ginnig ar bladenn. Gallout a reont bezañ kemmet pa cheñch ar produ ha n'int ket ur c'hinnig serret."
+      },
+      {
+        "title": "N'eo ket ur c'hontrad an demo",
+        "text": "Kas ar furmskrid ne laka ket an dud da brenañ pe da virout ur priz. Pep kevrat a vez asantet war-eeun, dre skrid, gant e dalvoudegezh hag e c'hondisionoù."
+      },
+      {
+        "title": "Danvez al lec'hienn",
+        "text": "Ar merk FullVendor, anvioù ar produioù hag endalc'had ar pajennoù-mañ a zo d'o perc'henned. Ne c'hellont ket bezañ kopiet evit kinnig ur produ all."
+      },
+      {
+        "title": "Implij degemerus",
+        "text": "Arabat implijout ar furmskridoù evit kas titouroù faos, spamoù pe endalc'hadoù diouzh al lezenn. Gallout a reomp leuskel a-gostez ar goulennoù na glotont ket gant ur gaozeadenn aferioù gwirion."
+      }
+    ]
+  }
+}

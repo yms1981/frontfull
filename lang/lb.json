@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Verwalten a wuessen Äert Geschäft",
+    "home_desc": "All-zu-eent Plattform mat Web- a mobilen Léisunge fir Verdeelung, Verkaf, Logistik, Kaaf, Inventar a Finanzen.",
+    "products_title": "Produkter | FullVendor",
+    "products_desc": "Léiert d'Ökosystem FullVendor kennen: kommerziell Plattform, ERP, Logistik, Fournisseuren a Verkaf, Lager- a Finanzapps.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Léisungen | FullVendor",
+    "solutions_desc": "Léisunge fir kommerziell Gestioun, Ofsaz Kraaft, Lager, Logistik, Akeef a Finanzen.",
+    "industries_title": "Industrien | FullVendor",
+    "industries_desc": "FullVendor fir Verdeelung, Retail, Liewensmëttel, Apdikt, Hardware, Mass Konsum, Fabrikatioun a leschter Meile.",
+    "pricing_title": "Präisser | FullVendor",
+    "pricing_desc": "Essential, Professionell a Corporate Pläng. D'Propositioun gëtt no Moduler, Benotzer a Volumen zesummegesat.",
+    "resources_title": "Ressourcen | FullVendor",
+    "resources_desc": "Kuerz Guiden fir d'Verdeelung ze vereenegen, offline ze verkafen, d'Lager ze organiséieren an op Zäit bezuelt ze ginn.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Schreift eis fir iwwer FullVendor ze léieren oder e Gespréich mam Verkafsteam ze koordinéieren.",
+    "demo_title": "Ufro Demo | FullVendor",
+    "demo_desc": "Ufro eng Demo vun FullVendor an Tour der Plattform mat engem Fall ähnlechen Är Operatioun.",
+    "privacy_title": "Privatsphär | FullVendor",
+    "terms_title": "Konditioune | FullVendor",
+    "search_title": "Sichen | FullVendor",
+    "notfound_title": "Säit net fonnt | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Homepage",
+    "products": "Produiten",
+    "solutions": "Léisungen",
+    "industries": "Industrien",
+    "pricing": "Präisser",
+    "resources": "Ressourcen",
+    "contact": "Kontakt",
+    "open_menu": "Menü opmaachen",
+    "close": "Zoumaachen"
+  },
+  "cta": {
+    "demo": "Ufro Demo",
+    "contact": "Kontaktéiert eis",
+    "video": "Kuckt de Video",
+    "talk": "Gespréich mam Verkaf",
+    "all_products": "Gesinn all Produiten",
+    "home": "Zréck op d'Homepage"
+  },
+  "a11y": {
+    "skip": "Wiessel op Inhalt",
+    "primary": "Main Navigatioun",
+    "crumbs": "Navigatiounsroute",
+    "search": "Sich no",
+    "language": "Sprooch"
+  },
+  "hero": {
+    "eyebrow": "Alles an enger Plattform",
+    "title": "Managen a wuessen\nÄre Betrib mat\n{{brand}}",
+    "subtitle": "Eng komplett Plattform mat Web- a mobilen Léisunge fir Verdeelung, Verkaf, Logistik, Kaaf, Inventar, Finanzen a méi.",
+    "pill_ecosystem": "Alles an engem eenzegen Ökosystem",
+    "pill_cloud": "An der Wollek, sécher a skalierbar",
+    "pill_size": "Fir Firmen vun alle Gréissten"
+  },
+  "products_block": {
+    "eyebrow": "Eis Produkter",
+    "title": "E [[komplett Ökosystem]] fir all Beräich vun Ärem Geschäft",
+    "aside": "Integréiert Léisungen déi zesumme schaffen fir Iech total Kontroll, operationell Effizienz a méi grouss Wuesstum ze ginn.",
+    "groups": {
+      "money": "Administratioun an Kollektioun",
+      "flow": "Akeef a Liwwerung",
+      "field": "Verkaf a Lager"
+    }
+  },
+  "products_page": {
+    "title": "Siwen Produkter, [[eenzel Operatioun]]",
+    "text": "All Produkt léist e Gebitt. Zesummen deele se Clienten, Aktien, Bestellungen a Bezuelungen."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plattform",
+      "card": "Haaptplattform fir kommerziell Gestioun a Verdeelung.",
+      "features": [
+        "Verkaf an Akeef",
+        "Inventar",
+        "Clienten a Fournisseuren",
+        "Berichter a méi"
+      ],
+      "lead": "Den Zentrum vun Ärer kommerziell Operatioun: Bestellungen, Präisser, Lager a Clienten op enger Plaz.",
+      "about": "FullVendor ersetzt engem Distributeur loose spreadsheets a Systemer. Vun hei kommen d'Bestellungen eraus, den Inventar gëtt konsultéiert, de Clienteportfolio gëtt gekëmmert an d'Zuelen vum Dag gekuckt. De Rescht vum Ökosystem verbënnt mat dëser Basis.",
+      "benefits": [
+        {
+          "title": "Eng eenzeg Daten Master",
+          "text": "Clienten, Produkter a Präisser gi mat Verkaf, Lager a Finanzen gedeelt."
+        },
+        {
+          "title": "Kloer deeglech Operatioun",
+          "text": "Bestellungen, Akeef a Lager stoppen a verschiddene Dateien ze liewen."
+        },
+        {
+          "title": "Rapporten ze entscheeden",
+          "text": "Verkaf, Margin an Erwaardung gi gesi ouni en Dësch mat der Hand zesummenzestellen."
+        },
+        {
+          "title": "Bereet fir ze wuessen",
+          "text": "Logistik, Verkafskraaft oder ERP Zommen wann d'Operatioun et freet."
+        }
+      ],
+      "audience": "Kommerziell a Verdeelungsteams déi haut d'Geschäft tëscht verschiddene Systemer koordinéieren."
+    },
+    "erp": {
+      "kicker": "Administratioun",
+      "card": "Komplett administrativ a finanziell Gestioun.",
+      "features": [
+        "Comptabilitéit",
+        "Elektronesch Rechnung",
+        "Aarbechtsblieder",
+        "Fester Verméigen",
+        "Multi-Firma"
+      ],
+      "lead": "Administratioun a Finanzen, ausgeriicht mat deem wat tatsächlech verkaf a geliwwert gëtt.",
+      "about": "FullVendor ERP deckt Comptabilitéit, elektronesch Rechnung, Paieziedel, fix Verméigen a Multi-Firma. Et hëlt déi kommerziell Operatioun a konvertéiert se an Entréen, Empfangen an Aussoen, déi de Finanzberäich benotze kann.",
+      "benefits": [
+        {
+          "title": "Verbonnen Comptablesmethod",
+          "text": "Wat geschitt am Verkaf an Akeef fidderen Comptablesmethod."
+        },
+        {
+          "title": "Elektronesch Empfang",
+          "text": "Dir erausginn a kontrolléiert Rechnung vum selwechten Ökosystem."
+        },
+        {
+          "title": "Verschidde Firmen",
+          "text": "Multi-Firma fir Gruppen déi ënner méi wéi engem Firmennumm operéieren."
+        },
+        {
+          "title": "Payrolls a Verméigen",
+          "text": "Payroll a fixe Verméigen zesumme mam Rescht vun der Gestioun."
+        }
+      ],
+      "audience": "Administrativ a finanziell Beräicher déi d'Zuelen mat der real Operatioun zoumaachen wëllen."
+    },
+    "logistics": {
+      "kicker": "Logistik",
+      "card": "Kontroll an Iwwerwaachung vun Ärer Logistik Operatioun.",
+      "features": [
+        "Strecken a Liwwerungen",
+        "Echtzäit Tracking",
+        "Chauffeur Aufgab",
+        "Route Optimisatioun"
+      ],
+      "lead": "Vun Bestellung bis Liwwerung: Strecken, Chauffeuren an Echtzäit Tracking.",
+      "about": "FullVendor Logistics organiséiert d'Verdeelung. Dir erstellt Strecken, verdeelt Chauffeuren a kuckt wou all Liwwerung geet. D'Traffic Team stoppt ofhängeg vun den Uruff fir erauszefannen ob d'Bestellung geschéckt ass.",
+      "benefits": [
+        {
+          "title": "Strecken vum Dag",
+          "text": "Liwwerunge bestallt no Zone, Zäitfenster a Kapazitéit."
+        },
+        {
+          "title": "Chauffeur zougewisen",
+          "text": "All Streck huet eng Responsabel an eng kloer Sequenz."
+        },
+        {
+          "title": "Verfollegen",
+          "text": "Dir wësst wat geliwwert gëtt, ënnerwee oder gestoppt."
+        },
+        {
+          "title": "Manner Kilometer",
+          "text": "Routeoptimiséierung reduzéiert d'Liwwerzäit a Käschten."
+        }
+      ],
+      "audience": "Verdeelungsoperatioune mat eegener Flott oder Drëttubidder."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Portal fir Fournisseuren an Akeef Gestioun.",
+      "features": [
+        "Kaafbestellungen",
+        "Zitater",
+        "Fournisseur Gestioun",
+        "Integratioun mat Inventar"
+      ],
+      "lead": "Är Fournisseuren quote, kréien Commanden an replenish Stock ouni loose Mailen.",
+      "about": "Vendor Supplier mécht e Portal op fir Akeef a Fournisseuren op déiselwecht Bestellungen ze schaffen. Zitater, Bestellungen an Empfang sinn un den Inventar vun FullVendor gebonnen.",
+      "benefits": [
+        {
+          "title": "Bestellungen an engem Kanal",
+          "text": "De Fournisseur gesäit wat ze liwweren, ouni eng E-Mail Kette."
+        },
+        {
+          "title": "Vergläichbar Zitater",
+          "text": "Dir frot fir Präisser a wielt mat der Geschicht am Hibléck."
+        },
+        {
+          "title": "Fournisseur Master",
+          "text": "Konditiounen, Kontakter an Erwaardung an engem eenzege Rekord."
+        },
+        {
+          "title": "Gitt den Inventar",
+          "text": "Wat kaaft gouf gëtt am Stock reflektéiert wann et kritt gëtt."
+        }
+      ],
+      "audience": "Kaafteams déi mat verschiddene Fournisseuren opfëllen a Tracabilitéit brauchen."
+    },
+    "salesman": {
+      "kicker": "Mobile App",
+      "card": "Mobil Applikatioun fir Verkafsteam.",
+      "features": [
+        "Client Gestioun",
+        "Bestellung huelen",
+        "Produit Katalog",
+        "Offline Aarbecht"
+      ],
+      "lead": "D'Verkeefer hëlt Bestellungen op der Strooss, mat oder ouni Signal.",
+      "about": "FullVendor Sales Man setzt Äre Portfolio, Katalog an Uerdnung op den Telefon vum Verkeefer. Wann et keen Internet ass, geet d'Aarbecht weider a synchroniséiert wann d'Signal zréckkënnt. D'Bestellung kënnt prett fir ze preparéieren a liwweren.",
+      "benefits": [
+        {
+          "title": "Portemonnaie an der Tasche",
+          "text": "De Verkeefer gesäit Clienten, Konditiounen an ofhängeg Artikelen."
+        },
+        {
+          "title": "Bestellung bei Besuch",
+          "text": "Huelt d'Bestellung mat aktuellen Präisser a Lager."
+        },
+        {
+          "title": "Katalog aktuell",
+          "text": "Produkter, Presentatiounen a Präisser ouni alen PDF."
+        },
+        {
+          "title": "Echt offline",
+          "text": "Schafft ouni Ofdeckung a synchroniséiert spéider."
+        }
+      ],
+      "audience": "Supervisoren an Feldverkeefer an der Verdeelung a Masseverbrauch."
+    },
+    "warehouse": {
+      "kicker": "Mobile App",
+      "card": "Mobil Applikatioun fir Lager.",
+      "features": [
+        "Empfang a Verschécken",
+        "Picken a packen",
+        "Inventar Kontroll",
+        "Barcode liesen"
+      ],
+      "lead": "Empfang, Picken a Versand mam Telefon a Barcode.",
+      "about": "FullVendor Warehouse guidéiert d'Lager beim Empfang, Picken, Verpaken a Verschécken. Liesen Coden reduzéiert Feeler an Inventar gëtt net méi nëmmen um Enn vum Mount gezielt.",
+      "benefits": [
+        {
+          "title": "Réceptioun géint Uerdnung",
+          "text": "Wat erakënnt gëtt mam Kaf verglach."
+        },
+        {
+          "title": "Geziilt auswielen",
+          "text": "De Schëffer follegt d'Bestellung a bestätegt all Element."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Manner Produkt-, Batch- oder Quantitéitfehler."
+        },
+        {
+          "title": "Zouverlässeg Stock",
+          "text": "All Beweegung aktualiséiert den Inventar vun der Plattform."
+        }
+      ],
+      "audience": "Warehouse Manager a Schëffer déi haut Bestellunge mat gedréckte Lëschte virbereeden."
+    },
+    "finance": {
+      "kicker": "Mobile App",
+      "card": "Finanzkontrolle vun Ärem Handy.",
+      "features": [
+        "Rechnungen ze bezuelen an ze bezuelen",
+        "Client Status",
+        "Bezuelungen a Reconciliatiounen",
+        "Finanzberichter"
+      ],
+      "lead": "Fuerderungen, Bezuelungen a Clientsstatus, vun Ärem Telefon.",
+      "about": "FullVendor Finance weist d'Sammlung um Handy: wat all Client schëlleg ass, wat d'Firma amgaang ass ze bezuelen a wéi d'Bezuelungen kommen. Et gëtt benotzt fir Sue während der Visite ze sammelen a fir d'Keess ze kucken ouni de Schreifdësch opzemaachen.",
+      "benefits": [
+        {
+          "title": "Kollektioun op der Visite",
+          "text": "De Verkeefer weess ob de Client aktuell ass virum Verkaf."
+        },
+        {
+          "title": "Receivable a bezuelt",
+          "text": "Béid Säiten vun der Këscht an der selwechter App."
+        },
+        {
+          "title": "Bezuelungen a Reconciliatiounen",
+          "text": "Dir registréiert Kreditter a kuckt wat muss gekräizt ginn."
+        },
+        {
+          "title": "Berichter bei Hand",
+          "text": "Sammlung an boer Indicateuren ouni op engem Feierowend waarden."
+        }
+      ],
+      "audience": "Manager, Sammler a Verkeefer, déi d'Situatioun vum Client am Moment brauchen."
+    }
+  },
+  "why": {
+    "eyebrow": "Firwat FullVendor",
+    "title": "Boost Äre Betrib\nmat real Resultater",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Firmen vertrauen eis"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiv Benotzer"
+      },
+      {
+        "value": "+10",
+        "suffix": "Joer",
+        "label": "An konstanter Evolutioun"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud Disponibilitéit"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Wéi et funktionnéiert",
+    "title": "Vum Verkaf bis Sammlung, ouni Systemer ze änneren",
+    "text": "All Produkt deelt Clienten, Aktien, Bestellungen a Bezuelungen. Wat op der Strooss oder am Lager geschitt, erschéngt direkt am Büro.",
+    "steps": {
+      "sell": {
+        "title": "Dir verkafen",
+        "text": "D'Bestellung gëtt iwwer d'Websäit oder iwwer Sales Man agefouert, och ouni Signal."
+      },
+      "pick": {
+        "title": "Fäerdeg",
+        "text": "Warehouse kritt, trennt a verschéckt mat Barcode."
+      },
+      "deliver": {
+        "title": "Liwwerungen",
+        "text": "Logistics zougewisen de Wee a follegt d'Liwwerung."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance an ERP zoumaachen d'Sammlung, d'Quittungen an d'Zuelen."
+      }
+    }
+  },
+  "band": {
+    "title": "Prett et mat [[Är Operatioun]] ze gesinn?",
+    "text": "Mir weisen Iech den Ökosystem mat engem Verdeelungsfall ähnlech wéi Ären."
+  },
+  "footer": {
+    "blurb": "Web a mobil Plattform fir Verdeelung, Verkaf, Logistik, Kaaf, Inventar a Finanzen.",
+    "products": "Produiten",
+    "company": "Firma",
+    "legal": "Juristesch",
+    "privacy": "Privatsphär",
+    "terms": "Konditioune",
+    "rights": "All Rechter reservéiert."
+  },
+  "solutions": {
+    "eyebrow": "Léisungen",
+    "title": "All Gebitt, verbonne mat der [[selwescht Operatioun]]",
+    "intro": "Wielt duerch de Problem deen Dir léise wëllt. Hannendrun deelen d'Produkter déiselwecht Informatioun.",
+    "items": {
+      "commercial": {
+        "title": "Commercial Gestioun",
+        "text": "Bestellungen, Präisser, Clienten an Inventar fir alldeeglech Verdeelung."
+      },
+      "field": {
+        "title": "Ofsaz Kraaft",
+        "text": "Verkeefer huelen Bestellungen op der Strooss, online oder offline."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Empfang, Picken, Verschécken an e Stock dee vertrauen kann."
+      },
+      "logistics": {
+        "title": "Logistik a Liwwerung",
+        "text": "Strecken, Chauffeuren an de Status vun all Liwwerung."
+      },
+      "purchasing": {
+        "title": "Kafen a Fournisseuren",
+        "text": "Zitater, Bestellungen an e Portal fir wien Iech liwwert."
+      },
+      "finance": {
+        "title": "Finanzen an Comptablesmethod",
+        "text": "Sammlungen, Bezuelungen, elektronesch Rechnung a Comptabilitéit."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrien",
+    "title": "Gemaach fir déi déi [[Produkt beweegt]]",
+    "intro": "FullVendor gouf an der Verdeelung gebuer a begleet Firmen déi kafen, späicheren, verkafen a liwweren.",
+    "items": {
+      "wholesale": {
+        "title": "Verdeelung an Grousshandel",
+        "text": "Präislëschten, Portfolio, Verdeelung a Sammlung an engem eenzege Circuit."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Store a Lager mat verbonne Lager, Verkaf a Replenishment."
+      },
+      "food": {
+        "title": "Iessen a Gedrénks",
+        "text": "Heefeg Strecken an e Lager dat net ophale kann."
+      },
+      "pharma": {
+        "title": "Apdikt a perséinlech Betreiung",
+        "text": "Empfang, Picking an Inventarkontroll mat Traceabilitéit."
+      },
+      "hardware": {
+        "title": "Hardware a Bau",
+        "text": "Vill Referenzen, Fournisseuren a Liwwerunge fir ze schaffen oder ze Geschäft."
+      },
+      "fmcg": {
+        "title": "Mass Konsum",
+        "text": "Street Ofsaz Kraaft an héich Ëmsaz Ersatz."
+      },
+      "manufacturing": {
+        "title": "Fabrikatioun",
+        "text": "Akeef, Lager an Inventar ausgeriicht mat Administratioun."
+      },
+      "lastmile": {
+        "title": "Liwwerung a leschte Kilometer",
+        "text": "Strecken, Chauffeuren an de Status vun all Liwwerung."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ressourcen",
+    "title": "Kloer Iddien fir [[Operatioun bestellen]]",
+    "intro": "Kuerz Guiden fir Verdeelungsmanager, déi entscheeden mat wéi engem System ze bleiwen.",
+    "items": {
+      "unify": {
+        "title": "Wéi vereenegt d'Verdeelung an engem eenzege System",
+        "summary": "Wat fir d'éischt zesummenzestellen wann Verkaf, Lager a Sammlungen a verschiddene Fichier liewen.",
+        "points": [
+          "Start mat Clienten, Produkter a Präisser: si sinn den Enseignant dee jidderee benotzt.",
+          "Connectéiert d'Bestellung mam Stock ier Dir méi Uwendungen bäidréit.",
+          "Et moosst eng einfach Zuel: Bestellungen erfëllt ouni de Formulaire nei ze maachen."
+        ]
+      },
+      "offline": {
+        "title": "Sales Force schaffen offline",
+        "summary": "Wat fir eng Bestellungsapp ze erfuerderen fir datt de Verkeefer net ophält wéinst dem Signal.",
+        "points": [
+          "De Katalog an de Portemonnaie mussen um Telefon sinn, net nëmmen an der Wollek.",
+          "D'Bestellung gëtt um Apparat gespäichert an eropgelueden wann d'Netzwierk zréckkënnt.",
+          "Beim Synchroniséierung kënnt d'Bestellung schonn an de Lager."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse mat Barcode, ouni Pabeier",
+        "summary": "Wéi gitt Dir vun der gedréckter Lëscht op d'bestätegt Auswiel um Telefon.",
+        "points": [
+          "Kréien géint d'Kaf Uerdnung, net géint Erënnerung.",
+          "Bestätegt all Element beim Trennen. De Käfer schneidt an d'Gang.",
+          "D'Versendung aktualiséiert d'Aktie déi de Verkeefer gesäit."
+        ]
+      },
+      "finance": {
+        "title": "Sammlung ugepasst mam Verkaf",
+        "summary": "Firwat de Verkeefer soll d'Schold vum Client gesinn ier Dir eng aner Bestellung hëlt.",
+        "points": [
+          "De Besuch ass déi bescht Zäit fir ze sammelen, wann d'Schold sichtbar ass.",
+          "Verkaf a Finanzen mussen op dee selwechte Client kucken.",
+          "En deeglechen iwwerdriwwene Bericht ass méi wäert wéi e spéide Schluss."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Präisser",
+    "title": "En Ökosystem deen [[mat Iech wiisst]]",
+    "intro": "Mir verëffentlechen net e generesche Tarif: d'Käschte hänkt vun de Moduler, Benotzer a Volumen of. Mir weisen Iech d'Plattform a stellen eng Propositioun mat Ärer Operatioun zesummen.",
+    "note": "D'Demo huet keng Käschten an erfuerdert kee Kontrakt.",
+    "recommended": "Recommandéiert",
+    "faq_title": "Oft gestallte Froen",
+    "plans": {
+      "essential": {
+        "name": "Wesentlech",
+        "desc": "Fir kommerziell Gestioun a Verdeelung op enger eenzeger Plattform ze organiséieren.",
+        "features": [
+          "FullVendor Webplattform",
+          "Verkaf, Akeef an Inventar",
+          "Clienten, Fournisseuren a Rapporten",
+          "Büro Equipement Benotzer",
+          "Start-up Ënnerstëtzung"
+        ],
+        "cta": "Ufro Demo"
+      },
+      "professional": {
+        "name": "Berufflech",
+        "desc": "Fir Teams déi op der Strooss verkafen a Bestellungen am Lager preparéieren.",
+        "features": [
+          "Alles wesentlech",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline Aarbecht a Barcodes",
+          "Méi Feld- a Lagerbenotzer"
+        ],
+        "cta": "Ufro Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Fir Gruppen déi Logistik, Akaf, Finanzen a verschidde Firmen brauchen.",
+        "features": [
+          "Komplett Ökosystem",
+          "Logistics, Vendor Supplier an Finance",
+          "FullVendor ERP a Multi-Locatioun",
+          "Elektronesch Rechnung a Comptabilitéit",
+          "Begleedung a Prioritéit Disponibilitéit"
+        ],
+        "cta": "Gespréich mam Verkaf"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Muss ech all d'Produkter kafen?",
+        "a": "Nee Dir kënnt mat FullVendor ufänken an Apps oder ERP derbäi wann d'Operatioun et brauch."
+      },
+      "offline": {
+        "q": "Aarbechten d'Applikatiounen ouni Internet?",
+        "a": "Sales Man an Warehouse schaffe weider ouni Signal a synchroniséiert wann Dir erëm konnektéiert."
+      },
+      "multi": {
+        "q": "Geet et wann ech méi wéi eng Firma hunn?",
+        "a": "Jo. ERP contemplates Multi-Firma an den Ökosystem kann Meeschter tëscht hinnen deelen."
+      },
+      "demo": {
+        "q": "Wat enthält d'Demo?",
+        "a": "En Tour vun der Plattform mat engem Fall ähnlechen op Är. Keng Käschten a keng Verpflichtung."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Mir weisen Iech FullVendor mat [[Är Aart vun Operatioun]]",
+    "text": "Sot eis iwwer Är Firma a wat Dir als éischt wëllt bestellen. D'Demo huet keng Käschten."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Loosst eis iwwer [[Är Operatioun]] schwätzen",
+    "text": "Wann Dir eng Demo wëllt, eng Propositioun oder just fir Iech tëscht de Produkter ze orientéieren, loosst Är Informatioun a mir äntweren.",
+    "email": "Mail",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Numm",
+    "email": "Mail",
+    "phone": "Telefon",
+    "company": "Firma",
+    "country": "Land",
+    "team": "Equipe Gréisst",
+    "interest": "Wat interesséiert Iech?",
+    "message": "Message",
+    "optional": "Fakultativ",
+    "choose": "Wielt",
+    "interest_all": "De ganzen Ökosystem",
+    "ph_name": "Ären Numm",
+    "ph_email": "du@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Är Firma",
+    "ph_country": "Land",
+    "ph_message": "Sot eis wéi Dir haut funktionnéiert",
+    "privacy_before": "Ech akzeptéieren d'Benotzung vu menger Donnéeën no der",
+    "privacy_after": ".",
+    "submit": "Ufro schécken",
+    "sent_title": "Mir kréien Är Demande",
+    "sent_text": "Merci. D'Verkafsteam schreift Iech fir d'Demo ze koordinéieren oder Är Fro ze beäntweren.",
+    "error_required": "Fëllt dëst Feld aus.",
+    "error_email": "Gitt eng valabel E-Mail.",
+    "error_phone": "Check den Telefon.",
+    "error_privacy": "Mir brauchen Är Zoustëmmung fir Kontaktdetailer ze benotzen.",
+    "error_csrf": "D'Sessioun ass ofgelaf. Gitt de Formulaire erëm of.",
+    "error_save": "Mir konnten d'Ufro net späicheren. Probéiert nach eng Kéier.",
+    "error_generic": "Iwwerpréift déi markéiert Felder.",
+    "error_rate": "Waart w.e.g. e Moment ier Dir eng aner Demande ofginn.",
+    "team_options": {
+      "1-10": "1 bis 10 Leit",
+      "11-50": "11 bis 50 Leit",
+      "51-200": "51 bis 200 Leit",
+      "201-500": "201 bis 500 Leit",
+      "500+": "Méi wéi 500 Leit"
+    }
+  },
+  "video": {
+    "title": "FullVendor an enger Minutt",
+    "prev": "Fréier",
+    "next": "Follegt",
+    "slides": [
+      {
+        "title": "Een eenzegen Ökosystem",
+        "text": "Verkaf, Lager, Liwwerung, Kaaf a Finanzen deelen Clienten, Stock an Bestellungen."
+      },
+      {
+        "title": "Web an Handy zesummen",
+        "text": "De Büro schafft op der Plattform. D'Strooss an d'Lager, an den Apps, och ouni Signal."
+      },
+      {
+        "title": "Gemaach fir ze verdeelen",
+        "text": "Vun Uerdnung bis Bezuelen, ouni Informatioun vun engem Fichier an en anert weiderginn."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Sich no Produkter, Léisungen, Industrien ...",
+    "lang_filter": "Sich Sprooch",
+    "intro": "Sich Produkter, Léisungen, Industrien a Ressourcen.",
+    "empty": "Mir hu keng Resultater fir \"{q}\" fonnt.",
+    "hint": "Probéiert Verkaf, Lager, Strecken oder Sammlungen.",
+    "results": "{n} Resultater",
+    "button": "Sich no",
+    "kind_product": "Produit",
+    "kind_solution": "Léisung",
+    "kind_industry": "Industrie",
+    "kind_resource": "Ressource"
+  },
+  "notfound": {
+    "title": "Dës Säit ass net",
+    "text": "De Link existéiert net oder huet de Standuert geännert."
+  },
+  "common": {
+    "what": "Wat léist",
+    "features": "Wat ass mat abegraff",
+    "benefits": "Firwat ass et wichteg",
+    "for_who": "Fir wien ass et?",
+    "related": "Och am Ökosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Verkaf haut",
+      "orders": "Bestellungen",
+      "clients": "Clienten",
+      "products": "Produiten"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Verkaf",
+      "purchases": "Shopping",
+      "inventory": "Inventar",
+      "clients": "Clienten",
+      "reports": "Rapporten"
+    },
+    "chart": "Verkaf",
+    "channel": "Verdeelung duerch Kanal",
+    "channels": [
+      "Store",
+      "Verdeelung",
+      "Grossist",
+      "Anerer"
+    ],
+    "orders": "Läscht Commanden",
+    "col_order": "Uerdnung",
+    "col_client": "Client",
+    "col_status": "Staat",
+    "col_total": "Ganzen",
+    "status": [
+      "Geliwwert",
+      "Ënnerwee",
+      "Ouerréng"
+    ],
+    "top": "Beschte verkafen Produiten",
+    "product": "Produit",
+    "sales_menu": [
+      "Clienten",
+      "Bestellungen",
+      "Produiten",
+      "Strecken",
+      "Synchroniséiert"
+    ],
+    "warehouse_menu": [
+      "Réceptioun",
+      "Picken",
+      "Inventar",
+      "Verschécken",
+      "Synchroniséiert"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privatsphär Politik",
+    "privacy_intro": "Dës Politik erkläert wat mir mat den Donnéeën maachen, déi Dir a Formen op dësem Site hannerlooss.",
+    "privacy": [
+      {
+        "title": "Wat fir Daten mir sammelen",
+        "text": "Wann Dir eng Demo freet oder eis schreift, späichere mir den Numm, d'Firma, d'E-Mail, d'Telefonsnummer wann Dir et uginn, d'Land, d'Gréisst vum Team, d'Produkt vum Interesse an de Message. Mir notéieren och den Datum, d'Sprooch vun der Säit an d'IP Adress, fir mëssbrauchend Soumissioun ze vermeiden."
+      },
+      {
+        "title": "Fir wat benotze mir se?",
+        "text": "Mir benotzen dës Donnéeën nëmme fir Iech ze reagéieren, eng Demo ze koordinéieren an eng kommerziell Propositioun virzebereeden. Mir verkafen se net oder ginn hinnen eng Lëscht vun Drëttubidder."
+      },
+      {
+        "title": "Wou gi se gespäichert a wéi laang?",
+        "text": "Ufroe sinn um Server vun dësem Site gespäichert. Mir halen se fir déi néideg Zäit fir Iech a kommerziell Suivi ze déngen, a mir läschen se wann Dir eis freet oder wann se net méi gebraucht ginn."
+      },
+      {
+        "title": "Är Rechter",
+        "text": "Dir kënnt Zougang, Korrektur oder Läschen vun Ären Donnéeën aus dem Kontaktformular ufroen, andeems Dir et an der Noriicht uginn. Wann d'Firma eng E-Mail op dëser Websäit publizéiert, kënnt Dir och do schreiwen."
+      }
+    ],
+    "terms_title": "Benotzungsconditiounen",
+    "terms_intro": "Dës Konditioune gëlle fir d'Benotzung vun dësem FullVendor Soumissioun Site.",
+    "terms": [
+      {
+        "title": "Kommerziell Informatiounen",
+        "text": "Texter, Beispill Dashboard Figuren a Beschreiwunge stellen d'Plattform vir. Si kënnen ugepasst ginn wann de Produit Ännerungen a sinn net eng zougemaach Offer."
+      },
+      {
+        "title": "D'Demo ass kee Kontrakt",
+        "text": "De Formulaire ofzeginn erstellt keng Verpflichtung fir e Präis ze kafen oder ze reservéieren. All Kontrakt gëtt getrennt ausgemaach, schrëftlech, mat sengem Ëmfang a Konditiounen."
+      },
+      {
+        "title": "Site Inhalt",
+        "text": "D'FullVendor Mark, Produktnimm an den Inhalt vun dëse Säiten gehéieren zu hire Besëtzer. Si kënnen net kopéiert ginn fir en anere Produkt ze presentéieren."
+      },
+      {
+        "title": "Akzeptabel Notzung",
+        "text": "Benotzt d'Formulairen net fir falsch Informatioun, Spam oder illegalen Inhalt ofzeginn. Mir kënnen Ufroe ignoréieren déi net zu engem aktuellen Geschäftsgespréich entspriechen."
+      }
+    ]
+  }
+}

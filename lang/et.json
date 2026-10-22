@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Hallake ja kasvatage oma ettevõtet",
+    "home_desc": "Kõik-ühes platvorm veebi- ja mobiililahendustega levitamiseks, müügiks, logistikaks, ostmiseks, laoseisuks ja finantseerimiseks.",
+    "products_title": "Tooted | FullVendor",
+    "products_desc": "Õpi tundma ökosüsteemi FullVendor: kommertsplatvorm, ERP, logistika, tarnijad ja müük, lao- ja finantsrakendused.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Lahendused | FullVendor",
+    "solutions_desc": "Lahendused ärijuhtimiseks, müügipersonalile, laole, logistikale, ostudele ja finantsidele.",
+    "industries_title": "Tööstusharud | FullVendor",
+    "industries_desc": "FullVendor turustamise, jaemüügi, toidu, apteegi, riistvara, masstarbimise, tootmise ja viimase miili jaoks.",
+    "pricing_title": "Hinnad | FullVendor",
+    "pricing_desc": "Olulised, professionaalsed ja ettevõtte plaanid. Ettepanek on kokku pandud moodulite, kasutajate ja mahu järgi.",
+    "resources_title": "Vahendid | FullVendor",
+    "resources_desc": "Lühijuhised levitamise ühtlustamiseks, võrguühenduseta müümiseks, lao korraldamiseks ja õigeaegseks tasumiseks.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Kirjuta meile FullVendor kohta lisateabe saamiseks või kooskõlasta vestlus müügimeeskonnaga.",
+    "demo_title": "Taotle demo | FullVendor",
+    "demo_desc": "Küsige FullVendor demo ja tutvuge platvormiga teie tegevusega sarnase juhtumiga.",
+    "privacy_title": "Privaatsus | FullVendor",
+    "terms_title": "Tingimused | FullVendor",
+    "search_title": "Otsi | FullVendor",
+    "notfound_title": "Lehekülge ei leitud | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Avaleht",
+    "products": "Tooted",
+    "solutions": "Lahendused",
+    "industries": "Tööstusharud",
+    "pricing": "Hinnad",
+    "resources": "Vahendid",
+    "contact": "Võtke ühendust",
+    "open_menu": "Ava menüü",
+    "close": "Sule"
+  },
+  "cta": {
+    "demo": "Taotle demo",
+    "contact": "Võtke meiega ühendust",
+    "video": "Vaata Videot",
+    "talk": "Rääkige müügiga",
+    "all_products": "Vaata kõiki tooteid",
+    "home": "Tagasi avalehele"
+  },
+  "a11y": {
+    "skip": "Mine sisu juurde",
+    "primary": "Peamine navigeerimine",
+    "crumbs": "Navigatsiooni marsruut",
+    "search": "Otsige",
+    "language": "Keel"
+  },
+  "hero": {
+    "eyebrow": "Kõik ühel platvormil",
+    "title": "Juhtida ja kasvada\nteie äri\n{{brand}}",
+    "subtitle": "Täielik platvorm veebi- ja mobiililahendustega levitamiseks, müügiks, logistikaks, ostmiseks, laoseisuks, finantseerimiseks ja muuks.",
+    "pill_ecosystem": "Kõik ühes ökosüsteemis",
+    "pill_cloud": "Pilves, turvaline ja skaleeritav",
+    "pill_size": "Igas suuruses ettevõtetele"
+  },
+  "products_block": {
+    "eyebrow": "Meie tooted",
+    "title": "[[täielik ökosüsteem]] teie ettevõtte iga valdkonna jaoks",
+    "aside": "Integreeritud lahendused, mis töötavad koos, et anda teile täielik kontroll, töö tõhusus ja suurem kasv.",
+    "groups": {
+      "money": "Haldus ja kogumine",
+      "flow": "Ostud ja kohaletoimetamine",
+      "field": "Müük ja ladu"
+    }
+  },
+  "products_page": {
+    "title": "Seitse toodet, [[üks toiming]]",
+    "text": "Iga toode lahendab mingi ala. Koos jagavad nad kliente, laoseisu, tellimusi ja makseid."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platvorm",
+      "card": "Peamine kaubandusliku haldamise ja levitamise platvorm.",
+      "features": [
+        "Müük ja ost",
+        "Inventuur",
+        "Kliendid ja tarnijad",
+        ""
+      ],
+      "lead": "Teie äritegevuse keskus: tellimused, hinnad, laos ja kliendid ühes kohas.",
+      "about": "FullVendor asendab turustaja lahtised tabelid ja süsteemid. Siit tulevad välja tellimused, konsulteeritakse laoseisuga, hoolitsetakse kliendiportfelli eest ja vaadatakse päevanumbreid. Ülejäänud ökosüsteem ühendub selle baasiga.",
+      "benefits": [
+        {
+          "title": "",
+          "text": "Kliente, tooteid ja hindu jagatakse müügi, lao ja finantsidega."
+        },
+        {
+          "title": "",
+          "text": "Tellimused, ostud ja laoseisud lakkavad erinevates failides elama."
+        },
+        {
+          "title": "",
+          "text": "Müüki, marginaali ja ootel on näha ilma käsitsi tabelit kokku panemata."
+        },
+        {
+          "title": "",
+          "text": "Logistika, müügipersonal või ERP summad, kui operatsioon seda nõuab."
+        }
+      ],
+      "audience": "Kaubandus- ja turustusmeeskonnad, kes täna koordineerivad äritegevust mitme süsteemi vahel."
+    },
+    "erp": {
+      "kicker": "",
+      "card": "Täielik haldus- ja finantsjuhtimine.",
+      "features": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "lead": "Haldus ja rahandus, mis on vastavuses sellega, mida tegelikult müüakse ja tarnitakse.",
+      "about": "FullVendor ERP hõlmab raamatupidamist, elektroonilist arveldust, palgaarvestust, põhivara ja multifirmat. See võtab äritegevuse ja teisendab selle kanneteks, kviitungiteks ja aruanneteks, mida finantsvaldkond saab kasutada.",
+      "benefits": [
+        {
+          "title": "",
+          "text": "Müügi- ja ostuarvestuses toimuv toidab."
+        },
+        {
+          "title": "",
+          "text": "Väljastate ja kontrollite arveldust samast ökosüsteemist."
+        },
+        {
+          "title": "",
+          "text": "Mitu ettevõte gruppidele, mis tegutsevad rohkem kui ühe ettevõtte nime all."
+        },
+        {
+          "title": "",
+          "text": "Palgaarvestus ja põhivara koos ülejäänud juhtkonnaga."
+        }
+      ],
+      "audience": "Haldus- ja finantsvaldkonnad, mis tahavad reaalse toimimisega numbreid sulgeda."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Teie logistikaoperatsiooni juhtimine ja jälgimine.",
+      "features": [
+        "Marsruudid ja tarned",
+        "Reaalajas jälgimine",
+        "Juhi ülesanne",
+        "Marsruudi optimeerimine"
+      ],
+      "lead": "Tellimusest kohaletoimetamiseni: marsruudid, juhid ja reaalajas jälgimine.",
+      "about": "FullVendor Logistics korraldab levitamist. Loote marsruute, määrate juhte ja näete, kuhu iga tarne läheb. Liiklusmeeskond peatub sõltuvalt kõnedest, et teada saada, kas tellimus on teele saadetud.",
+      "benefits": [
+        {
+          "title": "Päeva marsruudid",
+          "text": "Tarned tellitud tsooni, ajaakna ja mahu järgi."
+        },
+        {
+          "title": "Määratud juht",
+          "text": "Igal marsruudil on vastutav isik ja selge järjekord."
+        },
+        {
+          "title": "Järeltegevus",
+          "text": "Teate, mis on toimetatud, teel või peatatud."
+        },
+        {
+          "title": "Vähem kilomeetreid",
+          "text": "Marsruudi optimeerimine vähendab tarneaega ja -kulusid."
+        }
+      ],
+      "audience": "Turustustoimingud oma sõidukipargi või kolmandate isikutega."
+    },
+    "supplier": {
+      "kicker": "Ostlemine",
+      "card": "Tarnijate ja ostujuhtimise portaal.",
+      "features": [
+        "Ostutellimused",
+        "Tsitaadid",
+        "Tarnija juhtimine",
+        "Integreerimine laoseisuga"
+      ],
+      "lead": "Teie tarnijad pakuvad pakkumisi, võtavad vastu tellimusi ja täiendavad laoseisu ilma lahtiste e-kirjadeta.",
+      "about": "Vendor Supplier avab ostude ja tarnijate portaali samade tellimuste kallal töötamiseks. Hinnapakkumised, ostutellimused ja kviitung on seotud FullVendor inventuuriga.",
+      "benefits": [
+        {
+          "title": "Tellimused kanalis",
+          "text": "Tarnija näeb, mida tarnida, ilma meiliahelata."
+        },
+        {
+          "title": "Võrreldavad hinnapakkumised",
+          "text": "Küsite hindu ja valite ajalugu silmas pidades."
+        },
+        {
+          "title": "Tarnija meister",
+          "text": "Tingimused, kontaktid ja ootel ühes kirjes."
+        },
+        {
+          "title": "Sisestage laoseisu",
+          "text": "See, mis osteti, kajastub kättesaamisel laos."
+        }
+      ],
+      "audience": "Ostumeeskonnad, mis täienevad mitme tarnijaga ja vajavad jälgitavust."
+    },
+    "salesman": {
+      "kicker": "Mobiilirakendus",
+      "card": "Mobiilirakendus müügimeeskonnale.",
+      "features": [
+        "Kliendihaldus",
+        "Tellimuse vastuvõtmine",
+        "Tootekataloog",
+        "Võrguühenduseta töö"
+      ],
+      "lead": "Müügipersonal võtab tänaval vastu tellimusi, signaaliga või ilma.",
+      "about": "FullVendor Sales Man paneb teie portfelli, kataloogi ja tellimuste vastuvõtmise müüja telefonile. Kui internetti pole, siis töö jätkub ja signaali naasmisel sünkroonitakse. Tellimus saabub ettevalmistamiseks ja kohaletoimetamiseks.",
+      "benefits": [
+        {
+          "title": "Rahakott taskus",
+          "text": "Müüja näeb kliente, tingimusi ja ootel kaupu."
+        },
+        {
+          "title": "Telli külastuse ajal",
+          "text": "Võtke tellimus praeguste hindade ja laoseisuga."
+        },
+        {
+          "title": "Kataloog ajakohane",
+          "text": "Tooted, esitlused ja hinnad ilma vana PDF-ita."
+        },
+        {
+          "title": "Tõeline võrguühenduseta",
+          "text": "Töötage ilma katteta ja sünkroonige hiljem."
+        }
+      ],
+      "audience": "Juhendajad ja välimüüjad turustuses ja masstarbimises."
+    },
+    "warehouse": {
+      "kicker": "Mobiilirakendus",
+      "card": "Mobiilirakendus lao jaoks.",
+      "features": [
+        "Vastuvõtt ja väljasaatmine",
+        "Korjamine ja pakkimine",
+        "Varude kontroll",
+        "Vöötkoodi lugemine"
+      ],
+      "lead": "Vastuvõtt, komplekteerimine ja ärasaatmine telefoni ja vöötkoodiga.",
+      "about": "FullVendor Warehouse juhendab ladu vastuvõtul, komplekteerimisel, pakkimisel ja väljasaatmisel. Koodide lugemine vähendab vigu ja laoseisu ei loeta enam ainult kuu lõpus.",
+      "benefits": [
+        {
+          "title": "Vastuvõtt tellimuse vastu",
+          "text": "Sissetulevat võrreldakse ostuga."
+        },
+        {
+          "title": "Sihipärane korjamine",
+          "text": "Laevaomanik järgib tellimust ja kinnitab iga kauba."
+        },
+        {
+          "title": "Vöötkoodid",
+          "text": "Vähem toote-, partii- või kogusevigu."
+        },
+        {
+          "title": "Usaldusväärne varu",
+          "text": "Iga liigutus värskendab platvormi inventari."
+        }
+      ],
+      "audience": "Laojuhatajad ja reederid, kes täna koostavad trükitud nimekirjadega tellimusi."
+    },
+    "finance": {
+      "kicker": "Mobiilirakendus",
+      "card": "Finantskontroll teie mobiiltelefonilt.",
+      "features": [
+        "Arved ja võlgnevused",
+        "Kliendi staatus",
+        "Maksed ja leppimised",
+        "Finantsaruanded"
+      ],
+      "lead": "Teie telefonist saadaolevad arved, maksed ja kliendi staatus.",
+      "about": "FullVendor Finance näitab mobiilis inkasso: mida iga klient võlgneb, mida ettevõte hakkab maksma ja kuidas maksed tulevad. Seda kasutatakse külastuse ajal raha kogumiseks ja kassasse vaatamiseks ilma töölauda avamata.",
+      "benefits": [
+        {
+          "title": "Kogumine visiidil",
+          "text": "Müüja teab enne müümist, kas klient on kursis."
+        },
+        {
+          "title": "Saadaval ja tasumisel",
+          "text": "Karbi mõlemad pooled samas rakenduses."
+        },
+        {
+          "title": "Maksed ja leppimised",
+          "text": "Registreerid ainepunktid ja vaatad, mis tuleb ületada."
+        },
+        {
+          "title": "Aruanded käepärast",
+          "text": "Inkasso ja sularaha näitajad ilma sulgemist ootamata."
+        }
+      ],
+      "audience": "Juhid, kollektsionäärid ja müüjad, kes vajavad hetkel kliendi olukorda."
+    }
+  },
+  "why": {
+    "eyebrow": "Miks FullVendor",
+    "title": "Tugevdage oma äri\ntõeliste tulemustega",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ettevõtted usaldavad meid"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiivsed kasutajad"
+      },
+      {
+        "value": "+10",
+        "suffix": "aastat",
+        "label": "Pidevas evolutsioonis"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Pilve kättesaadavus"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kuidas see toimib",
+    "title": "Müügist kogumiseni, süsteeme muutmata",
+    "text": "Iga toode jagab kliente, laoseisu, tellimusi ja makseid. Tänaval või laos toimuv ilmub kontorisse koheselt.",
+    "steps": {
+      "sell": {
+        "title": "Sa müüd",
+        "text": "Tellimus sisestatakse läbi veebilehe või läbi Sales Man ka ilma signaalita."
+      },
+      "pick": {
+        "title": "Valmis",
+        "text": "Warehouse võtab vastu, eraldab ja saadab välja vöötkoodiga."
+      },
+      "deliver": {
+        "title": "Tarned",
+        "text": "Logistics määrab marsruudi ja järgib kohaletoimetamist."
+      },
+      "collect": {
+        "title": "Kobrad",
+        "text": "Finance ja ERP sulgevad kogu, kviitungid ja numbrid."
+      }
+    }
+  },
+  "band": {
+    "title": "Kas olete valmis seda nägema [[teie operatsioon]]iga?",
+    "text": "Näitame teile ökosüsteemi teie omaga sarnase jaotusjuhtumiga."
+  },
+  "footer": {
+    "blurb": "Veebi- ja mobiiliplatvorm levitamiseks, müügiks, logistikaks, ostmiseks, laoseisuks ja finantseerimiseks.",
+    "products": "Tooted",
+    "company": "Ettevõte",
+    "legal": "Juriidiline",
+    "privacy": "Privaatsus",
+    "terms": "Tingimused",
+    "rights": "Kõik õigused kaitstud."
+  },
+  "solutions": {
+    "eyebrow": "Lahendused",
+    "title": "Iga piirkond, mis on ühendatud [[sama toiminguga]]",
+    "intro": "Valige selle probleemi järgi, mida soovite lahendada. Tagantpoolt jagavad tooted sama teavet.",
+    "items": {
+      "commercial": {
+        "title": "Ärijuhtimine",
+        "text": "Tellimused, hinnad, kliendid ja laoseisud igapäevaseks levitamiseks."
+      },
+      "field": {
+        "title": "müügimeeskond",
+        "text": "Müüjad võtavad tellimusi vastu tänaval, võrgus või võrguühenduseta."
+      },
+      "warehouse": {
+        "title": "Kauplus",
+        "text": "Vastuvõtt, komplekteerimine, väljasaatmine ja laos, mida saab usaldada."
+      },
+      "logistics": {
+        "title": "Logistika ja kohaletoimetamine",
+        "text": "Marsruudid, juhid ja iga tarne olek."
+      },
+      "purchasing": {
+        "title": "Ostmine ja tarnijad",
+        "text": "Hinnapakkumised, tellimused ja portaal kõigile, kes teile tarnivad."
+      },
+      "finance": {
+        "title": "Rahandus ja raamatupidamine",
+        "text": "Inkasso, maksed, elektrooniline arveldamine ja raamatupidamine."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Tööstusharud",
+    "title": "Loodud neile, kes [[toodet teisaldavad]]",
+    "intro": "FullVendor on sündinud jaotuses ja saadab ettevõtteid, mis ostavad, ladustavad, müüvad ja tarnivad.",
+    "items": {
+      "wholesale": {
+        "title": "Turustus ja hulgimüük",
+        "text": "Hinnakirjad, portfell, levitamine ja kogumine ühes ahelas."
+      },
+      "retail": {
+        "title": "Jaemüük",
+        "text": "Kauplus ja ladu koos ühendatud laovarude, müügi ja täiendamisega."
+      },
+      "food": {
+        "title": "Toidud ja joogid",
+        "text": "Sagedased marsruudid ja ladu, mis ei saa peatuda."
+      },
+      "pharma": {
+        "title": "Apteek ja isiklik hooldus",
+        "text": "Vastuvõtt, komplekteerimine ja varude kontroll koos jälgitavusega."
+      },
+      "hardware": {
+        "title": "Riistvara ja ehitus",
+        "text": "Palju viiteid, tarnijaid ja tarneid tööle või poodi."
+      },
+      "fmcg": {
+        "title": "Massitarbimine",
+        "text": "Tänavamüügipersonal ja suure käibega asendus."
+      },
+      "manufacturing": {
+        "title": "Tootmine",
+        "text": "Ostmine, ladu ja laoseisud on kooskõlas haldusega."
+      },
+      "lastmile": {
+        "title": "Kohaletoimetamine ja viimane miil",
+        "text": "Marsruudid, juhid ja iga tarne olek."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Vahendid",
+    "title": "Selged ideed [[operatsiooni tellimiseks]]",
+    "intro": "Lühijuhendid levihalduritele, kes otsustavad, millise süsteemi juurde jääda.",
+    "items": {
+      "unify": {
+        "title": "Kuidas ühendada levitamine ühtseks süsteemiks",
+        "summary": "Mida kõigepealt kokku panna, kui müük, ladu ja kollektsioonid elavad erinevates failides.",
+        "points": [
+          "Alusta klientidest, toodetest ja hindadest: nemad on õpetajad, keda kõik kasutavad.",
+          "Ühendage tellimus enne uute rakenduste lisamist laoseisuga.",
+          "See mõõdab lihtsat numbrit: tellimused, mis täidetakse ilma vormi uuesti täitmata."
+        ]
+      },
+      "offline": {
+        "title": "Müügipersonal töötab võrguühenduseta",
+        "summary": "Mida tellimisäpist nõuda, et müüja signaali pärast ei peatuks.",
+        "points": [
+          "Kataloog ja rahakott peavad olema telefonis, mitte ainult pilves.",
+          "Tellimus salvestatakse seadmesse ja laaditakse üles, kui võrk taastub.",
+          "Sünkroonimisel siseneb tellimus juba lattu."
+        ]
+      },
+      "warehouse": {
+        "title": "Ladu triipkoodiga, ilma paberita",
+        "summary": "Kuidas minna prinditud nimekirjast telefoni teel kinnitatud komplekteerimiseni.",
+        "points": [
+          "Saate ostutellimuse, mitte mälu vastu.",
+          "Eraldamisel kinnitage iga üksus. Viga lõikab esikusse.",
+          "Lähetus värskendab laoseisu, mida müüja näeb."
+        ]
+      },
+      "finance": {
+        "title": "Kollektsioon on müügiga kooskõlas",
+        "summary": "Miks peaks müüja nägema kliendi võlga enne uue tellimuse tegemist.",
+        "points": [
+          "Visiit on parim aeg sissenõudmiseks, kui võlg on nähtav.",
+          "Müük ja rahandus peavad vaatama sama klienti.",
+          "Igapäevane hilinenud aruanne on rohkem väärt kui hiline sulgemine."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Hinnad",
+    "title": "Ökosüsteem, mis [[kasvab koos teiega]]",
+    "intro": "Me ei avalda üldist määra: hind sõltub moodulitest, kasutajatest ja mahust. Näitame teile platvormi ja koostame teie tegevusega ettepaneku.",
+    "note": "Demo on tasuta ega nõua lepingut.",
+    "recommended": "Soovitatav",
+    "faq_title": "Korduma kippuvad küsimused",
+    "plans": {
+      "essential": {
+        "name": "Hädavajalik",
+        "desc": "Korraldada kommertshaldus ja levitamine ühel platvormil.",
+        "features": [
+          "FullVendor veebiplatvorm",
+          "Müük, ost ja inventar",
+          "Kliendid, tarnijad ja aruanded",
+          "Kontoritehnika kasutajad",
+          "Käivitamise tugi"
+        ],
+        "cta": "Taotle demo"
+      },
+      "professional": {
+        "name": "Professionaalne",
+        "desc": "Meeskondadele, kes müüvad tänaval ja koostavad tellimusi laos.",
+        "features": [
+          "Kõik hädavajalik",
+          "Rakendus FullVendor Sales Man",
+          "Rakendus FullVendor Warehouse",
+          "Võrguühenduseta töö ja vöötkoodid",
+          "Rohkem põllu- ja laokasutajaid"
+        ],
+        "cta": "Taotle demo"
+      },
+      "corporate": {
+        "name": "Korporatiivne",
+        "desc": "Gruppidele, kes vajavad logistikat, ostu-, finants- ja erinevaid ettevõtteid.",
+        "features": [
+          "Täielik ökosüsteem",
+          "Logistics, Vendor Supplier ja Finance",
+          "FullVendor ERP ja mitmiküür",
+          "Elektrooniline arveldus ja raamatupidamine",
+          "Saatja ja eelisjärjekorras saadavus"
+        ],
+        "cta": "Rääkige müügiga"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Kas ma pean kõik tooted ostma?",
+        "a": "Ei. Saate alustada FullVendor-st ja lisada rakendusi või ERP, kui toiming seda vajab."
+      },
+      "offline": {
+        "q": "Kas rakendused töötavad ilma Internetita?",
+        "a": "Sales Man ja Warehouse jätkavad tööd ilma signaalita ja sünkroniseerivad uuesti ühendamisel."
+      },
+      "multi": {
+        "q": "Kas see töötab, kui mul on rohkem kui üks ettevõte?",
+        "a": "Jah. ERP käsitleb mitut ettevõtet ja ökosüsteem saab nende vahel peremehi jagada."
+      },
+      "demo": {
+        "q": "Mida demo sisaldab?",
+        "a": "Ringkäik platvormil teie omaga sarnase korpusega. Ei mingeid kulusid ega kohustusi."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Näitame teile FullVendor koos [[teie toimingu tüüp]]",
+    "text": "Rääkige meile oma ettevõttest ja sellest, mida soovite kõigepealt tellida. Demo on tasuta."
+  },
+  "contact": {
+    "eyebrow": "Võtke ühendust",
+    "title": "Räägime [[teie operatsioonist]]",
+    "text": "Kui soovid demo, ettepanekut või lihtsalt toodete vahel orienteeruda, jäta oma andmed ja me vastame.",
+    "email": "Mail",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nimi",
+    "email": "Mail",
+    "phone": "Telefon",
+    "company": "Ettevõte",
+    "country": "Riik",
+    "team": "Meeskonna suurus",
+    "interest": "Mis sind huvitab?",
+    "message": "Sõnum",
+    "optional": "Valikuline",
+    "choose": "Valige",
+    "interest_all": "Kogu ökosüsteem",
+    "ph_name": "sinu nimi",
+    "ph_email": "sina@ettevõte.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Teie ettevõte",
+    "ph_country": "Riik",
+    "ph_message": "Rääkige meile, kuidas te täna tegutsete",
+    "privacy_before": "Nõustun oma andmete kasutamisega vastavalt",
+    "privacy_after": ".",
+    "submit": "Saada taotlus",
+    "sent_title": "Saame teie taotluse kätte",
+    "sent_text": "Aitäh. Müügimeeskond kirjutab teile demo koordineerimiseks või teie küsimusele vastamiseks.",
+    "error_required": "Täitke see väli.",
+    "error_email": "Sisestage kehtiv e-posti aadress.",
+    "error_phone": "Kontrollige telefoni.",
+    "error_privacy": "Kontaktandmete kasutamiseks vajame teie nõusolekut.",
+    "error_csrf": "Seanss on aegunud. Esitage vorm uuesti.",
+    "error_save": "Me ei saanud taotlust salvestada. Proovi uuesti.",
+    "error_generic": "Vaadake märgitud väljad üle.",
+    "error_rate": "Enne uue taotluse esitamist oodake veidi.",
+    "team_options": {
+      "1-10": "1 kuni 10 inimest",
+      "11-50": "11 kuni 50 inimest",
+      "51-200": "51 kuni 200 inimest",
+      "201-500": "201 kuni 500 inimest",
+      "500+": "Rohkem kui 500 inimest"
+    }
+  },
+  "video": {
+    "title": "FullVendor ühe minutiga",
+    "prev": "Endine",
+    "next": "Jälgides",
+    "slides": [
+      {
+        "title": "Üks ökosüsteem",
+        "text": "Müük, ladu, tarnimine, ostmine ja finantseerimine jagavad kliente, laoseisu ja tellimusi."
+      },
+      {
+        "title": "Veeb ja mobiil koos",
+        "text": "Kontor töötab platvormil. Tänav ja ladu, rakendustes, isegi ilma signaalita."
+      },
+      {
+        "title": "Loodud levitamiseks",
+        "text": "Tellimusest makseni, ilma teavet ühest failist teise edastamata."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Otsige tooteid, lahendusi, tööstusi…",
+    "lang_filter": "Otsi keel",
+    "intro": "Otsige tooteid, lahendusi, tööstusi ja ressursse.",
+    "empty": "Me ei leidnud tulemusi päringule “{q}”.",
+    "hint": "Proovige müüki, ladu, marsruute või kollektsioone.",
+    "results": "{n} tulemused",
+    "button": "Otsige",
+    "kind_product": "Toode",
+    "kind_solution": "Lahendus",
+    "kind_industry": "Tööstus",
+    "kind_resource": "Ressurss"
+  },
+  "notfound": {
+    "title": "See leht ei ole",
+    "text": "Link puudub või on asukohta muutnud."
+  },
+  "common": {
+    "what": "Mis lahendab",
+    "features": "Mis on kaasas",
+    "benefits": "Miks see on oluline",
+    "for_who": "Kellele see mõeldud on?",
+    "related": "Ka ökosüsteemis"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Müük täna",
+      "orders": "Tellimused",
+      "clients": "Kliendid",
+      "products": "Tooted"
+    },
+    "sidebar": {
+      "dashboard": "Armatuurlaud",
+      "sales": "Müük",
+      "purchases": "Ostlemine",
+      "inventory": "Inventuur",
+      "clients": "Kliendid",
+      "reports": "Aruanded"
+    },
+    "chart": "Müük",
+    "channel": "Jaotus kanalite kaupa",
+    "channels": [
+      "Kauplus",
+      "Levitamine",
+      "Hulgimüüja",
+      "teised"
+    ],
+    "orders": "Viimased tellimused",
+    "col_order": "Telli",
+    "col_client": "Klient",
+    "col_status": "osariik",
+    "col_total": "Kokku",
+    "status": [
+      "Tarnitud",
+      "Teel",
+      "Kõrvarõngas"
+    ],
+    "top": "Enim müüdud tooted",
+    "product": "Toode",
+    "sales_menu": [
+      "Kliendid",
+      "Tellimused",
+      "Tooted",
+      "Marsruudid",
+      "Sünkrooni"
+    ],
+    "warehouse_menu": [
+      "Vastuvõtt",
+      "Korjamine",
+      "Inventuur",
+      "Ärasaatmine",
+      "Sünkrooni"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privaatsuspoliitika",
+    "privacy_intro": "See poliitika selgitab, mida me teeme andmetega, mille jätate selle saidi vormidele.",
+    "privacy": [
+      {
+        "title": "Milliseid andmeid me kogume",
+        "text": "Kui taotlete demo või kirjutate meile, salvestame nime, ettevõtte, e-posti aadressi, telefoninumbri, kui see on märgitud, riigi, meeskonna suuruse, huvipakkuva toote ja sõnumi. Salvestame ka kuupäeva, lehe keele ja IP-aadressi, et vältida kuritarvitamist."
+      },
+      {
+        "title": "Milleks me neid kasutame?",
+        "text": "Kasutame neid andmeid ainult teile vastamiseks, demo koordineerimiseks ja äripakkumise koostamiseks. Me ei müü neid ega anna neid kolmandate isikute nimekirja."
+      },
+      {
+        "title": "Kus neid hoitakse ja kui kaua?",
+        "text": "Taotlused salvestatakse selle saidi serverisse. Säilitame neid teie teenindamiseks ja äritegevuseks vajaliku aja jooksul ning kustutame need siis, kui te seda meilt palute või kui neid enam ei vajata."
+      },
+      {
+        "title": "Sinu õigused",
+        "text": "Saate taotleda oma andmetele juurdepääsu, nende parandamist või kustutamist kontaktivormi kaudu, märkides selle sõnumis. Kui ettevõte avaldab sellel veebisaidil meili, võite ka sinna kirjutada."
+      }
+    ],
+    "terms_title": "Kasutustingimused",
+    "terms_intro": "Need tingimused kehtivad selle FullVendor esitamise saidi kasutamisel.",
+    "terms": [
+      {
+        "title": "Kaubanduslik teave",
+        "text": "Platvormi tutvustavad tekstid, näidiskujundid armatuurlaual ja kirjeldused. Neid saab kohandada, kui toode muutub ja ei ole suletud pakkumine."
+      },
+      {
+        "title": "Demo ei ole leping",
+        "text": "Vormi esitamine ei tekita ostu- ega hinna reserveerimise kohustust. Igasugune leping lepitakse eraldi kokku kirjalikult koos selle ulatuse ja tingimustega."
+      },
+      {
+        "title": "Saidi sisu",
+        "text": "FullVendor kaubamärk, tootenimed ja nende lehtede sisu kuuluvad nende omanikele. Neid ei saa teise toote esitlemiseks kopeerida."
+      },
+      {
+        "title": "Vastuvõetav kasutamine",
+        "text": "Ärge kasutage vorme valeteabe, rämpsposti või ebaseadusliku sisu edastamiseks. Võime ignoreerida taotlusi, mis ei vasta tegelikule ärivestlusele."
+      }
+    ]
+  }
+}

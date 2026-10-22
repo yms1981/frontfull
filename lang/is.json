@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Stjórna og auka viðskipti þín",
+    "home_desc": "Allt-í-einn vettvangur með vef- og farsímalausnum fyrir dreifingu, sölu, flutninga, innkaup, birgðahald og fjármál.",
+    "products_title": "Vörur | FullVendor",
+    "products_desc": "Kynntu þér vistkerfið FullVendor: viðskiptavettvang, ERP, flutninga, birgja og sölu, vöruhúsa- og fjármálaöpp.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Lausnir | FullVendor",
+    "solutions_desc": "Lausnir fyrir viðskiptastjórnun, sölulið, vöruhús, flutninga, innkaup og fjármál.",
+    "industries_title": "Iðnaður | FullVendor",
+    "industries_desc": "FullVendor fyrir dreifingu, smásölu, matvæli, apótek, vélbúnað, fjöldaneyslu, framleiðslu og síðustu mílu.",
+    "pricing_title": "Verð | FullVendor",
+    "pricing_desc": "Nauðsynlegar, faglegar og fyrirtækjaáætlanir. Tillagan er sett saman eftir einingum, notendum og magni.",
+    "resources_title": "Auðlindir | FullVendor",
+    "resources_desc": "Stuttar leiðbeiningar til að sameina dreifingu, selja án nettengingar, skipuleggja vöruhúsið og fá greitt á réttum tíma.",
+    "contact_title": "Hafðu samband | FullVendor",
+    "contact_desc": "Skrifaðu okkur til að fræðast um FullVendor eða samræmdu samtal við söluteymið.",
+    "demo_title": "Biðja um kynningu | FullVendor",
+    "demo_desc": "Biddu um kynningu á FullVendor og skoðaðu vettvanginn með mál sem líkist aðgerðinni þinni.",
+    "privacy_title": "Persónuvernd | FullVendor",
+    "terms_title": "Skilmálar | FullVendor",
+    "search_title": "Leita | FullVendor",
+    "notfound_title": "Síða fannst ekki | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Heimasíða",
+    "products": "Vörur",
+    "solutions": "Lausnir",
+    "industries": "Iðnaður",
+    "pricing": "Verð",
+    "resources": "Auðlindir",
+    "contact": "Hafðu samband",
+    "open_menu": "Opna valmynd",
+    "close": "Loka"
+  },
+  "cta": {
+    "demo": "Biðja um kynningu",
+    "contact": "Hafðu samband við okkur",
+    "video": "Horfðu á myndband",
+    "talk": "Talaðu við sölumenn",
+    "all_products": "Sjá allar vörur",
+    "home": "Fara aftur á heimasíðuna"
+  },
+  "a11y": {
+    "skip": "Fara í efni",
+    "primary": "Aðalleiðsögn",
+    "crumbs": "Siglingaleið",
+    "search": "Leitaðu að",
+    "language": "Tungumál"
+  },
+  "hero": {
+    "eyebrow": "Allt á einum vettvangi",
+    "title": "Stjórna og vaxa\nfyrirtæki þitt við\n{{brand}}",
+    "subtitle": "Heildarvettvangur með vef- og farsímalausnum fyrir dreifingu, sölu, flutninga, innkaup, birgðahald, fjármál og fleira.",
+    "pill_ecosystem": "Allt í einu vistkerfi",
+    "pill_cloud": "Í skýinu, öruggt og skalanlegt",
+    "pill_size": "Fyrir fyrirtæki af öllum stærðum"
+  },
+  "products_block": {
+    "eyebrow": "Vörur okkar",
+    "title": "[[heilt vistkerfi]] fyrir hvert svið fyrirtækis þíns",
+    "aside": "Samþættar lausnir sem vinna saman að því að veita þér heildarstjórn, rekstrarhagkvæmni og meiri vöxt.",
+    "groups": {
+      "money": "Umsýsla og innheimta",
+      "flow": "Innkaup og afhending",
+      "field": "Sala og lager"
+    }
+  },
+  "products_page": {
+    "title": "Sjö vörur, [[ein aðgerð]]",
+    "text": "Hver vara leysir svæði. Saman deila þeir viðskiptavinum, lager, pöntunum og greiðslum."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Pallur",
+      "card": "Aðalvettvangur fyrir viðskiptastjórnun og dreifingu.",
+      "features": [
+        "Sala og innkaup",
+        "Birgðir",
+        "Viðskiptavinir og birgjar",
+        "Skýrslur og fleira"
+      ],
+      "lead": "Miðja verslunarreksturs þíns: pantanir, verð, birgðir og viðskiptavinir á einum stað.",
+      "about": "FullVendor kemur í stað lausra töflureikna og kerfa dreifingaraðila. Héðan koma pantanir út, farið er yfir birgðahald, séð um viðskiptamannasafn og horft á tölur dagsins. Restin af vistkerfinu tengist þessum grunni.",
+      "benefits": [
+        {
+          "title": "Einn gagnameistari",
+          "text": "Viðskiptavinum, vörum og verði er deilt með sölu, vöruhúsi og fjármálum."
+        },
+        {
+          "title": "Skýr daglegur rekstur",
+          "text": "Pantanir, innkaup og birgðir hætta að lifa í mismunandi skrám."
+        },
+        {
+          "title": "Skýrslur til að ákveða",
+          "text": "Sala, framlegð og bið sjást án þess að setja saman töflu í höndunum."
+        },
+        {
+          "title": "Tilbúinn til að vaxa",
+          "text": "Logistics, sölulið eða ERP upphæðir þegar aðgerðin biður um það."
+        }
+      ],
+      "audience": "Verslunar- og dreifingarteymi sem í dag samræma viðskiptin á milli nokkurra kerfa."
+    },
+    "erp": {
+      "kicker": "Stjórnsýsla",
+      "card": "Fullkomin stjórnunar- og fjármálastjórnun.",
+      "features": [
+        "Bókhald",
+        "Rafræn innheimta",
+        "Vinnublöð",
+        "Fastafjármunir",
+        "Fjölfyrirtæki"
+      ],
+      "lead": "Stjórnsýsla og fjármál, í takt við það sem raunverulega er selt og afhent.",
+      "about": "FullVendor ERP tekur til bókhalds, rafrænna reikninga, launagreiðslna, fastafjármuna og fjölfyrirtækja. Það tekur verslunarreksturinn og breytir í færslur, kvittanir og yfirlit sem fjármálasvæðið getur notað.",
+      "benefits": [
+        {
+          "title": "Tengd bókhald",
+          "text": "Hvað gerist í sölu- og innkaupabókhaldi."
+        },
+        {
+          "title": "Rafrænar kvittanir",
+          "text": "Þú gefur út og stjórnar innheimtu frá sama vistkerfi."
+        },
+        {
+          "title": "Ýmis fyrirtæki",
+          "text": "Fjölfyrirtæki fyrir hópa sem starfa undir fleiri en einu fyrirtækjanafni."
+        },
+        {
+          "title": "Launaskrár og eignir",
+          "text": "Launagreiðsla og fastafjármunir ásamt öðrum stjórnendum."
+        }
+      ],
+      "audience": "Stjórnsýslu- og fjármálasvið sem vilja loka tölunum með raunverulegum rekstri."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Stjórn og eftirlit með flutningsaðgerðum þínum.",
+      "features": [
+        "Leiðir og sendingar",
+        "Rauntíma mælingar",
+        "Verkefni bílstjóra",
+        "Hagræðing leiða"
+      ],
+      "lead": "Frá pöntun til afhendingar: leiðir, ökumenn og rauntíma mælingar.",
+      "about": "FullVendor Logistics skipuleggur dreifinguna. Þú býrð til leiðir, úthlutar bílstjórum og sérð hvert hver sending er að fara. Umferðarteymið hættir eftir símtölum til að komast að því hvort pöntunin hafi verið send.",
+      "benefits": [
+        {
+          "title": "Leiðir dagsins",
+          "text": "Afhendingar raðað eftir svæði, tímaglugga og afkastagetu."
+        },
+        {
+          "title": "Úthlutað bílstjóri",
+          "text": "Á hverri leið er umsjónarmaður og skýr röð."
+        },
+        {
+          "title": "Eftirfylgni",
+          "text": "Þú veist hvað er afhent, á leiðinni eða stoppað."
+        },
+        {
+          "title": "Færri kílómetrar",
+          "text": "Leiðarbestun dregur úr afhendingartíma og kostnaði."
+        }
+      ],
+      "audience": "Dreifingarstarfsemi með eigin flota eða þriðja aðila."
+    },
+    "supplier": {
+      "kicker": "Innkaup",
+      "card": "Gátt fyrir birgja og innkaupastjórnun.",
+      "features": [
+        "Innkaupapantanir",
+        "Tilvitnanir",
+        "Umsjón birgja",
+        "Samþætting við birgðahald"
+      ],
+      "lead": "Birgjar þínir gefa tilboð, taka á móti pöntunum og fylla á lager án lausra tölvupósta.",
+      "about": "Vendor Supplier opnar gátt fyrir innkaup og birgja til að vinna að sömu pöntunum. Tilboð, innkaupapantanir og kvittun eru bundin við birgðaskrá FullVendor.",
+      "benefits": [
+        {
+          "title": "Pantanir í rás",
+          "text": "Birgir sér hvað á að afhenda, án tölvupóstskeðju."
+        },
+        {
+          "title": "Sambærilegar tilvitnanir",
+          "text": "Þú spyrð um verð og velur með söguna í huga."
+        },
+        {
+          "title": "Birgir Master",
+          "text": "Skilyrði, tengiliðir og bið í einni skrá."
+        },
+        {
+          "title": "Sláðu inn birgðahaldið",
+          "text": "Það sem var keypt endurspeglast á lagernum þegar það er móttekið."
+        }
+      ],
+      "audience": "Innkaupateymi sem fylla á með nokkrum birgjum og þurfa rekjanleika."
+    },
+    "salesman": {
+      "kicker": "Farsímaforrit",
+      "card": "Farsímaforrit fyrir söluteymi.",
+      "features": [
+        "Viðskiptavinastjórnun",
+        "Tekið við pöntun",
+        "Vöruskrá",
+        "Vinna án nettengingar"
+      ],
+      "lead": "Söluliðið tekur við pöntunum á götunni, með eða án merkis.",
+      "about": "FullVendor Sales Man setur eignasafn þitt, vörulista og pöntun í síma seljanda. Ef það er ekkert internet heldur vinnan áfram og samstillast þegar merkið kemur aftur. Pöntunin kemur tilbúin til að undirbúa og afhenda.",
+      "benefits": [
+        {
+          "title": "Veski í vasa",
+          "text": "Seljandi sér viðskiptavini, skilyrði og hluti í bið."
+        },
+        {
+          "title": "Pantaðu í heimsókn",
+          "text": "Taktu pöntunina með núverandi verði og lager."
+        },
+        {
+          "title": "Vörulisti uppfærður",
+          "text": "Vörur, kynningar og verð án gamallar PDF."
+        },
+        {
+          "title": "Alvöru offline",
+          "text": "Vinna án þekju og samstilla síðar."
+        }
+      ],
+      "audience": "Umsjónarmenn og vettvangssölumenn í dreifingu og fjöldaneyslu."
+    },
+    "warehouse": {
+      "kicker": "Farsímaforrit",
+      "card": "Farsímaforrit fyrir vöruhús.",
+      "features": [
+        "Móttaka og afgreiðsla",
+        "Tínsla og pökkun",
+        "Birgðaeftirlit",
+        "Strikamerki lestur"
+      ],
+      "lead": "Móttaka, tínsla og afgreiðsla með síma og strikamerki.",
+      "about": "FullVendor Warehouse leiðbeinir vöruhúsinu við móttöku, tínslu, pökkun og sendingu. Lestur kóða dregur úr villum og birgðir eru ekki lengur taldar aðeins í lok mánaðarins.",
+      "benefits": [
+        {
+          "title": "Móttaka gegn pöntun",
+          "text": "Það sem kemur inn er borið saman við kaupin."
+        },
+        {
+          "title": "Markviss tínsla",
+          "text": "Útgerðarmaður fylgir pöntuninni og staðfestir hverja vöru."
+        },
+        {
+          "title": "Strikamerki",
+          "text": "Færri vöru-, lotu- eða magnvillur."
+        },
+        {
+          "title": "Áreiðanlegur lager",
+          "text": "Hver hreyfing uppfærir birgðastöðu pallsins."
+        }
+      ],
+      "audience": "Vöruhússtjórar og útgerðarmenn sem í dag útbúa pantanir með útprentuðum listum."
+    },
+    "finance": {
+      "kicker": "Farsímaforrit",
+      "card": "Fjárhagsstjórnun úr farsímanum þínum.",
+      "features": [
+        "Viðskiptakröfur og skuldir",
+        "Staða viðskiptavina",
+        "Greiðslur og afstemmingar",
+        "Fjárhagsskýrslur"
+      ],
+      "lead": "Viðskiptakröfur, greiðslur og staða viðskiptavina, úr símanum þínum.",
+      "about": "FullVendor Finance sýnir innheimtu á farsímanum: hvað hver viðskiptavinur skuldar, hvað fyrirtækið er að fara að borga og hvernig greiðslurnar koma. Hann er notaður til að safna peningum í heimsókninni og til að skoða kassann án þess að opna skrifborðið.",
+      "benefits": [
+        {
+          "title": "Söfnun í heimsókn",
+          "text": "Seljandi veit hvort viðskiptavinurinn er uppfærður áður en hann selur."
+        },
+        {
+          "title": "Tilkallanlegt og til greiðslu",
+          "text": "Báðar hliðar kassans í sama appinu."
+        },
+        {
+          "title": "Greiðslur og afstemmingar",
+          "text": "Þú skráir inneignir og sérð hvað þarf að krossa."
+        },
+        {
+          "title": "Skýrslur við hendina",
+          "text": "Innheimtu- og reiðufjárvísar án þess að bíða eftir lokun."
+        }
+      ],
+      "audience": "Stjórnendur, safnarar og sölumenn sem þurfa á aðstæðum viðskiptavinarins að halda um þessar mundir."
+    }
+  },
+  "why": {
+    "eyebrow": "Hvers vegna FullVendor",
+    "title": "Auktu viðskipti þín\nmeð raunverulegum árangri",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Fyrirtæki treysta okkur"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Virkir notendur"
+      },
+      {
+        "value": "+10",
+        "suffix": "ár",
+        "label": "Í stöðugri þróun"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Skýjaframboð"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Hvernig það virkar",
+    "title": "Frá sölu til söfnunar, án þess að skipta um kerfi",
+    "text": "Hver vara deilir viðskiptavinum, lager, pöntunum og greiðslum. Það sem gerist á götunni eða í vöruhúsinu birtist á skrifstofunni samstundis.",
+    "steps": {
+      "sell": {
+        "title": "Þú selur",
+        "text": "Pöntunin er slegin inn í gegnum vefsíðuna eða í gegnum Sales Man, jafnvel án merkis."
+      },
+      "pick": {
+        "title": "Tilbúið",
+        "text": "Warehouse tekur á móti, aðskilur og sendir með strikamerki."
+      },
+      "deliver": {
+        "title": "Sendingar",
+        "text": "Logistics úthlutar leiðinni og fylgir afhendingunni."
+      },
+      "collect": {
+        "title": "Kóbra",
+        "text": "Finance og ERP loka söfnuninni, kvittunum og númerunum."
+      }
+    }
+  },
+  "band": {
+    "title": "Tilbúinn til að sjá það með [[aðgerð þinni]]?",
+    "text": "Við sýnum þér vistkerfið með dreifingartilfelli svipað og þínu."
+  },
+  "footer": {
+    "blurb": "Vef- og farsímavettvangur fyrir dreifingu, sölu, flutninga, innkaup, birgðahald og fjármál.",
+    "products": "Vörur",
+    "company": "Fyrirtæki",
+    "legal": "Löglegt",
+    "privacy": "Persónuvernd",
+    "terms": "Skilmálar",
+    "rights": "Allur réttur áskilinn."
+  },
+  "solutions": {
+    "eyebrow": "Lausnir",
+    "title": "Hvert svæði, tengt við [[sama aðgerð]]",
+    "intro": "Veldu eftir vandamálinu sem þú vilt leysa. Að baki deila vörurnar sömu upplýsingum.",
+    "items": {
+      "commercial": {
+        "title": "Viðskiptastjórnun",
+        "text": "Pantanir, verð, viðskiptavinir og birgðir fyrir daglega dreifingu."
+      },
+      "field": {
+        "title": "sölulið",
+        "text": "Seljendur taka við pöntunum á götunni, á netinu eða utan nets."
+      },
+      "warehouse": {
+        "title": "Verslun",
+        "text": "Móttaka, tínsla, sending og lager sem hægt er að treysta."
+      },
+      "logistics": {
+        "title": "Vörustjórnun og afhending",
+        "text": "Leiðir, bílstjórar og staða hverrar sendingar."
+      },
+      "purchasing": {
+        "title": "Innkaup og birgjar",
+        "text": "Tilvitnanir, pantanir og vefgátt fyrir þann sem útvegar þér."
+      },
+      "finance": {
+        "title": "Fjármál og bókhald",
+        "text": "Innheimtu, greiðslur, rafræn innheimta og bókhald."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Iðnaður",
+    "title": "Gert fyrir þá sem [[flytur vöru]]",
+    "intro": "FullVendor fæddist í dreifingu og fylgir fyrirtækjum sem kaupa, geyma, selja og afhenda.",
+    "items": {
+      "wholesale": {
+        "title": "Dreifing og heildsala",
+        "text": "Verðskrár, safn, dreifing og söfnun í einni hringrás."
+      },
+      "retail": {
+        "title": "Smásala",
+        "text": "Verslun og vöruhús með tengdum lager, sölu og áfyllingu."
+      },
+      "food": {
+        "title": "Matur og drykkir",
+        "text": "Tíðar leiðir og vöruhús sem getur ekki stoppað."
+      },
+      "pharma": {
+        "title": "Apótek og persónuleg umönnun",
+        "text": "Móttaka, tínsla og birgðaeftirlit með rekjanleika."
+      },
+      "hardware": {
+        "title": "Vélbúnaður og smíði",
+        "text": "Margar tilvísanir, birgjar og sendingar í vinnu eða verslun."
+      },
+      "fmcg": {
+        "title": "Fjöldaneysla",
+        "text": "Götusölulið og mikil velta skipti."
+      },
+      "manufacturing": {
+        "title": "Framleiðsla",
+        "text": "Innkaup, vörugeymsla og birgðahald í takt við stjórnun."
+      },
+      "lastmile": {
+        "title": "Afhending og síðasta kílómetra",
+        "text": "Leiðir, bílstjórar og staða hverrar sendingar."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Auðlindir",
+    "title": "Hreinsar hugmyndir til að [[panta aðgerðina]]",
+    "intro": "Stuttir leiðbeiningar fyrir dreifingarstjóra sem ætla að ákveða hvaða kerfi þeir halda við.",
+    "items": {
+      "unify": {
+        "title": "Hvernig á að sameina dreifingu í eitt kerfi",
+        "summary": "Hvað á að setja saman fyrst þegar sala, vöruhús og söfn búa í mismunandi skrám.",
+        "points": [
+          "Byrjaðu á viðskiptavinum, vörum og verði: þeir eru kennarinn sem allir nota.",
+          "Tengdu pöntunina við lagerinn áður en þú bætir við fleiri forritum.",
+          "Það mælir einfalda tölu: pantanir uppfylltar án þess að endurtaka eyðublaðið."
+        ]
+      },
+      "offline": {
+        "title": "Sölulið sem vinnur án nettengingar",
+        "summary": "Hvað á að krefjast af pöntunarappi svo að seljandinn hætti ekki vegna merkis.",
+        "points": [
+          "Vörulistinn og veskið verða að vera í símanum, ekki bara í skýinu.",
+          "Pöntunin er vistuð á tækinu og hlaðið upp þegar netið kemur aftur.",
+          "Við samstillingu fer pöntunin þegar inn í vöruhúsið."
+        ]
+      },
+      "warehouse": {
+        "title": "Vöruhús með strikamerki, án pappírs",
+        "summary": "Hvernig á að fara frá prentuðum lista yfir í staðfesta val í síma.",
+        "points": [
+          "Taktu á móti innkaupapöntun, ekki gegn minni.",
+          "Staðfestu hvert atriði við aðskilnað. Pöddan sker sig inn á ganginn.",
+          "Sendingin uppfærir lagerinn sem seljandinn sér."
+        ]
+      },
+      "finance": {
+        "title": "Safn í takt við söluna",
+        "summary": "Hvers vegna seljandi ætti að sjá skuld viðskiptavinarins áður en hann tekur aðra pöntun.",
+        "points": [
+          "Heimsóknin er besti tíminn til að innheimta, ef skuldin er sýnileg.",
+          "Sala og fjármál verða að horfa til sama viðskiptavinar.",
+          "Dagleg skýrsla sem er tímabær er meira virði en síðbúin lokun."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Verð",
+    "title": "Vistkerfi sem [[vex með þér]]",
+    "intro": "Við birtum ekki almennt verð: kostnaðurinn fer eftir einingum, notendum og magni. Við sýnum þér vettvanginn og setjum saman tillögu með rekstri þínum.",
+    "note": "Sýningin kostar ekkert og krefst ekki samnings.",
+    "recommended": "Mælt er með",
+    "faq_title": "Algengar spurningar",
+    "plans": {
+      "essential": {
+        "name": "Nauðsynlegt",
+        "desc": "Að skipuleggja viðskiptastjórnun og dreifingu á einum vettvangi.",
+        "features": [
+          "FullVendor vefvettvangur",
+          "Sala, innkaup og birgðahald",
+          "Viðskiptavinir, birgjar og skýrslur",
+          "Notendur skrifstofubúnaðar",
+          "Stuðningur við ræsingu"
+        ],
+        "cta": "Biðja um kynningu"
+      },
+      "professional": {
+        "name": "Fagmaður",
+        "desc": "Fyrir teymi sem selja á götunni og undirbúa pantanir í vöruhúsinu.",
+        "features": [
+          "Allt Nauðsynlegt",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Vinna án nettengingar og strikamerki",
+          "Fleiri notendur á sviði og vöruhúsum"
+        ],
+        "cta": "Biðja um kynningu"
+      },
+      "corporate": {
+        "name": "Fyrirtæki",
+        "desc": "Fyrir hópa sem þurfa flutninga, innkaup, fjármál og ýmis fyrirtæki.",
+        "features": [
+          "Fullkomið vistkerfi",
+          "Logistics, Vendor Supplier og Finance",
+          "FullVendor ERP og fjölleigu",
+          "Rafræn innheimtu og bókhald",
+          "Undirleikur og forgangsframboð"
+        ],
+        "cta": "Talaðu við sölumenn"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Þarf ég að kaupa allar vörurnar?",
+        "a": "Nei. Þú getur byrjað á FullVendor og bætt við öppum eða ERP þegar aðgerðin þarfnast þess."
+      },
+      "offline": {
+        "q": "Virka forritin án internets?",
+        "a": "Sales Man og Warehouse halda áfram að vinna án merkis og samstilla þegar endurtenging er tekin."
+      },
+      "multi": {
+        "q": "Virkar það ef ég er með fleiri en eitt fyrirtæki?",
+        "a": "Já. ERP hugleiðir fjölfyrirtæki og vistkerfið getur deilt herrum sín á milli."
+      },
+      "demo": {
+        "q": "Hvað inniheldur kynningin?",
+        "a": "Skoðunarferð um pallinn með tösku svipað þínu. Enginn kostnaður og engin skuldbinding."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Við sýnum þér FullVendor með [[gerð aðgerðarinnar]]",
+    "text": "Segðu okkur frá fyrirtækinu þínu og hvað þú vilt panta fyrst. Demoið kostar ekkert."
+  },
+  "contact": {
+    "eyebrow": "Hafðu samband",
+    "title": "Við skulum tala um [[aðgerðina þína]]",
+    "text": "Ef þú vilt kynningu, tillögu eða bara til að stilla þér á milli vara, skildu eftir upplýsingarnar þínar og við svörum.",
+    "email": "Póstur",
+    "phone": "Sími",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nafn",
+    "email": "Póstur",
+    "phone": "Sími",
+    "company": "Fyrirtæki",
+    "country": "Land",
+    "team": "Liðsstærð",
+    "interest": "Hvað vekur áhuga þinn?",
+    "message": "Skilaboð",
+    "optional": "Valfrjálst",
+    "choose": "Veldu",
+    "interest_all": "Allt vistkerfið",
+    "ph_name": "nafnið þitt",
+    "ph_email": "þú@fyrirtæki.is",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Fyrirtækið þitt",
+    "ph_country": "Land",
+    "ph_message": "Segðu okkur hvernig þú starfar í dag",
+    "privacy_before": "Ég samþykki notkun gagna minna skv",
+    "privacy_after": ".",
+    "submit": "Sendu beiðni",
+    "sent_title": "Við fáum beiðni þína",
+    "sent_text": "Þakka þér fyrir. Söluteymið mun skrifa þér til að samræma kynninguna eða svara spurningunni þinni.",
+    "error_required": "Fylltu út þennan reit.",
+    "error_email": "Sláðu inn gilt netfang.",
+    "error_phone": "Athugaðu símann.",
+    "error_privacy": "Við þurfum samþykki þitt til að nota tengiliðaupplýsingar.",
+    "error_csrf": "Þingið er útrunnið. Sendu eyðublaðið aftur.",
+    "error_save": "Við gátum ekki vistað beiðnina. Reyndu aftur.",
+    "error_generic": "Skoðaðu merkta reiti.",
+    "error_rate": "Vinsamlegast bíddu smá stund áður en þú sendir inn aðra beiðni.",
+    "team_options": {
+      "1-10": "1 til 10 manns",
+      "11-50": "11 til 50 manns",
+      "51-200": "51 til 200 manns",
+      "201-500": "201 til 500 manns",
+      "500+": "Meira en 500 manns"
+    }
+  },
+  "video": {
+    "title": "FullVendor á einni mínútu",
+    "prev": "Fyrrverandi",
+    "next": "Á eftir",
+    "slides": [
+      {
+        "title": "Eitt vistkerfi",
+        "text": "Sala, vöruhús, afhending, innkaup og fjármögnun deila viðskiptavinum, lager og pöntunum."
+      },
+      {
+        "title": "Vef og farsími saman",
+        "text": "Skrifstofan vinnur á pallinum. Gatan og vöruhúsið, í öppunum, jafnvel án merkis."
+      },
+      {
+        "title": "Gert til að dreifa",
+        "text": "Frá pöntun til greiðslu, án þess að flytja upplýsingar úr einni skrá í aðra."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Leitaðu að vörum, lausnum, iðnaði...",
+    "lang_filter": "Leita tungumál",
+    "intro": "Leitaðu að vörum, lausnum, atvinnugreinum og auðlindum.",
+    "empty": "Við fundum engar niðurstöður fyrir „{q}“.",
+    "hint": "Prófaðu sölu, vöruhús, leiðir eða söfnun.",
+    "results": "{n} niðurstöður",
+    "button": "Leitaðu að",
+    "kind_product": "Vara",
+    "kind_solution": "Lausn",
+    "kind_industry": "Iðnaður",
+    "kind_resource": "Auðlind"
+  },
+  "notfound": {
+    "title": "Þessi síða er það ekki",
+    "text": "Tengillinn er ekki til eða hefur breytt staðsetningu."
+  },
+  "common": {
+    "what": "Hvað leysir",
+    "features": "Hvað er innifalið",
+    "benefits": "Hvers vegna það skiptir máli",
+    "for_who": "Fyrir hverja er það?",
+    "related": "Einnig í vistkerfinu"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Útsala í dag",
+      "orders": "Pantanir",
+      "clients": "Viðskiptavinir",
+      "products": "Vörur"
+    },
+    "sidebar": {
+      "dashboard": "Mælaborð",
+      "sales": "Sala",
+      "purchases": "Innkaup",
+      "inventory": "Birgðir",
+      "clients": "Viðskiptavinir",
+      "reports": "Skýrslur"
+    },
+    "chart": "Sala",
+    "channel": "Dreifing eftir rásum",
+    "channels": [
+      "Verslun",
+      "Dreifing",
+      "Heildsali",
+      "Aðrir"
+    ],
+    "orders": "Nýjustu pantanir",
+    "col_order": "Panta",
+    "col_client": "Viðskiptavinur",
+    "col_status": "Ríki",
+    "col_total": "Samtals",
+    "status": [
+      "Afhent",
+      "Á leiðinni",
+      "Eyrnalokkar"
+    ],
+    "top": "Mest seldu vörurnar",
+    "product": "Vara",
+    "sales_menu": [
+      "Viðskiptavinir",
+      "Pantanir",
+      "Vörur",
+      "Leiðir",
+      "Samstilla"
+    ],
+    "warehouse_menu": [
+      "Móttakan",
+      "Tínsla",
+      "Birgðir",
+      "Sending",
+      "Samstilla"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Persónuverndarstefna",
+    "privacy_intro": "Þessi stefna útskýrir hvað við gerum við gögnin sem þú skilur eftir á eyðublöðum á þessari síðu.",
+    "privacy": [
+      {
+        "title": "Hvaða gögnum við söfnum",
+        "text": "Ef þú biður um kynningu eða skrifar okkur þá vistum við nafn, fyrirtæki, netfang, símanúmer ef þú gefur upp það, landið, stærð liðsins, vöruna sem þú hefur áhuga á og skilaboðin. Við skráum einnig dagsetninguna, tungumál síðunnar og IP-tölu, til að koma í veg fyrir móðgandi innsendingar."
+      },
+      {
+        "title": "Til hvers notum við þau?",
+        "text": "Við notum þessi gögn eingöngu til að svara þér, samræma kynningu og undirbúa viðskiptatillögu. Við seljum þær ekki eða gefum þeim lista yfir þriðja aðila."
+      },
+      {
+        "title": "Hvar eru þau geymd og hversu lengi?",
+        "text": "Beiðnir eru geymdar á netþjóni þessarar síðu. Við geymum þær í þann tíma sem þarf til að þjóna þér og eftirfylgni í viðskiptalegum tilgangi og við eyðum þeim þegar þú biður okkur um það eða þegar þeirra er ekki lengur þörf."
+      },
+      {
+        "title": "Réttindi þín",
+        "text": "Þú getur beðið um aðgang, leiðréttingu eða eyðingu gagna þinna af tengiliðaeyðublaðinu, tilgreint það í skilaboðunum. Ef fyrirtækið birtir tölvupóst á þessari vefsíðu geturðu líka skrifað þar."
+      }
+    ],
+    "terms_title": "Notkunarskilmálar",
+    "terms_intro": "Þessi skilyrði eiga við um notkun þessarar FullVendor uppgjafarsíðu.",
+    "terms": [
+      {
+        "title": "Viðskiptaupplýsingar",
+        "text": "Textar, dæmi um mælaborðsmyndir og lýsingar kynna vettvanginn. Hægt er að breyta þeim þegar vara breytist og eru ekki lokað tilboð."
+      },
+      {
+        "title": "Sýningin er ekki samningur",
+        "text": "Sending eyðublaðsins skapar ekki skyldu til að kaupa eða panta verð. Sérhver samningur er gerður sérstaklega, skriflegur, ásamt umfangi hans og skilyrðum."
+      },
+      {
+        "title": "Innihald síðunnar",
+        "text": "Vörumerkið FullVendor, vöruheiti og innihald þessara síðna tilheyra eigendum þeirra. Ekki er hægt að afrita þær til að kynna aðra vöru."
+      },
+      {
+        "title": "Viðunandi notkun",
+        "text": "Ekki nota eyðublöðin til að senda inn rangar upplýsingar, ruslpóst eða ólöglegt efni. Við gætum hunsað beiðnir sem samsvara ekki raunverulegu viðskiptasamtali."
+      }
+    ]
+  }
+}

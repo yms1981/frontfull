@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Atur jeung tumuwuh bisnis Anjeun",
+    "home_desc": "Platform sadaya-dina-hiji sareng solusi wéb sareng mobile pikeun distribusi, penjualan, logistik, pameseran, inventaris sareng kauangan.",
+    "products_title": "Produk | FullVendor",
+    "products_desc": "Ngauningaan ékosistem FullVendor: platform komérsial, ERP, logistik, suppliers na jualan, gudang jeung aplikasi keuangan.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solusi | FullVendor",
+    "solutions_desc": "Solusi pikeun manajemén komérsial, gaya penjualan, gudang, logistik, pameseran sareng kauangan.",
+    "industries_title": "Industri | FullVendor",
+    "industries_desc": "FullVendor pikeun distribusi, ritel, kadaharan, apoték, hardware, konsumsi masal, manufaktur sarta panungtungan mil.",
+    "pricing_title": "Harga | FullVendor",
+    "pricing_desc": "Rencana ésénsial, Profesional sareng Perusahaan. Proposal disusun dumasar kana modul, pangguna sareng volume.",
+    "resources_title": "Sumberdaya | FullVendor",
+    "resources_desc": "Pitunjuk pondok pikeun ngahijikeun distribusi, ngajual offline, ngatur gudang sareng dibayar dina waktosna.",
+    "contact_title": "Kontak | FullVendor",
+    "contact_desc": "Tulis ka kami pikeun diajar ngeunaan FullVendor atanapi koordinat paguneman sareng tim penjualan.",
+    "demo_title": "Ménta demo | FullVendor",
+    "demo_desc": "Nyuhunkeun demo FullVendor sareng tur platform kalayan kasus anu sami sareng operasi anjeun.",
+    "privacy_title": "Privasi | FullVendor",
+    "terms_title": "Saratna | FullVendor",
+    "search_title": "Pilarian | FullVendor",
+    "notfound_title": "Kaca teu kapanggih | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Kaca imah",
+    "products": "Produk",
+    "solutions": "Solusi",
+    "industries": "Industri",
+    "pricing": "Harga",
+    "resources": "Sumberdaya",
+    "contact": "Kontak",
+    "open_menu": "Buka ménu",
+    "close": "Tutup"
+  },
+  "cta": {
+    "demo": "Ménta Demo",
+    "contact": "Taros Kami",
+    "video": "Lalajo Video",
+    "talk": "Ngobrol jualan",
+    "all_products": "Tempo sadaya produk",
+    "home": "Balik deui ka kaca imah"
+  },
+  "a11y": {
+    "skip": "Luncat ka eusi",
+    "primary": "Napigasi utama",
+    "crumbs": "Rute navigasi",
+    "search": "Milarian",
+    "language": "Basa"
+  },
+  "hero": {
+    "eyebrow": "Sadayana dina hiji platform",
+    "title": "Ngatur jeung tumuwuh\nAnjeun bisnis jeung\n{{brand}}",
+    "subtitle": "Platform lengkep sareng solusi wéb sareng mobile pikeun distribusi, penjualan, logistik, pameseran, inventaris, kauangan sareng seueur deui.",
+    "pill_ecosystem": "Sagalana dina ékosistem tunggal",
+    "pill_cloud": "Dina awan, aman tur scalable",
+    "pill_size": "Pikeun perusahaan sadaya ukuran"
+  },
+  "products_block": {
+    "eyebrow": "produk urang",
+    "title": "[[ékosistem lengkep]] pikeun unggal daérah bisnis anjeun",
+    "aside": "Solusi terpadu anu gawé bareng pikeun masihan anjeun kontrol total, efisiensi operasional sareng pertumbuhan anu langkung ageung.",
+    "groups": {
+      "money": "Administrasi sarta ngumpulkeun",
+      "flow": "Purchases sarta pangiriman",
+      "field": "Penjualan sareng gudang"
+    }
+  },
+  "products_page": {
+    "title": "Tujuh produk, [[operasi tunggal]]",
+    "text": "Unggal produk solves wewengkon. Babarengan ngabagi konsumén, saham, pesenan sareng pamayaran."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Platform utama pikeun manajemén komérsial sarta distribusi.",
+      "features": [
+        "Penjualan sareng pameseran",
+        "Inventarisasi",
+        "Klién jeung suppliers",
+        "Laporan sareng seueur deui"
+      ],
+      "lead": "Puseur operasi komérsial anjeun: pesenan, harga, saham sareng konsumén di hiji tempat.",
+      "about": "FullVendor ngagantikeun spreadsheets leupas distributor sarta sistem. Ti dieu pesenan kaluar, inventaris dikonsultasi, portopolio palanggan diurus sareng nomer dinten ditingali. Sésa ékosistem nyambung ka dasar ieu.",
+      "benefits": [
+        {
+          "title": "Hiji master data",
+          "text": "Konsumén, produk sareng harga dibagikeun sareng penjualan, gudang sareng kauangan."
+        },
+        {
+          "title": "Hapus operasi sapopoé",
+          "text": "Pesenan, pameseran sareng saham eureun hirup dina file anu béda."
+        },
+        {
+          "title": "Laporan pikeun mutuskeun",
+          "text": "Penjualan, margin sareng pending katingali tanpa ngahijikeun méja ku leungeun."
+        },
+        {
+          "title": "Siap tumuwuh",
+          "text": "Logistik, gaya jualan atawa ERP sums lamun operasi requests eta."
+        }
+      ],
+      "audience": "Tim komersil sareng distribusi anu ayeuna koordinat bisnis antara sababaraha sistem."
+    },
+    "erp": {
+      "kicker": "Administrasi",
+      "card": "Manajemén administrasi sareng kauangan lengkep.",
+      "features": [
+        "Akunting",
+        "tagihan éléktronik",
+        "Lembar kerja",
+        "Asét maneuh",
+        "Multi-parusahaan"
+      ],
+      "lead": "Administrasi sareng kauangan, saluyu sareng anu leres-leres dijual sareng dikirimkeun.",
+      "about": "FullVendor ERP nyertakeun akuntansi, invoicing éléktronik, payrolls, aset tetep sarta multi-parusahaan. Butuh operasi komersil sareng ngarobih kana éntri, kuitansi sareng pernyataan anu tiasa dianggo ku daérah kauangan.",
+      "benefits": [
+        {
+          "title": "akuntansi disambungkeun",
+          "text": "Naon kajadian di jualan na purchases feed akuntansi."
+        },
+        {
+          "title": "resi éléktronik",
+          "text": "Anjeun ngaluarkeun sareng ngontrol tagihan ti ékosistem anu sami."
+        },
+        {
+          "title": "Rupa-rupa pausahaan",
+          "text": "Multi-perusahaan pikeun grup nu beroperasi dina leuwih ti hiji ngaran parusahaan."
+        },
+        {
+          "title": "Payrolls jeung aset",
+          "text": "Gaji sareng aset tetep sareng sésa manajemén."
+        }
+      ],
+      "audience": "Wewengkon administrasi sareng kauangan anu hoyong nutup angka kalayan operasi nyata."
+    },
+    "logistics": {
+      "kicker": "Logistik",
+      "card": "Kontrol sareng ngawaskeun operasi logistik anjeun.",
+      "features": [
+        "Rute sareng pangiriman",
+        "Nyukcruk real-time",
+        "Tugas supir",
+        "Optimasi jalur"
+      ],
+      "lead": "Tina pesenan ka pangiriman: rute, supir sareng nyukcruk sacara real-time.",
+      "about": "FullVendor Logistics ngatur distribusi. Anjeun nyieun ruteu, nangtukeun supir tur tingal dimana unggal pangiriman bade. Tim lalu lintas eureun gumantung kana telepon pikeun terang upami pesenan parantos dikirim.",
+      "benefits": [
+        {
+          "title": "Ruteu poé",
+          "text": "Pangiriman maréntahkeun ku zona, jandela waktos sareng kapasitas."
+        },
+        {
+          "title": "supir ditugaskeun",
+          "text": "Unggal rute gaduh jalma anu tanggung jawab sareng sekuen anu jelas."
+        },
+        {
+          "title": "Tindak lanjut",
+          "text": "Anjeun terang naon anu dikirimkeun, di jalan atanapi dieureunkeun."
+        },
+        {
+          "title": "Pangsaeutikna kilométer",
+          "text": "Optimasi rute ngirangan waktos pangiriman sareng biaya."
+        }
+      ],
+      "audience": "Operasi distribusi sareng armada sorangan atanapi pihak katilu."
+    },
+    "supplier": {
+      "kicker": "Balanja",
+      "card": "Portal pikeun suppliers sarta manajemén purchasing.",
+      "features": [
+        "pesenan beuli",
+        "Tanda kutip",
+        "Manajemén supplier",
+        "Integrasi jeung inventory"
+      ],
+      "lead": "Kutipan supplier anjeun, nampi pesenan sareng ngeusian deui saham tanpa email anu leupas.",
+      "about": "Vendor Supplier muka portal pikeun purchases na suppliers pikeun gawé dina pesenan sarua. Tanda petik, pesenan beuli jeung resi dihijikeun ka inventory of FullVendor.",
+      "benefits": [
+        {
+          "title": "Pesenan dina saluran",
+          "text": "Supplier ningali naon anu bakal dikirimkeun, tanpa ranté email."
+        },
+        {
+          "title": "tanda petik comparable",
+          "text": "Anjeun menta harga jeung milih jeung sajarah dina pintonan."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Kaayaan, kontak sareng pending dina rékaman tunggal."
+        },
+        {
+          "title": "Lebetkeun inventaris",
+          "text": "Naon anu dibeuli ieu reflected dina stock lamun geus narima."
+        }
+      ],
+      "audience": "Meuli tim anu ngeusian sababaraha supplier sareng peryogi traceability."
+    },
+    "salesman": {
+      "kicker": "Aplikasi mobile",
+      "card": "Aplikasi mobile pikeun tim penjualan.",
+      "features": [
+        "manajemén customer",
+        "Nyokot pesenan",
+        "Katalog produk",
+        "Karya offline"
+      ],
+      "lead": "Angkatan penjualan nyandak pesenan di jalan, nganggo atanapi tanpa sinyal.",
+      "about": "FullVendor Sales Man nempatkeun portopolio anjeun, katalog jeung urutan nyokot on telepon seller urang. Upami teu aya internét, padamelan diteruskeun sareng nyingkronkeun nalika sinyalna mulang. Pesenan sumping siap nyiapkeun sareng nganteurkeun.",
+      "benefits": [
+        {
+          "title": "Dompét dina saku",
+          "text": "Seller nilik klien, kaayaan jeung item pending."
+        },
+        {
+          "title": "Mesen di nganjang",
+          "text": "Candak pesenan sareng harga ayeuna sareng saham."
+        },
+        {
+          "title": "Katalog nepi ka tanggal",
+          "text": "Produk, presentasi sareng harga tanpa PDF lami."
+        },
+        {
+          "title": "Nyata offline",
+          "text": "Gawé tanpa sinyalna sareng singkronkeun engké."
+        }
+      ],
+      "audience": "Pengawas sareng tenaga penjualan lapangan dina distribusi sareng konsumsi masal."
+    },
+    "warehouse": {
+      "kicker": "Aplikasi mobile",
+      "card": "Aplikasi mobile pikeun gudang.",
+      "features": [
+        "Panarimaan sareng pangiriman",
+        "Nyokot jeung bungkusan",
+        "kontrol inventory",
+        "Barcode maca"
+      ],
+      "lead": "Panarimaan, nyokot sareng ngirim nganggo telepon sareng barkod.",
+      "about": "FullVendor Warehouse nungtun gudang di panarimaan, nyokot, packing na dispatch. Kodeu maca ngirangan kasalahan sareng inventaris henteu diitung deui dina ahir bulan.",
+      "benefits": [
+        {
+          "title": "Panarimaan ngalawan pesenan",
+          "text": "Naon asupna dibandingkeun jeung meuli."
+        },
+        {
+          "title": "Sasaran picking",
+          "text": "Pamilik kapal nuturkeun pesenan sareng mastikeun unggal barang."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Pangsaeutikna kasalahan produk, bets atanapi kuantitas."
+        },
+        {
+          "title": "saham dipercaya",
+          "text": "Unggal gerakan ngamutahirkeun inventaris platform."
+        }
+      ],
+      "audience": "Manajer gudang sareng pamilik kapal anu ayeuna nyiapkeun pesenan sareng daptar anu dicitak."
+    },
+    "finance": {
+      "kicker": "Aplikasi mobile",
+      "card": "Kontrol kauangan tina ponsel anjeun.",
+      "features": [
+        "Akun receivable jeung payable",
+        "Status palanggan",
+        "Pangmayaran jeung reconciliations",
+        "Laporan kauangan"
+      ],
+      "lead": "Rekening piutang, pangmayaran sareng status palanggan, tina telepon anjeun.",
+      "about": "FullVendor Finance nembongkeun koleksi on mobile: naon owes unggal klien, naon pausahaan rék mayar na kumaha pangmayaran datangna. Hal ieu dipaké pikeun ngumpulkeun duit salila nganjang jeung kasampak di kasir tanpa muka meja.",
+      "benefits": [
+        {
+          "title": "Koléksi dina kunjungan",
+          "text": "Seller terang upami palanggan parantos diropéa sateuacan ngajual."
+        },
+        {
+          "title": "Receivable jeung payable",
+          "text": "Kadua sisi kotak dina aplikasi anu sami."
+        },
+        {
+          "title": "Pangmayaran jeung reconciliations",
+          "text": "Anjeun ngadaptar sks tur tingal naon kudu meuntas."
+        },
+        {
+          "title": "Laporan di leungeun",
+          "text": "Koléksi sareng indikator kas tanpa ngantosan nutup."
+        }
+      ],
+      "audience": "Manajer, kolektor sareng salespeople anu peryogi kaayaan klien ayeuna."
+    }
+  },
+  "why": {
+    "eyebrow": "Naha FullVendor",
+    "title": "Naekeun Anjeun bisnis\nkalawan hasil nyata",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Pausahaan percanten ka kami"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "pamaké aktip"
+      },
+      {
+        "value": "+10",
+        "suffix": "taun",
+        "label": "Dina évolusi konstan"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "kasadiaan awan"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kumaha gawéna",
+    "title": "Ti dijual ka koleksi, tanpa ngarobah sistem",
+    "text": "Unggal produk ngabagikeun konsumén, saham, pesenan sareng pamayaran. Naon anu lumangsung di jalan atanapi di gudang muncul di kantor langsung.",
+    "steps": {
+      "sell": {
+        "title": "Anjeun ngajual",
+        "text": "Urutan diasupkeun ngaliwatan ramatloka atawa ngaliwatan Sales Man, sanajan tanpa sinyal."
+      },
+      "pick": {
+        "title": "Siap",
+        "text": "Warehouse narima, misahkeun jeung dispatches kalawan barkod."
+      },
+      "deliver": {
+        "title": "Pangiriman",
+        "text": "Logistics napelkeun jalur sarta nuturkeun pangiriman."
+      },
+      "collect": {
+        "title": "Kobra",
+        "text": "Finance jeung ERP nutup kumpulan, kuitansi jeung nomer."
+      }
+    }
+  },
+  "band": {
+    "title": "Siap ningali éta kalayan [[operasi anjeun]]?",
+    "text": "Kami nunjukkeun anjeun ékosistem kalayan kasus distribusi anu sami sareng anjeun."
+  },
+  "footer": {
+    "blurb": "Platform wéb sareng mobile pikeun distribusi, penjualan, logistik, pameseran, inventaris sareng kauangan.",
+    "products": "Produk",
+    "company": "Perusahaan",
+    "legal": "sah",
+    "privacy": "Privasi",
+    "terms": "Sarat",
+    "rights": "Sadaya hak disimpen."
+  },
+  "solutions": {
+    "eyebrow": "Solusi",
+    "title": "Unggal wewengkon, disambungkeun ka [[operasi sarua]]",
+    "intro": "Pilih dumasar kana masalah anu anjeun hoyong direngsekeun. Di tukangeun, produk ngabagi inpormasi anu sami.",
+    "items": {
+      "commercial": {
+        "title": "Manajemén komérsial",
+        "text": "Pesenan, harga, konsumén sareng inventaris pikeun distribusi dinten-dinten."
+      },
+      "field": {
+        "title": "kakuatan jualan",
+        "text": "Ngical paralatan nyandak pesenan di jalan, online atanapi offline."
+      },
+      "warehouse": {
+        "title": "Toko",
+        "text": "Panarimaan, picking, dispatch sarta stock nu bisa dipercaya."
+      },
+      "logistics": {
+        "title": "Logistik sareng pangiriman",
+        "text": "Rute, supir sareng status unggal pangiriman."
+      },
+      "purchasing": {
+        "title": "Purchasing jeung suppliers",
+        "text": "Tanda kutip, pesenan sareng portal pikeun saha waé anu nyayogikeun anjeun."
+      },
+      "finance": {
+        "title": "Keuangan jeung akuntansi",
+        "text": "Koléksi, pangmayaran, tagihan éléktronik sareng akuntansi."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industri",
+    "title": "Dijieun pikeun jalma anu [[mindahkeun produk]]",
+    "intro": "FullVendor lahir dina distribusi jeung accompanies pausahaan nu meuli, nyimpen, ngajual jeung nganteurkeun.",
+    "items": {
+      "wholesale": {
+        "title": "Distribusi jeung borongan",
+        "text": "Daptar harga, portopolio, distribusi sareng kempelan dina sirkuit tunggal."
+      },
+      "retail": {
+        "title": "Écéran",
+        "text": "Toko sareng gudang kalayan saham anu nyambung, penjualan sareng replenishment."
+      },
+      "food": {
+        "title": "Dahareun jeung inuman",
+        "text": "Rute anu sering sareng gudang anu teu tiasa eureun."
+      },
+      "pharma": {
+        "title": "Farmasi sareng perawatan pribadi",
+        "text": "Panarimaan, picking sareng kontrol inventory kalayan traceability."
+      },
+      "hardware": {
+        "title": "Hardware jeung konstruksi",
+        "text": "Loba rujukan, suppliers na deliveries digawekeun atawa toko."
+      },
+      "fmcg": {
+        "title": "Konsumsi massa",
+        "text": "gaya jualan jalan jeung ngagantian elehan tinggi."
+      },
+      "manufacturing": {
+        "title": "Pabrikan",
+        "text": "Mésér, gudang sareng inventaris saluyu sareng administrasi."
+      },
+      "lastmile": {
+        "title": "Pangiriman sareng mil terakhir",
+        "text": "Rute, supir sareng status unggal pangiriman."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Sumberdaya",
+    "title": "Hapus ideu pikeun [[mesen operasi]]",
+    "intro": "Panungtun pondok pikeun manajer distribusi anu badé mutuskeun sistem mana anu bakal dipasang.",
+    "items": {
+      "unify": {
+        "title": "Kumaha ngahijikeun distribusi kana sistem tunggal",
+        "summary": "Naon anu kudu dihijikeun heula nalika penjualan, gudang sareng koleksi cicing dina file anu béda.",
+        "points": [
+          "Mimitian ku konsumén, produk sareng harga: aranjeunna guru anu dianggo ku sadayana.",
+          "Sambungkeun pesenan sareng saham sateuacan nambihan langkung seueur aplikasi.",
+          "Éta ngukur sajumlah saderhana: pesenan dicumponan tanpa ngulang bentuk."
+        ]
+      },
+      "offline": {
+        "title": "Tenaga penjualan damel offline",
+        "summary": "Naon anu diperyogikeun tina aplikasi pesenan supados seller henteu lirén kusabab sinyalna.",
+        "points": [
+          "Katalog sareng dompét kedah aya dina telepon, sanés ngan ukur dina méga.",
+          "Pesenan disimpen dina alat sareng diunggah nalika jaringan uih deui.",
+          "Nalika nyingkronkeun, pesenan parantos lebet ka gudang."
+        ]
+      },
+      "warehouse": {
+        "title": "Gudang kalayan barkod, tanpa kertas",
+        "summary": "Kumaha balik tina daptar dicitak ka dikonfirmasi picking dina telepon.",
+        "points": [
+          "Nampi ngalawan pesenan beuli, teu ngalawan memori.",
+          "Pastikeun unggal item nalika misahkeun. Kutu naék kana lorong.",
+          "The dispatch ngamutahirkeun stock nu seller nilik."
+        ]
+      },
+      "finance": {
+        "title": "Koléksi saluyu sareng penjualan",
+        "summary": "Naha seller kedah ningali hutang nasabah sateuacan nyandak pesenan anu sanés.",
+        "points": [
+          "Nganjang teh wayah pangalusna pikeun ngumpulkeun, lamun hutang geus katempo.",
+          "Penjualan sareng kauangan kedah ningali palanggan anu sami.",
+          "A laporan telat poean patut leuwih ti nutup telat."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Harga",
+    "title": "Ékosistem anu [[tumuwuh sareng anjeun]]",
+    "intro": "Kami henteu nyebarkeun tingkat umum: biaya gumantung kana modul, pangguna sareng volume. Kami nunjukkeun anjeun platform sareng ngahijikeun proposal sareng operasi anjeun.",
+    "note": "Demo henteu aya biaya sareng henteu ngabutuhkeun kontrak.",
+    "recommended": "Dianjurkeun",
+    "faq_title": "Patarosan anu sering ditaroskeun",
+    "plans": {
+      "essential": {
+        "name": "ésénsial",
+        "desc": "Pikeun ngatur manajemén komérsial sarta distribusi dina platform tunggal.",
+        "features": [
+          "FullVendor platform wéb",
+          "Penjualan, pameseran sareng inventaris",
+          "Klién, suppliers sarta laporan",
+          "pamaké parabot kantor",
+          "rojongan ngamimitian"
+        ],
+        "cta": "Ménta Demo"
+      },
+      "professional": {
+        "name": "Profésional",
+        "desc": "Pikeun tim anu ngajual di jalan jeung nyiapkeun pesenan di gudang.",
+        "features": [
+          "Sagalana ésénsial",
+          "Aplikasi FullVendor Sales Man",
+          "Aplikasi FullVendor Warehouse",
+          "Karya offline sareng barkod",
+          "Langkung sawah sareng pangguna gudang"
+        ],
+        "cta": "Ménta Demo"
+      },
+      "corporate": {
+        "name": "korporasi",
+        "desc": "Pikeun grup anu peryogi logistik, purchasing, keuangan sarta sagala rupa pausahaan.",
+        "features": [
+          "Ékosistem lengkep",
+          "Logistics, Vendor Supplier jeung Finance",
+          "FullVendor ERP sarta multi-tenancy",
+          "tagihan éléktronik jeung akuntansi",
+          "Iringan sareng kasadiaan prioritas"
+        ],
+        "cta": "Ngobrol jualan"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Naha kuring kedah mésér sadaya produk?",
+        "a": "No. Anjeun tiasa mimitian ku FullVendor tur nambahkeun aplikasi atawa ERP nalika operasi merlukeun eta."
+      },
+      "offline": {
+        "q": "Naha aplikasi tiasa dianggo tanpa internét?",
+        "a": "Sales Man jeung Warehouse terus digawé tanpa sinyal jeung nyingkronkeun nalika nyambungkeun deui."
+      },
+      "multi": {
+        "q": "Naha éta tiasa dianggo upami kuring gaduh langkung ti hiji perusahaan?",
+        "a": "Sumuhun. ERP contemplates multi-perusahaan jeung ékosistem bisa babagi master antara aranjeunna."
+      },
+      "demo": {
+        "q": "Naon demo kaasup?",
+        "a": "Tur tina platform sareng kasus anu sami sareng anjeun. Taya ongkos jeung euweuh kawajiban."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Kami nunjukkeun anjeun FullVendor kalayan [[jenis operasi anjeun]]",
+    "text": "Béjakeun ka kami ngeunaan perusahaan anjeun sareng naon anu anjeun hoyong pesen heula. Demo teu aya biaya."
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Hayu urang ngobrol ngeunaan [[operasi anjeun]]",
+    "text": "Upami anjeun hoyong demo, proposal atawa ngan pikeun Orient diri antara produk, ninggalkeun informasi anjeun sarta kami bakal ngabales.",
+    "email": "Surat",
+    "phone": "Telepon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ngaran",
+    "email": "Surat",
+    "phone": "Telepon",
+    "company": "Perusahaan",
+    "country": "Nagara",
+    "team": "Ukuran tim",
+    "interest": "Naon kapentingan anjeun?",
+    "message": "talatah",
+    "optional": "Pilihan",
+    "choose": "Pilih",
+    "interest_all": "Sakabéh ékosistem",
+    "ph_name": "nami anjeun",
+    "ph_email": "anjeun@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Perusahaan anjeun",
+    "ph_country": "Nagara",
+    "ph_message": "Ngabejaan urang kumaha anjeun beroperasi kiwari",
+    "privacy_before": "Kuring nampa pamakéan data kuring nurutkeun kana",
+    "privacy_after": ".",
+    "submit": "Kirim pamundut",
+    "sent_title": "Simkuring nampi pamundut anjeun",
+    "sent_text": "Hatur nuhun. Tim penjualan bakal nyerat ka anjeun pikeun koordinat demo atanapi ngajawab patarosan anjeun.",
+    "error_required": "Lengkepan widang ieu.",
+    "error_email": "Lebetkeun email anu sah.",
+    "error_phone": "Pariksa telepon.",
+    "error_privacy": "Kami peryogi idin anjeun pikeun ngagunakeun detil kontak.",
+    "error_csrf": "sési geus kadaluwarsa. Kirim deui formulir.",
+    "error_save": "Kami henteu tiasa nyimpen pamundut. Cobian deui.",
+    "error_generic": "Pariksa widang anu ditandaan.",
+    "error_rate": "Mangga antosan sakedap sateuacan ngirimkeun pamundut anu sanés.",
+    "team_options": {
+      "1-10": "1 nepi ka 10 urang",
+      "11-50": "11 nepi ka 50 urang",
+      "51-200": "51 nepi ka 200 urang",
+      "201-500": "201 nepi ka 500 urang",
+      "500+": "Leuwih ti 500 urang"
+    }
+  },
+  "video": {
+    "title": "FullVendor dina hiji menit",
+    "prev": "baheula",
+    "next": "Nurutan",
+    "slides": [
+      {
+        "title": "Ekosistem tunggal",
+        "text": "Penjualan, gudang, pangiriman, pameseran sareng ngabagi keuangan konsumén, saham sareng pesenan."
+      },
+      {
+        "title": "Web jeung mobile babarengan",
+        "text": "Kantor dianggo dina platform. Jalan sareng gudang, dina aplikasi, sanaos tanpa sinyal."
+      },
+      {
+        "title": "Dijieun pikeun ngadistribusikaeun",
+        "text": "Ti urutan pikeun mayar, tanpa ngalirkeun informasi ti hiji file ka nu sejen."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Milarian produk, solusi, industri…",
+    "lang_filter": "Pilarian basa",
+    "intro": "Milarian produk, solusi, industri sareng sumber.",
+    "empty": "Kami henteu mendakan hasil pikeun \"{q}\".",
+    "hint": "Coba jualan, gudang, ruteu atawa kumpulan.",
+    "results": "{n} hasil",
+    "button": "Milarian",
+    "kind_product": "produk",
+    "kind_solution": "Solusi",
+    "kind_industry": "Industri",
+    "kind_resource": "Sumberdaya"
+  },
+  "notfound": {
+    "title": "Kaca ieu henteu",
+    "text": "Tautan teu aya atanapi parantos robih lokasi."
+  },
+  "common": {
+    "what": "Naon solves",
+    "features": "Naon kaasup",
+    "benefits": "Naha éta penting",
+    "for_who": "Éta pikeun saha?",
+    "related": "Ogé dina ékosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Penjualan dinten ieu",
+      "orders": "Paréntah",
+      "clients": "Palanggan",
+      "products": "Produk"
+    },
+    "sidebar": {
+      "dashboard": "Dasbor",
+      "sales": "Penjualan",
+      "purchases": "Balanja",
+      "inventory": "Inventarisasi",
+      "clients": "Palanggan",
+      "reports": "Laporan"
+    },
+    "chart": "Penjualan",
+    "channel": "Distribusi ku saluran",
+    "channels": [
+      "Toko",
+      "Distribusi",
+      "Grosir",
+      "Lain"
+    ],
+    "orders": "pesenan panganyarna",
+    "col_order": "pesenan",
+    "col_client": "Palanggan",
+    "col_status": "Nagara",
+    "col_total": "Total",
+    "status": [
+      "Dihaturkeun",
+      "Nuju dijalan",
+      "Anting"
+    ],
+    "top": "Produk laris pangsaéna",
+    "product": "produk",
+    "sales_menu": [
+      "Palanggan",
+      "Paréntah",
+      "Produk",
+      "Ruteu",
+      "Singkronkeun"
+    ],
+    "warehouse_menu": [
+      "Resepsi",
+      "Nyokot",
+      "Inventarisasi",
+      "Pangiriman",
+      "Singkronkeun"
+    ]
+  },
+  "legal": {
+    "privacy_title": "kabijakan privasi",
+    "privacy_intro": "Kawijakan ieu ngécéskeun naon anu urang laksanakeun sareng data anu anjeun tinggalkeun dina bentuk dina situs ieu.",
+    "privacy": [
+      {
+        "title": "Data naon anu urang kumpulkeun",
+        "text": "Lamun menta demo atawa nulis ka kami, urang simpen nami, pausahaan, email, nomer telepon lamun nunjukkeun eta, nagara, ukuran tim, produk dipikaresep tur pesen. Kami ogé ngarékam tanggal, basa halaman sareng alamat IP, pikeun nyegah kiriman anu kasar."
+      },
+      {
+        "title": "Keur naon urang ngagunakeun éta?",
+        "text": "Kami nganggo data ieu ngan ukur pikeun ngaréspon anjeun, koordinat demo sareng nyiapkeun proposal komérsial. Kami henteu ngajual aranjeunna atanapi masihan ka daptar pihak katilu."
+      },
+      {
+        "title": "Dimana aranjeunna disimpen sareng sabaraha lami?",
+        "text": "Requests disimpen dina server situs urang. Urang nyimpen aranjeunna keur waktu diperlukeun pikeun ngalayanan anjeun sarta komérsial nurutan-up, sarta kami ngahapus aranjeunna nalika anjeun nanya ka kami atawa basa aranjeunna keur aya euweuh diperlukeun."
+      },
+      {
+        "title": "Hak anjeun",
+        "text": "Anjeun tiasa nyuhunkeun aksés, koreksi atanapi ngahapus data anjeun tina bentuk kontak, nunjukkeun dina pesen. Upami perusahaan nyebarkeun email dina halaman wéb ieu, anjeun ogé tiasa nyerat di dinya."
+      }
+    ],
+    "terms_title": "Syarat panggunaan",
+    "terms_intro": "Kaayaan ieu berlaku pikeun panggunaan situs kiriman FullVendor ieu.",
+    "terms": [
+      {
+        "title": "Inpo komérsial",
+        "text": "Téks, conto inohong dasbor sareng déskripsi ngenalkeun platform. Éta tiasa disaluyukeun nalika produkna robih sareng sanés tawaran katutup."
+      },
+      {
+        "title": "Demo teu kontrak",
+        "text": "Ngirimkeun formulir teu nyieun hiji kawajiban pikeun meuli atawa cagar harga. Kontrak naon waé sapuk sacara misah, sacara tulisan, kalayan ruang lingkup sareng kaayaanana."
+      },
+      {
+        "title": "eusi situs",
+        "text": "FullVendor mérek dagang, ngaran produk jeung eusi kaca ieu milik nu bogana. Aranjeunna teu tiasa ditiron pikeun nampilkeun produk anu sanés."
+      },
+      {
+        "title": "pamakéan ditarima",
+        "text": "Ulah make formulir pikeun ngirimkeun informasi palsu, spam atawa eusi ilegal. Urang bisa malire requests nu teu pakait jeung paguneman bisnis sabenerna."
+      }
+    ]
+  }
+}

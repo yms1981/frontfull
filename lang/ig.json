@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Jikwaa wee bulie azụmahịa gị",
+    "home_desc": "Ihe niile dị n'ime otu nwere webụ na ngwọta mkpanaka maka nkesa, ire ahịa, ngwa agha, ịzụrụ, ngwa ahịa na ego.",
+    "products_title": "Ngwaahịa | FullVendor",
+    "products_desc": "Mara ihe ndị dị ndụ FullVendor: ikpo okwu azụmahịa, ERP, ngwa ngwa, ndị na-ebubata na ahịa, ụlọ nkwakọba ihe na ngwa ego.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ngwọta | FullVendor",
+    "solutions_desc": "Ngwọta maka njikwa azụmahịa, ndị ahịa ahịa, ụlọ nkwakọba ihe, ngwa agha, ịzụrụ na ego.",
+    "industries_title": "Ụlọ ọrụ | FullVendor",
+    "industries_desc": "FullVendor maka nkesa, mkpọsa, nri, ụlọ ahịa ọgwụ, ngwaike, oriri oke, nrụpụta na mile ikpeazụ.",
+    "pricing_title": "Ọnụ ahịa | FullVendor",
+    "pricing_desc": "Ihe dị mkpa, ndị ọkachamara na atụmatụ ụlọ ọrụ. A na-etinye atụmatụ ahụ dịka modul, ndị ọrụ na olu.",
+    "resources_title": "Akụrụngwa | FullVendor",
+    "resources_desc": "Ntuziaka dị mkpirikpi iji jikọta nkesa, ree offline, hazie ụlọ nkwakọba ihe wee nweta ụgwọ n'oge.",
+    "contact_title": "Kpọtụrụ | FullVendor",
+    "contact_desc": "Degara anyị akwụkwọ ka anyị mụta maka FullVendor ma ọ bụ hazie mkparịta ụka na ndị otu ahịa.",
+    "demo_title": "Rịọ ngosi | FullVendor",
+    "demo_desc": "Rịọ ngosi nke FullVendor wee gaa n'elu ikpo okwu jiri okwu yiri ọrụ gị.",
+    "privacy_title": "Nzuzo | FullVendor",
+    "terms_title": "Usoro | FullVendor",
+    "search_title": "Chọọ | FullVendor",
+    "notfound_title": "Ahụghị ibe | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Ibe ebe obibi",
+    "products": "Ngwaahịa",
+    "solutions": "Ngwọta",
+    "industries": "Ụlọ ọrụ",
+    "pricing": "Ọnụ ahịa",
+    "resources": "Akụrụngwa",
+    "contact": "Kpọtụrụ",
+    "open_menu": "Mepee menu",
+    "close": "Mechie"
+  },
+  "cta": {
+    "demo": "Rịọ ngosi",
+    "contact": "Kpọtụrụ anyị",
+    "video": "Lelee vidiyo",
+    "talk": "Gwa ndị ahịa okwu",
+    "all_products": "Hụ ngwaahịa niile",
+    "home": "Laghachi na ibe mbụ"
+  },
+  "a11y": {
+    "skip": "Gaa na ọdịnaya",
+    "primary": "Isi igodo",
+    "crumbs": "Ụzọ nsoroụzọ",
+    "search": "Lebe anya",
+    "language": "Asụsụ"
+  },
+  "hero": {
+    "eyebrow": "Niile na otu ikpo okwu",
+    "title": "Jikwaa wee too\nazụmahịa gị na\n{{brand}}",
+    "subtitle": "Ikpo okwu zuru oke nwere ihe webụ na ekwentị mkpanaaka maka nkesa, ire ahịa, ngwa agha, ịzụrụ, ngwaahịa, ego na ihe ndị ọzọ.",
+    "pill_ecosystem": "Ihe niile dị n'otu gburugburu ebe obibi",
+    "pill_cloud": "N'ime igwe ojii, echekwara na scalable",
+    "pill_size": "Maka ụlọ ọrụ niile nha"
+  },
+  "products_block": {
+    "eyebrow": "Ngwaahịa anyị",
+    "title": "A [[ecosystem zuru ezu]] maka mpaghara ọ bụla nke azụmahịa gị",
+    "aside": "Ngwọta agbakwunyere na-arụkọ ọrụ ọnụ iji nye gị njikwa mkpokọta, arụmọrụ arụmọrụ yana uto ka ukwuu.",
+    "groups": {
+      "money": "Nlekọta na nchịkọta",
+      "flow": "Nzụta na nnyefe",
+      "field": "Ahịa na ụlọ nkwakọba ihe"
+    }
+  },
+  "products_page": {
+    "title": "Ngwaahịa asaa, [[otu ọrụ]]",
+    "text": "Ngwaahịa ọ bụla na-edozi mpaghara. Ha na-ekekọrịta ndị ahịa, ngwaahịa, iwu na ịkwụ ụgwọ."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Isi ikpo okwu maka njikwa azụmahịa na nkesa.",
+      "features": [
+        "Ahịa na ịzụrụ ihe",
+        "Akụrụngwa",
+        "Ndị ahịa na ndị na-ebubata ihe",
+        "Akụkọ na ndị ọzọ"
+      ],
+      "lead": "Ebe etiti ọrụ azụmahịa gị: iwu, ọnụahịa, ngwaahịa na ndị ahịa n'otu ebe.",
+      "about": "FullVendor na-edochi akwụkwọ mgbasa ozi na sistemụ rụrụ arụ nke onye nkesa. Site n'ebe a, a na-enye iwu, a na-enyocha ngwa ahịa, a na-elekọta Pọtụfoliyo ndị ahịa ma na-elele ọnụọgụ ụbọchị. Ihe ndị ọzọ dị na gburugburu ebe obibi na-ejikọta na ntọala a.",
+      "benefits": [
+        {
+          "title": "Otu nna ukwu data",
+          "text": "A na-ekerịta ndị ahịa, ngwaahịa na ọnụ ahịa na ahịa, ụlọ nkwakọba ihe na ego."
+        },
+        {
+          "title": "Kpochapụ ọrụ kwa ụbọchị",
+          "text": "Iwu, ịzụrụ na ngwaahịa kwụsịrị ibi na faịlụ dị iche iche."
+        },
+        {
+          "title": "Akụkọ iji kpebie",
+          "text": "A na-ahụ ahịa, oke na echere na-etinyeghị tebụl n'aka."
+        },
+        {
+          "title": "Njikere itolite",
+          "text": "Logistics, ndị na-ere ahịa ma ọ bụ ERP nchikota mgbe ọrụ ahụ rịọrọ ya."
+        }
+      ],
+      "audience": "Ndị otu azụmaahịa na nkesa taa na-ahazi azụmahịa n'etiti ọtụtụ sistemụ."
+    },
+    "erp": {
+      "kicker": "nchịkwa",
+      "card": "Nlekọta nchịkwa na ego zuru ezu.",
+      "features": [
+        "Akaụntụ",
+        "Ịgba ụgwọ eletrọnịkị",
+        "Akwụkwọ ọrụ",
+        "Akụrụngwa edobere",
+        "Multi-ụlọ ọrụ"
+      ],
+      "lead": "Nlekọta na ego, kwekọọ n'ihe a na-ere ma nyefee ya n'ezie.",
+      "about": "FullVendor ERP na-ekpuchi ndekọ ego, akwụkwọ ọnụahịa eletrọnịkị, ụgwọ ọnwa, akụrụngwa edoziri na ọtụtụ ụlọ ọrụ. Ọ na-ewe ọrụ azụmahịa wee gbanwee ya na ndenye, nnata na nkwupụta nke mpaghara ego nwere ike iji.",
+      "benefits": [
+        {
+          "title": "Akaụntụ ejikọrọ",
+          "text": "Ihe na-eme n'ahịa na ịzụrụ ihe na-enye ndekọ ego."
+        },
+        {
+          "title": "Nnata eletrọnịkị",
+          "text": "Ị na-enye ma na-ejikwa ụgwọ ịgba ụgwọ site na otu gburugburu ebe obibi."
+        },
+        {
+          "title": "Ụlọ ọrụ dị iche iche",
+          "text": "Otutu ụlọ ọrụ maka otu ndị na-arụ ọrụ n'okpuru ihe karịrị otu aha ụlọ ọrụ."
+        },
+        {
+          "title": "Payrolls na ihe onwunwe",
+          "text": "Ịkwụ ụgwọ na ihe ndị a kapịrị ọnụ yana njikwa ndị ọzọ."
+        }
+      ],
+      "audience": "Mpaghara nchịkwa na ego nke chọrọ imechi ọnụ ọgụgụ na ezigbo ọrụ."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Jikwaa na nlekota oru ngwa ngwa gị.",
+      "features": [
+        "Ụzọ na nnyefe",
+        "Ngwa nsochi",
+        "Ọrụ ọkwọ ụgbọ ala",
+        "Nkwalite ụzọ"
+      ],
+      "lead": "Site n'usoro gaa na nnyefe: ụzọ, ndị ọkwọ ụgbọ ala na nsochi oge.",
+      "about": "FullVendor Logistics na-ahazi nkesa. Ị mepụtara ụzọ, kenye ndị ọkwọ ụgbọ ala wee hụ ebe nnyefe ọ bụla na-aga. Ndị otu okporo ụzọ na-akwụsị dabere na oku iji chọpụta ma ebubatala iwu ahụ.",
+      "benefits": [
+        {
+          "title": "Ụzọ nke ụbọchị",
+          "text": "Site mpaghara, mpio oge na ikike nyere iwu mbufe."
+        },
+        {
+          "title": "Ọkwọ ụgbọala ekenyere",
+          "text": "Ụzọ ọ bụla nwere onye na-ahụ maka ya na usoro doro anya."
+        },
+        {
+          "title": "Sochie",
+          "text": "Ị maara ihe a na-ebuga, n'ụzọ ma ọ bụ kwụsị."
+        },
+        {
+          "title": "Obere kilomita",
+          "text": "Nkwalite ụzọ na-ebelata oge nnyefe na ọnụ ahịa."
+        }
+      ],
+      "audience": "Ọrụ nkesa na ụgbọ mmiri nke ya ma ọ bụ ndị ọzọ."
+    },
+    "supplier": {
+      "kicker": "Ịzụ ahịa",
+      "card": "Portal maka ndị na-ebubata ihe na njikwa ịzụrụ ihe.",
+      "features": [
+        "Ịzụta iwu",
+        "Okwu",
+        "Njikwa ngwaahịa",
+        "Mmekọrịta na ngwa ahịa"
+      ],
+      "lead": "Nhota ndị na-ebubata gị, nata iwu ma mejupụta ngwaahịa na-enweghị ozi ịntanetị rụrụ arụ.",
+      "about": "Vendor Supplier na-emepe ọnụ ụzọ maka ịzụrụ ihe na ndị na-ebubata ka ha rụọ ọrụ n'otu iwu ahụ. A na-ejikọta ọnụ okwu, iwu ịzụrụ na nnata na ngwa ahịa nke FullVendor.",
+      "benefits": [
+        {
+          "title": "Nye iwu na ọwa",
+          "text": "Onye na-ebubata ya na-ahụ ihe ọ ga-ebuga, na-enweghị yinye email."
+        },
+        {
+          "title": "Ntụle ndị atụnyere",
+          "text": "Ị na-arịọ maka ọnụ ahịa wee họrọ na-elele akụkọ ihe mere eme."
+        },
+        {
+          "title": "Onye na-ebubata ihe",
+          "text": "Ọnọdụ, kọntaktị na echere na otu ndekọ."
+        },
+        {
+          "title": "Tinye ngwa ahịa",
+          "text": "Ihe a zụrụ na-egosipụta na ngwaahịa mgbe a na-enweta ya."
+        }
+      ],
+      "audience": "Ndị otu ịzụrụ na-ejupụta na ọtụtụ ndị na-ebubata ma chọọ traceability."
+    },
+    "salesman": {
+      "kicker": "Ngwa mkpanaaka",
+      "card": "Ngwa mkpanaka maka otu ndị na-ere ahịa.",
+      "features": [
+        "Njikwa ndị ahịa",
+        "Nye iwu ịnara",
+        "Katalọgụ ngwaahịa",
+        "Ọrụ na-anọghị n'ịntanetị"
+      ],
+      "lead": "Ndị na-ere ahịa na-enye iwu n'okporo ámá, na-enwe ma ọ bụ na-enweghị akara.",
+      "about": "FullVendor Sales Man na-etinye Pọtụfoliyo, katalọgụ na ịtụ na-ewere ekwentị onye na-ere ere. Ọ bụrụ na enweghị ịntanetị, ọrụ ahụ na-aga n'ihu wee mekọrịta mgbe mgbama laghachiri. Usoro ahụ rutere njikere ịkwado na ibuga.",
+      "benefits": [
+        {
+          "title": "Akpa n'akpa uwe",
+          "text": "Onye na-ere ahịa na-ahụ ndị ahịa, ọnọdụ na ihe na-echere."
+        },
+        {
+          "title": "Nye iwu na nleta",
+          "text": "Were usoro ahụ na ọnụ ahịa na ngwaahịa ugbu a."
+        },
+        {
+          "title": "Katalọgụ emelitere",
+          "text": "Ngwaahịa, ihe ngosi na ọnụ ahịa na-enweghị PDF ochie."
+        },
+        {
+          "title": "Ezigbo offline",
+          "text": "Na-arụ ọrụ na-enweghị mkpuchi ma mekọrịta ma emechaa."
+        }
+      ],
+      "audience": "Ndị nlekọta na ndị na-ere ahịa ubi na nkesa na oriri oke."
+    },
+    "warehouse": {
+      "kicker": "Ngwa mkpanaaka",
+      "card": "Ngwa mkpanaka maka ụlọ nkwakọba ihe.",
+      "features": [
+        "nnabata na izipu",
+        "Ịhọrọ na ịkwakọ ngwaahịa",
+        "Njikwa ngwa ahịa",
+        "Ọgụgụ koodu barcode"
+      ],
+      "lead": "Nbanye, iburu na zipu ya na ekwentị na koodu mkpọchi.",
+      "about": "FullVendor Warehouse na-eduzi ụlọ nkwakọba ihe na nnabata, iburu, mbukota na izipu. Koodu ịgụ akwụkwọ na-ebelata mperi yana a naghị agụkwa ngwa ahịa naanị na ngwụcha ọnwa.",
+      "benefits": [
+        {
+          "title": "Nnabata megide iwu",
+          "text": "Ihe na-abanye na-atụnyere ịzụrụ."
+        },
+        {
+          "title": "Nhọrọ ezubere iche",
+          "text": "Onye nwe ụgbọ mmiri na-agbaso iwu wee kwado ihe ọ bụla."
+        },
+        {
+          "title": "Barcode",
+          "text": "Mmehie ngwaahịa, ogbe ma ọ bụ ọnụọgụ ole."
+        },
+        {
+          "title": "Ngwaahịa a pụrụ ịdabere na ya",
+          "text": "Ntugharị ọ bụla na-emelite ngwa ahịa nke ikpo okwu."
+        }
+      ],
+      "audience": "Ndị na-ahụ maka ụlọ nkwakọba ihe na ndị nwe ụgbọ mmiri ndị na-akwadebe iwu taa na ndepụta ebipụtara."
+    },
+    "finance": {
+      "kicker": "Ngwa mkpanaaka",
+      "card": "Njikwa ego site na mkpanaka gị.",
+      "features": [
+        "Akaụntụ na-anata na ịkwụ ụgwọ",
+        "Ọkwa ndị ahịa",
+        "Ịkwụ ụgwọ na imezigharị",
+        "Akụkọ gbasara ego"
+      ],
+      "lead": "Ị nweta akaụntụ, ịkwụ ụgwọ na ọkwa ndị ahịa, site na ekwentị gị.",
+      "about": "FullVendor Finance na-egosi mkpokọta na ekwentị mkpanaaka: ihe onye ahịa ọ bụla ji, ihe ụlọ ọrụ ahụ na-achọ ịkwụ ụgwọ yana ka ịkwụ ụgwọ si abịa. A na-eji ya na-anakọta ego n'oge nleta na ileba anya na ndekọ ego na-emegheghị tebụl.",
+      "benefits": [
+        {
+          "title": "Nchịkọta na nleta",
+          "text": "Onye na-ere ahịa maara ma ọ bụrụ na onye ahịa ahụ emelitere tupu ere."
+        },
+        {
+          "title": "Anata na ịkwụ ụgwọ",
+          "text": "Akụkụ abụọ nke igbe ahụ n'otu ngwa ahụ."
+        },
+        {
+          "title": "Ịkwụ ụgwọ na imezigharị",
+          "text": "Ị debanyere aha kredit wee hụ ihe kwesịrị ịgafe."
+        },
+        {
+          "title": "Akụkọ dị n'aka",
+          "text": "Ihe ngosi mkpokọta na ego na-echeghị mmechi."
+        }
+      ],
+      "audience": "Ndị njikwa, ndị na-anakọta na ndị na-ere ahịa chọrọ ọnọdụ onye ahịa n'oge a."
+    }
+  },
+  "why": {
+    "eyebrow": "Gịnị kpatara FullVendor",
+    "title": "Bulite azụmahịa gị\nna ezigbo nsonaazụ",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ụlọ ọrụ tụkwasịrị anyị obi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Ndị ọrụ na-arụsi ọrụ ike"
+      },
+      {
+        "value": "+10",
+        "suffix": "afọ",
+        "label": "Na evolushọn mgbe niile"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ịnweta igwe ojii"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ka o si arụ ọrụ",
+    "title": "Site na ire ere na nchịkọta, na-enweghị mgbanwe usoro",
+    "text": "Ngwaahịa ọ bụla na-ekerịta ndị ahịa, ngwaahịa, iwu na ịkwụ ụgwọ. Ihe na-eme n'okporo ámá ma ọ bụ n'ụlọ nkwakọba ihe na-apụta n'ọfịs ozugbo.",
+    "steps": {
+      "sell": {
+        "title": "Ị na-ere",
+        "text": "A na-abanye n'usoro a site na webụsaịtị ma ọ bụ site na Sales Man, ọbụlagodi na enweghị akara ngosi."
+      },
+      "pick": {
+        "title": "Njikere",
+        "text": "Warehouse na-anata, kewaa ma zipu ya na koodu mkpọchi."
+      },
+      "deliver": {
+        "title": "Nnyefe",
+        "text": "Logistics na-ekenye ụzọ ma soro nnyefe."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance na ERP mechie mkpokọta, nnata na ọnụọgụgụ."
+      }
+    }
+  },
+  "band": {
+    "title": "Ị dịla njikere iji [[ọrụ gị]] hụ ya?",
+    "text": "Anyị na-egosi gị ihe gbasara gburugburu ebe obibi nwere ikpe nkesa yiri nke gị."
+  },
+  "footer": {
+    "blurb": "Weebụ na ekwentị mkpanaaka maka nkesa, ire, lọjistik, ịzụrụ, ngwa ahịa na ego.",
+    "products": "Ngwaahịa",
+    "company": "Ụlọ ọrụ",
+    "legal": "Iwu",
+    "privacy": "Nzuzo",
+    "terms": "Usoro",
+    "rights": "Ikike niile echekwabara."
+  },
+  "solutions": {
+    "eyebrow": "Ngwọta",
+    "title": "Mpaghara ọ bụla, ejikọrọ na [[otu ọrụ]]",
+    "intro": "Họrọ site na nsogbu ịchọrọ idozi. N'azụ, ngwaahịa ndị ahụ na-ekerịta otu ozi ahụ.",
+    "items": {
+      "commercial": {
+        "title": "Njikwa azụmahịa",
+        "text": "Iwu, ọnụ ahịa, ndị ahịa na ngwa ahịa maka nkesa kwa ụbọchị."
+      },
+      "field": {
+        "title": "ike ire ere",
+        "text": "Ndị na-ere ahịa na-enye iwu n'okporo ụzọ, n'ịntanetị ma ọ bụ na-anọghị n'ịntanetị."
+      },
+      "warehouse": {
+        "title": "Ụlọ ahịa",
+        "text": "Nnabata, iburu, izipu na ngwaahịa nwere ike ịtụkwasị obi."
+      },
+      "logistics": {
+        "title": "Logistics na nnyefe",
+        "text": "Ụzọ, ndị ọkwọ ụgbọala na ọkwa nke nnyefe ọ bụla."
+      },
+      "purchasing": {
+        "title": "Ịzụta na ndị na-ebubata ihe",
+        "text": "Okwu, iwu na ọnụ ụzọ maka onye ọ bụla na-enye gị."
+      },
+      "finance": {
+        "title": "Ego na ndekọ ego",
+        "text": "Mkpokọta, ịkwụ ụgwọ, ịgba ụgwọ eletrọnịkị na ndekọ ego."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Ụlọ ọrụ",
+    "title": "Emere maka ndị [[na-ebugharị ngwaahịa]]",
+    "intro": "A mụrụ FullVendor na nkesa ma soro ụlọ ọrụ na-azụta, na-echekwa, na-ere ma na-ebuga.",
+    "items": {
+      "wholesale": {
+        "title": "Nkesa na n'ogbe",
+        "text": "Ndepụta ọnụahịa, Pọtụfoliyo, nkesa na mkpokọta n'otu sekit."
+      },
+      "retail": {
+        "title": "Ụlọ ahịa",
+        "text": "Chekwaa na ụlọ nkwakọba ihe nwere ngwaahịa ejikọrọ, ire na mmeju."
+      },
+      "food": {
+        "title": "Nri na ihe ọṅụṅụ",
+        "text": "Ụzọ ugboro ugboro na ụlọ nkwakọba ihe na-enweghị ike ịkwụsị."
+      },
+      "pharma": {
+        "title": "Ụlọ ahịa ọgwụ na nlekọta onwe onye",
+        "text": "Nnabata, ịhọpụta na njikwa ngwa ahịa nwere traceability."
+      },
+      "hardware": {
+        "title": "Akụrụngwa na ihe owuwu",
+        "text": "Ọtụtụ ntụnye aka, ndị na-ebubata ya na nnyefe maka ọrụ ma ọ bụ chekwaa."
+      },
+      "fmcg": {
+        "title": "Oriri oke",
+        "text": "Ndị na-ere ahịa n'okporo ámá na mgbanwe mgbanwe dị elu."
+      },
+      "manufacturing": {
+        "title": "Mepụta",
+        "text": "Ịzụta, ụlọ nkwakọba ihe na ngwa ahịa dabara na nchịkwa."
+      },
+      "lastmile": {
+        "title": "Nnyefe na maịlụ ikpeazụ",
+        "text": "Ụzọ, ndị ọkwọ ụgbọala na ọkwa nke nnyefe ọ bụla."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Akụrụngwa",
+    "title": "Kpochapụ echiche maka [[ ịtụ ọrụ ahụ]]",
+    "intro": "Ntuziaka dị mkpirikpi maka ndị njikwa nkesa ga-ekpebi usoro ị ga-arapara na ya.",
+    "items": {
+      "unify": {
+        "title": "Otu esi ejikọta nkesa n'ime otu usoro",
+        "summary": "Ihe ị ga-ebu ụzọ tinye ọnụ mgbe ahịa, ụlọ nkwakọba ihe na mkpokọta na-ebi na faịlụ dị iche iche.",
+        "points": [
+          "Malite na ndị ahịa, ngwaahịa na ọnụ ahịa: ha bụ onye nkuzi nke onye ọ bụla na-eji.",
+          "Jikọọ usoro na ngwaahịa tupu ịgbakwunye ngwa ọzọ.",
+          "Ọ na-atụ nọmba dị mfe: iwu mezuru na-emeghịgharị ụdị ahụ."
+        ]
+      },
+      "offline": {
+        "title": "Ike ire ere na-arụ ọrụ na-anọghị n'ịntanetị",
+        "summary": "Ihe ị ga-achọ site na ngwa ịtụ ahịa ka onye na-ere ahịa ghara ịkwụsị n'ihi mgbama.",
+        "points": [
+          "Katalọgụ na obere akpa kwesịrị ịdị na ekwentị, ọ bụghị naanị na igwe ojii.",
+          "A na-echekwa usoro a na ngwaọrụ ma bulite ya mgbe netwọk lọghachiri.",
+          "Mgbe ị na-emekọrịta ihe, usoro a abanyelarị n'ụlọ nkwakọba ihe."
+        ]
+      },
+      "warehouse": {
+        "title": "Ụlọ nkwakọba ihe nwere koodu mkpọchi, enweghị akwụkwọ",
+        "summary": "Otu esi esi na listi e biri ebi gaa na ịhọrọ ekwentị ekwenyesiri ike.",
+        "points": [
+          "Nata megide iwu ịzụta, ọ bụghị megide ebe nchekwa.",
+          "Kwenye ihe ọ bụla mgbe ị na-ekewa. Ahụhụ na-abanye n'ime paseeji.",
+          "Nzipu ahụ na-emelite ngwaahịa nke onye na-ere ere na-ahụ."
+        ]
+      },
+      "finance": {
+        "title": "Nchịkọta kwekọrọ na ire ere",
+        "summary": "Kedu ihe kpatara onye na-ere ahịa kwesịrị ịhụ ụgwọ onye ahịa tupu ya ewere iwu ọzọ.",
+        "points": [
+          "Nleta bụ oge kacha mma ịnakọta, ma ọ bụrụ na a na-ahụ ụgwọ ahụ.",
+          "Ahịa na ego ga-ele anya otu onye ahịa.",
+          "Akụkọ agafeela kwa ụbọchị bara uru karịa mmechi oge."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ọnụ ahịa",
+    "title": "Ecosystem nke [[na-eso gị na-eto]]",
+    "intro": "Anyị anaghị ebipụta ọnụ ọgụgụ ọnụọgụ: ọnụ ahịa na-adabere na modul, ndị ọrụ na olu. Anyị na-egosi gị ikpo okwu na-etinye ọnụ a amaghị na gị ọrụ.",
+    "note": "Ihe ngosi ahụ enweghị ọnụ ahịa ma ọ chọghị nkwekọrịta.",
+    "recommended": "Akwadoro",
+    "faq_title": "Ajụjụ a na-ajụkarị",
+    "plans": {
+      "essential": {
+        "name": "Ihe dị mkpa",
+        "desc": "Iji hazie njikwa azụmahịa na nkesa n'otu ikpo okwu.",
+        "features": [
+          "FullVendor ikpo okwu webụ",
+          "Ahịa, ịzụrụ na ngwa ahịa",
+          "Ndị ahịa, ndị na-eweta ngwaahịa na akụkọ",
+          "Ndị ọrụ akụrụngwa ụlọ ọrụ",
+          "Nkwado mmalite"
+        ],
+        "cta": "Rịọ ngosi"
+      },
+      "professional": {
+        "name": "Ọkachamara",
+        "desc": "Maka otu ndị na-ere n'okporo ámá ma kwadebe iwu na ụlọ nkwakọba ihe.",
+        "features": [
+          "Ihe niile dị mkpa",
+          "Ngwa FullVendor Sales Man",
+          "Ngwa FullVendor Warehouse",
+          "Ọrụ na-anọghị n'ịntanetị na koodu mkpọchi",
+          "Ndị ọrụ ubi na ụlọ nkwakọba ihe ndị ọzọ"
+        ],
+        "cta": "Rịọ ngosi"
+      },
+      "corporate": {
+        "name": "Ụlọọrụ",
+        "desc": "Maka otu ndị chọrọ ngwa ngwa, ịzụrụ, ego na ụlọ ọrụ dị iche iche.",
+        "features": [
+          "gburugburu ebe obibi zuru oke",
+          "Logistics, Vendor Supplier na Finance",
+          "FullVendor ERP na ọtụtụ mgbazinye",
+          "Ịgba ụgwọ electronic na ndekọ ego",
+          "Nkwado na nnweta mbụ"
+        ],
+        "cta": "Gwa ndị ahịa okwu"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ekwesịrị m ịzụta ngwaahịa niile?",
+        "a": "Mba. Ị nwere ike ịmalite na FullVendor wee tinye ngwa ma ọ bụ ERP mgbe ọrụ ahụ chọrọ ya."
+      },
+      "offline": {
+        "q": "Ngwa ndị a na-arụ ọrụ na-enweghị ịntanetị?",
+        "a": "Sales Man na Warehouse na-aga n'ihu na-arụ ọrụ na-enweghị mgbaama ma mekọrịta mgbe ị na-ejikọta ọzọ."
+      },
+      "multi": {
+        "q": "Ọ na-arụ ọrụ ma ọ bụrụ na m nwere ihe karịrị otu ụlọ ọrụ?",
+        "a": "Ee. ERP na-atụgharị uche na ọtụtụ ụlọ ọrụ na gburugburu ebe obibi nwere ike ịkekọrịta nna ukwu n'etiti ha."
+      },
+      "demo": {
+        "q": "Kedu ihe ngosi ahụ gụnyere?",
+        "a": "Njegharị nke ikpo okwu nwere ikpe yiri nke gị. Enweghị ụgwọ na enweghị ọrụ."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "ngosi",
+    "title": "Anyị na-egosi gị FullVendor na [[ụdị ọrụ gị]]",
+    "text": "Gwa anyị gbasara ụlọ ọrụ gị na ihe ịchọrọ ịtụ mbụ. Ihe ngosi ahụ enweghị ọnụ ahịa."
+  },
+  "contact": {
+    "eyebrow": "Kpọtụrụ",
+    "title": "Ka anyị kwuo maka [[ọrụ gị]]",
+    "text": "Ọ bụrụ na ị chọrọ ngosi, a amụma ma ọ bụ naanị iji orient onwe gị n'etiti ngwaahịa, hapụ ozi gị na anyị ga-aza.",
+    "email": "Ozi",
+    "phone": "Ekwentị",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Aha",
+    "email": "Ozi",
+    "phone": "Ekwentị",
+    "company": "Ụlọ ọrụ",
+    "country": "Obodo",
+    "team": "Nha otu",
+    "interest": "Kedu ihe masịrị gị?",
+    "message": "Ozi",
+    "optional": "Nhọrọ",
+    "choose": "Họrọ",
+    "interest_all": "Usoro gburugburu ebe obibi niile",
+    "ph_name": "aha gị",
+    "ph_email": "ị @company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ụlọ ọrụ gị",
+    "ph_country": "Obodo",
+    "ph_message": "Gwa anyị ka ị si arụ ọrụ taa",
+    "privacy_before": "Ana m anabata ojiji nke data m dịka nke",
+    "privacy_after": ".",
+    "submit": "zipu arịrịọ",
+    "sent_title": "Anyị na-enweta arịrịọ gị",
+    "sent_text": "Daalụ. Ndị otu na-ere ahịa ga-edegara gị akwụkwọ ka ị hazie ngosi ngosi ma ọ bụ zaa ajụjụ gị.",
+    "error_required": "Mezue ubi a.",
+    "error_email": "Tinye ozi email bara uru.",
+    "error_phone": "Lelee ekwentị.",
+    "error_privacy": "Anyị chọrọ nkwenye gị iji nkọwa kọntaktị.",
+    "error_csrf": "Nnọkọ ahụ agwụla. Nyefee fọm ahụ ọzọ.",
+    "error_save": "Anyị enweghị ike ichekwa arịrịọ ahụ. Nwaa ọzọ.",
+    "error_generic": "Nyochaa mpaghara ndị akara.",
+    "error_rate": "Biko chere obere oge tupu ịnyefe arịrịọ ọzọ.",
+    "team_options": {
+      "1-10": "1 ruo 10 mmadụ",
+      "11-50": "11 ruo 50 mmadụ",
+      "51-200": "51 ruo 200 mmadụ",
+      "201-500": "201 ruo 500 mmadụ",
+      "500+": "Ihe karịrị mmadụ 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor n'ime otu nkeji",
+    "prev": "Nke mbụ",
+    "next": "Na-eso",
+    "slides": [
+      {
+        "title": "Otu gburugburu ebe obibi",
+        "text": "Ahịa, ụlọ nkwakọba ihe, nnyefe, ịzụrụ na ego na-ekerịta ndị ahịa, ngwaahịa na iwu."
+      },
+      {
+        "title": "Weebụ na mkpanaka ọnụ",
+        "text": "Ụlọ ọrụ ahụ na-arụ ọrụ n'elu ikpo okwu. Okporo ámá na ụlọ nkwakọba ihe, na ngwa, ọbụna na-enweghị mgbaàmà."
+      },
+      {
+        "title": "Emere ka ọ kesaa",
+        "text": "Site na iji kwụọ ụgwọ, na-ebufeghị ozi site na otu faịlụ gaa na nke ọzọ."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Chọọ ngwaahịa, ngwọta, ụlọ ọrụ…",
+    "lang_filter": "Chọọ asụsụ",
+    "intro": "Chọọ ngwaahịa, ngwọta, ụlọ ọrụ na akụrụngwa.",
+    "empty": "Anyị ahụghị rịzọlt maka \"{q}\".",
+    "hint": "Gbalịa ịre ahịa, ụlọ nkwakọba ihe, ụzọ ma ọ bụ mkpokọta.",
+    "results": "{n} nsonaazụ",
+    "button": "Lebe anya",
+    "kind_product": "Ngwaahịa",
+    "kind_solution": "Ngwọta",
+    "kind_industry": "Ụlọ ọrụ mmepụta ihe",
+    "kind_resource": "Akụrụngwa"
+  },
+  "notfound": {
+    "title": "Ibe a abụghị",
+    "text": "Njikọ ahụ adịghị ma ọ bụ gbanwee ọnọdụ."
+  },
+  "common": {
+    "what": "Gịnị na-edozi",
+    "features": "Kedu ihe gụnyere",
+    "benefits": "Ihe mere o ji dị mkpa",
+    "for_who": "Kedu onye ọ bụ?",
+    "related": "Nakwa na gburugburu ebe obibi"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ahịa taa",
+      "orders": "Iwu",
+      "clients": "Ndị ahịa",
+      "products": "Ngwaahịa"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Ahịa",
+      "purchases": "Ịzụ ahịa",
+      "inventory": "Akụrụngwa",
+      "clients": "Ndị ahịa",
+      "reports": "Akụkọ"
+    },
+    "chart": "Ahịa",
+    "channel": "Nkesa site na ọwa",
+    "channels": [
+      "Ụlọ ahịa",
+      "Nkesa",
+      "Onye na-ere ahịa",
+      "Ndị ọzọ"
+    ],
+    "orders": "Iwu kacha ọhụrụ",
+    "col_order": "Nye iwu",
+    "col_client": "Onye ahịa",
+    "col_status": "Steeti",
+    "col_total": "Mkpokọta",
+    "status": [
+      "Enyere ya",
+      "N'ụzọ",
+      "Ntị"
+    ],
+    "top": "Ngwaahịa kacha ere ere",
+    "product": "Ngwaahịa",
+    "sales_menu": [
+      "Ndị ahịa",
+      "Iwu",
+      "Ngwaahịa",
+      "Ụzọ",
+      "Mekọrịta"
+    ],
+    "warehouse_menu": [
+      "nnabata",
+      "Ịhọrọ",
+      "Akụrụngwa",
+      "zipu",
+      "Mekọrịta"
+    ]
+  },
+  "legal": {
+    "privacy_title": "amụma nzuzo",
+    "privacy_intro": "Iwu a na-akọwa ihe anyị na-eji data ị hapụrụ n'ụdị na saịtị a.",
+    "privacy": [
+      {
+        "title": "Kedu data anyị na-anakọta",
+        "text": "Ọ bụrụ na ị rịọ maka ngosi ma ọ bụ detara anyị akwụkwọ, anyị na-echekwa aha, ụlọ ọrụ, email, nọmba ekwentị ma ọ bụrụ na ị gosi ya, obodo, nha nke otu, ngwaahịa mmasị na ozi. Anyị na-edekọkwa ụbọchị, asụsụ nke ibe na adreesị IP, iji gbochie ntinye mkparị."
+      },
+      {
+        "title": "Kedu ihe anyị na-eji ha eme?",
+        "text": "Anyị na-eji data a naanị iji zaghachi gị, hazie ngosi ma kwado atụmatụ azụmahịa. Anyị anaghị ere ha ma ọ bụ nye ha ndepụta nke ndị ọzọ."
+      },
+      {
+        "title": "Ebee ka echekwara ha na ogologo oge?",
+        "text": "A na-echekwa arịrịọ na sava saịtị a. Anyị na-edobe ha maka oge dị mkpa iji jeere gị ozi yana nleba anya azụmahịa, anyị na-ehichapụ ha mgbe ị rịọrọ anyị ma ọ bụ mgbe ha adịghịzi mkpa."
+      },
+      {
+        "title": "Ikike gị",
+        "text": "Ị nwere ike ịrịọ ohere, mezie ma ọ bụ ihichapụ data gị n'ụdị kọntaktị, na-egosi ya na ozi. Ọ bụrụ na ụlọ ọrụ na-ebipụta ozi-e na webụsaịtị a, ị nwekwara ike dee ebe ahụ."
+      }
+    ],
+    "terms_title": "Usoro ojiji",
+    "terms_intro": "Ọnọdụ ndị a metụtara iji saịtị ntinye FullVendor a.",
+    "terms": [
+      {
+        "title": "Ozi azụmahịa",
+        "text": "Ederede, ihe atụ ọnụọgụ dashboard na nkọwa na-ewebata ikpo okwu. Enwere ike ịhazi ha mgbe ngwaahịa gbanwere na ọ bụghị onyinye mechiri emechi."
+      },
+      {
+        "title": "Ihe ngosi abụghị nkwekọrịta",
+        "text": "Ịnyefe mpempe akwụkwọ anaghị emepụta ọrụ ịzụrụ ma ọ bụ debe ọnụ ahịa. A na-anabata nkwekọrịta ọ bụla iche iche, na ederede, yana oke na ọnọdụ ya."
+      },
+      {
+        "title": "Ọdịnaya saịtị",
+        "text": "Ụghalaahịa FullVendor, aha ngwaahịa na ọdịnaya nke ibe ndị a bụ nke ndị nwe ha. Enweghị ike iṅomi ha iji weta ngwaahịa ọzọ."
+      },
+      {
+        "title": "Ojiji anabatara",
+        "text": "Ejila ụdị ahụ nyefee ozi ụgha, spam ma ọ bụ ọdịnaya iwu na-akwadoghị. Anyị nwere ike ileghara arịrịọ na-adabaghị na mkparịta ụka azụmahịa n'ezie."
+      }
+    ]
+  }
+}

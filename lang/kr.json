@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Kasuwunəm cistəgə kuru wuratəgə",
+    "home_desc": "Fasal samma-suro-falben web-a kuru sulhu mobilebe-a mbeji samtə-a, lado-a, karewa-a, yiwo-a, karewa-a kuru kungəna-a nankaro.",
+    "products_title": "Karewa | FullVendor",
+    "products_desc": "Ecosystem notə FullVendor: faraskəram kasuwube, ERP, karewa cidabe, karewa kudomaso-a ladoso-a, na karewa gənatəbe-a kuru apps kungənabe-a.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Sulhu-a | FullVendor",
+    "solutions_desc": "Sulhu-a kasuwuro cistǝgǝ-a, duno ladoye-a, fato kareya gǝnatǝye-a, kareya gǝnatǝye-a, yiwo-a kuru kungǝna-a.",
+    "industries_title": "Sanyaramso | FullVendor",
+    "industries_desc": "FullVendor samtə-a, lado-a, kəmbu-a, kurun-a, karewa cidabe-a, jama nguwuro faidatə-a, tando-a kuru mile dareye-a.",
+    "pricing_title": "Farashi | FullVendor",
+    "pricing_desc": "Faida’a, Gonyi’a kuru Dawari’a Kamfaniye’a. Shawaridə futu modulesbe-a, faidatəmaso-a nəmngəwunza-aro kəltəgəna.",
+    "resources_title": "Arziyi | FullVendor",
+    "resources_desc": "Kashimowa kori-korin samtǝ-a, intanetten lado-a, na kare gǝnatǝyedǝ dawartǝ-a kuru loktun biyatin-a.",
+    "contact_title": "Kǝla kǝl | FullVendor",
+    "contact_desc": "Ruwo andero kəla FullVendor yen notəro au zande’a kəla am ladoye’a kəltəyen.",
+    "demo_title": "Demo mǝradǝtǝ | FullVendor",
+    "demo_desc": "Demo FullVendor ye matə kuru platform dəga fəletə awo cidanzəye samunnam.",
+    "privacy_title": "Sirri | FullVendor",
+    "terms_title": "Shartəwa | FullVendor",
+    "search_title": "Kulashi | FullVendor",
+    "notfound_title": "Page tǝbandǝnyi | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Warak fatobe",
+    "products": "Karewa",
+    "solutions": "Sulhu",
+    "industries": "Sanyaram",
+    "pricing": "Farashi",
+    "resources": "Razəgə",
+    "contact": "Manatəgə",
+    "open_menu": "Menu katə",
+    "close": "Zaktə"
+  },
+  "cta": {
+    "demo": "Demo matə",
+    "contact": "Andiga notə",
+    "video": "Video wune",
+    "talk": "Salesro manane",
+    "all_products": "Karewa samma ruyi",
+    "home": "Warak fatobero waltǝ"
+  },
+  "a11y": {
+    "skip": "Fandoramro kolle",
+    "primary": "Zawal manəm kurube",
+    "crumbs": "Diwal zawal manəm kurube",
+    "search": "Wune",
+    "language": "Təlam"
+  },
+  "hero": {
+    "eyebrow": "Samma faraskəram fallan",
+    "title": "Cistǝgǝ kuru wuratǝgǝ\nkasuwunǝm\n{{brand}}",
+    "subtitle": "Fasal kamil web-a mobile-a ye mbeji samtə-a, lado-a, karewa-a, yiwo-a, karewa-a, kungəna-a gadeso-a.",
+    "pill_ecosystem": "Abiso suro nizam kǝnǝngabe falben",
+    "pill_cloud": "Suro fowoben, nzǝliwo-a kuru ngaltǝ-a",
+    "pill_size": "Kamfaniwa nəmkuranza sammasoro"
+  },
+  "products_block": {
+    "eyebrow": "Karewande",
+    "title": "A [[ecosystem kamil]] nasha kasuwunǝmbe wosoro",
+    "aside": "Sulhu-a kəllata doni nyiro noto sammaso-a, cida ngəla-a wuratə kura-a cin.",
+    "groups": {
+      "money": "Cida-a kuru sabtǝ-a",
+      "flow": "Yiwo-a kuru zuwatǝgǝ-a",
+      "field": "Lado-a kuru fato awo gǝnatǝye-a"
+    }
+  },
+  "products_page": {
+    "title": "Karewa tulur, [[cida fal]]",
+    "text": "Product wo so nasha laa sulhujin. Sandi indiso luwayamaso-a, karewa-a, oda-a kuru biya-a yaksayin."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Faraskəram",
+      "card": "Fasal kura kasuwuro cistagǝ-a kuru samtǝgǝ-aye.",
+      "features": [
+        "Lado-a yiwu-a",
+        "Karewa",
+        "Yiwomaso-a kuru kudomaso-a",
+        "Rifot-a gade-a"
+      ],
+      "lead": "Dawudi cida kasuwube: awowa tǝdiya, farashi, karewa, kuru yiwomaso na fallan.",
+      "about": "FullVendor də spreadsheets samtəma’a nizamzə’a faljin. Na allan awo’a command lan bowotin də’a wutin, awo’a mbeji də’a wutin, portfolio customer ye də’a wutin kuru lamba’a yim dəye wutin. Ecosystem gafsǝnama dǝ shima base adǝro kǝllata.",
+      "benefits": [
+        {
+          "title": "Masta bayannabe fal",
+          "text": "Yiwomaso-a, karewa-a kuru farashi-adə lado-a, gənanoram-a kungənaye-a yakkata."
+        },
+        {
+          "title": "Cida kullumye cin",
+          "text": "Oda-a, yiwo-a kuru karewa-adə failwa gade-gaden naptə kolzana."
+        },
+        {
+          "title": "Rifot shawari yiwo",
+          "text": "Sales-a, margin-a kuru pending-adə muskon tewur kəltə baro turin."
+        },
+        {
+          "title": "Wuraro dawartəna",
+          "text": "Logistics, duno ladoye au ERP sums loktu cidadəye majinlan."
+        }
+      ],
+      "audience": "Karapka kasuwube-a samtəbe-a doni kuro kasuwudəga kate nizamma kadaben kəlzayinma."
+    },
+    "erp": {
+      "kicker": "Hukuma",
+      "card": "Cida-a kungǝnabe-a cistǝgǝ tamotǝgǝ.",
+      "features": [
+        "Hisawu",
+        "Billing lantarkiye",
+        "Warak cidabe",
+        "Kaduwu tawattǝgǝma",
+        "Kamfani-ngǝwu"
+      ],
+      "lead": "Gumnati-a kungənaye-a, awo haiyaro təladin-a yitagattəyin-a kəllata.",
+      "about": "FullVendor ERP accounting’a, invoice’a lantarkiye’a, payroll’a, awo’a kada’a kuru kampani’a nguwu’a. Cida kasuwu ye də gozə kuru sha gaworam ro kalakcin, receipt’a kuru statement’a do nasha kungənaye faidatin ma.",
+      "benefits": [
+        {
+          "title": "Accounting kəllata",
+          "text": "Awo do ne lado-a yiwo-a lan wajin də accounting lan."
+        },
+        {
+          "title": "Fandowa lantarkiye",
+          "text": "Nyiye billing dəga yitagattəyin kuru kaltəyin suro ecosystem falyen."
+        },
+        {
+          "title": "Kamfaniwa kada",
+          "text": "Kamfani kada karafka do cidiya su kamfani fal kozənayen cidazayin ma."
+        },
+        {
+          "title": "Alwoshi-a kadari-a",
+          "text": "Payroll-a kadari-a kuru management gade-a."
+        }
+      ],
+      "audience": "Nasha hukumabe-a kungənabe-adə lambawadəga kəndo jireben zakkatə saragəna."
+    },
+    "logistics": {
+      "kicker": "Karewa karewabe",
+      "card": "Cida karewa logisticsbe noto-a kuru wutə-a.",
+      "features": [
+        "Diwalwa-a kuru yitagattəgə-a",
+        "Loktu-zahirye zamtǝ",
+        "Cida dǝrebaye",
+        "Diwal ngalwotəgə"
+      ],
+      "lead": "Amari lan sǝta zuwatǝgǝro sagǝdǝna: diwalwa, dǝrebawa kuru loktu-zahirye zamtǝ.",
+      "about": "FullVendor Logistics samtəga dawarjin. Diwalwa tətandin, driverwa-a cin kuru na awo gənatəye woson lejin dəga rumin. Team trafficbedə calls lan dajin awo orderdə gənatəna notəro.",
+      "benefits": [
+        {
+          "title": "Diwalwa yimdǝbe",
+          "text": "Jiliwodǝ nasha-a, loktu-a kuru raktǝ-aro amariya tǝdǝna."
+        },
+        {
+          "title": "Dǝreba tǝkǝna",
+          "text": "Diwal woson kam shiro cidajinma mbeji kuru futu shiga tədinna mbeji."
+        },
+        {
+          "title": "Ngawo kənga",
+          "text": "Nyiye awo tǝdǝnadǝ nozana, diwallan au dazǝnadǝn."
+        },
+        {
+          "title": "Kilomita gana",
+          "text": "Diwal ngalwotəgəye loktu gəmtəgə-a taman-a fulujin."
+        }
+      ],
+      "audience": "Cidawa samtǝbe maara njiye kǝlanzǝbe au am gade-gade."
+    },
+    "supplier": {
+      "kicker": "Luwaya dio",
+      "card": "Gaworam karewa kudomaso-a kuru awowa yiwoye cistəgə-aye.",
+      "features": [
+        "Amari yiwoye",
+        "Gulwono",
+        "Kulashi cistǝgǝ",
+        "Inventory'a kəltə"
+      ],
+      "lead": "Am nyiro kareya kudomasoye gulzain, oda sowondin kuru karewadǝga walta bǝlinzayin email baro.",
+      "about": "Vendor Supplier portal kazəna awo’a yiwo’a kuru awo’a kasuwuro yiwo’a dəro cida’a kəla awo’a falyen. Quotes, awo’a yiwoye’a kuru receipt’a də inventory FullVendor ye dəro təngatəgəna.",
+      "benefits": [
+        {
+          "title": "Diwal lan amariya",
+          "text": "Shi kamdo awo suwudinmadə suruna, email chain baro."
+        },
+        {
+          "title": "Quotes rataltǝyinma",
+          "text": "Nyiye taman sorin kuru gargam dəga wutə karnəmin."
+        },
+        {
+          "title": "Masta Kudoma",
+          "text": "Shartəwa, kəla kəltə-a kuru təmatə-a suro rekod falyen."
+        },
+        {
+          "title": "Inventorydǝ yike",
+          "text": "Awo do casuwuna də stock lan fəlejin sa sha tuwandin ma."
+        }
+      ],
+      "audience": "Karapkawa yiwoye duwo karewa kudoma kada'a walta sadin kuru traceability məradəzana."
+    },
+    "salesman": {
+      "kicker": "Manhaja mobayilbe",
+      "card": "Application mobayilbe karapka ladobe nankaro.",
+      "features": [
+        "Luwayamaro cistagǝ",
+        "Order gotə",
+        "Katalog karewabe",
+        "Cida offlinebe"
+      ],
+      "lead": "Cidawu ladoyedə zawal lan awo gozayin, alamaram mbeji au baro.",
+      "about": "FullVendor Sales Man fotfoliwonzə-a, catalognzə-a kuru awo gotə-adə waya ladomayedən gənajin. Internet ba ma, cida də goza kojin kuru awo faljin loktu signal də waljiya. Orderdə dawartə-a yitagattəgə-aro dawartəna.",
+      "benefits": [
+        {
+          "title": "Wallet suro liwuben",
+          "text": "Shi ladomadǝ sawagǝnzǝ-a, shara-a kuru kareya tǝmatǝnyi-a suruna."
+        },
+        {
+          "title": "Ziyaralan amari",
+          "text": "Order do farashi kərmabe-a stock-a lan gotə."
+        },
+        {
+          "title": "Catalog zamanne",
+          "text": "Karewa, bayanna-a kuru taman-a PDF dina baro."
+        },
+        {
+          "title": "Offline jireye",
+          "text": "Cida coverage baro kuru dare synchronize."
+        }
+      ],
+      "audience": "Supervisors-a kuru am fato ladomaso-a samtǝ-a kuru jama nguwuro faidatǝ-an."
+    },
+    "warehouse": {
+      "kicker": "Manhaja mobayilbe",
+      "card": "Mobayil manhaja fato karewa gǝnatǝye.",
+      "features": [
+        "Mowo-a zuwatǝgǝ-a",
+        "Gotə-a zaktə-a",
+        "Karewa kaltəgə",
+        "Barcode kəratə"
+      ],
+      "lead": "Mowo-a, gotə-a kuru zutə-a waya-a barcode-a lan.",
+      "about": "FullVendor Warehouse shima warehouse dəga shimozəyin futu mowo-a, gotə-a, packing-a kuru zutə-a lan. Lamba kəratəye taltəwa fulujin kuru awo kəltayedə dareram kəntawuyen bas isaftinba.",
+      "benefits": [
+        {
+          "title": "Mowo kǝla amariben",
+          "text": "Awo gayin dəga awo yiwo dəga rataltəyin."
+        },
+        {
+          "title": "Nganzatəna gotə",
+          "text": "Shi kəmanzə maara njiyedə amaridəga zəga kuru awowoso tawatsəgəna."
+        },
+        {
+          "title": "Barkod",
+          "text": "Karewa gana, batch au nəmngəwu taltəwa."
+        },
+        {
+          "title": "Stock tawadǝga",
+          "text": "Mowo woso awowa platformbe dəga bəlinjin."
+        }
+      ],
+      "audience": "Manajawa warehousebe-a kuru kəmanzəwa mara njibe-a sandi doni kuro awo-a bakkata-a dawarzayinma."
+    },
+    "finance": {
+      "kicker": "Manhaja mobayilbe",
+      "card": "Kungənaro njistəgə mobile lan.",
+      "features": [
+        "Akawunt mowonjinma kuru biyatinma",
+        "Daraja luwayamabe",
+        "Biya-a sulhu-a",
+        "Rifot kungǝnabe"
+      ],
+      "lead": "Akawunt-a, biya-a kuru daraja luwayama-a, wayanǝmlan.",
+      "about": "FullVendor Finance awo sabtəna də’a fəlejin kəla mobile yen: awo do client wo soye sədin ma, awo do kampani dəye biyajin ma kuru futu biyatin də’a. Shilan faidatə kungəna sabtin loktu ziyaraben kuru cash registerdə kururo kuridə katə baro.",
+      "benefits": [
+        {
+          "title": "Ziyaradən sabtə",
+          "text": "Shi ladomadə nozəna shi customerdə kawu ladoyero waljinro."
+        },
+        {
+          "title": "Mowonjin kuru biyatin",
+          "text": "Nasha indiso suro app falyen."
+        },
+        {
+          "title": "Biya-a sulhu-a",
+          "text": "Nyiye credits dəga rajista dimin kuru awo do fartə məradətəna dəga rumin."
+        },
+        {
+          "title": "Rifot muskon mbeji",
+          "text": "Samno-a kuru kungəna-a fəlejin zaktə jetə baro."
+        }
+      ],
+      "audience": "Manaja’a, awo sabtəmaso’a kuru am ladomaso’a do kəndaram client ye kərma dəro məradəzana ma."
+    }
+  },
+  "why": {
+    "eyebrow": "Abi nankaro FullVendor",
+    "title": "Kasuwunǝmma fuwugǝne\njaza jireye mbeji",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kamfaniwadə andega mbərsana"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Am faidatǝmaso"
+      },
+      {
+        "value": "+10",
+        "suffix": "saawa",
+        "label": "Fǝlango sambisoro"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Fowo mbeji"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Futu cidajindǝ",
+    "title": "Ladolan səta sabtəro saadəna, nizam faltə baro",
+    "text": "Karewoso luwayama-a, karewa-a, oda-a kuru biya-a yakcin. Awo kəla zawalyen au suro warehouseben wazənadə ofislan tinyiro fəlejin.",
+    "steps": {
+      "sell": {
+        "title": "Nyiye saladin",
+        "text": "Order də website lan au Sales Man lan gayin, alama baro yayi."
+      },
+      "pick": {
+        "title": "Dawartə",
+        "text": "Warehouse barcode lan səbandin, yakcin kuru zujin."
+      },
+      "deliver": {
+        "title": "Yiwo",
+        "text": "Logistics diwaldəga cin kuru yitagattəgədəga zayin."
+      },
+      "collect": {
+        "title": "Kobrawa",
+        "text": "Finance a ERP a samma zakkatə, receipts a lambawa a."
+      }
+    }
+  },
+  "band": {
+    "title": "Dawartəna shiga kururo [[cidanzə]]?",
+    "text": "Andeye nyiro ecosystemdǝga fǝlenyiyen shido samtǝnzǝdǝ samunnam."
+  },
+  "footer": {
+    "blurb": "Web-a kuru faraskǝram wayabe-a samtǝ-a, lado-a, kareya gǝnatǝye-a, yiwo-a, kareya gǝnatǝye-a kuru kungǝnaye-a.",
+    "products": "Karewa",
+    "company": "Sawa",
+    "legal": "Halal",
+    "privacy": "Ashir",
+    "terms": "Kalimawa taanasye",
+    "rights": "Hakku samma gǝnaata."
+  },
+  "solutions": {
+    "eyebrow": "Sulhu",
+    "title": "Nawoso, [[cida fal]] ro kəllata.",
+    "intro": "Kazǝyi do sulhu matǝro ragǝma dǝga karne. Ngawodən, karewadə bayan fal sadin.",
+    "items": {
+      "commercial": {
+        "title": "Cistǝgǝ kasuwube",
+        "text": "Kasadǝ-a, farashi-a, luwayama-a kuru kareya-a samtǝye kuro-kuro."
+      },
+      "field": {
+        "title": "duno ladoye",
+        "text": "Ladomasoye awowa gozayin kəla zawalyen, intanetten au offlinelan."
+      },
+      "warehouse": {
+        "title": "Səto",
+        "text": "Mowo-a, gotə-a, zuwatə-a kare duwo tawattəyinma-a."
+      },
+      "logistics": {
+        "title": "Karewa karewabe-a kuru yitagattəgə-a",
+        "text": "Diwalwa, dərebawa kuru daraja awo gənatəye woson."
+      },
+      "purchasing": {
+        "title": "Yiwo-a kuru kudoma-a",
+        "text": "Quotes-a, orders-a kuru portal-a ndu yayi nyiro awo suwudinma."
+      },
+      "finance": {
+        "title": "Kungǝna-a kuru isawu-a",
+        "text": "Samno-a, biya-a, kungǝna lantarkiye-a kuru accounting-a."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Sanyaram",
+    "title": "Am do [[kareya gǝrzayin]] ro tǝdǝna.",
+    "intro": "FullVendor də samtəlan katambo kuru kampani’a do yiwo’a, gənatə’a, lado’a kuru yiwo’a də’a zorzəna.",
+    "items": {
+      "wholesale": {
+        "title": "Samtǝ-a kuru ngǝwuro lado-a",
+        "text": "Rowo farashibe-a, fotfoliwo-a, samtǝ-a kuru saptǝ-a suro dawudi falben."
+      },
+      "retail": {
+        "title": "Gurdo",
+        "text": "Sito-a kuru suto-a kareya kǝllata-a, lado-a kuru waltǝm bǝlintǝgǝ-a."
+      },
+      "food": {
+        "title": "Kəmbuwa-a kəmbu-a",
+        "text": "Diwalwa ngəwu-a kuru warehouse do raksə dajinba-a."
+      },
+      "pharma": {
+        "title": "Farmasi-a kuru kǝlanǝmma njistǝgǝ-a",
+        "text": "Mowo-a, gotə-a karewa noto-a futu matəye-a."
+      },
+      "hardware": {
+        "title": "Hardware-a kuru gar-a",
+        "text": "References kada, kudomaso-a kuru cidaro au suto-aro yitagattəgə-a."
+      },
+      "fmcg": {
+        "title": "Jami faidatǝ",
+        "text": "Duno ladoye zawalye-a kuru kasuwu nguwu-a faltə-a."
+      },
+      "manufacturing": {
+        "title": "Tando",
+        "text": "Yiwo-a, fato gǝnatǝye-a kuru kareya gǝnatǝye-adǝ hukuma-a leyata."
+      },
+      "lastmile": {
+        "title": "Yiwo-a kuru mil darebe-a",
+        "text": "Diwalwa, dərebawa kuru daraja awo gənatəye woson."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Razəgə",
+    "title": "Raayiwa fetero [[cidadəga amartəro]]",
+    "intro": "Kashimowa kori-kori manaja samtəbe do nizam ndaso lan lezayinro shawari gozayinma.",
+    "items": {
+      "unify": {
+        "title": "Futu samtə nizam falro kəltəyin",
+        "summary": "Awo do ne buro salak lan kəltəyin ma loktu ladoye-a, warehouse-a kuru awo sabtəye-a də suro failwa gade-gaden dasayin.",
+        "points": [
+          "Customers lan badine, kareya’a kuru farashi’a: sandima maləm do nduso faidatin ma.",
+          "Order dəga stock dəga kəlne kawu application gade yirayinro.",
+          "Lamba kəske ngaljin: awo do ne form dəga waltəm diwo baro tədin."
+        ]
+      },
+      "offline": {
+        "title": "Duno ladoye offline lan cidajin",
+        "summary": "Awo do app ordering lan mǝradǝtǝna dǝ shima ladoma dǝye dazǝnyi dalil signal ye dǝro.",
+        "points": [
+          "Catalog-a wallet-adə suro wayayen mbeji, suro fowoyen bas gənyi.",
+          "Order də suro naura dəyen gənatə kuru upload tədin loktu network də waltə badijiya.",
+          "Sa synchronizing lan, awo do ne order lan bowotin də warehouse ro gayin."
+        ]
+      },
+      "warehouse": {
+        "title": "Fato karewa gənatəye barcode-a, warak baro",
+        "summary": "Futu list bakkatadən gotə tawattəgəro wayalan.",
+        "points": [
+          "Fando kəla awo yiwoyen, kəla memoryben gənyi.",
+          "Awowa sammaso tawatkəgəne loktu yaktinlan. Bugdə suro hallbedən kamzəna.",
+          "Shi awo zuwatǝgǝnadǝ kareya shi ladomadǝye surunadǝga bǝlinjin."
+        ]
+      },
+      "finance": {
+        "title": "Samnodə lado'a tilo",
+        "summary": "Abi nankaro shi ladomadə kusunyi customerbedəga surin kawu awo gade gojinro.",
+        "points": [
+          "Ziyaradə shima loktu ngəla wo, kusudə turinro waljiya.",
+          "Lado-a kungənaye-adə customer falro wuzayin.",
+          "Rifot kunbalinbe duwan tǝdǝnadǝ darajanzǝ darelan zaktǝga kozǝna."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Farashi",
+    "title": "Ecosystem do [[nyiga wurajin]]",
+    "intro": "Andeye nəmngəwu genericbe baktənyi: tamandə modules-a, faidatəma-a nəmngəwu-aro kardaa. Andeye nyiro platform dəga fəlenyiye kuru awo shawariye cidanzəye dəga kəlnye.",
+    "note": "Demo də tamanzə ba kuru contract məradəzənyi.",
+    "recommended": "Təkərawwuna",
+    "faq_title": "Korowa ngəwuro tədin",
+    "plans": {
+      "essential": {
+        "name": "Faidaa",
+        "desc": "Cista kasuwube-a samtə-a faraskəram fallan dawartə.",
+        "features": [
+          "FullVendor faraskǝram intanetbe",
+          "Lado-a, yiwo-a kuru kareya cidabe-a",
+          "Yiwomaso-a, kudomaso-a kuru rifot-a",
+          "Am karewa ofisbe faidatayindǝ",
+          "Bana baditəye"
+        ],
+        "cta": "Demo matə"
+      },
+      "professional": {
+        "name": "Cidama",
+        "desc": "Teams do kəla zawalyen saladin kuru suro warehouseyen awowa orderbe dawarzayin dəro.",
+        "features": [
+          "Abiso Faida",
+          "Manhaja FullVendor Sales Man",
+          "Manhaja FullVendor Warehouse",
+          "Cida offlinebe-a kuru barcode-a",
+          "Am bare-a kuru warehouse-a faidatǝmaso ngǝwu"
+        ],
+        "cta": "Demo matə"
+      },
+      "corporate": {
+        "name": "Kamfani",
+        "desc": "Karapkawa do karewa cidabe-a, yiwo-a, kungəna-a kuru kamfaniwa gade-gade-a məradəzanaro.",
+        "features": [
+          "Nizam kǝnǝngabe samma",
+          "Logistics, Vendor Supplier kuru Finance",
+          "FullVendor ERP kuru fato-ngǝwu",
+          "Billing lantarkiye-a isawu-a",
+          "Sortǝgǝ-a kuru awo faida-a mbejiro"
+        ],
+        "cta": "Salesro manane"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Karewa samma so yiwo do?",
+        "a": "A’a. Raktə FullVendor lan baditin kuru apps au ERP yirayin loktu cidadəye məradəzənalan."
+      },
+      "offline": {
+        "q": "Shi application də internet baro cidajin wa?",
+        "a": "Sales Man a Warehouse adə cida gozaa kozayin alamaram baro kuru synchronize sadin loktu walta kəlzayinlan."
+      },
+      "multi": {
+        "q": "Kamfani fal kozənaro waljiya cidajin wa?",
+        "a": "Aa. ERP də kampani nguwu’a kuru ecosystem də’a kate nzayen masters’a yakcin."
+      },
+      "demo": {
+        "q": "Ayi suro demo dǝyen mbeji?",
+        "a": "Platform dəga fəletə case nyiye samunnam. Kumbu ba kuru wajib ba."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Andeye nyiro FullVendor [[jili cidabe]] fəlenyiyen.",
+    "text": "Kǝla kamfaninǝmben andero gulle kuru awo buron mǝradǝnǝma. Demo də tamanzə ba."
+  },
+  "contact": {
+    "eyebrow": "Manatəgə",
+    "title": "Nda kəla [[cidanəm]]ben mananye.",
+    "text": "Demo ra’ama, shawari au kəlanəm notə kate karewa dəyen, bayannanəm kolləmin kuru andeye ja’awu diyen.",
+    "email": "Watiya",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Su",
+    "email": "Watiya",
+    "phone": "Telefon",
+    "company": "Sawa",
+    "country": "Lardə",
+    "team": "Nǝmkura kufube",
+    "interest": "Ayi nyiga sǝragǝna?",
+    "message": "Kawuli",
+    "optional": "Karno",
+    "choose": "Karta",
+    "interest_all": "Nizam kǝnǝngabe sammaso",
+    "ph_name": "sunyi",
+    "ph_email": "nyi@kamfani.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kamfaninǝm",
+    "ph_country": "Lardə",
+    "ph_message": "Futu kuro cidamindǝ andero gulle",
+    "privacy_before": "Wuye bayannanyi faidatǝdǝ kasatkǝna futu",
+    "privacy_after": ".",
+    "submit": "Majinma zuzə",
+    "sent_title": "Nyiye awo mǝradǝnǝma sǝbandǝna",
+    "sent_text": "Askxrngxna. Team ladoyedə nyiro ruwozayin demodəga kalkaltəro au koronəm jaaptəro.",
+    "error_required": "Fannu adə tamone.",
+    "error_email": "Email ngǝla-ngǝla yike.",
+    "error_phone": "Telefon dǝga kulasne.",
+    "error_privacy": "Andeye kasattənyi məradənyiye bayanna kəla kəltəyen faidatəro.",
+    "error_csrf": "Loktudə dawono. Form dǝga waltǝm zuwune.",
+    "error_save": "Raksǝ awo mǝradǝtǝna dǝga gǝnanyiyen ba. Waltǝ jarabne.",
+    "error_generic": "Nawa alama təkkənadə waltəm wune.",
+    "error_rate": "Martəgəne gana laa jene kawu awo gade məradətənadə yitagattəyinro.",
+    "team_options": {
+      "1-10": "Am 1 sǝta 10 ro sagǝdǝna",
+      "11-50": "Am 11 sǝta 50 ro sagǝdǝna",
+      "51-200": "Am 51 səta 200ro saadəna",
+      "201-500": "Am 201 səta 500 ro saadəna",
+      "500+": "Am 500 ma kozəna"
+    }
+  },
+  "video": {
+    "title": "FullVendor minti fallan",
+    "prev": "Dina",
+    "next": "Zəgain",
+    "slides": [
+      {
+        "title": "Nizam kǝnǝngabe fal",
+        "text": "Lado-a, na gǝnatǝye-a, zuwatǝgǝ-a, yiwo-a kuru kungǝna-a luwayama-a, karewa-a kuru oda-a."
+      },
+      {
+        "title": "Web-a mobile-a kəllata",
+        "text": "Ofisdə kəla faraskəramben cidajin. Diwal-a warehouse-a, suro appsben, signal baro yayi."
+      },
+      {
+        "title": "Samtǝro tǝdǝna",
+        "text": "Amarilan səta biyaro saadəna, bayan fail fallan gadero kotə baro."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Karewa kulasne, sulhu-a, cidaram-a...",
+    "lang_filter": "Təlam kulasne",
+    "intro": "Karewa kulashibe-a, sulhu-a, cidaram-a arzǝnyi-a.",
+    "empty": "Andeye jaza “{q}” ye sowondin ba.",
+    "hint": "Lado-a, fato awo gǝnatǝye-a, diwalwa-a au awo-a sabtǝ-a jarabne.",
+    "results": "{n} jaza",
+    "button": "Wune",
+    "kind_product": "Kare",
+    "kind_solution": "Dowodowo",
+    "kind_industry": "Sanyaram",
+    "kind_resource": "Razəwu"
+  },
+  "notfound": {
+    "title": "Warak adǝ gǝnyi",
+    "text": "Link də bawo au na faltəna."
+  },
+  "common": {
+    "what": "Ayi sulhu suwudin",
+    "features": "Ayi surodǝn mbeji",
+    "benefits": "Abi nankaro faidaga",
+    "for_who": "Ndu nankaro?",
+    "related": "Kuruson suro nizam kǝnǝngaben"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Kuro lado",
+      "orders": "Amari",
+      "clients": "Yiwomaso",
+      "products": "Karewa"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Lado",
+      "purchases": "Luwaya dio",
+      "inventory": "Karewa",
+      "clients": "Yiwomaso",
+      "reports": "Hawarra"
+    },
+    "chart": "Lado",
+    "channel": "Samtǝ diwalmen",
+    "channels": [
+      "Səto",
+      "Samtə",
+      "Ngǝwuro ladoma",
+      "Gade"
+    ],
+    "orders": "Odawa bǝlin",
+    "col_order": "Dowo",
+    "col_client": "Luwayama",
+    "col_status": "Kərye",
+    "col_total": "Samma",
+    "status": [
+      "Taadəna",
+      "Diwallan",
+      "Sǝmo"
+    ],
+    "top": "Kareya zauro saladin",
+    "product": "Kare",
+    "sales_menu": [
+      "Yiwomaso",
+      "Amari",
+      "Karewa",
+      "Diwalwa",
+      "Kǝltǝ"
+    ],
+    "warehouse_menu": [
+      "Kaptəgə",
+      "Gotə",
+      "Karewa",
+      "Zuwatə",
+      "Kǝltǝ"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Letəgəram Sirribe",
+    "privacy_intro": "Kaida adəye awo do ne data do ne forms lan koltəna dəga bayanzəna.",
+    "privacy": [
+      {
+        "title": "Bayanna jilifi mowonyiyen",
+        "text": "Demo majin au andero ruwojin ma, su dəga gənatin, kamfani dəga, email dəga, lamba wayaye dəga fəletəma, lardə dəga, nəm kura karapka dəga, awo do ne saragəna dəga kuru kawuli dəga. Kuruson loktu-a, təlam warakdəbe-a kuru IP address-a ruwotin, awowa batti-batti gənatəro."
+      },
+      {
+        "title": "Ayi nankaro sandiya faidatin?",
+        "text": "Andeye bayanna anyi faidatiye nyiro ja'au kənjo bas nankaro, awo fəletəye dawartə-a kuru awo kasuwube dawartə-a nankaro. Andeye sandiya saladinba au list am gadero cinba."
+      },
+      {
+        "title": "Ndaran sandiya gənatin kuru loktu jilifiro?",
+        "text": "Matəwadə suro server na adəben gənatəna. Andeye sandiya loktu do nyiro cida diwo-a kuru kasuwu-a nankaro gənanye, kuru andeye sandiya cinyen loktu nyiye andero gulnəm au loktu sandiya məradətənyiro."
+      },
+      {
+        "title": "Hakkunǝm",
+        "text": "Raktə bayannəm fando-a, yasa-a au cintə-a majin suro fom kəla kəltəyen, suro kawuliyen fəlejin. Kamfanidəye email suro website adəyen baksəna, raksə nadən ruwojin."
+      }
+    ],
+    "terms_title": "Shartəwa faidatəye",
+    "terms_intro": "Shartəwa anyi faidatə na FullVendor adəlan faidatin.",
+    "terms": [
+      {
+        "title": "Bayan kasuwube",
+        "text": "Ruwo-a, misallo adadu dashboardbe-a bayan-adə faraskəramdəga yitagattəgə. Sandidə raktə faltin sa karedə faltiya kuru awo zakkata gənyi."
+      },
+      {
+        "title": "Shi demodǝ konturok gǝnyi",
+        "text": "Form dəga zutəye mburo walzənyi taman yiwo au gənatə. Contract ndaso yayi gade-gaden kasattəna, ruwotəlan, futu shilan faidatin-a shartəwanzə-a."
+      },
+      {
+        "title": "Awo nadǝn dagǝnadǝ",
+        "text": "FullVendor trademark a, su karewabe-a kuru awo suro warakka anyiben dagənadə-adə kəmanzəsobe. Sandidə raktə awo gade fəlezayinba."
+      },
+      {
+        "title": "Faidatǝ kasatkata",
+        "text": "Wande forms də faidatə bayan kattuwuye, spam au awo sharaye gənyiro yiwo. Andeye ragǝye awo mǝradǝtǝna dǝga kolliyen shido zande kasuwube jireye dǝga kalkalzǝnyi dǝ."
+      }
+    ]
+  }
+}

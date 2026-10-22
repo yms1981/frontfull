@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor na ndenge ya | Gérer mpe kokola mombongo na yo",
+    "home_desc": "Plateforme nionso na moko na ba solutions web na mobile pona distribution, vente, logistique, achat, inventaire na finance.",
+    "products_title": "Biloko ya kobimisa | FullVendor .",
+    "products_desc": "Yeba écosystème FullVendor: plateforme commerciale, ERP, logistique, ba fournisseurs na vente, ba applis ya entrepôt na finance.",
+    "product_title": "{name} na ndenge ya | FullVendor .",
+    "solutions_title": "Ba solutions ya ba solutions | FullVendor .",
+    "solutions_desc": "Solutions ya gestion commerciale, force de vente, entrepôt, logistique, achat na finance.",
+    "industries_title": "Ba industries ya | FullVendor .",
+    "industries_desc": "FullVendor mpo na bopanzi, koteka na détail, bilei, pharmacie, matériel, bomeli mingi, bokeli mpe kilometele ya suka.",
+    "pricing_title": "Ba prix ya | FullVendor .",
+    "pricing_desc": "Ba Plans Essentiels, Professionnels mpe ya Société. Proposition etie esika moko selon ba modules, ba usagers na volume.",
+    "resources_title": "Makoki ya kosalela | FullVendor .",
+    "resources_desc": "Ba guides ya mikuse pona ko unifier distribution, koteka hors ligne, ko organiser entrepôt pe kozua mbongo na temps.",
+    "contact_title": "Contact | FullVendor .",
+    "contact_desc": "Komela biso mpo na koyeba makambo ya FullVendor to kosala boyokani na lisolo na ekipi ya bateki.",
+    "demo_title": "Senga démo | FullVendor .",
+    "demo_desc": "Senga démo ya FullVendor mpe tourner na plateforme na cas oyo ekokani na opération na yo.",
+    "privacy_title": "Bomoi ya moto ye moko | FullVendor .",
+    "terms_title": "Mibeko | FullVendor .",
+    "search_title": "Boluka | FullVendor .",
+    "notfound_title": "Lokasa ezwami te | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Lokasa ya ebandeli",
+    "products": "Biloko oyo basalaka",
+    "solutions": "Ba solutions ya ba solutions",
+    "industries": "Ba industries ya ba industries",
+    "pricing": "Ntalo ya ntalo",
+    "resources": "Biloko",
+    "contact": "Kokutana",
+    "open_menu": "Fungola menu",
+    "close": "Kokanga"
+  },
+  "cta": {
+    "demo": "Senga Demo",
+    "contact": "Bokutana na biso",
+    "video": "Botala Video",
+    "talk": "Solola na ba ventes",
+    "all_products": "Tala biloko nionso",
+    "home": "Zongela lokasa ya ebandeli"
+  },
+  "a11y": {
+    "skip": "Salá koleka na makambo oyo ezali na kati",
+    "primary": "Navigation ya monene",
+    "crumbs": "Nzela ya navigation",
+    "search": "Boluka",
+    "language": "Lokota"
+  },
+  "hero": {
+    "eyebrow": "Nyonso na estrade moko",
+    "title": "Bokamba mpe bokola\nmombongo na yo na\n{{brand}} .",
+    "subtitle": "Plateforme complet na ba solutions web na mobile pona distribution, vente, logistique, achat, inventaire, finance na ebele.",
+    "pill_ecosystem": "Nyonso na kati ya écosystème moko",
+    "pill_cloud": "Na cloud, sécurité mpe évolutive",
+    "pill_size": "Pona ba entreprises ya taille nionso"
+  },
+  "products_block": {
+    "eyebrow": "Biloko na biso",
+    "title": "[[Écosystème complet]] mpo na esika moko na moko ya mombongo na yo",
+    "aside": "Ba solutions intégrées oyo esalaka elongo pona kopesa yo contrôle total, efficacité opérationnelle pe croissance monene.",
+    "groups": {
+      "money": "Bokambami mpe bosangisi",
+      "flow": "Kosomba mpe kotinda biloko",
+      "field": "Vente na entrepôt"
+    }
+  },
+  "products_page": {
+    "title": "Biloko nsambo, [[mosala moko]].",
+    "text": "Produit moko na moko e résoudre esika moko. Ensemble bakabolaka ba clients, stock, ba commandes na ba paiements."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Esika",
+      "card": "Plateforme principale ya gestion commerciale na distribution.",
+      "features": [
+        "Koteka mpe kosomba biloko",
+        "Emvantere",
+        "Ba clients na ba fournisseurs",
+        "Ba rapports na makambo mosusu"
+      ],
+      "lead": "Centre ya opération commerciale na yo : ba commandes, ba prix, stock na ba clients na esika moko.",
+      "about": "FullVendor e remplacer ba feuilles de calcul mpe ba systèmes ya distributeur oyo ekangami te. Uta awa ba commandes ebimaka, ba consulter inventaire, ba soigner portefeuille ya ba clients mpe ba numéros ya mokolo batalaka. Ecosystème oyo etikali ezo connecter na base oyo.",
+      "benefits": [
+        {
+          "title": "Maître ya ba données moko",
+          "text": "Bakiliya, biloko mpe ntalo ekabolami na botekisi, entrepôt mpe misolo."
+        },
+        {
+          "title": "Fonctionnement ya mokolo na mokolo ya polele",
+          "text": "Ba commandes, ba achats na stock etika ko vivre na ba dossiers différents."
+        },
+        {
+          "title": "Ba rapports pona ko décider",
+          "text": "Vente, marge na pending emonanaka sans kotia esika moko table na maboko."
+        },
+        {
+          "title": "Prêt ya kokola",
+          "text": "Logistique, force de vente to ba sommets ya ERP tango opération esengi yango."
+        }
+      ],
+      "audience": "Ba équipes commerciales na distribution oyo lelo oyo e coordonner entreprise entre plusieurs systèmes."
+    },
+    "erp": {
+      "kicker": "Bokambi ya misala",
+      "card": "Gestion administrative mpe financière mobimba.",
+      "features": [
+        "Comptabilité",
+        "Facturation électronique ya kofuta",
+        "Ba nkasa ya mosala",
+        "Biloko ya kofanda",
+        "Ba sociétés ebele"
+      ],
+      "lead": "Administration mpe finances, alignée na oyo etekamaka mpe epesamaka mpenza.",
+      "about": "FullVendor ERP etali comptabilité, facturation électronique, ba payrolls, ba biens fixes mpe ba entreprises ebele. Ezuaka opération commerciale pe ebongoli yango na ba entrées, ba récépissés pe ba comptes oyo domaine financier ekoki kosalela.",
+      "benefits": [
+        {
+          "title": "Comptabilité oyo ezali na boyokani",
+          "text": "Oyo esalemaka na vente na achats aliments comptabilité."
+        },
+        {
+          "title": "Ba récépissés électroniques",
+          "text": "Obimisaka pe o contrôler facturation à partir ya même écosystème."
+        },
+        {
+          "title": "Ba compagnies ndenge na ndenge",
+          "text": "Multi-company mpo na ba groupes oyo esalaka na ba kombo ya entreprise koleka moko."
+        },
+        {
+          "title": "Ba payrolls na ba biens",
+          "text": "Payroll na ba biens fixes elongo na ba reste ya direction."
+        }
+      ],
+      "audience": "Ba domaines administratifs na financiers oyo balingi kokanga ba nombres na opération ya solo."
+    },
+    "logistics": {
+      "kicker": "Logistique ya makambo",
+      "card": "Contrôle et suivi ya opération logistique na yo.",
+      "features": [
+        "Ba routes na ba livraisons",
+        "Kolanda na tango ya solo",
+        "Mosala ya mokumbi motuka",
+        "Optimisation ya nzela"
+      ],
+      "lead": "Kobanda na commande tii na livraison : ba routes, ba chauffeurs na suivi en temps réel.",
+      "about": "FullVendor Logistics ebongisaka bopanzani. Osalaka ba routes, o assigner ba chauffeurs pe omoni esika livraison moko na moko ezo kende. Ekipi ya mobembo etelemaka na kotalela ba appels mpo na koyeba soki commande esili kotindama.",
+      "benefits": [
+        {
+          "title": "Banzela ya mokolo",
+          "text": "Ba livraisons commandée par zone, fenêtre ya temps na capacité."
+        },
+        {
+          "title": "Mokumbi motuka oyo bapesi ye",
+          "text": "Nzela moko na moko ezali na moto oyo azali kokamba mpe molongo ya polele."
+        },
+        {
+          "title": "Kolanda",
+          "text": "Oyebi oyo epesamaka, na nzela to etelemi."
+        },
+        {
+          "title": "Bakilomɛtrɛ moke",
+          "text": "Optimisation ya route ekitisaka temps ya livraison na coût."
+        }
+      ],
+      "audience": "Misala ya bopanzi na parc moko to na bato ya misato."
+    },
+    "supplier": {
+      "kicker": "Kosomba",
+      "card": "Portal mpo na ba fournisseurs mpe gestion ya kosomba.",
+      "features": [
+        "Ba commandes ya kosomba biloko",
+        "Kozongela maloba",
+        "Bokambami ya ba fournisseurs",
+        "Bosangisi na inventaire"
+      ],
+      "lead": "Ba fournisseurs na yo ba citer, bazuaka ba commandes pe ba remplir stock sans ba emails lax.",
+      "about": "Vendor Supplier efungoli portail mpo na ba achats mpe ba fournisseurs mpo na kosala na ba commandes moko. Ba devis, ba commandes ya kosomba mpe récépissé ekangami na inventaire ya FullVendor.",
+      "benefits": [
+        {
+          "title": "Ba commandes na chaîne moko",
+          "text": "Fournisseur amonaka nini akopesa, sans chaîne ya email."
+        },
+        {
+          "title": "Ba citations oyo ekokani na yango",
+          "text": "Osengi ba prix pe oponi na histoire na vue."
+        },
+        {
+          "title": "Maître ya fournisseur",
+          "text": "Ba conditions, ba contacts na ba en attente na enregistrement moko."
+        },
+        {
+          "title": "Tyá na kati ya inventaire",
+          "text": "Oyo basombaki emonanaka na stock ntango bazwi yango."
+        }
+      ],
+      "audience": "Ba équipes ya kosomba oyo e remplir na ba fournisseurs ebele pe esengeli traçabilité."
+    },
+    "salesman": {
+      "kicker": "Application ya telefone ya mabɔkɔ",
+      "card": "Application mobile pona équipe ya vente.",
+      "features": [
+        "Bokambami ya bakiliya",
+        "Kozwa ba commandes",
+        "Catalogue ya biloko",
+        "Mosala oyo ezali na nzela ya Internet te"
+      ],
+      "lead": "Bato oyo batɛkaka biloko bazwaka ba commandes na balabala, na signal to kozanga signal.",
+      "about": "FullVendor Sales Man etie portefeuille na yo, catalogue na kozua commande na téléphone ya motekisi. Soki internet ezali te, mosala ekobaka mpe e synchroniser tango signal ezongi. Commande ekomi prêt ya ko préparer pe ko livrer.",
+      "benefits": [
+        {
+          "title": "Portefeuille na poche",
+          "text": "Motɛki amonaka ba clients, ba conditions mpe biloko oyo ezali kozela."
+        },
+        {
+          "title": "Commander na visite",
+          "text": "Zwá commande na ba prix ya lelo na stock."
+        },
+        {
+          "title": "Catalogue oyo ezali na mikolo",
+          "text": "Biloko, ba présentations na ba prix sans PDF ya kala."
+        },
+        {
+          "title": "Vrai hors ligne",
+          "text": "Sala sans couverture pe synchroniser sima."
+        }
+      ],
+      "audience": "Ba superviseurs na ba vendeurs ya terrain na distribution na consommation en masse."
+    },
+    "warehouse": {
+      "kicker": "Application ya telefone ya mabɔkɔ",
+      "card": "Application mobile pona entrepôt.",
+      "features": [
+        "Boyambi mpe kotinda",
+        "Kobuka mpe kotya biloko na kati",
+        "Contrôle ya inventaire",
+        "Botangi ya code barre"
+      ],
+      "lead": "Boyambi, kozwa mpe kotinda na telefone mpe code barre.",
+      "about": "FullVendor Warehouse etambwisaka depo na boyambi, bozwami, bokangami mpe botindiki. Kotanga ba codes ekitisaka mabunga mpe inventaire etangamaka lisusu te kaka na suka ya sanza.",
+      "benefits": [
+        {
+          "title": "Boyambi contre ordre",
+          "text": "Oyo ekoti ekokanisi na kosomba."
+        },
+        {
+          "title": "Kobuka oyo etalisami",
+          "text": "Nkolo masuwa alandaka komande mpe andimisaka eloko mokomoko."
+        },
+        {
+          "title": "Ba code barres",
+          "text": "Ba erreurs ya produit, ya lote to ya quantité moke."
+        },
+        {
+          "title": "Stock ya kozala na confiance",
+          "text": "Déplacement moko na moko ezo mettre à jour inventaire ya plateforme."
+        }
+      ],
+      "audience": "Bakonzi ya ba entrepôts mpe bankolo masuwa oyo lelo oyo babongisaka ba commandes na ba listes imprimées."
+    },
+    "finance": {
+      "kicker": "Application ya telefone ya mabɔkɔ",
+      "card": "Contrôle financier depuis mobile na yo.",
+      "features": [
+        "Ba comptes créances mpe oyo esengeli kofutama",
+        "Ezalela ya motɛki",
+        "Bafutami mpe boyokani",
+        "Ba rapports ya mbongo"
+      ],
+      "lead": "Ba comptes créances, ba paiements na état ya client, à partir ya téléphone na yo.",
+      "about": "FullVendor Finance ezali kolakisa collection na mobile : nini client moko na moko azali na nyongo, nini entreprise elingi kofuta pe ndenge nini ba paiements eyaka. Esalelamaka mpo na kozwa mbongo na ntango ya botali mpe kotala esika ya kobomba mbongo kozanga kofungola mesa.",
+      "benefits": [
+        {
+          "title": "Collection na visite",
+          "text": "Motɛki ayebi soki kiliya azali na makambo ya sika liboso ya kotɛka."
+        },
+        {
+          "title": "Eloko oyo esengeli kozwama mpe oyo esengeli kofutama",
+          "text": "Ba côtés nionso mibale ya boîte na app moko."
+        },
+        {
+          "title": "Bafutami mpe boyokani",
+          "text": "Okomisaka ba crédits pe omoni oyo esengeli kokatisa."
+        },
+        {
+          "title": "Balapolo oyo ezali na mabɔkɔ",
+          "text": "Ba indicateurs ya collecte na cash sans kozela cloture."
+        }
+      ],
+      "audience": "Ba dirigeants, ba collecteurs na ba vendeurs oyo baza na besoin ya situation ya client na moment oyo."
+    }
+  },
+  "why": {
+    "eyebrow": "Mpo na nini FullVendor .",
+    "title": "Botombola mombongo na bino\nna ba résultats ya solo",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Bakompani batyelaka biso motema"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Ba usagers actives"
+      },
+      {
+        "value": "+10",
+        "suffix": "bambula",
+        "label": "Na évolution oyo ezali ntango nyonso"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilité ya cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ndenge nini esalaka",
+    "title": "Kobanda na vente ti na collecte, sans ko changer ba systèmes",
+    "text": "Produit moko na moko ekabolaka ba clients, stock, ba commandes na ba paiements. Makambo oyo esalemaka na balabala to na depo ebimaka mbala moko na biro.",
+    "steps": {
+      "sell": {
+        "title": "Ozali koteka",
+        "text": "Ordre ekotisami na nzela ya site internet to na nzela ya Sales Man, ata sans signal."
+      },
+      "pick": {
+        "title": "Ya kobongama",
+        "text": "Warehouse eyambaka, ekabolaka mpe etindi na code barre."
+      },
+      "deliver": {
+        "title": "Ba livraisons",
+        "text": "Logistics epesaka nzela mpe elandi bopesi."
+      },
+      "collect": {
+        "title": "Ba cobras, oyo babengi",
+        "text": "Finance mpe ERP bakangaka bosangisi, ba récépissés mpe mituya."
+      }
+    }
+  },
+  "band": {
+    "title": "Prêt ya komona yango na [[opération na yo]]?",
+    "text": "Tolakisi bino écosystème na cas ya distribution oyo ekokani na oyo ya bino."
+  },
+  "footer": {
+    "blurb": "Plateforme web na mobile pona distribution, vente, logistique, achat, inventaire na finance.",
+    "products": "Biloko oyo basalaka",
+    "company": "Moninga",
+    "legal": "Ya mibeko",
+    "privacy": "Nkuku",
+    "terms": "Maloba",
+    "rights": "Makoki nyonso mazali ya yo."
+  },
+  "solutions": {
+    "eyebrow": "Ba solutions ya ba solutions",
+    "title": "Etando moko na moko, ekangami na [[mosala moko]].",
+    "intro": "Pona na nzela ya mokakatano oyo olingi kosilisa. Na nsima, biloko yango ekabolaka makambo ndenge moko.",
+    "items": {
+      "commercial": {
+        "title": "Bokambami ya mombongo",
+        "text": "Ba commandes, ba prix, ba clients na inventaire pona distribution ya mokolo na mokolo."
+      },
+      "field": {
+        "title": "force ya ba ventes",
+        "text": "Batekisi oyo bazali kozwa ba commandes na balabala, na nzela ya internet to libanda ya internet."
+      },
+      "warehouse": {
+        "title": "Butiki",
+        "text": "Reception, picking, dispatch na stock oyo ekoki kozala na confiance."
+      },
+      "logistics": {
+        "title": "Logistique na livraison",
+        "text": "Ba routes, ba chauffeurs na état ya livraison moko na moko."
+      },
+      "purchasing": {
+        "title": "Kosomba mpe ba fournisseurs",
+        "text": "Ba citations, ba commandes na portail moko pona oyo a fournir yo."
+      },
+      "finance": {
+        "title": "Misolo mpe comptabilité",
+        "text": "Ba collections, ba paiements, facturation électronique na comptabilité."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Ba industries ya ba industries",
+    "title": "Esalemi mpo na baye [[azali ko déplacer produit]].",
+    "intro": "FullVendor ebotamaki na distribution mpe e accompagner ba entreprises oyo esombaka, ebombaka, eteka mpe epesaka.",
+    "items": {
+      "wholesale": {
+        "title": "Bokabolami mpe na engros",
+        "text": "Ba liste ya ba prix, portefeuille, distribution na collecte na circuit moko."
+      },
+      "retail": {
+        "title": "Koteka ndambondambo",
+        "text": "Magasin na entrepôt na stock connecté, vente na remplissage."
+      },
+      "food": {
+        "title": "Bilei mpe masanga",
+        "text": "Ba routes ya mbala na mbala na entrepôt oyo ekoki kotelemela te."
+      },
+      "pharma": {
+        "title": "Pharmacie mpe soins personnels",
+        "text": "Reception, picking na contrôle ya inventaire na traçabilité."
+      },
+      "hardware": {
+        "title": "Matériel mpe botongi",
+        "text": "Ba références ebele, ba fournisseurs na ba livraisons na musala to na magasin."
+      },
+      "fmcg": {
+        "title": "Consommation ya masse",
+        "text": "Force ya vente ya balabala na remplacement ya chiffre d'affaires ya likolo."
+      },
+      "manufacturing": {
+        "title": "Kosala biloko",
+        "text": "Kosomba, entrepôt na inventaire aligné na administration."
+      },
+      "lastmile": {
+        "title": "Livraison na kilomètre ya suka",
+        "text": "Ba routes, ba chauffeurs na état ya livraison moko na moko."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Biloko",
+    "title": "Makanisi ya polele mpo na [[kopesa mitindo ya lipaso]].",
+    "intro": "Ba guides ya mikuse pona ba gestionnaires ya distribution oyo bako décider système nini bakokangama na yango.",
+    "items": {
+      "unify": {
+        "title": "Ndenge nini kosangisa bopanzani na système moko",
+        "summary": "Nini ya kotia esika moko liboso tango ba ventes, entrepôts na ba collections ba vivre na ba dossiers différents.",
+        "points": [
+          "Bandá na bakiliya, biloko mpe ntalo : bango nde molakisi oyo moto nyonso asalelaka.",
+          "Connecter commande na stock avant ya kobakisa ba applications mosusu.",
+          "Ezali komeka motángo moko ya pɛtɛɛ: mitindo oyo ekokisami kozanga ete básala lisusu formulaire."
+        ]
+      },
+      "offline": {
+        "title": "Force ya vente oyo ezali kosala hors ligne",
+        "summary": "Nini esengeli kosenga na appli ya commande mpo ete motɛki atelema te mpo na signal.",
+        "points": [
+          "Catalogue mpe portefeuille esengeli ezala na téléphone, kaka na cloud te.",
+          "Commande ebombamaka na appareil mpe e uploader tango réseau ezongi.",
+          "Tango ozali ko synchroniser, commande ekoti déjà na entrepôt."
+        ]
+      },
+      "warehouse": {
+        "title": "Entrepôt na code barre, sans papier",
+        "summary": "Ndenge nini kokende na liste imprimé tii na picking confirmé na téléphone.",
+        "points": [
+          "Kozwa contre commande ya kosomba, contre mémoire te.",
+          "Confirmer eloko moko na moko tango ozali kokabwana. Nsɛlɛlɛ yango ekati na nzela ya koleka.",
+          "Dispatch ezo mettre à jour stock oyo moteki amoni."
+        ]
+      },
+      "finance": {
+        "title": "Collection alignée na vente",
+        "summary": "Mpo na nini motɛki asengeli komona nyongo ya kiliya liboso ya kosala komande mosusu.",
+        "points": [
+          "Botali ezali ntango malamu ya kozwa, soki nyongo ezali komonana.",
+          "Sales na finance esengeli kotala client moko.",
+          "Lapolo oyo eumelaka mokolo na mokolo ezali na motuya mingi koleka kokangama na retare."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ntalo ya ntalo",
+    "title": "Écosystème oyo [[kolalaka elongo na yo]].",
+    "intro": "To publiaka taux générique te : coût etali ba modules, ba usagers na volume. Tolakisi bino plateforme pe totie esika moko proposition na opération na bino.",
+    "note": "Démo eza na coût te pe ezo senga contrat te.",
+    "recommended": "Kolendisa",
+    "faq_title": "Mituna oyo batunaka mingi",
+    "plans": {
+      "essential": {
+        "name": "Ya ntina",
+        "desc": "Kobongisa gestion commerciale mpe distribution na plateforme moko.",
+        "features": [
+          "FullVendor plateforme ya internet",
+          "Boteki, bosombi mpe inventaire",
+          "Ba clients, ba fournisseurs na ba rapports",
+          "Bato oyo basalelaka bisaleli ya biro",
+          "Lisungi ya kobanda mosala"
+        ],
+        "cta": "Senga Demo"
+      },
+      "professional": {
+        "name": "Ayebi mosala",
+        "desc": "Pona ba équipes oyo eteka na balabala pe ebongisaka ba commandes na entrepôt.",
+        "features": [
+          "Nionso Essentiel",
+          "Kosalela FullVendor Sales Man .",
+          "Kosalela FullVendor Warehouse .",
+          "Mosala hors ligne na ba codes barres",
+          "Ba usagers ya terrain na entrepôt mingi"
+        ],
+        "cta": "Senga Demo"
+      },
+      "corporate": {
+        "name": "Kompanyi ya kompanyi",
+        "desc": "Pona ba groupes oyo esengeli na logistique, achat, finance na ba entreprises ndenge na ndenge.",
+        "features": [
+          "Écosystème mobimba",
+          "Logistics, Vendor Supplier mpe Finance .",
+          "FullVendor ERP mpe ba locataires ebele",
+          "Facturation électronique mpe comptabilité",
+          "Disponibilité ya accompagnement na priorité"
+        ],
+        "cta": "Solola na ba ventes"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Esengeli nasomba biloko nyonso?",
+        "a": "Te. Okoki kobanda na FullVendor mpe kobakisa ba apps to ERP tango opération esengeli na yango."
+      },
+      "offline": {
+        "q": "Ba applications esalaka sans internet?",
+        "a": "Sales Man mpe Warehouse kokoba kosala kozanga signal mpe kosala synchronisation ntango ozali kozongisa boyokani."
+      },
+      "multi": {
+        "q": "Esalaka soki nazali na bakompanyi koleka moko?",
+        "a": "Iyo. ERP ekanisaka ba entreprises ebele pe écosystème ekoki kokabola ba maîtres entre bango."
+      },
+      "demo": {
+        "q": "Démo yango ezali na nini?",
+        "a": "Tour ya plateforme na cas oyo ekokani na oyo ya yo. Coût te mpe obligation te."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo na yango",
+    "title": "Tolakisi yo FullVendor na [[lolenge na yo ya mosala]].",
+    "text": "Yebisa biso makambo ya compagnie na yo pe nini olingi ko commander liboso. Démo eza na coût te."
+  },
+  "contact": {
+    "eyebrow": "Kokutana",
+    "title": "Tolobela [[opération na yo]].",
+    "text": "Soki olingi démonstration, proposition to kaka pona ko se orienter entre ba produits, tika ba informations na yo toko répondre.",
+    "email": "Kotindela biso mikanda",
+    "phone": "Tyombo",
+    "whatsapp": "WhatsApp ya kosala"
+  },
+  "form": {
+    "name": "Nkombo",
+    "email": "Kotindela biso mikanda",
+    "phone": "Tyombo",
+    "company": "Moninga",
+    "country": "Mboka",
+    "team": "Taille ya équipe",
+    "interest": "Nini esepelisaka yo?",
+    "message": "Nsango",
+    "optional": "Soki olingi",
+    "choose": "Kopona",
+    "interest_all": "Ecosystème mobimba",
+    "ph_name": "kombo na yo",
+    "ph_email": "yo@kompanyi.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Société na bino",
+    "ph_country": "Mboka",
+    "ph_message": "Yebisa biso ndenge ozali kosala lelo",
+    "privacy_before": "Nandimi kosalela ba données na ngai selon ba",
+    "privacy_after": ".",
+    "submit": "Tinda bosengi",
+    "sent_title": "Tozwi bosenga na yo",
+    "sent_text": "Matondi. Ekipi ya bateki ekokomela yo mpo na ko coordonner démonstration to koyanola na motuna na yo.",
+    "error_required": "Silisa esika oyo.",
+    "error_email": "Tyá email oyo ezali na ntina.",
+    "error_phone": "Talá na telefone.",
+    "error_privacy": "Tozali na mposa ya ndingisa na yo mpo na kosalela makambo ya boyokani.",
+    "error_csrf": "Session esili. Tinda lisusu formulaire.",
+    "error_save": "Tokokaki te kobomba bosenga yango. Meká lisusu.",
+    "error_generic": "Talá lisusu bisika oyo batye bilembo.",
+    "error_rate": "Tosɛngi bino bózela mwa moke liboso ya kotinda bosengi mosusu.",
+    "team_options": {
+      "1-10": "Bato 1 kino 10",
+      "11-50": "Bato 11 kino 50",
+      "51-200": "Bato 51 kino 200",
+      "201-500": "201 kino bato 500",
+      "500+": "Bato koleka 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor na miniti moko",
+    "prev": "Ya kala",
+    "next": "Kolanda",
+    "slides": [
+      {
+        "title": "Écosystème moko",
+        "text": "Vente, entrepôt, livraison, achat mpe financement partage clients, stock na ba commandes."
+      },
+      {
+        "title": "Web na mobile elongo",
+        "text": "Biro yango esalaka na estrade. Balabala na entrepôt, na ba apps, ata sans signal."
+      },
+      {
+        "title": "Esalemi mpo na kokabola",
+        "text": "Kobanda na commande tii na kofuta, sans ko passer information depuis dossier moko na dossier mosusu."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Boluka biloko, ba solutions, ba industries...",
+    "lang_filter": "Boluka monoko",
+    "intro": "Boluka biloko, ba solutions, ba industries na ba ressources.",
+    "empty": "Tozwaki te ba résultats ya “{q}”.",
+    "hint": "Meka koteka, entrepôt, ba routes to ba collections.",
+    "results": "{n} mbano",
+    "button": "Boluka",
+    "kind_product": "Eloko",
+    "kind_solution": "Solution",
+    "kind_industry": "Mosala",
+    "kind_resource": "Likoki ya kosalela"
+  },
+  "notfound": {
+    "title": "Page oyo eza te",
+    "text": "Lien ezali te to ebongoli esika."
+  },
+  "common": {
+    "what": "Nini esilisaka",
+    "features": "Nini ezali na kati",
+    "benefits": "Mpo na nini ezali na ntina",
+    "for_who": "Ezali mpo na nani?",
+    "related": "Lisusu na kati ya écosystème"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ventes lelo oyo",
+      "orders": "Ba commandes",
+      "clients": "Bakiliya",
+      "products": "Biloko oyo basalaka"
+    },
+    "sidebar": {
+      "dashboard": "Tableau de bord",
+      "sales": "Boteki",
+      "purchases": "Kosomba",
+      "inventory": "Emvantere",
+      "clients": "Bakiliya",
+      "reports": "Balapolo"
+    },
+    "chart": "Boteki",
+    "channel": "Bopanzani na nzela ya ba chaînes",
+    "channels": [
+      "Butiki",
+      "Kokabola",
+      "Motɛkisi na engros",
+      "Basusu"
+    ],
+    "orders": "Ba commandes ya sika",
+    "col_order": "Etinda",
+    "col_client": "Kiliya",
+    "col_status": "Etuka",
+    "col_total": "Mobimba",
+    "status": [
+      "Kopesa",
+      "Na nzela",
+      "Boucle ya matoyi"
+    ],
+    "top": "Biloko oyo etekamaka mingi",
+    "product": "Eloko",
+    "sales_menu": [
+      "Bakiliya",
+      "Ba commandes",
+      "Biloko oyo basalaka",
+      "Banzela ya kokende",
+      "Kosala synchronisation"
+    ],
+    "warehouse_menu": [
+      "Koyamba",
+      "Kobuka biloko",
+      "Emvantere",
+      "Kotinda",
+      "Kosala synchronisation"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politiki ya kobatela makambo ya moto ye moko",
+    "privacy_intro": "Politiki oyo ezali kolimbola oyo tosalaka na ba données oyo otikaka na ba formulaire na site oyo.",
+    "privacy": [
+      {
+        "title": "Ba données nini to ramasser",
+        "text": "Soki osengi démonstration to okomeli biso, tobombaka kombo, entreprise, email, numéro ya téléphone soki olakisi yango, mboka, taille ya équipe, produit oyo osepeli na yango pe message. Tokomaka mpe mokolo, monoko ya lokasa mpe adresi IP, mpo na kopekisa botindiki ya mabe."
+      },
+      {
+        "title": "Tosalelaka yango mpo na nini?",
+        "text": "Tosalelaka ba données oyo kaka pona ko répondre na yo, ko coordonner démonstration pe ko préparer proposition commerciale. Totɛkaka yango te to topesaka yango te na liste ya bato mosusu."
+      },
+      {
+        "title": "Babombaka yango wapi mpe na boumeli ya ntango boni?",
+        "text": "Ba demandes ebombamaka na serveur ya site oyo. Tobombaka yango mpo na ntango oyo esengeli mpo na kosalela yo mpe bolandi ya mombongo, mpe tolongolaka yango ntango osɛngi biso to ntango ezali lisusu na mposa na yango te."
+      },
+      {
+        "title": "Makoki na yo",
+        "text": "Okoki kosenga accès, correction to supprimer ya ba données na yo na formulaire ya contact, kolakisa yango na message. Soki société ebimisi email na site oyo, okoki pe kokoma kuna."
+      }
+    ],
+    "terms_title": "Mibeko ya kosalela",
+    "terms_intro": "Ba conditions oyo etali bosaleli site oyo ya botindiki FullVendor.",
+    "terms": [
+      {
+        "title": "Ba informations ya mombongo",
+        "text": "Ba textes, ndakisa ba chiffres ya tableau de bord na ba déscriptions ekotisaka plateforme. Bakoki kobongisa yango ntango biloko ebongwanaka mpe ezali te offrande oyo ekangami."
+      },
+      {
+        "title": "Démo ezali contrat te",
+        "text": "Kotinda formulaire yango ebimisaka te mokumba ya kosomba to kobomba motuya. Kontra nionso eyokani na ndenge ekeseni, na mokanda, na bonene na yango mpe na ba conditions na yango."
+      },
+      {
+        "title": "Makambo oyo ezali na site",
+        "text": "Elembo ya mombongo ya FullVendor, bankombo ya biloko mpe makambo oyo ezali na nkasa oyo ezali ya bankolo na yango. Bakoki kosala kopi na yango te mpo na kolakisa biloko mosusu."
+      },
+      {
+        "title": "Kosalela oyo endimami",
+        "text": "Kosalela ba formulaire te mpo na kotinda ba informations ya lokuta, ba spam to ba contenus oyo eyokani te na mibeko. Tokoki koboya kotalela masengi oyo ekokani te na lisolo ya mombongo ya solosolo."
+      }
+    ]
+  }
+}

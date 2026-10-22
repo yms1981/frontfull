@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Xestiona e fai crecer o teu negocio",
+    "home_desc": "Plataforma todo en un con solucións web e móbiles para distribución, vendas, loxística, compras, inventario e finanzas.",
+    "products_title": "Produtos | FullVendor",
+    "products_desc": "Coñece o ecosistema FullVendor: plataforma comercial, ERP, aplicacións de loxística, provedores e vendas, almacén e finanzas.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solucións | FullVendor",
+    "solutions_desc": "Solucións para xestión comercial, forza de vendas, almacén, loxística, compras e finanzas.",
+    "industries_title": "Industrias | FullVendor",
+    "industries_desc": "FullVendor para distribución, venda polo miúdo, alimentación, farmacia, ferretería, consumo masivo, fabricación e última milla.",
+    "pricing_title": "Prezos | FullVendor",
+    "pricing_desc": "Plans esenciais, profesionais e corporativos. A proposta xúntase segundo módulos, usuarios e volume.",
+    "resources_title": "Recursos | FullVendor",
+    "resources_desc": "Guías breves para unificar a distribución, vender fóra de liña, organizar o almacén e recibir o pago a tempo.",
+    "contact_title": "Contacto | FullVendor",
+    "contact_desc": "Escríbenos para coñecer o FullVendor ou coordina unha conversa co equipo de vendas.",
+    "demo_title": "Solicitar demostración | FullVendor",
+    "demo_desc": "Solicita unha demostración de FullVendor e percorre a plataforma cun caso similar á túa operación.",
+    "privacy_title": "Privacidade | FullVendor",
+    "terms_title": "Termos | FullVendor",
+    "search_title": "Busca | FullVendor",
+    "notfound_title": "Páxina non atopada | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Páxina de inicio",
+    "products": "Produtos",
+    "solutions": "Solucións",
+    "industries": "Industrias",
+    "pricing": "Prezos",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "open_menu": "Abrir menú",
+    "close": "Pechar"
+  },
+  "cta": {
+    "demo": "Solicitar Demo",
+    "contact": "Contacta connosco",
+    "video": "Mira o vídeo",
+    "talk": "Fala coas vendas",
+    "all_products": "Ver todos os produtos",
+    "home": "Volver á páxina de inicio"
+  },
+  "a11y": {
+    "skip": "Ir ao contido",
+    "primary": "Navegación principal",
+    "crumbs": "Ruta de navegación",
+    "search": "Busca",
+    "language": "Linguaxe"
+  },
+  "hero": {
+    "eyebrow": "Todo nunha plataforma",
+    "title": "Xestionar e medrar\no teu negocio con\n{{brand}}",
+    "subtitle": "Unha plataforma completa con solucións web e móbiles para distribución, vendas, loxística, compras, inventario, finanzas e moito máis.",
+    "pill_ecosystem": "Todo nun único ecosistema",
+    "pill_cloud": "Na nube, seguro e escalable",
+    "pill_size": "Para empresas de todos os tamaños"
+  },
+  "products_block": {
+    "eyebrow": "Os nosos produtos",
+    "title": "Un [[ecosistema completo]] para cada área da túa empresa",
+    "aside": "Solucións integradas que traballan en conxunto para ofrecerche un control total, eficiencia operativa e maior crecemento.",
+    "groups": {
+      "money": "Administración e recadación",
+      "flow": "Compras e entrega",
+      "field": "Venda e almacén"
+    }
+  },
+  "products_page": {
+    "title": "Sete produtos, [[operación única]]",
+    "text": "Cada produto resolve unha área. Xuntos comparten clientes, stock, pedidos e pagos."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataforma",
+      "card": "Plataforma principal de xestión e distribución comercial.",
+      "features": [
+        "Vendas e compras",
+        "Inventario",
+        "Clientes e provedores",
+        "Informes e moito máis"
+      ],
+      "lead": "O centro da súa operación comercial: pedidos, prezos, stock e clientes nun só lugar.",
+      "about": "FullVendor substitúe as follas de cálculo soltas e os sistemas dun distribuidor. A partir de aquí saen pedidos, consúltase inventario, cóidase a carteira de clientes e fíxanse os números do día. O resto do ecosistema conéctase a esta base.",
+      "benefits": [
+        {
+          "title": "Un único mestre de datos",
+          "text": "Os clientes, os produtos e os prezos compártense coas vendas, o almacén e as finanzas."
+        },
+        {
+          "title": "Operación diaria clara",
+          "text": "Pedidos, compras e stock deixan de vivir en arquivos diferentes."
+        },
+        {
+          "title": "Informes para decidir",
+          "text": "Vendas, marxe e pendentes vense sen armar unha táboa a man."
+        },
+        {
+          "title": "Listo para crecer",
+          "text": "Loxística, forza de vendas ou ERP sumas cando a operación o solicite."
+        }
+      ],
+      "audience": "Equipos comerciais e de distribución que hoxe coordinan o negocio entre varios sistemas."
+    },
+    "erp": {
+      "kicker": "Administración",
+      "card": "Xestión administrativa e financeira completa.",
+      "features": [
+        "Contabilidade",
+        "Facturación electrónica",
+        "Fichas de traballo",
+        "Activos fixos",
+        "Multiempresa"
+      ],
+      "lead": "Administración e finanzas, aliñados co que realmente se vende e se entrega.",
+      "about": "FullVendor ERP abrangue contabilidade, factura electrónica, nóminas, activos fixos e multiempresa. Toma a operación comercial e convértea en asentos, recibos e extractos que pode utilizar a área financeira.",
+      "benefits": [
+        {
+          "title": "Contabilidade conectada",
+          "text": "O que ocorre nas vendas e nas compras alimenta a contabilidade."
+        },
+        {
+          "title": "Recibos electrónicos",
+          "text": "Emites e controlas a facturación desde o mesmo ecosistema."
+        },
+        {
+          "title": "Empresas diversas",
+          "text": "Multiempresa para grupos que operan con máis dun nome de empresa."
+        },
+        {
+          "title": "Nóminas e patrimonio",
+          "text": "Nóminas e activos fixos xunto co resto da xestión."
+        }
+      ],
+      "audience": "Áreas administrativas e financeiras que queren pechar os números coa operación real."
+    },
+    "logistics": {
+      "kicker": "Loxística",
+      "card": "Control e seguimento da súa operación loxística.",
+      "features": [
+        "Rutas e entregas",
+        "Seguimento en tempo real",
+        "Asignación de condutor",
+        "Optimización de rutas"
+      ],
+      "lead": "Desde o pedido ata a entrega: rutas, condutores e seguimento en tempo real.",
+      "about": "FullVendor Logistics organiza a distribución. Creas rutas, asignas condutores e miras cara a onde vai cada entrega. O equipo de tráfico deixa de depender das chamadas para saber se o pedido foi enviado.",
+      "benefits": [
+        {
+          "title": "Rutas do día",
+          "text": "Entregas ordenadas por zona, xanela horaria e capacidade."
+        },
+        {
+          "title": "Condutor asignado",
+          "text": "Cada ruta ten un responsable e unha secuencia clara."
+        },
+        {
+          "title": "Seguimento",
+          "text": "Xa sabes o que se entrega, no camiño ou parado."
+        },
+        {
+          "title": "Menos quilómetros",
+          "text": "A optimización da ruta reduce o tempo e o custo de entrega."
+        }
+      ],
+      "audience": "Operacións de distribución con flota propia ou de terceiros."
+    },
+    "supplier": {
+      "kicker": "Compras",
+      "card": "Portal de provedores e xestión de compras.",
+      "features": [
+        "Ordes de compra",
+        "Citas",
+        "Xestión de provedores",
+        "Integración co inventario"
+      ],
+      "lead": "Os teus provedores cotizan, reciben pedidos e repoñen stock sen correos electrónicos soltos.",
+      "about": "Vendor Supplier abre un portal para que compras e provedores poidan traballar nos mesmos pedidos. As cotizacións, as ordes de compra e o recibo están vinculadas ao inventario do FullVendor.",
+      "benefits": [
+        {
+          "title": "Pedidos nunha canle",
+          "text": "O provedor ve o que entregar, sen unha cadea de correo electrónico."
+        },
+        {
+          "title": "Citas comparables",
+          "text": "Vostede pregunta por prezos e escolle coa historia á vista."
+        },
+        {
+          "title": "Mestre de provedores",
+          "text": "Condicións, contactos e pendentes nun único rexistro."
+        },
+        {
+          "title": "Introduza o inventario",
+          "text": "O que foi comprado reflíctese no stock cando se recibe."
+        }
+      ],
+      "audience": "Equipos de compras que se reabastecen con varios provedores e necesitan trazabilidade."
+    },
+    "salesman": {
+      "kicker": "Aplicación móbil",
+      "card": "Aplicación móbil para o equipo de vendas.",
+      "features": [
+        "Xestión de clientes",
+        "Toma de pedidos",
+        "Catálogo de produtos",
+        "Traballo fóra de liña"
+      ],
+      "lead": "A forza de vendas toma pedidos na rúa, con ou sen sinal.",
+      "about": "FullVendor Sales Man pon a súa carteira, catálogo e pedido no teléfono do vendedor. Se non hai internet, o traballo continúa e sincronízase cando volve o sinal. O pedido chega listo para preparar e entregar.",
+      "benefits": [
+        {
+          "title": "Carteira no peto",
+          "text": "O vendedor ve clientes, condicións e artigos pendentes."
+        },
+        {
+          "title": "Orde na visita",
+          "text": "Toma o pedido con prezos actuais e stock."
+        },
+        {
+          "title": "Catálogo actualizado",
+          "text": "Produtos, presentacións e prezos sen un PDF antigo."
+        },
+        {
+          "title": "Real fóra de liña",
+          "text": "Traballa sen cobertura e sincroniza máis tarde."
+        }
+      ],
+      "audience": "Supervisores e vendedores de campo en distribución e consumo masivo."
+    },
+    "warehouse": {
+      "kicker": "Aplicación móbil",
+      "card": "Aplicación móbil para almacén.",
+      "features": [
+        "Recepción e expedición",
+        "Recoller e empaquetar",
+        "Control de inventarios",
+        "Lectura de códigos de barras"
+      ],
+      "lead": "Recepción, recollida e envío co teléfono e código de barras.",
+      "about": "FullVendor Warehouse guía o almacén na recepción, recollida, embalaxe e envío. A lectura de códigos reduce os erros e o inventario xa non se conta só a finais de mes.",
+      "benefits": [
+        {
+          "title": "Recepción contra orde",
+          "text": "O que entra é comparado coa compra."
+        },
+        {
+          "title": "Escolla dirixida",
+          "text": "O armador segue a orde e confirma cada artigo."
+        },
+        {
+          "title": "Códigos de barras",
+          "text": "Menos erros de produto, lote ou cantidade."
+        },
+        {
+          "title": "Stock fiable",
+          "text": "Cada movemento actualiza o inventario da plataforma."
+        }
+      ],
+      "audience": "Responsables de almacén e armadores que hoxe elaboran pedidos con listas impresas."
+    },
+    "finance": {
+      "kicker": "Aplicación móbil",
+      "card": "Control financeiro desde o teu móbil.",
+      "features": [
+        "Contas por cobrar e por pagar",
+        "Estado de cliente",
+        "Pagos e conciliacións",
+        "Informes financeiros"
+      ],
+      "lead": "Contas a cobrar, pagamentos e estado do cliente, desde o teu teléfono.",
+      "about": "FullVendor Finance mostra o cobro no móbil: o que debe cada cliente, o que está a piques de pagar a empresa e como chegan os pagos. Úsase para recoller cartos durante a visita e para mirar a caixa rexistradora sen abrir a mesa.",
+      "benefits": [
+        {
+          "title": "Recollida na visita",
+          "text": "O vendedor sabe se o cliente está ao día antes de vender."
+        },
+        {
+          "title": "A cobrar e a pagar",
+          "text": "Ambos lados da caixa na mesma aplicación."
+        },
+        {
+          "title": "Pagos e conciliacións",
+          "text": "Rexistras créditos e ves o que hai que cruzar."
+        },
+        {
+          "title": "Informes a man",
+          "text": "Indicadores de cobro e caixa sen agardar a un peche."
+        }
+      ],
+      "audience": "Xerentes, coleccionistas e vendedores que precisan da situación do cliente neste momento."
+    }
+  },
+  "why": {
+    "eyebrow": "Por que FullVendor",
+    "title": "Impulsa o teu negocio\ncon resultados reais",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "As empresas confían en nós"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Usuarios activos"
+      },
+      {
+        "value": "+10",
+        "suffix": "anos",
+        "label": "En constante evolución"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Dispoñibilidade na nube"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Como funciona",
+    "title": "Da venda á recollida, sen cambiar de sistema",
+    "text": "Cada produto comparte clientes, stock, pedidos e pagos. O que pasa na rúa ou no almacén aparece na oficina ao instante.",
+    "steps": {
+      "sell": {
+        "title": "Vostede vende",
+        "text": "A orde introdúcese a través do sitio web ou a través do Sales Man, mesmo sen sinal."
+      },
+      "pick": {
+        "title": "Listo",
+        "text": "Warehouse recibe, separa e envía con código de barras."
+      },
+      "deliver": {
+        "title": "Entregas",
+        "text": "Logistics asigna a ruta e segue a entrega."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance e ERP pechan o cobro, os recibos e os números."
+      }
+    }
+  },
+  "band": {
+    "title": "Listo para velo coa [[a túa operación]]?",
+    "text": "Mostrámosche o ecosistema cun caso de distribución similar ao teu."
+  },
+  "footer": {
+    "blurb": "Plataforma web e móbil para distribución, vendas, loxística, compras, inventario e finanzas.",
+    "products": "Produtos",
+    "company": "Compañía",
+    "legal": "Legal",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "rights": "Todos os dereitos reservados."
+  },
+  "solutions": {
+    "eyebrow": "Solucións",
+    "title": "Cada área, conectada á [[mesma operación]]",
+    "intro": "Escolla polo problema que quere resolver. Detrás, os produtos comparten a mesma información.",
+    "items": {
+      "commercial": {
+        "title": "Xestión comercial",
+        "text": "Pedidos, prezos, clientes e inventario para a distribución do día a día."
+      },
+      "field": {
+        "title": "forza de vendas",
+        "text": "Vendedores que reciben pedidos na rúa, en liña ou fóra de liña."
+      },
+      "warehouse": {
+        "title": "Tenda",
+        "text": "Recepción, picking, despacho e un stock de confianza."
+      },
+      "logistics": {
+        "title": "Loxística e entrega",
+        "text": "Rutas, condutores e estado de cada entrega."
+      },
+      "purchasing": {
+        "title": "Compras e provedores",
+        "text": "Presupostos, pedidos e un portal para quen che subministre."
+      },
+      "finance": {
+        "title": "Finanzas e contabilidade",
+        "text": "Cobros, pagamentos, facturación electrónica e contabilidade."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrias",
+    "title": "Feito para quen [[move produto]]",
+    "intro": "FullVendor nace na distribución e acompaña ás empresas que compran, almacenan, venden e entregan.",
+    "items": {
+      "wholesale": {
+        "title": "Distribución e maiorista",
+        "text": "Listas de prezos, carteira, distribución e recollida nun único circuíto."
+      },
+      "retail": {
+        "title": "Comercio polo miúdo",
+        "text": "Tenda e almacén con stock conectado, vendas e reposición."
+      },
+      "food": {
+        "title": "Comida e bebida",
+        "text": "Rutas frecuentes e un almacén que non pode parar."
+      },
+      "pharma": {
+        "title": "Farmacia e coidado persoal",
+        "text": "Recepción, picking e control de inventarios con trazabilidade."
+      },
+      "hardware": {
+        "title": "Ferraxes e construción",
+        "text": "Moitas referencias, provedores e entregas ao traballo ou tenda."
+      },
+      "fmcg": {
+        "title": "Consumo masivo",
+        "text": "Forza de venda na rúa e substitución de alta rotación."
+      },
+      "manufacturing": {
+        "title": "Fabricación",
+        "text": "Compras, almacén e inventario aliñados coa administración."
+      },
+      "lastmile": {
+        "title": "Entrega e última milla",
+        "text": "Rutas, condutores e estado de cada entrega."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Recursos",
+    "title": "Ideas claras para [[ordenar a operación]]",
+    "intro": "Guías curtas para xestores de distribución que van decidir con que sistema seguir.",
+    "items": {
+      "unify": {
+        "title": "Como unificar a distribución nun único sistema",
+        "summary": "O que debes xuntar primeiro cando as vendas, o almacén e as coleccións viven en ficheiros diferentes.",
+        "points": [
+          "Comeza polos clientes, produtos e prezos: son o profesor que todo o mundo utiliza.",
+          "Conecta o pedido co stock antes de engadir máis aplicacións.",
+          "Mide un número sinxelo: pedidos cumpridos sen refacer o formulario."
+        ]
+      },
+      "offline": {
+        "title": "A forza de vendas traballa fóra de liña",
+        "summary": "Que esixir a unha aplicación de pedidos para que o vendedor non pare por mor do sinal.",
+        "points": [
+          "O catálogo e a carteira teñen que estar no teléfono, non só na nube.",
+          "A orde gárdase no dispositivo e cárgase cando volve a rede.",
+          "Ao sincronizar, o pedido xa entra no almacén."
+        ]
+      },
+      "warehouse": {
+        "title": "Almacén con código de barras, sen papel",
+        "summary": "Como pasar da lista impresa á selección confirmada no teléfono.",
+        "points": [
+          "Recibir contra a orde de compra, non contra a memoria.",
+          "Confirme cada elemento ao separar. O bicho corta o corredor.",
+          "O envío actualiza o stock que ve o vendedor."
+        ]
+      },
+      "finance": {
+        "title": "Recadación aliñada coa venda",
+        "summary": "Por que o vendedor debería ver a débeda do cliente antes de tomar outro pedido.",
+        "points": [
+          "A visita é o mellor momento para cobrar, se a débeda é visible.",
+          "As vendas e as finanzas teñen que mirar ao mesmo cliente.",
+          "Un informe de atraso diario vale máis que un peche atrasado."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prezos",
+    "title": "Un ecosistema que [[crece contigo]]",
+    "intro": "Non publicamos unha tarifa xenérica: o custo depende dos módulos, usuarios e volume. Mostrámosche a plataforma e elaboramos unha proposta coa túa operación.",
+    "note": "A demo non ten custo e non require contrato.",
+    "recommended": "Recomendado",
+    "faq_title": "Preguntas frecuentes",
+    "plans": {
+      "essential": {
+        "name": "Imprescindible",
+        "desc": "Organizar a xestión comercial e a distribución nunha única plataforma.",
+        "features": [
+          "FullVendor plataforma web",
+          "Vendas, compras e inventario",
+          "Clientes, provedores e informes",
+          "Usuarios de equipos ofimáticos",
+          "Apoio á posta en marcha"
+        ],
+        "cta": "Solicitar Demo"
+      },
+      "professional": {
+        "name": "Profesional",
+        "desc": "Para equipos que venden na rúa e preparan pedidos no almacén.",
+        "features": [
+          "Todo Esencial",
+          "Aplicación FullVendor Sales Man",
+          "Aplicación FullVendor Warehouse",
+          "Traballo fóra de liña e códigos de barras",
+          "Máis usuarios de campo e almacén"
+        ],
+        "cta": "Solicitar Demo"
+      },
+      "corporate": {
+        "name": "Corporativo",
+        "desc": "Para colectivos que precisen loxística, compras, finanzas e empresas diversas.",
+        "features": [
+          "Ecosistema completo",
+          "Logistics, Vendor Supplier e Finance",
+          "FullVendor ERP e multiarrendamento",
+          "Facturación electrónica e contabilidade",
+          "Acompañamento e dispoñibilidade prioritaria"
+        ],
+        "cta": "Fala coas vendas"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Teño que mercar todos os produtos?",
+        "a": "Non. Podes comezar con FullVendor e engadir aplicacións ou ERP cando a operación o precise."
+      },
+      "offline": {
+        "q": "Funcionan as aplicacións sen internet?",
+        "a": "Sales Man e Warehouse seguen traballando sen sinal e sincronízanse ao volver conectarse."
+      },
+      "multi": {
+        "q": "Funciona se teño máis dunha empresa?",
+        "a": "Si. ERP contempla multiempresa e o ecosistema pode compartir mestres entre eles."
+      },
+      "demo": {
+        "q": "Que inclúe a demo?",
+        "a": "Un percorrido pola plataforma cun caso semellante ao teu. Sen custo e sen obriga."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demostración",
+    "title": "Mostrámosche FullVendor con [[o teu tipo de operación]]",
+    "text": "Fálanos da túa empresa e do que queres pedir primeiro. A demo non ten custo."
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Falemos da [[a túa operación]]",
+    "text": "Se queres unha demo, unha proposta ou simplemente orientarte entre os produtos, deixa a túa información e responderemos.",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nome",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "company": "Compañía",
+    "country": "País",
+    "team": "Tamaño do equipo",
+    "interest": "Que che interesa?",
+    "message": "Mensaxe",
+    "optional": "Opcional",
+    "choose": "Seleccione",
+    "interest_all": "Todo o ecosistema",
+    "ph_name": "o teu nome",
+    "ph_email": "ti@empresa.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "A súa empresa",
+    "ph_country": "País",
+    "ph_message": "Cóntanos como funciona hoxe",
+    "privacy_before": "Acepto o uso dos meus datos segundo o",
+    "privacy_after": ".",
+    "submit": "Enviar solicitude",
+    "sent_title": "Recibimos a súa solicitude",
+    "sent_text": "Grazas. O equipo de vendas escribirache para coordinar a demostración ou responder á túa pregunta.",
+    "error_required": "Completa este campo.",
+    "error_email": "Introduce un correo electrónico válido.",
+    "error_phone": "Consulta o teléfono.",
+    "error_privacy": "Necesitamos o teu consentimento para usar os datos de contacto.",
+    "error_csrf": "A sesión caducou. Volve enviar o formulario.",
+    "error_save": "Non puidemos gardar a solicitude. Téntao de novo.",
+    "error_generic": "Revisa os campos marcados.",
+    "error_rate": "Agarde un momento antes de enviar outra solicitude.",
+    "team_options": {
+      "1-10": "1 a 10 persoas",
+      "11-50": "11 a 50 persoas",
+      "51-200": "51 a 200 persoas",
+      "201-500": "201 a 500 persoas",
+      "500+": "Máis de 500 persoas"
+    }
+  },
+  "video": {
+    "title": "FullVendor nun minuto",
+    "prev": "Antigo",
+    "next": "Seguindo",
+    "slides": [
+      {
+        "title": "Un único ecosistema",
+        "text": "Vendas, almacén, entrega, compras e finanzas comparten clientes, stock e pedidos."
+      },
+      {
+        "title": "Web e móbil xuntos",
+        "text": "A oficina traballa na plataforma. A rúa e o almacén, nas aplicacións, incluso sen sinal."
+      },
+      {
+        "title": "Feito para distribuír",
+        "text": "Do pedido ao pago, sen pasar información dun ficheiro a outro."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Busca produtos, solucións, industrias...",
+    "lang_filter": "Busca idioma",
+    "intro": "Busca produtos, solucións, industrias e recursos.",
+    "empty": "Non atopamos resultados para “{q}”.",
+    "hint": "Proba vendas, almacén, rutas ou recollidas.",
+    "results": "{n} resultados",
+    "button": "Busca",
+    "kind_product": "Produto",
+    "kind_solution": "Solución",
+    "kind_industry": "Industria",
+    "kind_resource": "Recurso"
+  },
+  "notfound": {
+    "title": "Esta páxina non é",
+    "text": "A ligazón non existe ou cambiou de localización."
+  },
+  "common": {
+    "what": "O que soluciona",
+    "features": "Que está incluído",
+    "benefits": "Por que importa",
+    "for_who": "Para quen é?",
+    "related": "Tamén no ecosistema"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vendas hoxe",
+      "orders": "Ordes",
+      "clients": "Clientes",
+      "products": "Produtos"
+    },
+    "sidebar": {
+      "dashboard": "Panel de control",
+      "sales": "Vendas",
+      "purchases": "Compras",
+      "inventory": "Inventario",
+      "clients": "Clientes",
+      "reports": "Informes"
+    },
+    "chart": "Vendas",
+    "channel": "Distribución por canle",
+    "channels": [
+      "Tenda",
+      "Distribución",
+      "Maiorista",
+      "Outros"
+    ],
+    "orders": "Últimos pedidos",
+    "col_order": "Orde",
+    "col_client": "Cliente",
+    "col_status": "Estado",
+    "col_total": "Total",
+    "status": [
+      "Entregado",
+      "En ruta",
+      "Pendente"
+    ],
+    "top": "Produtos máis vendidos",
+    "product": "Produto",
+    "sales_menu": [
+      "Clientes",
+      "Ordes",
+      "Produtos",
+      "Rutas",
+      "Sincronizar"
+    ],
+    "warehouse_menu": [
+      "Recepción",
+      "Escolla",
+      "Inventario",
+      "Despacho",
+      "Sincronizar"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Política de privacidade",
+    "privacy_intro": "Esta política explica o que facemos cos datos que deixas nos formularios deste sitio.",
+    "privacy": [
+      {
+        "title": "Que datos recollemos",
+        "text": "Se solicitas unha demo ou nos escribes, gardamos o nome, a empresa, o correo electrónico, o número de teléfono se o indicas, o país, o tamaño do equipo, o produto de interese e a mensaxe. Tamén rexistramos a data, o idioma da páxina e o enderezo IP, para evitar envíos abusivos."
+      },
+      {
+        "title": "Para que os usamos?",
+        "text": "Usamos estes datos só para responderche, coordinar unha demostración e preparar unha proposta comercial. Non os vendemos nin os cedemos a unha lista de terceiros."
+      },
+      {
+        "title": "Onde se almacenan e durante canto tempo?",
+        "text": "As solicitudes almacénanse no servidor deste sitio. Conservámolas durante o tempo necesario para atenderche e o seguimento comercial, e borrámolas cando nolo solicites ou cando xa non sexan necesarias."
+      },
+      {
+        "title": "Os teus dereitos",
+        "text": "Podes solicitar o acceso, corrección ou eliminación dos teus datos dende o formulario de contacto, indicándoo na mensaxe. Se a empresa publica un correo electrónico neste sitio web, tamén pode escribir alí."
+      }
+    ],
+    "terms_title": "Condicións de uso",
+    "terms_intro": "Estas condicións aplícanse ao uso deste sitio de envío FullVendor.",
+    "terms": [
+      {
+        "title": "Información comercial",
+        "text": "Textos, exemplos de figuras de panel e descricións introducen a plataforma. Pódense axustar cando o produto cambia e non son unha oferta pechada."
+      },
+      {
+        "title": "A demo non é un contrato",
+        "text": "O envío do formulario non supón a obriga de comprar nin reservar un prezo. Calquera contrato pactarase por separado, por escrito, co seu alcance e condicións."
+      },
+      {
+        "title": "Contido do sitio",
+        "text": "A marca comercial FullVendor, os nomes de produtos e o contido destas páxinas pertencen aos seus propietarios. Non se poden copiar para presentar outro produto."
+      },
+      {
+        "title": "Uso aceptable",
+        "text": "Non use os formularios para enviar información falsa, spam ou contido ilegal. Podemos ignorar as solicitudes que non se corresponden cunha conversación comercial real."
+      }
+    ]
+  }
+}

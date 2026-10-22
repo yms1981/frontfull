@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Zarządzaj i rozwijaj swój biznes",
+    "home_desc": "Platforma typu „wszystko w jednym” z rozwiązaniami internetowymi i mobilnymi dla dystrybucji, sprzedaży, logistyki, zakupów, zapasów i finansów.",
+    "products_title": "Produkty | FullVendor",
+    "products_desc": "Poznaj ekosystem FullVendor: platformę handlową, ERP, logistykę, dostawców i aplikacje sprzedażowe, magazynowe i finansowe.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Rozwiązania | FullVendor",
+    "solutions_desc": "Rozwiązania dla zarządzania handlowego, sprzedaży, magazynu, logistyki, zakupów i finansów.",
+    "industries_title": "Branże | FullVendor",
+    "industries_desc": "FullVendor dla dystrybucji, handlu detalicznego, żywności, farmacji, sprzętu komputerowego, konsumpcji masowej, produkcji i ostatniej mili.",
+    "pricing_title": "Ceny | FullVendor",
+    "pricing_desc": "Plany podstawowe, zawodowe i korporacyjne. Propozycja jest zestawiana według modułów, użytkowników i objętości.",
+    "resources_title": "Zasoby | FullVendor",
+    "resources_desc": "Krótkie poradniki, jak ujednolicić dystrybucję, sprzedawać offline, organizować magazyn i zarabiać na czas.",
+    "contact_title": "Kontakt | FullVendor",
+    "contact_desc": "Napisz do nas, aby dowiedzieć się więcej o FullVendor lub umówić się na rozmowę z zespołem sprzedaży.",
+    "demo_title": "Poproś o demo | FullVendor",
+    "demo_desc": "Poproś o wersję demonstracyjną FullVendor i obejrzyj platformę z przypadkiem podobnym do Twojej operacji.",
+    "privacy_title": "Prywatność | FullVendor",
+    "terms_title": "Warunki | FullVendor",
+    "search_title": "Szukaj | FullVendor",
+    "notfound_title": "Nie znaleziono strony | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "products": "Produkty",
+    "solutions": "Rozwiązania",
+    "industries": "Przemysły",
+    "pricing": "Ceny",
+    "resources": "Zasoby",
+    "contact": "Kontakt",
+    "open_menu": "Otwórz menu",
+    "close": "Zamknąć"
+  },
+  "cta": {
+    "demo": "Poproś o wersję demonstracyjną",
+    "contact": "Skontaktuj się z nami",
+    "video": "Obejrzyj wideo",
+    "talk": "Porozmawiaj ze sprzedażą",
+    "all_products": "Zobacz wszystkie produkty",
+    "home": "Wróć do strony głównej"
+  },
+  "a11y": {
+    "skip": "Przejdź do treści",
+    "primary": "Główna nawigacja",
+    "crumbs": "Trasa nawigacji",
+    "search": "Szukać",
+    "language": "Język"
+  },
+  "hero": {
+    "eyebrow": "Wszystko na jednej platformie",
+    "title": "Zarządzaj i rozwijaj się\nTwój biznes z\n{{brand}}",
+    "subtitle": "Kompletna platforma z rozwiązaniami internetowymi i mobilnymi dla dystrybucji, sprzedaży, logistyki, zakupów, zapasów, finansów i nie tylko.",
+    "pill_ecosystem": "Wszystko w jednym ekosystemie",
+    "pill_cloud": "W chmurze, bezpiecznie i skalowalnie",
+    "pill_size": "Dla firm każdej wielkości"
+  },
+  "products_block": {
+    "eyebrow": "Nasze produkty",
+    "title": "[[kompletny ekosystem]] dla każdego obszaru Twojej działalności",
+    "aside": "Zintegrowane rozwiązania, które współpracują, aby zapewnić całkowitą kontrolę, wydajność operacyjną i większy rozwój.",
+    "groups": {
+      "money": "Administracja i zbiórka",
+      "flow": "Zakupy i dostawa",
+      "field": "Sprzedaż i magazyn"
+    }
+  },
+  "products_page": {
+    "title": "Siedem produktów, [[pojedyncza operacja]]",
+    "text": "Każdy produkt rozwiązuje pewien obszar. Wspólnie dzielą się klientami, zapasami, zamówieniami i płatnościami."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Główna platforma do zarządzania handlowego i dystrybucji.",
+      "features": [
+        "Sprzedaż i zakupy",
+        "Spis",
+        "Klienci i dostawcy",
+        "Raporty i nie tylko"
+      ],
+      "lead": "Centrum Twojej działalności handlowej: zamówienia, ceny, stany magazynowe i klienci w jednym miejscu.",
+      "about": "FullVendor zastępuje luźne arkusze kalkulacyjne i systemy dystrybutora. Stąd przychodzą zamówienia, sprawdzane są stany magazynowe, zarządzany jest portfel klientów i sprawdzane są liczby dzienne. Reszta ekosystemu łączy się z tą bazą.",
+      "benefits": [
+        {
+          "title": "Pojedynczy mistrz danych",
+          "text": "Klienci, produkty i ceny są udostępniane działom sprzedaży, magazynowi i finansom."
+        },
+        {
+          "title": "Przejrzysta codzienna obsługa",
+          "text": "Zamówienia, zakupy i zapasy przestają znajdować się w różnych plikach."
+        },
+        {
+          "title": "Raporty do podjęcia decyzji",
+          "text": "Sprzedaż, marża i oczekujące są widoczne bez konieczności ręcznego składania tabeli."
+        },
+        {
+          "title": "Gotowy do uprawy",
+          "text": "Logistyka, sprzedaż lub sumy ERP, gdy wymaga tego operacja."
+        }
+      ],
+      "audience": "Zespoły handlowe i dystrybucyjne, które dziś koordynują działalność pomiędzy kilkoma systemami."
+    },
+    "erp": {
+      "kicker": "Administracja",
+      "card": "Pełne zarządzanie administracyjno-finansowe.",
+      "features": [
+        "Księgowość",
+        "Elektroniczne rozliczenia",
+        "Arkusze ćwiczeń",
+        "Środki trwałe",
+        "Wielofirmowe"
+      ],
+      "lead": "Administracja i finanse dostosowane do tego, co faktycznie jest sprzedawane i dostarczane.",
+      "about": "FullVendor ERP obejmuje księgowość, fakturowanie elektroniczne, płace, środki trwałe i wielozakładowe. Zajmuje się operacją komercyjną i przekształca ją w zapisy, rachunki i wyciągi, z których może korzystać obszar finansowy.",
+      "benefits": [
+        {
+          "title": "Połączona księgowość",
+          "text": "Co dzieje się w księgowości sprzedaży i zakupów."
+        },
+        {
+          "title": "Rachunki elektroniczne",
+          "text": "Wystawiasz i kontrolujesz rozliczenia z tego samego ekosystemu."
+        },
+        {
+          "title": "Różne firmy",
+          "text": "Wiele firm w przypadku grup działających pod więcej niż jedną nazwą firmy."
+        },
+        {
+          "title": "Płace i aktywa",
+          "text": "Kadry i środki trwałe wraz z resztą zarządu."
+        }
+      ],
+      "audience": "Obszary administracyjne i finansowe, które chcą zamknąć liczby z rzeczywistą operacją."
+    },
+    "logistics": {
+      "kicker": "Logistyka",
+      "card": "Kontrola i monitorowanie operacji logistycznych.",
+      "features": [
+        "Trasy i dostawy",
+        "Śledzenie w czasie rzeczywistym",
+        "Przypisanie kierowcy",
+        "Optymalizacja tras"
+      ],
+      "lead": "Od zamówienia do dostawy: trasy, kierowcy i śledzenie w czasie rzeczywistym.",
+      "about": "FullVendor Logistics organizuje dystrybucję. Tworzysz trasy, przypisujesz kierowców i widzisz, dokąd zmierza każda dostawa. Zespół ds. ruchu zatrzymuje się w zależności od połączeń, aby dowiedzieć się, czy zamówienie zostało wysłane.",
+      "benefits": [
+        {
+          "title": "Trasy dnia",
+          "text": "Dostawy uporządkowane według strefy, okna czasowego i pojemności."
+        },
+        {
+          "title": "Przypisany kierowca",
+          "text": "Każda trasa ma osobę odpowiedzialną i jasną sekwencję."
+        },
+        {
+          "title": "Podejmować właściwe kroki",
+          "text": "Wiesz, co jest dostarczone, w drodze lub zatrzymane."
+        },
+        {
+          "title": "Mniej kilometrów",
+          "text": "Optymalizacja tras skraca czas i koszty dostawy."
+        }
+      ],
+      "audience": "Działalność dystrybucyjna z wykorzystaniem własnej floty lub stron trzecich."
+    },
+    "supplier": {
+      "kicker": "Zakupy",
+      "card": "Portal dla dostawców i zarządzania zakupami.",
+      "features": [
+        "Zamówienia zakupu",
+        "Cytaty",
+        "Zarządzanie dostawcami",
+        "Integracja z magazynem"
+      ],
+      "lead": "Twoi dostawcy wyceniają, otrzymują zamówienia i uzupełniają zapasy bez luźnych e-maili.",
+      "about": "Vendor Supplier otwiera portal dla zakupów i dostawców do pracy nad tymi samymi zamówieniami. Oferty, zamówienia i pokwitowania są powiązane z wykazem FullVendor.",
+      "benefits": [
+        {
+          "title": "Zamówienia w kanale",
+          "text": "Dostawca widzi, co dostarczyć, bez łańcucha e-mailowego."
+        },
+        {
+          "title": "Porównywalne cytaty",
+          "text": "Pytasz o cenę i wybierasz mając na uwadze historię."
+        },
+        {
+          "title": "Mistrz dostawcy",
+          "text": "Warunki, kontakty i oczekujące w jednym rekordzie."
+        },
+        {
+          "title": "Wejdź do inwentarza",
+          "text": "To, co zostało zakupione, jest odzwierciedlane w magazynie w momencie jego otrzymania."
+        }
+      ],
+      "audience": "Zespoły zakupowe, które uzupełniają zapasy u kilku dostawców i wymagają identyfikowalności."
+    },
+    "salesman": {
+      "kicker": "Aplikacja mobilna",
+      "card": "Aplikacja mobilna dla zespołu sprzedaży.",
+      "features": [
+        "Zarządzanie klientami",
+        "Przyjmowanie zamówień",
+        "Katalog produktów",
+        "Praca offline"
+      ],
+      "lead": "Sprzedawca przyjmuje zamówienia na ulicy, z sygnałem lub bez.",
+      "about": "FullVendor Sales Man umieszcza Twoje portfolio, katalog i przyjmowanie zamówień na telefonie sprzedającego. Jeśli nie ma internetu, praca jest kontynuowana i synchronizowana po powrocie sygnału. Zamówienie dociera gotowe do przygotowania i dostarczenia.",
+      "benefits": [
+        {
+          "title": "Portfel w kieszeni",
+          "text": "Sprzedawca widzi klientów, warunki i oczekujące przedmioty."
+        },
+        {
+          "title": "Zamów podczas wizyty",
+          "text": "Przyjmij zamówienie z aktualnymi cenami i stanami magazynowymi."
+        },
+        {
+          "title": "Katalog aktualny",
+          "text": "Produkty, prezentacje i ceny bez starego pliku PDF."
+        },
+        {
+          "title": "Prawdziwy offline",
+          "text": "Pracuj bez zasięgu i synchronizuj później."
+        }
+      ],
+      "audience": "Kierownicy i sprzedawcy terenowi w dystrybucji i konsumpcji masowej."
+    },
+    "warehouse": {
+      "kicker": "Aplikacja mobilna",
+      "card": "Aplikacja mobilna dla magazynu.",
+      "features": [
+        "Odbiór i wysyłka",
+        "Zbieranie i pakowanie",
+        "Kontrola zapasów",
+        "Odczyt kodu kreskowego"
+      ],
+      "lead": "Odbiór, kompletacja i wysyłka za pomocą telefonu i kodu kreskowego.",
+      "about": "FullVendor Warehouse kieruje magazynem w zakresie przyjmowania, kompletacji, pakowania i wysyłki. Odczytywanie kodów zmniejsza liczbę błędów, a stany magazynowe nie są już liczone dopiero na koniec miesiąca.",
+      "benefits": [
+        {
+          "title": "Odbiór wbrew porządkowi",
+          "text": "To, co wchodzi, jest porównywane z zakupem."
+        },
+        {
+          "title": "Ukierunkowane wybieranie",
+          "text": "Armator realizuje zamówienie i potwierdza każdą pozycję."
+        },
+        {
+          "title": "Kody kreskowe",
+          "text": "Mniej błędów dotyczących produktu, partii lub ilości."
+        },
+        {
+          "title": "Niezawodny magazyn",
+          "text": "Każdy ruch aktualizuje ekwipunek platformy."
+        }
+      ],
+      "audience": "Kierownicy magazynów i armatorzy, którzy dziś przygotowują zamówienia z drukowanymi listami."
+    },
+    "finance": {
+      "kicker": "Aplikacja mobilna",
+      "card": "Kontrola finansowa z telefonu komórkowego.",
+      "features": [
+        "Należności i zobowiązania",
+        "Stan klienta",
+        "Płatności i uzgodnienia",
+        "Raporty finansowe"
+      ],
+      "lead": "Należności, płatności i status klienta z Twojego telefonu.",
+      "about": "FullVendor Finance pokazuje inkasa na telefonie komórkowym: ile każdy klient jest winien, co firma zamierza zapłacić i w jaki sposób przychodzą płatności. Służy do pobrania pieniędzy w trakcie wizyty oraz zajrzenia do kasy bez otwierania biurka.",
+      "benefits": [
+        {
+          "title": "Zbiórka podczas wizyty",
+          "text": "Sprzedawca wie, czy klient jest na bieżąco przed sprzedażą."
+        },
+        {
+          "title": "Należne i płatne",
+          "text": "Obie strony pudełka w tej samej aplikacji."
+        },
+        {
+          "title": "Płatności i uzgodnienia",
+          "text": "Rejestrujesz kredyty i widzisz, co należy przekroczyć."
+        },
+        {
+          "title": "Raporty pod ręką",
+          "text": "Wskaźniki odbioru i gotówki bez czekania na zamknięcie."
+        }
+      ],
+      "audience": "Menedżerowie, kolekcjonerzy i sprzedawcy, którzy potrzebują sytuacji klienta w danym momencie."
+    }
+  },
+  "why": {
+    "eyebrow": "Dlaczego FullVendor",
+    "title": "Zwiększ swój biznes\nz prawdziwymi wynikami",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Firmy nam ufają"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktywni użytkownicy"
+      },
+      {
+        "value": "+10",
+        "suffix": "lata",
+        "label": "W ciągłej ewolucji"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Dostępność w chmurze"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Jak to działa",
+    "title": "Od sprzedaży do kolekcji, bez zmiany systemów",
+    "text": "Każdy produkt ma wspólnych klientów, zapasów, zamówień i płatności. To, co dzieje się na ulicy czy w magazynie, natychmiast pojawia się w biurze.",
+    "steps": {
+      "sell": {
+        "title": "Sprzedajesz",
+        "text": "Zamówienie można wprowadzić za pośrednictwem strony internetowej lub poprzez Sales Man, nawet bez sygnału."
+      },
+      "pick": {
+        "title": "Gotowy",
+        "text": "Warehouse odbiera, oddziela i wysyła z kodem kreskowym."
+      },
+      "deliver": {
+        "title": "Dostawy",
+        "text": "Logistics wyznacza trasę i podąża za dostawą."
+      },
+      "collect": {
+        "title": "Kobry",
+        "text": "Finance i ERP zamykają zbiórkę, paragony i numery."
+      }
+    }
+  },
+  "band": {
+    "title": "Gotowy, aby zobaczyć to z [[twoja operacja]]?",
+    "text": "Pokażemy Ci ekosystem z przypadkiem dystrybucji podobnym do Twojego."
+  },
+  "footer": {
+    "blurb": "Platforma internetowa i mobilna dla dystrybucji, sprzedaży, logistyki, zakupów, zapasów i finansów.",
+    "products": "Produkty",
+    "company": "Firma",
+    "legal": "Prawny",
+    "privacy": "Prywatność",
+    "terms": "Warunki",
+    "rights": "Wszelkie prawa zastrzeżone."
+  },
+  "solutions": {
+    "eyebrow": "Rozwiązania",
+    "title": "Każdy obszar podłączony do [[ta sama operacja]]",
+    "intro": "Wybierz według problemu, który chcesz rozwiązać. Z tyłu produkty mają te same informacje.",
+    "items": {
+      "commercial": {
+        "title": "Zarządzanie komercyjne",
+        "text": "Zamówienia, ceny, klienci i zapasy do codziennej dystrybucji."
+      },
+      "field": {
+        "title": "siły sprzedaży",
+        "text": "Sprzedawcy przyjmujący zamówienia na ulicy, online lub offline."
+      },
+      "warehouse": {
+        "title": "Sklep",
+        "text": "Odbiór, kompletacja, wysyłka i zapasy, którym można zaufać."
+      },
+      "logistics": {
+        "title": "Logistyka i dostawa",
+        "text": "Trasy, kierowcy i status każdej dostawy."
+      },
+      "purchasing": {
+        "title": "Zakupy i dostawcy",
+        "text": "Wyceny, zamówienia i portal dla każdego, kto Cię zaopatruje."
+      },
+      "finance": {
+        "title": "Finanse i rachunkowość",
+        "text": "Kolekcje, płatności, elektroniczne fakturowanie i księgowość."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Przemysły",
+    "title": "Stworzony dla tych, którzy [[przenoszą produkt]]",
+    "intro": "FullVendor narodził się w dystrybucji i towarzyszy firmom, które kupują, przechowują, sprzedają i dostarczają.",
+    "items": {
+      "wholesale": {
+        "title": "Dystrybucja i sprzedaż hurtowa",
+        "text": "Cenniki, portfolio, dystrybucja i odbiór w jednym obiegu."
+      },
+      "retail": {
+        "title": "Sprzedaż detaliczna",
+        "text": "Sklep i magazyn z połączonymi zapasami, sprzedażą i uzupełnianiem."
+      },
+      "food": {
+        "title": "Jedzenie i napoje",
+        "text": "Częste trasy i magazyn, którego nie można zatrzymać."
+      },
+      "pharma": {
+        "title": "Apteka i higiena osobista",
+        "text": "Kontrola odbioru, kompletacji i zapasów z identyfikowalnością."
+      },
+      "hardware": {
+        "title": "Sprzęt i konstrukcja",
+        "text": "Wiele referencji, dostawców i dostaw do pracy lub sklepu."
+      },
+      "fmcg": {
+        "title": "Konsumpcja masowa",
+        "text": "Pracownicy sprzedaży ulicznej i wymiana o dużej rotacji."
+      },
+      "manufacturing": {
+        "title": "Produkcja",
+        "text": "Zakupy, magazynowanie i inwentaryzacja powiązane z administracją."
+      },
+      "lastmile": {
+        "title": "Dostawa i ostatnia mila",
+        "text": "Trasy, kierowcy i status każdej dostawy."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Zasoby",
+    "title": "Jasne pomysły na [[zamów operację]]",
+    "intro": "Krótkie przewodniki dla menedżerów dystrybucji, którzy zamierzają zdecydować, którego systemu się trzymać.",
+    "items": {
+      "unify": {
+        "title": "Jak ujednolicić dystrybucję w jeden system",
+        "summary": "Co najpierw złożyć, gdy sprzedaż, magazyn i kolekcje znajdują się w różnych plikach.",
+        "points": [
+          "Zacznij od klientów, produktów i cen: to oni są nauczycielami, z których wszyscy korzystają.",
+          "Połącz zamówienie z magazynem przed dodaniem kolejnych aplikacji.",
+          "Mierzy prostą liczbę: zamówienia zrealizowane bez konieczności ponownego wypełniania formularza."
+        ]
+      },
+      "offline": {
+        "title": "Siła sprzedaży pracująca w trybie offline",
+        "summary": "Czego wymagać od aplikacji do składania zamówień, aby sprzedawca nie zatrzymał się z powodu sygnału.",
+        "points": [
+          "Katalog i portfel muszą być w telefonie, a nie tylko w chmurze.",
+          "Zamówienie zostaje zapisane na urządzeniu i przesłane po powrocie sieci.",
+          "Podczas synchronizacji zamówienie trafia już do magazynu."
+        ]
+      },
+      "warehouse": {
+        "title": "Magazyn z kodem kreskowym, bez papieru",
+        "summary": "Jak przejść od wydrukowanej listy do odbioru potwierdzonego na telefonie.",
+        "points": [
+          "Otrzymuj zgodnie z zamówieniem, a nie z pamięcią.",
+          "Potwierdź każdy element podczas oddzielania. Robak wcina się w korytarz.",
+          "Wysyłka aktualizuje stany magazynowe widoczne dla sprzedawcy."
+        ]
+      },
+      "finance": {
+        "title": "Kolekcja zgodna z wyprzedażą",
+        "summary": "Dlaczego sprzedawca powinien zobaczyć dług klienta przed przyjęciem kolejnego zamówienia.",
+        "points": [
+          "Wizyta jest najlepszym momentem na odbiór, jeśli dług jest widoczny.",
+          "Sprzedaż i finanse muszą patrzeć na tego samego klienta.",
+          "Codzienny raport zaległych płatności jest wart więcej niż późne zamknięcie."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ceny",
+    "title": "Ekosystem, który [[rośnie wraz z Tobą]]",
+    "intro": "Nie publikujemy ogólnej stawki: koszt zależy od modułów, użytkowników i wolumenu. Pokażemy Ci platformę i przygotujemy propozycję dla Twojej operacji.",
+    "note": "Wersja demonstracyjna jest bezpłatna i nie wymaga umowy.",
+    "recommended": "Zalecony",
+    "faq_title": "Często zadawane pytania",
+    "plans": {
+      "essential": {
+        "name": "Niezbędny",
+        "desc": "Aby zorganizować zarządzanie komercyjne i dystrybucję na jednej platformie.",
+        "features": [
+          "FullVendor platforma internetowa",
+          "Sprzedaż, zakupy i zapasy",
+          "Klienci, dostawcy i raporty",
+          "Użytkownicy sprzętu biurowego",
+          "Wsparcie start-upu"
+        ],
+        "cta": "Poproś o wersję demonstracyjną"
+      },
+      "professional": {
+        "name": "Profesjonalny",
+        "desc": "Dla zespołów sprzedających na ulicy i przygotowujących zamówienia w magazynie.",
+        "features": [
+          "Wszystko, co niezbędne",
+          "Aplikacja FullVendor Sales Man",
+          "Aplikacja FullVendor Warehouse",
+          "Praca offline i kody kreskowe",
+          "Więcej użytkowników pól i magazynów"
+        ],
+        "cta": "Poproś o wersję demonstracyjną"
+      },
+      "corporate": {
+        "name": "Zbiorowy",
+        "desc": "Dla grup potrzebujących logistyki, zakupów, finansów i różnych firm.",
+        "features": [
+          "Kompletny ekosystem",
+          "Logistics, Vendor Supplier i Finance",
+          "FullVendor ERP i wielodostępność",
+          "Elektroniczne fakturowanie i księgowość",
+          "Opieka i dostępność priorytetowa"
+        ],
+        "cta": "Porozmawiaj ze sprzedażą"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Czy muszę kupić wszystkie produkty?",
+        "a": "Nie. Możesz zacząć od FullVendor i dodawać aplikacje lub ERP, gdy będzie to potrzebne."
+      },
+      "offline": {
+        "q": "Czy aplikacje działają bez Internetu?",
+        "a": "Sales Man i Warehouse kontynuują pracę bez sygnału i synchronizują się po ponownym podłączeniu."
+      },
+      "multi": {
+        "q": "Czy to zadziała, jeśli mam więcej niż jedną firmę?",
+        "a": "Tak. ERP uwzględnia wielofirmowość, a ekosystem może dzielić między sobą panów."
+      },
+      "demo": {
+        "q": "Co zawiera wersja demonstracyjna?",
+        "a": "Wycieczka po platformie ze sprawą podobną do Twojej. Bez kosztów i bez zobowiązań."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demonstracja",
+    "title": "Pokazujemy Ci FullVendor z [[Twój typ operacji]]",
+    "text": "Opowiedz nam o swojej firmie i o tym, co chcesz najpierw zamówić. Wersja demonstracyjna jest bezpłatna."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Porozmawiajmy o [[twoja operacja]]",
+    "text": "Jeśli chcesz demonstrację, propozycję lub po prostu zorientowanie się pomiędzy produktami, zostaw swoje dane, a my odpowiemy.",
+    "email": "Poczta",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nazwa",
+    "email": "Poczta",
+    "phone": "Telefon",
+    "company": "Firma",
+    "country": "Kraj",
+    "team": "Rozmiar zespołu",
+    "interest": "Co Cię interesuje?",
+    "message": "Wiadomość",
+    "optional": "Fakultatywny",
+    "choose": "Wybierać",
+    "interest_all": "Cały ekosystem",
+    "ph_name": "twoje imię",
+    "ph_email": "ty@firma.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Twoja firma",
+    "ph_country": "Kraj",
+    "ph_message": "Opowiedz nam, jak dzisiaj funkcjonujesz",
+    "privacy_before": "Wyrażam zgodę na przetwarzanie moich danych zgodnie z art",
+    "privacy_after": ".",
+    "submit": "Wyślij prośbę",
+    "sent_title": "Otrzymujemy Twoją prośbę",
+    "sent_text": "Dziękuję. Zespół sprzedaży napisze do Ciebie, aby koordynować demonstrację lub odpowiedzieć na Twoje pytanie.",
+    "error_required": "Wypełnij to pole.",
+    "error_email": "Wpisz prawidłowy adres e-mail.",
+    "error_phone": "Sprawdź telefon.",
+    "error_privacy": "Potrzebujemy Twojej zgody na wykorzystanie danych kontaktowych.",
+    "error_csrf": "Sesja wygasła. Prześlij formularz ponownie.",
+    "error_save": "Nie udało się zapisać żądania. Spróbuj ponownie.",
+    "error_generic": "Przejrzyj zaznaczone pola.",
+    "error_rate": "Poczekaj chwilę przed przesłaniem kolejnej prośby.",
+    "team_options": {
+      "1-10": "1 do 10 osób",
+      "11-50": "11 do 50 osób",
+      "51-200": "51 do 200 osób",
+      "201-500": "201 do 500 osób",
+      "500+": "Ponad 500 osób"
+    }
+  },
+  "video": {
+    "title": "FullVendor w ciągu jednej minuty",
+    "prev": "Dawny",
+    "next": "Następny",
+    "slides": [
+      {
+        "title": "Jeden ekosystem",
+        "text": "Sprzedaż, magazyn, dostawa, zakupy i finanse udostępniają klientów, zapasy i zamówienia."
+      },
+      {
+        "title": "Internet i urządzenia mobilne razem",
+        "text": "Biuro działa na platformie. Ulica i magazyn, w aplikacjach, nawet bez sygnału."
+      },
+      {
+        "title": "Stworzony do dystrybucji",
+        "text": "Od zamówienia do płatności, bez przekazywania informacji z jednego pliku do drugiego."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Szukaj produktów, rozwiązań, branż…",
+    "lang_filter": "Wyszukaj język",
+    "intro": "Szukaj produktów, rozwiązań, branż i zasobów.",
+    "empty": "Nie znaleźliśmy wyników dla „{q}”.",
+    "hint": "Wypróbuj sprzedaż, magazyn, trasy lub kolekcje.",
+    "results": "{n} wyniki",
+    "button": "Szukać",
+    "kind_product": "Produkt",
+    "kind_solution": "Rozwiązanie",
+    "kind_industry": "Przemysł",
+    "kind_resource": "Ratunek"
+  },
+  "notfound": {
+    "title": "Ta strona nie jest",
+    "text": "Link nie istnieje lub zmienił lokalizację."
+  },
+  "common": {
+    "what": "Co rozwiązuje",
+    "features": "Co jest wliczone w cenę",
+    "benefits": "Dlaczego to ma znaczenie",
+    "for_who": "Dla kogo to jest?",
+    "related": "Również w ekosystemie"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sprzedaż dzisiaj",
+      "orders": "Święcenia",
+      "clients": "Klienci",
+      "products": "Produkty"
+    },
+    "sidebar": {
+      "dashboard": "Panel",
+      "sales": "Obroty",
+      "purchases": "Zakupy",
+      "inventory": "Spis",
+      "clients": "Klienci",
+      "reports": "Raporty"
+    },
+    "chart": "Obroty",
+    "channel": "Dystrybucja według kanałów",
+    "channels": [
+      "Sklep",
+      "Dystrybucja",
+      "Hurtownik",
+      "Inni"
+    ],
+    "orders": "Najnowsze zamówienia",
+    "col_order": "Zamówienie",
+    "col_client": "Klient",
+    "col_status": "Państwo",
+    "col_total": "Całkowity",
+    "status": [
+      "Dostarczony",
+      "W drodze",
+      "Kolczyk"
+    ],
+    "top": "Najlepiej sprzedające się produkty",
+    "product": "Produkt",
+    "sales_menu": [
+      "Klienci",
+      "Święcenia",
+      "Produkty",
+      "Trasy",
+      "Synchronizować"
+    ],
+    "warehouse_menu": [
+      "Przyjęcie",
+      "Owocobranie",
+      "Spis",
+      "Załatwić",
+      "Synchronizować"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Polityka prywatności",
+    "privacy_intro": "Niniejsza polityka wyjaśnia, co robimy z danymi, które pozostawiasz w formularzach na tej stronie.",
+    "privacy": [
+      {
+        "title": "Jakie dane zbieramy",
+        "text": "Jeśli poprosisz o wersję demonstracyjną lub napiszesz do nas, zapiszemy imię i nazwisko, firmę, adres e-mail, numer telefonu, jeśli go wskażesz, kraj, wielkość zespołu, interesujący Cię produkt i wiadomość. Rejestrujemy również datę, język strony i adres IP, aby zapobiec nadużyciom."
+      },
+      {
+        "title": "Do czego je wykorzystujemy?",
+        "text": "Wykorzystujemy te dane wyłącznie w celu udzielenia odpowiedzi, koordynowania demonstracji i przygotowania oferty handlowej. Nie sprzedajemy ich ani nie udostępniamy osobom trzecim."
+      },
+      {
+        "title": "Gdzie są przechowywane i jak długo?",
+        "text": "Żądania są przechowywane na serwerze tej witryny. Przechowujemy je przez czas niezbędny do obsługi Ciebie i działań handlowych, a także usuwamy je, gdy nas o to poprosisz lub gdy nie są już potrzebne."
+      },
+      {
+        "title": "Twoje prawa",
+        "text": "Możesz zażądać dostępu do swoich danych, ich poprawienia lub usunięcia z formularza kontaktowego, wskazując to w wiadomości. Jeśli firma publikuje wiadomość e-mail na tej stronie, możesz tam również pisać."
+      }
+    ],
+    "terms_title": "Warunki użytkowania",
+    "terms_intro": "Niniejsze warunki mają zastosowanie do korzystania z tej witryny przesyłania FullVendor.",
+    "terms": [
+      {
+        "title": "Informacje handlowe",
+        "text": "Teksty, przykładowe rysunki i opisy deski rozdzielczej przedstawiają platformę. Można je modyfikować w przypadku zmiany produktu i nie stanowią one oferty zamkniętej."
+      },
+      {
+        "title": "Demo nie jest umową",
+        "text": "Wysłanie formularza nie powoduje obowiązku zakupu ani rezerwacji ceny. Każda umowa jest uzgadniana odrębnie w formie pisemnej, jej zakres i warunki."
+      },
+      {
+        "title": "Treść witryny",
+        "text": "Znak towarowy FullVendor, nazwy produktów i zawartość tych stron należą do ich właścicieli. Nie można ich kopiować w celu zaprezentowania innego produktu."
+      },
+      {
+        "title": "Dopuszczalne użycie",
+        "text": "Nie używaj formularzy do przesyłania fałszywych informacji, spamu lub treści o charakterze nielegalnym. Możemy ignorować prośby, które nie odpowiadają rzeczywistej rozmowie biznesowej."
+      }
+    ]
+  }
+}

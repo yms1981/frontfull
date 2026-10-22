@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor ukata | Negocios apnaqaña ukat jiltayaña",
+    "home_desc": "Taqi kunas mä plataforma ukanx soluciones web ukat móviles ukanakaw utji, ukax jaljañataki, aljasiñataki, logística, alañataki, inventario ukat qullqichañataki.",
+    "products_title": "Ukax mä juk’a pachanakanwa | FullVendor 1.1.",
+    "products_desc": "Ecosistema uñt’aña FullVendor: plataforma comercial, ERP, logística, proveedores ukat aljasiñanaka, almacén ukat qullqituqit apps.",
+    "product_title": "{name} ukata | FullVendor 1.1.",
+    "solutions_title": "Soluciones ukanaka | FullVendor 1.1.",
+    "solutions_desc": "Soluciones ukaxa gestión comercial, fuerza de ventas, almacén, logística, alaña ukatxa qullqi tuqita.",
+    "industries_title": "Industrias ukanaka | FullVendor 1.1.",
+    "industries_desc": "FullVendor jaljañataki, aljasiñataki, manq’añataki, farmacia, hardware, walja manq’añataki, lurañataki ukhamaraki qhipa milla.",
+    "pricing_title": "Precios ukax | FullVendor 1.1.",
+    "pricing_desc": "Planes Esenciales, Profesionales ukatxa Corporativos ukanaka. Uka amtawix módulos, usuarios ukat volumen ukanakarjamaw mayacht’ata.",
+    "resources_title": "Yanapt’awinaka | FullVendor 1.1.",
+    "resources_desc": "Jisk’a guias ukanakax distribución ukar mayacht’añataki, jan internetan aljañataki, almacén ukar wakicht’añataki ukat pachapar payllañataki.",
+    "contact_title": "Uñt’ayañataki | FullVendor 1.1.",
+    "contact_desc": "FullVendor tuqit yatxatañataki jan ukax aljirinakampi aruskipt’añatakis qillqt’apxita.",
+    "demo_title": "Demostración mayiwi | FullVendor 1.1.",
+    "demo_desc": "FullVendor ukan demostración mayiñamawa ukat plataforma ukar mä caso ukamp operación ukar uñtasit turkakipañamawa.",
+    "privacy_title": "Privacidad ukaxa | FullVendor 1.1.",
+    "terms_title": "Uka arunaka | FullVendor 1.1.",
+    "search_title": "Uñakipt’añataki | FullVendor 1.1.",
+    "notfound_title": "Pankax janiw jikxataskiti | FullVendor 1.1."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Nayrïr uñta",
+    "products": "Ukax mä juk’a pachanakanwa",
+    "solutions": "Soluciones ukanaka",
+    "industries": "Industrias ukanaka",
+    "pricing": "Precios ukanaka",
+    "resources": "Rikursunaka",
+    "contact": "Kuntaktu",
+    "open_menu": "Jisk’a menú jist’araña",
+    "close": "Jist'antaña"
+  },
+  "cta": {
+    "demo": "Demo ukat mayiñamawa",
+    "contact": "Jiwasampiw aruskipt’apxañäni",
+    "video": "Video uñtañamawa",
+    "talk": "Aljirinakampiw aruskipt’añama",
+    "all_products": "Taqi yänaka uñjaña",
+    "home": "Nayrïr uñstawipar kutt’añamawa"
+  },
+  "a11y": {
+    "skip": "Contenido ukar sarañamawa",
+    "primary": "Jilïr navegación",
+    "crumbs": "Navegación uka thakhi",
+    "search": "Thaqhaña",
+    "language": "Aru"
+  },
+  "hero": {
+    "eyebrow": "Taqi kunas mä plataformankiwa",
+    "title": "Gestión ukat jiltaña\nnegociomampixa\n{{brand}} 1.1.",
+    "subtitle": "Mä phuqhat plataforma web ukat móvil uka solucionanakampiw jaljañataki, aljasiñataki, logística, alañataki, inventario, qullqi ukat juk’ampinaka.",
+    "pill_ecosystem": "Taqi kunas mä ecosistema ukankiwa",
+    "pill_cloud": "Qhixu qhixu tuqinxa, seguro ukat escalable",
+    "pill_size": "Taqi kasta jach’a empresanakataki"
+  },
+  "products_block": {
+    "eyebrow": "Jiwasana lurawinakasa",
+    "title": "Mä [[ecosistema completo]] sapa área de negocios ukanakataki",
+    "aside": "Soluciones integradas ukaxa mayacht’asisawa irnaqapxi ukhamata taqpacha control, eficiencia operativa ukatxa juk’ampi jiltawi churañataki.",
+    "groups": {
+      "money": "Administración ukatxa apthapiwi",
+      "flow": "Alañanaka ukat puriyaña",
+      "field": "Aljasiñanaka ukat almacén ukanaka"
+    }
+  },
+  "products_page": {
+    "title": "Paqallqu yänaka, [[mä sapa lurawi]].",
+    "text": "Sapa achuxa mä chiqaru askichi. Mayacht’asisaw aljirinaka, stock, pedidos ukat payllawinak uñt’ayasipxi."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Palataphurma",
+      "card": "Jilïr plataforma comercial apnaqañataki ukhamarak jaljañataki.",
+      "features": [
+        "Aljasiñanaka ukat alañanaka",
+        "Katuyawi",
+        "Clientenaka ukat proveedores ukanaka",
+        "Yatiyawinaka ukat juk’ampinaka"
+      ],
+      "lead": "Operación comercial ukan chika taypinxa: pedidos, precios, stock ukat clientes ukanakax mä chiqankiwa.",
+      "about": "FullVendor ukax mä distribuidor ukan suelto hojas de cálculo ukat sistemas ukanakar lantintatawa. Aka chiqatx pedidos ukanakax mistu, inventario ukar jiskt’ata, cartera de clientes ukar uñjata ukatx urun jakhüwinakap uñakipata. Jichhax ecosistema ukax aka base ukarux mayachatawa.",
+      "benefits": [
+        {
+          "title": "Mä sapa datos master",
+          "text": "Aljirinakaxa, yänaka ukhamaraki chaninakaxa aljasiñampi, almacén ukhamaraki qullqichasiwimpi chikachasiñawa."
+        },
+        {
+          "title": "Qhana sapa uru apnaqaña",
+          "text": "Pedidos, compras ukat stock ukanakax kunayman archivonakan jakañ jaytxapxi."
+        },
+        {
+          "title": "Yatiyawinaka amtañataki",
+          "text": "Aljasiña, margen ukat pendiente ukanakax uñjasiw jan mä mesa amparamp apthapisin."
+        },
+        {
+          "title": "Jiltañataki wakicht’ata",
+          "text": "Logística, fuerza de ventas jan ukax ERP sumas kunawsatix operación ukax mayiki ukhaxa."
+        }
+      ],
+      "audience": "Equipos comerciales ukat distribución ukanakax jichhürunakanx walja sistemas ukanakan negocio ukar mayacht’apxi."
+    },
+    "erp": {
+      "kicker": "Administración ukaxa",
+      "card": "Administrativo ukhamaraki qullqi apnaqaña phuqhaña.",
+      "features": [
+        "Contabilidad tuqit yatxataña",
+        "Facturación electrónica ukaxa",
+        "Irnaqawi qillqatanaka",
+        "Activos fijos ukanaka",
+        "Walja empresanaka"
+      ],
+      "lead": "Administración ukatxa qullqi tuqita, kunatixa chiqpachan aljata ukatxa churatäki ukampi chikachasiña.",
+      "about": "FullVendor ERP ukax contabilidad, facturación electrónica, nóminas, activos fijos ukat walja empresas ukanakaruw uñt’ayi. Ukaxa operación comercial ukxa apsu ukatxa qillqantayatanaka, recibos ukatxa declaraciones ukanakaru tukuyi, ukaxa qullqituqita área ukaxa apnaqaspawa.",
+      "benefits": [
+        {
+          "title": "Conectado ukax contabilidad ukawa",
+          "text": "Kunatix aljasiñanakan ukhamarak alañanakan luraski ukax contabilidad ukaruw manq’ayi."
+        },
+        {
+          "title": "Recibos electrónicos ukanaka",
+          "text": "Jumax pachpa ecosistema ukanx facturación ukarux apsuñamawa ukat controlañamawa."
+        },
+        {
+          "title": "Kunayman empresanaka",
+          "text": "Walja empresanakax mä empresa sutit sipans juk’amp empresanakan irnaqir tamanakatakiwa."
+        },
+        {
+          "title": "Payllawi ukatxa yänaka",
+          "text": "Nómina ukatxa activos fijos ukanakaxa mayni irpirinakampi chika."
+        }
+      ],
+      "audience": "Áreas administrativas ukhamaraki financieras ukanakaxa chiqapa operación ukampiwa jakhunaka jist’antañ munapxi."
+    },
+    "logistics": {
+      "kicker": "Logística ukaxa",
+      "card": "Control ukatxa uñjaña operación logística ukatxa.",
+      "features": [
+        "Rutas ukat entreganaka",
+        "Chiqpach pachana arknaqaña",
+        "Choferan asignacionap luraña",
+        "Ruta optimización ukaxa"
+      ],
+      "lead": "Pedido ukhat apañkama: thakhinaka, conductoranaka ukat chiqpach pachan arknaqañkama.",
+      "about": "FullVendor Logistics ukax jaljañ wakicht’i. Rutas uñstayañamawa, conductoranak churañamawa ukat sapa entregax kawkirus saraski uk uñjañamawa. Equipo de tránsito ukax jawsatanakarjamaw sayt’i, ukhamat ordenax apayanit janicha uk yatiñataki.",
+      "benefits": [
+        {
+          "title": "Uka urux rutas ukanakaw utji",
+          "text": "Entreganakax zona, ventana de tiempo ukat capacidad ukarjam ordenatawa."
+        },
+        {
+          "title": "Asignado conductora",
+          "text": "Sapa thakhix mä jaqiw apnaqi ukat qhana secuencia ukaniwa."
+        },
+        {
+          "title": "Arkaña",
+          "text": "Jumax yatisktawa kunatix puriyatäki, thakin jan ukax sayt’ayata."
+        },
+        {
+          "title": "Mä juk’a kilómetros ukch’akiwa",
+          "text": "Ruta optimización ukax entrega tiempo ukat costo ukanak jisk’acharaki."
+        }
+      ],
+      "audience": "Operaciones de distribución ukaxa flota propia jan ukaxa kimsïri jaqinakampi."
+    },
+    "supplier": {
+      "kicker": "Alaña",
+      "card": "Portal ukaxa aljasirinakataki ukhamaraki alaña apnaqañataki.",
+      "features": [
+        "Alañataki kamachinaka",
+        "Jakthapiña",
+        "Proveedores ukanaka apnaqaña",
+        "Inventario ukampi mayachasiña"
+      ],
+      "lead": "Proveedores ukanakax cita, pedidos ukanak katuqapxi ukat stock ukar phuqhantapxi jan correo electrónico suelto ukanakampi.",
+      "about": "Vendor Supplier mä portal jist’araraki alañataki ukhamaraki aljasirinakataki pachpa kamachinakampi irnaqañataki. Cotizaciones, ordenes de compra ukat recibo ukax FullVendor ukan inventario ukar watatawa.",
+      "benefits": [
+        {
+          "title": "Mä canal ukan ordenanaka",
+          "text": "Proveedor ukax kuntix puriyañapatak uñji, jan cadena de correo electrónico ukampi."
+        },
+        {
+          "title": "Uñtasita arunaka",
+          "text": "Jumax precios mayisma ukat historia uñakipt’asaw ajllisma."
+        },
+        {
+          "title": "Proveedor Master ukax mä jach’a uñacht’äwiwa",
+          "text": "Condiciones, contactos ukatxa pendientes ukanakaxa mä sapa registro ukankiwa."
+        },
+        {
+          "title": "Inventario ukar mantañamawa",
+          "text": "Kunatix alasitax ukax stock ukan uñacht’ayatawa kunapachatix katuqatäki ukhaxa."
+        }
+      ],
+      "audience": "Alañ equipos ukanakax walja proveedores ukanakamp phuqhantapxi ukat trazabilidad ukax munapxi."
+    },
+    "salesman": {
+      "kicker": "App móvil ukax mä app",
+      "card": "Aplicación móvil ukax aljañ equipo ukatakiw.",
+      "features": [
+        "Clientenakan apnaqawipa",
+        "Orden apsuña",
+        "Catálogo de productos ukax mä jach’a uñacht’äwiwa",
+        "Jan internetan irnaqañax"
+      ],
+      "lead": "Fuerza de ventas ukax callinwa pedidonak apsu, señalampi jan ukax jan señalampi.",
+      "about": "FullVendor Sales Man cartera, catálogo ukat pedido apsuñax aljirin teléfonoparuw uñt’ayi. Jani internet utjki ukhaxa, irnaqawixa sarantaskakiwa ukatxa sincronizarakiwa kunapachatixa señal kutt’anki ukhaxa. Pedido ukax wakicht’ataw purini ukat churañataki.",
+      "benefits": [
+        {
+          "title": "Wallet ukax bolsillo ukankiwa",
+          "text": "Aljirixa clientes, condiciones ukatxa pendientes ukanaka uñji."
+        },
+        {
+          "title": "Visitacionan mayiñama",
+          "text": "Jichha pacha chaninakampi ukhamaraki stock ukampiwa orden apsuña."
+        },
+        {
+          "title": "Catálogo ukax jichha pachankiwa",
+          "text": "Productos, presentaciones ukat precios jan nayra PDF ukampi."
+        },
+        {
+          "title": "Chiqpach jan internetan utjki uka",
+          "text": "Jan coberturampi irnaqaña ukat qhipat sincronización luraña."
+        }
+      ],
+      "audience": "Supervisores ukatxa yapu aljirinakaxa distribución ukatxa consumo masivo ukanakana."
+    },
+    "warehouse": {
+      "kicker": "App móvil ukax mä app",
+      "card": "Aplicación móvil ukax almacén ukatakiw.",
+      "features": [
+        "Katuqaña ukat khithaña",
+        "Apthapiña ukat embalaje",
+        "Control de inventario ukaxa",
+        "Código de barras uñakipaña"
+      ],
+      "lead": "Recepción, picking ukatxa despacho ukaxa teléfono ukatxa código de barras ukampi.",
+      "about": "FullVendor Warehouse almacén ukarux katuqañan, apthapiñan, embalaje ukat apañanx irpxaruwayi. Códigos uñakipañax pantjasiwinak jisk’acharaki ukatx inventario ukax janiw phaxs tukuyarux jakthapisxiti.",
+      "benefits": [
+        {
+          "title": "Recepción contra orden ukaxa",
+          "text": "Kunatix mantani ukax alasitamp chikachasiñawa."
+        },
+        {
+          "title": "Ukax mä amtawiwa",
+          "text": "Barco apnaqirix kamachirjam phuqhi ukat sapa yänak chiqancharaki."
+        },
+        {
+          "title": "Códigos de barras ukanaka",
+          "text": "Jisk’a producto, lote jan ukax cantidad pantjasiwinaka."
+        },
+        {
+          "title": "Confiable stock ukax mä juk’a pachanakanwa",
+          "text": "Sapa saräwix plataforman inventario ukar machaqar tukuyi."
+        }
+      ],
+      "audience": "Almacén apnaqirinaka ukat barco apnaqirinakax jichhürunakanx imprimit listanakampiw pedidonak wakichtʼapxi."
+    },
+    "finance": {
+      "kicker": "App móvil ukax mä app",
+      "card": "Qullqi tuqit control ukax móvil ukat apsutawa.",
+      "features": [
+        "Cuentas recibidas ukatxa payllawinaka",
+        "Estado de cliente ukaxa",
+        "Payllawi ukatxa sumankthapiwi",
+        "Qullqi tuqita yatiyawi"
+      ],
+      "lead": "Cuentas recibidas, payllawinaka ukhamaraki estado de cliente, teléfono tuqita.",
+      "about": "FullVendor Finance ukax móvil ukan apthapiw uñacht’ayi: sapa maynix kuns manüki, kuns empresax niyaw pagañampïski ukat kunjams payllawinakax juti. Ukax visitt’añ pachanx qullqi apthapiñatakiwa ukatx caja registradora uñakipañatakiw apnaqasi jan escritorio jist’arasa.",
+      "benefits": [
+        {
+          "title": "Visita ukan apthapiña",
+          "text": "Aljirix janïr aljañkamax aljirix jichha pachan utjki uk yati."
+        },
+        {
+          "title": "Katuqaña ukatxa payllawi",
+          "text": "Pä tuqinx mä pachpa app ukanw uñt’ayasi."
+        },
+        {
+          "title": "Payllawi ukatxa sumankthapiwi",
+          "text": "Créditos ukanakax qillqantatawa ukat kunas cruzar lurañax wakisi uk uñjaraktawa."
+        },
+        {
+          "title": "Yatiyäwinakax amparankiwa",
+          "text": "Apthapiwi ukhamaraki qullqi uñacht’ayirinaka jani suyt’asa jist’antawi."
+        }
+      ],
+      "audience": "Gerentes, apthapirinaka ukat aljirinakax kunatix clienten situación ukax jichha pachanx munapxi."
+    }
+  },
+  "why": {
+    "eyebrow": "Kunatsa FullVendor .",
+    "title": "Negocios ukar ch’amanchañamawa\nchiqpach achuwinakampi",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Empresanakax jiwasaruw atinisipxistu"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Activo apnaqirinaka"
+      },
+      {
+        "value": "+10",
+        "suffix": "maranaka",
+        "label": "Sapa kuti evolucionanjja"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud ukan utjatapa"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kunjamsa irnaqtʼi",
+    "title": "Aljasiñat apthapiñkama, jan sistemas mayjt’ayasa",
+    "text": "Sapa yänakax aljirinaka, stock, pedidos ukat payllawinak chikancht’asipxi. Kunatix callin jan ukax almacén ukan paski ukax oficinaruw jank’ak uñsti.",
+    "steps": {
+      "sell": {
+        "title": "Jumax aljaraktawa",
+        "text": "Orden ukax sitio web tuqi jan ukax Sales Man tuqiw mantani, jan señalanis ukhamaraki."
+      },
+      "pick": {
+        "title": "Waliki",
+        "text": "Warehouse katuqaña, jaljaña ukatxa khithaña código de barras ukampi."
+      },
+      "deliver": {
+        "title": "Ukax mä juk’a pachanakanwa",
+        "text": "Logistics ukax thakhi uñt’ayi ukatx puriyañ arkta."
+      },
+      "collect": {
+        "title": "Cobras satawa",
+        "text": "Finance ukat ERP ukax apthapiwi, recibo ukat jakhunak jist’antatawa."
+      }
+    }
+  },
+  "band": {
+    "title": "¿[[operacionaman]] ukamp uñjañatakis wakichtʼatätati?",
+    "text": "Jiwasax ecosistema uñacht’ayapxsmawa mä caso de distribución ukamp jumanakar uñtasita."
+  },
+  "footer": {
+    "blurb": "Plataforma web ukat móvil ukax jaljañataki, aljasiñataki, logística, alañataki, inventario ukat qullqichañataki.",
+    "products": "Ukax mä juk’a pachanakanwa",
+    "company": "Kumpañiya",
+    "legal": "Chiqapa",
+    "privacy": "Jamasata",
+    "terms": "Arunaka",
+    "rights": "Taqi kunasa wakisiriwa."
+  },
+  "solutions": {
+    "eyebrow": "Soluciones ukanaka",
+    "title": "Sapa chiqa, [[pachpa operación]] ukar chikt’ata.",
+    "intro": "Kuna jan waltʼäwitï askichañ munkta ukarjamaw ajlliñama. Qhipäxanxa, yänakax pachpa yatiyawinak uñt’ayasipxi.",
+    "items": {
+      "commercial": {
+        "title": "Comercial ukanaka apnaqaña",
+        "text": "Pedidos, precios, clientes ukatxa inventario ukaxa urut ururu jaljañataki."
+      },
+      "field": {
+        "title": "aljiri ch’amampi",
+        "text": "Aljirinakax callin, internet tuqin jan ukax jan internet tuqin pedidonak katuqapxi."
+      },
+      "warehouse": {
+        "title": "Tantaña",
+        "text": "Recepción, picking, despacho ukat mä stock ukax atinisiñjamawa."
+      },
+      "logistics": {
+        "title": "Logística ukatxa entrega ukanaka",
+        "text": "Rutas, conductores ukatxa estado sapa entrega ukanaka."
+      },
+      "purchasing": {
+        "title": "Alaña ukatxa aljañanaka",
+        "text": "Cotización, pedidos ukat mä portal khitinakatix suministrapki ukanakataki."
+      },
+      "finance": {
+        "title": "Qullqi tuqita ukhamaraki contabilidad tuqita",
+        "text": "Apthapiwi, payllawi, facturación electrónica ukatxa contabilidad ukanaka."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrias ukanaka",
+    "title": "Khitinakatix [[producto movimiento]] ukanakataki luratawa.",
+    "intro": "FullVendor ukax distribución ukan yuriwayi ukatx empresas ukanakamp chikt’atawa, jupanakax alasipxi, imasipxi, aljapxi ukat puriyapxi.",
+    "items": {
+      "wholesale": {
+        "title": "Jaljaña ukatxa mayorista ukanaka",
+        "text": "Precios listas, cartera, distribución ukatxa apthapiwi mä sapa circuito ukana."
+      },
+      "retail": {
+        "title": "Juk'at aljiri",
+        "text": "Almacenamiento ukatxa almacén ukaxa stock conectado, alxawi ukatxa phuqt’ayaña."
+      },
+      "food": {
+        "title": "Manq’añanaka ukhamaraki umañanaka",
+        "text": "Sapa kuti thakhinaka ukat mä almacén ukax janiw sayt’kaspati."
+      },
+      "pharma": {
+        "title": "Farmacia ukat cuidado personal ukanaka",
+        "text": "Recepción, picking ukatxa control de inventario ukaxa trazabilidad ukampi."
+      },
+      "hardware": {
+        "title": "Hardware ukat lurañanaka",
+        "text": "Walja referencias, proveedores ukat entregas ukanakax irnaqäwir jan ukax tienda ukar puriyañataki."
+      },
+      "fmcg": {
+        "title": "Jach’a manq’añanaka",
+        "text": "Calle aljiri ch’amampi ukhamaraki jach’a turnover lantintaña."
+      },
+      "manufacturing": {
+        "title": "Uñstayaña",
+        "text": "Alaña, almacén ukatxa inventario ukanakaxa administración ukampiwa alineada."
+      },
+      "lastmile": {
+        "title": "Entrega ukat qhipa milla",
+        "text": "Rutas, conductores ukatxa estado sapa entrega ukanaka."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Rikursunaka",
+    "title": "Qhana amuyunaka [[operación orden]].",
+    "intro": "Distribución irpirinakatakix jisk’a guias ukanakaw kawkir sistema ukamp chikt’atäñapa uk amtañataki.",
+    "items": {
+      "unify": {
+        "title": "Kunjamasa mä sistema ukar jaljañax mayacht’asispa",
+        "summary": "Kunas nayraqat mayacht’añax kunapachatix aljasiñanaka, almacén ukat apthapiñanakax kunayman archivonakan jakapki ukhaxa.",
+        "points": [
+          "Aljirinakampi, yänakampi ukhamaraki chaninakampi qalltaña: jupanakaxa yatichiriwa taqini apnaqata.",
+          "Uka orden ukaxa stock ukampi chikt’atawa janïra juk’ampi aplicaciones ukanakampi yapxatkasa.",
+          "Ukax mä sanu jakhüwiruw tupu: ordenanakax phuqhasiwayi jan formulario wasitat lurasa."
+        ]
+      },
+      "offline": {
+        "title": "Fuerza de ventas ukax jan internetan irnaqapxi",
+        "summary": "Kuns mä app de pedido ukan mayiñapa ukhamat aljirix jan sayt’añapataki señal layku.",
+        "points": [
+          "Catálogo ukat billetera ukax teléfono ukan utjañapawa, janiw cloud ukankañapakiti.",
+          "Orden ukax dispositivo ukan imatäxiwa ukatx red ukax kutt’anxi ukhax apkatatawa.",
+          "Sincronización ukaxa, orden ukaxa niyaw almacén ukar mantani."
+        ]
+      },
+      "warehouse": {
+        "title": "Almacén ukax código de barras ukampi, jan papel ukampi",
+        "summary": "Kunjamas imprimit listat teléfono tuqin confirmado picking ukar saraña.",
+        "points": [
+          "Alañ kamachi contra katuqaña, janiw amuyu contra katuqañakiti.",
+          "Sapa yänakaxa jaljañatakixa chiqapawa. Uka ch’uqixa pasillo ukarux khuchhuqaraki.",
+          "Uka despacho ukax aljirix uñjki uka stock ukarux machaqar tukuyi."
+        ]
+      },
+      "finance": {
+        "title": "Colección alineada ukaxa aljañampiwa",
+        "summary": "Kunatsa aljirix janïr yaqha pedido apsuñkamax aljirin manup uñjañapa.",
+        "points": [
+          "Uka visitaxa wali sumawa apthapiñatakixa, ukaxa manuxa uñjasispawa.",
+          "Aljasiñanaka ukat qullqichasiwix pachpa aljiriruw uñakipapxañapa.",
+          "Sapa uru mä yatiyäwix qhipharux jist’antañat sipanx juk’amp askiwa."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Precios ukanaka",
+    "title": "Mä ecosistema ukax [[jumampiw jiltaski]].",
+    "intro": "Janiw mä tasa genérica uñt’ayktanti: qullqix módulos, usuarios ukat volumen ukanakat dependeriwa. Plataforma uñacht’ayapxsma ukat mä propuesta operación ukamp chikt’apxta.",
+    "note": "Demostración ukax janiw kuna qullqis utjkiti ukat janiw mä contrato ukax wakiskiti.",
+    "recommended": "Amuyt'ayata",
+    "faq_title": "Sapa kuti jisktʼasir jisktʼanaka",
+    "plans": {
+      "essential": {
+        "name": "Wasiku",
+        "desc": "Mä plataforma ukan gestión comercial ukatxa distribución ukanaka wakicht’aña.",
+        "features": [
+          "FullVendor plataforma web ukax mä jach’a uñacht’äwiwa",
+          "Aljaña, alaña ukatxa inventario ukanaka",
+          "Clientenaka, proveedores ukat yatiyawinaka",
+          "Oficina ukan yänaka apnaqirinaka",
+          "Qalltañataki yanapt’awinaka"
+        ],
+        "cta": "Demo ukat mayiñamawa"
+      },
+      "professional": {
+        "name": "Yatxatata",
+        "desc": "Equipos ukanakataki, jupanakax callin aljapxi ukat almacén ukan pedidonak wakicht’apxi.",
+        "features": [
+          "Taqi kunas Wali wakiskiriwa",
+          "App FullVendor Sales Man ukat juk’ampinaka.",
+          "App FullVendor Warehouse ukat juk’ampinaka.",
+          "Jan internetan irnaqaña ukat códigos de barras ukanaka",
+          "Jilpacha yapu ukat almacén apnaqirinaka"
+        ],
+        "cta": "Demo ukat mayiñamawa"
+      },
+      "corporate": {
+        "name": "Corporativo ukankirinaka",
+        "desc": "Grupos ukanakatakixa logística, alaña, qullqituqita ukhamaraki kunaymana empresanakataki.",
+        "features": [
+          "Ecosistema phuqhata",
+          "Logistics, Vendor Supplier ukat Finance .",
+          "FullVendor ERP ukat walja arrendamiento ukanaka",
+          "Facturación electrónica ukatxa contabilidad ukanaka",
+          "Acompañamiento ukatxa nayraqataru sartayaña utjatapa"
+        ],
+        "cta": "Aljirinakampiw aruskipt’añama"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "¿Taqi uka yänak alañax wakisispati?",
+        "a": "Janiwa, FullVendor ukampiw qalltasma ukatx apps jan ukax ERP ukampiw yapxatasma kunapachatix operación ukax munaski ukhaxa."
+      },
+      "offline": {
+        "q": "¿Aplicaciones ukanakax jan internet ukan irnaqapxiti?",
+        "a": "Sales Man ukat Warehouse ukax jan señal ukamp irnaqasipkaki ukat sincronización ukax wasitat conectatäki ukhaxa."
+      },
+      "multi": {
+        "q": "¿Mä empresat sipansa jukʼamp empresanïsta ukhajja, ¿ukajj irnaqtʼaspati?",
+        "a": "Jïsa. ERP walja empresas ukanakat amuyt’i ukat ecosistema ukax jupanak taypin masters ukanakamp chikancht’asispa."
+      },
+      "demo": {
+        "q": "¿Kunas uka demostración ukan utji?",
+        "a": "Plataformar sarañax jumar uñtasit mä cajampiw lurasi. Janiw kuna qullqis utjkiti ukat janiw kuna obligacionas utjkiti."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Uñacht’ayawi",
+    "title": "Jiwasax FullVendor uñacht’ayapxsmawa [[kuna kasta operación]].",
+    "text": "Empresamat yatiyapxita ukat kunanaks nayraqat mayiñ munta uk yatiyapxita. Demostración ukax janiw kuna qullqis utjkiti."
+  },
+  "contact": {
+    "eyebrow": "Kuntaktu",
+    "title": "[[operacionaman]] tuqit parltʼañäni.",
+    "text": "Jumatix mä demostración, mä propuesta jan ukax productos ukanakan orientación ukak munsta ukhax yatiyawinak jaytañamawa ukat jiwasax jaysañäni.",
+    "email": "Correo tuqi",
+    "phone": "Jawsaña",
+    "whatsapp": "WhatsApp ukax mä juk’a pachanakanwa"
+  },
+  "form": {
+    "name": "Chacha",
+    "email": "Correo tuqi",
+    "phone": "Jawsaña",
+    "company": "Impirisa",
+    "country": "Marka",
+    "team": "Equipo tamapa",
+    "interest": "¿Kunas jumatakix wali askïspa?",
+    "message": "Yatiya",
+    "optional": "Ajlliwi",
+    "choose": "Ajlliña",
+    "interest_all": "Taqi ecosistema ukaxa",
+    "ph_name": "sutimaxa",
+    "ph_email": "jumax@empresa.com ukaruw uñt’ayasma",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Uka empresamanxa",
+    "ph_country": "Marka",
+    "ph_message": "Jichhürunakanx kunjams irnaqapxta uk yatiyapxita",
+    "privacy_before": "Nayax datos ukanakan apnaqawiparux iyawstwa ukax ukarjamaw",
+    "privacy_after": ".",
+    "submit": "Mayt’awi apayanipxañani",
+    "sent_title": "Jiwasax mayiwinakamarux katuqaraktanwa",
+    "sent_text": "Pay suma. Aljañ equipox qillqt’apxätamwa demostración ukar coordinañataki jan ukax jiskt’awimar jaysañataki.",
+    "error_required": "Aka yapu phuqhachaña.",
+    "error_email": "Mä chiqap correo electrónico ukar qillqt’aña.",
+    "error_phone": "Uka telefono uñakiptʼañamawa.",
+    "error_privacy": "Jiwasax consentimiento ukaruw munapxta, contacto ukanak apnaqañataki.",
+    "error_csrf": "Sesión ukax tukusxiwa. Uka formulario mayampi uñt’ayaña.",
+    "error_save": "Uka mayiwix janiw qhispiyañjamäkänti. Mayampiw yantʼañama.",
+    "error_generic": "Markachirinaka yapunaka uñakipaña.",
+    "error_rate": "Mä juk’a suyt’añamawa janïr yaqha mayiwinak uñt’ayañkama.",
+    "team_options": {
+      "1-10": "1 ukat 10 jaqinaka",
+      "11-50": "11 ukat 50 jaqinaka",
+      "51-200": "51 ukat 200 jaqinaka",
+      "201-500": "201 ukat 500 jaqinaka",
+      "500+": "500 jila jaqinakawa"
+    }
+  },
+  "video": {
+    "title": "FullVendor mä minuto ukanxa",
+    "prev": "Nayrüru",
+    "next": "Ukxaru",
+    "slides": [
+      {
+        "title": "Mä sapa ecosistema",
+        "text": "Aljaña, almacén, apaña, alaña ukatxa qullqichasiwi acción aljirinaka, stock ukatxa pedidos."
+      },
+      {
+        "title": "Web ukat móvil ukanak mayacht’asis",
+        "text": "Oficinajj plataformanwa irnaqtʼi. Calle ukat almacén, apps ukanakan, jan señal utjkipans."
+      },
+      {
+        "title": "Lakirañataki luratawa",
+        "text": "Ordenat payllañkama, jan mä archivot yaqha archivor yatiyawinak pasañapataki."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Uñakipt’añataki yänaka, solucionanaka, industrias...",
+    "lang_filter": "Aru thaqhaña",
+    "intro": "Productos, soluciones, industrias ukatxa recursos ukanaka thaqhaña.",
+    "empty": "Jiwasax janiw “{q}” ukatakix jikxatktanti.",
+    "hint": "Aljañ, almacén, thakhinaka jan ukax apthapiñ yant’apxam.",
+    "results": "{n} ukax mä juk’a pachanakanwa",
+    "button": "Thaqhaña",
+    "kind_product": "Achu",
+    "kind_solution": "Askichäwi",
+    "kind_industry": "Intustriya",
+    "kind_resource": "Rikursu"
+  },
+  "notfound": {
+    "title": "Aka pankax janiw ukhamäkiti",
+    "text": "Link ukax janiw utjkiti jan ukax mayjt’ayatawa."
+  },
+  "common": {
+    "what": "Kunas askichi",
+    "features": "Kunas ukanx utji",
+    "benefits": "Kunatsa ukajj wali wakiskirejja",
+    "for_who": "¿Khitinakatakis ukax?",
+    "related": "Ukhamaraki ecosistema ukanxa"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Jichhürunakan aljasiñanaka",
+      "orders": "Ordenanaka",
+      "clients": "Aljirinakaxa",
+      "products": "Ukax mä juk’a pachanakanwa"
+    },
+    "sidebar": {
+      "dashboard": "Tablero de instrumentos ukax mä juk’a pachanakanwa",
+      "sales": "Aljasiñanaka",
+      "purchases": "Alaña",
+      "inventory": "Katuyawi",
+      "clients": "Aljirinakaxa",
+      "reports": "Yatiyawinaka"
+    },
+    "chart": "Aljasiñanaka",
+    "channel": "Canal ukarjam jaljaña",
+    "channels": [
+      "Tantaña",
+      "Jalanuquña",
+      "Mayninakax aljapxi",
+      "Yaqhanakaxa"
+    ],
+    "orders": "Qhipa kamachinaka",
+    "col_order": "Mayachthapiña",
+    "col_client": "Kliyinti",
+    "col_status": "Istaru",
+    "col_total": "Taqpacha",
+    "status": [
+      "Churata",
+      "Thakhinxa",
+      "Manqha"
+    ],
+    "top": "Wali aljata yänaka",
+    "product": "Achu",
+    "sales_menu": [
+      "Aljirinakaxa",
+      "Ordenanaka",
+      "Ukax mä juk’a pachanakanwa",
+      "Rutas ukanaka",
+      "Sincronización luraña"
+    ],
+    "warehouse_menu": [
+      "Katuqa",
+      "Pichthapiña",
+      "Katuyawi",
+      "Tispachu",
+      "Sincronización luraña"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacidad tuqit kamachi",
+    "privacy_intro": "Aka kamachix qhanancht’iwa kuntix lurapkta uka datos ukanakax formularios ukan jaytawayktan ukanak aka sitio ukan.",
+    "privacy": [
+      {
+        "title": "Kuna datos ukanakas apthapita",
+        "text": "Jumatix mä demostración mayisma jan ukax qillqt’asma ukhax suti, empresa, correo electrónico, teléfono, ukax uñacht’ayañamawa, marka, equipo ukan tamapa, producto de interés ukat yatiyaw imañ munta. Ukhamarakiw kuna urus, pankan arupa ukat IP ukar qillqt’apxarakta, jan wali yatiyawinak jan utjañapataki."
+      },
+      {
+        "title": "¿Kunatakis ukanak apnaqtanxa?",
+        "text": "Aka datos ukax jumar jaysañatakik apnaqapxta, mä demostración ukar coordinañataki ukhamarak mä propuesta comercial wakicht’añataki. Janiw aljapkti ni kimsïr jaqinakan listapar churktanti."
+      },
+      {
+        "title": "¿Kawkhansa ukat qhawqha tiempos imatäpjje?",
+        "text": "Mayt’awinakax aka sitio ukan servidor ukan imatäxiwa. Jiwasax ukanakx kuna pachatix jumar luqtañatakix ukat comerciales ukar arktañatakix wakiski uka pachatakiw imapxta, ukat kunapachatix mayipkta jan ukax jan munaski ukhax chhaqtayapxta."
+      },
+      {
+        "title": "Juman derechunakamanxa",
+        "text": "Ukhamaraki, formulario de contacto ukanxa datos ukanakaxa mantañapataki, chiqañchañataki jan ukaxa chhaqtayañataki mayirakispawa, ukaxa yatiyawinxa uñacht’ayatarakiwa. Empresax mä correo electrónico aka sitio web ukan uñt’ayaspa ukhax ukan qillqt’asiraksnawa."
+      }
+    ],
+    "terms_title": "Uñakipañataki kamachinaka",
+    "terms_intro": "Aka condicionanakax aka FullVendor uñt’ayawi sitio ukan apnaqañatakiw apnaqasi.",
+    "terms": [
+      {
+        "title": "Comercial ukan yatiyawipa",
+        "text": "Textos, uñacht’awi tablón de instrumentos ukan chimpunaka ukat qhanañchäwinakax plataforma uñt’ayi. Jupanakax kunapachatix producto ukax mayjt’ki ukhax chiqañchasispawa ukatx janiw mä jist’antat ofrecimiento ukhamäkiti."
+      },
+      {
+        "title": "Demostración ukax janiw mä contrato ukhamäkiti",
+        "text": "Formulario uñt’ayañaxa janiwa obligación uñstaykiti jani ukaxa mä precio reservañataki. Kuna contrato ukaxa sapa mayniru, qillqatampi, alcance ukampi ukhamaraki condiciones ukanakampi."
+      },
+      {
+        "title": "Sitio ukanx kunayman yänakaw utji",
+        "text": "FullVendor markan markapa, yänakan sutinakapax ukat uka pankanakan utjki ukax jupanakankiwa. Janiw yaqha yänak uñacht’ayañatakix copiapkaspati."
+      },
+      {
+        "title": "Ukax walikïskiwa",
+        "text": "Janiw formularios ukanakax k’ari yatiyawinak, spam jan ukax jan wali yatiyawinak uñt’ayañatakix apnaqañakiti. Inas chiqpach negocio tuqit parltʼasiñampi jan waltʼayapki uka mayiwinakarux jan yäqksnati."
+      }
+    ]
+  }
+}

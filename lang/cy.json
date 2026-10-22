@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Rheoli a thyfu eich busnes",
+    "home_desc": "Llwyfan popeth-mewn-un gyda datrysiadau gwe a symudol ar gyfer dosbarthu, gwerthu, logisteg, prynu, rhestr eiddo a chyllid.",
+    "products_title": "Cynhyrchion | FullVendor",
+    "products_desc": "Dewch i adnabod yr ecosystem FullVendor: platfform masnachol, ERP, logisteg, cyflenwyr a gwerthu, apiau warws a chyllid.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Atebion | FullVendor",
+    "solutions_desc": "Atebion ar gyfer rheolaeth fasnachol, y llu gwerthu, warws, logisteg, prynu a chyllid.",
+    "industries_title": "Diwydiannau | FullVendor",
+    "industries_desc": "FullVendor ar gyfer dosbarthu, manwerthu, bwyd, fferylliaeth, caledwedd, defnydd torfol, gweithgynhyrchu a milltir olaf.",
+    "pricing_title": "Prisiau | FullVendor",
+    "pricing_desc": "Cynlluniau Hanfodol, Proffesiynol a Chorfforaethol. Mae'r cynnig yn cael ei roi at ei gilydd yn ôl modiwlau, defnyddwyr a chyfaint.",
+    "resources_title": "Adnoddau | FullVendor",
+    "resources_desc": "Canllawiau byr i uno dosbarthiad, gwerthu all-lein, trefnu'r warws a chael eich talu ar amser.",
+    "contact_title": "Cyswllt | FullVendor",
+    "contact_desc": "Ysgrifennwch atom i ddysgu am FullVendor neu cydlynu sgwrs gyda'r tîm gwerthu.",
+    "demo_title": "Cais demo | FullVendor",
+    "demo_desc": "Gofynnwch am arddangosiad o FullVendor a theithio o amgylch y platfform gydag achos tebyg i'ch gweithrediad.",
+    "privacy_title": "Preifatrwydd | FullVendor",
+    "terms_title": "Telerau | FullVendor",
+    "search_title": "Chwilio | FullVendor",
+    "notfound_title": "Tudalen heb ei chanfod | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Tudalen gartref",
+    "products": "Cynhyrchion",
+    "solutions": "Atebion",
+    "industries": "Diwydiannau",
+    "pricing": "Prisiau",
+    "resources": "Adnoddau",
+    "contact": "Cysylltwch",
+    "open_menu": "Dewislen agored",
+    "close": "Cau"
+  },
+  "cta": {
+    "demo": "Cais Demo",
+    "contact": "Cysylltwch â ni",
+    "video": "Gwylio Fideo",
+    "talk": "Siaradwch â gwerthiannau",
+    "all_products": "Gweler yr holl gynhyrchion",
+    "home": "Dychwelyd i'r dudalen gartref"
+  },
+  "a11y": {
+    "skip": "Neidio i'r cynnwys",
+    "primary": "Prif fordwyo",
+    "crumbs": "Llwybr mordwyo",
+    "search": "Chwiliwch am",
+    "language": "Iaith"
+  },
+  "hero": {
+    "eyebrow": "Y cyfan mewn un platfform",
+    "title": "Rheoli a thyfu\neich busnes gyda\n{{brand}}",
+    "subtitle": "Llwyfan cyflawn gydag atebion gwe a symudol ar gyfer dosbarthu, gwerthu, logisteg, prynu, rhestr eiddo, cyllid a mwy.",
+    "pill_ecosystem": "Popeth mewn un ecosystem",
+    "pill_cloud": "Yn y cwmwl, yn ddiogel ac yn raddadwy",
+    "pill_size": "Ar gyfer cwmnïau o bob maint"
+  },
+  "products_block": {
+    "eyebrow": "Ein cynnyrch",
+    "title": "[[ecosystem gyflawn]] ar gyfer pob maes o'ch busnes",
+    "aside": "Atebion integredig sy'n gweithio gyda'i gilydd i roi rheolaeth lwyr i chi, effeithlonrwydd gweithredol a mwy o dwf.",
+    "groups": {
+      "money": "Gweinyddu a chasglu",
+      "flow": "Prynu a danfon",
+      "field": "Gwerthiant a warws"
+    }
+  },
+  "products_page": {
+    "title": "Saith cynnyrch, [[gweithrediad sengl]]",
+    "text": "Mae pob cynnyrch yn datrys ardal. Gyda'i gilydd maent yn rhannu cwsmeriaid, stoc, archebion a thaliadau."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Llwyfan",
+      "card": "Prif lwyfan ar gyfer rheoli a dosbarthu masnachol.",
+      "features": [
+        "Gwerthu a phrynu",
+        "Stocrestr",
+        "Cleientiaid a chyflenwyr",
+        "Adroddiadau a mwy"
+      ],
+      "lead": "Canol eich gweithrediad masnachol: archebion, prisiau, stoc a chwsmeriaid mewn un lle.",
+      "about": "Mae FullVendor yn disodli taenlenni a systemau rhydd y dosbarthwr. O'r fan hon mae archebion yn dod allan, ymgynghorir â rhestr eiddo, gofalir am bortffolio cwsmeriaid ac edrychir ar niferoedd y dydd. Mae gweddill yr ecosystem yn cysylltu â'r sylfaen hon.",
+      "benefits": [
+        {
+          "title": "Meistr data sengl",
+          "text": "Rhennir cwsmeriaid, cynhyrchion a phrisiau gyda gwerthiannau, warws a chyllid."
+        },
+        {
+          "title": "Gweithrediad dyddiol clir",
+          "text": "Mae archebion, pryniannau a stoc yn rhoi'r gorau i fyw mewn gwahanol ffeiliau."
+        },
+        {
+          "title": "Adroddiadau i benderfynu",
+          "text": "Gwelir gwerthu, ymyl ac arfaeth heb lunio bwrdd â llaw."
+        },
+        {
+          "title": "Yn barod i dyfu",
+          "text": "Logisteg, grym gwerthu neu symiau ERP pan fydd y gweithrediad yn gofyn amdano."
+        }
+      ],
+      "audience": "Timau masnachol a dosbarthu sydd heddiw yn cydlynu'r busnes rhwng sawl system."
+    },
+    "erp": {
+      "kicker": "Gweinyddiaeth",
+      "card": "Rheolaeth weinyddol ac ariannol gyflawn.",
+      "features": [
+        "Cyfrifo",
+        "Bilio electronig",
+        "Taflenni gwaith",
+        "Asedau sefydlog",
+        "Aml-gwmni"
+      ],
+      "lead": "Gweinyddu a chyllid, yn unol â'r hyn sy'n cael ei werthu a'i gyflenwi mewn gwirionedd.",
+      "about": "Mae FullVendor ERP yn cynnwys cyfrifeg, anfonebu electronig, cyflogresi, asedau sefydlog ac aml-gwmni. Mae'n cymryd y gweithrediad masnachol ac yn ei drawsnewid yn gofnodion, derbynebau a datganiadau y gall yr ardal ariannol eu defnyddio.",
+      "benefits": [
+        {
+          "title": "Cyfrifeg cysylltiedig",
+          "text": "Mae'r hyn sy'n digwydd mewn gwerthiant a phryniant yn bwydo cyfrifeg."
+        },
+        {
+          "title": "Derbynebau electronig",
+          "text": "Rydych chi'n cyhoeddi ac yn rheoli biliau o'r un ecosystem."
+        },
+        {
+          "title": "Cwmnïau amrywiol",
+          "text": "Aml-gwmni ar gyfer grwpiau sy'n gweithredu o dan fwy nag un enw cwmni."
+        },
+        {
+          "title": "Cyflogau ac asedau",
+          "text": "Cyflogres ac asedau sefydlog ynghyd â gweddill y rheolwyr."
+        }
+      ],
+      "audience": "Meysydd gweinyddol ac ariannol sydd am gau'r niferoedd gyda'r gweithrediad go iawn."
+    },
+    "logistics": {
+      "kicker": "Logisteg",
+      "card": "Rheoli a monitro eich gweithrediad logisteg.",
+      "features": [
+        "Llwybrau a danfoniadau",
+        "Olrhain amser real",
+        "Aseiniad gyrrwr",
+        "Optimeiddio llwybr"
+      ],
+      "lead": "O drefn i ddanfon: llwybrau, gyrwyr ac olrhain amser real.",
+      "about": "FullVendor Logistics sy'n trefnu'r dosbarthiad. Rydych chi'n creu llwybrau, yn aseinio gyrwyr ac yn gweld i ble mae pob dosbarthiad yn mynd. Mae'r tîm traffig yn stopio yn dibynnu ar alwadau i ddarganfod a yw'r archeb wedi'i hanfon.",
+      "benefits": [
+        {
+          "title": "Llwybrau'r dydd",
+          "text": "Dosbarthiadau wedi'u harchebu yn ôl parth, ffenestr amser a chynhwysedd."
+        },
+        {
+          "title": "Gyrrwr wedi'i aseinio",
+          "text": "Mae gan bob llwybr berson â gofal a dilyniant clir."
+        },
+        {
+          "title": "Dilyniant",
+          "text": "Rydych chi'n gwybod beth sy'n cael ei gyflwyno, ar y ffordd neu'n cael ei stopio."
+        },
+        {
+          "title": "Llai o gilometrau",
+          "text": "Mae optimeiddio llwybrau yn lleihau amser dosbarthu a chost."
+        }
+      ],
+      "audience": "Gweithrediadau dosbarthu gyda'u fflyd eu hunain neu drydydd parti."
+    },
+    "supplier": {
+      "kicker": "Siopa",
+      "card": "Porth ar gyfer cyflenwyr a rheoli prynu.",
+      "features": [
+        "Archebion prynu",
+        "Dyfyniadau",
+        "Rheoli cyflenwyr",
+        "Integreiddio gyda rhestr eiddo"
+      ],
+      "lead": "Mae eich cyflenwyr yn rhoi dyfynbris, yn derbyn archebion ac yn ailgyflenwi stoc heb e-byst rhydd.",
+      "about": "Vendor Supplier yn agor porth ar gyfer pryniannau a chyflenwyr i weithio ar yr un archebion. Mae dyfynbrisiau, archebion prynu a derbynneb ynghlwm wrth y rhestr eiddo o FullVendor.",
+      "benefits": [
+        {
+          "title": "Archebion mewn sianel",
+          "text": "Mae'r cyflenwr yn gweld beth i'w gyflwyno, heb gadwyn e-bost."
+        },
+        {
+          "title": "Dyfyniadau tebyg",
+          "text": "Rydych chi'n gofyn am brisiau ac yn dewis gyda'r hanes yn y golwg."
+        },
+        {
+          "title": "Meistr Cyflenwr",
+          "text": "Amodau, cysylltiadau ac yn yr arfaeth mewn un cofnod."
+        },
+        {
+          "title": "Rhowch y rhestr eiddo",
+          "text": "Mae'r hyn a brynwyd yn cael ei adlewyrchu yn y stoc pan gaiff ei dderbyn."
+        }
+      ],
+      "audience": "Timau prynu sy'n ailgyflenwi â sawl cyflenwr ac sydd angen olrheiniadwyedd."
+    },
+    "salesman": {
+      "kicker": "Ap symudol",
+      "card": "Cais symudol ar gyfer tîm gwerthu.",
+      "features": [
+        "Rheoli cwsmeriaid",
+        "Cymryd archeb",
+        "Catalog cynnyrch",
+        "Gwaith all-lein"
+      ],
+      "lead": "Mae'r llu gwerthu yn cymryd archebion ar y stryd, gyda signal neu hebddo.",
+      "about": "Mae FullVendor Sales Man yn rhoi eich portffolio, catalog ac archeb ar ffôn y gwerthwr. Os nad oes rhyngrwyd, mae'r gwaith yn parhau ac yn cydamseru pan fydd y signal yn dychwelyd. Mae'r archeb yn cyrraedd yn barod i'w baratoi a'i ddosbarthu.",
+      "benefits": [
+        {
+          "title": "Waled mewn poced",
+          "text": "Mae'r gwerthwr yn gweld cleientiaid, amodau ac eitemau yr arfaeth."
+        },
+        {
+          "title": "Archebwch yn yr ymweliad",
+          "text": "Cymerwch yr archeb gyda phrisiau cyfredol a stoc."
+        },
+        {
+          "title": "Catalog yn gyfoes",
+          "text": "Cynhyrchion, cyflwyniadau a phrisiau heb hen PDF."
+        },
+        {
+          "title": "All-lein go iawn",
+          "text": "Gweithio heb sylw a chydamseru yn ddiweddarach."
+        }
+      ],
+      "audience": "Goruchwylwyr a gwerthwyr maes ym maes dosbarthu a defnydd torfol."
+    },
+    "warehouse": {
+      "kicker": "Ap symudol",
+      "card": "Cais symudol ar gyfer warws.",
+      "features": [
+        "Derbyn ac anfon",
+        "Casglu a phacio",
+        "Rheoli rhestr eiddo",
+        "Darllen cod bar"
+      ],
+      "lead": "Derbynfa, dewis ac anfon gyda'r ffôn a'r cod bar.",
+      "about": "FullVendor Warehouse yn arwain y warws wrth dderbyn, casglu, pacio a danfon. Mae codau darllen yn lleihau gwallau ac nid yw rhestr eiddo bellach yn cael ei chyfrif dim ond ar ddiwedd y mis.",
+      "benefits": [
+        {
+          "title": "Derbyniad yn erbyn gorchymyn",
+          "text": "Mae'r hyn sy'n dod i mewn yn cael ei gymharu â'r pryniant."
+        },
+        {
+          "title": "Casglu wedi'i dargedu",
+          "text": "Mae perchennog y llong yn dilyn y gorchymyn ac yn cadarnhau pob eitem."
+        },
+        {
+          "title": "Codau bar",
+          "text": "Llai o wallau cynnyrch, swp neu faint."
+        },
+        {
+          "title": "Stoc dibynadwy",
+          "text": "Mae pob symudiad yn diweddaru rhestr eiddo'r platfform."
+        }
+      ],
+      "audience": "Rheolwyr warws a pherchnogion llongau sydd heddiw yn paratoi archebion gyda rhestrau printiedig."
+    },
+    "finance": {
+      "kicker": "Ap symudol",
+      "card": "Rheolaeth ariannol o'ch ffôn symudol.",
+      "features": [
+        "Cyfrifon derbyniadwy a thaladwy",
+        "Statws cwsmer",
+        "Taliadau a chysoniadau",
+        "Adroddiadau ariannol"
+      ],
+      "lead": "Cyfrifon derbyniadwy, taliadau a statws cwsmer, o'ch ffôn.",
+      "about": "Mae FullVendor Finance yn dangos y casgliad ar y ffôn symudol: beth sy'n ddyledus gan bob cleient, beth mae'r cwmni ar fin ei dalu a sut mae'r taliadau'n dod. Fe'i defnyddir i gasglu arian yn ystod yr ymweliad ac i edrych ar y gofrestr arian heb agor y ddesg.",
+      "benefits": [
+        {
+          "title": "Casgliad yn ystod yr ymweliad",
+          "text": "Mae'r gwerthwr yn gwybod a yw'r cwsmer yn gyfredol cyn gwerthu."
+        },
+        {
+          "title": "Derbyniadwy a thaladwy",
+          "text": "Dwy ochr y blwch yn yr un app."
+        },
+        {
+          "title": "Taliadau a chysoniadau",
+          "text": "Rydych chi'n cofrestru credydau ac yn gweld beth sydd angen ei groesi."
+        },
+        {
+          "title": "Adroddiadau wrth law",
+          "text": "Casglu a dangosyddion arian parod heb aros am gau."
+        }
+      ],
+      "audience": "Rheolwyr, casglwyr a gwerthwyr sydd angen sefyllfa'r cleient ar hyn o bryd."
+    }
+  },
+  "why": {
+    "eyebrow": "Pam FullVendor",
+    "title": "Rhowch hwb i'ch busnes\ngyda chanlyniadau gwirioneddol",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Mae cwmnïau'n ymddiried ynom"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Defnyddwyr gweithredol"
+      },
+      {
+        "value": "+10",
+        "suffix": "mlynedd",
+        "label": "Mewn esblygiad cyson"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Argaeledd cwmwl"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Sut mae'n gweithio",
+    "title": "O werthu i gasglu, heb newid systemau",
+    "text": "Mae pob cynnyrch yn rhannu cwsmeriaid, stoc, archebion a thaliadau. Mae'r hyn sy'n digwydd ar y stryd neu yn y warws yn ymddangos yn y swyddfa ar unwaith.",
+    "steps": {
+      "sell": {
+        "title": "Rydych chi'n gwerthu",
+        "text": "Rhoddir yr archeb trwy'r wefan neu trwy Sales Man, hyd yn oed heb signal."
+      },
+      "pick": {
+        "title": "Yn barod",
+        "text": "Warehouse yn derbyn, yn gwahanu ac yn anfon gyda chod bar."
+      },
+      "deliver": {
+        "title": "Dosbarthu",
+        "text": "Logistics yn aseinio'r llwybr ac yn dilyn y danfoniad."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance a ERP cau y casgliad, y derbynebau a'r rhifedi."
+      }
+    }
+  },
+  "band": {
+    "title": "Barod i'w weld gyda [[eich llawdriniaeth]]?",
+    "text": "Rydyn ni'n dangos yr ecosystem i chi gydag achos dosbarthu tebyg i'ch un chi."
+  },
+  "footer": {
+    "blurb": "Llwyfan gwe a symudol ar gyfer dosbarthu, gwerthu, logisteg, prynu, rhestr eiddo a chyllid.",
+    "products": "Cynhyrchion",
+    "company": "Cwmni",
+    "legal": "Cyfreithiol",
+    "privacy": "Preifatrwydd",
+    "terms": "Termau",
+    "rights": "Cedwir pob hawl."
+  },
+  "solutions": {
+    "eyebrow": "Atebion",
+    "title": "Pob ardal, sy'n gysylltiedig â'r [[un gweithrediad]]",
+    "intro": "Dewiswch yn ôl y broblem rydych chi am ei datrys. Y tu ôl, mae'r cynhyrchion yn rhannu'r un wybodaeth.",
+    "items": {
+      "commercial": {
+        "title": "Rheolaeth fasnachol",
+        "text": "Gorchmynion, prisiau, cwsmeriaid a rhestr eiddo i'w dosbarthu o ddydd i ddydd."
+      },
+      "field": {
+        "title": "llu gwerthu",
+        "text": "Gwerthwyr yn cymryd archebion ar y stryd, ar-lein neu all-lein."
+      },
+      "warehouse": {
+        "title": "Storfa",
+        "text": "Derbyn, casglu, anfon a stoc y gellir ymddiried ynddo."
+      },
+      "logistics": {
+        "title": "Logisteg a chyflwyno",
+        "text": "Llwybrau, gyrwyr a statws pob dosbarthiad."
+      },
+      "purchasing": {
+        "title": "Prynu a chyflenwyr",
+        "text": "Dyfyniadau, archebion a phorth ar gyfer pwy bynnag sy'n eich cyflenwi."
+      },
+      "finance": {
+        "title": "Cyllid a chyfrifo",
+        "text": "Casgliadau, taliadau, bilio electronig a chyfrifo."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Diwydiannau",
+    "title": "Wedi'i wneud ar gyfer y rhai sy'n [[symud cynnyrch]]",
+    "intro": "Ganed FullVendor mewn dosbarthu ac mae'n mynd gyda chwmnïau sy'n prynu, storio, gwerthu a dosbarthu.",
+    "items": {
+      "wholesale": {
+        "title": "Dosbarthu a chyfanwerthu",
+        "text": "Rhestrau prisiau, portffolio, dosbarthu a chasglu mewn cylched sengl."
+      },
+      "retail": {
+        "title": "Manwerthu",
+        "text": "Storfa a warws gyda stoc cysylltiedig, gwerthiannau ac ailgyflenwi."
+      },
+      "food": {
+        "title": "Bwyd a diodydd",
+        "text": "Llwybrau aml a warws na all stopio."
+      },
+      "pharma": {
+        "title": "Fferylliaeth a gofal personol",
+        "text": "Derbyn, casglu a rheoli rhestr eiddo gyda'r gallu i olrhain."
+      },
+      "hardware": {
+        "title": "Caledwedd ac adeiladu",
+        "text": "Llawer o gyfeiriadau, cyflenwyr a danfoniadau i'r gwaith neu'r storfa."
+      },
+      "fmcg": {
+        "title": "Defnydd torfol",
+        "text": "Grym gwerthu stryd ac amnewidiad trosiant uchel."
+      },
+      "manufacturing": {
+        "title": "Gweithgynhyrchu",
+        "text": "Prynu, warws a rhestr eiddo yn unol â gweinyddiaeth."
+      },
+      "lastmile": {
+        "title": "Dosbarthu a milltir olaf",
+        "text": "Llwybrau, gyrwyr a statws pob dosbarthiad."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Adnoddau",
+    "title": "Syniadau clir i [[archebu'r llawdriniaeth]]",
+    "intro": "Canllawiau byr i reolwyr dosbarthu sy'n mynd i benderfynu pa system i gadw ati.",
+    "items": {
+      "unify": {
+        "title": "Sut i uno dosbarthiad yn un system",
+        "summary": "Beth i'w roi at ei gilydd yn gyntaf pan fydd gwerthiannau, warws a chasgliadau yn byw mewn gwahanol ffeiliau.",
+        "points": [
+          "Dechreuwch gyda chwsmeriaid, cynhyrchion a phrisiau: nhw yw'r athro y mae pawb yn ei ddefnyddio.",
+          "Cysylltwch yr archeb gyda'r stoc cyn ychwanegu mwy o gymwysiadau.",
+          "Mae'n mesur rhif syml: cyflawni gorchmynion heb ail-wneud y ffurflen."
+        ]
+      },
+      "offline": {
+        "title": "Grym gwerthu yn gweithio all-lein",
+        "summary": "Beth i'w ofyn gan app archebu fel nad yw'r gwerthwr yn stopio oherwydd y signal.",
+        "points": [
+          "Mae'n rhaid i'r catalog a'r waled fod ar y ffôn, nid yn y cwmwl yn unig.",
+          "Mae'r archeb yn cael ei chadw ar y ddyfais a'i huwchlwytho pan fydd y rhwydwaith yn dychwelyd.",
+          "Wrth gydamseru, mae'r archeb eisoes yn mynd i mewn i'r warws."
+        ]
+      },
+      "warehouse": {
+        "title": "Warws gyda chod bar, heb bapur",
+        "summary": "Sut i fynd o'r rhestr brintiedig i ddewis wedi'i gadarnhau ar y ffôn.",
+        "points": [
+          "Derbyn yn erbyn y gorchymyn prynu, nid yn erbyn cof.",
+          "Cadarnhewch bob eitem wrth wahanu. Mae'r byg yn torri i mewn i'r cyntedd.",
+          "Mae'r anfoniad yn diweddaru'r stoc y mae'r gwerthwr yn ei weld."
+        ]
+      },
+      "finance": {
+        "title": "Casgliad wedi'i alinio â'r gwerthiant",
+        "summary": "Pam y dylai'r gwerthwr weld dyled y cwsmer cyn cymryd archeb arall.",
+        "points": [
+          "Yr ymweliad yw yr amser goreu i gasglu, os bydd y ddyled yn weledig.",
+          "Mae'n rhaid i werthu a chyllid edrych ar yr un cwsmer.",
+          "Mae adroddiad hwyr dyddiol yn werth mwy na chau hwyr."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prisiau",
+    "title": "Ecosystem sy'n [[tyfu gyda chi]]",
+    "intro": "Nid ydym yn cyhoeddi cyfradd generig: mae'r gost yn dibynnu ar y modiwlau, y defnyddwyr a'r cyfaint. Rydyn ni'n dangos y platfform i chi ac yn llunio cynnig gyda'ch gweithrediad.",
+    "note": "Nid oes unrhyw gost i'r demo ac nid oes angen contract arno.",
+    "recommended": "Argymhellir",
+    "faq_title": "Cwestiynau cyffredin",
+    "plans": {
+      "essential": {
+        "name": "Hanfodol",
+        "desc": "Trefnu rheolaeth fasnachol a dosbarthu ar un platfform.",
+        "features": [
+          "FullVendor llwyfan gwe",
+          "Gwerthiannau, pryniannau a rhestr eiddo",
+          "Cleientiaid, cyflenwyr ac adroddiadau",
+          "Defnyddwyr offer swyddfa",
+          "Cefnogaeth cychwyn busnes"
+        ],
+        "cta": "Cais Demo"
+      },
+      "professional": {
+        "name": "Proffesiynol",
+        "desc": "Ar gyfer timau sy'n gwerthu ar y stryd ac yn paratoi archebion yn y warws.",
+        "features": [
+          "Popeth Hanfodol",
+          "Ap FullVendor Sales Man",
+          "Ap FullVendor Warehouse",
+          "Gwaith all-lein a chodau bar",
+          "Mwy o ddefnyddwyr maes a warws"
+        ],
+        "cta": "Cais Demo"
+      },
+      "corporate": {
+        "name": "Corfforaethol",
+        "desc": "Ar gyfer grwpiau sydd angen logisteg, prynu, cyllid a chwmnïau amrywiol.",
+        "features": [
+          "Ecosystem gyflawn",
+          "Logistics, Vendor Supplier a Finance",
+          "FullVendor ERP ac aml-denantiaeth",
+          "Bilio electronig a chyfrifo",
+          "Cyfeiliant ac argaeledd blaenoriaeth"
+        ],
+        "cta": "Siaradwch â gwerthiannau"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Oes rhaid i mi brynu'r holl gynhyrchion?",
+        "a": "Gallwch ddechrau gyda FullVendor ac ychwanegu apiau neu ERP pan fo'r gweithrediad ei angen."
+      },
+      "offline": {
+        "q": "Ydy'r cymwysiadau'n gweithio heb rhyngrwyd?",
+        "a": "Sales Man a Warehouse parhau i weithio heb signal a chydamseru wrth ailgysylltu."
+      },
+      "multi": {
+        "q": "A yw'n gweithio os oes gennyf fwy nag un cwmni?",
+        "a": "Oes. ERP yn ystyried aml-gwmni a gall yr ecosystem rannu meistri rhyngddynt."
+      },
+      "demo": {
+        "q": "Beth mae'r demo yn ei gynnwys?",
+        "a": "Taith o amgylch y platfform gydag achos tebyg i'ch un chi. Dim cost a dim rhwymedigaeth."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Rydyn ni'n dangos FullVendor i chi gyda [[eich math o weithred]]",
+    "text": "Dywedwch wrthym am eich cwmni a beth rydych chi am ei archebu yn gyntaf. Nid oes unrhyw gost i'r demo."
+  },
+  "contact": {
+    "eyebrow": "Cysylltwch",
+    "title": "Gadewch i ni siarad am [[eich llawdriniaeth]]",
+    "text": "Os ydych chi eisiau demo, cynnig neu ddim ond i gyfeirio'ch hun rhwng y cynhyrchion, gadewch eich gwybodaeth a byddwn yn ymateb.",
+    "email": "Post",
+    "phone": "Ffon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Enw",
+    "email": "Post",
+    "phone": "Ffon",
+    "company": "Cwmni",
+    "country": "Gwlad",
+    "team": "Maint tîm",
+    "interest": "Beth sydd o ddiddordeb i chi?",
+    "message": "Neges",
+    "optional": "Dewisol",
+    "choose": "Dewiswch",
+    "interest_all": "Yr ecosystem gyfan",
+    "ph_name": "dy enw",
+    "ph_email": "chi@cwmni.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Eich cwmni",
+    "ph_country": "Gwlad",
+    "ph_message": "Dywedwch wrthym sut rydych chi'n gweithredu heddiw",
+    "privacy_before": "Rwy'n derbyn y defnydd o fy nata yn ôl y",
+    "privacy_after": ".",
+    "submit": "Anfon cais",
+    "sent_title": "Rydym yn derbyn eich cais",
+    "sent_text": "Diolch. Bydd y tîm gwerthu yn ysgrifennu atoch i gydlynu'r demo neu ateb eich cwestiwn.",
+    "error_required": "Cwblhewch y maes hwn.",
+    "error_email": "Rhowch e-bost dilys.",
+    "error_phone": "Gwiriwch y ffôn.",
+    "error_privacy": "Rydym angen eich caniatâd i ddefnyddio manylion cyswllt.",
+    "error_csrf": "Mae'r sesiwn wedi dod i ben. Ailgyflwyno'r ffurflen.",
+    "error_save": "Ni allem arbed y cais. Ceisiwch eto.",
+    "error_generic": "Adolygwch y meysydd sydd wedi'u marcio.",
+    "error_rate": "Arhoswch funud cyn cyflwyno cais arall.",
+    "team_options": {
+      "1-10": "1 i 10 o bobl",
+      "11-50": "11 i 50 o bobl",
+      "51-200": "51 i 200 o bobl",
+      "201-500": "201 i 500 o bobl",
+      "500+": "Mwy na 500 o bobl"
+    }
+  },
+  "video": {
+    "title": "FullVendor mewn un munud",
+    "prev": "Cyn",
+    "next": "Yn dilyn",
+    "slides": [
+      {
+        "title": "Un ecosystem",
+        "text": "Gwerthu, warws, dosbarthu, prynu a chyllid yn rhannu cwsmeriaid, stoc ac archebion."
+      },
+      {
+        "title": "Gwe a symudol gyda'i gilydd",
+        "text": "Mae'r swyddfa'n gweithio ar y platfform. Y stryd a'r warws, yn yr apiau, hyd yn oed heb signal."
+      },
+      {
+        "title": "Wedi'i wneud i ddosbarthu",
+        "text": "O drefn i daliad, heb drosglwyddo gwybodaeth o un ffeil i'r llall."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Chwilio am gynhyrchion, datrysiadau, diwydiannau…",
+    "lang_filter": "Chwilio iaith",
+    "intro": "Chwilio cynhyrchion, datrysiadau, diwydiannau ac adnoddau.",
+    "empty": "Ni ddaethom o hyd i ganlyniadau ar gyfer “{q}”.",
+    "hint": "Rhowch gynnig ar werthiannau, warws, llwybrau neu gasgliadau.",
+    "results": "{n} canlyniadau",
+    "button": "Chwiliwch am",
+    "kind_product": "Cynnyrch",
+    "kind_solution": "Ateb",
+    "kind_industry": "Diwydiant",
+    "kind_resource": "Adnodd"
+  },
+  "notfound": {
+    "title": "Nid yw'r dudalen hon",
+    "text": "Nid yw'r ddolen yn bodoli neu mae wedi newid lleoliad."
+  },
+  "common": {
+    "what": "Beth sy'n datrys",
+    "features": "Beth sydd wedi'i gynnwys",
+    "benefits": "Pam ei fod yn bwysig",
+    "for_who": "Ar gyfer pwy mae e?",
+    "related": "Hefyd yn yr ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Gwerthu heddiw",
+      "orders": "Archebion",
+      "clients": "Cwsmeriaid",
+      "products": "Cynhyrchion"
+    },
+    "sidebar": {
+      "dashboard": "Dangosfwrdd",
+      "sales": "Gwerthiant",
+      "purchases": "Siopa",
+      "inventory": "Stocrestr",
+      "clients": "Cwsmeriaid",
+      "reports": "Adroddiadau"
+    },
+    "chart": "Gwerthiant",
+    "channel": "Dosbarthu yn ôl sianel",
+    "channels": [
+      "Storfa",
+      "Dosbarthiad",
+      "Cyfanwerthwr",
+      "Eraill"
+    ],
+    "orders": "Gorchmynion diweddaraf",
+    "col_order": "Gorchymyn",
+    "col_client": "Cwsmer",
+    "col_status": "Cyflwr",
+    "col_total": "Cyfanswm",
+    "status": [
+      "Wedi'i gyflwyno",
+      "Ar y ffordd",
+      "Clustdlws"
+    ],
+    "top": "Cynhyrchion sy'n gwerthu orau",
+    "product": "Cynnyrch",
+    "sales_menu": [
+      "Cwsmeriaid",
+      "Archebion",
+      "Cynhyrchion",
+      "Llwybrau",
+      "Cydamseru"
+    ],
+    "warehouse_menu": [
+      "Derbynfa",
+      "Pigo",
+      "Stocrestr",
+      "Anfon",
+      "Cydamseru"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Polisi Preifatrwydd",
+    "privacy_intro": "Mae'r polisi hwn yn egluro beth rydym yn ei wneud gyda'r data rydych yn ei adael mewn ffurflenni ar y wefan hon.",
+    "privacy": [
+      {
+        "title": "Pa ddata rydym yn ei gasglu",
+        "text": "Os byddwch yn gofyn am arddangosiad neu'n ysgrifennu atom, byddwn yn arbed yr enw, y cwmni, yr e-bost, y rhif ffôn os byddwch yn ei nodi, y wlad, maint y tîm, y cynnyrch o ddiddordeb a'r neges. Rydym hefyd yn cofnodi'r dyddiad, iaith y dudalen a'r cyfeiriad IP, i atal cyflwyniadau difrïol."
+      },
+      {
+        "title": "Ar gyfer beth rydyn ni'n eu defnyddio?",
+        "text": "Rydym yn defnyddio'r data hwn dim ond i ymateb i chi, cydlynu demo a pharatoi cynnig masnachol. Nid ydym yn eu gwerthu nac yn eu rhoi i restr o drydydd partïon."
+      },
+      {
+        "title": "Ble maen nhw'n cael eu storio ac am ba hyd?",
+        "text": "Mae ceisiadau'n cael eu storio ar weinydd y wefan hon. Rydym yn eu cadw am yr amser sydd ei angen i'ch gwasanaethu a gwaith dilynol masnachol, ac rydym yn eu dileu pan fyddwch yn gofyn i ni wneud hynny neu pan nad oes eu hangen mwyach."
+      },
+      {
+        "title": "Eich hawliau",
+        "text": "Gallwch ofyn am fynediad, cywiro neu ddileu eich data o'r ffurflen gyswllt, gan nodi hynny yn y neges. Os yw'r cwmni'n cyhoeddi e-bost ar y wefan hon, gallwch chi hefyd ysgrifennu yno."
+      }
+    ],
+    "terms_title": "Telerau defnyddio",
+    "terms_intro": "Mae'r amodau hyn yn berthnasol i ddefnyddio'r safle cyflwyno FullVendor hwn.",
+    "terms": [
+      {
+        "title": "Gwybodaeth fasnachol",
+        "text": "Mae testunau, ffigurau dangosfwrdd enghreifftiol a disgrifiadau yn cyflwyno'r platfform. Gellir eu haddasu pan fydd y cynnyrch yn newid ac nid ydynt yn gynnig caeedig."
+      },
+      {
+        "title": "Nid yw'r demo yn gontract",
+        "text": "Nid yw cyflwyno'r ffurflen yn creu rhwymedigaeth i brynu neu gadw pris. Cytunir ar unrhyw gontract ar wahân, yn ysgrifenedig, gyda’i gwmpas a’i amodau."
+      },
+      {
+        "title": "Cynnwys y wefan",
+        "text": "Mae'r nod masnach FullVendor, enwau cynnyrch a chynnwys y tudalennau hyn yn eiddo i'w perchnogion. Ni ellir eu copïo i gyflwyno cynnyrch arall."
+      },
+      {
+        "title": "Defnydd derbyniol",
+        "text": "Peidiwch â defnyddio'r ffurflenni i gyflwyno gwybodaeth ffug, sbam neu gynnwys anghyfreithlon. Efallai y byddwn yn anwybyddu ceisiadau nad ydynt yn cyfateb i sgwrs busnes gwirioneddol."
+      }
+    ]
+  }
+}

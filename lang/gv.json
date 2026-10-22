@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Riaghlagh as cur dty ghleashtan",
+    "home_desc": "Platform ooilley-ayn-un lesh freggyrtyn web as mobile son sgapail, ymmyd, logistics, ceannagh, inventory as airhey.",
+    "products_title": "Productos | FullVendor",
+    "products_desc": "Ta fys ec y FullVendor jeh'n ecosystem: platform marchanagh, ERP, logistics, ymmydeyryn as ymmydeyryn, apps stashoon as airhey.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Soluciones | FullVendor",
+    "solutions_desc": "Fuassaghey son reill marchanagh, lught-reill, stashoon, logistics, ceannagh as airhey.",
+    "industries_title": "Industrias | FullVendor",
+    "industries_desc": "FullVendor son sgapail, ymmyd, biey, pharmacy, hardware, ymmyd mooar, ymmyd as mile s'jerree.",
+    "pricing_title": "Precios | FullVendor",
+    "pricing_desc": "Planyn Rieau, Proffeshonail as Corporate. Ta'n aght-oaylleeaght er ny chur cooidjagh cordail rish modulyn, ymmydeyryn as volume.",
+    "resources_title": "Recursos | FullVendor",
+    "resources_desc": "Leighyn gearr dy cho-unnaneaghey sgaoilley, veraghey offline, reayll y stashoon as goaill paidjal ayns traa.",
+    "contact_title": "Contacto | FullVendor",
+    "contact_desc": "Screeu dooin dy hoiggal mychione FullVendor ny co-ordiney cowrey rish y squad ymmyrchagh.",
+    "demo_title": "Solicitar demo | FullVendor",
+    "demo_desc": "Irree magh demo FullVendor as tour y platform lesh cass cosoylagh rish dty obbraghey.",
+    "privacy_title": "Privacidad | FullVendor",
+    "terms_title": "Términos | FullVendor",
+    "search_title": "Buscar | FullVendor",
+    "notfound_title": "Página no encontrada | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Duillag y thie",
+    "products": "Productyn",
+    "solutions": "Fuassaghey",
+    "industries": "Gymmyrkyn",
+    "pricing": "Priceyn",
+    "resources": "Cooid",
+    "contact": "Cur-lhiat",
+    "open_menu": "Foshlit menu",
+    "close": "Çhiu"
+  },
+  "cta": {
+    "demo": "Irree magh Demo",
+    "contact": "Cur-my-ner",
+    "video": "Cur-my-ner Video",
+    "talk": "Labhairt rish ny veearaghyn",
+    "all_products": "Cur-my-ner ooilley ny produittyn",
+    "home": "Dy row yn duillag stiagh"
+  },
+  "a11y": {
+    "skip": "Skip gys yn obbyr",
+    "primary": "Pryssoonagh",
+    "crumbs": "Raad ymmyrkey",
+    "search": "Cur-my-ner",
+    "language": "Chengey"
+  },
+  "hero": {
+    "eyebrow": "Ooilley ayns un platform",
+    "title": "Gestiona y haz crecer\ntu negocio con\n{{brand}}",
+    "subtitle": "Platform immeeaght lesh freggyrtyn web as mobile son sgapail, ymmyd, logistics, ceannagh, inventory, argid as ny smoo.",
+    "pill_ecosystem": "Gagh nhee ayns un ecosystem",
+    "pill_cloud": "Ayns y chloud, scanshoil as scalable",
+    "pill_size": "Son compagnyn dy chooilley mhean"
+  },
+  "products_block": {
+    "eyebrow": "Ar produit",
+    "title": "[[ecosystem immeeaght]] son ​​gagh rannagh jeh dty ghleashtan",
+    "aside": "Solutions integrated ta obbraghey cooidjagh dy choyrt dhyt stiurey immeeaght, efficiency obbree as crosh smoo.",
+    "groups": {
+      "money": "Riaghlagh as coardail",
+      "flow": "Ceannagh as livrey",
+      "field": "Gymmyrkey as stashoon"
+    }
+  },
+  "products_page": {
+    "title": "Seihnt ny produittyn, [[un obbyr]]",
+    "text": "Ta gach produit freayll sthie. Ta'd ry-cheilley ry-cheilley rish lught-thie, stock, ordreeyn as paidjys."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Lhied",
+      "card": "Pryssoon y phreeu-chleaysh son reill as sgapail commercialagh.",
+      "features": [
+        "Gymmyrkey as ceannagh",
+        "Stiaghyn",
+        "Clientaghyn as soilsheyderyn",
+        "Raportyn as ny smoo"
+      ],
+      "lead": "Yn center jeh dty obbyr marchanagh: ordreeyn, priceyn, stock as customeryn ayns un ard.",
+      "about": "FullVendor t'eh ry-gheddyn ayns ynnyd spreadsheets as systemyn loose y rannagh. As shen ta ordreeyn cheet magh, ta'n inventory er ny choyrt, ta'n portfolio jeh'n lught-thie er ny choyrt stiagh as ta'n lught-thie er nyn goaill stiagh. Ta'n chooid elley jeh'n ecosystem ceaut rish y bun-sthie shoh.",
+      "benefits": [
+        {
+          "title": "Un ard-oik data",
+          "text": "Ta luchd-cliaghtey, ny produittyn as ny priceyn co-roit rish ny vee-chraueeaght, ny stashoon as ny argid."
+        },
+        {
+          "title": "Soilshey obbraghey laa as laa",
+          "text": "Orderyn, ceannagh as stock staydys beaghey ayns fileyn difrinagh."
+        },
+        {
+          "title": "Rapportyn dy ghra",
+          "text": "Ta'n veeal, y margin as y pending er ny hoiggal gyn cur table ry-cheilley lesh laue."
+        },
+        {
+          "title": "Ready dy hroo",
+          "text": "Logistics, force y veeal ny ERP summyn tra t'eh y obbraghey y ghoaill."
+        }
+      ],
+      "audience": "Bunnyn marchanagh as sgapail ta co-ordraghey y ghleashtan ec y laa shoh eddyr ymmodee systemyn."
+    },
+    "erp": {
+      "kicker": "Riaghlagh;",
+      "card": "Riaghlagh stiurey as airgey cooilleenit.",
+      "features": [
+        "Cunntastagh",
+        "Billey electronagh",
+        "Billey-obbree;",
+        "Assets staghtooragh",
+        "Mooar-chompaney"
+      ],
+      "lead": "Riaghlagh as airhey, co-cheangailt rish ny ta ry-gheddyn as ry-livrey.",
+      "about": "FullVendor ERP t'eh ry-akin ayns cunntas, facturyssyn electronagh, listyn-paagh, scansh s'cadjin as multi-company. T'eh goaill y obbraghey commercialagh as t'eh y ghra ayns entryssyn, receipts as statementyn oddys y rannagh argidoil y usaghey.",
+      "benefits": [
+        {
+          "title": "Cuntastagh ceaut",
+          "text": "Yn red ta ry-yannoo ayns y vee-chraueeaght as y vee-chraueeaght feed accounting."
+        },
+        {
+          "title": "Receits electronagh",
+          "text": "Ta shiu cur magh as reill billey jeh'n un ecosystem."
+        },
+        {
+          "title": "Companynyn elley",
+          "text": "Multi-company son buill ta obbraghey fo ny smoo na un ennym compagnys."
+        },
+        {
+          "title": "Rolley-paagh as sheeanyn",
+          "text": "Payroll as reddyn staghtooragh cooidjagh rish y chooid elley jeh'n lught-reill."
+        }
+      ],
+      "audience": "Rannaghyn stiurey as airgey ta aggindagh dy chloie ny laghyn rish y obbraghey glan."
+    },
+    "logistics": {
+      "kicker": "Loggyssyn",
+      "card": "Smaght as stiurey jeh dty obbraghey logistics.",
+      "features": [
+        "Raaidyn as livrey",
+        "Tracking ayns am firrinagh",
+        "Oik y stiureyder",
+        "Optimaghys y raad"
+      ],
+      "lead": "Veih ordrey gys livrey: raaidyn, driveryn as tracking real-time.",
+      "about": "FullVendor Logistics t'eh ry-reih y rannagh. Ta shiu jannoo shliaghtey, ymmyrkey driveryn as cur-my-ner c'raad ta gagh livrey goll. Ta'n skimmee traffic staydys depending er claghyn dy hoiggal my t'an ordrey er ny choyrt.",
+      "benefits": [
+        {
+          "title": "Raaidyn y laa",
+          "text": "Livrey ordrit liorish cryss, fenee-am as capacity."
+        },
+        {
+          "title": "Driver er ny choyrt",
+          "text": "Ta dooinney er y rheynn as rang-oardagh soilshey ec gagh raad."
+        },
+        {
+          "title": "Hiedychooish",
+          "text": "Ta fys eu cre t’er ny livrey, er y raad ny staydys."
+        },
+        {
+          "title": "Ny sloo kilometeryn",
+          "text": "Ta optimization y raad ymmyrkey yn am as y chost."
+        }
+      ],
+      "audience": "Oobaghyn sgaoil lesh y fleet echey hene ny treealtyssyn."
+    },
+    "supplier": {
+      "kicker": "Shappal",
+      "card": "Portal son ymmydeyryn as stiurey ceannagh.",
+      "features": [
+        "Ordynyn ceannagh",
+        "Steaueyn",
+        "Riaghlagh y chorree",
+        "Co-chruinnaghey lesh inventory"
+      ],
+      "lead": "Ta ny soilsheyderyn eu cowraghey, goaill ordreeyn as ath-liooar stock gyn e-mailyn loose.",
+      "about": "Vendor Supplier foshlit portal son ceannaghtyn as soilshagheyderyn dy obbraghey er ny reddyn cheddin. Ta cowraghyn, ordreeyn cheannagh as receipt ceaut rish inventory FullVendor.",
+      "benefits": [
+        {
+          "title": "Orderyn ayns chanel",
+          "text": "Ta'n supplier fakin cre'n red t'eh dy livrey, gyn slane email."
+        },
+        {
+          "title": "Quotes co-chosney",
+          "text": "Gow-jee priceyn as roshtyn rish y tashtey."
+        },
+        {
+          "title": "Master y Choonceil",
+          "text": "Cooishyn, co-chowraghyn as pending ayns un record."
+        },
+        {
+          "title": "Cur stiagh yn inventory",
+          "text": "Ta'n red v'er ny cheannagh er ny hoilshaghey ayns y stock tra t'eh er ny gheddyn."
+        }
+      ],
+      "audience": "Bunnyn ceannagh ta ry-chlashtyn lesh ymmodee soilshaghey as ta feme oc er traceability."
+    },
+    "salesman": {
+      "kicker": "App phone",
+      "card": "Application mobile son squad y vee.",
+      "features": [
+        "Riaghlagh y chlient",
+        "Goaill ordrey",
+        "Catalog ny produityn",
+        "Oik offline;"
+      ],
+      "lead": "Ta'n lught-reill ymmyrkey ordreeyn er y raad, lesh signal ny gyn signal.",
+      "about": "FullVendor Sales Man t'eh cur do portfolio, catalog as ordrey y ghoaill er phone y ven-vendee. As mannagh vel internet, t'eh goll er y obbyr as t'eh synchronize tra ta'n signal ry-heet. Ta'n ordrey cheet ready dy h-earroo as dy livrey.",
+      "benefits": [
+        {
+          "title": "Purgey ayns poose",
+          "text": "Ta'n ven-vendee fakin clientyn, cummallyn as niartyn ta ry-gheddyn."
+        },
+        {
+          "title": "Order ec y chur-my-ner",
+          "text": "Take y ordrey lesh priceyn as stock ry-hoi."
+        },
+        {
+          "title": "Catalog er-y-fa shen",
+          "text": "Productyn, presentations as priceyn gyn sean PDF."
+        },
+        {
+          "title": "Real offline",
+          "text": "Obey gyn cowraghyn as synchronize ny yei."
+        }
+      ],
+      "audience": "Supervisoryn as field salespeople ayns sgaoilley as mass-ymmyd."
+    },
+    "warehouse": {
+      "kicker": "App phone",
+      "card": "Application mobile son stashoon.",
+      "features": [
+        "Gymmyrkey as cur magh",
+        "Picking as package",
+        "Riaghlagh stoo",
+        "Leigh barcode"
+      ],
+      "lead": "Gymmyrkey, picking as scarrey rish y telefoon as y barcode.",
+      "about": "FullVendor Warehouse stiurey yn warehouse ayns y ghraih, y picking, y phacking as y scarrey. Ta coadanyn leshtal ymmyrkey mraane as cha nel inventory er ny choyrt stiagh er-dy-henney agh ec jerrey y mhee.",
+      "benefits": [
+        {
+          "title": "Reesht noi ordrey",
+          "text": "Ta’n red ta goll stiagh er ny choardail rish y cheet."
+        },
+        {
+          "title": "Picking target",
+          "text": "Ta'n thie-lhong jannoo rish y ordrey as t'eh cadjin gagh red."
+        },
+        {
+          "title": "Barcoadyn",
+          "text": "Ny s'leaie erreeish y produit, y batch ny y mhean."
+        },
+        {
+          "title": "Stock ymmyrchagh",
+          "text": "Ta gagh gluaise ymmyrkey yn inventory 'sy platform."
+        }
+      ],
+      "audience": "Reeaghyn y stashoon as lught-thie y lhong ta ry-hoi ymmyrkey ordreeyn lesh listeys cloit."
+    },
+    "finance": {
+      "kicker": "App phone",
+      "card": "Riaghlagh argidoil veih dty phone.",
+      "features": [
+        "Cuntyssyn ry-gheddyn as ry-paigh",
+        "Stayd y chlient",
+        "Paidaghyn as co-choardail",
+        "Rapportyn airgey"
+      ],
+      "lead": "Cuntyssyn ry-gheddyn, paidaghyn as stayd y chustooir, veih dty phone.",
+      "about": "FullVendor Finance sheignaghey y cho-chruinnaghey er y phone: cre ta gagh client dy chosney, cre ta'n chompanyn er-gerrey dy chosney as kys ta'n co-chosney cheet. T’eh cleaynit dy chosney argid rish y veeit as dy yeeaghyn er y cash register gyn fosley y board.",
+      "benefits": [
+        {
+          "title": "Collection ec y chur-my-ner",
+          "text": "Ta'n fer-vendee fys echey my ta'n customer er-y-fa shen ry-hoi ry-hoi."
+        },
+        {
+          "title": "Gymmyrkey as paidjal",
+          "text": "Ta'n daa taobh jeh'n box ayns yr un app."
+        },
+        {
+          "title": "Paidaghyn as co-choardail",
+          "text": "Ta’d cliaghtey credits as cur-my-ner cre’n red ta feme dy ve crossagh."
+        },
+        {
+          "title": "Rapportyn ayns laue",
+          "text": "Collection as cash indicators gyn feiyral son cloie."
+        }
+      ],
+      "audience": "Manageryn, collectoryn as veearaghyn ta feme er stayd y client 'sy traa t'ayn."
+    }
+  },
+  "why": {
+    "eyebrow": "Cre'n-fa FullVendor",
+    "title": "Boost dty ghleashtan\nlesh toshiaghtyn firrinagh",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Ta companies credjal ayn"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Cleayshyn glan"
+      },
+      {
+        "value": "+10",
+        "suffix": "bleeantyn",
+        "label": "Ayns evolushoon kinjagh"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ta cloud ry-gheddyn"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Cre'n aght t'eh obbraghey",
+    "title": "Veih'n vee-chraueeaght gys y cho-chruinnaghey, fegooish caghlaa systemyn",
+    "text": "Ta gagh produit co-roshtyn rish lught-thie, stock, ordreeyn as paidaghyn. Ta’n red ta ry-yannoo er y raad ny ayns y stashoon ry-akin ayns y oiragh dy kiart.",
+    "steps": {
+      "sell": {
+        "title": "T'ou jannoo ymmyd jeh",
+        "text": "Ta'n ordrey er ny choyrt stiagh trooid y laghyn-lhee ny trooid Sales Man, eddyragh gyn signal."
+      },
+      "pick": {
+        "title": "Aarloo",
+        "text": "Warehouse y gheddyn, y scarrey as y chur magh lesh barcode."
+      },
+      "deliver": {
+        "title": "Livrey",
+        "text": "Logistics assign y raad as lesh y livrey."
+      },
+      "collect": {
+        "title": "Cobrayn",
+        "text": "Finance as ERP cloie y cho-chruinnaghey, ny receipts as ny lhooby."
+      }
+    }
+  },
+  "band": {
+    "title": "Ready dy akin eh lesh [[dty obbraghey]]?",
+    "text": "Ta shin soilshaghey dhyt an ecosystem lesh cass rannagh cosoylagh rish y rannagh ayd."
+  },
+  "footer": {
+    "blurb": "Platform web as mobyl son sgapail, veeal, logistics, ceannagh, inventory as airhey.",
+    "products": "Productyn",
+    "company": "Co-earrey",
+    "legal": "Leighagh",
+    "privacy": "Cleaght",
+    "terms": "Conaantyn",
+    "rights": "Ooilley ny cooishyn freilt."
+  },
+  "solutions": {
+    "eyebrow": "Fuassaghey",
+    "title": "Gagh ard, ceaut rish y [[same obbraghey]]",
+    "intro": "Choose liorish y pharadoosh ta shiu dy ghra. Ayns y dash, ta'n produit co-roshtyn yr un fys.",
+    "items": {
+      "commercial": {
+        "title": "Riaghlagh marchanagh",
+        "text": "Orderyn, priceyn, customeryn as inventory son sgapail laa-dy-laa."
+      },
+      "field": {
+        "title": "lught-reill;",
+        "text": "Vendors t'er n'yannoo ordreeyn er y raad, er-line ny er-line."
+      },
+      "warehouse": {
+        "title": "Stoyrail",
+        "text": "Reesht, picking, dispatch as stock ta ry-chlashtyn."
+      },
+      "logistics": {
+        "title": "Loggistik as livrey",
+        "text": "Routeyn, driveryn as stayd gagh livrey."
+      },
+      "purchasing": {
+        "title": "Ceannagh as soilshaghey",
+        "text": "Quotes, ordreeyn as portal son quoi erbee ta cur stiagh."
+      },
+      "finance": {
+        "title": "Argid as cuntabyllys",
+        "text": "Colleishyn, paidaghyn, billey electronagh as cuntabyllys."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Gymmyrkyn",
+    "title": "Ta'n obbyr jeant son adsyn ta [[mow produit]]",
+    "intro": "FullVendor v'eh ruggit ayns sgaoilley as t'eh goll marish compagnyn dy cheannagh, dy staghey, dy vreearrey as dy livrey.",
+    "items": {
+      "wholesale": {
+        "title": "Smooinaght as mraane",
+        "text": "Lioaryn priceyn, portfolio, sgapail as coardail ayns un chorree."
+      },
+      "retail": {
+        "title": "Mynchreck",
+        "text": "Store as stashoon lesh stock ceaut, veeal as ath-liooar."
+      },
+      "food": {
+        "title": "Bieys as deoir",
+        "text": "Routeyn frequent as warehouse nagh vod staydys."
+      },
+      "pharma": {
+        "title": "Pharmacy as cooney pearsanta",
+        "text": "Gymmyrkey, picking as reill inventory lesh traceability."
+      },
+      "hardware": {
+        "title": "Hardware as obbyr",
+        "text": "Gooid ymmyd, ymmyd as livrey gys obbyr ny store."
+      },
+      "fmcg": {
+        "title": "ymmyd massagh",
+        "text": "Force y veeal street as replacement turnover ard."
+      },
+      "manufacturing": {
+        "title": "Fabricagh",
+        "text": "Ceannagh, stashoon as inventory co-cheangailt rish rianaght."
+      },
+      "lastmile": {
+        "title": "Livrey as y mile s'jerree",
+        "text": "Routeyn, driveryn as stayd gagh livrey."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Cooid",
+    "title": "Smooinaghtyn soilshey dy [[order y obbraghey]]",
+    "intro": "Guideyn gearr son stiureyderyn rannagh ta gobbraghey dy ghra c'raad t'ad dy staydys.",
+    "items": {
+      "unify": {
+        "title": "Marrey dy cho-unnaneaghey sgapail ayns un system",
+        "summary": "Cooish y chur cooidjagh ec y toshiaght tra ta'n veeal, y warehouse as ny collectionyn beaghey ayns fileyn difrinagh.",
+        "points": [
+          "Toshiaght lesh customeryn, produit as priceyn: she ad y mraane-oayllee ta ooilley ny h-oik y ymmyrkey.",
+          "Ceaghl y ordrey rish y stock roish as cur rish ymmyd jeh.",
+          "Ta'n towse jeh'n lioar simply: ordreeyn cooilleenit gyn red erbee y yannoo jeh'n fo-form."
+        ]
+      },
+      "offline": {
+        "title": "Ta'n luchd-vendee obbraghey offline",
+        "summary": "Cre'n red ta feme er app ordrey dy vod y ven-vendee staydys er y fa dy vel y signal.",
+        "points": [
+          "Ta'n catalog as y wallet dy ve er y phone, cha nee 'sy cloud ny lomarcan.",
+          "Ta'n ordrey er ny choyrt stiagh er y ghraih as t'eh er ny h-arrey tra ta'n red ry-cheilley.",
+          "Nush synchronize, t'an ordrey er-dy-henney goll stiagh 'sy warehouse."
+        ]
+      },
+      "warehouse": {
+        "title": "Tastey lesh barcode, gyn paper",
+        "summary": "Marrey t'ou goll veih'n lioar cloit gys picking cadjin er y phone.",
+        "points": [
+          "Receive noi y ordrey cheannagh, cha nee noi y cooinaghtyn.",
+          "Confirm gagh red tra t'ou uss scarrey. Ta'n bug geddyn stiagh 'sy cholught.",
+          "Ta'n dispatch ymmyrkey yn stock ta'n ven-vendee fakin."
+        ]
+      },
+      "finance": {
+        "title": "Collection co-cheangailt rish y vee-chraueeaght",
+        "summary": "Cre'n-fa dy lhisagh y ven-vendee fakin y fiasco jeh'n customer roish my t'eh goaill ordrey elley.",
+        "points": [
+          "Ta’n veeal y traa smoo mie dy chosney, my ta’n fiascoil feeu.",
+          "Ta'n vee-chraueeaght as y vee-chraueeaght dy yeeaghyn er yr un customer.",
+          "Ta rapport laa as laa er-dy-henney ny s’cosoylagh na cloie er-dy-henney."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Priceyn",
+    "title": "Ecosystem ta [[faghey lhiat]]",
+    "intro": "Cha nel shin foillshaghey red generic: ta'n costas ry-akin rish ny modulyn, ny cleayshyn as y volume. Ta shin soilshaghey dhyt y platform as cur stiagh proposal rish dty obbraghey.",
+    "note": "Ta'n demo gyn costas as cha nel eh feme er contract.",
+    "recommended": "Chymnit",
+    "faq_title": "Ceashtyn dy mennick",
+    "plans": {
+      "essential": {
+        "name": "Breeoil",
+        "desc": "Dy hroggal seose stiurey as rannaghey commercialagh er un platform.",
+        "features": [
+          "FullVendor bun-chleaysh",
+          "Gymmyrkey, ceannagh as inventory",
+          "Clientaghyn, soilshagheyderyn as tuarastyl",
+          "Cleayshyn ussaghyn oiragh",
+          "Tastey toshiaght"
+        ],
+        "cta": "Irree magh Demo"
+      },
+      "professional": {
+        "name": "Gerrymoil",
+        "desc": "Son teamyn ta glenney er y raad as ymmyrkey ordreeyn ayns y warehouse.",
+        "features": [
+          "Gagh nhee rieau",
+          "FullVendor Sales Man",
+          "FullVendor Warehouse",
+          "Oik offline as coadanyn bar",
+          "Tushteyderyn field as warehouse"
+        ],
+        "cta": "Irree magh Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Son buill ta feme er logistics, ceannagh, argid as compagniyn elley.",
+        "features": [
+          "Ecosystem immeeaght",
+          "Logistics, Vendor Supplier as Finance",
+          "FullVendor ERP as ymmodee-loayrt",
+          "Billing as cuntabyllys electronagh",
+          "Co-chowrey as priority ry-gheddyn"
+        ],
+        "cta": "Labhairt rish ny veearaghyn"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Vel eh ry-cheannagh ooilley ny produityn?",
+        "a": "No. Faggys da FullVendor y toshiaght as apps ny ERP y chur rish tra ta'n obbyr feme er."
+      },
+      "offline": {
+        "q": "Ta ny h-applicationyn gobbraghey gyn internet?",
+        "a": "Sales Man as Warehouse t'ad ry-obbraghey gyn signal as synchronize tra t'ad ry-cheilley."
+      },
+      "multi": {
+        "q": "T'eh obbree my ta ny smoo na un chompaney aym?",
+        "a": "Ta. ERP t'eh smooinaghtyn er ymmodee compagnyn as t'eh ry-hoi y ecosystem y choardail rish masteryn eddyr ad."
+      },
+      "demo": {
+        "q": "Cre ta'n demo ayn?",
+        "a": "Tour jeh'n platform lesh cass cosoylagh rish y caslys ayd. Nish costas as nish obbyr."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ta shin soilshaghey dhyt FullVendor lesh [[dty sorch obbraghey]]",
+    "text": "Insh dooin mychione dty chompaney as cre t'ou dy ordrey roish. Cha nel costas erbee ec y demo."
+  },
+  "contact": {
+    "eyebrow": "Cur-lhiat",
+    "title": "Labhairt-yms mychione [[dty obbraghey]]",
+    "text": "As my shegin dhyt demo, proposal ny just dy orientaghey oo hene eddyr ny produittyn, lhig da dty fhiaghtyn as freggyr mayd.",
+    "email": "Postagh;",
+    "phone": "Chellvane",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ennym",
+    "email": "Postagh;",
+    "phone": "Chellvane",
+    "company": "Co-earrey",
+    "country": "Cheer",
+    "team": "Mean y squad",
+    "interest": "Cre ta ymmyd ayd?",
+    "message": "Chaghteraght",
+    "optional": "Reihyssagh",
+    "choose": "Reih",
+    "interest_all": "Yn ecosystem ooilley",
+    "ph_name": "Dt'ennym;",
+    "ph_email": "uss@chompaney.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Dty chompanyn",
+    "ph_country": "Cheer",
+    "ph_message": "Insh dooin cre'n aght t'ou obbraghey y laa shoh",
+    "privacy_before": "Ghow mee ymmyd jeh my data cordail rish y",
+    "privacy_after": ".",
+    "submit": "Cur irriney magh",
+    "sent_title": "Ghow shin dty irriney",
+    "sent_text": "Gura mie ayd. Screeu yn squad ymmyrchagh dhyt dy cho-ordrey y demo ny freggyrt dty cheesh.",
+    "error_required": "Cloie yn raad shoh.",
+    "error_email": "Cur stiagh email ymmyrchagh.",
+    "error_phone": "Check yn phone.",
+    "error_privacy": "Ta feme ain er dty choyrle dy uss coontey y ymmyrkey.",
+    "error_csrf": "Ta'n seihll er jeet gys jerrey. Cur yn foill stiagh reesht.",
+    "error_save": "Cha row shin able dy scansh y yeearree. Feayrish reesht.",
+    "error_generic": "Review ny fieldyn markit.",
+    "error_rate": "Feaysaghey red beggan roish cur stiagh irriney elley.",
+    "team_options": {
+      "1-10": "1 gys 10 dooinney",
+      "11-50": "11 dy 50 dooinney",
+      "51-200": "51 dy 200 dooinney",
+      "201-500": "201 dy 500 dooinney",
+      "500+": "Ny smoo na 500 dooinney"
+    }
+  },
+  "video": {
+    "title": "FullVendor ayns un minnid",
+    "prev": "Shenn",
+    "next": "Mooinjer eiyrtyssee",
+    "slides": [
+      {
+        "title": "Un ecosystem",
+        "text": "Gymmyrkey, stashoon, livrey, ceannagh as airhey share luchd-cliaghtey, stock as ordreeyn."
+      },
+      {
+        "title": "Web as mobile cooidjagh",
+        "text": "Ta'n offish obbraghey er y platform. Yn straid as y stashoon, ayns ny apps, eddyr y signal."
+      },
+      {
+        "title": "Jeant dy sgapail",
+        "text": "Veih ordrey gys paidjal, gyn cur fys veih un file gys file elley."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Clasht son produityn, freggyrtyn, glannyn...",
+    "lang_filter": "Çhengey y vriwnys",
+    "intro": "Clasht rish ny produittyn, fud-halloonyn, glannyn as goaill-rish.",
+    "empty": "Cha row shin er gheddyn towse son “{q}”.",
+    "hint": "Feaysaghey ymmyd, stashoon, raaidyn ny colleishyn.",
+    "results": "{n} toshiaghtyn",
+    "button": "Cur-my-ner",
+    "kind_product": "Toarey",
+    "kind_solution": "Sollysyoon",
+    "kind_industry": "Ynrican",
+    "kind_resource": "Resource"
+  },
+  "notfound": {
+    "title": "Cha nel y duillag shoh",
+    "text": "Cha nel y linney ayn ny t'eh er chaghlaa ynnyd."
+  },
+  "common": {
+    "what": "Cre'n red ta freayll",
+    "features": "Cre ta goit stiagh",
+    "benefits": "Cre'n-fa ta shen ymmyrchagh",
+    "for_who": "C'raad t'eh?",
+    "related": "Choud's ta'n ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Reeaghyn y laa shoh",
+      "orders": "Ordynyn",
+      "clients": "Client",
+      "products": "Productyn"
+    },
+    "sidebar": {
+      "dashboard": "Boayrd-dash;",
+      "sales": "Gymmyrkey",
+      "purchases": "Shappal",
+      "inventory": "Stiaghyn",
+      "clients": "Client",
+      "reports": "Rapportyn"
+    },
+    "chart": "Gymmyrkey",
+    "channel": "Smooinaght liorish y chaanal",
+    "channels": [
+      "Stoyrail",
+      "Livrey-ys",
+      "Mooar-marchagh",
+      "Elley"
+    ],
+    "orders": "Orderyn jerrinagh",
+    "col_order": "Oard",
+    "col_client": "Custymeyr",
+    "col_status": "Ashoon",
+    "col_total": "Slane",
+    "status": [
+      "Assaid",
+      "Er y raad",
+      "Cleaysh;"
+    ],
+    "top": "Ny produittyn share",
+    "product": "Toarey",
+    "sales_menu": [
+      "Client",
+      "Ordynyn",
+      "Productyn",
+      "Raaidyn",
+      "Synchronize"
+    ],
+    "warehouse_menu": [
+      "Eaishtaght",
+      "Picking",
+      "Stiaghyn",
+      "Cooilleeney dy",
+      "Synchronize"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Polysee Privacy",
+    "privacy_intro": "Ta'n pholitic shoh mysley cre ta shin jannoo rish ny cooishyn ta shiu er n'eiyrt ayns fo-lioaryn 'sy laghyn shoh.",
+    "privacy": [
+      {
+        "title": "Cre'n data ta shin coardail",
+        "text": "Mannagh gow oo demo ny scrieu dooin, t'ad s'cosoylagh rish y ennym, y chompany, y email, y lhum-telefoon mannagh row oo er n'insh eh, y çheer, y mhean jeh'n skimmee, y produit t'ou uss goaill rish as y theay. Ta shin myrgeddin registreyn y date, y çhengey 'sy duillag as y seihll IP, dy chur cass da 'sy 'naght 'sy 'naght."
+      },
+      {
+        "title": "Cre'n aght ta shin jannoo ymmyd jeu?",
+        "text": "Ta shin usaghey ny cooishyn shoh ny-lomarcan son freggyrt dhyt, co-ordraghey demo as ry-hoiaghey proposal commercialagh. Cha vel shin jannoo ad y vreearrey ny y choyrt ad da liosta jeh treealtyssyn."
+      },
+      {
+        "title": "C'raad t'ad er nyn goyrt as cre'n aght?",
+        "text": "Ta ny h-iarraghyn er nyn goyrt stiagh er serveyr y lhong shoh. Ta shin goaill ad son y traa t’er ny choyrt dy hirveish dhyt as lesh-y-cheilley commercialagh, as ta shin scughey ad tra t’ou uss goaill rish ny tra nagh vel feme orroo ny s’anmey."
+      },
+      {
+        "title": "Dty chreeaghyn",
+        "text": "Faggys oo ymmyd jeh, correction ny sniemmey jeh dty data veih'n foill-chowrey, as cur eh er-ash 'sy theay. Mannagh follaghey y chompanyn email er y laghyn-lhee shoh, t'ou uss ry-scrudey ayn myrgeddin."
+      }
+    ],
+    "terms_title": "Termyn ymmyd",
+    "terms_intro": "Ta ny h-earrooyn shoh ry-gheddyn son uss y FullVendor shoh y chur stiagh.",
+    "terms": [
+      {
+        "title": "Fioghrey marchanagh",
+        "text": "Ta texteyn, sampleyr figyraghyn dashboard as tushtalaghyn cur stiagh y platform. Faggys daue y ghleiyrey tra ta'n produit caghlaa as cha nel ad 'sy 'closed offer'."
+      },
+      {
+        "title": "Cha nel y demo ny chonaant",
+        "text": "As t'eh cur stiagh y fo-form, cha nel eh jannoo obbyr dy cheannagh ny dy reserve price. Ta dagh conaant er ny chowraghey er-lheh, ayns screeuyn, lesh e scansh as e chorree."
+      },
+      {
+        "title": "Yn obbyr 'sy lhan",
+        "text": "Ta'n FullVendor marc, ainmyn ny produit as y t'ayns ny duillagyn shoh jeh'n lught-thie oc. Cha nel ad ry-chopyraghey dy chur magh produit elley."
+      },
+      {
+        "title": "Cleaysh taitnyssagh",
+        "text": "Nagh jean oo ymmyd jeh ny fo-lioaryn dy chur stiagh fys vee-chrauee, spam ny reddyn myr-lagh. Faagym ymmyd jeh rieughid nagh vel correspondaghey rish ymmyd jeh cowrey gnioosagh."
+      }
+    ]
+  }
+}

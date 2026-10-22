@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Valdykite ir plėskite savo verslą",
+    "home_desc": "Viskas viename platforma su žiniatinklio ir mobiliaisiais sprendimais paskirstymui, pardavimui, logistikai, pirkimui, atsargoms ir finansams.",
+    "products_title": "Produktai | FullVendor",
+    "products_desc": "Susipažinkite su ekosistema FullVendor: komercinė platforma, ERP, logistika, tiekėjai ir pardavimas, sandėlių ir finansų programėlės.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Sprendimai | FullVendor",
+    "solutions_desc": "Komercinio valdymo, pardavimų, sandėlių, logistikos, pirkimų ir finansų sprendimai.",
+    "industries_title": "Pramonės | FullVendor",
+    "industries_desc": "FullVendor paskirstymui, mažmeninei prekybai, maistui, vaistinei, techninei įrangai, masiniam vartojimui, gamybai ir paskutinei myliai.",
+    "pricing_title": "Kainos | FullVendor",
+    "pricing_desc": "Esminiai, profesionalūs ir verslo planai. Pasiūlymas sudaromas pagal modulius, vartotojus ir apimtį.",
+    "resources_title": "Ištekliai | FullVendor",
+    "resources_desc": "Trumpi vadovai, kaip suvienodinti platinimą, parduoti neprisijungus, tvarkyti sandėlį ir gauti atlyginimą laiku.",
+    "contact_title": "Susisiekite | FullVendor",
+    "contact_desc": "Parašykite mums ir sužinokite apie FullVendor arba suderinkite pokalbį su pardavimo komanda.",
+    "demo_title": "Prašyti demo | FullVendor",
+    "demo_desc": "Paprašykite FullVendor demonstracinės versijos ir apžiūrėkite platformą naudodami panašią į jūsų operaciją.",
+    "privacy_title": "Privatumas | FullVendor",
+    "terms_title": "Sąlygos | FullVendor",
+    "search_title": "Ieškoti | FullVendor",
+    "notfound_title": "Puslapis nerastas | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pagrindinis puslapis",
+    "products": "Produktai",
+    "solutions": "Sprendimai",
+    "industries": "Pramonės šakos",
+    "pricing": "Kainos",
+    "resources": "Ištekliai",
+    "contact": "Susisiekite",
+    "open_menu": "Atidaryti meniu",
+    "close": "Uždaryti"
+  },
+  "cta": {
+    "demo": "Prašyti Demo",
+    "contact": "Susisiekite su mumis",
+    "video": "Žiūrėti Video",
+    "talk": "Pasikalbėkite su pardavimais",
+    "all_products": "Žiūrėti visus produktus",
+    "home": "Grįžti į pagrindinį puslapį"
+  },
+  "a11y": {
+    "skip": "Pereiti prie turinio",
+    "primary": "Pagrindinė navigacija",
+    "crumbs": "Navigacijos maršrutas",
+    "search": "Ieškokite",
+    "language": "Kalba"
+  },
+  "hero": {
+    "eyebrow": "Viskas vienoje platformoje",
+    "title": "Tvarkyti ir augti\nsavo verslą su\n{{brand}}",
+    "subtitle": "Visa platforma su žiniatinklio ir mobiliaisiais sprendimais, skirtais paskirstymui, pardavimui, logistikai, pirkimui, atsargoms, finansams ir kt.",
+    "pill_ecosystem": "Viskas vienoje ekosistemoje",
+    "pill_cloud": "Debesyje, saugus ir keičiamas",
+    "pill_size": "Visų dydžių įmonėms"
+  },
+  "products_block": {
+    "eyebrow": "Mūsų gaminiai",
+    "title": "[[Visa ekosistema]] kiekvienai jūsų verslo sričiai",
+    "aside": "Integruoti sprendimai, kurie veikia kartu, kad užtikrintų visišką kontrolę, veiklos efektyvumą ir didesnį augimą.",
+    "groups": {
+      "money": "Administravimas ir surinkimas",
+      "flow": "Pirkimai ir pristatymas",
+      "field": "Prekyba ir sandėlis"
+    }
+  },
+  "products_page": {
+    "title": "Septyni produktai, [[viena operacija]]",
+    "text": "Kiekvienas produktas išsprendžia tam tikrą sritį. Kartu jie dalijasi klientais, atsargomis, užsakymais ir mokėjimais."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Pagrindinė komercinio valdymo ir platinimo platforma.",
+      "features": [
+        "Pardavimai ir pirkimai",
+        "Inventorius",
+        "Klientai ir tiekėjai",
+        "Ataskaitos ir kt"
+      ],
+      "lead": "Jūsų komercinės veiklos centras: užsakymai, kainos, atsargos ir klientai vienoje vietoje.",
+      "about": "FullVendor pakeičia laisvas platintojo skaičiuokles ir sistemas. Iš čia išeina užsakymai, konsultuojamasi su inventoriumi, pasirūpinama klientų portfeliu ir žiūrima dienos skaičiai. Likusi ekosistemos dalis jungiasi prie šios bazės.",
+      "benefits": [
+        {
+          "title": "Vienas duomenų meistras",
+          "text": "Klientai, produktai ir kainos dalijamasi su pardavimais, sandėliu ir finansais."
+        },
+        {
+          "title": "Aiškus kasdienis darbas",
+          "text": "Užsakymai, pirkimai ir atsargos nustoja gyventi skirtinguose failuose."
+        },
+        {
+          "title": "Ataskaitos spręsti",
+          "text": "Pardavimai, marža ir laukimas matomi nesudėjus lentelės rankomis."
+        },
+        {
+          "title": "Paruošta augti",
+          "text": "Logistikos, pardavimo pajėgų ar ERP sumos, kai to reikalauja operacija."
+        }
+      ],
+      "audience": "Komercinės ir platinimo komandos, kurios šiandien koordinuoja verslą tarp kelių sistemų."
+    },
+    "erp": {
+      "kicker": "Administravimas",
+      "card": "Pilnas administracinis ir finansinis valdymas.",
+      "features": [
+        "Apskaita",
+        "Elektroninis atsiskaitymas",
+        "Darbo lapai",
+        "Ilgalaikis turtas",
+        "Daugiakompanija"
+      ],
+      "lead": "Administravimas ir finansai, suderinti su tuo, kas realiai parduodama ir pristatoma.",
+      "about": "FullVendor ERP apima apskaitą, elektroninį sąskaitų faktūrų išrašymą, darbo užmokestį, ilgalaikį turtą ir kelių įmonių veiklą. Ji paima komercinę operaciją ir paverčia ją įrašais, kvitais ir ataskaitomis, kurias gali naudoti finansinė sritis.",
+      "benefits": [
+        {
+          "title": "Prijungta apskaita",
+          "text": "Kas vyksta pardavimų ir pirkimų apskaitoje."
+        },
+        {
+          "title": "Elektroniniai kvitai",
+          "text": "Išrašote ir valdote sąskaitas iš tos pačios ekosistemos."
+        },
+        {
+          "title": "Įvairios įmonės",
+          "text": "Daugiakompanija grupėms, kurios veikia daugiau nei vienu įmonės pavadinimu."
+        },
+        {
+          "title": "Darbo užmokestis ir turtas",
+          "text": "Darbo užmokestis ir ilgalaikis turtas kartu su likusia vadovybe."
+        }
+      ],
+      "audience": "Administracinės ir finansinės sritys, kurios nori uždaryti numerius su realia veikla."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Jūsų logistikos operacijos kontrolė ir stebėjimas.",
+      "features": [
+        "Maršrutai ir pristatymai",
+        "Sekimas realiuoju laiku",
+        "Vairuotojo paskyrimas",
+        "Maršruto optimizavimas"
+      ],
+      "lead": "Nuo užsakymo iki pristatymo: maršrutai, vairuotojai ir stebėjimas realiuoju laiku.",
+      "about": "FullVendor Logistics organizuoja platinimą. Kuriate maršrutus, priskiriate vairuotojus ir matote, kur vyksta kiekvienas pristatymas. Eismo komanda sustoja priklausomai nuo skambučių, kad išsiaiškintų, ar užsakymas išsiųstas.",
+      "benefits": [
+        {
+          "title": "Dienos maršrutai",
+          "text": "Pristatymai užsakyti pagal zonas, laiko langą ir talpą."
+        },
+        {
+          "title": "Paskirtas vairuotojas",
+          "text": "Kiekvienas maršrutas turi atsakingą asmenį ir aiškią seką."
+        },
+        {
+          "title": "Tolesni veiksmai",
+          "text": "Jūs žinote, kas yra pristatyta, pakeliui ar sustojusi."
+        },
+        {
+          "title": "Mažiau kilometrų",
+          "text": "Maršruto optimizavimas sumažina pristatymo laiką ir išlaidas."
+        }
+      ],
+      "audience": "Platinimo operacijos su nuosavu parku arba trečiosiomis šalimis."
+    },
+    "supplier": {
+      "kicker": "Apsipirkimas",
+      "card": "Tiekėjų ir pirkimų valdymo portalas.",
+      "features": [
+        "Pirkimo užsakymai",
+        "Citatos",
+        "Tiekėjų valdymas",
+        "Integracija su inventoriumi"
+      ],
+      "lead": "Jūsų tiekėjai siūlo, gauna užsakymus ir papildo atsargas be laisvų el. laiškų.",
+      "about": "Vendor Supplier atidaro pirkimo ir tiekėjų portalą, skirtą dirbti su tais pačiais užsakymais. Kainos, pirkimo užsakymai ir kvitas yra susieti su FullVendor inventoriumi.",
+      "benefits": [
+        {
+          "title": "Užsakymai kanale",
+          "text": "Tiekėjas mato, ką pristatyti, be el. pašto grandinės."
+        },
+        {
+          "title": "Palyginamos citatos",
+          "text": "Jūs klausiate kainų ir pasirenkate atsižvelgdami į istoriją."
+        },
+        {
+          "title": "Tiekėjo meistras",
+          "text": "Sąlygos, kontaktai ir laukimas viename įraše."
+        },
+        {
+          "title": "Įveskite inventorių",
+          "text": "Tai, kas buvo nupirkta, atsispindi sandėlyje, kai ją gauna."
+        }
+      ],
+      "audience": "Pirkimo komandos, kurios pasipildo keliais tiekėjais ir kurioms reikalingas atsekamumas."
+    },
+    "salesman": {
+      "kicker": "Mobilioji programėlė",
+      "card": "Mobilioji aplikacija pardavimų komandai.",
+      "features": [
+        "Klientų valdymas",
+        "Užsakymų priėmimas",
+        "Produktų katalogas",
+        "Darbas neprisijungus"
+      ],
+      "lead": "Pardavimų darbuotojai priima užsakymus gatvėje, su signalu arba be jo.",
+      "about": "FullVendor Sales Man įkelia jūsų portfelį, katalogą ir užsakymų priėmimą į pardavėjo telefoną. Jei nėra interneto, darbas tęsiamas ir grįžus signalui sinchronizuojasi. Užsakymas pristatomas paruoštas paruošti ir pristatyti.",
+      "benefits": [
+        {
+          "title": "Piniginė kišenėje",
+          "text": "Pardavėjas mato klientus, sąlygas ir laukiančias prekes."
+        },
+        {
+          "title": "Užsisakykite apsilankymo metu",
+          "text": "Priimkite užsakymą su esamomis kainomis ir atsargomis."
+        },
+        {
+          "title": "Katalogas atnaujintas",
+          "text": "Produktai, pristatymai ir kainos be seno PDF."
+        },
+        {
+          "title": "Tikra neprisijungus",
+          "text": "Dirbkite be aprėpties ir sinchronizuokite vėliau."
+        }
+      ],
+      "audience": "Prižiūrėtojai ir lauko pardavėjai paskirstymo ir masinio vartojimo srityje."
+    },
+    "warehouse": {
+      "kicker": "Mobilioji programėlė",
+      "card": "Mobilioji aplikacija sandėliui.",
+      "features": [
+        "Priėmimas ir išsiuntimas",
+        "Išrinkimas ir pakavimas",
+        "Atsargų kontrolė",
+        "Brūkšninio kodo skaitymas"
+      ],
+      "lead": "Priėmimas, atsiėmimas ir išsiuntimas su telefonu ir brūkšniniu kodu.",
+      "about": "FullVendor Warehouse vadovauja sandėliui priimant, renkant, pakuojant ir išsiunčiant. Kodų skaitymas sumažina klaidų skaičių ir atsargos nebeskaičiuojamos tik mėnesio pabaigoje.",
+      "benefits": [
+        {
+          "title": "Priėmimas prieš užsakymą",
+          "text": "Kas įeina, lyginama su pirkimu."
+        },
+        {
+          "title": "Tikslinis rinkimas",
+          "text": "Laivo savininkas vykdo užsakymą ir patvirtina kiekvieną prekę."
+        },
+        {
+          "title": "Brūkšniniai kodai",
+          "text": "Mažiau gaminio, partijos ar kiekio klaidų."
+        },
+        {
+          "title": "Patikimos atsargos",
+          "text": "Kiekvienas žingsnis atnaujina platformos inventorių."
+        }
+      ],
+      "audience": "Sandėlių vadovai ir laivų savininkai, kurie šiandien ruošia užsakymus su spausdintais sąrašais."
+    },
+    "finance": {
+      "kicker": "Mobilioji programėlė",
+      "card": "Finansų kontrolė iš savo mobiliojo telefono.",
+      "features": [
+        "Gautinos ir mokėtinos sumos",
+        "Kliento būsena",
+        "Mokėjimai ir suderinimai",
+        "Finansinės ataskaitos"
+      ],
+      "lead": "Gautinos sumos, mokėjimai ir kliento būsena iš jūsų telefono.",
+      "about": "FullVendor Finance rodo surinkimą mobiliajame telefone: ką kiekvienas klientas skolingas, ką įmonė ketina mokėti ir kaip mokėjimai atliekami. Jis naudojamas renkant pinigus vizito metu ir žiūrint į kasą neatidarius darbo stalo.",
+      "benefits": [
+        {
+          "title": "Rinkimas vizito metu",
+          "text": "Pardavėjas prieš parduodamas žino, ar klientas turi naujausią informaciją."
+        },
+        {
+          "title": "Gautini ir mokėtini",
+          "text": "Abi dėžutės pusės toje pačioje programėlėje."
+        },
+        {
+          "title": "Mokėjimai ir suderinimai",
+          "text": "Užregistruoji kreditus ir matai, ką reikia kirsti."
+        },
+        {
+          "title": "Ataskaitos po ranka",
+          "text": "Inkaso ir grynųjų pinigų rodikliai nelaukiant uždarymo."
+        }
+      ],
+      "audience": "Vadybininkai, kolekcininkai ir pardavėjai, kuriems šiuo metu reikalinga kliento situacija."
+    }
+  },
+  "why": {
+    "eyebrow": "Kodėl FullVendor",
+    "title": "Padidinkite savo verslą\nsu tikrais rezultatais",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Įmonės mumis pasitiki"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktyvūs vartotojai"
+      },
+      {
+        "value": "+10",
+        "suffix": "metų",
+        "label": "Nuolatinėje evoliucijoje"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Debesų prieinamumas"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kaip tai veikia",
+    "title": "Nuo pardavimo iki surinkimo, nekeičiant sistemų",
+    "text": "Kiekvienas produktas dalijasi klientais, atsargomis, užsakymais ir mokėjimais. Tai, kas vyksta gatvėje ar sandėlyje, akimirksniu pasirodo biure.",
+    "steps": {
+      "sell": {
+        "title": "Jūs parduodate",
+        "text": "Užsakymas įvedamas per svetainę arba per Sales Man, net ir be signalo."
+      },
+      "pick": {
+        "title": "Paruošta",
+        "text": "Warehouse priima, atskiria ir išsiunčia su brūkšniniu kodu."
+      },
+      "deliver": {
+        "title": "Pristatymai",
+        "text": "Logistics paskiria maršrutą ir seka pristatymą."
+      },
+      "collect": {
+        "title": "Kobros",
+        "text": "Finance ir ERP uždaro kolekciją, kvitus ir numerius."
+      }
+    }
+  },
+  "band": {
+    "title": "Pasiruošę tai pamatyti su [[jūsų operacija]]?",
+    "text": "Mes parodome jums ekosistemą su panašiu paskirstymo atveju kaip jūsų."
+  },
+  "footer": {
+    "blurb": "Žiniatinklio ir mobilioji platforma platinimui, pardavimui, logistikai, pirkimui, atsargoms ir finansams.",
+    "products": "Produktai",
+    "company": "Įmonė",
+    "legal": "Teisinė",
+    "privacy": "Privatumas",
+    "terms": "Sąlygos",
+    "rights": "Visos teisės saugomos."
+  },
+  "solutions": {
+    "eyebrow": "Sprendimai",
+    "title": "Kiekviena sritis, prijungta prie [[ta pati operacija]]",
+    "intro": "Pasirinkite pagal problemą, kurią norite išspręsti. Už tai produktai dalijasi ta pačia informacija.",
+    "items": {
+      "commercial": {
+        "title": "Komercinis valdymas",
+        "text": "Užsakymai, kainos, klientai ir atsargos kasdieniam paskirstymui."
+      },
+      "field": {
+        "title": "pardavimų pajėgos",
+        "text": "Pardavėjai, priimantys užsakymus gatvėje, internetu arba neprisijungę."
+      },
+      "warehouse": {
+        "title": "Parduotuvė",
+        "text": "Priėmimas, paėmimas, išsiuntimas ir atsargos, kuriomis galima pasitikėti."
+      },
+      "logistics": {
+        "title": "Logistika ir pristatymas",
+        "text": "Maršrutai, vairuotojai ir kiekvieno pristatymo būsena."
+      },
+      "purchasing": {
+        "title": "Pirkimas ir tiekėjai",
+        "text": "Citatos, užsakymai ir portalas tiems, kurie jums tiekia."
+      },
+      "finance": {
+        "title": "Finansai ir apskaita",
+        "text": "Inkasai, mokėjimai, elektroninis atsiskaitymas ir apskaita."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Pramonės šakos",
+    "title": "Sukurta tiems, kurie [[perkelia gaminį]]",
+    "intro": "FullVendor gimė platinimo srityje ir lydi įmones, kurios perka, sandėliuoja, parduoda ir pristato.",
+    "items": {
+      "wholesale": {
+        "title": "Platinimas ir didmeninė prekyba",
+        "text": "Kainoraščiai, portfelis, platinimas ir surinkimas vienoje grandinėje."
+      },
+      "retail": {
+        "title": "Mažmeninė prekyba",
+        "text": "Parduotuvė ir sandėlis su prijungtomis atsargomis, pardavimu ir papildymu."
+      },
+      "food": {
+        "title": "Maistas ir gėrimai",
+        "text": "Dažni maršrutai ir sandėlis, kuris negali sustoti."
+      },
+      "pharma": {
+        "title": "Vaistinė ir asmens priežiūra",
+        "text": "Priėmimas, paėmimas ir atsargų kontrolė su atsekamumu."
+      },
+      "hardware": {
+        "title": "Techninė įranga ir konstrukcija",
+        "text": "Daug nuorodų, tiekėjų ir pristatymų į darbą ar parduotuvę."
+      },
+      "fmcg": {
+        "title": "Masinis vartojimas",
+        "text": "Gatvės pardavimų pajėgos ir didelės apyvartos pakeitimas."
+      },
+      "manufacturing": {
+        "title": "Gamyba",
+        "text": "Pirkimas, sandėlis ir inventorius suderintas su administravimu."
+      },
+      "lastmile": {
+        "title": "Pristatymas ir paskutinė mylia",
+        "text": "Maršrutai, vairuotojai ir kiekvieno pristatymo būsena."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ištekliai",
+    "title": "Aiškios idėjos [[užsakyti operaciją]]",
+    "intro": "Trumpi vadovai platinimo vadybininkams, kurie nuspręs, kurios sistemos laikytis.",
+    "items": {
+      "unify": {
+        "title": "Kaip suvienyti paskirstymą į vieną sistemą",
+        "summary": "Ką pirmiausia sudėti, kai pardavimai, sandėlis ir kolekcijos yra skirtinguose failuose.",
+        "points": [
+          "Pradėkite nuo klientų, produktų ir kainų: jie yra mokytojas, kuriuo naudojasi visi.",
+          "Prieš pridėdami daugiau programų, susiekite užsakymą su atsargomis.",
+          "Jis matuoja paprastą skaičių: užsakymai įvykdyti neperdarius formos."
+        ]
+      },
+      "offline": {
+        "title": "Pardavimų darbuotojai dirba neprisijungę",
+        "summary": "Ko reikalauti iš užsakymo programėlės, kad pardavėjas nesustotų dėl signalo.",
+        "points": [
+          "Katalogas ir piniginė turi būti telefone, o ne tik debesyje.",
+          "Užsakymas išsaugomas įrenginyje ir įkeliamas, kai tinklas grįžta.",
+          "Sinchronizuojant užsakymas jau patenka į sandėlį."
+        ]
+      },
+      "warehouse": {
+        "title": "Sandėlis su brūkšniniu kodu, be popieriaus",
+        "summary": "Kaip pereiti nuo atspausdinto sąrašo iki patvirtinto paėmimo telefonu.",
+        "points": [
+          "Gaukite prieš pirkimo užsakymą, o ne prieš atmintį.",
+          "Atskirdami patvirtinkite kiekvieną elementą. Klaida įsirėžia į koridorių.",
+          "Siuntimas atnaujina atsargas, kurias mato pardavėjas."
+        ]
+      },
+      "finance": {
+        "title": "Kolekcija suderinta su pardavimu",
+        "summary": "Kodėl pardavėjas turėtų pamatyti kliento skolą prieš priimdamas kitą užsakymą.",
+        "points": [
+          "Apsilankymas – geriausias laikas atsiimti, jei skola matosi.",
+          "Pardavimas ir finansai turi žiūrėti į tą patį klientą.",
+          "Kasdien pavėluota ataskaita yra verta daugiau nei vėlyvas uždarymas."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Kainos",
+    "title": "Ekosistema, kuri [[auga kartu su jumis]]",
+    "intro": "Bendro tarifo neskelbiame: kaina priklauso nuo modulių, vartotojų ir apimties. Mes parodome jums platformą ir pateikiame pasiūlymą su jūsų veikla.",
+    "note": "Demonstracinė versija nekainuoja ir jai nereikia sutarties.",
+    "recommended": "Rekomenduojama",
+    "faq_title": "Dažnai užduodami klausimai",
+    "plans": {
+      "essential": {
+        "name": "Esminiai",
+        "desc": "Organizuoti komercinį valdymą ir platinimą vienoje platformoje.",
+        "features": [
+          "FullVendor žiniatinklio platforma",
+          "Pardavimas, pirkimas ir inventorius",
+          "Klientai, tiekėjai ir ataskaitos",
+          "Biuro įrangos vartotojai",
+          "Paleidimo palaikymas"
+        ],
+        "cta": "Prašyti Demo"
+      },
+      "professional": {
+        "name": "Profesionalus",
+        "desc": "Komandoms, kurios parduoda gatvėje ir ruošia užsakymus sandėlyje.",
+        "features": [
+          "Viskas, kas būtina",
+          "Programa FullVendor Sales Man",
+          "Programa FullVendor Warehouse",
+          "Darbas neprisijungus ir brūkšniniai kodai",
+          "Daugiau lauko ir sandėlio vartotojų"
+        ],
+        "cta": "Prašyti Demo"
+      },
+      "corporate": {
+        "name": "Įmonės",
+        "desc": "Grupėms, kurioms reikia logistikos, pirkimo, finansų ir įvairių įmonių.",
+        "features": [
+          "Pilna ekosistema",
+          "Logistics, Vendor Supplier ir Finance",
+          "FullVendor ERP ir daugiabučiai nuomai",
+          "Elektroninis atsiskaitymas ir apskaita",
+          "Akompanimentas ir pirmenybinis prieinamumas"
+        ],
+        "cta": "Pasikalbėkite su pardavimais"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ar turiu pirkti visus produktus?",
+        "a": "Ne. Galite pradėti nuo FullVendor ir pridėti programų arba ERP, kai to reikia operacijai."
+      },
+      "offline": {
+        "q": "Ar programos veikia be interneto?",
+        "a": "Sales Man ir Warehouse toliau veikia be signalo ir sinchronizuojasi prisijungiant iš naujo."
+      },
+      "multi": {
+        "q": "Ar tai veikia, jei turiu daugiau nei vieną įmonę?",
+        "a": "Taip. ERP svarsto kelias įmones ir ekosistema gali dalytis šeimininkais tarp jų."
+      },
+      "demo": {
+        "q": "Kas apima demonstracinę versiją?",
+        "a": "Ekskursija po platformą su panašiu į jūsų dėklu. Jokių išlaidų ir jokių įsipareigojimų."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Rodome FullVendor su [[jūsų operacijos tipas]]",
+    "text": "Pirmiausia papasakokite apie savo įmonę ir ką norite užsisakyti. Demonstracinė versija nieko nekainuoja."
+  },
+  "contact": {
+    "eyebrow": "Susisiekite",
+    "title": "Pakalbėkime apie [[jūsų operaciją]]",
+    "text": "Jei norite demo, pasiūlymo ar tiesiog orientuotis tarp produktų, palikite savo informaciją ir mes atsakysime.",
+    "email": "paštas",
+    "phone": "Telefonas",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Vardas",
+    "email": "paštas",
+    "phone": "Telefonas",
+    "company": "Įmonė",
+    "country": "Šalis",
+    "team": "Komandos dydis",
+    "interest": "Kas jus domina?",
+    "message": "Pranešimas",
+    "optional": "Neprivaloma",
+    "choose": "Pasirinkite",
+    "interest_all": "Visa ekosistema",
+    "ph_name": "tavo vardas",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Jūsų įmonė",
+    "ph_country": "Šalis",
+    "ph_message": "Papasakokite, kaip dirbate šiandien",
+    "privacy_before": "Sutinku, kad mano duomenys būtų naudojami pagal",
+    "privacy_after": ".",
+    "submit": "Siųsti prašymą",
+    "sent_title": "Mes gauname jūsų prašymą",
+    "sent_text": "Ačiū. Pardavimų komanda jums parašys, kad suderintų demonstracinę versiją arba atsakys į jūsų klausimą.",
+    "error_required": "Užpildykite šį lauką.",
+    "error_email": "Įveskite galiojantį el. pašto adresą.",
+    "error_phone": "Patikrinkite telefoną.",
+    "error_privacy": "Mums reikia jūsų sutikimo, kad galėtume naudoti kontaktinius duomenis.",
+    "error_csrf": "Sesija baigėsi. Iš naujo pateikite formą.",
+    "error_save": "Nepavyko išsaugoti užklausos. Bandykite dar kartą.",
+    "error_generic": "Peržiūrėkite pažymėtus laukus.",
+    "error_rate": "Palaukite šiek tiek prieš pateikdami kitą užklausą.",
+    "team_options": {
+      "1-10": "1-10 žmonių",
+      "11-50": "11-50 žmonių",
+      "51-200": "nuo 51 iki 200 žmonių",
+      "201-500": "nuo 201 iki 500 žmonių",
+      "500+": "Daugiau nei 500 žmonių"
+    }
+  },
+  "video": {
+    "title": "FullVendor per vieną minutę",
+    "prev": "Buvęs",
+    "next": "Sekant",
+    "slides": [
+      {
+        "title": "Viena ekosistema",
+        "text": "Pardavimas, sandėliavimas, pristatymas, pirkimas ir finansai dalijasi klientais, atsargomis ir užsakymais."
+      },
+      {
+        "title": "Žiniatinklis ir mobilusis kartu",
+        "text": "Biuras dirba platformoje. Gatvė ir sandėlis, programėlėse, net ir be signalo."
+      },
+      {
+        "title": "Sukurta platinti",
+        "text": "Nuo užsakymo iki apmokėjimo, neperduodant informacijos iš vieno failo į kitą."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Ieškokite produktų, sprendimų, pramonės šakų…",
+    "lang_filter": "Paieškos kalba",
+    "intro": "Ieškokite produktų, sprendimų, pramonės šakų ir išteklių.",
+    "empty": "Neradome rezultatų pagal „{q}“.",
+    "hint": "Išbandykite pardavimus, sandėlį, maršrutus ar kolekcijas.",
+    "results": "{n} rezultatai",
+    "button": "Ieškokite",
+    "kind_product": "Produktas",
+    "kind_solution": "Sprendimas",
+    "kind_industry": "Pramonė",
+    "kind_resource": "Išteklius"
+  },
+  "notfound": {
+    "title": "Šis puslapis nėra",
+    "text": "Nuorodos neegzistuoja arba ji pakeitė vietą."
+  },
+  "common": {
+    "what": "Kas išsprendžia",
+    "features": "Kas įtraukta",
+    "benefits": "Kodėl tai svarbu",
+    "for_who": "Kam jis skirtas?",
+    "related": "Taip pat ir ekosistemoje"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Pardavimai šiandien",
+      "orders": "Užsakymai",
+      "clients": "Klientai",
+      "products": "Produktai"
+    },
+    "sidebar": {
+      "dashboard": "Prietaisų skydelis",
+      "sales": "Pardavimai",
+      "purchases": "Apsipirkimas",
+      "inventory": "Inventorius",
+      "clients": "Klientai",
+      "reports": "Ataskaitos"
+    },
+    "chart": "Pardavimai",
+    "channel": "Paskirstymas kanalais",
+    "channels": [
+      "Parduotuvė",
+      "Paskirstymas",
+      "Didmenininkas",
+      "Kiti"
+    ],
+    "orders": "Naujausi užsakymai",
+    "col_order": "Užsakyti",
+    "col_client": "Klientas",
+    "col_status": "valstybė",
+    "col_total": "Iš viso",
+    "status": [
+      "Pristatyta",
+      "Kelyje",
+      "Auskaras"
+    ],
+    "top": "Geriausiai parduodami produktai",
+    "product": "Produktas",
+    "sales_menu": [
+      "Klientai",
+      "Užsakymai",
+      "Produktai",
+      "Maršrutai",
+      "Sinchronizuoti"
+    ],
+    "warehouse_menu": [
+      "Priėmimas",
+      "Rinkimas",
+      "Inventorius",
+      "Išsiuntimas",
+      "Sinchronizuoti"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privatumo politika",
+    "privacy_intro": "Šioje politikoje paaiškinama, ką darome su duomenimis, kuriuos paliekate šios svetainės formose.",
+    "privacy": [
+      {
+        "title": "Kokius duomenis renkame",
+        "text": "Jei prašote demonstracijos arba rašote mums, išsaugome pavadinimą, įmonę, el. paštą, telefono numerį, jei nurodote, šalį, komandos dydį, dominančią prekę ir žinutę. Taip pat įrašome datą, puslapio kalbą ir IP adresą, kad išvengtume piktnaudžiavimo pateikimo."
+      },
+      {
+        "title": "Kam mes juos naudojame?",
+        "text": "Šiuos duomenis naudojame tik atsakydami jums, koordinuodami demonstracinę versiją ir paruošdami komercinį pasiūlymą. Mes jų neparduodame ir neperduodame trečiųjų šalių sąrašui."
+      },
+      {
+        "title": "Kur jie laikomi ir kiek laiko?",
+        "text": "Užklausos saugomos šios svetainės serveryje. Saugome juos tiek, kiek reikia, kad galėtume jus aptarnauti ir atlikti tolesnius komercinius veiksmus, ir ištriname, kai to prašote arba kai jų nebereikia."
+      },
+      {
+        "title": "Jūsų teisės",
+        "text": "Prašyti prieiti prie savo duomenų, juos pataisyti ar ištrinti galite kontaktų formoje, tai nurodydami žinutėje. Jei įmonė šioje svetainėje paskelbia el. laišką, taip pat galite rašyti ten."
+      }
+    ],
+    "terms_title": "Naudojimo sąlygos",
+    "terms_intro": "Šios sąlygos taikomos naudojant šią FullVendor pateikimo svetainę.",
+    "terms": [
+      {
+        "title": "Komercinė informacija",
+        "text": "Tekstai, pavyzdiniai prietaisų skydelio paveikslai ir aprašymai pristato platformą. Jie gali būti koreguojami pasikeitus prekei ir nėra uždaras pasiūlymas."
+      },
+      {
+        "title": "Demonstracinė versija nėra sutartis",
+        "text": "Formos pateikimas nesukuria prievolės pirkti ar rezervuoti kainą. Bet kokia sutartis sudaroma atskirai, raštu, nurodant jos apimtis ir sąlygas."
+      },
+      {
+        "title": "Svetainės turinys",
+        "text": "FullVendor prekės ženklas, produktų pavadinimai ir šių puslapių turinys priklauso jų savininkams. Jų negalima kopijuoti norint pateikti kitą produktą."
+      },
+      {
+        "title": "Priimtinas naudojimas",
+        "text": "Nenaudokite formų melagingai informacijai, šlamštui ar neteisėtam turiniui pateikti. Galime nepaisyti užklausų, kurios neatitinka tikrojo verslo pokalbio."
+      }
+    ]
+  }
+}

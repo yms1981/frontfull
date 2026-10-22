@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Ṣakoso ati dagba iṣowo rẹ",
+    "home_desc": "Syeed gbogbo-ni-ọkan pẹlu oju opo wẹẹbu ati awọn solusan alagbeka fun pinpin, tita, eekaderi, rira, akojo oja ati inawo.",
+    "products_title": "Awọn ọja | FullVendor",
+    "products_desc": "Gba lati mọ ilolupo FullVendor: Syeed iṣowo, ERP, awọn eekaderi, awọn olupese ati awọn tita, ile itaja ati awọn ohun elo inawo.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Awọn ojutu | FullVendor",
+    "solutions_desc": "Awọn ojutu fun iṣakoso iṣowo, agbara tita, ile itaja, eekaderi, rira ati iṣuna.",
+    "industries_title": "Awọn ile-iṣẹ | FullVendor",
+    "industries_desc": "FullVendor fun pinpin, soobu, ounje, ile elegbogi, hardware, ibi-agbara, ẹrọ ati ki o kẹhin maili.",
+    "pricing_title": "Awọn owo | FullVendor",
+    "pricing_desc": "Pataki, Ọjọgbọn ati Awọn ero Ajọ. Awọn imọran ti wa ni papọ ni ibamu si awọn modulu, awọn olumulo ati iwọn didun.",
+    "resources_title": "Oro | FullVendor",
+    "resources_desc": "Awọn itọsọna kukuru lati ṣọkan pinpin, ta offline, ṣeto ile-itaja ati sanwo ni akoko.",
+    "contact_title": "Olubasọrọ | FullVendor",
+    "contact_desc": "Kọ si wa lati kọ ẹkọ nipa FullVendor tabi ipoidojuko ibaraẹnisọrọ pẹlu ẹgbẹ tita.",
+    "demo_title": "Beere demo | FullVendor",
+    "demo_desc": "Beere demo ti FullVendor ki o rin irin-ajo lori pẹpẹ pẹlu ọran kan ti o jọra si iṣẹ rẹ.",
+    "privacy_title": "Asiri | FullVendor",
+    "terms_title": "Awọn ofin | FullVendor",
+    "search_title": "Wa | FullVendor",
+    "notfound_title": "Oju-iwe ko ri | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Oju-iwe ile",
+    "products": "Awọn ọja",
+    "solutions": "Awọn ojutu",
+    "industries": "Awọn ile-iṣẹ",
+    "pricing": "Awọn idiyele",
+    "resources": "Oro",
+    "contact": "Olubasọrọ",
+    "open_menu": "Ṣii akojọ aṣayan",
+    "close": "Sunmọ"
+  },
+  "cta": {
+    "demo": "Beere Ririnkiri",
+    "contact": "Pe wa",
+    "video": "Wo Fidio",
+    "talk": "Ọrọ lati tita",
+    "all_products": "Wo gbogbo awọn ọja",
+    "home": "Pada si oju-iwe ile"
+  },
+  "a11y": {
+    "skip": "Rekọja si akoonu",
+    "primary": "Lilọ kiri akọkọ",
+    "crumbs": "Ipa ọna lilọ kiri",
+    "search": "Wa fun",
+    "language": "Ede"
+  },
+  "hero": {
+    "eyebrow": "Gbogbo ninu ọkan Syeed",
+    "title": "Ṣakoso ati dagba\nowo rẹ pẹlu\n{{brand}}",
+    "subtitle": "Syeed pipe pẹlu oju opo wẹẹbu ati awọn solusan alagbeka fun pinpin, tita, eekaderi, rira, akojo oja, iṣuna ati diẹ sii.",
+    "pill_ecosystem": "Ohun gbogbo ni kan nikan ilolupo",
+    "pill_cloud": "Ninu awọsanma, ni aabo ati iwọn",
+    "pill_size": "Fun awọn ile-iṣẹ ti gbogbo titobi"
+  },
+  "products_block": {
+    "eyebrow": "Awọn ọja wa",
+    "title": "A [[eto ilolupo]] fun agbegbe kọọkan ti iṣowo rẹ",
+    "aside": "Awọn iṣeduro iṣọpọ ti o ṣiṣẹ papọ lati fun ọ ni iṣakoso lapapọ, ṣiṣe ṣiṣe ati idagbasoke nla.",
+    "groups": {
+      "money": "Isakoso ati gbigba",
+      "flow": "Awọn rira ati ifijiṣẹ",
+      "field": "Tita ati ile ise"
+    }
+  },
+  "products_page": {
+    "title": "Awọn ọja meje, [[iṣẹ kan ṣoṣo]]",
+    "text": "Ọja kọọkan yanju agbegbe kan. Papọ wọn pin awọn alabara, ọja iṣura, awọn ibere ati awọn sisanwo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Syeed akọkọ fun iṣakoso iṣowo ati pinpin.",
+      "features": [
+        "Tita ati rira",
+        "Oja",
+        "Awọn onibara ati awọn olupese",
+        "Iroyin ati siwaju sii"
+      ],
+      "lead": "Aarin ti iṣẹ iṣowo rẹ: awọn aṣẹ, awọn idiyele, ọja iṣura ati awọn alabara ni aaye kan.",
+      "about": "FullVendor rọpo awọn iwe kaakiri alaimuṣinṣin ati awọn ọna ṣiṣe olupin kan. Lati ibi ti awọn aṣẹ ti njade, ọja ti wa ni imọran, a ṣe abojuto portfolio alabara ati pe a wo awọn nọmba ọjọ. Awọn iyokù ti ilolupo naa sopọ si ipilẹ yii.",
+      "benefits": [
+        {
+          "title": "A nikan data titunto si",
+          "text": "Awọn alabara, awọn ọja ati awọn idiyele jẹ pinpin pẹlu awọn tita, ile-itaja ati inawo."
+        },
+        {
+          "title": "Ko iṣẹ ṣiṣe ojoojumọ",
+          "text": "Awọn ibere, awọn rira ati ọja duro gbigbe ni oriṣiriṣi awọn faili."
+        },
+        {
+          "title": "Awọn ijabọ lati pinnu",
+          "text": "Titaja, ala ati isunmọ ni a rii laisi fifi tabili papọ pẹlu ọwọ."
+        },
+        {
+          "title": "Ṣetan lati dagba",
+          "text": "Awọn eekaderi, agbara tita tabi awọn akopọ ERP nigbati iṣẹ naa ba beere lọwọ rẹ."
+        }
+      ],
+      "audience": "Ti iṣowo ati awọn ẹgbẹ pinpin loni ṣe ipoidojuko iṣowo laarin awọn ọna ṣiṣe pupọ."
+    },
+    "erp": {
+      "kicker": "Isakoso",
+      "card": "Iṣeduro iṣakoso pipe ati iṣakoso owo.",
+      "features": [
+        "Iṣiro",
+        "Itanna ìdíyelé",
+        "Awọn iwe iṣẹ",
+        "Awọn ohun-ini ti o wa titi",
+        "Olona-ile-iṣẹ"
+      ],
+      "lead": "Isakoso ati awọn inawo, ni ibamu pẹlu ohun ti o ta ati jiṣẹ.",
+      "about": "FullVendor ERP ni wiwa iṣiro, risiti itanna, awọn isanwo isanwo, awọn ohun-ini ti o wa titi ati ile-iṣẹ pupọ. O gba iṣẹ iṣowo ati yi pada si awọn titẹ sii, awọn owo-owo ati awọn alaye ti agbegbe owo le lo.",
+      "benefits": [
+        {
+          "title": "Iṣiro ti a ti sopọ",
+          "text": "Ohun ti o ṣẹlẹ ni tita ati rira awọn kikọ sii iṣiro."
+        },
+        {
+          "title": "Awọn iwe-aṣẹ itanna",
+          "text": "O fun ati iṣakoso ìdíyelé lati ilolupo ilolupo kanna."
+        },
+        {
+          "title": "Awọn ile-iṣẹ oriṣiriṣi",
+          "text": "Ile-iṣẹ pupọ fun awọn ẹgbẹ ti o ṣiṣẹ labẹ orukọ ile-iṣẹ diẹ sii ju ọkan lọ."
+        },
+        {
+          "title": "Payrolls ati dukia",
+          "text": "Owo sisanwo ati awọn ohun-ini ti o wa titi pẹlu iyokù iṣakoso naa."
+        }
+      ],
+      "audience": "Awọn agbegbe iṣakoso ati owo ti o fẹ lati pa awọn nọmba naa pẹlu iṣẹ ṣiṣe gidi."
+    },
+    "logistics": {
+      "kicker": "Awọn eekaderi",
+      "card": "",
+      "features": [
+        "Awọn ipa ọna ati awọn ifijiṣẹ",
+        "Titele akoko gidi",
+        "Iwakọ iṣẹ iyansilẹ",
+        "Imudara ipa ọna"
+      ],
+      "lead": "",
+      "about": "FullVendor Logistics ṣeto pinpin. O ṣẹda awọn ipa-ọna, yan awakọ ati wo ibiti ifijiṣẹ kọọkan nlọ. Ẹgbẹ ijabọ duro da lori awọn ipe lati wa boya aṣẹ naa ti firanṣẹ.",
+      "benefits": [
+        {
+          "title": "Awọn ipa ọna ti awọn ọjọ",
+          "text": ""
+        },
+        {
+          "title": "Awakọ ti a sọtọ",
+          "text": ""
+        },
+        {
+          "title": "Ran leti",
+          "text": ""
+        },
+        {
+          "title": "Diẹ ibuso",
+          "text": ""
+        }
+      ],
+      "audience": ""
+    },
+    "supplier": {
+      "kicker": "Ohun tio wa",
+      "card": "Portal fun awọn olupese ati iṣakoso rira.",
+      "features": [
+        "Awọn ibere rira",
+        "Avvon",
+        "isakoso olupese",
+        "Integration pẹlu akojo oja"
+      ],
+      "lead": "Awọn agbasọ awọn olupese rẹ, gba awọn aṣẹ ati ṣafikun ọja laisi awọn imeeli alaimuṣinṣin.",
+      "about": "Vendor Supplier ṣii oju-ọna kan fun awọn rira ati awọn olupese lati ṣiṣẹ lori awọn aṣẹ kanna. Awọn agbasọ ọrọ, awọn ibere rira ati iwe-ẹri ti so mọ akojo oja ti FullVendor.",
+      "benefits": [
+        {
+          "title": "Awọn ibere ni ikanni kan",
+          "text": "Olupese naa rii kini lati fi jiṣẹ, laisi pq imeeli kan."
+        },
+        {
+          "title": "Awọn agbasọ afiwera",
+          "text": "O beere fun awọn idiyele ati yan pẹlu itan ni wiwo."
+        },
+        {
+          "title": "Olupese Titunto",
+          "text": "Awọn ipo, awọn olubasọrọ ati ni isunmọtosi ni igbasilẹ kan."
+        },
+        {
+          "title": "Tẹ akojo oja sii",
+          "text": "Ohun ti o ra ni afihan ninu ọja nigbati o ba gba."
+        }
+      ],
+      "audience": "Awọn ẹgbẹ rira ti o kun pẹlu ọpọlọpọ awọn olupese ati nilo wiwa kakiri."
+    },
+    "salesman": {
+      "kicker": "Ohun elo alagbeka",
+      "card": "Mobile elo fun tita egbe.",
+      "features": [
+        "onibara isakoso",
+        "Gbigba aṣẹ",
+        "Katalogi ọja",
+        "Iṣẹ aisinipo"
+      ],
+      "lead": "Agbara tita gba awọn aṣẹ ni opopona, pẹlu tabi laisi ifihan agbara kan.",
+      "about": "FullVendor Sales Man fi portfolio rẹ, katalogi ati aṣẹ mu lori foonu eniti o ta ọja naa. Ti ko ba si intanẹẹti, iṣẹ naa tẹsiwaju ati muṣiṣẹpọ nigbati ifihan ba pada. Awọn ibere de setan lati mura ati fi.",
+      "benefits": [
+        {
+          "title": "Apamọwọ ninu apo",
+          "text": "Olutaja naa rii awọn alabara, awọn ipo ati awọn nkan isunmọ."
+        },
+        {
+          "title": "Paṣẹ ni ibewo",
+          "text": "Mu aṣẹ naa pẹlu awọn idiyele lọwọlọwọ ati ọja iṣura."
+        },
+        {
+          "title": "Katalogi soke lati ọjọ",
+          "text": "Awọn ọja, awọn ifarahan ati awọn idiyele laisi PDF atijọ."
+        },
+        {
+          "title": "Aisinipo gidi",
+          "text": "Ṣiṣẹ laisi agbegbe ati muuṣiṣẹpọ nigbamii."
+        }
+      ],
+      "audience": "Awọn alabojuto ati awọn eniyan ti n ta aaye ni pinpin ati lilo pupọ."
+    },
+    "warehouse": {
+      "kicker": "Ohun elo alagbeka",
+      "card": "Mobile elo fun ile ise.",
+      "features": [
+        "Gbigba ati fifiranṣẹ",
+        "Gbigbe ati iṣakojọpọ",
+        "Iṣakoso akojo oja",
+        "Barcode kika"
+      ],
+      "lead": "Gbigbawọle, yiyan ati fifiranṣẹ pẹlu tẹlifoonu ati koodu iwọle.",
+      "about": "FullVendor Warehouse ṣe itọsọna ile-ipamọ ni gbigba, gbigba, iṣakojọpọ ati fifiranṣẹ. Awọn koodu kika dinku awọn aṣiṣe ati akojo oja ko ni ka nikan ni opin oṣu.",
+      "benefits": [
+        {
+          "title": "Gbigba lodi si ibere",
+          "text": "Ohun ti nwọle ni akawe si rira."
+        },
+        {
+          "title": "Yiyan ìfọkànsí",
+          "text": "Olukọni ọkọ oju omi tẹle aṣẹ ati jẹrisi ohun kọọkan."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Ọja diẹ, ipele tabi awọn aṣiṣe opoiye."
+        },
+        {
+          "title": "Ọja ti o gbẹkẹle",
+          "text": "Gbigbe kọọkan ṣe imudojuiwọn akojo oja Syeed."
+        }
+      ],
+      "audience": "Awọn alakoso ile-ipamọ ati awọn oniwun ọkọ oju omi ti o pese awọn aṣẹ loni pẹlu awọn atokọ ti a tẹjade."
+    },
+    "finance": {
+      "kicker": "Ohun elo alagbeka",
+      "card": "Iṣakoso owo lati alagbeka rẹ.",
+      "features": [
+        "Awọn iroyin gbigba ati sisan",
+        "Onibara ipo",
+        "Owo sisan ati reconciliations",
+        "Awọn ijabọ owo"
+      ],
+      "lead": "Gbigba awọn iroyin, awọn sisanwo ati ipo alabara, lati foonu rẹ.",
+      "about": "FullVendor Finance ṣe afihan ikojọpọ lori alagbeka: kini alabara kọọkan jẹ, kini ile-iṣẹ naa fẹ lati san ati bii awọn sisanwo ṣe wa. O ti wa ni lo lati gba owo nigba awọn ibewo ati lati wo ni owo Forukọsilẹ lai ṣiṣi tabili.",
+      "benefits": [
+        {
+          "title": "Gbigba ni ibewo",
+          "text": "Olutaja naa mọ boya alabara wa titi di oni ṣaaju tita."
+        },
+        {
+          "title": "Gbigba ati sisan",
+          "text": "Awọn ẹgbẹ mejeeji ti apoti ni ohun elo kanna."
+        },
+        {
+          "title": "Owo sisan ati reconciliations",
+          "text": "O forukọsilẹ awọn kirẹditi ati ki o wo ohun ti o nilo lati kọja."
+        },
+        {
+          "title": "Awọn ijabọ ni ọwọ",
+          "text": "Gbigba ati awọn itọkasi owo lai duro fun pipade kan."
+        }
+      ],
+      "audience": "Awọn alakoso, awọn olugba ati awọn oniṣowo ti o nilo ipo onibara ni akoko."
+    }
+  },
+  "why": {
+    "eyebrow": "Kí nìdí FullVendor",
+    "title": "Mu iṣowo rẹ pọ si\npẹlu awọn esi gidi",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Awọn ile-iṣẹ gbẹkẹle wa"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Awọn olumulo ti nṣiṣe lọwọ"
+      },
+      {
+        "value": "+10",
+        "suffix": "odun",
+        "label": "Ni ibakan itankalẹ"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Wiwa awọsanma"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Bawo ni o ṣe n ṣiṣẹ",
+    "title": "Lati tita si gbigba, laisi iyipada awọn eto",
+    "text": "Ọja kọọkan pin awọn alabara, ọja iṣura, awọn ibere ati awọn sisanwo. Ohun ti o ṣẹlẹ ni opopona tabi ni ile-itaja han ni ọfiisi lẹsẹkẹsẹ.",
+    "steps": {
+      "sell": {
+        "title": "O n ta",
+        "text": "Ti tẹ aṣẹ naa sii nipasẹ oju opo wẹẹbu tabi nipasẹ Sales Man, paapaa laisi ifihan agbara."
+      },
+      "pick": {
+        "title": "Ṣetan",
+        "text": "Warehouse gba, yapa ati firanṣẹ pẹlu kooduopo."
+      },
+      "deliver": {
+        "title": "Awọn ifijiṣẹ",
+        "text": "Logistics ṣe ipinnu ipa ọna ati tẹle ifijiṣẹ."
+      },
+      "collect": {
+        "title": "Ejò",
+        "text": "Finance ati ERP pa gbigba, awọn owo-owo ati awọn nọmba naa."
+      }
+    }
+  },
+  "band": {
+    "title": "Ṣetan lati rii pẹlu [[iṣẹ rẹ]]?",
+    "text": "A fihan ọ ni ilolupo eda pẹlu ọran pinpin iru si tirẹ."
+  },
+  "footer": {
+    "blurb": "Oju opo wẹẹbu ati pẹpẹ alagbeka fun pinpin, tita, eekaderi, rira, akojo oja ati inawo.",
+    "products": "Awọn ọja",
+    "company": "Ile-iṣẹ",
+    "legal": "Ofin",
+    "privacy": "Asiri",
+    "terms": "Awọn ofin",
+    "rights": "Gbogbo awọn ẹtọ wa ni ipamọ."
+  },
+  "solutions": {
+    "eyebrow": "Awọn ojutu",
+    "title": "Agbegbe kọọkan, ti a ti sopọ si [[iṣiṣẹ kanna]]",
+    "intro": "Yan nipasẹ iṣoro ti o fẹ yanju. Lẹhin, awọn ọja pin alaye kanna.",
+    "items": {
+      "commercial": {
+        "title": "Isakoso iṣowo",
+        "text": "Awọn ibere, awọn idiyele, awọn alabara ati akojo oja fun pinpin ọjọ-si-ọjọ."
+      },
+      "field": {
+        "title": "tita agbara",
+        "text": "Awọn olutaja mu awọn aṣẹ ni opopona, lori ayelujara tabi offline."
+      },
+      "warehouse": {
+        "title": "Itaja",
+        "text": "Gbigbawọle, gbigba, fifiranṣẹ ati ọja iṣura ti o le gbẹkẹle."
+      },
+      "logistics": {
+        "title": "Awọn eekaderi ati ifijiṣẹ",
+        "text": "Awọn ipa ọna, awakọ ati ipo ti ifijiṣẹ kọọkan."
+      },
+      "purchasing": {
+        "title": "Rira ati awọn olupese",
+        "text": "Awọn agbasọ, awọn aṣẹ ati ọna abawọle fun ẹnikẹni ti o pese ọ."
+      },
+      "finance": {
+        "title": "Owo ati iṣiro",
+        "text": "Awọn akojọpọ, awọn sisanwo, ìdíyelé itanna ati ṣiṣe iṣiro."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Awọn ile-iṣẹ",
+    "title": "Ti a ṣe fun awọn ti [[ngbe ọja]]",
+    "intro": "FullVendor ni a bi ni pinpin ati tẹle awọn ile-iṣẹ ti o ra, tọju, ta ati firanṣẹ.",
+    "items": {
+      "wholesale": {
+        "title": "Pinpin ati osunwon",
+        "text": "Awọn akojọ owo, portfolio, pinpin ati gbigba ni kan nikan Circuit."
+      },
+      "retail": {
+        "title": "Soobu",
+        "text": "Itaja ati ile ise pẹlu ti sopọ iṣura, tita ati replenishment."
+      },
+      "food": {
+        "title": "Ounje ati ohun mimu",
+        "text": "Awọn ipa-ọna loorekoore ati ile-itaja ti ko le da duro."
+      },
+      "pharma": {
+        "title": "Ile elegbogi ati itọju ara ẹni",
+        "text": "Gbigbawọle, yiyan ati iṣakoso akojo oja pẹlu itọpa."
+      },
+      "hardware": {
+        "title": "Hardware ati ikole",
+        "text": "Ọpọlọpọ awọn itọkasi, awọn olupese ati awọn ifijiṣẹ lati ṣiṣẹ tabi tọju."
+      },
+      "fmcg": {
+        "title": "Lilo ọpọ eniyan",
+        "text": "Ita agbara tita ati ki o ga yipada rirọpo."
+      },
+      "manufacturing": {
+        "title": "Ṣe iṣelọpọ",
+        "text": "Rira, ile ise ati akojo oja ni ibamu pẹlu isakoso."
+      },
+      "lastmile": {
+        "title": "Ifijiṣẹ ati ki o kẹhin maili",
+        "text": "Awọn ipa ọna, awakọ ati ipo ti ifijiṣẹ kọọkan."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Oro",
+    "title": "Ko awọn imọran kuro si [[paṣẹ fun iṣẹ naa]]",
+    "intro": "Awọn itọsọna kukuru fun awọn alakoso pinpin ti yoo pinnu iru eto lati duro pẹlu.",
+    "items": {
+      "unify": {
+        "title": "Bii o ṣe le ṣọkan pinpin sinu eto ẹyọkan",
+        "summary": "Kini lati ṣajọpọ ni akọkọ nigbati awọn tita, ile-itaja ati awọn ikojọpọ n gbe ni awọn faili oriṣiriṣi.",
+        "points": [
+          "Bẹrẹ pẹlu awọn onibara, awọn ọja ati awọn idiyele: wọn jẹ olukọ ti gbogbo eniyan nlo.",
+          "So aṣẹ pọ pẹlu iṣura ṣaaju fifi awọn ohun elo diẹ sii.",
+          "O ṣe iwọn nọmba ti o rọrun: awọn aṣẹ ti ṣẹ laisi atunṣe fọọmu naa."
+        ]
+      },
+      "offline": {
+        "title": "Tita agbara ṣiṣẹ offline",
+        "summary": "Kini lati beere lati inu ohun elo pipaṣẹ ki olutaja ko duro nitori ifihan naa.",
+        "points": [
+          "Katalogi ati apamọwọ ni lati wa lori foonu, kii ṣe ninu awọsanma nikan.",
+          "Ilana naa ti wa ni ipamọ lori ẹrọ ati gbejade nigbati nẹtiwọki ba pada.",
+          "Nigbati mimuuṣiṣẹpọ, aṣẹ ti wọ inu ile-ipamọ tẹlẹ."
+        ]
+      },
+      "warehouse": {
+        "title": "Ile-ipamọ pẹlu koodu iwọle, laisi iwe",
+        "summary": "Bii o ṣe le lọ lati atokọ ti a tẹjade si yiyan ti a fọwọsi lori foonu.",
+        "points": [
+          "Gba lodi si ibere rira, kii ṣe lodi si iranti.",
+          "Jẹrisi ohun kọọkan nigbati o ba pinya sọtọ. Kokoro ge sinu hallway.",
+          "Ifiranṣẹ naa ṣe imudojuiwọn ọja ti olutaja rii."
+        ]
+      },
+      "finance": {
+        "title": "Gbigba ni ibamu pẹlu tita",
+        "summary": "Kini idi ti olutaja yẹ ki o rii gbese alabara ṣaaju ki o to mu aṣẹ miiran.",
+        "points": [
+          "Ibẹwo naa jẹ akoko ti o dara julọ lati gba, ti o ba jẹ pe gbese naa han.",
+          "Titaja ati inawo ni lati wo alabara kanna.",
+          "Ijabọ ti o pari lojoojumọ tọsi diẹ sii ju pipade pẹ."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Awọn idiyele",
+    "title": "Eto ilolupo ti [[dagba pẹlu rẹ]]",
+    "intro": "A ko ṣe atẹjade oṣuwọn jeneriki: idiyele da lori awọn modulu, awọn olumulo ati iwọn didun. A fi Syeed han ọ ati fi imọran papọ pẹlu iṣẹ rẹ.",
+    "note": "demo naa ko ni idiyele ati pe ko nilo adehun kan.",
+    "recommended": "Ti ṣe iṣeduro",
+    "faq_title": "Awọn ibeere ti a beere nigbagbogbo",
+    "plans": {
+      "essential": {
+        "name": "Pataki",
+        "desc": "Lati ṣeto iṣakoso iṣowo ati pinpin lori pẹpẹ kan.",
+        "features": [
+          "FullVendor oju opo wẹẹbu",
+          "Titaja, rira ati akojo oja",
+          "Awọn onibara, awọn olupese ati awọn iroyin",
+          "Office ẹrọ olumulo",
+          "Ibẹrẹ atilẹyin"
+        ],
+        "cta": "Beere Ririnkiri"
+      },
+      "professional": {
+        "name": "Ọjọgbọn",
+        "desc": "Fun awọn ẹgbẹ ti o ta ni opopona ati pese awọn aṣẹ ni ile-itaja.",
+        "features": [
+          "Ohun gbogbo Pataki",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Aisinipo iṣẹ ati barcodes",
+          "Diẹ aaye ati awọn olumulo ile ise"
+        ],
+        "cta": "Beere Ririnkiri"
+      },
+      "corporate": {
+        "name": "Ajọ",
+        "desc": "Fun awọn ẹgbẹ ti o nilo eekaderi, rira, inawo ati awọn ile-iṣẹ lọpọlọpọ.",
+        "features": [
+          "Pipe ilolupo",
+          "Logistics, Vendor Supplier ati Finance",
+          "FullVendor ERP ati olona-iyalegbe",
+          "Itanna ìdíyelé ati iṣiro",
+          "Accompaniment ati ayo wiwa"
+        ],
+        "cta": "Ọrọ lati tita"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ṣe Mo ni lati ra gbogbo awọn ọja?",
+        "a": "Rara. O le bẹrẹ pẹlu FullVendor ati ṣafikun awọn ohun elo tabi ERP nigbati iṣẹ ṣiṣe nilo rẹ."
+      },
+      "offline": {
+        "q": "Ṣe awọn ohun elo ṣiṣẹ laisi intanẹẹti?",
+        "a": "Sales Man ati Warehouse tẹsiwaju ṣiṣẹ laisi ifihan agbara ati muuṣiṣẹpọ nigbati o ba tun so pọ."
+      },
+      "multi": {
+        "q": "Ṣe o ṣiṣẹ ti Mo ba ni ile-iṣẹ diẹ sii ju ọkan lọ?",
+        "a": "Bẹẹni. ERP ṣe akiyesi ile-iṣẹ pupọ ati ilolupo le pin awọn ọga laarin wọn."
+      },
+      "demo": {
+        "q": "Kini demo pẹlu?",
+        "a": "Irin-ajo ti pẹpẹ pẹlu ọran ti o jọra si tirẹ. Ko si iye owo ati ko si ọranyan."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Ririnkiri",
+    "title": "A fihan ọ FullVendor pẹlu [[iru iṣẹ rẹ]]",
+    "text": "Sọ fun wa nipa ile-iṣẹ rẹ ati ohun ti o fẹ lati paṣẹ ni akọkọ. Awọn demo ni o ni ko si iye owo."
+  },
+  "contact": {
+    "eyebrow": "Olubasọrọ",
+    "title": "Jẹ ki a sọrọ nipa [[iṣiṣẹ rẹ]]",
+    "text": "Ti o ba fẹ demo kan, imọran tabi o kan lati ṣe itọsọna ara rẹ laarin awọn ọja, fi alaye rẹ silẹ a yoo dahun.",
+    "email": "meeli",
+    "phone": "Foonu",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Oruko",
+    "email": "meeli",
+    "phone": "Foonu",
+    "company": "Ile-iṣẹ",
+    "country": "Orilẹ-ede",
+    "team": "Iwọn ẹgbẹ",
+    "interest": "Kini anfani ti o?",
+    "message": "Ifiranṣẹ",
+    "optional": "iyan",
+    "choose": "Yan",
+    "interest_all": "Gbogbo ilolupo",
+    "ph_name": "orukọ rẹ",
+    "ph_email": "ìwọ@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ile-iṣẹ rẹ",
+    "ph_country": "Orilẹ-ede",
+    "ph_message": "Sọ fun wa bi o ṣe n ṣiṣẹ loni",
+    "privacy_before": "Mo gba awọn lilo ti mi data gẹgẹ bi awọn",
+    "privacy_after": ".",
+    "submit": "Firanṣẹ ìbéèrè",
+    "sent_title": "A gba ibeere rẹ",
+    "sent_text": "E dupe. Ẹgbẹ tita yoo kọwe si ọ lati ṣatunṣe demo tabi dahun ibeere rẹ.",
+    "error_required": "Pari aaye yii.",
+    "error_email": "Tẹ imeeli to wulo.",
+    "error_phone": "Ṣayẹwo foonu naa.",
+    "error_privacy": "A nilo igbanilaaye rẹ lati lo awọn alaye olubasọrọ.",
+    "error_csrf": "Awọn igba ti pari. Fi fọọmu naa pada.",
+    "error_save": "A ko le fipamọ ibeere naa. Gbiyanju lẹẹkansi.",
+    "error_generic": "Ṣe ayẹwo awọn aaye ti o samisi.",
+    "error_rate": "Jọwọ duro fun iṣẹju diẹ ṣaaju fifiranṣẹ ibeere miiran.",
+    "team_options": {
+      "1-10": "1 to 10 eniyan",
+      "11-50": "11 to 50 eniyan",
+      "51-200": "51 to 200 eniyan",
+      "201-500": "201 to 500 eniyan",
+      "500+": "Die e sii ju eniyan 500 lọ"
+    }
+  },
+  "video": {
+    "title": "FullVendor ni iṣẹju kan",
+    "prev": "Atijọ",
+    "next": "Awọn atẹle",
+    "slides": [
+      {
+        "title": "A nikan ilolupo",
+        "text": "Titaja, ile-itaja, ifijiṣẹ, rira ati inawo pin awọn alabara, iṣura ati awọn aṣẹ."
+      },
+      {
+        "title": "Oju opo wẹẹbu ati alagbeka papọ",
+        "text": "Awọn ọfiisi ṣiṣẹ lori Syeed. Opopona ati ile-itaja, ninu awọn lw, paapaa laisi ifihan agbara."
+      },
+      {
+        "title": "Ṣe lati pin kaakiri",
+        "text": "Lati aṣẹ si isanwo, laisi gbigbe alaye lati faili kan si omiiran."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Wa awọn ọja, awọn ojutu, awọn ile-iṣẹ…",
+    "lang_filter": "Wa ede",
+    "intro": "Wa awọn ọja, awọn solusan, awọn ile-iṣẹ ati awọn orisun.",
+    "empty": "A ko ri esi fun \"{q}\".",
+    "hint": "Gbiyanju tita, ile ise, ipa-ọna tabi awọn akojọpọ.",
+    "results": "{n} esi",
+    "button": "Wa fun",
+    "kind_product": "Ọja",
+    "kind_solution": "Ojutu",
+    "kind_industry": "Ile-iṣẹ",
+    "kind_resource": "Awọn orisun"
+  },
+  "notfound": {
+    "title": "Oju-iwe yii kii ṣe",
+    "text": "Ọna asopọ ko si tabi ti yipada ipo."
+  },
+  "common": {
+    "what": "Ohun ti o yanju",
+    "features": "Ohun ti o wa ninu",
+    "benefits": "Kini idi ti o ṣe pataki",
+    "for_who": "Ta ni fun?",
+    "related": "Tun ni ilolupo"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Tita loni",
+      "orders": "Awọn ibere",
+      "clients": "Onibara",
+      "products": "Awọn ọja"
+    },
+    "sidebar": {
+      "dashboard": "Dasibodu",
+      "sales": "Titaja",
+      "purchases": "Ohun tio wa",
+      "inventory": "Oja",
+      "clients": "Onibara",
+      "reports": "Iroyin"
+    },
+    "chart": "Titaja",
+    "channel": "Pinpin nipasẹ ikanni",
+    "channels": [
+      "Itaja",
+      "Pinpin",
+      "Alataja",
+      "Awọn miiran"
+    ],
+    "orders": "Titun bibere",
+    "col_order": "Bere fun",
+    "col_client": "Onibara",
+    "col_status": "Ìpínlẹ̀",
+    "col_total": "Lapapọ",
+    "status": [
+      "Ti fi jiṣẹ",
+      "Ni ipa ọna",
+      "Afikọti"
+    ],
+    "top": "Awọn ọja tita to dara julọ",
+    "product": "Ọja",
+    "sales_menu": [
+      "Onibara",
+      "Awọn ibere",
+      "Awọn ọja",
+      "Awọn ipa ọna",
+      "Muṣiṣẹpọ"
+    ],
+    "warehouse_menu": [
+      "Gbigbawọle",
+      "Yiyan",
+      "Oja",
+      "Ifijiṣẹ",
+      "Muṣiṣẹpọ"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Asiri Afihan",
+    "privacy_intro": "Ilana yii ṣe alaye ohun ti a ṣe pẹlu data ti o fi silẹ ni awọn fọọmu lori aaye yii.",
+    "privacy": [
+      {
+        "title": "Ohun ti data ti a gba",
+        "text": "Ti o ba beere demo tabi kọwe si wa, a fipamọ orukọ, ile-iṣẹ, imeeli, nọmba tẹlifoonu ti o ba tọka si, orilẹ-ede, iwọn ẹgbẹ, ọja ti iwulo ati ifiranṣẹ naa. A tun ṣe igbasilẹ ọjọ naa, ede ti oju-iwe naa ati adiresi IP, lati ṣe idiwọ awọn ifisilẹ ilokulo."
+      },
+      {
+        "title": "Kini a lo wọn fun?",
+        "text": "A lo data yii nikan lati dahun si ọ, ipoidojuko demo ati mura igbero iṣowo kan. A ko ta wọn tabi fun wọn si akojọ awọn ẹgbẹ kẹta."
+      },
+      {
+        "title": "Nibo ni wọn ti fipamọ ati fun igba melo?",
+        "text": "Awọn ibeere ti wa ni ipamọ lori olupin aaye yii. A tọju wọn fun akoko pataki lati ṣe iranṣẹ fun ọ ati atẹle iṣowo, ati pe a paarẹ wọn nigbati o ba beere lọwọ wa tabi nigbati wọn ko nilo wọn mọ."
+      },
+      {
+        "title": "Awọn ẹtọ rẹ",
+        "text": "O le beere iraye si, atunṣe tabi piparẹ data rẹ lati fọọmu olubasọrọ, nfihan ninu ifiranṣẹ naa. Ti ile-iṣẹ ba ṣe atẹjade imeeli lori oju opo wẹẹbu yii, o tun le kọ sibẹ."
+      }
+    ],
+    "terms_title": "Awọn ofin lilo",
+    "terms_intro": "Awọn ipo wọnyi kan si lilo aaye ifisilẹ FullVendor yii.",
+    "terms": [
+      {
+        "title": "Alaye iṣowo",
+        "text": "Awọn ọrọ, apẹẹrẹ awọn isiro dasibodu ati awọn apejuwe ṣafihan pẹpẹ. Wọn le ṣe atunṣe nigbati ọja ba yipada ati kii ṣe ipese pipade."
+      },
+      {
+        "title": "Awọn demo ni ko kan guide",
+        "text": "Gbigbe fọọmu naa ko ṣẹda ọranyan lati ra tabi ṣura idiyele kan. Eyikeyi adehun ti gba lọtọ, ni kikọ, pẹlu iwọn ati awọn ipo rẹ."
+      },
+      {
+        "title": "Akoonu ojula",
+        "text": "Aami-iṣowo FullVendor, awọn orukọ ọja ati akoonu ti awọn oju-iwe wọnyi jẹ ti awọn oniwun wọn. Wọn ko le ṣe daakọ lati ṣafihan ọja miiran."
+      },
+      {
+        "title": "Lilo itẹwọgba",
+        "text": "Maṣe lo awọn fọọmu naa lati fi alaye eke, àwúrúju tabi akoonu arufin silẹ. A le foju pa awọn ibeere ti ko ṣe deede si ibaraẹnisọrọ iṣowo gangan."
+      }
+    ]
+  }
+}

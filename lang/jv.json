@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Ngatur lan tuwuh bisnis sampeyan",
+    "home_desc": "Platform kabeh-ing-siji kanthi solusi web lan seluler kanggo distribusi, dodolan, logistik, tuku, inventaris lan keuangan.",
+    "products_title": "Produk | FullVendor",
+    "products_desc": "Ngerteni ekosistem FullVendor: platform komersial, ERP, logistik, supplier lan dodolan, gudang lan aplikasi keuangan.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solusi | FullVendor",
+    "solutions_desc": "Solusi kanggo manajemen komersial, tenaga penjualan, gudang, logistik, tuku lan keuangan.",
+    "industries_title": "Industri | FullVendor",
+    "industries_desc": "FullVendor kanggo distribusi, toko, pangan, farmasi, hardware, konsumsi massa, Manufaktur lan pungkasan mil.",
+    "pricing_title": "Rega | FullVendor",
+    "pricing_desc": "Rencana Penting, Profesional lan Perusahaan. Proposal kasebut disusun miturut modul, pangguna lan volume.",
+    "resources_title": "Sumber Daya | FullVendor",
+    "resources_desc": "Pandhuan singkat kanggo nyawijikake distribusi, adol offline, ngatur gudang lan dibayar kanthi tepat.",
+    "contact_title": "Kontak | FullVendor",
+    "contact_desc": "Tulis kanggo kita sinau babagan FullVendor utawa koordinasi obrolan karo tim sales.",
+    "demo_title": "Nyuwun demo | FullVendor",
+    "demo_desc": "Nyuwun demo FullVendor lan jelajahi platform kanthi kasus sing padha karo operasi sampeyan.",
+    "privacy_title": "Privasi | FullVendor",
+    "terms_title": "Sarat | FullVendor",
+    "search_title": "Nggoleki | FullVendor",
+    "notfound_title": "Kaca ora ditemokake | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Kaca ngarep",
+    "products": "Produk",
+    "solutions": "Solusi",
+    "industries": "Industri",
+    "pricing": "Rega",
+    "resources": "Sumber daya",
+    "contact": "Kontak",
+    "open_menu": "Bukak menu",
+    "close": "Nutup"
+  },
+  "cta": {
+    "demo": "Njaluk Demo",
+    "contact": "Hubungi kita",
+    "video": "Nonton Video",
+    "talk": "Ngomong karo dodolan",
+    "all_products": "Waca kabeh produk",
+    "home": "Bali menyang kaca ngarep"
+  },
+  "a11y": {
+    "skip": "Lumpat menyang isi",
+    "primary": "Pandhu arah utama",
+    "crumbs": "Rute pandhu arah",
+    "search": "Goleki",
+    "language": "Basa"
+  },
+  "hero": {
+    "eyebrow": "Kabeh ing siji platform",
+    "title": "Ngatur lan tuwuh\nbisnis sampeyan karo\n{{brand}}",
+    "subtitle": "Platform lengkap karo solusi web lan seluler kanggo distribusi, dodolan, logistik, tuku, inventaris, keuangan lan liya-liyane.",
+    "pill_ecosystem": "Kabeh ing ekosistem siji",
+    "pill_cloud": "Ing méga, aman lan bisa diukur",
+    "pill_size": "Kanggo perusahaan kabeh ukuran"
+  },
+  "products_block": {
+    "eyebrow": "produk kita",
+    "title": "A [[ekosistem lengkap]] kanggo saben area bisnis sampeyan",
+    "aside": "Solusi terintegrasi sing makarya bebarengan kanggo menehi kontrol total, efisiensi operasional lan wutah sing luwih gedhe.",
+    "groups": {
+      "money": "Administrasi lan koleksi",
+      "flow": "Tuku lan pangiriman",
+      "field": "Sales lan gudhang"
+    }
+  },
+  "products_page": {
+    "title": "Tujuh produk, [[operasi tunggal]]",
+    "text": "Saben produk ngrampungake wilayah. Bareng nuduhake pelanggan, saham, pesenan lan pembayaran."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Platform utama kanggo manajemen lan distribusi komersial.",
+      "features": [
+        "Sales lan tumbas",
+        "Persediaan",
+        "Klien lan supplier",
+        "Laporan lan liyane"
+      ],
+      "lead": "Pusat operasi komersial sampeyan: pesenan, rega, saham lan pelanggan ing sak panggonan.",
+      "about": "FullVendor ngganti spreadsheet lan sistem longgar distributor. Saka kene pesenan metu, inventaris dikonsultasi, portofolio pelanggan diurus lan nomer dina dideleng. Liyane saka ekosistem nyambung menyang basis iki.",
+      "benefits": [
+        {
+          "title": "Master data tunggal",
+          "text": "Pelanggan, produk lan rega dienggo bareng karo dodolan, gudang lan keuangan."
+        },
+        {
+          "title": "Clear operasi saben dina",
+          "text": "Pesenan, tumbas lan saham mandheg urip ing macem-macem file."
+        },
+        {
+          "title": "Laporan kanggo mutusake",
+          "text": "Penjualan, wates lan pending katon tanpa nggawe meja kanthi tangan."
+        },
+        {
+          "title": "Siap tuwuh",
+          "text": "Logistik, tenaga penjualan utawa ERP jumlah nalika operasi njaluk."
+        }
+      ],
+      "audience": "Tim komersial lan distribusi sing saiki koordinasi bisnis ing antarane sawetara sistem."
+    },
+    "erp": {
+      "kicker": "Administrasi",
+      "card": "Manajemen administratif lan keuangan lengkap.",
+      "features": [
+        "Akuntansi",
+        "tagihan elektronik",
+        "Lembar kerja",
+        "Aset tetep",
+        "Multi-perusahaan"
+      ],
+      "lead": "Administrasi lan keuangan, selaras karo apa sing didol lan dikirim.",
+      "about": "FullVendor ERP kalebu accounting, invoice elektronik, payrolls, aset tetep lan multi-perusahaan. Butuh operasi komersial lan ngowahi menyang entri, kuitansi lan statements sing wilayah financial bisa digunakake.",
+      "benefits": [
+        {
+          "title": "Akuntansi sing disambungake",
+          "text": "Apa mengkono ing dodolan lan tumbas feed accounting."
+        },
+        {
+          "title": "kuitansi elektronik",
+          "text": "Sampeyan ngetokake lan ngontrol tagihan saka ekosistem sing padha."
+        },
+        {
+          "title": "Macem-macem perusahaan",
+          "text": "Multi-perusahaan kanggo grup sing operate ing luwih saka siji jeneng perusahaan."
+        },
+        {
+          "title": "Payrolls lan aset",
+          "text": "Payroll lan aset tetep bebarengan karo manajemen liyane."
+        }
+      ],
+      "audience": "Wilayah administratif lan finansial sing pengin nutup angka kanthi operasi nyata."
+    },
+    "logistics": {
+      "kicker": "Logistik",
+      "card": "Ngontrol lan ngawasi operasi logistik sampeyan.",
+      "features": [
+        "Rute lan pangiriman",
+        "Pelacakan wektu nyata",
+        "Tugas sopir",
+        "Optimasi rute"
+      ],
+      "lead": "Saka pesenan kanggo pangiriman: rute, driver lan nelusuri wektu nyata.",
+      "about": "FullVendor Logistics ngatur distribusi. Sampeyan nggawe rute, nemtokake driver lan ndeleng ngendi saben pangiriman arep. Tim lalu lintas mandheg gumantung ing telpon kanggo mangerteni yen pesenan wis dikirim.",
+      "benefits": [
+        {
+          "title": "Rute dina",
+          "text": "Pangiriman miturut zona, jendhela wektu lan kapasitas."
+        },
+        {
+          "title": "Sopir sing ditugasake",
+          "text": "Saben rute duwe wong sing tanggung jawab lan urutan sing jelas."
+        },
+        {
+          "title": "Tindak lanjut",
+          "text": "Sampeyan ngerti apa sing dikirim, ing dalan utawa mandheg."
+        },
+        {
+          "title": "Kurang kilometer",
+          "text": "Optimasi rute nyuda wektu pangiriman lan biaya."
+        }
+      ],
+      "audience": "Operasi distribusi karo armada dhewe utawa pihak katelu."
+    },
+    "supplier": {
+      "kicker": "Blanja",
+      "card": "Portal kanggo supplier lan manajemen tuku.",
+      "features": [
+        "pesenan tuku",
+        "Kutipan",
+        "Manajemen Supplier",
+        "Integrasi karo persediaan"
+      ],
+      "lead": "Pemasok sampeyan ngutip, nampa pesenan lan ngisi maneh saham tanpa email sing ilang.",
+      "about": "Vendor Supplier mbukak portal kanggo tumbas lan supplier bisa ing pesenan padha. Kutipan, pesenan tuku lan kuitansi disambungake menyang persediaan FullVendor.",
+      "benefits": [
+        {
+          "title": "Pesenan ing saluran",
+          "text": "Supplier ndeleng apa sing bakal dikirim, tanpa chain email."
+        },
+        {
+          "title": "kuotasi dibandhingake",
+          "text": "Sampeyan takon prices lan milih karo sajarah ing tampilan."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Kahanan, kontak lan ketundha ing rekaman siji."
+        },
+        {
+          "title": "Ketik persediaan",
+          "text": "Apa sing dituku dibayangke ing saham nalika ditampa."
+        }
+      ],
+      "audience": "Tuku tim sing diisi maneh karo sawetara supplier lan mbutuhake traceability."
+    },
+    "salesman": {
+      "kicker": "Aplikasi seluler",
+      "card": "Aplikasi seluler kanggo tim sales.",
+      "features": [
+        "Manajemen pelanggan",
+        "Njupuk pesenan",
+        "Katalog produk",
+        "Kerja offline"
+      ],
+      "lead": "Tenaga penjualan njupuk pesenan ing dalan, nganggo utawa tanpa sinyal.",
+      "about": "FullVendor Sales Man nempatno portofolio Panjenengan, katalog lan supaya njupuk ing telpon bakul kang. Yen ora ana internet, karya terus lan nyinkronake nalika sinyal bali. Pesenan teka siap kanggo nyiyapake lan ngirim.",
+      "benefits": [
+        {
+          "title": "Dompet ing saku",
+          "text": "Sing bakul ndeleng klien, kahanan lan barang sing ditundha."
+        },
+        {
+          "title": "Order ing kunjungan",
+          "text": "Entuk pesenan kanthi rega saiki lan saham."
+        },
+        {
+          "title": "Katalog nganti saiki",
+          "text": "Produk, presentasi lan rega tanpa PDF lawas."
+        },
+        {
+          "title": "Nyata offline",
+          "text": "Bisa tanpa jangkoan lan sinkronisasi mengko."
+        }
+      ],
+      "audience": "Supervisor lan salesman lapangan ing distribusi lan konsumsi massa."
+    },
+    "warehouse": {
+      "kicker": "Aplikasi seluler",
+      "card": "Aplikasi seluler kanggo gudang.",
+      "features": [
+        "Resepsi lan kiriman",
+        "Picking lan packing",
+        "Kontrol persediaan",
+        "maca barcode"
+      ],
+      "lead": "Resepsi, njupuk lan ngirim nganggo telpon lan barcode.",
+      "about": "FullVendor Warehouse nuntun gudang ing reception, njupuk, packing lan ngirim. Kode maca nyuda kasalahan lan inventaris ora diitung maneh mung ing pungkasan sasi.",
+      "benefits": [
+        {
+          "title": "Resepsi nglawan pesenan",
+          "text": "Apa sing mlebu dibandhingake karo tuku."
+        },
+        {
+          "title": "Target milih",
+          "text": "Sing duwe kapal ngetutake pesenan lan konfirmasi saben item."
+        },
+        {
+          "title": "Barcode",
+          "text": "Kurang kesalahan produk, kumpulan utawa jumlah."
+        },
+        {
+          "title": "Simpenan sing dipercaya",
+          "text": "Saben pamindhahan nganyari persediaan platform."
+        }
+      ],
+      "audience": "Manajer gudang lan pemilik kapal sing saiki nyiapake pesenan kanthi dhaptar sing dicithak."
+    },
+    "finance": {
+      "kicker": "Aplikasi seluler",
+      "card": "Kontrol finansial saka ponsel sampeyan.",
+      "features": [
+        "Akun piutang lan utang",
+        "Status pelanggan",
+        "Pembayaran lan rekonsiliasi",
+        "Laporan keuangan"
+      ],
+      "lead": "Piutang, pembayaran lan status pelanggan, saka telpon sampeyan.",
+      "about": "FullVendor Finance nuduhake koleksi ing seluler: apa utang saben klien, apa perusahaan bakal mbayar lan carane pembayaran teka. Iki digunakake kanggo ngumpulake dhuwit sajrone kunjungan lan kanggo ndeleng kasir tanpa mbukak meja.",
+      "benefits": [
+        {
+          "title": "Koleksi ing kunjungan",
+          "text": "Sing bakul ngerti yen pelanggan anyar sadurunge adol."
+        },
+        {
+          "title": "Receivable lan kebayar",
+          "text": "Loro-lorone kothak ing app padha."
+        },
+        {
+          "title": "Pembayaran lan rekonsiliasi",
+          "text": "Sampeyan ndhaptar kridit lan ndeleng apa sing kudu dilewati."
+        },
+        {
+          "title": "Laporan ing tangan",
+          "text": "Koleksi lan pratondho awis tanpa ngenteni penutupan."
+        }
+      ],
+      "audience": "Manajer, kolektor lan salesman sing butuh kahanan klien saiki."
+    }
+  },
+  "why": {
+    "eyebrow": "kok FullVendor",
+    "title": "Ngedongkrak bisnis sampeyan\nkanthi asil nyata",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Perusahaan dipercaya kita"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Pangguna aktif"
+      },
+      {
+        "value": "+10",
+        "suffix": "taun",
+        "label": "Ing evolusi pancet"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "kasedhiyan awan"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Cara kerjane",
+    "title": "Saka sale kanggo koleksi, tanpa ngganti sistem",
+    "text": "Saben produk nuduhake pelanggan, saham, pesenan lan pembayaran. Apa sing kedadeyan ing dalan utawa ing gudang katon ing kantor langsung.",
+    "steps": {
+      "sell": {
+        "title": "Sampeyan ngedol",
+        "text": "Urutan kasebut dilebokake liwat situs web utawa liwat Sales Man, sanajan tanpa sinyal."
+      },
+      "pick": {
+        "title": "siyap",
+        "text": "Warehouse nampa, misahake lan ngirim karo barcode."
+      },
+      "deliver": {
+        "title": "Kiriman",
+        "text": "Logistics nemtokake rute lan nderek pangiriman."
+      },
+      "collect": {
+        "title": "Kobra",
+        "text": "Finance lan ERP nutup kumpulan, kuitansi lan nomer."
+      }
+    }
+  },
+  "band": {
+    "title": "Siap ndeleng karo [[operasi sampeyan]]?",
+    "text": "Kita nuduhake ekosistem kanthi kasus distribusi sing padha karo sampeyan."
+  },
+  "footer": {
+    "blurb": "Platform web lan seluler kanggo distribusi, dodolan, logistik, tuku, inventaris lan keuangan.",
+    "products": "Produk",
+    "company": "Perusahaan",
+    "legal": "sah",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "rights": "Kabeh hak dilindhungi undhang-undhang."
+  },
+  "solutions": {
+    "eyebrow": "Solusi",
+    "title": "Saben area, disambungake menyang [[operasi sing padha]]",
+    "intro": "Pilih miturut masalah sing pengin dirampungake. Ing mburi, produk nuduhake informasi sing padha.",
+    "items": {
+      "commercial": {
+        "title": "Manajemen komersial",
+        "text": "Pesenan, rega, pelanggan lan persediaan kanggo distribusi saben dina."
+      },
+      "field": {
+        "title": "tenaga dodolan",
+        "text": "Vendor njupuk pesenan ing dalan, online utawa offline."
+      },
+      "warehouse": {
+        "title": "toko",
+        "text": "Resepsi, njupuk, kiriman lan saham sing bisa dipercaya."
+      },
+      "logistics": {
+        "title": "Logistik lan pangiriman",
+        "text": "Rute, driver lan status saben pangiriman."
+      },
+      "purchasing": {
+        "title": "Purchasing lan supplier",
+        "text": "Kutipan, pesenan lan portal kanggo sapa wae sing nyedhiyakake sampeyan."
+      },
+      "finance": {
+        "title": "Keuangan lan akuntansi",
+        "text": "Koleksi, pembayaran, tagihan elektronik lan akuntansi."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industri",
+    "title": "Digawe kanggo wong sing [[pindhah produk]]",
+    "intro": "FullVendor lair ing distribusi lan ngiringi perusahaan sing tuku, nyimpen, ngedol lan ngirim.",
+    "items": {
+      "wholesale": {
+        "title": "Distribusi lan grosir",
+        "text": "Dhaptar rega, portofolio, distribusi lan koleksi ing sirkuit siji."
+      },
+      "retail": {
+        "title": "Eceran",
+        "text": "Toko lan gudang kanthi stok, dodolan lan replenishment sing disambungake."
+      },
+      "food": {
+        "title": "Panganan lan ombenan",
+        "text": "Rute sing kerep lan gudang sing ora bisa mandheg."
+      },
+      "pharma": {
+        "title": "Farmasi lan perawatan pribadi",
+        "text": "Resepsi, njupuk lan kontrol persediaan kanthi traceability."
+      },
+      "hardware": {
+        "title": "Hardware lan construction",
+        "text": "Akeh referensi, supplier lan pangiriman kanggo karya utawa nyimpen."
+      },
+      "fmcg": {
+        "title": "Konsumsi massa",
+        "text": "Tenaga sales Street lan panggantos turnover dhuwur."
+      },
+      "manufacturing": {
+        "title": "Pabrikan",
+        "text": "Tuku, gudang lan persediaan selaras karo administrasi."
+      },
+      "lastmile": {
+        "title": "Pangiriman lan mil pungkasan",
+        "text": "Rute, driver lan status saben pangiriman."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Sumber daya",
+    "title": "Gagasan sing jelas kanggo [[urutan operasi]]",
+    "intro": "Panuntun singkat kanggo manajer distribusi sing arep mutusake sistem apa sing bakal ditindakake.",
+    "items": {
+      "unify": {
+        "title": "Cara nyawiji distribusi dadi siji sistem",
+        "summary": "Apa sing kudu digabung dhisik nalika dodolan, gudang lan koleksi manggon ing file sing beda-beda.",
+        "points": [
+          "Mulai karo pelanggan, produk lan rega: dheweke minangka guru sing digunakake saben wong.",
+          "Sambungake pesenan karo saham sadurunge nambahake aplikasi liyane.",
+          "Iku ngukur nomer prasaja: pesenan kawujud tanpa redoing wangun."
+        ]
+      },
+      "offline": {
+        "title": "Tenaga penjualan kerja offline",
+        "summary": "Apa sing dibutuhake saka aplikasi pesenan supaya penjual ora mandheg amarga sinyal kasebut.",
+        "points": [
+          "Katalog lan dompet kudu ana ing telpon, ora mung ing awan.",
+          "Pesenan disimpen ing piranti lan diunggah nalika jaringan bali.",
+          "Nalika nyinkronake, pesenan wis mlebu ing gudang."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse karo barcode, tanpa kertas",
+        "summary": "Carane pindhah saka dhaftar dicithak kanggo dikonfirmasi milih ing telpon.",
+        "points": [
+          "Nampa marang pesenan tuku, ora marang memori.",
+          "Konfirmasi saben item nalika misahake. Bug kasebut ngethok menyang lorong.",
+          "Kiriman nganyari saham sing dideleng penjual."
+        ]
+      },
+      "finance": {
+        "title": "Koleksi didadekake siji karo Advertisement",
+        "summary": "Napa bakul kudu ndeleng utang pelanggan sadurunge njupuk pesenan liyane.",
+        "points": [
+          "Kunjungan iku wektu paling apik kanggo ngumpulake, yen utang katon.",
+          "Sales lan finance kudu katon ing customer padha.",
+          "Laporan telat saben dina luwih larang tinimbang telat ditutup."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Rega",
+    "title": "Ekosistem sing [[tuwuh karo sampeyan]]",
+    "intro": "Kita ora nerbitake tarif umum: biaya gumantung saka modul, pangguna lan volume. Kita nuduhake platform lan nggawe proposal karo operasi sampeyan.",
+    "note": "Demo ora ana biaya lan ora mbutuhake kontrak.",
+    "recommended": "Dianjurake",
+    "faq_title": "Pitakonan sing kerep ditakoni",
+    "plans": {
+      "essential": {
+        "name": "sing penting",
+        "desc": "Kanggo ngatur manajemen lan distribusi komersial ing platform siji.",
+        "features": [
+          "FullVendor platform web",
+          "Sales, tuku lan persediaan",
+          "Klien, supplier lan laporan",
+          "Pangguna peralatan kantor",
+          "Dhukungan wiwitan"
+        ],
+        "cta": "Njaluk Demo"
+      },
+      "professional": {
+        "name": "Profesional",
+        "desc": "Kanggo tim sing adol ing dalan lan nyiapake pesenan ing gudang.",
+        "features": [
+          "Kabeh Penting",
+          "Aplikasi FullVendor Sales Man",
+          "Aplikasi FullVendor Warehouse",
+          "Kerja offline lan barcode",
+          "Luwih akeh pangguna lapangan lan gudang"
+        ],
+        "cta": "Njaluk Demo"
+      },
+      "corporate": {
+        "name": "perusahaan",
+        "desc": "Kanggo grup sing butuh logistik, purchasing, finance lan macem-macem perusahaan.",
+        "features": [
+          "Ekosistem lengkap",
+          "Logistics, Vendor Supplier lan Finance",
+          "FullVendor ERP lan multi-tenancy",
+          "Tagihan lan akuntansi elektronik",
+          "Iringan lan kasedhiyan prioritas"
+        ],
+        "cta": "Ngomong karo dodolan"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Apa aku kudu tuku kabeh produk?",
+        "a": "Ora. Sampeyan bisa miwiti karo FullVendor lan nambah app utawa ERP nalika operasi mbutuhake."
+      },
+      "offline": {
+        "q": "Apa aplikasi bisa tanpa internet?",
+        "a": "Sales Man lan Warehouse terus digunakake tanpa sinyal lan nyinkronake nalika nyambungake maneh."
+      },
+      "multi": {
+        "q": "Apa bisa yen aku duwe luwih saka siji perusahaan?",
+        "a": "ya wis. ERP contemplates multi-perusahaan lan ekosistem bisa nuduhake master antarane wong-wong mau."
+      },
+      "demo": {
+        "q": "Apa sing kalebu demo?",
+        "a": "Tur ing platform kanthi kasus sing padha karo sampeyan. Ora ana biaya lan ora ana kewajiban."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Kita nuduhake sampeyan FullVendor karo [[jinis operasi sampeyan]]",
+    "text": "Marang kita bab perusahaan lan apa sing arep pesen pisanan. Demo ora ana biaya."
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Ayo ngomong babagan [[operasi sampeyan]]",
+    "text": "Yen sampeyan pengin demo, proposal utawa mung kanggo Orient dhewe antarane produk, ninggalake informasi lan kita bakal nanggapi.",
+    "email": "layang",
+    "phone": "Telpon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "jeneng",
+    "email": "layang",
+    "phone": "Telpon",
+    "company": "Perusahaan",
+    "country": "negara",
+    "team": "Ukuran tim",
+    "interest": "Apa kapentingan sampeyan?",
+    "message": "Pesen",
+    "optional": "Opsional",
+    "choose": "Pilih",
+    "interest_all": "Kabeh ekosistem",
+    "ph_name": "jenengmu",
+    "ph_email": "sampeyan@perusahaan.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Perusahaan sampeyan",
+    "ph_country": "negara",
+    "ph_message": "Marang kita carane operate dina iki",
+    "privacy_before": "Aku nampa nggunakake data sandi miturut",
+    "privacy_after": ".",
+    "submit": "Kirim panjalukan",
+    "sent_title": "Kita nampa panjaluk sampeyan",
+    "sent_text": "matur nuwun. Tim sales bakal nulis kanggo sampeyan kanggo koordinasi demo utawa njawab pitakonan sampeyan.",
+    "error_required": "Rampungake lapangan iki.",
+    "error_email": "Ketik email sing bener.",
+    "error_phone": "Priksa telpon.",
+    "error_privacy": "We kudu idin kanggo nggunakake rincian kontak.",
+    "error_csrf": "Sesi wis kadaluwarsa. Kirim maneh formulir.",
+    "error_save": "Kita ora bisa nyimpen panjalukan. Coba maneh.",
+    "error_generic": "Deleng kothak sing ditandhani.",
+    "error_rate": "Mangga ngenteni sedhela sadurunge ngirim panjalukan liyane.",
+    "team_options": {
+      "1-10": "1 nganti 10 wong",
+      "11-50": "11 nganti 50 wong",
+      "51-200": "51 nganti 200 wong",
+      "201-500": "201 nganti 500 wong",
+      "500+": "Luwih saka 500 wong"
+    }
+  },
+  "video": {
+    "title": "FullVendor ing siji menit",
+    "prev": "Mantan",
+    "next": "Nderek",
+    "slides": [
+      {
+        "title": "Ekosistem tunggal",
+        "text": "Sales, warehouse, pangiriman, tuku lan finance nuduhake pelanggan, saham lan pesenan."
+      },
+      {
+        "title": "Web lan seluler bebarengan",
+        "text": "Kantor dianggo ing platform. Dalan lan gudang, ing aplikasi, sanajan tanpa sinyal."
+      },
+      {
+        "title": "Digawe kanggo disebarake",
+        "text": "Saka urutan kanggo pembayaran, tanpa ngirim informasi saka siji file menyang liyane."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Telusuri produk, solusi, industri…",
+    "lang_filter": "Basa telusuran",
+    "intro": "Telusuri produk, solusi, industri lan sumber daya.",
+    "empty": "Ora ana asil kanggo \"{q}\".",
+    "hint": "Coba dodolan, gudang, rute utawa koleksi.",
+    "results": "{n} asil",
+    "button": "Goleki",
+    "kind_product": "produk",
+    "kind_solution": "Solusi",
+    "kind_industry": "Industri",
+    "kind_resource": "sumber daya"
+  },
+  "notfound": {
+    "title": "Kaca iki ora",
+    "text": "Link ora ana utawa wis diganti lokasi."
+  },
+  "common": {
+    "what": "Apa solves",
+    "features": "Apa sing kalebu",
+    "benefits": "Apa iku penting",
+    "for_who": "Kanggo sapa iku?",
+    "related": "Uga ing ekosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sales dina iki",
+      "orders": "Pesenan",
+      "clients": "Pelanggan",
+      "products": "Produk"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Dodolan",
+      "purchases": "Blanja",
+      "inventory": "Persediaan",
+      "clients": "Pelanggan",
+      "reports": "Laporan"
+    },
+    "chart": "Dodolan",
+    "channel": "Distribusi dening saluran",
+    "channels": [
+      "toko",
+      "Distribusi",
+      "Grosir",
+      "liyane"
+    ],
+    "orders": "pesenan paling anyar",
+    "col_order": "dhawuh",
+    "col_client": "Pelanggan",
+    "col_status": "negara",
+    "col_total": "Total",
+    "status": [
+      "Dikirim",
+      "Ing dalan",
+      "Anting"
+    ],
+    "top": "Produk paling laris",
+    "product": "produk",
+    "sales_menu": [
+      "Pelanggan",
+      "Pesenan",
+      "Produk",
+      "Rute",
+      "Sinkronisasi"
+    ],
+    "warehouse_menu": [
+      "Resepsi",
+      "Picking",
+      "Persediaan",
+      "Kiriman",
+      "Sinkronisasi"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Kebijakan Privasi",
+    "privacy_intro": "Kabijakan iki nerangake apa sing kita lakoni karo data sing ditinggalake ing formulir ing situs iki.",
+    "privacy": [
+      {
+        "title": "Data apa sing diklumpukake",
+        "text": "Yen sampeyan njaluk demo utawa nulis kanggo kita, kita nyimpen jeneng, perusahaan, email, nomer telpon yen sampeyan nuduhake, negara, ukuran tim, produk saka kapentingan lan pesen. Kita uga ngrekam tanggal, basa kaca lan alamat IP, kanggo nyegah kiriman kasar."
+      },
+      {
+        "title": "Apa sing kita gunakake?",
+        "text": "Kita nggunakake data iki mung kanggo nanggapi sampeyan, koordinasi demo lan nyiapake proposal komersial. Kita ora ngedol utawa menehi menyang dhaptar pihak katelu."
+      },
+      {
+        "title": "Ing endi disimpen lan suwene suwene?",
+        "text": "Panyuwunan disimpen ing server situs iki. Kita nyimpen kanggo wektu sing perlu kanggo ngawula sampeyan lan komersial tindakake-munggah, lan kita mbusak mau nalika takon kita utawa nalika lagi ora needed."
+      },
+      {
+        "title": "Hakmu",
+        "text": "Sampeyan bisa njaluk akses, koreksi utawa mbusak data saka formulir kontak, nuduhake ing pesen. Yen perusahaan nerbitake email ing situs web iki, sampeyan uga bisa nulis ing kana."
+      }
+    ],
+    "terms_title": "Katentuan Pangginaan supados langkung",
+    "terms_intro": "Kahanan kasebut ditrapake kanggo panggunaan situs pengajuan FullVendor iki.",
+    "terms": [
+      {
+        "title": "Informasi komersial",
+        "text": "Teks, conto tokoh dashboard lan deskripsi ngenalake platform kasebut. Padha bisa diatur nalika prodhuk diganti lan ora tawaran ditutup."
+      },
+      {
+        "title": "Demo dudu kontrak",
+        "text": "Ngirim formulir ora nggawe kewajiban kanggo tuku utawa cadangan rega. Sembarang kontrak disepakati kanthi kapisah, kanthi nulis, kanthi ruang lingkup lan kahanan."
+      },
+      {
+        "title": "Isi situs",
+        "text": "FullVendor merek dagang, jeneng produk lan isi kaca iki kagungane sing nduweni. Dheweke ora bisa disalin kanggo nampilake produk liyane."
+      },
+      {
+        "title": "Panggunaan sing bisa ditampa",
+        "text": "Aja nggunakake formulir kanggo ngirim informasi palsu, spam utawa isi ilegal. Kita bisa nglirwakake panjalukan sing ora cocog karo obrolan bisnis sing nyata."
+      }
+    ]
+  }
+}

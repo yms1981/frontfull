@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Gerir e far créisser vòstre negòci",
+    "home_desc": "Plataforma tot en un amb solucions web e mobilas per la distribucion, las ventas, la logistica, la crompa, l'inventari e las finanças.",
+    "products_title": "Produches | FullVendor",
+    "products_desc": "Coneissètz l'ecosistèma FullVendor: plataforma comerciala, ERP, logistica, provesidors e vendas, aplicacions d'entrepòt e de finanças.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solucions | FullVendor",
+    "solutions_desc": "Solucions per la gestion comerciala, la fòrça de ventas, l'entrepòt, la logistica, la crompa e la finança.",
+    "industries_title": "Industrias | FullVendor",
+    "industries_desc": "FullVendor per la distribucion, la comèrci al detalh, la noiridura, la farmacia, la maquinaria, la consomacion de massa, la fabricacion e la darrièra mila.",
+    "pricing_title": "Prètz | FullVendor",
+    "pricing_desc": "Plans essencials, professionals e corporatius. La proposicion es mesa ensems segon los moduls, los utilizaires e lo volum.",
+    "resources_title": "Ressorsas | FullVendor",
+    "resources_desc": "Guidas cortas per unificar la distribucion, vendre fòra linha, organizar l'entrepòt e èsser pagat a l'ora.",
+    "contact_title": "Contactar | FullVendor",
+    "contact_desc": "Escrivètz-nos per aprene sus FullVendor o coordinar una convèrsa amb l'equipa de vendas.",
+    "demo_title": "Demandar de mòstra | FullVendor",
+    "demo_desc": "Demandatz una mòstra de FullVendor e viratz la plataforma amb un cas similar a vòstre foncionament.",
+    "privacy_title": "Privacitat | FullVendor",
+    "terms_title": "Condicions | FullVendor",
+    "search_title": "Cercar | FullVendor",
+    "notfound_title": "Pagina pas trobada | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pagina d'acuèlh",
+    "products": "Produches",
+    "solutions": "Solucions",
+    "industries": "Industrias",
+    "pricing": "Prètz",
+    "resources": "Ressorgas",
+    "contact": "Contacte",
+    "open_menu": "Dobrir lo menú",
+    "close": "Barrar"
+  },
+  "cta": {
+    "demo": "Demandar de mòstra",
+    "contact": "Contactatz-nos",
+    "video": "Veire la vidèo",
+    "talk": "Parlar amb las vendas",
+    "all_products": "Veire totes los produches",
+    "home": "Tornar a la pagina d'acuèlh"
+  },
+  "a11y": {
+    "skip": "Sautar al contengut",
+    "primary": "Navegacion principala",
+    "crumbs": "Itinerari de navegacion",
+    "search": "Cercar",
+    "language": "Lenga"
+  },
+  "hero": {
+    "eyebrow": "Tot en una plataforma",
+    "title": "Gerir e créisser\nvòstre negòci amb\n{{brand}}",
+    "subtitle": "Una plataforma completa amb de solucions web e mobilas per la distribucion, las ventas, la logistica, la crompa, l'inventari, las finanças e mai.",
+    "pill_ecosystem": "Tot dins un ecosistèma unic",
+    "pill_cloud": "Dins lo nívol, segur e escalable",
+    "pill_size": "Per entrepresas de totas talhas"
+  },
+  "products_block": {
+    "eyebrow": "Nòstres produches",
+    "title": "Un [[ecosistèma complet]] per cada airal de vòstra entrepresa",
+    "aside": "Solucions integradas que trabalhan amassa per vos donar un contraròtle total, una eficiéncia operacionala e una creissença mai granda.",
+    "groups": {
+      "money": "Administracion e recaptacion",
+      "flow": "Crompas e liurason",
+      "field": "Vendas e magasin"
+    }
+  },
+  "products_page": {
+    "title": "Sèt produches, [[operacion unica]]",
+    "text": "Cada produch resòlv una zòna. Amassa partejan de clients, d'estoc, de comandas e de pagaments."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataforma",
+      "card": "Plataforma principal para la gestion y distribucion comercial.",
+      "features": [
+        "Vendas e crompas",
+        "Inventari",
+        "Clients e provesidors",
+        "Rapòrts e mai"
+      ],
+      "lead": "Lo centre de vòstra operacion comerciala : comandas, prètzs, estoc e clients en un sol luòc.",
+      "about": "FullVendor remplaça los fuèlhs de calcul e sistèmas solts d'un distribuïdor. D'aquí las comandas sortisson, l'inventari es consultat, lo portfolio dels clients es ocupat e los chifras del jorn son agachats. Lo rèsta de l'ecosistèma se connecta a aquela basa.",
+      "benefits": [
+        {
+          "title": "Un sol mèstre de donadas",
+          "text": "Los clients, los produches e los prètzs son partejats amb las vendas, l'entrepaus e las finanças."
+        },
+        {
+          "title": "Operacion quotidiana desbarrassa",
+          "text": "Las comandas, las crompas e las estocs arrèstan de viure dins de fichièrs diferents."
+        },
+        {
+          "title": "Rapòrts a decidir",
+          "text": "Las vendas, lo marge e l'espèra son vistes sens metre ensems una taula a la man."
+        },
+        {
+          "title": "Lèst a créisser",
+          "text": "Logística, fòrça de venda o ERP de somas quand l'operacion o demanda."
+        }
+      ],
+      "audience": "Equipas comercialas e de distribucion que uèi coordinan lo negòci entre divèrses sistèmas."
+    },
+    "erp": {
+      "kicker": "Administracion",
+      "card": "Gestion administrativa e financièra completa.",
+      "features": [
+        "Comptabilitat",
+        "Facturacion electronica",
+        "Fuèlhas de trabalh",
+        "Actius fixes",
+        "Multi-entrepresa"
+      ],
+      "lead": "Administracion e finanças, alinhadas amb çò qu'es realament vendut e liurat.",
+      "about": "FullVendor ERP cobrís la comptabilitat, la facturacion electronica, las nòminas, los actius fixes e las multi-entrepresas. Pren l'operacion comerciala e la convertís en entradas, rebuts e estats que l'airal financièr pòt utilizar.",
+      "benefits": [
+        {
+          "title": "Comptabilitat connectada",
+          "text": "Çò que se passa dins las vendas e las crompas alimenta la comptabilitat."
+        },
+        {
+          "title": "Rebuts electronics",
+          "text": "Emetètz e contraròtlatz la facturacion dempuèi lo meteis ecosistèma."
+        },
+        {
+          "title": "Divèrsas entrepresas",
+          "text": "Multi-entrepresa pels grops qu'opèran jos mai d'un nom d'entrepresa."
+        },
+        {
+          "title": "Nòminas e actius",
+          "text": "La nòmina e los actius fixes amb lo rèsta de la gestion."
+        }
+      ],
+      "audience": "Airals administratius e financèrs que vòlen barrar es chifres damb eth foncionament reau."
+    },
+    "logistics": {
+      "kicker": "Logística",
+      "card": "Contraròtle e seguiment de vòstre foncionament logistic.",
+      "features": [
+        "Rotas e entregas",
+        "Seguiment en temps real",
+        "Assignacion de pilòt",
+        "Optimizacion de la rota"
+      ],
+      "lead": "De la comanda a la remesa: rotas, pilòts e seguiment en temps real.",
+      "about": "FullVendor Logistics organiza la distribucion. Creatz de rotas, assignatz de pilòts e veiretz ont va cada remesa. L'equipa de trafic s'arrèsta segon las cridas per saber se la comanda es expediada.",
+      "benefits": [
+        {
+          "title": "Rotas del jorn",
+          "text": "Liuraments comandats per zòna, fenèstra orari e capacitat."
+        },
+        {
+          "title": "Pilòt assignat",
+          "text": "Cada rota a un responsable e una sequéncia clara."
+        },
+        {
+          "title": "Seguiment",
+          "text": "Sabètz çò qu'es liurat, en camin o arrestat."
+        },
+        {
+          "title": "Mens de quilomètres",
+          "text": "L'optimizacion de la rota redusís lo temps e lo còst de liurason."
+        }
+      ],
+      "audience": "Operacions de distribucion amb flòta pròpria o de tèrces."
+    },
+    "supplier": {
+      "kicker": "Crompas",
+      "card": "Portal pels provesidors e gestion de las crompas.",
+      "features": [
+        "Comandas de crompa",
+        "Citacions",
+        "Gestion dels provesidors",
+        "Integracion amb l'inventari"
+      ],
+      "lead": "Vòstres provesidors cotisson, recebon de comandas e replegan l'estoc sens corrièls perduts.",
+      "about": "Vendor Supplier dobrís un portal per las crompas e los provesidors per trabalhar sus las meteissas comandas. Los devis, las comandas de crompa e lo rebut son ligats a l'inventari del FullVendor.",
+      "benefits": [
+        {
+          "title": "Comandas dins un canal",
+          "text": "Lo provesidor vei çò que cal liurèr, sens una cadena de corrièl."
+        },
+        {
+          "title": "De citacions comparablas",
+          "text": "Demandatz de prètz e causissètz amb l'istoric en vista."
+        },
+        {
+          "title": "Mèstre de provesidor",
+          "text": "Condicions, contactes e pendents dins un sol enregistrament."
+        },
+        {
+          "title": "Picatz l'inventari",
+          "text": "Çò que foguèt crompat se rebat dins l'estoc quand es recebut."
+        }
+      ],
+      "audience": "Equipas de crompa que se replegan amb divèrses provesidors e an besonh de traçabilitat."
+    },
+    "salesman": {
+      "kicker": "Aplicacion mobila",
+      "card": "Aplicacion mobila per l'equipa de ventas.",
+      "features": [
+        "Gestion del client",
+        "Presa de comandas",
+        "Catalòg de produchs",
+        "Trabalh fòra linha"
+      ],
+      "lead": "La còla de venda pren de comandas dins la carrièra, amb o sens senhal.",
+      "about": "FullVendor Sales Man met vòstre portfolio, catalòg e presa de comanda sul telefòn del vendeire. Se i a pas d'internet, lo trabalh contunha e se sincroniza quand lo senhal torna. La comanda arriba prèsta per preparar e liurèr.",
+      "benefits": [
+        {
+          "title": "Portamoneda en pòcha",
+          "text": "Lo vendeire vei los clients, las condicions e los articles pendents."
+        },
+        {
+          "title": "Comandatz a la visita",
+          "text": "Prenètz la comanda amb los prètzs actuals e l'estoc."
+        },
+        {
+          "title": "Catalòg a jorn",
+          "text": "Produits, presentacions e prètz sens un ancian PDF."
+        },
+        {
+          "title": "Vertadièr fòra linha",
+          "text": "Trabalhar sens cobertura e sincronizar mai tard."
+        }
+      ],
+      "audience": "Supervisors e vendeire de camp en distribucion e consomacion de massa."
+    },
+    "warehouse": {
+      "kicker": "Aplicacion mobila",
+      "card": "Aplicacion mobila per almacén.",
+      "features": [
+        "Recepcion e despatch",
+        "Cuelhatge e embalatge",
+        "Contraròtle d'inventari",
+        "Lectura de còde de barras"
+      ],
+      "lead": "Recepcion, recolhida e despacha amb lo telefòn e lo còde de barras.",
+      "about": "FullVendor Warehouse guida l'entrepòt dins la recepcion, la culhida, l'embalatge e l'expedicion. La lectura dels còdes redusís las errors e l'inventari es pas pus comptat sonque a la fin del mes.",
+      "benefits": [
+        {
+          "title": "Recepcion contra òrdre",
+          "text": "Çò que dintra es comparat a la crompa."
+        },
+        {
+          "title": "Picada ciblada",
+          "text": "Lo proprietari seguís la comanda e confirma cada article."
+        },
+        {
+          "title": "Còdes de barras",
+          "text": "Mens d'errors de produch, de lot o de quantitat."
+        },
+        {
+          "title": "Estoc de fisança",
+          "text": "Cada movement met a jorn l'inventari de la plataforma."
+        }
+      ],
+      "audience": "Responsables d'entrepòts e armadors que preparan uèi de comandas amb de listas estampadas."
+    },
+    "finance": {
+      "kicker": "Aplicacion mobila",
+      "card": "Contraròtle financièr dempuèi vòstre mobil.",
+      "features": [
+        "Comptes a recebre e pagables",
+        "Estat del client",
+        "Pagaments e conciliacions",
+        "Rapòrts financièrs"
+      ],
+      "lead": "Comptes a recebre, pagaments e estatut del client, dempuèi vòstre telefòn.",
+      "about": "FullVendor Finance mòstra la recaptacion sul mobil: çò que deu cada client, çò que l'entrepresa es a mand de pagar e cossí venon los pagaments. Qu’ei utilizat entà crubar dinèrs pendent la visita e entà agachar la caisha shens daurir lo burèu.",
+      "benefits": [
+        {
+          "title": "Colleccion a la visita",
+          "text": "Lo vendeire sap se lo client es a jorn abans de vendre."
+        },
+        {
+          "title": "Recebuts e pagables",
+          "text": "Los dos costats de la bóstia dins la meteissa aplicacion."
+        },
+        {
+          "title": "Pagaments e conciliacions",
+          "text": "Enregistratz de crèdits e veiretz çò que cal traversar."
+        },
+        {
+          "title": "Rapòrts a la man",
+          "text": "Recaptacion e indicadors de liquiditats sense esperar un clausura."
+        }
+      ],
+      "audience": "Gestores, colleccionaires e vendedors qu'an besonh dera situacion deth client en aguesti moments."
+    }
+  },
+  "why": {
+    "eyebrow": "Perqué FullVendor",
+    "title": "Impulsar vòstre negòci\namb de resultats reals",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Las entrepresas nos fan confiéncia"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Utilizaires actius"
+      },
+      {
+        "value": "+10",
+        "suffix": "ans",
+        "label": "En evolucion constanta"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilitat del nívol"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Cossí fonciona",
+    "title": "De la venta a la coleccion, sin cambiar de sistemas",
+    "text": "Cada produch parteja de clients, d'estocs, de comandas e de pagaments. Çò que se passa dins la carrièra o dins l'entrepòt apareis dins lo burèu a l'instant.",
+    "steps": {
+      "sell": {
+        "title": "Vendètz",
+        "text": "La comanda es introducha a travèrs lo sit web o a travèrs Sales Man, quitament sens senhal."
+      },
+      "pick": {
+        "title": "Prèst",
+        "text": "Warehouse recep, separa e despacha amb còde de barras."
+      },
+      "deliver": {
+        "title": "Liuraments",
+        "text": "Logistics assigna la rota e seguís la liurason."
+      },
+      "collect": {
+        "title": "Còbras",
+        "text": "Finance e ERP barran lo recapte, los recebuts e los nombres."
+      }
+    }
+  },
+  "band": {
+    "title": "Lèst a lo veire amb [[vòstra operacion]] ?",
+    "text": "Vos mostram l'ecosistèma amb un cas de distribucion similar al vòstre."
+  },
+  "footer": {
+    "blurb": "Plataforma web e mobila per distribucion, vendas, logistica, crompa, inventari e finanças.",
+    "products": "Produches",
+    "company": "Companhiá",
+    "legal": "Legal",
+    "privacy": "Privacitat",
+    "terms": "Tèrmes",
+    "rights": "Totes los dreches reservats."
+  },
+  "solutions": {
+    "eyebrow": "Solucions",
+    "title": "Cada airal, connectat a la [[meteissa operacion]].",
+    "intro": "Causissètz segon lo problèma que volètz resòlvre. Darrièr, los produches partejan la meteissa informacion.",
+    "items": {
+      "commercial": {
+        "title": "Gestion comercial",
+        "text": "Comandas, prètzs, clients e inventari per la distribucion quotidiana."
+      },
+      "field": {
+        "title": "fòrça de venda",
+        "text": "Vendeire que prenon de comandas dins la carrièra, en linha o fòra linha."
+      },
+      "warehouse": {
+        "title": "Botiga",
+        "text": "Recepcion, culhida, despachament e un estoc que se pòt far fisança."
+      },
+      "logistics": {
+        "title": "Logística e entrega",
+        "text": "Rotas, pilòts e l'estatut de cada remesa."
+      },
+      "purchasing": {
+        "title": "Compras e provesidors",
+        "text": "Devis, comandas e un portal per qui que siá que vos provesís."
+      },
+      "finance": {
+        "title": "Finanças e comptabilitat",
+        "text": "Colleccions, pagaments, facturacion electronica e comptabilitat."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrias",
+    "title": "Facha per los que [[desplaçan lo produch]]",
+    "intro": "FullVendor nasquèt dins la distribucion e acompanha las entrepresas que crompan, emmagazinan, vendon e liuran.",
+    "items": {
+      "wholesale": {
+        "title": "Distribucion e venta al por mayor",
+        "text": "Listas de precios, cartera, distribucion y coleccion en un solo circuito."
+      },
+      "retail": {
+        "title": "Venda pel menut",
+        "text": "Magasin e magazin amb estoc connectat, vendas e replegament."
+      },
+      "food": {
+        "title": "Manjar e beure",
+        "text": "Rotas frequentas e un magazin que pòt pas s'arrestar."
+      },
+      "pharma": {
+        "title": "Farmacia e atencion personala",
+        "text": "Recepcion, culhida e contraròtle d'inventari amb traçabilitat."
+      },
+      "hardware": {
+        "title": "Maquinari e construccion",
+        "text": "Fòrça referéncias, provesidors e liurasons al trabalh o a la botiga."
+      },
+      "fmcg": {
+        "title": "Consomacion de massa",
+        "text": "Fòrça de venda de carrièra e remplaçament de rotacion nauta."
+      },
+      "manufacturing": {
+        "title": "Fabricacion",
+        "text": "Crompa, magazin e inventari alinhats amb l'administracion."
+      },
+      "lastmile": {
+        "title": "Liurason e darrièr quilomètre",
+        "text": "Rotas, pilòts e l'estatut de cada remesa."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ressorgas",
+    "title": "Esclairar las idèas per [[ordenar l'operacion]].",
+    "intro": "Guidas cortas pels gestionaris de distribucion que van decidir amb quin sistèma se tenir.",
+    "items": {
+      "unify": {
+        "title": "Cossí unificar la distribucion dins un sol sistèma",
+        "summary": "Qué metre ensems primièr quand las vendas, l'entrepòt e las colleccions vivon dins de fichièrs diferents.",
+        "points": [
+          "Començatz pels clients, los produches e los prètzs : son lo professor que cadun utiliza.",
+          "Connectatz la comanda amb l'estoc abans d'apondre mai d'aplicacions.",
+          "Mesura un nombre simple : comandas complidas sens tornar far lo formulari."
+        ]
+      },
+      "offline": {
+        "title": "La fòrça de venda trabalha fòra linha",
+        "summary": "Qué demandar d'una aplicacion de comanda per que lo vendeire s'arrèste pas a causa del senhal.",
+        "points": [
+          "Lo catalòg e lo portamoneda devon èsser sul telefòn, pas sonque dins lo nívol.",
+          "La comanda es enregistrada sul periferic e enviada quand la ret torna.",
+          "Al moment de la sincronizacion, la comanda dintra ja dins l'entrepòt."
+        ]
+      },
+      "warehouse": {
+        "title": "Bodega amb còde de barras, sens papièr",
+        "summary": "Cossí passar de la lista estampada a la picada confirmada sul telefòn.",
+        "points": [
+          "Recebre contra la comanda de crompa, pas contra la memòria.",
+          "Confirmatz cada element al moment de la separacion. L'insècte talha dins lo corredor.",
+          "Lo despatch met a jorn l'estoc que lo vendeire vei."
+        ]
+      },
+      "finance": {
+        "title": "Colleccion alinhada amb la venta",
+        "summary": "Perqué lo vendeire deuriá veire lo deute del client abans de prene una autra comanda.",
+        "points": [
+          "La visita es lo melhor moment per recaptar, se lo deute es visible.",
+          "Las vendas e las finanças devon agachar lo meteis client.",
+          "Un rapòrt quotidian en retard val mai qu'una barradura tardièra."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prètz",
+    "title": "Un ecosistèma que [[crèis amb tu]]",
+    "intro": "Publicam pas un prètz generic: lo còst depend dels moduls, dels utilizaires e del volum. Vos mostram la plataforma e metèm ensems una proposicion amb vòstre foncionament.",
+    "note": "La demo a pas cap de còst e demanda pas de contracte.",
+    "recommended": "Recomandat",
+    "faq_title": "Questions frequentas",
+    "plans": {
+      "essential": {
+        "name": "Essencial",
+        "desc": "Organizar la gestion comerciala e la distribucion sus una sola plataforma.",
+        "features": [
+          "FullVendor plataforma web",
+          "Vendas, crompas e inventari",
+          "Clients, provesidors e rapòrts",
+          "Utilizaires d'equipament de burèu",
+          "Supòrt de la mesa en marcha"
+        ],
+        "cta": "Demandar de mòstra"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Per las equipas que vendon dins la carrièra e preparan de comandas dins l'entrepòt.",
+        "features": [
+          "Tot essencial",
+          "Aplicacion FullVendor Sales Man",
+          "Aplicacion FullVendor Warehouse",
+          "Trabalh fòra linha e còdis de barras",
+          "Mai d'utilizaires de camp e d'entrepòt"
+        ],
+        "cta": "Demandar de mòstra"
+      },
+      "corporate": {
+        "name": "Corporatiu",
+        "desc": "Per de grops que necessitan de logistica, de crompa, de finanças e d'entrepresas divèrsas.",
+        "features": [
+          "Ecosistèma complet",
+          "Logistics, Vendor Supplier e Finance",
+          "FullVendor ERP e multilocacion",
+          "Facturacion e comptabilitat electronica",
+          "Acompanhament e disponibilitat prioritària"
+        ],
+        "cta": "Parlar amb las vendas"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Devi crompar totes los produches?",
+        "a": "Non. Podètz començar amb FullVendor e apondre d'aplicacions o ERP quand l'operacion n'a de besonh."
+      },
+      "offline": {
+        "q": "Las aplicacions foncionan sens internet?",
+        "a": "Sales Man e Warehouse contunhan de foncionar sens senhal e se sincronizan al moment de tornar connectar."
+      },
+      "multi": {
+        "q": "Fonciona s'ai mai d'una entrepresa?",
+        "a": "Òc. ERP contempla la multi-entrepresa e l'ecosistèma pòt partejar de mèstres entre eles."
+      },
+      "demo": {
+        "q": "Qué inclutz la demo?",
+        "a": "Un torn de la plataforma amb un estoig similar al vòstre. Pas de còst e pas d'obligacion."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Vos mostram FullVendor amb [[vòstre tipe d'operacion]].",
+    "text": "Parlatz-nos de vòstra entrepresa e de çò que volètz comandar d'en primièr. La demo a pas cap de còst."
+  },
+  "contact": {
+    "eyebrow": "Contacte",
+    "title": "Parlem de [[vòstra operacion]].",
+    "text": "Se volètz una demo, una proposicion o sonque per vos orientar entre los produches, daissatz vòstras informacions e respondrem.",
+    "email": "Corrièr",
+    "phone": "Telefòn",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nom",
+    "email": "Corrièr",
+    "phone": "Telefòn",
+    "company": "Companhiá",
+    "country": "País",
+    "team": "Talha de l'equipa",
+    "interest": "Qué t'interèssa?",
+    "message": "Messatge",
+    "optional": "Opcional",
+    "choose": "Causir",
+    "interest_all": "L'ecosistèma entièr",
+    "ph_name": "vòstre nom",
+    "ph_email": "vos@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Vòstra entrepresa",
+    "ph_country": "País",
+    "ph_message": "Digatz-nos cossí foncionatz uèi",
+    "privacy_before": "Accepti l'utilizacion de mas donadas segon lo",
+    "privacy_after": ".",
+    "submit": "Mandar la demanda",
+    "sent_title": "Recebèm vòstra demanda",
+    "sent_text": "Mercés. L'equipa de vendas vos escriurà per coordinar la demo o respondre a vòstra question.",
+    "error_required": "Completatz ​​aqueste camp.",
+    "error_email": "Picatz un corrièl valid.",
+    "error_phone": "Verificatz lo telefòn.",
+    "error_privacy": "Avèm besonh de vòstre consentiment per utilizar los detalhs de contacte.",
+    "error_csrf": "La sesilha a expirat. Tornatz mandar lo formulari.",
+    "error_save": "Avèm pas pogut enregistrar la demanda. Ensajatz tornarmai.",
+    "error_generic": "Revisatz los camps marcats.",
+    "error_rate": "Mercés d'esperar un moment abans de mandar una autra demanda.",
+    "team_options": {
+      "1-10": "1 a 10 personas",
+      "11-50": "11 a 50 personas",
+      "51-200": "51 a 200 personas",
+      "201-500": "201 a 500 personas",
+      "500+": "Mai de 500 personas"
+    }
+  },
+  "video": {
+    "title": "FullVendor en una minuta",
+    "prev": "Ancian",
+    "next": "Seguent",
+    "slides": [
+      {
+        "title": "Un ecosistèma unic",
+        "text": "Las ventas, l'entrepòt, la liurason, la crompa e las finanças partejan de clients, d'estoc e de comandas."
+      },
+      {
+        "title": "Web e mobil amassa",
+        "text": "Lo burèu fonciona sus la plataforma. La carrièra e l'entrepòt, dins las apps, quitament sens senhal."
+      },
+      {
+        "title": "Fach per distribuir",
+        "text": "De la comanda al pagament, sens passar d'informacions d'un fichièr a un autre."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Recèrca de produchs, de solucions, d'industrias...",
+    "lang_filter": "Lenga de recèrca",
+    "intro": "Cercar de produches, de solucions, d'industrias e de ressorsas.",
+    "empty": "Trobèrem pas de resultats per \"{q}\".",
+    "hint": "Ensajatz de vendas, d'entrepòts, de rotas o de collectas.",
+    "results": "{n} resultats",
+    "button": "Cercar",
+    "kind_product": "Produch",
+    "kind_solution": "Solucion",
+    "kind_industry": "Industria",
+    "kind_resource": "Ressorsa"
+  },
+  "notfound": {
+    "title": "Aquesta pagina es pas",
+    "text": "Lo ligam existís pas o a cambiat d'emplaçament."
+  },
+  "common": {
+    "what": "Qué resòlv",
+    "features": "Qué es inclus",
+    "benefits": "Perqué importa",
+    "for_who": "Per qui es?",
+    "related": "Tanben dins l'ecosistèma"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vendas uèi",
+      "orders": "Comandas",
+      "clients": "Clients",
+      "products": "Produches"
+    },
+    "sidebar": {
+      "dashboard": "Tablèu de bòrd",
+      "sales": "Vendas",
+      "purchases": "Crompas",
+      "inventory": "Inventari",
+      "clients": "Clients",
+      "reports": "Rapòrts"
+    },
+    "chart": "Vendas",
+    "channel": "Distribucion per canal",
+    "channels": [
+      "Botiga",
+      "Distribucion",
+      "Grossista",
+      "D'autres"
+    ],
+    "orders": "Las darrièras comandas",
+    "col_order": "Òrdre",
+    "col_client": "Client",
+    "col_status": "Estat",
+    "col_total": "Total",
+    "status": [
+      "Liurat",
+      "En camin",
+      "Aurelha"
+    ],
+    "top": "Produches mai venduts",
+    "product": "Produch",
+    "sales_menu": [
+      "Clients",
+      "Comandas",
+      "Produches",
+      "Rotas",
+      "Sincronizar"
+    ],
+    "warehouse_menu": [
+      "Recepcion",
+      "Picar",
+      "Inventari",
+      "Expedir",
+      "Sincronizar"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politica de confidencialitat",
+    "privacy_intro": "Aquesta politica explica çò que fasèm amb las donadas que daissatz dins de formularis sus aqueste sit.",
+    "privacy": [
+      {
+        "title": "Quinas donadas collectam",
+        "text": "Se demandatz una demostracion o nos escrivètz, enregistram lo nom, l'entrepresa, lo corrièl, lo numèro de telefòn se l'indicatz, lo país, la talha de l'equipa, lo produch d'interès e lo messatge. Enregistram tanben la data, la lenga de la pagina e l'adreça IP, per prevenir de somissions abusivas."
+      },
+      {
+        "title": "Per qué los utilizam?",
+        "text": "Utilizam aquestas donadas sonque per vos respondre, coordinar una demo e preparar una proposicion comerciala. Los vendrèm pas o los donèm pas a una lista de tèrces."
+      },
+      {
+        "title": "Ont son emmagazinats e pendent quant de temps?",
+        "text": "Las requèstas son emmagazinadas sul servidor d'aqueste sit. Los gardam pel temps necessari per vos servir e lo seguit comercial, e los suprimèm quand nos demandatz o quand son pas pus necessaris."
+      },
+      {
+        "title": "Vòstres dreches",
+        "text": "Podètz demandar l'accès, la correccion o la supression de vòstras donadas dempuèi lo formulari de contacte, en o indicant dins lo messatge. Se l'entrepresa publica un corrièl sus aqueste sit web, i podètz tanben escriure."
+      }
+    ],
+    "terms_title": "Condicions d'utilizacion",
+    "terms_intro": "Aquestas condicions s'aplican a l'utilizacion d'aqueste sit de somission FullVendor.",
+    "terms": [
+      {
+        "title": "Informacion comerciala",
+        "text": "De tèxtes, d'exemples de figuras de tablèu de bòrd e de descripcions introduson la plataforma. Pòdon èsser ajustats quand lo produch càmbia e son pas una ofèrta barrada."
+      },
+      {
+        "title": "La demo es pas un contracte",
+        "text": "Enviar lo formulari crea pas una obligacion de crompar o de reservar un prètz. Tot contracte es convengut separadament, per escrich, amb son encastre e sas condicions."
+      },
+      {
+        "title": "Contengut del sit",
+        "text": "La marca FullVendor, los noms de produchs e lo contengut d'aquelas paginas apartenon a lors proprietaris. Pòdon pas èsser copiats per presentar un autre produch."
+      },
+      {
+        "title": "Utilizacion acceptable",
+        "text": "Utilizatz pas los formularis per mandar d'informacions falsas, de corrièrs indesirables o de contengut illegal. Podèm ignorar las demandas que correspondon pas a una convèrsa comerciala reala."
+      }
+    ]
+  }
+}

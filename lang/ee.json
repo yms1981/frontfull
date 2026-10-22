@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor ƒe Ɖoɖowɔɖi | Dzra wò dɔwɔƒea dzi eye nàdzii ɖe edzi",
+    "home_desc": "Nusianu le ɖeka ƒe mɔnu si me web kple asitelefon dzi kuxiwo gbɔkpɔnu le na mama, nudzadzra, ɖoɖowɔwɔ, nuƒle, nudzraɖoƒewo kple ganyawo.",
+    "products_title": "Nusiwo Wowɔ | FullVendor .",
+    "products_desc": "Nya nu tso lãwo ƒe agbenɔnɔ ƒe ɖoɖoa ŋu FullVendor: asitsatsa ƒe mɔnu, ERP, ɖoɖowɔwɔ, nudzralawo kple nudzadzra, nudzraɖoƒe kple ganyawo ŋuti dɔwɔɖoɖowo.",
+    "product_title": "{name} ƒe Ɖoɖowɔɖi | FullVendor .",
+    "solutions_title": "Egbɔkpɔnuwo | FullVendor .",
+    "solutions_desc": "Egbɔkpɔnuwo na asitsatsa dzikpɔkpɔ, nudzralawo ƒe ha, nudzraɖoƒe, nuwo ɖoɖoɖa, nuƒle kple ganyawo.",
+    "industries_title": "Dɔwɔƒewo | FullVendor .",
+    "industries_desc": "FullVendor na mama, asitsatsa, nuɖuɖu, atikedzraƒe, xɔtunuwo, agbɔsɔsɔme zazã, ewɔwɔ kple kilometa mamlɛtɔ.",
+    "pricing_title": "Ga homewo | FullVendor .",
+    "pricing_desc": "Vevietɔ, Dɔwɔlawo kple Dɔwɔƒewo ƒe Ðoɖowo. Woƒo aɖaŋuɖoɖoa nu ƒu ɖe modules, users kple volume nu.",
+    "resources_title": "Dɔwɔnuwo | FullVendor .",
+    "resources_desc": "Mɔfiame kpui siwo ana woawɔ ɖeka le mama me, adzra nu le Internet dzi, awɔ ɖoɖo ɖe nudzraɖoƒea ŋu eye woaxe fe na wò ɖe game dzi.",
+    "contact_title": "Ka ɖe edzi be | FullVendor .",
+    "contact_desc": "Ŋlɔ agbalẽ na mí be nàsrɔ̃ nu tso FullVendor ŋu alo nàwɔ ɖoɖo ɖe dzeɖoɖo aɖe ŋu kple nudzralawo ƒe ƒuƒoƒoa.",
+    "demo_title": "Bia demo | FullVendor .",
+    "demo_desc": "Bia FullVendor ƒe wɔwɔfia eye nàɖi tsa le nuƒolanɔƒea kple nya si sɔ kple wò dɔwɔwɔ.",
+    "privacy_title": "Adzamenyawo | FullVendor .",
+    "terms_title": "Nyawo | FullVendor .",
+    "search_title": "Didi | FullVendor .",
+    "notfound_title": "Axa si womekpɔ o | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Aƒeme ƒe axa",
+    "products": "Nusiwo Wowɔ",
+    "solutions": "Egbɔkpɔnuwo",
+    "industries": "Dɔwɔƒewo",
+    "pricing": "Ga homewo",
+    "resources": "Nunɔamesiwo",
+    "contact": "Kadodo",
+    "open_menu": "Ʋu menu ƒe nyawo",
+    "close": "Tu"
+  },
+  "cta": {
+    "demo": "Bia Demo",
+    "contact": "Te ɖe mía ŋu",
+    "video": "Kpɔ Videoa ɖa",
+    "talk": "Ƒo nu kple nudzralawo",
+    "all_products": "Kpɔ nusiwo katã wowɔ",
+    "home": "Trɔ yi axa gbãtɔ dzi"
+  },
+  "a11y": {
+    "skip": "Ti kpo yi emenyawo gbɔ",
+    "primary": "Mɔfiame vevitɔ",
+    "crumbs": "Mɔ si dzi woato azɔ mɔ",
+    "search": "Di",
+    "language": "Gbegbᴐgblᴐ"
+  },
+  "hero": {
+    "eyebrow": "Wo katã le nuƒolanɔƒe ɖeka",
+    "title": "Dzra ɖo eye nàtsi\nwò asitsatsa kple\n{{brand}} .",
+    "subtitle": "Nuƒolanɔƒe blibo si me web kple asitelefon dzi egbɔkpɔnuwo le na mama, nudzadzra, ɖoɖowɔwɔ, nuƒle, nudzraɖoƒe, ganyawo kple bubuwo.",
+    "pill_ecosystem": "Nusianu si le lãwo ƒe agbenɔnɔ ƒe ɖoɖo ɖeka me",
+    "pill_cloud": "Le alilikpoa me la, ele dedie eye woate ŋu atrɔ asi le eŋu",
+    "pill_size": "Na dɔwɔƒe siwo ƒe lolome le vovovo"
+  },
+  "products_block": {
+    "eyebrow": "Míaƒe adzɔnuwo",
+    "title": "[[lãwo ƒe agbenɔnɔ ƒe ɖoɖo blibo]] na wò dɔwɔƒea ƒe akpa ɖesiaɖe",
+    "aside": "Egbɔkpɔnu siwo wowɔ ɖekae siwo wɔa dɔ ɖekae be woana nàkpɔ ŋusẽ blibo, dɔwɔwɔ nyuie kple dzidziɖedzi geɖe wu.",
+    "groups": {
+      "money": "Dɔdzikpɔkpɔ kple nuƒoƒoƒu",
+      "flow": "Nuƒle kple eɖoɖo ɖe amewo",
+      "field": "Nudzadzra kple nudzraɖoƒe"
+    }
+  },
+  "products_page": {
+    "title": "Nu adre, [[dɔwɔwɔ ɖeka]].",
+    "text": "Adzɔnu ɖesiaɖe kpɔa nuto aɖe gbɔ. Wo katã woama asisiwo, nudzraɖoƒe, nudɔdɔwo kple fexexe."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Nugbadza",
+      "card": "Nuƒolanɔƒe vevitɔ na asitsatsa dzikpɔkpɔ kple emama.",
+      "features": [
+        "Nudzadzra kple nuƒle",
+        "Nunɔamesiwo ƒe agbalẽ",
+        "Asitsalawo kple nudzralawo",
+        "Nyatakakawo kple bubuwo"
+      ],
+      "lead": "Wò asitsatsa ƒe dɔwɔƒea ƒe titina: nudɔdɔwo, asiwo, nudzraɖoƒewo kple asisiwo le teƒe ɖeka.",
+      "about": "FullVendor ɖɔlia mamala ƒe agbalẽvi kple ɖoɖo siwo le gbadzaa. Tso afisia nudɔdɔwo dona, wobiaa nudzraɖoƒewo, wokpɔa asisiwo ƒe agbalẽdzraɖoƒewo gbɔ eye wokpɔa ŋkekea ƒe xexlẽdzesiwo. Nu gbagbewo ƒe agbenɔnɔ ƒe akpa mamlɛa do ƒome kple gɔmeɖoanyi sia.",
+      "benefits": [
+        {
+          "title": "Nyatakakawo ƒe aƒetɔ ɖeka",
+          "text": "Woma asisiwo, adzɔnuwo kple asiwo kple nudzadzra, nudzraɖoƒe kple ganyawo."
+        },
+        {
+          "title": "Gbesiagbe dɔwɔwɔ si me kɔ",
+          "text": "Nudɔdɔwo, nuƒle kple nudzraɖoƒewo dzudzɔa agbenɔnɔ le faɛl vovovowo me."
+        },
+        {
+          "title": "Nyatakaka siwo ŋu woatso nya me le",
+          "text": "Wokpɔa nudzadzra, margin kple pending evɔ wometsɔ asi ƒo kplɔ̃ nu ƒu o."
+        },
+        {
+          "title": "Dzra ɖo be yeatsi",
+          "text": "Logistics, sales force alo ERP sums ne dɔwɔƒea biae."
+        }
+      ],
+      "audience": "Asitsatsa kple mama ƒe ƒuƒoƒo siwo egbea wɔa ɖoɖo ɖe asitsatsa ŋu le ɖoɖo vovovowo dome."
+    },
+    "erp": {
+      "kicker": "Dɔdzikpɔkpɔ",
+      "card": "Dɔdzikpɔkpɔ kple ganyawo dzi kpɔkpɔ bliboe.",
+      "features": [
+        "Akɔntabubu",
+        "Elektrɔnikmɔ̃wo dzi fexexe",
+        "Dɔwɔgbalẽviwo",
+        "Nunɔamesi siwo li ɖaa",
+        "Dɔwɔƒe geɖe ƒe dɔwɔƒe"
+      ],
+      "lead": "Dɔdzikpɔkpɔ kple ganyawo, si sɔ kple nusi wodzrana ŋutɔŋutɔ hetsɔna yinae.",
+      "about": "FullVendor ERP ku ɖe akɔntabubu, elektrɔnikmɔ̃wo dzi fexexe, fetu ƒe xexlẽdzesiwo, nunɔamesi siwo li ɖaa kple dɔwɔƒe geɖewo ŋu. Exɔa asitsatsa ƒe dɔwɔna la eye wòtrɔnɛ wòzua nuŋlɔɖiwo, gaxɔgbalẽviwo kple nyatakaka siwo ganyawo ƒe akpaa ate ŋu azã.",
+      "benefits": [
+        {
+          "title": "Akɔntabubu si do ƒome kple wo nɔewo",
+          "text": "Nusi dzɔna le nudzadzra kple nuƒle me naa akɔntabubu."
+        },
+        {
+          "title": "Elektrɔnikmɔ̃wo dzi gaxɔgbalẽviwo",
+          "text": "Ènaa fexexe tso lãwo ƒe agbenɔnɔ ƒe ɖoɖo ɖeka ma ke me eye nèkpɔa edzi."
+        },
+        {
+          "title": "Dɔwɔƒe vovovowo",
+          "text": "Multi-company na ƒuƒoƒo siwo wɔa dɔ le dɔwɔƒe ƒe ŋkɔ siwo wu ɖeka te."
+        },
+        {
+          "title": "Fetu ƒe xexlẽdzesiwo kple nunɔamesiwo",
+          "text": "Fetu kple nunɔamesi siwo li ɖaa kpe ɖe dɔdzikpɔla mamlɛawo ŋu."
+        }
+      ],
+      "audience": "Dɔwɔnyawo kple ganyawo ƒe akpa siwo di be yewoatu xexlẽdzesiawo kple dɔwɔwɔ ŋutɔŋutɔ."
+    },
+    "logistics": {
+      "kicker": "Nuwo ɖoɖoɖa",
+      "card": "Wò nuwo ɖoɖoɖa ƒe dɔwɔwɔ dzi kpɔkpɔ kple ŋkuléle ɖe eŋu.",
+      "features": [
+        "Mɔ siwo dzi woato kple nusiwo woatsɔ aɖo ɖe amewo",
+        "Ɣeyiɣi ŋutɔŋutɔ me kplɔkplɔ",
+        "Ʋukulawo ƒe dɔdasi",
+        "Mɔzɔzɔ ƒe nyonyome"
+      ],
+      "lead": "Tso nudɔdɔ dzi va ɖo eɖoɖo dzi: mɔwo, ʋukulawo kple ɣeyiɣi ŋutɔŋutɔ me kplɔkplɔ.",
+      "about": "FullVendor Logistics wɔa ɖoɖo ɖe mamaa ŋu. Èwɔa mɔwo, dea dɔ asi na ʋukulawo eye nèkpɔa afisi nudɔdɔ ɖesiaɖe le yiyim ɖo. Ʋuɖoɖo ƒe ƒuƒoƒoa tɔa te le kaƒoƒo nu be yewoanya nenye be woɖo nudɔdɔa ɖa.",
+      "benefits": [
+        {
+          "title": "Mɔ siwo dzi woato le ŋkekea me",
+          "text": "Wobia nudɔdɔwo le nuto, ɣeyiɣi ƒe fesre kple ŋutete nu."
+        },
+        {
+          "title": "Ʋukula si wode dɔ asi na",
+          "text": "Ame aɖe le mɔ ɖesiaɖe dzi ɖum eye ɖoɖo si me kɔ nyuie le wo si."
+        },
+        {
+          "title": "Do afɔ",
+          "text": "Ènya nusi wotsɔ vɛ, le mɔ dzi alo wotɔ."
+        },
+        {
+          "title": "Kilometa ʋɛ aɖewo koe",
+          "text": "Mɔa ƒe nyonyome ɖea ɣeyiɣi si woatsɔ aɖoe kple gazazã dzi kpɔtɔna."
+        }
+      ],
+      "audience": "Mamadɔwo kple woawo ŋutɔ ƒe ʋuwo alo ame bubuwo."
+    },
+    "supplier": {
+      "kicker": "Nuƒeƒle",
+      "card": "Portal na nudzralawo kple nuƒleƒewo dzikpɔkpɔ.",
+      "features": [
+        "Nuƒle ƒe nudɔdɔwo",
+        "Nyatotowo",
+        "Nudzralawo ƒe dɔdzikpɔkpɔ",
+        "Ðekawɔwɔ kple nudzraɖoƒewo"
+      ],
+      "lead": "Wò nudzralawo yɔa nya, xɔa nudɔdɔwo eye wogbugbɔa nudzraɖoƒea ɖoa e-mail siwo me mekɔ o manɔmee.",
+      "about": "Vendor Supplier ʋua mɔnu aɖe na nuƒlelawo kple nudzralawo be woawɔ dɔ le nudɔdɔ mawo ke dzi. Wobla nyayɔyɔwo, nuƒle ƒe sededewo kple gaxɔgbalẽviwo ɖe FullVendor ƒe nudzraɖoƒewo ŋu.",
+      "benefits": [
+        {
+          "title": "Nudɔdɔwo le mɔ̃ aɖe dzi",
+          "text": "Nudzrala la kpɔa nusi wòatsɔ aɖo ɖa, e-mail kɔsɔkɔsɔ aɖeke manɔmee."
+        },
+        {
+          "title": "Nyayɔyɔ siwo woate ŋu atsɔ asɔ kple wo nɔewo",
+          "text": "Èbiaa asiwo eye nètiae kple ŋutinya si le susu me."
+        },
+        {
+          "title": "Nudzrala ƒe Aƒetɔ",
+          "text": "Nɔnɔmewo, kadodowo kple esiwo le lalam le nuŋlɔɖi ɖeka me."
+        },
+        {
+          "title": "Ŋlɔ nudzraɖoƒea",
+          "text": "Nusi woƒle la dzena le adzɔnuawo me ne woxɔe."
+        }
+      ],
+      "audience": "Nuƒleha siwo gbugbɔa nudzrala geɖe yɔa wo me eye wòhiã be woate ŋu akpɔ wo yome."
+    },
+    "salesman": {
+      "kicker": "Asitelefon dzi dɔwɔnua",
+      "card": "Asitelefon dzi dɔwɔɖoɖo na nudzralawo ƒe ƒuƒoƒo.",
+      "features": [
+        "Asitsalawo ƒe dɔdzikpɔkpɔ",
+        "Nudɔdɔwo wɔwɔ",
+        "Adzɔnuwo ƒe agbalẽdzraɖoƒe",
+        "Dɔwɔwɔ le Internet dzi"
+      ],
+      "lead": "Nudzralawo xɔa nudɔdɔwo le ablɔdzi, dzesi aɖe nɔa wo ŋu alo womedea dzesi wo o.",
+      "about": "FullVendor Sales Man tsɔa wò portfolio, catalog kple order xɔxlɔ̃ dana ɖe nudzrala ƒe telefon dzi. Ne internet meli o la, dɔa yia edzi eye wòwɔa ɖeka ne dzesia trɔ gbɔ. Nudɔdɔa va ɖona hele klalo be yeadzrae ɖo ahatsɔe vɛ.",
+      "benefits": [
+        {
+          "title": "Gakotoku le kotoku me",
+          "text": "Nudzrala la kpɔa asisiwo, nɔnɔmewo kple nusiwo wole lalam."
+        },
+        {
+          "title": "Ðo nu le sasrãkpɔ me",
+          "text": "Xɔ nudɔdɔa kple fifi asiwo kple nudzraɖoƒe."
+        },
+        {
+          "title": "Catalog si sɔ ɖe ɣeyiɣia nu",
+          "text": "Adzɔnuwo, nukpɔkpɔwo kple asiwo PDF xoxo aɖeke manɔmee."
+        },
+        {
+          "title": "Nyateƒee, le Internet dzi",
+          "text": "Wɔ dɔ coverage manɔmee eye nàwɔ ɖeka emegbe."
+        }
+      ],
+      "audience": "Dɔdzikpɔlawo kple agblemenudzralawo le mama kple nuzazã gbogbowo me."
+    },
+    "warehouse": {
+      "kicker": "Asitelefon dzi dɔwɔnua",
+      "card": "Asitelefon dzi dɔwɔɖoɖo na nudzraɖoƒe.",
+      "features": [
+        "Amewo xɔxɔ kple wo ɖoɖo ɖe amewo",
+        "Nuwo fɔfɔ kple wo babla",
+        "Nudzraɖoƒewo dzi kpɔkpɔ",
+        "Barcode xexlẽ"
+      ],
+      "lead": "Xɔxɔ, picking kple dɔdɔ kple telefon kple barcode.",
+      "about": "FullVendor Warehouse fiaa mɔ nudzraɖoƒea le amewo xɔxɔ, wo fɔfɔ, wo babla kple wo ɖoɖo ɖa me. Kɔdawo xexlẽ ɖea vodadawo dzi kpɔtɔna eye ɣletia ƒe nuwuwu koe womegaxlẽa nudzraɖoƒewo o.",
+      "benefits": [
+        {
+          "title": "Xɔxɔ si tsi tre ɖe ɖoɖowɔwɔ ŋu",
+          "text": "Wotsɔa nusi gena ɖe eme sɔna kple nusi woƒle."
+        },
+        {
+          "title": "Targeted picking",
+          "text": "Tɔdziʋua tɔ zɔna ɖe nudɔdɔa dzi eye wòɖoa kpe nu ɖesiaɖe dzi."
+        },
+        {
+          "title": "Barcodewo ƒe xexlẽdzesiwo",
+          "text": "Vodada ʋɛ aɖewo koe le adzɔnuwo, hatsotso alo agbɔsɔsɔme ŋu."
+        },
+        {
+          "title": "Stock si ŋu kakaɖedzi le",
+          "text": "Ʋuʋu ɖesiaɖe naa nuƒolanɔƒea ƒe nudzraɖoƒewo trɔna."
+        }
+      ],
+      "audience": "Nudzraɖoƒedzikpɔlawo kple melitɔ siwo tsɔa ŋkɔ siwo wota dzraa nudɔdɔwo ɖo egbea."
+    },
+    "finance": {
+      "kicker": "Asitelefon dzi dɔwɔnua",
+      "card": "Gadzikpɔkpɔ tso wò asitelefon dzi.",
+      "features": [
+        "Akɔntabubu siwo woaxɔ kple esiwo woaxe",
+        "Asitsalawo ƒe nɔnɔme",
+        "Fexexe kple avuléle",
+        "Ganyawo ŋuti nyatakakawo"
+      ],
+      "lead": "Akɔntabubu siwo woaxɔ, fexexe kple asisiwo ƒe nɔnɔme, tso wò telefon dzi.",
+      "about": "FullVendor Finance fia ga si woxɔ le asitelefon dzi: nusi asisi ɖesiaɖe nyi, nusi dɔwɔƒea le xexe ge kple alesi feawo va. Wozãnɛ tsɔ xɔa ga le sasrãkpɔa me eye wokpɔa gaxɔa me evɔ womeʋua kplɔ̃a o.",
+      "benefits": [
+        {
+          "title": "Nuƒoƒoƒu le sasrãkpɔa me",
+          "text": "Nudzrala la nya ne asisi la le nu yeyewo wɔm hafi dzraa nu."
+        },
+        {
+          "title": "Nusiwo woaxɔ kple esiwo woaxe",
+          "text": "Aɖaka la ƒe akpa eveawo le dɔwɔnu ɖeka me."
+        },
+        {
+          "title": "Fexexe kple avuléle",
+          "text": "Èŋlɔa credits ɖi eye nèkpɔa nusiwo wòle be woatso."
+        },
+        {
+          "title": "Nyatakaka siwo le asi me",
+          "text": "Nuƒoƒoƒu kple gakpɔkpɔ ƒe dzesiwo evɔ womalala be woawu enu o."
+        }
+      ],
+      "audience": "Dɔdzikpɔlawo, nudzɔlawo kple nudzrala siwo hiã asisi ƒe nɔnɔme fifia."
+    }
+  },
+  "why": {
+    "eyebrow": "Nusitae FullVendor .",
+    "title": "Do wò dɔwɔƒea ɖe ŋgɔ\nkple emetsonu ŋutɔŋutɔwo",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Dɔwɔƒewo ka ɖe mía dzi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Zãla siwo le dɔ dzi vevie"
+      },
+      {
+        "value": "+10",
+        "suffix": "ƒewo",
+        "label": "Le nɔnɔmetɔtrɔ si nɔa anyi ɖaa me"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Alilikpo me nɔnɔ"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Alesi wòwɔa dɔe",
+    "title": "Tso nudzadzra dzi va ɖo nuƒoƒoƒu dzi, ɖoɖowo matrɔmatrɔe",
+    "text": "Adzɔnu ɖesiaɖe ma asisiwo, nudzraɖoƒe, nudɔdɔwo kple fexexe. Nusiwo dzɔna le ablɔdzi alo le nudzraɖoƒea dzena le ɔfis enumake.",
+    "steps": {
+      "sell": {
+        "title": "Èdzraa nu",
+        "text": "Woŋlɔa nudɔdɔa to nyatakakadzraɖoƒea alo to Sales Man dzi, dzesi aɖeke manɔmee gɔ̃ hã."
+      },
+      "pick": {
+        "title": "Le ŋudzᴐ",
+        "text": "Warehouse xɔa, ma ɖe vovo eye wòɖonɛ ɖa kple barcode."
+      },
+      "deliver": {
+        "title": "Nusiwo wotsɔna ɖoa amewo gbɔ",
+        "text": "Logistics dea mɔa asi na ame eye wòkplɔa nudɔdɔa ɖo."
+      },
+      "collect": {
+        "title": "Akpɔkplɔwo",
+        "text": "Finance kple ERP wu nudzɔdzɔa, gaxɔgbalẽviawo kple xexlẽdzesiawo nu."
+      }
+    }
+  },
+  "band": {
+    "title": "Èle klalo be yeakpɔe kple [[wò dɔwɔwɔ]]?",
+    "text": "Míefiaa lãwo ƒe agbenɔnɔ ƒe ɖoɖoa wò kple mama ƒe nya si sɔ kple tɔwò."
+  },
+  "footer": {
+    "blurb": "Nyatakakadzraɖoƒe kple asitelefon dzi mɔnu na mama, nudzadzra, ɖoɖowɔwɔ, nuƒle, nudzraɖoƒewo kple ganyawo.",
+    "products": "Nusiwo Wowɔ",
+    "company": "Hã",
+    "legal": "Le senu",
+    "privacy": "Adzame",
+    "terms": "Ɖoɖowo",
+    "rights": "Gomenɔamesiwo katã le esi."
+  },
+  "solutions": {
+    "eyebrow": "Egbɔkpɔnuwo",
+    "title": "Nuto ɖesiaɖe, si do ƒome kple [[dɔwɔwɔ ma ke]].",
+    "intro": "Tiae to kuxi si gbɔ nèdi be yeakpɔ gbɔ. Le megbe la, nyatakaka ɖeka ma ke le adzɔnuwo ŋu.",
+    "items": {
+      "commercial": {
+        "title": "Asitsatsa ƒe dɔdzikpɔkpɔ",
+        "text": "Nudɔdɔwo, asiwo, asisiwo kple nudzraɖoƒewo hena gbesiagbe mama."
+      },
+      "field": {
+        "title": "nudzralawo ƒe ha",
+        "text": "Nudzrala siwo le nudɔdɔwo xɔm le ablɔdzi, le Internet dzi alo le Internet dzi."
+      },
+      "warehouse": {
+        "title": "Fiase",
+        "text": "Xɔxɔ, picking, dispatch kple stock si dzi woate ŋu aka ɖo."
+      },
+      "logistics": {
+        "title": "Nuwo ɖoɖoɖa kple wo ɖoɖo ɖe amewo",
+        "text": "Mɔ siwo dzi woato, ʋukulawo kple nɔnɔme si me wotsɔa nu ɖesiaɖe yinae."
+      },
+      "purchasing": {
+        "title": "Nuƒle kple nudzralawo",
+        "text": "Quotes, orders kple agbo aɖe na amesiame si ana wò."
+      },
+      "finance": {
+        "title": "Ganyawo kple akɔntabubu",
+        "text": "Nuƒoƒoƒu, fexexe, elektrɔnikmɔ̃wo dzi fexexe kple akɔntabubu."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Dɔwɔƒewo",
+    "title": "Wowɔe na amesiwo [[ʋua nusi wowɔ]].",
+    "intro": "Wodzi FullVendor le mama me eye wòkplɔa dɔwɔƒe siwo ƒlea nu, dzraa nu ɖo, dzraa nu eye wotsɔa nu yinae.",
+    "items": {
+      "wholesale": {
+        "title": "Mama kple edzadzra le agbɔsɔsɔ gã me",
+        "text": "Ga homewo ƒe xexlẽdzesiwo, agbalẽdzraɖoƒe, mama kple nuƒoƒoƒu le nutome ɖeka me."
+      },
+      "retail": {
+        "title": "Agbadzi nudzadzra",
+        "text": "Fiase kple nudzraɖoƒe kple nudzraɖoƒe si do ƒome, nudzadzra kple wo gbugbɔgade."
+      },
+      "food": {
+        "title": "Nuɖuɖu kple nunono",
+        "text": "Mɔ siwo dzi woato enuenu kple nudzraɖoƒe si mate ŋu atɔ o."
+      },
+      "pharma": {
+        "title": "Atikedzraƒe kple ame ŋutɔ ƒe beléle na ame",
+        "text": "Xɔxɔ, tiatia kple nudzraɖoƒedzikpɔkpɔ kple traceability."
+      },
+      "hardware": {
+        "title": "Hardware kple xɔtutu",
+        "text": "Nufiame geɖewo, nudzralawo kple nudɔdɔwo yi dɔwɔƒe alo fiase."
+      },
+      "fmcg": {
+        "title": "Nuzazã le agbɔsɔsɔ gã me",
+        "text": "Ablɔdzi nudzralawo ƒe ha kple asitsalawo ƒe agbɔsɔsɔ gã ɖɔliɖɔli."
+      },
+      "manufacturing": {
+        "title": "Adzɔnuwo wɔwɔ",
+        "text": "Nuƒle, nudzraɖoƒe kple nudzraɖoƒe siwo sɔ kple dɔdzikpɔkpɔ."
+      },
+      "lastmile": {
+        "title": "Delivery kple kilometa mamlɛtɔ",
+        "text": "Mɔ siwo dzi woato, ʋukulawo kple nɔnɔme si me wotsɔa nu ɖesiaɖe yinae."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Nunɔamesiwo",
+    "title": "Susu siwo me kɔ be [[ɖe gbe be woawɔ dɔa]].",
+    "intro": "Mɔfiame kpuiwo na mama dzikpɔla siwo atso nya me le ɖoɖo si dzi woalé ɖe asi ŋu.",
+    "items": {
+      "unify": {
+        "title": "Alesi woawɔ mama ɖekae wòazu ɖoɖo ɖeka",
+        "summary": "Nusiwo woatsɔ aƒo ƒui gbã ne nudzadzra, nudzraɖoƒe kple nuƒoƒoƒu le faɛl vovovowo me.",
+        "points": [
+          "Dze egɔme tso asisiwo, adzɔnuwo kple asiwo dzi: woawoe nye nufiala si amesiame zãna.",
+          "Do ka kple nudɔdɔa kple stock la hafi nàtsɔ dɔbiagbalẽvi bubuwo akpe ɖe eŋu.",
+          "Edzidzea xexlẽdzesi bɔbɔe aɖe: sedede siwo wowɔ ɖe agbalẽvia dzi evɔ womegawɔe ake o."
+        ]
+      },
+      "offline": {
+        "title": "Nudzralawo ƒe ha si le dɔ wɔm le Internet dzi",
+        "summary": "Nusi woabia tso nudɔdɔ ƒe dɔwɔnu aɖe gbɔ ale be nudzrala la nagatɔ le dzesia ta o.",
+        "points": [
+          "Ele be agbalẽdzraɖoƒea kple gakotokua nanɔ telefon dzi, ke menye le alilikpoa me ɖeɖeko o.",
+          "Wodzraa nudɔdɔa ɖo ɖe mɔ̃a dzi eye wodaae ɖe Internet dzi ne network la trɔ gbɔ.",
+          "Ne wole wɔwɔm ɖekae la, nudɔdɔa gena ɖe nudzraɖoƒea xoxo."
+        ]
+      },
+      "warehouse": {
+        "title": "Nudzraɖoƒe si me barcode le, si me pepa mele o",
+        "summary": "Alesi nàwɔ atso xexlẽdzesi siwo wota dzi ayi tiatia si ŋu woɖo kpee dzi le telefon dzi.",
+        "points": [
+          "Xɔe ɖe nuƒle ƒe sededea nu, ke menye ɖe ŋkuɖodzinu ŋu o.",
+          "Ðo kpe nu ɖesiaɖe dzi ne èle wo mam. Nudzodzoea tsoa xɔdɔme la me.",
+          "Dɔdɔa trɔa asi le adzɔnu si nudzrala la kpɔna ŋu."
+        ]
+      },
+      "finance": {
+        "title": "Nuƒoƒoƒu si sɔ kple nudzadzra",
+        "summary": "Nusita wòle be nudzrala nakpɔ asisi la ƒe fe hafi axɔ nudɔdɔ bubu.",
+        "points": [
+          "Sasrãkpɔae nye ɣeyiɣi nyuitɔ si woaxɔ ga, ne fe si wodo la dzena.",
+          "Ele be nudzadzra kple ganyawo nalé ŋku ɖe asisi ɖeka ma ke ŋu.",
+          "Gbesiagbe nyatakaka si tsi megbe la xɔ asi wu nuwuwu megbe."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Ga homewo",
+    "title": "Nu gbagbewo ƒe agbenɔnɔ ƒe ɖoɖo si [[tsina kpli wò]].",
+    "intro": "Míetaa agbɔsɔsɔme si wozãna le mɔ vovovowo nu o: ga si woatsɔ awɔe la nɔ te ɖe modules, users kple volume dzi. Míefiaa nuƒolanɔƒea wò eye míeƒoa aɖaŋuɖoɖo aɖe nu ƒu kple wò dɔwɔwɔ.",
+    "note": "Demo la mexɔa ga aɖeke o eye mehiã be woawɔ nubabla o.",
+    "recommended": "Doe ɖa",
+    "faq_title": "Nya siwo wobiaa amewo enuenu",
+    "plans": {
+      "essential": {
+        "name": "Si hiã",
+        "desc": "Be woawɔ ɖoɖo ɖe asitsatsa dzikpɔkpɔ kple emama ŋu le nuƒolanɔƒe ɖeka.",
+        "features": [
+          "FullVendor nyatakakadzraɖoƒe",
+          "Nudzadzra, nuƒle kple nudzraɖoƒewo",
+          "Asitsalawo, nudzralawo kple nyatakakawo",
+          "Ɔfis dɔwɔnuwo zãlawo",
+          "Kpekpeɖeŋunana le gɔmedzedzea me"
+        ],
+        "cta": "Bia Demo"
+      },
+      "professional": {
+        "name": "Dɔnyala",
+        "desc": "Na ƒuƒoƒo siwo dzraa nu le ablɔdzi eye wodzraa nudɔdɔwo ɖo le nudzraɖoƒea.",
+        "features": [
+          "Nusianu si Le Vevie",
+          "Dɔdamɔnu FullVendor Sales Man .",
+          "Dɔdamɔnu FullVendor Warehouse .",
+          "Dɔwɔwɔ le Internet dzi kple barcodewo",
+          "Agble kple nudzraɖoƒe zãla geɖe wu"
+        ],
+        "cta": "Bia Demo"
+      },
+      "corporate": {
+        "name": "Dɔwɔƒewo ƒe dɔwɔƒewo",
+        "desc": "Le ƒuƒoƒo siwo hiã nudɔdɔ, nuƒle, ganyawo kple dɔwɔƒe vovovowo gome.",
+        "features": [
+          "Nu gbagbewo ƒe agbenɔnɔ ƒe ɖoɖo blibo",
+          "Logistics, Vendor Supplier kple Finance .",
+          "FullVendor ERP kple aƒehaya geɖe",
+          "Elektrɔnikmɔ̃wo dzi fexexe kple akɔntabubu",
+          "Kpekpeɖeŋunana kple nusiwo woatsɔ aɖo nɔƒe gbãtɔ ƒe anyinɔnɔ"
+        ],
+        "cta": "Ƒo nu kple nudzralawo"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ðe wòle be maƒle nuawo katãa?",
+        "a": "Ao, àte ŋu adze egɔme kple FullVendor eye nàtsɔ apps alo ERP akpe ɖe eŋu ne dɔwɔwɔa hiãe."
+      },
+      "offline": {
+        "q": "Ðe dɔwɔnuawo wɔa dɔ internet manɔmeea?",
+        "a": "Sales Man kple Warehouse yia edzi wɔa dɔ dzesi manɔmee eye wowɔa ɖeka ne wogbugbɔ do ka."
+      },
+      "multi": {
+        "q": "Ðe wòwɔa dɔ ne dɔwɔƒe siwo wu ɖeka le asinyea?",
+        "a": "Ɛ̃. ERP bua dɔwɔƒe geɖe ŋu eye lãwo ƒe agbenɔnɔ ate ŋu ama aƒetɔwo le wo dome."
+      },
+      "demo": {
+        "q": "Nukae le wɔwɔfiaa me?",
+        "a": "Tsaɖiɖi le nuƒolanɔƒea kple kotoku si sɔ kple tɔwò. Ga aɖeke meli o eye agba aɖeke hã mele wo dzi o."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo ƒe wɔwɔfia",
+    "title": "Míefia FullVendor wò kple [[wò dɔwɔwɔ ƒomevi]].",
+    "text": "Gblɔ wò dɔwɔƒea kple nusi nèdi be yeabia gbã ŋu nya na mí. Ga aɖeke mele wɔwɔfiaa ŋu o."
+  },
+  "contact": {
+    "eyebrow": "Kadodo",
+    "title": "Mina míaƒo nu tso [[wò dɔwɔwɔ]] ŋu.",
+    "text": "Ne èdi be yeawɔ wɔwɔfia, aɖaŋuɖoɖo alo be yeaɖo ta ye ɖokui dzi le adzɔnuwo dome ko la, gblẽ wò nyatakakawo ɖi eye míaɖo eŋu.",
+    "email": "Posuɖoɖo",
+    "phone": "Kaƒomɔ",
+    "whatsapp": "WhatsApp ƒe dɔwɔwɔ"
+  },
+  "form": {
+    "name": "Ŋkɔ",
+    "email": "Posuɖoɖo",
+    "phone": "Kaƒomɔ",
+    "company": "Hã",
+    "country": "Dukᴐ",
+    "team": "Team ƒe lolome",
+    "interest": "Nukae doa dzidzɔ na wò?",
+    "message": "Gbedeasi",
+    "optional": "Le tiatia me",
+    "choose": "Tia",
+    "interest_all": "Nu gbagbewo ƒe agbenɔnɔ ƒe ɖoɖo bliboa",
+    "ph_name": "wò ŋkɔ",
+    "ph_email": "wò@dɔwɔƒe.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Wò dɔwɔƒea",
+    "ph_country": "Dukᴐ",
+    "ph_message": "Gblɔ alesi nèwɔa dɔe egbea na mí",
+    "privacy_before": "Melɔ̃na ɖe nye nyatakakawo zazã dzi le...",
+    "privacy_after": ".",
+    "submit": "Ðo biabia ɖa",
+    "sent_title": "Míexɔa wò biabiaa",
+    "sent_text": "Akpe na wò. Nudzralawo ƒe ƒuƒoƒoa aŋlɔ agbalẽ na wò be nàwɔ ɖoɖo ɖe wɔwɔfiaa ŋu alo aɖo wò nyabiasea ŋu.",
+    "error_required": "Kpe akpa sia ɖo.",
+    "error_email": "Ŋlɔ e-mail si sɔ.",
+    "error_phone": "Kpɔ telefon la ɖa.",
+    "error_privacy": "Míehiã wò lɔlɔ̃nu faa be míazã kadodo ŋuti nyatakakawo.",
+    "error_csrf": "Ɣeyiɣia wu enu. Gbugbɔ tsɔ agbalẽvia ɖo ɖa.",
+    "error_save": "Míete ŋu dzra biabia la ɖo o. Gadze agbagba ake.",
+    "error_generic": "Dzro agble siwo wode dzesii la me.",
+    "error_rate": "Taflatse lala vie hafi nàtsɔ biabia bubu aɖo ɖa.",
+    "team_options": {
+      "1-10": "Ame 1 va ɖo 10 ye",
+      "11-50": "ame 11 va ɖo 50 ye",
+      "51-200": "ame 51 va ɖo 200 ye",
+      "201-500": "ame 201 va ɖo 500",
+      "500+": "Ame siwo wu 500 ye"
+    }
+  },
+  "video": {
+    "title": "FullVendor le miniti ɖeka me",
+    "prev": "Xoxo",
+    "next": "Le eyome",
+    "slides": [
+      {
+        "title": "Nu gbagbewo ƒe agbenɔnɔ ƒe ɖoɖo ɖeka",
+        "text": "Nudzadzra, nudzraɖoƒe, nudɔdɔ, nuƒle kple ganyawo ma asisiwo, nudzraɖoƒe kple nudɔdɔwo."
+      },
+      {
+        "title": "Nyatakakadzraɖoƒe kple asitelefon ɖekae",
+        "text": "Dɔwɔƒea wɔa dɔ le nuƒolanɔƒea. Ablɔa kple nudzraɖoƒea, le dɔwɔnuawo me, dzesi manɔmee gɔ̃ hã."
+      },
+      {
+        "title": "Wowɔe be woamae",
+        "text": "Tso nudɔdɔ dzi va ɖo fexexe dzi, evɔ womatsɔ nyatakakawo tso faɛl ɖeka me ayi bubu me o."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Di nusiwo wowɔ, egbɔkpɔnuwo, dɔwɔƒewo...",
+    "lang_filter": "Di gbegbɔgblɔ",
+    "intro": "Di adzɔnuwo, egbɔkpɔnuwo, dɔwɔƒewo kple nunɔamesiwo.",
+    "empty": "Míekpɔ emetsonuwo tso “{q}” ŋu o.",
+    "hint": "Te nudzadzra, nudzraɖoƒe, mɔwo alo nuƒoƒoƒu kpɔ.",
+    "results": "{n} ƒe emetsonuwo",
+    "button": "Di",
+    "kind_product": "Nu si wowɔ",
+    "kind_solution": "Ŋuɖoɖo",
+    "kind_industry": "Dɔ",
+    "kind_resource": "Dɔwɔnu si woatsɔ awɔ dɔe"
+  },
+  "notfound": {
+    "title": "Axa sia menye nenema o",
+    "text": "Kadodoa meli o alo etrɔ teƒe si wòle."
+  },
+  "common": {
+    "what": "Nusi kpɔa egbɔ",
+    "features": "Nusiwo le eme",
+    "benefits": "Nusita wòle vevie",
+    "for_who": "Ameka tae wòle?",
+    "related": "Azɔ hã le lãwo ƒe agbenɔnɔ ƒe ɖoɖoa me"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Nudzadzra egbea",
+      "orders": "Nudɔdɔwo",
+      "clients": "Asitsalawo",
+      "products": "Nusiwo Wowɔ"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard ƒe ʋuƒo",
+      "sales": "Nudzadzra",
+      "purchases": "Nuƒeƒle",
+      "inventory": "Nunɔamesiwo ƒe agbalẽ",
+      "clients": "Asitsalawo",
+      "reports": "Nyatakakawo"
+    },
+    "chart": "Nudzadzra",
+    "channel": "Womae ɖe mɔ̃ dzi",
+    "channels": [
+      "Fiase",
+      "Nu mama",
+      "Nudzrala gã aɖe",
+      "Ame bubuwo"
+    ],
+    "orders": "Nudɔdɔ yeyewo",
+    "col_order": "Gbeɖeɖe",
+    "col_client": "Asisi",
+    "col_status": "Dukɔ",
+    "col_total": "Ƒuƒoƒo",
+    "status": [
+      "Woɖee",
+      "Le mɔ dzi",
+      "Togɛ"
+    ],
+    "top": "Nusiwo wodzrana wu",
+    "product": "Nu si wowɔ",
+    "sales_menu": [
+      "Asitsalawo",
+      "Nudɔdɔwo",
+      "Nusiwo Wowɔ",
+      "Mɔ siwo dzi woato",
+      "Wɔ ɖekawɔwɔ me kple wo nɔewo"
+    ],
+    "warehouse_menu": [
+      "Amexɔƒe",
+      "Nuwo tiatia",
+      "Nunɔamesiwo ƒe agbalẽ",
+      "Dɔ",
+      "Wɔ ɖekawɔwɔ me kple wo nɔewo"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Ameŋunyatakakawo Ŋuti Ðoɖo",
+    "privacy_intro": "Ðoɖo sia ɖe nusi míewɔna kple nyatakaka siwo nègblẽ ɖe agbalẽvi siwo le nyatakakadzraɖoƒe sia dzi la me.",
+    "privacy": [
+      {
+        "title": "Nyatakaka kawoe míeƒoa ƒu",
+        "text": "Ne èbia be woawɔ wɔwɔfia alo ŋlɔ agbalẽ na mí la, míedzraa ŋkɔ, dɔwɔƒea, e-mail, telefon xexlẽdzesi ne èfiae, dukɔ, ƒuƒoƒoa ƒe lolome, nusi me nètsɔ ɖe le kple gbedasi la ɖo. Míeŋlɔa ŋkekea, gbe si wodo axaa kple IP adrɛs hã ɖi, be míaxe mɔ ɖe nya siwo woɖo ɖe amewo le mɔ gbegblẽ nu nu."
+      },
+      {
+        "title": "Nukae míezãna na?",
+        "text": "Míezãa nyatakaka siawo tsɔ ɖoa ​​nya ŋu na wò, wɔa ɖoɖo ɖe wɔwɔfia aɖe ŋu eye míedzraa asitsatsa ƒe aɖaŋuɖoɖo ɖo ko. Míedzraa wo alo tsɔa wo naa ame bubuwo ƒe ŋkɔwo o."
+      },
+      {
+        "title": "Afikae wodzraa wo ɖo eye ɣeyiɣi didi kae wodzraa wo ɖo?",
+        "text": "Wodzraa biabiawo ɖo ɖe nyatakakadzraɖoƒe sia ƒe dɔwɔƒea. Míedzraa wo ɖo hena ɣeyiɣi si hiã be míasubɔ wò kple asitsatsa ƒe kplɔkplɔ ɖo, eye míetutua wo ne èbia tso mía si alo ne womegahiã wo o."
+      },
+      {
+        "title": "Wò gomenɔamesiwo",
+        "text": "Àte ŋu abia be woakpɔ wò nyatakakawo, aɖɔ wo ɖo alo woatutu wo ɖa le kadodogbalẽvia dzi, eye nàfia wo le gbedasi la me. Ne dɔwɔƒea ta e-mail ɖe nyatakakadzraɖoƒe sia la, àte ŋu aŋlɔ nu ɖe ​​afima hã."
+      }
+    ],
+    "terms_title": "Zãzã ƒe ɖoɖowo",
+    "terms_intro": "Nɔnɔme siawo ku ɖe FullVendor ƒe nyatakakadzraɖoƒe sia zazã ŋu.",
+    "terms": [
+      {
+        "title": "Asitsatsa ŋuti nyatakakawo",
+        "text": "Nuŋɔŋlɔwo, kpɔɖeŋu dashboard xexlẽdzesiwo kple numeɖeɖewo ɖea nuƒolanɔƒea ɖe go. Woate ŋu atrɔ asi le wo ŋu ne nusi wodzra la trɔ eye menye nusi wotsɔ na wo si wotu nu ɖo o."
+      },
+      {
+        "title": "Demo la menye nubabla o",
+        "text": "Agbalẽvia ɖoɖo ɖa mehea agbanɔamedzi vɛ be woaƒle alo adzra ga aɖe ɖo o. Wolɔ̃na ɖe nubabla ɖesiaɖe dzi ɖe vovo, le agbalẽ me, kple eƒe lolome kple nɔnɔmewo."
+      },
+      {
+        "title": "Nyatakakadzraɖoƒea me nyawo",
+        "text": "FullVendor ƒe asitsadzesi, adzɔnuwo ƒe ŋkɔwo kple axa siawo me nyawo nye wo tɔ. Womate ŋu awɔ woƒe kɔpi atsɔ aɖe nu bubu aɖe afia o."
+      },
+      {
+        "title": "Zãza si dzi woda asi ɖo",
+        "text": "Mègazã agbalẽviawo atsɔ aɖo alakpanyatakakawo, nyatakaka gbegblẽwo alo nyatakaka siwo mele se nu o. Míate ŋu aŋe aɖaba aƒu nubiabia siwo mewɔ ɖeka kple asitsatsa ŋuti dzeɖoɖo ŋutɔŋutɔ o dzi."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Lale im kalaplok business eo am",
+    "home_desc": "All-in-one platform ippāñ web im mobile solutions ñan leto letak, wiakake, logistics, wia, inventory im finance.",
+    "products_title": "Men ko rej wiakaki | FullVendor",
+    "products_desc": "Jela kin ecosystem eo FullVendor: commercial platform, ERP, logistics, suppliers im sales, warehouse im finance apps.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Uwaak ko | FullVendor",
+    "solutions_desc": "Wāween ko ñan lale jerbal in wia, wiakake, jikin wia, bōktok men ko, wia im money.",
+    "industries_title": "Jikin jerbal ko | FullVendor",
+    "industries_desc": "FullVendor ñan leto letak, wiakake, mõñã, jikin wia uno, kein jerbal ko, kajerbal elap, kōmman im last mile.",
+    "pricing_title": "Wōnan ko | FullVendor",
+    "pricing_desc": "Karōk ko raorōk, jerbal im jerbal. Proposal eo ej bed ibben don ekkar ñan module ko, ro rej kajerbali im joñan.",
+    "resources_title": "Kein jerbal ko | FullVendor",
+    "resources_desc": "Jikin tel ko ñan kobaiktok leto letak, wiakake ilo ejelok online, karõk jikin wia eo im bōk wōnan ilo ien eo ejejjet.",
+    "contact_title": "Kontak | FullVendor",
+    "contact_desc": "Jeje ñan kim ñan am katak kin FullVendor ak kōmman juon bwebwenato ibben ri wia ro.",
+    "demo_title": "Kajjitōk demo | FullVendor",
+    "demo_desc": "Kajjitōk juon demo in FullVendor im ito-itak ilo platform eo ippāñ juon case eo einlok wōt jerbal eo am.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Terms | FullVendor",
+    "search_title": "Pukot | FullVendor",
+    "notfound_title": "Peij eo ejjab walok | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Peij in jinoin",
+    "products": "Men ko rej wiakaki",
+    "solutions": "Uwaak ko",
+    "industries": "Jikin jerbal ko",
+    "pricing": "Wōnāān ko",
+    "resources": "Mennin jibañ",
+    "contact": "Armij eo ñan kebaak",
+    "open_menu": "Kōpeḷḷọk menu eo",
+    "close": "Kiili"
+  },
+  "cta": {
+    "demo": "Kajjitōk Demo",
+    "contact": "Kebaak kim",
+    "video": "Lale pija in",
+    "talk": "Kōnono ibben ri wia ro",
+    "all_products": "Lale aolep men ko",
+    "home": "Jeblak ñan peij eo jinoin"
+  },
+  "a11y": {
+    "skip": "Etal ñan men ko",
+    "primary": "Main navigation",
+    "crumbs": "Ial in etal",
+    "search": "Pukot",
+    "language": "Kajin"
+  },
+  "hero": {
+    "eyebrow": "Aolep ilo juon wōt jikin",
+    "title": "Lale im eddeklok\nbusiness eo am ibben\n{{brand}}",
+    "subtitle": "Juon jikin eo eobrak kin web im mobile ñan leto letak, wiakake, bōktok, wia, inventory, finance im elaplok.",
+    "pill_ecosystem": "Aolep men ilo juon wōt ekōjkan",
+    "pill_cloud": "Ilo kōdọ eo, ejjeḷọk jorrāān im maroñ in eddekḷọk",
+    "pill_size": "Ñan kombani ko ilo aolep joñan"
+  },
+  "products_block": {
+    "eyebrow": "Men ko jej wiakaki",
+    "title": "Juon [[complete ecosystem]] ñan kajjojo jikin ko ilo business eo am",
+    "aside": "Wāween ko rej jerbal ibben don ñan lewoj ñan yuk aolep maroñ, emman jerbal im eddeklok eo elaplok.",
+    "groups": {
+      "money": "Jerbal im kōllaajrak",
+      "flow": "wia im lelok",
+      "field": "Wiakake im jikin dāpij men ko"
+    }
+  },
+  "products_page": {
+    "title": "Jiljilimjuon men ko, [[juon wōt jerbal]]",
+    "text": "Kajjojo men ej kōmmane juon jikin. Ippān doon rej kwalok kin ri wia ro, stock ko, order ko im wōnāān ko."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Jikin kenono ak ikkure imaan",
+      "card": "Jikin eo elaptata ñan lale im leto letak jerbal in wia ko.",
+      "features": [
+        "wiakake im wia",
+        "Mweiuk",
+        "Ri wia ro im ri wia ro",
+        "Riboot ko im elaplok"
+      ],
+      "lead": "Jikin jerbal in wia eo am: order ko, wōnāān ko, stock im ri wia ro ilo juon wōt jikin.",
+      "about": "FullVendor ej bōk jikin spreadsheet ko im system ko an juon distributor. Jen ijin order ko rej walok, inventory ko rej etale, customer portfolio ko rej lale im lale oran ko ilo raan eo. Men ko jet ilo ecosystem eo rej kobalok ñan jikin in.",
+      "benefits": [
+        {
+          "title": "Juon wōt data master",
+          "text": "Ri wia ro, men ko rej wiakaki im wōnāān ko rej kwalok ñan ri wia ro, jikin wia ko im jikin wia ko."
+        },
+        {
+          "title": "Jerbal eo ealikar raan otemjej",
+          "text": "Order ko, wia ko im stock ko rej bōjrak aer mour ilo file ko reoktak jen dron."
+        },
+        {
+          "title": "Ripoot ko ñan kōmmane",
+          "text": "Sales, margin im pending rej walok ilo ejelok likit juon tebōl kin pein."
+        },
+        {
+          "title": "Pojak in eddeklok",
+          "text": "Logistics, sales force ak ERP sums ñe operation eo ej kajjitōk kake."
+        }
+      ],
+      "audience": "Tiim in wia im leto letak ko me rainin rej kōmman business eo ikõtan elõñ system ko."
+    },
+    "erp": {
+      "kicker": "Administration",
+      "card": "Kadedelok jerbal in lale im lale money.",
+      "features": [
+        "Accounting",
+        "Bill ilo electronic",
+        "Peba in jerbal",
+        "Men ko rebin",
+        "Elōñ kombani"
+      ],
+      "lead": "Administration im finances, ekkar ñan ta eo rej wiakake im lelok.",
+      "about": "FullVendor ERP ej kitibuj accounting, electronic invoicing, payrolls, fixed assets im multi-company. Ej bōk jerbal in wia eo im ukōte ñan entry ko, receipt ko im statement ko me jikin wia eo emaron kajerbali.",
+      "benefits": [
+        {
+          "title": "Connected accounting",
+          "text": "Ta eo ej walok ilo wiakake im wia ej jibañ accounting."
+        },
+        {
+          "title": "Receipt ko ilo electronic",
+          "text": "Kwoj lelok im lale bill ko jen ejja ecosystem eo wot."
+        },
+        {
+          "title": "Elōn kain kombani ko",
+          "text": "Multi-company ñan kumi ko rej jerbal iumin elõñlok jen juon etan company."
+        },
+        {
+          "title": "Payroll ko im men ko mweier",
+          "text": "Payroll im fixed assets ko ibben ro jet ilo management eo."
+        }
+      ],
+      "audience": "Jikin ko an kien im money ko rej kōnan kilōk oran ko ilo jerbal eo emool."
+    },
+    "logistics": {
+      "kicker": "Lojistik",
+      "card": "Lale im lale jerbal in logistics eo am.",
+      "features": [
+        "Ial ko im menin lelok ko",
+        "Real-time tracking",
+        "Jerbal in ri-kattōr",
+        "Kōkōmanmanlok ial"
+      ],
+      "lead": "Jen order ñan delivery: ial ko, ri-kattōr ro im lale ilo ien eo emol.",
+      "about": "FullVendor Logistics ej kōpooj leto letak eo. Kwoj kōmman ial ko, lelok ri-kattōr ro im lale ia eo kajjojo delivery ej etal ñane. Tiim in traffic eo ej bōjrak ilo an wōr call ko ñan lale elañe order eo emoj an jilkintok.",
+      "benefits": [
+        {
+          "title": "Ial ko ilo raan eo",
+          "text": "Delivery ko rej kōmmane ekkar ñan zone, ien eo im joñan maroñ eo."
+        },
+        {
+          "title": "Ri-kattōr eo emōj lewoj",
+          "text": "Kajjojo ial ewōr juon armej ej lale im juon wāween eo ealikar."
+        },
+        {
+          "title": "Bar lale",
+          "text": "Kwojelā ta eo ej bōktok, ilo ial ak bōjrak."
+        },
+        {
+          "title": "Ediklok kilomita ko",
+          "text": "Kōmman bwe en emmanlok ial ko ej kōmman bwe en diiklok ien lelok im wōnan."
+        }
+      ],
+      "audience": "Jerbal in leto letak ippān wa ko am make ak ro jet."
+    },
+    "supplier": {
+      "kicker": "Kaikwijkwij",
+      "card": "Portal ñan ri wia ro im ri wia ro.",
+      "features": [
+        "Purchase orders",
+        "Bōk melele",
+        "Lale ri wia",
+        "Kobaik ibben menin wia ko"
+      ],
+      "lead": "Ri wia ro am rej quote, bōk order ko im bar bōktok stock ko ilo ejelok email ko rebin.",
+      "about": "Vendor Supplier ej kōpellok juon jikin ñan wia ko im ri wia ro ñan jerbal ion ejja order ko wōt. Quote ko, order in wia ko im receipt ko rej kobalok ñan inventory eo an FullVendor.",
+      "benefits": [
+        {
+          "title": "Order ko ilo juon channel",
+          "text": "Ri wia eo ej lo ta eo en lelok, ilo ejelok email chain."
+        },
+        {
+          "title": "Naan ko rejimwe",
+          "text": "Kwoj kajitōk kin wōnāān ko im kālet ilo am lale bwebwenato eo."
+        },
+        {
+          "title": "Ri-kōmman men ko",
+          "text": "Jekjek ko, kōtaan ko im men ko rej kōttar ilo juon wōt rekoot."
+        },
+        {
+          "title": "Deḷọñ inventory eo",
+          "text": "Ta eo kar wiaiki ej walok ilo stock eo ñe ej bōke."
+        }
+      ],
+      "audience": "Tiim in wia ko rej bar kobrak ippāer elōn ri wia ro im rej aikuj in maroñ in lale er."
+    },
+    "salesman": {
+      "kicker": "Mobile app",
+      "card": "Mobile application ñan sales team.",
+      "features": [
+        "Lale ri wia ro",
+        "Bōk order",
+        "Laajrak in men ko rej wiakaki",
+        "Jerbal ilo ejelok online"
+      ],
+      "lead": "Ri wia ro rej bōk order ko ilo ial eo, ippāñ ak ejelok signal.",
+      "about": "FullVendor Sales Man ej likit portfolio eo am, catalog im order taking ilo talboon eo an ri wia eo. Elañe ejelok internet, jerbal eo ej wōnmanlok im synchronize ñe signal eo ej jeblak. Order eo ej itok im pojak in kōmmane im lelok.",
+      "benefits": [
+        {
+          "title": "Wallet ilo pāāk eo",
+          "text": "Ri wia eo ej loe ri wia ro, jekjek ko im men ko rej bed wot."
+        },
+        {
+          "title": "Order ilo am loļo̧k",
+          "text": "Bōk order eo ippāñ wōnāān ko kiiō im stock ko."
+        },
+        {
+          "title": "Catalog eo ekãl",
+          "text": "Men ko, kwalok ko im wōnāān ko ilo ejelok juon PDF eo etto."
+        },
+        {
+          "title": "Jab online",
+          "text": "Jerbal ilo ejelok coverage im synchronize tokelik."
+        }
+      ],
+      "audience": "Ri lale im ri wia ro ilo leto letak im kōjerbal elap."
+    },
+    "warehouse": {
+      "kicker": "Mobile app",
+      "card": "Mobile application ñan warehouse.",
+      "features": [
+        "Jikin bōk im jilkinlok",
+        "Pick im pack",
+        "Inventory control",
+        "Riit barcode"
+      ],
+      "lead": "Bōk, bōk im jilkinlok ilo talboon im barcode.",
+      "about": "FullVendor Warehouse ej tel jikin wia eo ilo bōk, bōk, kōpooj im jilkinlok. Riit code ko ej kōmman bwe en diiklok bōd ko im men ko rejjab bar bwine wōt ilo jemlokin allōñ eo.",
+      "benefits": [
+        {
+          "title": "Reception nae kakien",
+          "text": "Ta eo ej deloñ ej keidi ñan wia eo."
+        },
+        {
+          "title": "Targeted picking",
+          "text": "Ri wia eo ej lor kakien eo im kamool kajjojo men ko."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Ediklok bōd ko ilo menin kōmman, batch ak joñan."
+        },
+        {
+          "title": "Stock eo emman",
+          "text": "Kajjojo m̧akūtkūt ej kōkāāl inventory eo an platform eo."
+        }
+      ],
+      "audience": "Ri lale jikin wia ko im ri wia wa ko me rainin rej kōpooj order ko ippāñ laajrak ko rekar jeje."
+    },
+    "finance": {
+      "kicker": "Mobile app",
+      "card": "Financial control jen mobile eo am.",
+      "features": [
+        "Account ko rej bōk im kōllā",
+        "Jekjek in ri wia eo",
+        "Wōnāān ko im kōjeram̧m̧an ko",
+        "Ripoot ko kin money"
+      ],
+      "lead": "Account ko rej bōk, wōnāān ko im jekjek in ri wia eo, jen talboon eo am.",
+      "about": "FullVendor Finance ej kwalok joñan wōnāān eo ilo mobile eo: ta eo kajjojo client ej aikuj in kōlla, ta eo kombani eo ej pojak in kōlla im ewi wawein an wōnāān ko itok. Ej kōjerbale ñan bōk jāān ilo ien loļo̧k eo im ñan lale jikin jāān eo ilo an jab kōpeļļo k tebōl eo.",
+      "benefits": [
+        {
+          "title": "Kōllaajrak ilo ien loļo̧k eo",
+          "text": "Ri wia eo ejelā elañe ri wia eo ej jela kin men ko rej walok mokta jen an wiakake."
+        },
+        {
+          "title": "Receivable im payable",
+          "text": "Tuan ko ruo ilo box eo ilo ejja app eo wot."
+        },
+        {
+          "title": "Wōnāān ko im kōjeram̧m̧an ko",
+          "text": "Kwoj register credit ko im lale ta eo ej aikuj in dedelok."
+        },
+        {
+          "title": "Report ko rej bed",
+          "text": "Kolla im cash indicator ko ilo ejelok kõttar ñan an jemlok."
+        }
+      ],
+      "audience": "Manager ro, ri-kōllaajrak im ri-wia ro rej aikuji jekjek eo an client eo ilo ien in."
+    }
+  },
+  "why": {
+    "eyebrow": "Etke FullVendor",
+    "title": "Kōkōmanmanlok business eo am\nippāñ tokjen ko remol",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kombani ko rej liki kim"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Rijerbal ro rej jerbal"
+      },
+      {
+        "value": "+10",
+        "suffix": "iiō ko",
+        "label": "Ilo oktak eo ejjab bōjrak"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Kōdo eo ej bed"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Ewi wāween an jerbal",
+    "title": "Jen wiakake ñan bōk, ilo ejelok oktak in system ko",
+    "text": "Kajjojo men ko rej kwalok ñan ri wia ro, stock ko, order ko im wōnāān ko. Ta eo ej walok ilo ial eo ak ilo jikin wia eo ej walok ilo opiij eo ilo ien eo wot.",
+    "steps": {
+      "sell": {
+        "title": "Kwoj wiakake",
+        "text": "Order eo ej deloñ ilo website eo ak ilo Sales Man, meñe ejelok signal."
+      },
+      "pick": {
+        "title": "Bojak",
+        "text": "Warehouse ej bōk, kōjepel im jilkinlok kin barcode."
+      },
+      "deliver": {
+        "title": "Delivery ko",
+        "text": "Logistics ej lewoj ial eo im lor ien eo ej itok."
+      },
+      "collect": {
+        "title": "Kobra ko",
+        "text": "Finance im ERP rej kilōk jikin bōk kolla, receipt ko im oran ko."
+      }
+    }
+  },
+  "band": {
+    "title": "Kwoj pojak in loe ilo [[jerbal eo am]]?",
+    "text": "Kimij kwalok ñan yuk ecosystem eo ippāñ juon distribution case einwot am."
+  },
+  "footer": {
+    "blurb": "Web im mobile platform ñan leto letak, wiakake, bōktok, wia, inventory im finance.",
+    "products": "Men ko rej wiakaki",
+    "company": "Kombani",
+    "legal": "Kakien",
+    "privacy": "Ejab diwōjlok melele",
+    "terms": "Joñan ien",
+    "rights": "Aolep maroñ ko rej bed wot."
+  },
+  "solutions": {
+    "eyebrow": "Uwaak ko",
+    "title": "Kajjojo jikin, kobalok ñan [[ejja jerbal eo wōt]]",
+    "intro": "Kālet ekkar ñan apañ eo kwoj kōnaan kōmmane. Ilo turin, men ko rej kwalok ejja melele eo wōt.",
+    "items": {
+      "commercial": {
+        "title": "Jerbal in wia",
+        "text": "Order ko, wōnāān ko, ri wia ro im men ko ñan leto letak raan-ñan-raan."
+      },
+      "field": {
+        "title": "ri wia",
+        "text": "Ri wia ro rej bōk order ko ilo ial, online ak offline."
+      },
+      "warehouse": {
+        "title": "Imōn wia",
+        "text": "Bōk, bōk, jilkinlok im juon stock eo emaron in liki."
+      },
+      "logistics": {
+        "title": "Lojistik im lelok",
+        "text": "Ial ko, ri-kattōr ro im jekjek in kajjojo delivery."
+      },
+      "purchasing": {
+        "title": "wia im ri lelok",
+        "text": "Naan ko, order ko im juon jikin ñan jabdewōt eo ej letok ñan yuk."
+      },
+      "finance": {
+        "title": "Finance im accounting",
+        "text": "Kolla ko, kōllā ko, bill ko ilo electronic im accounting."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Jikin jerbal ko",
+    "title": "Kar kōmmane ñan ro rej [[moves product]]",
+    "intro": "FullVendor ear lotak ilo leto letak im ej kobalok ibben kombani ko rej wia, kejbãrok, wiakake im lelok.",
+    "items": {
+      "wholesale": {
+        "title": "Leto letak im wiakake",
+        "text": "Laajrak in wōnan, portfolio, leto letak im bōk ilo juon wōt circuit."
+      },
+      "retail": {
+        "title": "Imõn wia",
+        "text": "Jikin wia im jikin dāpij men ko ippāñ stock ko rej koba, wiakake im bar kōllaajrake."
+      },
+      "food": {
+        "title": "Mōñā im idaak",
+        "text": "Ial ko rebin im juon jikin wia eo ejjab maroñ bōjrak."
+      },
+      "pharma": {
+        "title": "Jikin wia uno im lale armij make",
+        "text": "Bōk, bōk im lale men ko ippāñ maroñ in lale."
+      },
+      "hardware": {
+        "title": "Kein jerbal ko im jerbal in ekkal",
+        "text": "Elōñ reference ko, ri wia ro im ri wia ro ñan jikin jerbal ak jikin wia ko."
+      },
+      "fmcg": {
+        "title": "Kōjerbal elap",
+        "text": "Ri wia ro ilo ial ko im ri wia ro elap air wiakake."
+      },
+      "manufacturing": {
+        "title": "Kōmman",
+        "text": "wia, jikin kejbãrok im men ko rej bed ilo jerbal in lale."
+      },
+      "lastmile": {
+        "title": "Delivery im last mile",
+        "text": "Ial ko, ri-kattōr ro im jekjek in kajjojo delivery."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Mennin jibañ",
+    "title": "Ļōmņak ko relukkuun alikkar n̄an [[kōllaajrak jerbal eo]]",
+    "intro": "Jikin tel ko ñan ri tel in leto letak ro renaj kōmman bebe kin ta system eo renaj jerbale.",
+    "items": {
+      "unify": {
+        "title": "Ewi wewein kobaiktok ñan juon wōt system",
+        "summary": "Ta eo ñan kobaiktok moktata ñe wia ko, jikin kejbãrok men ko im men ko rej aini rej bed ilo file ko reoktak jen dron.",
+        "points": [
+          "Jino kin ri wia ro, men ko rej wiakaki im wōnan: rej rūkaki eo aolep rej kajerbale.",
+          "Kobaik order eo ibben stock eo mokta jen am kobaik bar jet application ko.",
+          "Ej joñe juon oran eo epidodo: order ko rej dedelok ilo an jab bar kōmmane form eo."
+        ]
+      },
+      "offline": {
+        "title": "Ri wia ro rej jerbal ilo ejelok online",
+        "summary": "Ta eo kwoj aikuji jen juon app in order bwe ri wia eo en jab bōjrak kin signal eo.",
+        "points": [
+          "Catalog eo im wallet eo rej aikuj in bed ilo talboon eo, jab baj ilo cloud eo wot.",
+          "Order eo ej bed ilo device eo im uploade ñe network eo ej jeblak.",
+          "Ñe ej synchronize, order eo emoj an deloñ ilo warehouse eo."
+        ]
+      },
+      "warehouse": {
+        "title": "Imõn wia ko ippāñ barcode, ejelok peba ie",
+        "summary": "Ewi wewein etal jen laajrak eo emoj jeje ñan bōk ko ilo talboon.",
+        "points": [
+          "Bōk nae joñan wia eo, jab nae kememej.",
+          "Kamool kajjojo men ko ñe kwoj kōjepel. Bug eo ej deloñ ilo ial eo.",
+          "Dispatch eo ej kōkāāl stock eo me ri wia eo ej loe."
+        ]
+      },
+      "finance": {
+        "title": "Kōllaajrak eo ej errā ippān wia eo",
+        "summary": "Etke ri wia eo ej aikuj lale wōnan ri wia eo mokta jen an bōk bar juon order.",
+        "points": [
+          "Loļo̧k eo ej iien eo em̧m̧an tata n̄an bōk, eļan̄n̄e m̧uri eo ej waļo̧k.",
+          "Sales im finance rej aikuj lale juon wōt ri wia.",
+          "Juon ripoot eo ejjab jejjet raan otemjej ej laplok tokjen jen juon jemlok eo ejjab to."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Wōnāān ko",
+    "title": "Juon ekōjkan eo ej [[eddeklok ippaṃ]]",
+    "intro": "Jejjab kwalok juon joñan eo ejejjet: joñan eo ej pedped wōt ioon module ko, ro rej kajerbali im joñan. Kimij kwalok ñan yuk jikin eo im likit juon kōttōpar ibben jerbal eo am.",
+    "note": "Demo eo ejelok wōnan im ejjab aikuj juon kōttōpar.",
+    "recommended": "Emōj rōjañ",
+    "faq_title": "Kajjitōk ko ekkā aer kajjitōk kaki",
+    "plans": {
+      "essential": {
+        "name": "Aurok",
+        "desc": "ñan kōllaajrake jerbal in wia im leto letak ilo juon wōt jikin.",
+        "features": [
+          "FullVendor web platform",
+          "wiakake, wia im men ko",
+          "Ri wia ro, ri wia ro im riboot ro",
+          "Ri-kōjerbal kein jerbal ko an opiij",
+          "Jipan ñan jinoin"
+        ],
+        "cta": "Kajjitōk Demo"
+      },
+      "professional": {
+        "name": "Jerbal kapeel",
+        "desc": "Ñan tiim ko rej wiakake ilo ial ko im kōmman order ko ilo jikin wia ko.",
+        "features": [
+          "Men otemjej rej aorōk",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Jerbal ilo ejelok online im barcode ko",
+          "Elōñlok ro rej kajerbal jikin kallib im jikin wia ko"
+        ],
+        "cta": "Kajjitōk Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Ñan kumi ko rej aikuj logistics, wia, finance im kain kombani ko jet.",
+        "features": [
+          "Ecosystem eo eweeppān",
+          "Logistics, Vendor Supplier im Finance",
+          "FullVendor ERP im multi-tenancy",
+          "Billing im accounting ilo electronic",
+          "Kobaik im men ko moktata rej bed"
+        ],
+        "cta": "Kōnono ibben ri wia ro"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ij aikuj ke wiaik aolep men ko?",
+        "a": "Jaab. Kwomaroñ jino kin FullVendor im kobaik app ko ak ERP ñe jerbal eo ej aikuji."
+      },
+      "offline": {
+        "q": "Application ko rej ke jerbal ilo ejelok internet?",
+        "a": "Sales Man im Warehouse rej wōnmanlok wōt im jerbal ilo ejelok signal im synchronize ñe rej bar kone."
+      },
+      "multi": {
+        "q": "Ej ke jerbal elañe elaplok jen juon aō kombani?",
+        "a": "Aet. ERP ej ļōmņak kōn elōn̄ kombani ko im ecosystem eo emaron̄ in kōjeno̧lo̧k master ko ikōtaan er."
+      },
+      "demo": {
+        "q": "Ta eo ej koba ilo demo eo?",
+        "a": "Juon tūreep ilo jikin ikkure eo ippāñ juon keej einwot am. Ejelok wōnan im ejelok eddo."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Kimij kwalok ñan yuk FullVendor ippāñ [[kain jerbal eo am]]",
+    "text": "Kwalok ñan kim kin kombani eo am im ta eo kwoj kōnaan order mokta. Demo eo ejelok wōnan."
+  },
+  "contact": {
+    "eyebrow": "Armij eo ñan kebaak",
+    "title": "Jen konono kin [[jerbal eo am]]",
+    "text": "Elañe kwoj kōnaan juon demo, juon proposal ak baj ñan am jela kin men ko, likit melele ko am im kim naj uwaak.",
+    "email": "Mail",
+    "phone": "Talebon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Etan",
+    "email": "Mail",
+    "phone": "Talebon",
+    "company": "Kombani",
+    "country": "Aeloñ",
+    "team": "joñan tiim eo",
+    "interest": "Ta eo ej itoklimoik yuk?",
+    "message": "Majej",
+    "optional": "Kelet",
+    "choose": "Kelet",
+    "interest_all": "Aolepān menin mour ko",
+    "ph_name": "etam",
+    "ph_email": "kwe@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Jikin jerbal eo am",
+    "ph_country": "Aeloñ",
+    "ph_message": "Kwalok ñan kim ewi wawein am jerbal rainin",
+    "privacy_before": "Ij bōk kōjerbal melele ko ao ekkar ñan",
+    "privacy_after": ".",
+    "submit": "Jilkintok kajjitōk",
+    "sent_title": "Kōmij bōk am kajjitōk",
+    "sent_text": "Kommol. Ri wia ro renaj jeje ñan yuk ñan kōmman demo eo ak uwaake kajitok eo am.",
+    "error_required": "Kadedelok jikin in.",
+    "error_email": "Kōmman juon email eo ejimwe.",
+    "error_phone": "Lale taļboon eo.",
+    "error_privacy": "Jej aikuj am kōtlok ñan kōjerbal melele ko.",
+    "error_csrf": "Session eo emoj an jemlok. Bar jilkintok form eo.",
+    "error_save": "Kōm kar jab maroñ in kōjparok kajjitōk eo. Bar kajeoñ.",
+    "error_generic": "Lale jikin ko kar kakōlkōl kaki.",
+    "error_rate": "Jouj im kōttar jidik mokta jen am jilkintok bar juon am kajjitōk.",
+    "team_options": {
+      "1-10": "1 ñan 10 armej",
+      "11-50": "11 ñan 50 armej",
+      "51-200": "51 ñan 200 armej",
+      "201-500": "201 ñan 500 armej",
+      "500+": "Elōñlok jen 500 armij"
+    }
+  },
+  "video": {
+    "title": "FullVendor ilo juon minit",
+    "prev": "Moktalok",
+    "next": "Laajrak",
+    "slides": [
+      {
+        "title": "Juon wōt ekōjkan",
+        "text": "Wiakake, jikin kejbãrok, lelok, wia im money rej lelok ri wia ro, stock im order ko."
+      },
+      {
+        "title": "Web im mobile ibben don",
+        "text": "Opiij eo ej jerbal ilo jikin jerbal eo. Ial eo im jikin wia eo, ilo app ko, meñe ejelok signal."
+      },
+      {
+        "title": "Kar kōmmane ñan leto letak",
+        "text": "Jen order ñan payment, ilo ejelok lelok melele jen juon file ñan bar juon."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Kappukot men ko, wāween ko, jikin jerbal ko...",
+    "lang_filter": "Pukot kajin",
+    "intro": "Pukot men ko, wāween ko, jikin jerbal ko im kein jerbal ko.",
+    "empty": "Kōm kar jab lo tokjen ko ñan “{q}”.",
+    "hint": "Kajeoñ wiakake, jikin wia, ial ko ak bōk men ko.",
+    "results": "{n} tokjen ko",
+    "button": "Pukot",
+    "kind_product": "Mweiuk",
+    "kind_solution": "Jemlok",
+    "kind_industry": "Bejnej",
+    "kind_resource": "Kein jerbal"
+  },
+  "notfound": {
+    "title": "Peij in ejjab",
+    "text": "Link eo ejjab bed ak emoj an oktak jikin."
+  },
+  "common": {
+    "what": "Ta eo ej kōmmane",
+    "features": "Ta eo ej bed ie",
+    "benefits": "Etke ej aorōk",
+    "for_who": "Ej ñan wōn?",
+    "related": "Bareinwõt ilo ecosystem eo"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Wiakake rainin",
+      "orders": "Order ko",
+      "clients": "Ri wia ro",
+      "products": "Men ko rej wiakaki"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Wiakake",
+      "purchases": "Kaikwijkwij",
+      "inventory": "Mweiuk",
+      "clients": "Ri wia ro",
+      "reports": "Ripoot ko"
+    },
+    "chart": "Wiakake",
+    "channel": "Leto letak ilo channel",
+    "channels": [
+      "Imōn wia",
+      "Ajej",
+      "Ri wiakake",
+      "Ro jet"
+    ],
+    "orders": "Order ko rekāāl tata",
+    "col_order": "Kakien",
+    "col_client": "Riwia",
+    "col_status": "Jikin",
+    "col_total": "Aoleben joñan",
+    "status": [
+      "Emōj boklok",
+      "Ilo iaḷ eo",
+      "Earring"
+    ],
+    "top": "Men ko rej wiakaki emman tata",
+    "product": "Mweiuk",
+    "sales_menu": [
+      "Ri wia ro",
+      "Order ko",
+      "Men ko rej wiakaki",
+      "Ial ko",
+      "Kōmman bwe en jimwe"
+    ],
+    "warehouse_menu": [
+      "Ien kōjerammon",
+      "Piktok",
+      "Mweiuk",
+      "Jijilōk",
+      "Kōmman bwe en jimwe"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Kien in Kōjparok Mejenkajjik",
+    "privacy_intro": "Kien in ej kwalok kin ta eo jej kōmmane kin melele ko kwoj likiti ilo form ko ilo site in.",
+    "privacy": [
+      {
+        "title": "Ta melele ko jej bōk",
+        "text": "Elañe kwoj kajitõk juon demo ak jeje ñan kim, kim kejbãrok etan, kombani eo, email eo, nomba in talboon eo elañe kwoj kwaloke, ailiñ eo, joñan tiim eo, men eo kwoj itoklimo kake im ennan eo. Jej barāinwōt rekoote raan eo, kajin eo an peij eo im IP address eo, ñan bōbrae an armej ro jilkintok men ko renana."
+      },
+      {
+        "title": "Ta eo jej kōjerbali ñane?",
+        "text": "Kimij kajerbal melele kein ñan uwaake yuk, kōmmane juon demo im kōmmane juon kōttōpar in wia. Jejjab wiakaki ak lewoj ñan juon laajrak in ro jet."
+      },
+      {
+        "title": "Ia eo rej likūti ie im ewi joñan aer aitok?",
+        "text": "Kajjitōk ko rej bed ilo server eo an site in. Kimij kejbãrok ir ñan ien eo ej aikuj ñan jerbal ñan yuk im lale, im kōmij jolok ir ñe kwoj kajitõk ibbed ak ñe rejjab bar aikuji."
+      },
+      {
+        "title": "Jimwe ko am",
+        "text": "Kwomaroñ kajitok ñan bōk, kōkmman ak jolok melele ko am jen peba in kōllaajrak eo, im kwalok ilo ennaan eo. Elañe kombani eo ej kwalok juon email ilo website in, kwomaroñ barāinwōt jeje ie."
+      }
+    ],
+    "terms_title": "Kien ko ñan kōjerbale",
+    "terms_intro": "Men kein rej jerbal ñan kōjerbal jikin in FullVendor in.",
+    "terms": [
+      {
+        "title": "Melele ko ikijen wia",
+        "text": "Text ko, waanjonok ko ilo dashboard im melele ko rej kwalok kin platform eo. Remaroñ ukōt ñe men eo ej oktak im rejjab juon men eo ejjelok."
+      },
+      {
+        "title": "Demo eo ejjab juon kōttōpar",
+        "text": "Lelok form eo ejjab kōmman juon eddo ñan wia ak kōjparok juon wōnan. Jabdewōt kōņaan ej kōmmane make, ilo jeje, ippān joñan im jekjek ko an."
+      },
+      {
+        "title": "Men ko ilo jikin eo",
+        "text": "FullVendor trademark eo, etan men ko im men ko ilo peij kein rej an ro rej bōk er. Rejjab maroñ in copy ñan kwalok bar juon men."
+      },
+      {
+        "title": "Kōjerbal eo emman",
+        "text": "Jab kōjerbal form ko ñan jilkintok melele ko reriab, spam ak men ko rejjab ekkar ñan kien. Jemaroñ jolok kajjitōk ko rejjab ekkar ñan juon bwebwenato in business."
+      }
+    ]
+  }
+}

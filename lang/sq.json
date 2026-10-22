@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Menaxhoni dhe rritni biznesin tuaj",
+    "home_desc": "Platformë gjithëpërfshirëse me zgjidhje në internet dhe celular për shpërndarje, shitje, logjistikë, blerje, inventar dhe financa.",
+    "products_title": "Produkte | FullVendor",
+    "products_desc": "Njihuni me ekosistemin FullVendor: platforma tregtare, ERP, logjistika, furnitorët dhe shitjet, aplikacionet e magazinës dhe financave.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Zgjidhje | FullVendor",
+    "solutions_desc": "Zgjidhje për menaxhim komercial, forcë shitëse, depo, logjistikë, blerje dhe financa.",
+    "industries_title": "Industritë | FullVendor",
+    "industries_desc": "FullVendor për shpërndarje, shitje me pakicë, ushqim, farmaci, harduer, konsum masiv, prodhim dhe milje të fundit.",
+    "pricing_title": "Çmimet | FullVendor",
+    "pricing_desc": "Planet Thelbësore, Profesionale dhe Korporative. Propozimi është bërë së bashku sipas moduleve, përdoruesve dhe vëllimit.",
+    "resources_title": "Burimet | FullVendor",
+    "resources_desc": "Udhëzues të shkurtër për të unifikuar shpërndarjen, për të shitur offline, për të organizuar magazinën dhe për të paguar në kohë.",
+    "contact_title": "Kontakti | FullVendor",
+    "contact_desc": "Na shkruani për të mësuar rreth FullVendor ose për të koordinuar një bisedë me ekipin e shitjeve.",
+    "demo_title": "Kërko demonstrim | FullVendor",
+    "demo_desc": "Kërkoni një demonstrim të FullVendor dhe vizitoni platformën me një rast të ngjashëm me funksionimin tuaj.",
+    "privacy_title": "Privatësia | FullVendor",
+    "terms_title": "Kushtet | FullVendor",
+    "search_title": "Kërko | FullVendor",
+    "notfound_title": "Faqja nuk u gjet | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Faqja kryesore",
+    "products": "Produktet",
+    "solutions": "Zgjidhjet",
+    "industries": "Industritë",
+    "pricing": "Çmimet",
+    "resources": "Burimet",
+    "contact": "Kontaktoni",
+    "open_menu": "Hap menunë",
+    "close": "Mbylle"
+  },
+  "cta": {
+    "demo": "Kërko Demo",
+    "contact": "Na kontaktoni",
+    "video": "Shiko Videon",
+    "talk": "Flisni me shitjet",
+    "all_products": "Shihni të gjitha produktet",
+    "home": "Kthehu në faqen kryesore"
+  },
+  "a11y": {
+    "skip": "Kalo te përmbajtja",
+    "primary": "Lundrimi kryesor",
+    "crumbs": "Rruga e lundrimit",
+    "search": "Kërkoni",
+    "language": "Gjuha"
+  },
+  "hero": {
+    "eyebrow": "Të gjitha në një platformë",
+    "title": "Menaxhoni dhe rriteni\nbiznesin tuaj me\n{{brand}}",
+    "subtitle": "Një platformë e plotë me zgjidhje në internet dhe celular për shpërndarje, shitje, logjistikë, blerje, inventar, financa dhe më shumë.",
+    "pill_ecosystem": "Gjithçka në një ekosistem të vetëm",
+    "pill_cloud": "Në cloud, i sigurt dhe i shkallëzueshëm",
+    "pill_size": "Për kompanitë e të gjitha madhësive"
+  },
+  "products_block": {
+    "eyebrow": "Produktet tona",
+    "title": "Një [[ekosistem i plotë]] për çdo fushë të biznesit tuaj",
+    "aside": "Zgjidhje të integruara që punojnë së bashku për t'ju dhënë kontroll të plotë, efikasitet operacional dhe rritje më të madhe.",
+    "groups": {
+      "money": "Administrimi dhe grumbullimi",
+      "flow": "Blerjet dhe dorëzimi",
+      "field": "Shitjet dhe magazina"
+    }
+  },
+  "products_page": {
+    "title": "Shtatë produkte, [[operacion i vetëm]]",
+    "text": "Çdo produkt zgjidh një zonë. Së bashku ata ndajnë klientët, aksionet, porositë dhe pagesat."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Platforma kryesore për menaxhimin dhe shpërndarjen komerciale.",
+      "features": [
+        "Shitjet dhe blerjet",
+        "Inventari",
+        "Klientët dhe furnitorët",
+        "Raporte dhe më shumë"
+      ],
+      "lead": "Qendra e funksionimit tuaj tregtar: porositë, çmimet, aksionet dhe klientët në një vend.",
+      "about": "FullVendor zëvendëson tabelat dhe sistemet e lira të një distributori. Prej këtu dalin porositë, konsultohet inventari, kujdeset për portofolin e klientëve dhe shikohen numrat e ditës. Pjesa tjetër e ekosistemit lidhet me këtë bazë.",
+      "benefits": [
+        {
+          "title": "Një master i vetëm i të dhënave",
+          "text": "Klientët, produktet dhe çmimet ndahen me shitjet, magazinat dhe financat."
+        },
+        {
+          "title": "Operacioni i pastër ditor",
+          "text": "Porositë, blerjet dhe stoqet ndalojnë së jetuari në skedarë të ndryshëm."
+        },
+        {
+          "title": "Raporton për të vendosur",
+          "text": "Shitjet, marzhi dhe pritjet shihen pa bashkuar një tabelë me dorë."
+        },
+        {
+          "title": "Gati për t'u rritur",
+          "text": "Logjistika, forca e shitjes ose shumat ERP kur e kërkon operacioni."
+        }
+      ],
+      "audience": "Ekipet komerciale dhe shpërndarëse që sot koordinojnë biznesin midis disa sistemeve."
+    },
+    "erp": {
+      "kicker": "Administrata",
+      "card": "Menaxhimi i plotë administrativ dhe financiar.",
+      "features": [
+        "Kontabiliteti",
+        "Faturimi elektronik",
+        "Fletët e punës",
+        "Asetet fikse",
+        "Shumë-kompani"
+      ],
+      "lead": "Administrata dhe financat, në përputhje me atë që shitet dhe dorëzohet në të vërtetë.",
+      "about": "FullVendor ERP mbulon kontabilitetin, faturimin elektronik, listat e pagave, asetet fikse dhe shumë kompani. Ai merr operacionin tregtar dhe e konverton atë në hyrje, fatura dhe deklarata që mund të përdorë zona financiare.",
+      "benefits": [
+        {
+          "title": "Kontabiliteti i lidhur",
+          "text": "Çfarë ndodh në shitje dhe blerje ushqen kontabilitetin."
+        },
+        {
+          "title": "Faturat elektronike",
+          "text": "Ju lëshoni dhe kontrolloni faturimin nga i njëjti ekosistem."
+        },
+        {
+          "title": "Kompani te ndryshme",
+          "text": "Multi-kompani për grupet që operojnë nën më shumë se një emër kompanie."
+        },
+        {
+          "title": "Listat e pagave dhe asetet",
+          "text": "Lista e pagave dhe asetet fikse së bashku me pjesën tjetër të menaxhmentit."
+        }
+      ],
+      "audience": "Fushat administrative dhe financiare që duan të mbyllin shifrat me operacionin real."
+    },
+    "logistics": {
+      "kicker": "Logjistika",
+      "card": "Kontrolli dhe monitorimi i funksionimit tuaj logjistik.",
+      "features": [
+        "Rrugët dhe dërgesat",
+        "Ndjekja në kohë reale",
+        "Detyra e shoferit",
+        "Optimizimi i rrugës"
+      ],
+      "lead": "Nga porosia në dorëzim: rrugë, shoferë dhe gjurmim në kohë reale.",
+      "about": "FullVendor Logistics organizon shpërndarjen. Ju krijoni rrugë, caktoni drejtues dhe shikoni se ku po shkon çdo dërgesë. Ekipi i trafikut ndalon në varësi të thirrjeve për të zbuluar nëse porosia është dërguar.",
+      "benefits": [
+        {
+          "title": "Rrugët e ditës",
+          "text": "Dërgesat e porositura sipas zonës, afatit kohor dhe kapacitetit."
+        },
+        {
+          "title": "Shofer i caktuar",
+          "text": "Çdo rrugë ka një person përgjegjës dhe një sekuencë të qartë."
+        },
+        {
+          "title": "Përcjellja",
+          "text": "Ju e dini se çfarë është dorëzuar, rrugës apo ndalur."
+        },
+        {
+          "title": "Më pak kilometra",
+          "text": "Optimizimi i itinerarit redukton kohën dhe koston e dorëzimit."
+        }
+      ],
+      "audience": "Operacionet e shpërndarjes me flotën e vet ose palë të treta."
+    },
+    "supplier": {
+      "kicker": "Pazar",
+      "card": "Portal për furnitorët dhe menaxhimin e blerjeve.",
+      "features": [
+        "Urdhrat e blerjeve",
+        "Kuotat",
+        "Menaxhimi i furnizuesit",
+        "Integrimi me inventarin"
+      ],
+      "lead": "Furnizuesit tuaj japin kuotën e tyre, marrin porosi dhe plotësojnë stokun pa email të lirë.",
+      "about": "Vendor Supplier hap një portal për blerjet dhe furnitorët që të punojnë me të njëjtat porosi. Kuotat, urdhrat e blerjes dhe fatura janë të lidhura me inventarin e FullVendor.",
+      "benefits": [
+        {
+          "title": "Porositë në një kanal",
+          "text": "Furnizuesi sheh se çfarë të dorëzojë, pa një zinxhir emaili."
+        },
+        {
+          "title": "Citate të krahasueshme",
+          "text": "Ju kërkoni çmimet dhe zgjidhni duke pasur parasysh historinë."
+        },
+        {
+          "title": "Furnizuesi Master",
+          "text": "Kushtet, kontaktet dhe në pritje në një regjistrim të vetëm."
+        },
+        {
+          "title": "Futni inventarin",
+          "text": "Ajo që është blerë pasqyrohet në gjendje kur merret."
+        }
+      ],
+      "audience": "Ekipet e blerjeve që plotësohen me disa furnizues dhe kanë nevojë për gjurmueshmëri."
+    },
+    "salesman": {
+      "kicker": "Aplikacioni celular",
+      "card": "Aplikacion celular për ekipin e shitjeve.",
+      "features": [
+        "Menaxhimi i klientit",
+        "Marrja e porosive",
+        "Katalogu i produkteve",
+        "Punë jashtë linje"
+      ],
+      "lead": "Forca e shitjes merr porosi në rrugë, me ose pa sinjal.",
+      "about": "FullVendor Sales Man vendos portofolin, katalogun dhe porosinë tuaj duke marrë në telefonin e shitësit. Nëse nuk ka internet, puna vazhdon dhe sinkronizohet kur sinjali kthehet. Porosia mbërrin gati për t'u përgatitur dhe dorëzuar.",
+      "benefits": [
+        {
+          "title": "Portofoli në xhep",
+          "text": "Shitësi sheh klientët, kushtet dhe artikujt në pritje."
+        },
+        {
+          "title": "Porosit në vizitë",
+          "text": "Merrni porosinë me çmimet aktuale dhe stokun."
+        },
+        {
+          "title": "Katalogu i përditësuar",
+          "text": "Produkte, prezantime dhe çmime pa një PDF të vjetër."
+        },
+        {
+          "title": "Real offline",
+          "text": "Punoni pa mbulim dhe sinkronizoni më vonë."
+        }
+      ],
+      "audience": "Mbikëqyrësit dhe shitësit në terren në shpërndarje dhe konsum në masë."
+    },
+    "warehouse": {
+      "kicker": "Aplikacioni celular",
+      "card": "Aplikacion celular për depo.",
+      "features": [
+        "Pritja dhe dërgimi",
+        "Zgjedhja dhe paketimi",
+        "Kontrolli i inventarit",
+        "Leximi i barkodit"
+      ],
+      "lead": "Pritja, marrja dhe dërgimi me telefon dhe barkod.",
+      "about": "FullVendor Warehouse udhëzon magazinën në pritje, marrje, paketim dhe dërgim. Leximi i kodeve zvogëlon gabimet dhe inventari nuk llogaritet më vetëm në fund të muajit.",
+      "benefits": [
+        {
+          "title": "Pritje kundër porosisë",
+          "text": "Ajo që hyn krahasohet me blerjen."
+        },
+        {
+          "title": "Zgjedhja e synuar",
+          "text": "Pronari i anijes ndjek porosinë dhe konfirmon çdo artikull."
+        },
+        {
+          "title": "Barkodet",
+          "text": "Më pak gabime të produktit, grupit ose sasisë."
+        },
+        {
+          "title": "Stoku i besueshëm",
+          "text": "Çdo lëvizje përditëson inventarin e platformës."
+        }
+      ],
+      "audience": "Drejtues magazinash dhe pronarë anijesh që sot përgatisin porosi me lista të printuara."
+    },
+    "finance": {
+      "kicker": "Aplikacioni celular",
+      "card": "Kontroll financiar nga celulari juaj.",
+      "features": [
+        "Llogaritë e arkëtueshme dhe të pagueshme",
+        "Statusi i klientit",
+        "Pagesat dhe barazimet",
+        "Raportet financiare"
+      ],
+      "lead": "Llogaritë e arkëtueshme, pagesat dhe statusi i klientit, nga telefoni juaj.",
+      "about": "FullVendor Finance tregon mbledhjen në celular: çfarë detyrohet çdo klient, çfarë do të paguajë kompania dhe si vijnë pagesat. Përdoret për të mbledhur para gjatë vizitës dhe për të parë kasën pa hapur tavolinën.",
+      "benefits": [
+        {
+          "title": "Mbledhja në vizitë",
+          "text": "Shitësi e di nëse klienti është i përditësuar përpara se të shesë."
+        },
+        {
+          "title": "Të arkëtueshme dhe të pagueshme",
+          "text": "Të dyja anët e kutisë në të njëjtin aplikacion."
+        },
+        {
+          "title": "Pagesat dhe barazimet",
+          "text": "Ju regjistroni kredite dhe shikoni se çfarë duhet të kryqëzohet."
+        },
+        {
+          "title": "Raportet në dorë",
+          "text": "Treguesit e mbledhjes dhe parave të gatshme pa pritur mbylljen."
+        }
+      ],
+      "audience": "Menaxherët, koleksionistët dhe shitësit që kanë nevojë për situatën e klientit në këtë moment."
+    }
+  },
+  "why": {
+    "eyebrow": "Pse FullVendor",
+    "title": "Nxisni biznesin tuaj\nme rezultate reale",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kompanitë na besojnë"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Përdorues aktivë"
+      },
+      {
+        "value": "+10",
+        "suffix": "vjet",
+        "label": "Në evolucion të vazhdueshëm"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponueshmëria e resë kompjuterike"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Si funksionon",
+    "title": "Nga shitja në grumbullim, pa ndryshuar sisteme",
+    "text": "Çdo produkt ndan klientët, aksionet, porositë dhe pagesat. Ajo që ndodh në rrugë ose në magazinë shfaqet në zyrë menjëherë.",
+    "steps": {
+      "sell": {
+        "title": "Ju shisni",
+        "text": "Porosia futet përmes faqes së internetit ose përmes Sales Man, edhe pa sinjal."
+      },
+      "pick": {
+        "title": "Gati",
+        "text": "Warehouse merr, ndan dhe dërgon me barkod."
+      },
+      "deliver": {
+        "title": "Dërgesat",
+        "text": "Logistics cakton itinerarin dhe ndjek dorëzimin."
+      },
+      "collect": {
+        "title": "Kobrat",
+        "text": "Finance dhe ERP mbyllin mbledhjen, faturat dhe numrat."
+      }
+    }
+  },
+  "band": {
+    "title": "Gati për ta parë atë me [[operacionin tuaj]]?",
+    "text": "Ne ju tregojmë ekosistemin me një rast shpërndarjeje të ngjashëm me tuajin."
+  },
+  "footer": {
+    "blurb": "Ueb dhe platformë celulare për shpërndarje, shitje, logjistikë, blerje, inventar dhe financa.",
+    "products": "Produktet",
+    "company": "Kompania",
+    "legal": "Ligjore",
+    "privacy": "Privatësia",
+    "terms": "Kushtet",
+    "rights": "Të gjitha të drejtat e rezervuara."
+  },
+  "solutions": {
+    "eyebrow": "Zgjidhjet",
+    "title": "Çdo zonë, e lidhur me [[i njëjti operacion]]",
+    "intro": "Zgjidhni sipas problemit që dëshironi të zgjidhni. Prapa, produktet ndajnë të njëjtin informacion.",
+    "items": {
+      "commercial": {
+        "title": "Menaxhimi komercial",
+        "text": "Porositë, çmimet, klientët dhe inventari për shpërndarjen e përditshme."
+      },
+      "field": {
+        "title": "forca e shitjes",
+        "text": "Shitësit që marrin porosi në rrugë, online ose offline."
+      },
+      "warehouse": {
+        "title": "Dyqani",
+        "text": "Pritja, marrja, dërgimi dhe një stok që mund t'i besohet."
+      },
+      "logistics": {
+        "title": "Logjistika dhe dorëzimi",
+        "text": "Rrugët, shoferët dhe statusi i çdo dërgese."
+      },
+      "purchasing": {
+        "title": "Blerja dhe furnitorët",
+        "text": "Kuota, porosi dhe një portal për këdo që ju furnizon."
+      },
+      "finance": {
+        "title": "Financë dhe kontabilitet",
+        "text": "Arkëtimet, pagesat, faturimi elektronik dhe kontabiliteti."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industritë",
+    "title": "Krijuar për ata që [[lëviz produktin]]",
+    "intro": "FullVendor lindi në shpërndarje dhe shoqëron kompanitë që blejnë, ruajnë, shesin dhe dorëzojnë.",
+    "items": {
+      "wholesale": {
+        "title": "Shperndarje dhe shumice",
+        "text": "Listat e çmimeve, portofoli, shpërndarja dhe grumbullimi në një qark të vetëm."
+      },
+      "retail": {
+        "title": "Shitje me pakicë",
+        "text": "Dyqan dhe magazinë me stok të lidhur, shitje dhe rimbushje."
+      },
+      "food": {
+        "title": "Ushqim dhe pije",
+        "text": "Rrugë të shpeshta dhe një magazinë që nuk mund të ndalet."
+      },
+      "pharma": {
+        "title": "Farmaci dhe kujdes personal",
+        "text": "Marrja, marrja dhe kontrolli i inventarit me gjurmueshmëri."
+      },
+      "hardware": {
+        "title": "Hardware dhe ndërtim",
+        "text": "Shumë referenca, furnizues dhe dërgesa në punë ose dyqan."
+      },
+      "fmcg": {
+        "title": "Konsumi masiv",
+        "text": "Forca e shitjeve në rrugë dhe zëvendësimi i xhiros së lartë."
+      },
+      "manufacturing": {
+        "title": "Prodhimi",
+        "text": "Blerja, magazina dhe inventari në përputhje me administrimin."
+      },
+      "lastmile": {
+        "title": "Dorëzimi dhe milja e fundit",
+        "text": "Rrugët, shoferët dhe statusi i çdo dërgese."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Burimet",
+    "title": "Ide të qarta për të [[porositni operacionin]]",
+    "intro": "Udhëzues të shkurtër për menaxherët e shpërndarjes që do të vendosin se me cilin sistem të qëndrojnë.",
+    "items": {
+      "unify": {
+        "title": "Si të unifikoni shpërndarjen në një sistem të vetëm",
+        "summary": "Çfarë duhet të bashkoni së pari kur shitjet, depoja dhe koleksionet jetojnë në skedarë të ndryshëm.",
+        "points": [
+          "Filloni me klientët, produktet dhe çmimet: ata janë mësuesi që përdorin të gjithë.",
+          "Lidhni porosinë me stokun përpara se të shtoni më shumë aplikacione.",
+          "Ai mat një numër të thjeshtë: urdhrat plotësohen pa ribërë formularin."
+        ]
+      },
+      "offline": {
+        "title": "Forca e shitjeve që punon jashtë linje",
+        "summary": "Çfarë duhet të kërkoni nga një aplikacion porositës në mënyrë që shitësi të mos ndalojë për shkak të sinjalit.",
+        "points": [
+          "Katalogu dhe portofoli duhet të jenë në telefon, jo vetëm në re.",
+          "Porosia ruhet në pajisje dhe ngarkohet kur të kthehet rrjeti.",
+          "Kur sinkronizoni, porosia tashmë hyn në magazinë."
+        ]
+      },
+      "warehouse": {
+        "title": "Magazina me barkod, pa letër",
+        "summary": "Si të kaloni nga lista e printuar në zgjedhjen e konfirmuar në telefon.",
+        "points": [
+          "Merre kundrejt porosisë së blerjes, jo kundër kujtesës.",
+          "Konfirmoni çdo artikull kur ndani. Insekti bie në korridor.",
+          "Dërgesa përditëson stokun që sheh shitësi."
+        ]
+      },
+      "finance": {
+        "title": "Koleksioni i përafruar me shitjen",
+        "summary": "Pse shitësi duhet të shohë borxhin e klientit përpara se të marrë një porosi tjetër.",
+        "points": [
+          "Vizita është koha më e mirë për të mbledhur, nëse borxhi është i dukshëm.",
+          "Shitjet dhe financat duhet të shikojnë të njëjtin klient.",
+          "Një raport ditor i vonuar vlen më shumë se një mbyllje me vonesë."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Çmimet",
+    "title": "Një ekosistem që [[rritet me ju]]",
+    "intro": "Ne nuk publikojmë një tarifë të përgjithshme: kostoja varet nga modulet, përdoruesit dhe vëllimi. Ne ju tregojmë platformën dhe bëjmë së bashku një propozim me operacionin tuaj.",
+    "note": "Demoja nuk ka kosto dhe nuk kërkon kontratë.",
+    "recommended": "Rekomanduar",
+    "faq_title": "Pyetjet e bëra shpesh",
+    "plans": {
+      "essential": {
+        "name": "Thelbësore",
+        "desc": "Për të organizuar menaxhimin dhe shpërndarjen komerciale në një platformë të vetme.",
+        "features": [
+          "FullVendor platforma ueb",
+          "Shitjet, blerjet dhe inventari",
+          "Klientët, furnitorët dhe raportet",
+          "Përdoruesit e pajisjeve të zyrës",
+          "Mbështetje për fillimin"
+        ],
+        "cta": "Kërko Demo"
+      },
+      "professional": {
+        "name": "profesionale",
+        "desc": "Për ekipet që shesin në rrugë dhe përgatisin porosi në magazinë.",
+        "features": [
+          "Gjithçka Thelbësore",
+          "Aplikacioni FullVendor Sales Man",
+          "Aplikacioni FullVendor Warehouse",
+          "Punë jashtë linje dhe barkode",
+          "Më shumë përdorues të fushës dhe magazinës"
+        ],
+        "cta": "Kërko Demo"
+      },
+      "corporate": {
+        "name": "Korporative",
+        "desc": "Për grupe që kanë nevojë për logjistikë, blerje, financa dhe kompani të ndryshme.",
+        "features": [
+          "Ekosistem i plotë",
+          "Logistics, Vendor Supplier dhe Finance",
+          "FullVendor ERP dhe shumë qira",
+          "Faturimi dhe kontabiliteti elektronik",
+          "Shoqërimi dhe disponueshmëria me përparësi"
+        ],
+        "cta": "Flisni me shitjet"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "A duhet të blej të gjitha produktet?",
+        "a": "Jo. Mund të filloni me FullVendor dhe të shtoni aplikacione ose ERP kur operacioni ka nevojë për të."
+      },
+      "offline": {
+        "q": "A funksionojnë aplikacionet pa internet?",
+        "a": "Sales Man dhe Warehouse vazhdojnë të punojnë pa sinjal dhe sinkronizohen kur lidheni përsëri."
+      },
+      "multi": {
+        "q": "A funksionon nëse kam më shumë se një kompani?",
+        "a": "po. ERP parashikon shumë-kompani dhe ekosistemi mund të ndajë zotërinj mes tyre."
+      },
+      "demo": {
+        "q": "Çfarë përfshin demonstrimi?",
+        "a": "Një turne në platformë me një rast të ngjashëm me tuajin. Pa kosto dhe pa detyrim."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Ne ju tregojmë FullVendor me [[lloji juaj i operacionit]]",
+    "text": "Na tregoni për kompaninë tuaj dhe atë që dëshironi të porosisni së pari. Demoja nuk ka kosto."
+  },
+  "contact": {
+    "eyebrow": "Kontaktoni",
+    "title": "Le të flasim për [[operacionin tuaj]]",
+    "text": "Nëse dëshironi një demo, një propozim ose thjesht për t'u orientuar midis produkteve, lini informacionin tuaj dhe ne do t'ju përgjigjemi.",
+    "email": "Postë",
+    "phone": "Telefoni",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Emri",
+    "email": "Postë",
+    "phone": "Telefoni",
+    "company": "Kompania",
+    "country": "Vendi",
+    "team": "Madhësia e ekipit",
+    "interest": "Çfarë ju intereson?",
+    "message": "Mesazh",
+    "optional": "Fakultative",
+    "choose": "Zgjidhni",
+    "interest_all": "I gjithë ekosistemi",
+    "ph_name": "emrin tuaj",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kompania juaj",
+    "ph_country": "Vendi",
+    "ph_message": "Na tregoni si veproni sot",
+    "privacy_before": "Unë pranoj përdorimin e të dhënave të mia sipas",
+    "privacy_after": ".",
+    "submit": "Dërgo kërkesë",
+    "sent_title": "Ne marrim kërkesën tuaj",
+    "sent_text": "faleminderit. Ekipi i shitjeve do t'ju shkruajë për të koordinuar demonstrimin ose për t'iu përgjigjur pyetjes suaj.",
+    "error_required": "Plotësoni këtë fushë.",
+    "error_email": "Fut një email të vlefshëm.",
+    "error_phone": "Kontrollo telefonin.",
+    "error_privacy": "Ne kemi nevojë për pëlqimin tuaj për të përdorur detajet e kontaktit.",
+    "error_csrf": "Seanca ka skaduar. Dërgo sërish formularin.",
+    "error_save": "Nuk mund ta ruanim kërkesën. Provo sërish.",
+    "error_generic": "Rishikoni fushat e shënuara.",
+    "error_rate": "Ju lutemi prisni një moment përpara se të dërgoni një kërkesë tjetër.",
+    "team_options": {
+      "1-10": "1 deri në 10 persona",
+      "11-50": "11 deri në 50 persona",
+      "51-200": "51 deri në 200 persona",
+      "201-500": "201 deri në 500 persona",
+      "500+": "Më shumë se 500 njerëz"
+    }
+  },
+  "video": {
+    "title": "FullVendor në një minutë",
+    "prev": "Ish",
+    "next": "Në vijim",
+    "slides": [
+      {
+        "title": "Një ekosistem i vetëm",
+        "text": "Shitjet, magazina, shpërndarja, blerja dhe financimi i klientëve, aksioneve dhe porosive."
+      },
+      {
+        "title": "Web dhe celular së bashku",
+        "text": "Zyra punon në platformë. Rruga dhe magazina, në aplikacione, edhe pa sinjal."
+      },
+      {
+        "title": "Bërë për t'u shpërndarë",
+        "text": "Nga porosia në pagesë, pa kaluar informacion nga një dosje në tjetrën."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Kërkoni për produkte, zgjidhje, industri…",
+    "lang_filter": "Kërko gjuha",
+    "intro": "Kërkoni produkte, zgjidhje, industri dhe burime.",
+    "empty": "Ne nuk gjetëm rezultate për \"{q}\".",
+    "hint": "Provoni shitjet, magazinat, rrugët ose koleksionet.",
+    "results": "{n} rezultatet",
+    "button": "Kërkoni",
+    "kind_product": "Produkti",
+    "kind_solution": "Zgjidhje",
+    "kind_industry": "Industria",
+    "kind_resource": "Burim"
+  },
+  "notfound": {
+    "title": "Kjo faqe nuk është",
+    "text": "Lidhja nuk ekziston ose ka ndryshuar vendndodhjen."
+  },
+  "common": {
+    "what": "Çfarë zgjidh",
+    "features": "Çfarë përfshihet",
+    "benefits": "Pse ka rëndësi",
+    "for_who": "Për kë është?",
+    "related": "Gjithashtu në ekosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Shitjet sot",
+      "orders": "Porositë",
+      "clients": "Konsumatorët",
+      "products": "Produktet"
+    },
+    "sidebar": {
+      "dashboard": "Paneli",
+      "sales": "Shitjet",
+      "purchases": "Pazar",
+      "inventory": "Inventari",
+      "clients": "Konsumatorët",
+      "reports": "Raportet"
+    },
+    "chart": "Shitjet",
+    "channel": "Shpërndarja sipas kanalit",
+    "channels": [
+      "Dyqani",
+      "Shpërndarja",
+      "Shitës me shumicë",
+      "Të tjerët"
+    ],
+    "orders": "Porositë më të fundit",
+    "col_order": "Rendit",
+    "col_client": "Klienti",
+    "col_status": "Shtetit",
+    "col_total": "Gjithsej",
+    "status": [
+      "Dorëzuar",
+      "Gjatë rrugës",
+      "Vathë"
+    ],
+    "top": "Produktet më të shitura",
+    "product": "Produkti",
+    "sales_menu": [
+      "Konsumatorët",
+      "Porositë",
+      "Produktet",
+      "Rrugët",
+      "Sinkronizoni"
+    ],
+    "warehouse_menu": [
+      "Pritja",
+      "Zgjedhja",
+      "Inventari",
+      "Dërgimi",
+      "Sinkronizoni"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politika e privatësisë",
+    "privacy_intro": "Kjo politikë shpjegon se çfarë bëjmë ne me të dhënat që ju lini në formularë në këtë sajt.",
+    "privacy": [
+      {
+        "title": "Çfarë të dhënash mbledhim",
+        "text": "Nëse kërkoni një demo ose na shkruani, ne ruajmë emrin, kompaninë, emailin, numrin e telefonit nëse e tregoni, shtetin, madhësinë e ekipit, produktin me interes dhe mesazhin. Ne gjithashtu regjistrojmë datën, gjuhën e faqes dhe adresën IP, për të parandaluar paraqitjet abuzive."
+      },
+      {
+        "title": "Për çfarë i përdorim ato?",
+        "text": "Ne i përdorim këto të dhëna vetëm për t'ju përgjigjur, për të koordinuar një demonstrim dhe për të përgatitur një propozim tregtar. Ne nuk i shesim ato ose nuk ua japim një liste palësh të treta."
+      },
+      {
+        "title": "Ku ruhen dhe për sa kohë?",
+        "text": "Kërkesat ruhen në serverin e kësaj faqeje. Ne i mbajmë ato për kohën e nevojshme për t'ju shërbyer dhe për ndjekjen komerciale, dhe i fshijmë kur ju na kërkoni ose kur nuk janë më të nevojshme."
+      },
+      {
+        "title": "Të drejtat tuaja",
+        "text": "Ju mund të kërkoni qasje, korrigjim ose fshirje të të dhënave tuaja nga formulari i kontaktit, duke e treguar atë në mesazh. Nëse kompania publikon një email në këtë faqe interneti, ju gjithashtu mund të shkruani atje."
+      }
+    ],
+    "terms_title": "Kushtet e përdorimit",
+    "terms_intro": "Këto kushte zbatohen për përdorimin e kësaj faqeje të paraqitjes së FullVendor.",
+    "terms": [
+      {
+        "title": "Informacion komercial",
+        "text": "Tekstet, shembujt e figurave të panelit të kontrollit dhe përshkrimet prezantojnë platformën. Ato mund të rregullohen kur produkti ndryshon dhe nuk janë ofertë e mbyllur."
+      },
+      {
+        "title": "Demoja nuk është një kontratë",
+        "text": "Dorëzimi i formularit nuk krijon një detyrim për të blerë ose rezervuar një çmim. Çdo kontratë është rënë dakord veçmas, me shkrim, me qëllimin dhe kushtet e saj."
+      },
+      {
+        "title": "Përmbajtja e faqes",
+        "text": "Marka tregtare FullVendor, emrat e produkteve dhe përmbajtja e këtyre faqeve u përkasin pronarëve të tyre. Ato nuk mund të kopjohen për të paraqitur një produkt tjetër."
+      },
+      {
+        "title": "Përdorimi i pranueshëm",
+        "text": "Mos përdorni formularët për të paraqitur informacione të rreme, spam ose përmbajtje të paligjshme. Ne mund të shpërfillim kërkesat që nuk korrespondojnë me një bisedë të vërtetë biznesi."
+      }
+    ]
+  }
+}

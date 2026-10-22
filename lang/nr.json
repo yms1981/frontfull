@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Phatha begodu ukhulise ibhizinisi lakho",
+    "home_desc": "Ipulatifomu yoke eneensombululo zewebhu nezeselula zokusabalalisa, ukuthengisa, ukuthutha, ukuthenga, ukugcina izinto kanye nezezimali.",
+    "products_title": "Imikhiqizo | FullVendor",
+    "products_desc": "Yazi i-ecosystem FullVendor: iplatifomu yezokuthengisa, ERP, ukuthuthwa kwezinto, abathengisi nokuthengisa, ama-app wendawo yokugcina impahla kanye nezezimali.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Iinsombululo | FullVendor",
+    "solutions_desc": "Iinsombululo zokulawulwa kwezamabhizinisi, abathengisi, indawo yokubeka, ukuthutha, ukuthenga kanye nezezimali.",
+    "industries_title": "Iimboni | FullVendor",
+    "industries_desc": "FullVendor yokusabalalisa, ukuthengisa, ukudla, ikhemisi, iinsetjenziswa, ukusetjenziswa okukhulu, ukukhiqiza kanye nemayela yokugcina.",
+    "pricing_title": "Intengo | FullVendor",
+    "pricing_desc": "Amahlelo aqakathekileko, wezobuchwepheshe kanye namabhizinisi. Isiphakamiso sihlanganiswa ngokuya ngamamojula, abasebenzisi kanye nomthamo.",
+    "resources_title": "Iinsetjenziswa | FullVendor",
+    "resources_desc": "Imihlahlandlela emfitjhani yokuhlanganisa ukusabalalisa, ukuthengisa ngaphandle kwe-inthanethi, ukuhlela indawo yokubeka begodu ubhadelwe ngesikhathi.",
+    "contact_title": "Ukuthintana | FullVendor",
+    "contact_desc": "Sitlolele ukufunda nge-FullVendor nofana ukuhlanganisa ingcoco nethimba lokuthengisa.",
+    "demo_title": "Cela idemo | FullVendor",
+    "demo_desc": "Bawa ukutjengiswa kwe-FullVendor begodu uvakatjhele iplatifomu ngecala elifana nelomsebenzi wakho.",
+    "privacy_title": "Ubumfihlo | FullVendor",
+    "terms_title": "Imibandela | FullVendor",
+    "search_title": "Setjha | FullVendor",
+    "notfound_title": "Ikhasi alitholakali | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Ikhasi lasekhaya",
+    "products": "Imikhiqizo",
+    "solutions": "Iinsombululo",
+    "industries": "Iimboni",
+    "pricing": "Intengo",
+    "resources": "Imithombo",
+    "contact": "Ukuthintana",
+    "open_menu": "Vula imenyu",
+    "close": "Vala"
+  },
+  "cta": {
+    "demo": "Cela iDemo",
+    "contact": "Sithinte",
+    "video": "Qala ividiyo",
+    "talk": "Khuluma nabathengisi",
+    "all_products": "Bona yoke imikhiqizo",
+    "home": "Buyela ekhasini lasekhaya"
+  },
+  "a11y": {
+    "skip": "Yeqa uye kokuqukethwe",
+    "primary": "Ukuzulazula okukhulu",
+    "crumbs": "Indlela yokukhamba",
+    "search": "Khangela",
+    "language": "Ilimi"
+  },
+  "hero": {
+    "eyebrow": "Konke endaweni yinye",
+    "title": "Phatha begodu ukhule\nibhizinisi lakho\n{{brand}}",
+    "subtitle": "Ipulatifomu epheleleko eneensombululo zewebhu nezeselula zokusabalalisa, ukuthengisa, ukuthutha, ukuthenga, ukugcina izinto, ezezimali nokunye.",
+    "pill_ecosystem": "Konke okusesimisweni esisodwa semvelo",
+    "pill_cloud": "Efini, ephephileko nelinganisekako",
+    "pill_size": "Eenkampanini zabo boke ubukhulu"
+  },
+  "products_block": {
+    "eyebrow": "Imikhiqizo yethu",
+    "title": "I-[[complete ecosystem]] yendawo ngayinye yebhizinisi lakho",
+    "aside": "Iinsombululo ezihlanganisiweko ezisebenza ndawonye ukukunikela ukulawula okupheleleko, ukusebenza kuhle nokukhula okukhulu.",
+    "groups": {
+      "money": "Ukuphatha nokubuthelela",
+      "flow": "Ukuthengwa nokulethwa",
+      "field": "Ukuthengisa nendawo yokubeka"
+    }
+  },
+  "products_page": {
+    "title": "Imikhiqizo elikhomba, [[umsebenzi owodwa]]",
+    "text": "Umkhiqizo ngamunye uxazulula indawo. Bobabili babelana ngamakhasimende, isitokwe, ama-oda kanye neenkokhelo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Iplatfomu",
+      "card": "Ipulatifomu ekulu yokulawulwa kwezokuthengisa nokusabalalisa.",
+      "features": [
+        "Ukuthengisa nokuthenga",
+        "Yokusungula",
+        "Amaklayenti nabathengisi",
+        "Imibiko nokunye"
+      ],
+      "lead": "Isikhungo somsebenzi wakho wezokuthengisa: ama-oda, amanani, isitoko namakhasimende endaweni yinye.",
+      "about": "FullVendor ithatha indawo yamaspredishithi namasistimu womsabalalisi. Kusukela lapha ama-oda aphuma, i-inventory iyaboniswa, iphothifoliyo yamakhasimende iyatlhogonyelwa begodu iinomboro zelanga ziyaqalwa. Iindawo eziseleko zihlangana nesisekelo lesi.",
+      "benefits": [
+        {
+          "title": "Idatha eyodwa",
+          "text": "Amakhasimende, imikhiqizo kanye neentengo kwabelwana ngazo nabathengisi, indawo yokugcina impahla kanye nezezimali."
+        },
+        {
+          "title": "Sula ukusebenza kwamalanga woke",
+          "text": "Ama-oda, ukuthengwa kanye nesitokwe kuyeka ukuhlala emafayeleni ahlukileko."
+        },
+        {
+          "title": "Imibiko ezokuthatha isiqunto",
+          "text": "Ukuthengisa, umkhawulo nokulindileko kubonakala ngaphandle kokuhlanganisa itafula ngesandla."
+        },
+        {
+          "title": "Ukulungele ukukhula",
+          "text": "Iinsetjenziswa, abasebenzi bokuthengisa nofana isamba se-ERP lokha umsebenzi nawubawako."
+        }
+      ],
+      "audience": "Amathimu wezokurhweba nokusabalalisa namhlanjesi ahlanganisa ibhizinisi hlangana neenhlelo ezinengi."
+    },
+    "erp": {
+      "kicker": "Ukuphatha",
+      "card": "Ukuphathwa okupheleleko kwezokuphatha nezezimali.",
+      "features": [
+        "Ukubala",
+        "Ukubhadela nge-elekthronikhi",
+        "Amaphepha wokusebenza",
+        "Ipahla engaguqukiko",
+        "Ikhamphani ezinengi"
+      ],
+      "lead": "Ukuphatha kanye nezezimali, okuhambisana nalokho okuthengiswako nokulethwako.",
+      "about": "FullVendor ERP ifaka hlangana ukubalwa kwemali, ukukhipha ama-invoyisi nge-elekthronikhi, imirholo, ipahla engaguqukiko kanye namakhamphani amanengi. Ithatha umsebenzi wezokuthengisa bese uyitjhugulula ibe ziincwadi, amarisidi kanye neentatimende ezingasetjenziswa yindawo yezezimali.",
+      "benefits": [
+        {
+          "title": "Ukubalwa kwemali okuhlangeneko",
+          "text": "Kwenzekani ekuthengiseni nasekuthengeni kuphakela ukubalwa kwemali."
+        },
+        {
+          "title": "Amarisidi we-elekthronikhi",
+          "text": "Ukhipha begodu ulawule ukubhadela okuvela emvelweni efanako."
+        },
+        {
+          "title": "Iinkampani ezihlukahlukeneko",
+          "text": "Ikhamphani ezinengi yamaqembu asebenza ngaphasi kwamagama wekhamphani engaphezu kwelilodwa."
+        },
+        {
+          "title": "Imirholo nepahla",
+          "text": "Iholo kanye nepahla engaguqukiko kanye nabo boke abaphathi."
+        }
+      ],
+      "audience": "Iindawo zokuphatha nezezimali ezifuna ukuvala amanani ngokusebenza kwamambala."
+    },
+    "logistics": {
+      "kicker": "Iinsetjenziswa",
+      "card": "Ukulawula nokutjheja ukusebenza kwakho kwezokuthutha.",
+      "features": [
+        "Iindlela nokudiliva",
+        "Ukulandelela kwesikhathi sangempela",
+        "Umsebenzi womtjhayeli",
+        "Ukwenza ngcono umzila"
+      ],
+      "lead": "Kusukela e-odeni ukuya ekulethweni: iindlela, abatjhayeli kanye nokulandelela kwesikhathi sangempela.",
+      "about": "FullVendor Logistics ihlela ukusabalalisa. Wenza iindlela, wabela abatjhayeli begodu ubone bona ukulethwa ngalinye kuyaphi. Ithimba lethrafiki lijama ngokuya ngezingcingo ukuthola bona i-oda lithunyelwe na.",
+      "benefits": [
+        {
+          "title": "Iindlela zelanga",
+          "text": "Ukudiliva ku-oda ngendawo, ifasitela lesikhathi kanye nomthamo."
+        },
+        {
+          "title": "Umtjhayeli owabelweko",
+          "text": "Indlela ngayinye inomuntu ophetheko nokulandelana okucacileko."
+        },
+        {
+          "title": "Ilandelela",
+          "text": "Uyazi bona yini ethunyelwako, endleleni nofana emiswe."
+        },
+        {
+          "title": "Amakhilomitha ambalwa",
+          "text": "Ukwenza ngcono umzila kwehlisa isikhathi sokulethwa kanye neendleko."
+        }
+      ],
+      "audience": "Imisebenzi yokusabalalisa ngemikhumbi yakho namkha abantu besithathu."
+    },
+    "supplier": {
+      "kicker": "Ukuthenga",
+      "card": "I-portal yabathengisi nokuphathwa kokuthenga.",
+      "features": [
+        "Ama-oda wokuthenga",
+        "Imidzubhulo",
+        "Ukulawulwa kwabathengisi",
+        "Ukuhlanganiswa nezinto ezikhona"
+      ],
+      "lead": "Abathengisi bakho bakhophuna, bamukela ama-oda begodu bazalise isitoko ngaphandle kwama-imeyili alahlekileko.",
+      "about": "Vendor Supplier ivula i-portal yokuthenga nabathengisi ukusebenza ngama-oda afanako. Iingcaphuno, ama-oda wokuthenga kanye nerisidi zibotjhelelwe ku-inventory ye-FullVendor.",
+      "benefits": [
+        {
+          "title": "Ama-oda asesiteshini",
+          "text": "Umthengisi ubona ukuthi yini okufanele alethe, ngaphandle kweketango le-imeyili."
+        },
+        {
+          "title": "Iingcaphuno ezimadanisekako",
+          "text": "Ubuza amanani bese ukhetha ngokuqala umlando."
+        },
+        {
+          "title": "Umthengisi omkhulu",
+          "text": "Imibandela, oxhumana nabo nokulindileko kurekhodi elilodwa."
+        },
+        {
+          "title": "Faka i-inventory",
+          "text": "Lokho okuthengiweko kubonakala esitokisini lokha nakutholwako."
+        }
+      ],
+      "audience": "Iinqhema zokuthenga ezizalisa ngabathengisi abanengi begodu zitlhoga ukulandelela."
+    },
+    "salesman": {
+      "kicker": "I-app yeselula",
+      "card": "Isicelo seselula sethimba lokuthengisa.",
+      "features": [
+        "Ukuphathwa kwamakhasimende",
+        "Ukuthatha i-oda",
+        "Ikhathalogu yomkhiqizo",
+        "Umsebenzi ongasebenzi ku-inthanethi"
+      ],
+      "lead": "Iinqhema ezithengisako zithatha ama-oda emgwaqweni, zinesiginali nofana ngaphandle kwayo.",
+      "about": "FullVendor Sales Man ibeka iphothifoliyo yakho, ikhathalogu nokuthatha i-oda efonini yomthengisi. Nangabe ayikho i-inthanethi, umsebenzi uyaragela phambili begodu uyavumelanisa lokha isiginali nayibuyako. I-oda lifika lilungele ukulungiswa nokulethwa.",
+      "benefits": [
+        {
+          "title": "Isikhwama semali esikhwameni",
+          "text": "Umthengisi ubona amaklayenti, ubujamo kanye nezinto ezisalindeleko."
+        },
+        {
+          "title": "Oda lokha nawuvakatjhelako",
+          "text": "Thatha i-oda ngamanani wamanje kanye nesitokwe."
+        },
+        {
+          "title": "Ikhathalogu isesikhathini",
+          "text": "Imikhiqizo, izethulo kanye namanani ngaphandle kwe-PDF endala."
+        },
+        {
+          "title": "Okungekho ku-inthanethi kwamambala",
+          "text": "Sebenza ngaphandle kokuhlanganiswa bese uvumelanisa ngokukhamba kwesikhathi."
+        }
+      ],
+      "audience": "Abaphathi nabathengisi bendawo ekusabalaliseni nasekusetjenzisweni okukhulu."
+    },
+    "warehouse": {
+      "kicker": "I-app yeselula",
+      "card": "Isicelo seselula sendawo yokugcina impahla.",
+      "features": [
+        "Ukwamukelwa nokuthunyelwa",
+        "Ukukhetha nokupakisha",
+        "Ukulawulwa kwepahla",
+        "Ukufundwa kwebhakhodi"
+      ],
+      "lead": "Ukwamukela, ukukhetha nokuthumela ngefoni nebhakhodi.",
+      "about": "FullVendor Warehouse iqondisa indawo yokugcina impahla ekwamukeleni, ukukhetha, ukupakisha nokuthumela. Ukufunda amakhodi kwehlisa amaphutha begodu i-inventory ayisabalwa kwaphela ekupheleni kwenyanga.",
+      "benefits": [
+        {
+          "title": "Ukwamukelwa ngokuphikisana ne-oda",
+          "text": "Okungenako kuqathaniswa nokuthengwa."
+        },
+        {
+          "title": "Ukukhetha okuhlosiweko",
+          "text": "Umnikazi wesikepe ulandela i-oda begodu uqinisekisa into ngayinye."
+        },
+        {
+          "title": "Amabhakhodi",
+          "text": "Amaphutha ambalwa womkhiqizo, iqoqo nofana inani."
+        },
+        {
+          "title": "Isitoko esithembekileko",
+          "text": "Ukunyakaza ngamunye kubuyekeza i-inventory yeplatifomu."
+        }
+      ],
+      "audience": "Abaphathi bendawo yokubeka izinto nabanikazi bemikhumbi namhlanjesi abalungiselela ama-oda ngeenhlu ezigadangisiweko."
+    },
+    "finance": {
+      "kicker": "I-app yeselula",
+      "card": "Ukulawulwa kwezezimali kusuka kuselula yakho.",
+      "features": [
+        "Ama-akhawunti atholwako nabhadelwako",
+        "Isimo sekhasimende",
+        "Iinkokhelo nokubuyisana",
+        "Imibiko yezeemali"
+      ],
+      "lead": "Ama-akhawunti atholwako, iinkokhelo kanye nobujamo bamakhasimende, ukusuka efonini yakho.",
+      "about": "FullVendor Finance itjengisa ukubuthelelwa kuselula: lokho iklayenti ngalinye elikweledako, lokho inkampani ezakubhadela nokuthi iinkokhelo ziza njani. Isetjenziselwa ukubuthelela imali ngesikhathi sokuvakatjha nokuqala ikheshi ngaphandle kokuvula ideski.",
+      "benefits": [
+        {
+          "title": "Iqoqo ngesikhathi sokuvakatjha",
+          "text": "Umthengisi uyazi bona ikhasimende lisesikhathini ngaphambi kokuthi athengise."
+        },
+        {
+          "title": "Okwamukelwako nokubhadelwa",
+          "text": "Zombili iinhlangothi zebhokisi kuhlelo lokusebenza olufanako."
+        },
+        {
+          "title": "Iinkokhelo nokubuyisana",
+          "text": "Ubhalisa amakhredithi begodu ubone bona khuyini ekufuze idlule."
+        },
+        {
+          "title": "Imibiko ikhona",
+          "text": "Ukubuthelela kanye neenkomba zemali ngaphandle kokulinda ukuvalwa."
+        }
+      ],
+      "audience": "Abaphathi, abaqoqi nabathengisi abatlhoga ubujamo beklayenti njenganje."
+    }
+  },
+  "why": {
+    "eyebrow": "Kubayini FullVendor",
+    "title": "Thuthukisa ibhizinisi lakho\nngemiphumela yamambala",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Iinkampani ziyasithemba"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Abasebenzisi abasebenzako"
+      },
+      {
+        "value": "+10",
+        "suffix": "iminyaka",
+        "label": "Ngokuziphendukela kwemvelo okungapheliko"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Ukutholakala kwamafu"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Isebenza njani",
+    "title": "Ukusuka ekuthengiseni ukuya ekuqoqweni, ngaphandle kokutjhugulula amahlelo",
+    "text": "Umkhiqizo ngamunye wabelana ngamakhasimende, isitoko, ama-oda kanye neenkokhelo. Okwenzekako emgwaqweni nofana endlini yokubeka izinto kuvela ehhovisini khonokho.",
+    "steps": {
+      "sell": {
+        "title": "Uthengisa",
+        "text": "I-oda lifakwa ngewebhusayithi nofana nge-Sales Man, nanoma ngaphandle kwesiginali."
+      },
+      "pick": {
+        "title": "Lungele",
+        "text": "Warehouse yamukela, ihlukanise begodu ithumele ngebhakhodi."
+      },
+      "deliver": {
+        "title": "Ukudiliva",
+        "text": "Logistics yabela indlela begodu ilandela ukulethwa."
+      },
+      "collect": {
+        "title": "Amakhobra",
+        "text": "Finance kanye no-ERP kuvala iqoqo, amarisidi kanye neenomboro."
+      }
+    }
+  },
+  "band": {
+    "title": "Ukulungele ukuyibona nge-[[umsebenzi wakho]]?",
+    "text": "Sikutjengisa indlela yemvelo enecala lokusabalalisa elifana nelakho."
+  },
+  "footer": {
+    "blurb": "Ipulatifomu yewebhu neyeselula yokusabalalisa, ukuthengisa, ukuthutha, ukuthenga, ukugcina izinto kanye nezezimali.",
+    "products": "Imikhiqizo",
+    "company": "Ikhamphani",
+    "legal": "Ngokomthetho",
+    "privacy": "Buntumba",
+    "terms": "Imibandela",
+    "rights": "Woke amalungelo agcinwe."
+  },
+  "solutions": {
+    "eyebrow": "Iinsombululo",
+    "title": "Indawo ngayinye, exhunywe ku-[[umsebenzi ofanako]]",
+    "intro": "Khetha ngenkinga ofuna ukuyirarulula. Ngemva, imikhiqizo yabelana ngolwazi olufanako.",
+    "items": {
+      "commercial": {
+        "title": "Ukulawulwa kwezokurhweba",
+        "text": "Ama-oda, amanani, amakhasimende kanye nezinto ezikhona zokusabalalisa qobe langa."
+      },
+      "field": {
+        "title": "abathengisi",
+        "text": "Abathengisi abathatha ama-oda emgwaqweni, ku-inthanethi nofana ngaphandle kwe-inthanethi."
+      },
+      "warehouse": {
+        "title": "Isitolo",
+        "text": "Ukwamukelwa, ukukhetha, ukuthumela kanye nesitoko esingathenjwa."
+      },
+      "logistics": {
+        "title": "Ukuthutha nokuletha",
+        "text": "Iindlela, abatjhayeli kanye nobujamo bokulethwa ngamunye."
+      },
+      "purchasing": {
+        "title": "Ukuthenga nabathengisi",
+        "text": "Iingcaphuno, ama-oda kanye ne-portal yanoma ngubani okuphakelako."
+      },
+      "finance": {
+        "title": "Izeemali nokubalwa kwemali",
+        "text": "Ukubuthelela, ukubhadela, ukubhadela nge-elekthronikhi nokubalwa kwemali."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Iimboni",
+    "title": "Yenzelwe labo [[bathutha umkhiqizo]]",
+    "intro": "FullVendor yabelethwa ekusabalaliseni begodu ikhambisana neenkhamphani ezithengako, ezigcinako, ezithengisako nezilethako.",
+    "items": {
+      "wholesale": {
+        "title": "Ukusabalalisa nokuthengisa ngobunengi",
+        "text": "Irhelo lentengo, iphothifoliyo, ukusabalalisa nokubuthelela esifundeni sinye."
+      },
+      "retail": {
+        "title": "Isitolo",
+        "text": "Isitolo nendawo yokugcina izinto enesitoko esihlangeneko, ukuthengisa nokugcwalisa."
+      },
+      "food": {
+        "title": "Ukudla neenselo",
+        "text": "Iindlela ezijayelekileko kanye nendawo yokugcina impahla engakghoni ukuma."
+      },
+      "pharma": {
+        "title": "Ikhemisi nokutlhogonyelwa kwabantu",
+        "text": "Ukwamukelwa, ukukhetha nokulawulwa kwepahla ngokulandeleleka."
+      },
+      "hardware": {
+        "title": "Iinsetjenziswa zokwakha",
+        "text": "Iinkomba ezinengi, abathengisi kanye nokudiliva emsebenzini nofana esitolo."
+      },
+      "fmcg": {
+        "title": "Ukusetjenziswa okukhulu",
+        "text": "Abathengisi bemigwaqo kanye nokubuyiselwa kwemali ephezulu."
+      },
+      "manufacturing": {
+        "title": "Ukwenza",
+        "text": "Ukuthenga, indawo yokugcina impahla kanye nezinto ezikhona kuhambisana nokuphatha."
+      },
+      "lastmile": {
+        "title": "Ukudiliva nemayela lokugcina",
+        "text": "Iindlela, abatjhayeli kanye nobujamo bokulethwa ngamunye."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Imithombo",
+    "title": "Sula imibono ukuze [[oda umsebenzi]]",
+    "intro": "Iinqophiso ezifitjhani zabaphathi bokusabalalisa abazokuqunta bona ngiliphi ihlelo ekufuze lilandele.",
+    "items": {
+      "unify": {
+        "title": "Indlela yokuhlanganisa ukusabalalisa kube yindlela eyodwa",
+        "summary": "Khuyini okufuze ihlanganiswe kokuthoma lokha nakuthengiswa, indawo yokugcina izinto kanye namaqoqo ahlala emafayeleni ahlukileko.",
+        "points": [
+          "Thoma ngamakhasimende, imikhiqizo kanye namanani: ngibo ababalisi woke umuntu asebenzisako.",
+          "Xhumanisa i-oda nesitoko ngaphambi kokufaka ezinye iinsetjenziswa.",
+          "Ilinganisa inani elilula: ama-oda agcwaliswe ngaphandle kokwenza kabutjha ifomu."
+        ]
+      },
+      "offline": {
+        "title": "Abasebenzi abathengisako basebenza ngaphandle kwe-inthanethi",
+        "summary": "Khuyini ekufanele ifunwe kuhlelo lokusebenza loku-oda ukwenzela bona umthengisi angajumi ngebanga lesignali.",
+        "points": [
+          "Ikhathalogu nesikhwama semali kufanele kube sefonini, ingasi efwini kwaphela.",
+          "I-oda ligcinwa kudivayisi bese lilayitjhwa lokha inethiwekhi nayibuyako.",
+          "Lokha nakuvumelanisa, i-oda sele lingena endaweni yokugcina izinto."
+        ]
+      },
+      "warehouse": {
+        "title": "Indawo yokubeka izinto enebhakhodi, ngaphandle kwephepha",
+        "summary": "Indlela yokusuka erhelweni eligadangisiweko ukuya ekukhetheni okuqinisekisiweko efonini.",
+        "points": [
+          "Yamukela ngokujamelana ne-oda lokuthenga, ingasi ngokujamelana nememori.",
+          "Qinisekisa into ngayinye lokha nawuhlukanisako. Isibungu sisika ngephaseji.",
+          "Ukuthunyelwa kubuyekeza isitoko esibonwa mthengisi."
+        ]
+      },
+      "finance": {
+        "title": "Iqoqo elihambisana nokuthengiswa",
+        "summary": "Kubayini umthengisi kufuze abone isikwelede somthengi ngaphambi kokuthatha enye i-oda.",
+        "points": [
+          "Ukuvakatjha sikhathi esihle sokubuthelela, nangabe isikwelede sibonakala.",
+          "Ukuthengisa nezezimali kufanele ziqale ikhasimende elifanako.",
+          "Umbiko wangamalanga ongaphelelwa sikhathi uqakatheke ukudlula ukuvala ngemva kwesikhathi."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Intengo",
+    "title": "I-ecosystem [[ekhula nawe]]",
+    "intro": "Asigadangisi izinga elijwayelekileko: iindleko ziya ngamamojula, abasebenzisi kanye nomthamo. Sikutjengisa iplatifomu begodu sihlanganise isiphakamiso sokusebenza kwakho.",
+    "note": "Idemo ayikho iindleko begodu ayitlhogi isivumelwano.",
+    "recommended": "Phakamisiwe",
+    "faq_title": "Imibuzo ebuzwa kanengi",
+    "plans": {
+      "essential": {
+        "name": "Qakathekileko",
+        "desc": "Ukuhlela ukulawulwa kwezokurhweba nokusabalalisa endaweni yinye.",
+        "features": [
+          "FullVendor ipulatifomu yewebhu",
+          "Ukuthengisa, ukuthenga kanye nezinto ezikhona",
+          "Amakhasimende, abathengisi kanye nemibiko",
+          "Abasebenzisi bemitjhini ye-ofisi",
+          "Isekelo lokuthoma"
+        ],
+        "cta": "Cela iDemo"
+      },
+      "professional": {
+        "name": "Phrofetjhinali",
+        "desc": "Amathimu athengisa emgwaqweni begodu alungiselela ama-oda endaweni yokubeka.",
+        "features": [
+          "Konke okuqakathekileko",
+          "I-app FullVendor Sales Man",
+          "I-app FullVendor Warehouse",
+          "Umsebenzi ongasebenzi ku-inthanethi namabhakhodi",
+          "Abasebenzisi abanengi beenkundla nendawo yokubeka"
+        ],
+        "cta": "Cela iDemo"
+      },
+      "corporate": {
+        "name": "Ikhamphani",
+        "desc": "Amaqembu adinga ukuthuthwa, ukuthenga, ezezimali kanye namakhamphani ahlukahlukeneko.",
+        "features": [
+          "I-ikhosistimu epheleleko",
+          "Logistics, Vendor Supplier kanye ne-Finance",
+          "FullVendor ERP kanye nokuqatjha okunengi",
+          "Ukubhadela nge-elekthronikhi nokubalwa kwemali",
+          "Ukukhambisana nokutholakala okuqakathekileko"
+        ],
+        "cta": "Khuluma nabathengisi"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ingabe kufanele ngithenge yoke imikhiqizo?",
+        "a": "Awa. Ungathoma nge-FullVendor bese ufaka ama-app nofana i-ERP lokha umsebenzi nawutlhogako."
+      },
+      "offline": {
+        "q": "Ingabe iinsetjenziswa zisebenza ngaphandle kwe-inthanethi?",
+        "a": "Sales Man kanye ne-Warehouse ziragela phambili nokusebenza ngaphandle kwesiginali begodu zivumelanise lokha nazihlangana godu."
+      },
+      "multi": {
+        "q": "Ingabe kuyasebenza nangabe nginekhamphani engaphezu kweyodwa?",
+        "a": "Iye. ERP iqalisisa amakhamphani amanengi begodu ihlelo lemvelo lingabelana ngamakhosi hlangana nawo."
+      },
+      "demo": {
+        "q": "Idemo ifaka hlangana ini?",
+        "a": "Ukuvakatjhela ipulatifomu ngecala elifana nelakho. Akukho zindleko begodu akukho sibopho."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Idemo",
+    "title": "Sikutjengisa FullVendor nge [[umhlobo wakho wokusebenza]]",
+    "text": "Sitjele ngekhamphani yakho nokuthi yini ofuna ukuyi-oda kokuthoma. Idemo ayikho iindleko."
+  },
+  "contact": {
+    "eyebrow": "Ukuthintana",
+    "title": "Akhesikhulume nge [[umsebenzi wakho]]",
+    "text": "Nawufuna ukutjengisa, isiphakamiso nofana ukuzijayeza hlangana nemikhiqizo, tjhiya ilwazi lakho sizokuphendula.",
+    "email": "Iposi",
+    "phone": "Umtato",
+    "whatsapp": "I-WhatsApp"
+  },
+  "form": {
+    "name": "Ibizo",
+    "email": "Iposi",
+    "phone": "Umtato",
+    "company": "Ikhamphani",
+    "country": "Inarha",
+    "team": "Ubukhulu besiqhema",
+    "interest": "Khuyini okuthakazelisako?",
+    "message": "Umlayezo",
+    "optional": "Nokukhethwa",
+    "choose": "Khetha",
+    "interest_all": "Iimvelo zoke",
+    "ph_name": "ibizo lakho",
+    "ph_email": "wena@inkampani.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ikhamphani yakho",
+    "ph_country": "Inarha",
+    "ph_message": "Sitjele bona usebenza njani namhlanjesi",
+    "privacy_before": "Ngiyakwamukela ukusetjenziswa kwedatha yami ngokuya",
+    "privacy_after": ".",
+    "submit": "Thumela isibawo",
+    "sent_title": "Siyamukela isibawo sakho",
+    "sent_text": "Ngiyathokoza. Isiqhema sokuthengisa sizokutlolela ukuhlanganisa ukutjengisa nofana ukuphendula umbuzo wakho.",
+    "error_required": "Zalisa indawo le.",
+    "error_email": "Faka i-imeyili esebenzako.",
+    "error_phone": "Hlola ifowuni.",
+    "error_privacy": "Sidinga imvumo yakho ukusebenzisa imininingwana yokuthintana.",
+    "error_csrf": "Isikhathi sesiphelile. Thumela godu iforomo.",
+    "error_save": "Asikwazanga ukulondoloza isibawo. Linga godu.",
+    "error_generic": "Buyekeza amasimu amakwe.",
+    "error_rate": "Sibawa ulinde isikhatjhana ngaphambi kokuthi ufake esinye isibawo.",
+    "team_options": {
+      "1-10": "1 ukuya ku-10 abantu",
+      "11-50": "11 ukuya ku-50 abantu",
+      "51-200": "51 ukuya ku-200 abantu",
+      "201-500": "201 ukuya ku-500 abantu",
+      "500+": "Abantu abangaphezu kwama-500"
+    }
+  },
+  "video": {
+    "title": "FullVendor ngomzuzu owodwa",
+    "prev": "Kwangaphambilini",
+    "next": "Okulandelako",
+    "slides": [
+      {
+        "title": "I-ekhosistimu eyodwa",
+        "text": "Ukuthengisa, indawo yokubeka, ukulethwa, ukuthenga kanye nezezimali kwabelana ngamakhasimende, isitokwe nama-oda."
+      },
+      {
+        "title": "Iwebhu neselula ndawonye",
+        "text": "Ihhovisi lisebenza emsamo. Umgwaqo nendawo yokugcina impahla, kuma-app, ngitjho ngaphandle kwesiginali."
+      },
+      {
+        "title": "Yenziwe ukusabalalisa",
+        "text": "Ukusuka ku-oda ukuya ekubhadeleni, ngaphandle kokudlulisa ilwazi ukusuka kwelinye ifayela ukuya kwelinye."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Setjha imikhiqizo, iinsombululo, amabubulo...",
+    "lang_filter": "Ilimi lokusesha",
+    "intro": "Setjha imikhiqizo, iinsombululo, amabubulo kanye nemithombo.",
+    "empty": "Asitholanga imiphumela ye-“{q}”.",
+    "hint": "Linga ukuthengisa, indawo yokubeka, iindlela nofana ukubuthelela.",
+    "results": "{n} imiphumela",
+    "button": "Khangela",
+    "kind_product": "Umkhiqizo",
+    "kind_solution": "Isisombululo",
+    "kind_industry": "Ibubulo",
+    "kind_resource": "Iinsetjenziswa"
+  },
+  "notfound": {
+    "title": "Ikhasi leli alikho",
+    "text": "Isixhumanisi asikho namkha sitjhugulule indawo."
+  },
+  "common": {
+    "what": "Yini erarululako",
+    "features": "Yini efakiweko",
+    "benefits": "Kubayini kuqakathekile",
+    "for_who": "Kwenzelwe bani?",
+    "related": "Godu emkhakheni wemvelo"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Ukuthengisa namhlanjesi",
+      "orders": "Ama-oda",
+      "clients": "Amakhasimende",
+      "products": "Imikhiqizo"
+    },
+    "sidebar": {
+      "dashboard": "Ideshibhodi",
+      "sales": "Ukuthengisa",
+      "purchases": "Ukuthenga",
+      "inventory": "Yokusungula",
+      "clients": "Amakhasimende",
+      "reports": "Imibiko"
+    },
+    "chart": "Ukuthengisa",
+    "channel": "Ukusabalalisa ngesiteshi",
+    "channels": [
+      "Isitolo",
+      "Ukuhlukaniselana",
+      "Umthengisi omkhulu",
+      "Ezinye"
+    ],
+    "orders": "Ama-oda wakamuva",
+    "col_order": "Ihlelo",
+    "col_client": "Umthengi",
+    "col_status": "Ubujamo",
+    "col_total": "Inani loke",
+    "status": [
+      "Ilethiwe",
+      "Endleleni",
+      "Icici"
+    ],
+    "top": "Imikhiqizo ethengisa khulu",
+    "product": "Umkhiqizo",
+    "sales_menu": [
+      "Amakhasimende",
+      "Ama-oda",
+      "Imikhiqizo",
+      "Iindlela",
+      "Vumelanisa"
+    ],
+    "warehouse_menu": [
+      "Ukwamukela",
+      "Ukukhetha",
+      "Yokusungula",
+      "Thumela",
+      "Vumelanisa"
+    ]
+  },
+  "legal": {
+    "privacy_title": "UmThethomgomo wemfihlo",
+    "privacy_intro": "Umthethomgomo lo uchaza bona senzani ngedatha oyitjhiya emafomini kule sayithi.",
+    "privacy": [
+      {
+        "title": "Ngiyiphi idatha esiyibuthelelako",
+        "text": "Nawubawa ukutjengisa namkha usitlolela, sibulunga ibizo, ikhamphani, i-imeyili, inomboro yomtato nangabe uyitjengisa, inarha, ubukhulu besiqhema, umkhiqizo owuthandako nomlayezo. Siphinde sirekhode ilanga, ilimi lekhasi kanye nekheli le-IP, ukukhandela ukuthunyelwa okuhlukumezako."
+      },
+      {
+        "title": "Sizisebenziselani?",
+        "text": "Sisebenzisa idatha le ukuphendula kwaphela, ukuhlanganisa idemo nokulungiselela isiphakamiso sezokuthengisa. Asizithengiseli namkha sizinike irhelo labanye abantu."
+      },
+      {
+        "title": "Zigcinwa kuphi begodu isikhathi esingangani?",
+        "text": "Iimbawo zigcinwa kuseva yesayithi le. Sizigcina isikhathi esitlhogekako ukukusebenzela nokulandelela kwezokuthengisa, begodu siyazisusa lokha nawusibawako nofana lokha nazingasatlhogeki."
+      },
+      {
+        "title": "Amalungelo wakho",
+        "text": "Ungabawa ukufikelela, ukulungiswa nofana ukususwa kwedatha yakho efomini lokuthintana, uyitjengise emlayezweni. Nangabe ikhamphani igadangisa i-imeyili kuwebhusayithi le, nawe ungatlola lapho."
+      }
+    ],
+    "terms_title": "Imibandela yokusebenzisa",
+    "terms_intro": "Imibandela le isebenza ekusetjenzisweni kwesayithi lokuthunyelwa kwe-FullVendor.",
+    "terms": [
+      {
+        "title": "Ilwazi lezokuthengisa",
+        "text": "Imitlolo, isibonelo semifanekiso yedeshibhodi kanye neenhlathululo zethula iplatifomu. Zingalungiswa lokha umkhiqizo nawutjhugulukako begodu akusiwo umnikelo ovaliweko."
+      },
+      {
+        "title": "Idemo akusiso isivumelwano",
+        "text": "Ukuthumela iforomo akutjho bona kube nesibopho sokuthenga nofana ukubeka intengo. Nanyana ngisiphi isivumelwano sivunyelwa ngokwehlukana, ngokutlola, ngobubanzi nemibandela yaso."
+      },
+      {
+        "title": "Okuqukethwe yisayithi",
+        "text": "Iphawu lokurhweba le-FullVendor, amagama wemikhiqizo kanye nokuqukethwe kwamakhasi la kungokwabanikazi bawo. Angeze zakopishwa ukuveza omunye umkhiqizo."
+      },
+      {
+        "title": "Ukusetjenziswa okwamukelekako",
+        "text": "Ungasebenzisi amafomu ukuthumela ilwazi elingasiqiniso, i-spam nofana okuqukethwe okungekho emthethweni. Singaziba iimbawo ezingakhambisani nekulumiswano yamabhizinisi."
+      }
+    ]
+  }
+}

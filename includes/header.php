@@ -8,6 +8,7 @@ if (!defined('FV_APP')) {
 
 [$pageTitle, $pageDescription] = page_meta();
 $meta = LOCALES[$locale];
+$spoken = locale_has_copy($locale) ? $meta : LOCALES['es'];
 $switchPage = $notFound ? 'home' : $pageId;
 $switchSlug = $notFound ? null : $slug;
 $switchQuery = lang_switch_query();
@@ -15,7 +16,7 @@ $canonical = abs_url($notFound ? (fv_base() . $path) : url_to($locale, $pageId, 
 $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, follow';
 ?>
 <!DOCTYPE html>
-<html lang="<?= e($meta['html']) ?>" dir="<?= e($meta['dir']) ?>">
+<html lang="<?= e($spoken['html']) ?>" dir="<?= e($spoken['dir']) ?>">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +27,7 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   <link rel="canonical" href="<?= e($canonical) ?>">
   <link rel="icon" href="<?= e(asset('assets/favicon.svg')) ?>" type="image/svg+xml">
   <?php if (!$notFound): ?>
-    <?php foreach (available_locales() as $code => $item): ?>
+    <?php foreach (translated_locales() as $code => $item): ?>
       <link rel="alternate" hreflang="<?= e($item['html']) ?>" href="<?= e(abs_url(url_to($code, $switchPage, $switchSlug))) ?>">
     <?php endforeach; ?>
     <link rel="alternate" hreflang="x-default" href="<?= e(abs_url(url_to('es', $switchPage, $switchSlug))) ?>">
@@ -36,8 +37,8 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   <meta property="og:title" content="<?= e($pageTitle) ?>">
   <meta property="og:description" content="<?= e($pageDescription) ?>">
   <meta property="og:url" content="<?= e($canonical) ?>">
-  <meta property="og:locale" content="<?= e($meta['og']) ?>">
-  <?php foreach (available_locales() as $code => $item): ?>
+  <meta property="og:locale" content="<?= e($spoken['og']) ?>">
+  <?php foreach (translated_locales() as $code => $item): ?>
     <?php if ($code !== $locale): ?>
       <meta property="og:locale:alternate" content="<?= e($item['og']) ?>">
     <?php endif; ?>
@@ -47,7 +48,8 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   <meta name="twitter:description" content="<?= e($pageDescription) ?>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Noto+Sans:wght@500;600;700&family=Noto+Sans+Arabic:wght@500;700&family=Noto+Sans+SC:wght@500;700&family=Noto+Sans+JP:wght@500;700&family=Noto+Sans+KR:wght@500;700&family=Noto+Sans+Devanagari:wght@500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Noto+Sans:wght@500;600;700&family=Noto+Sans+Arabic:wght@500;700&family=Noto+Sans+Bengali:wght@500;700&family=Noto+Sans+Devanagari:wght@500;700&family=Noto+Sans+Hebrew:wght@500;700&family=Noto+Sans+JP:wght@500;700&family=Noto+Sans+KR:wght@500;700&family=Noto+Sans+SC:wght@500;700&family=Noto+Sans+Thai:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.5.0/css/flag-icons.min.css">
   <link rel="stylesheet" href="<?= e(asset('assets/css/styles.css')) ?>">
   <style>
     <?php foreach (FV_PRODUCTS as $id => $product): ?>
@@ -69,7 +71,7 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
                 '@type' => 'WebSite',
                 'name' => 'FullVendor',
                 'url' => abs_url(url_to($locale, 'home')),
-                'inLanguage' => $meta['html'],
+                'inLanguage' => $spoken['html'],
                 'potentialAction' => [
                     '@type' => 'SearchAction',
                     'target' => abs_url(url_to($locale, 'search')) . '?q={search_term_string}',
@@ -84,8 +86,9 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   <a class="skip" href="#main"><?= e(t('a11y.skip')) ?></a>
   <header class="site-header">
     <div class="container header-bar">
-      <a class="logo" href="<?= e(url_to($locale, 'home')) ?>">
-        <span class="logo-full">Full</span><span class="logo-vendor">Vendor</span>
+      <a class="logo" href="<?= e(url_to($locale, 'home')) ?>" aria-label="FullVendor">
+        <img class="brand-mark" src="<?= e(asset('assets/img/brand-mark.jpg')) ?>" alt="">
+        <span class="brand-name">FullVendor</span>
       </a>
       <nav class="desk-nav" aria-label="<?= e(t('a11y.primary')) ?>">
         <a class="<?= e(trim(nav_on('home'))) ?>" href="<?= e(url_to($locale, 'home')) ?>"><?= e(t('nav.home')) ?></a>
@@ -114,7 +117,7 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
         <a class="icon-btn" href="<?= e(url_to($locale, 'search')) ?>" data-open="search" aria-label="<?= e(t('a11y.search')) ?>"><?= icon('search') ?></a>
         <details class="lang">
           <summary aria-label="<?= e(t('a11y.language')) ?>">
-            <?= icon('globe') ?><span><?= e(strtoupper($locale)) ?></span>
+            <?= locale_flag($locale) ?><span><?= e(strtoupper($locale)) ?></span>
           </summary>
           <div class="lang-panel">
             <input type="search" class="lang-filter" placeholder="<?= e(t('search.lang_filter')) ?>" aria-label="<?= e(t('search.lang_filter')) ?>">
@@ -124,9 +127,10 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
                    href="<?= e(url_to($code, $switchPage, $switchSlug, $switchQuery)) ?>"
                    hreflang="<?= e($item['html']) ?>"
                    lang="<?= e($item['html']) ?>"
+                   dir="<?= e($item['dir']) ?>"
                    data-name="<?= e($item['native'] . ' ' . $item['name'] . ' ' . $code) ?>"
                    <?= $code === $locale ? 'aria-current="true"' : '' ?>>
-                  <span><?= e($item['native']) ?></span>
+                  <span class="lang-name"><?= locale_flag($code) ?><span><?= e($item['native']) ?></span></span>
                   <small><?= e(strtoupper($code)) ?></small>
                 </a>
               <?php endforeach; ?>

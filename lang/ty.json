@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | A faatere e a faarahi i ta outou taiete",
+    "home_desc": "Te hoê tahua itenati e te mau rave'a afa'ifa'i no te tufa, te hooraa, te mau rave'a, te hooraa, te mau tao'a, e te moni.",
+    "products_title": "Nga hua | FullVendor",
+    "products_desc": "A haamatau i te ite i te faanahoraa o te mau mea ora FullVendor: te vahi tapihooraa tauihaa, te ERP, te mau tao'a, te feia hoo tao'a e te mau hooraa, te mau fare vairaa tauihaa e te mau faaohiparaa i te pae moni.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Nga faatitiaifaroraa | FullVendor",
+    "solutions_desc": "Te mau rave'a no te faatereraa i te ohipa tapihooraa, te pŭpŭ hooraa, te fare tahua, te mau rave'a, te hooraa, e te moni.",
+    "industries_title": "Te mau fare hamaniraa tauihaa | FullVendor",
+    "industries_desc": "FullVendor no te tufaraa, te hooraa, te maa, te fare toa rarahi, te mau tao'a, te hooraa rahi, te hamaniraa tauihaa, e te maile hopea.",
+    "pricing_title": "Te mau hoo | FullVendor",
+    "pricing_desc": "Te mau opuaraa faufaa, te toro'a, e te mau taiete. E faanahohia te faaauraa ia au i te mau modules, te feia e faaohipa ra, e te buka.",
+    "resources_title": "Mau tauturu | FullVendor",
+    "resources_desc": "Te mau arata'iraa poto no te tahoê i te tufaraa, te hooraa i ni'a i te itenati, te faanahoraa i te fare tahua, e te aufauraa i te taime au.",
+    "contact_title": "Feaaraa | FullVendor",
+    "contact_desc": "A papa'i mai ia matou no te ite no ni'a i te FullVendor e aore râ, no te faanaho i te hoê aparauraa e te pŭpŭ hoo.",
+    "demo_title": "A ani i te demo | FullVendor",
+    "demo_desc": "A ani i te hoê faaiteiteraa no nia i te FullVendor e a haere na nia i te tahua ha'utiraa e te hoê hi'oraa mai ta outou ohipa.",
+    "privacy_title": "Te oraraa taa ê | FullVendor",
+    "terms_title": "Te mau parau | FullVendor",
+    "search_title": "Imi | FullVendor",
+    "notfound_title": "Aita i itehia te api | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Api matamua",
+    "products": "Ngā tao'a",
+    "solutions": "Te mau faatitiaifaroraa",
+    "industries": "Te mau fare hamaniraa tauihaa",
+    "pricing": "Te mau hoo",
+    "resources": "Ra'ārā",
+    "contact": "Auē ho'i ē",
+    "open_menu": "A tatara i te tahua",
+    "close": "Tautea"
+  },
+  "cta": {
+    "demo": "A ani i te Demo",
+    "contact": "Haamana'o ia matou",
+    "video": "Mata'ita'i i te hoho'a video",
+    "talk": "A paraparau i te mau hooraa",
+    "all_products": "Hi'o i te mau tao'a atoa",
+    "home": "Ho'i i te api matamua"
+  },
+  "a11y": {
+    "skip": "Horo i ni'a i te ihirangi",
+    "primary": "Te tere rahi",
+    "crumbs": "E'a tere",
+    "search": "A imi i te",
+    "language": "Reo"
+  },
+  "hero": {
+    "eyebrow": "I nia i te hoê noa tahua",
+    "title": "A faatere e a tupu\nta outou ohipa e\n{{brand}}",
+    "subtitle": "Te hoê tahua itenati taatoa e te mau rave'a afa'ifa'i no te tufa, te hooraa, te mau rave'a, te hooraa, te mau tao'a, te moni, e te tahi atu â.",
+    "pill_ecosystem": "Te mau mea atoa i roto i te hoê â faanahoraa",
+    "pill_cloud": "I roto i te kapua, paruru e te faito",
+    "pill_size": "No te mau taiete atoa"
+  },
+  "products_block": {
+    "eyebrow": "Ta tatou mau tao'a",
+    "title": "Te hoê [[faanahoraa taatoa]] no te mau tuhaa atoa o ta outou ohipa",
+    "aside": "Te mau rave'a faatitiaifaroraa taa ê o te rave amui i te ohipa no te horo'a ia outou i te mana taatoa, te aravihi no te rave i te ohipa, e te tupuraa rahi a'e.",
+    "groups": {
+      "money": "Te faatereraa e te tai'oraa",
+      "flow": "Te mau hooraa e te mau hooraa",
+      "field": "Te mau hooraa e te fare vairaa tauihaa"
+    }
+  },
+  "products_page": {
+    "title": "E hitu tao'a, [[hoê ohipa]]",
+    "text": "E faatitiaifaro te mau tao'a atoa i te hoê vahi. E faaite amui ratou i te feia hoo, te mau tao'a, te mau faaueraa, e te mau aufauraa."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Fare 'ōfa'i",
+      "card": "Te vahi rahi no te faatereraa e te tufaraa i te pae tapihooraa tauihaa.",
+      "features": [
+        "Te mau hooraa e te mau hooraa",
+        "Invetorio",
+        "Te feia hoo tao'a e te feia hoo",
+        "Te mau parau faataa e te tahi atu â"
+      ],
+      "lead": "Te pu o ta outou ohipa tapihooraa: te mau faaueraa, te mau hoo, te mau tao'a, e te feia hoo tao'a i te hoê â vahi.",
+      "about": "E mono te FullVendor i te mau api parau e te mau faanahoraa a te hoê taata tufa. E hi'opoahia mai te mau faaueraa, e hi'opoahia e te mau buka a te feia hoo, e e hi'opoahia e te mau helu o te mahana. E taaihia te toea o te mau mea ora i teie niu.",
+      "benefits": [
+        {
+          "title": "Hoê raatira haamaramaramaraa",
+          "text": "E faaitehia te feia hoo, te mau tao'a, e te mau hoo i roto i te mau hooraa, te fare tahua, e te moni."
+        },
+        {
+          "title": "Tamâ i te ohipa i te mau mahana atoa",
+          "text": "Eita te mau faaueraa, te mau hooraa, e te mau tao'a e ora i roto i te mau hoho'a e rave rahi."
+        },
+        {
+          "title": "Te mau parau faataa no te faaoti",
+          "text": "E itehia te mau hooraa, te hiti, e te tatari ma te ore e haaputuputu i te hoê airaa maa na roto i te rima."
+        },
+        {
+          "title": "Ua ineine no te tupu",
+          "text": "Ia ani ana'e te ohipa i te mau tao'a, te mau hooraa, aore ra te ERP."
+        }
+      ],
+      "audience": "I teie mahana, te faatere nei te mau pǔpǔ tapihooraa e te mau pǔpǔ tufaraa i te ohipa tapihooraa i rotopu i te mau faanahoraa e rave rahi."
+    },
+    "erp": {
+      "kicker": "Te faatereraa",
+      "card": "Hoê te faatereraa i te pae no te faatereraa e te moni.",
+      "features": [
+        "Te mau haamaramaramaraa",
+        "Te mau parau faatiani roro uira",
+        "Ngaahi api ohipa",
+        "Ngā tao'a",
+        "Taiete rau"
+      ],
+      "lead": "Ia au i te mau mea e hoohia mau ra e e haponohia ' tu, te faatereraa e te moni.",
+      "about": "Te faataa ra te FullVendor ERP i te mau faanahoraa faufaa, te mau faanahoraa roro uira, te mau faaho'iraa moni, te mau tao'a papû, e te mau taiete e rave rahi. E rave oia i te ohipa tapihooraa e e taui i te reira ei mau parau papa'i, mau titeti, e mau faaiteraa ta te tuhaa moni e nehenehe e faaohipa.",
+      "benefits": [
+        {
+          "title": "Te mau haamaramaramaraa taa ê",
+          "text": "Te faataa ra te mau ohipa e tupu ra i roto i te mau hooraa e te mau hooraa."
+        },
+        {
+          "title": "Te mau titeti roro uira",
+          "text": "E horoa e e faatere outou i te mau haamau'araa no roto mai i te hoê â faanahoraa."
+        },
+        {
+          "title": "E rave rahi mau taiete",
+          "text": "E rave rahi mau taiete no te mau pŭpŭ e rave nei i te ohipa i raro a'e i te hau atu i te hoê i'oa."
+        },
+        {
+          "title": "Te mau faaho'iraa e te mau tao'a",
+          "text": "Te mau faaho'iraa moni e te mau tao'a, e tae noa ' tu te toea o te faatereraa."
+        }
+      ],
+      "audience": "Te mau tuhaa fenua no te faatereraa e te moni o te hinaaro nei e opani i te mau numera na roto i te ohipa mau."
+    },
+    "logistics": {
+      "kicker": "Te mau rave'a",
+      "card": "Te hi'opo'araa e te hi'opo'araa i ta outou ohipa.",
+      "features": [
+        "Te mau e'a e te mau hooraa",
+        "Te hi'opo'araa i te taime mau",
+        "Te ohipa a te taata faahoro pereoo",
+        "Te maitairaa o te e'a"
+      ],
+      "lead": "Mai te faanahoraa e tae roa'tu i te tuuraa: te mau e'a, te mau faahoro pereoo, e te hi'opo'araa i te taime mau.",
+      "about": "FullVendor Logistics te faanaho ra i te tufaraa. E hamani outou i te mau e'a, e faataa i te mau faahoro pereoo, e e hi'o i te vahi e haerehia ' i te mau tao'a atoa. E tapea te pǔpǔ pereoo uira ia au i te mau niuniu no te ite e ua haponohia anei te faaueraa.",
+      "benefits": [
+        {
+          "title": "Te mau e'a o te mahana",
+          "text": "Ua faauehia te mau hooraa ia au i te tuhaa fenua, te matapihi taime e te aravihi."
+        },
+        {
+          "title": "Te taata faahoro pereoo",
+          "text": "E taata faatere to te mau e'a atoa e te hoê anairaa maramarama."
+        },
+        {
+          "title": "Āpe'e",
+          "text": "Ua ite outou eaha te mea e horo'ahia mai, i ni'a i te e'a aore râ, i tape'ahia."
+        },
+        {
+          "title": "He iti a'e kilometera",
+          "text": "E faaiti te faanahoraa i te e'a i te taime e te moni hoo."
+        }
+      ],
+      "audience": "Te mau ohipa tufaraa e te tahi atu mau pahi aore ra te tahi atu mau pǔpǔ."
+    },
+    "supplier": {
+      "kicker": "Ho'oho'ora'a",
+      "card": "Te uputa no te feia hoo tao'a e te faatereraa i te hooraa.",
+      "features": [
+        "Te mau faaueraa hooraa",
+        "Tārara'a",
+        "Te faatereraa i te feia hoo",
+        "Te taamuraa i te mau tao'a"
+      ],
+      "lead": "E faahiti ta outou mau tao'a, e farii i te mau faaueraa, e e faaî i te mau tao'a ma te faaohipa ore i te mau rata uira.",
+      "about": "E iriti te Vendor Supplier i te hoê uputa no te mau hooraa e te feia hoo no te rave i te ohipa i nia i te hoê â mau faaueraa. Ua taaihia te mau faahitiraa parau, te mau faaueraa hooraa, e te mau parau faatiani i te tabula o te FullVendor.",
+      "benefits": [
+        {
+          "title": "Te mau faaueraa i roto i te hoê tahua",
+          "text": "E hi'o te taata hoo i te mea e horo'ahia mai ma te ore e faaohipa i te hoê mekameka rata uira."
+        },
+        {
+          "title": "Te mau parau faahiti faaauhia",
+          "text": "E ani outou i te mau hoo e e maiti outou ia au i te aamu."
+        },
+        {
+          "title": "Fatu horo'a",
+          "text": "Te mau huru tupuraa, te mau farereiraa, e te mau mea tatari i roto i te hoê noa parau papa'i."
+        },
+        {
+          "title": "A tomo i roto i te tahua",
+          "text": "Ia fariihia te mau mea i hoohia, e itehia ïa i roto i te tao'a."
+        }
+      ],
+      "audience": "Te mau pǔpǔ hooraa o te faaî i te mau tao'a e rave rahi e o te titau i te hi'opoaraa."
+    },
+    "salesman": {
+      "kicker": "Te faanahoraa afa'ifa'i",
+      "card": "Te mau faaohiparaa afa'ifa'i no te pŭpŭ hoo.",
+      "features": [
+        "Te faatereraa i te feia hoo",
+        "Te raveraa i te faaueraa",
+        "Tabula tao'a",
+        "Te ohipa i ni'a i te itenati"
+      ],
+      "lead": "E farii te pǔpǔ hoo i te mau faaueraa i nia i te purumu, e tapao aore ra aita.",
+      "about": "FullVendor Sales Man e tuu i ta outou buka, ta outou buka, e ta outou faaueraa i ni'a i te niuniu a te taata hoo. Ia ho'i mai te tapao, e tamau noa te ohipa e e tu'ati te reira mai te mea e, aita e itenati. Ua ineine te faaueraa no te faaineine e no te horoa.",
+      "benefits": [
+        {
+          "title": "Te pute moni i roto i te pute",
+          "text": "E ite te taata hoo i te feia hoo, te mau huru tupuraa, e te mau tao'a tatari."
+        },
+        {
+          "title": "Faaueraa i te tere",
+          "text": "A rave i te faanahoraa e te mau hoo e te mau tao'a i teie nei."
+        },
+        {
+          "title": "Catalog e tae roa mai i teie mahana",
+          "text": "Te mau tao'a, te mau hoho'a, e te mau hoo aita e PDF tahito."
+        },
+        {
+          "title": "Te mau rave'a mau",
+          "text": "A rave i te ohipa ma te tapo'i ore e a faanaho i muri iho."
+        }
+      ],
+      "audience": "Te mau ti'a faatere e te feia hoo tao'a i roto i te tufaraa e te hooraa rahi."
+    },
+    "warehouse": {
+      "kicker": "Te faanahoraa afa'ifa'i",
+      "card": "Te hoê faaohiparaa afa'ifa'i no te fare tahua.",
+      "features": [
+        "Te fariiraa e te tonoraa",
+        "Te ootiraa e te tapo'iraa",
+        "Te faatereraa i te mau tao'a",
+        "Te tai'oraa Barcode"
+      ],
+      "lead": "Te fariiraa, te raveraa e te tonoraa na roto i te niuniu e te barcode.",
+      "about": "E arata'i te FullVendor Warehouse i te fare vairaa tauihaa i roto i te fariiraa, te haruharuraa, te tapo'iraa e te tonoraa. E faaiti te taioraa i te mau code i te mau hape, e aita te mau tao'a e taiohia i te hopea noa o te ava'e.",
+      "benefits": [
+        {
+          "title": "Te fariiraa i te mau faaueraa",
+          "text": "E faaauhia te mea e tomo mai i te hooraa."
+        },
+        {
+          "title": "Te ma'itiraa i faataahia",
+          "text": "E pee te fatu pahi i te faaueraa e e haapapu oia i te mau mea atoa."
+        },
+        {
+          "title": "Barcodes",
+          "text": "E iti a'e te mau hape o te tao'a, te pǔpǔ aore ra te rahiraa o te mau tao'a."
+        },
+        {
+          "title": "Tao'a ti'aturihia",
+          "text": "E faaapî te mau taahiraa atoa i te mau hoho'a o te tahua itenati."
+        }
+      ],
+      "audience": "I teie mahana, te faaineine nei te mau faatere o te mau fare vairaa tauihaa e te feia faatere pahi i te mau faaueraa e te mau tabula neneihia."
+    },
+    "finance": {
+      "kicker": "Te faanahoraa afa'ifa'i",
+      "card": "Te faatereraa i te moni na roto i to outou niuniu afa'ifa'i.",
+      "features": [
+        "Te mau moni e fariihia e e aufauhia",
+        "Ti'araa o te taata hoo",
+        "Te mau aufauraa e te mau faaauraa",
+        "Te mau parau faataa i te pae moni"
+      ],
+      "lead": "Te mau moni e fariihia, te mau aufauraa, e te ti'araa o te feia hoo, na roto mai i ta outou niuniu paraparau.",
+      "about": "Te faaite ra te FullVendor Finance i te moni i nia i te niuniu afaifai: eaha ta te taata tataitahi e aufau, eaha ta te taiete e aufau, e nafea te mau aufauraa e noaa mai ai. E faaohipahia te reira no te titau i te moni i roto i te tere e no te hi'o i te buka moni ma te iriti ore i te parahiraa.",
+      "benefits": [
+        {
+          "title": "Te tai'oraa i te tere",
+          "text": "Hou oia a hoo ai, ua ite te taata hoo e, ua ineine anei te taata hoo."
+        },
+        {
+          "title": "E fariihia e e aufauhia",
+          "text": "I roto i te hoê â faanahoraa, i na pae e piti o te afata."
+        },
+        {
+          "title": "Te mau aufauraa e te mau faaauraa",
+          "text": "E papa'i oe i te mau haamau'araa e e hi'o eaha te mea e ti'a ia ravehia."
+        },
+        {
+          "title": "Te mau parau faataa",
+          "text": "Te mau tapa'o no te tai'oraa e te moni ma te tatari ore i te hoê hopea."
+        }
+      ],
+      "audience": "Te mau faatere, te feia haaputu moni, e te feia hoo tao'a o te hinaaro nei i te huru o te taata hoo i taua taime ra."
+    }
+  },
+  "why": {
+    "eyebrow": "No te aha FullVendor",
+    "title": "A faarahi i ta outou taiete\ne mau faahopearaa mau",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Te ti'aturi nei te mau taiete ia tatou"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Te feia faaohipa itoito"
+      },
+      {
+        "value": "+10",
+        "suffix": "matahitis",
+        "label": "I roto i te tauiraa tamau"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Te vai-maitai-raa o te Cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Nahea te reira ia ohipa",
+    "title": "Ma te taui ore i te mau faanahoraa, mai te hooraa e tae atu i te putuputuraa",
+    "text": "E faaite te mau tao'a atoa i te feia hoo, te mau tao'a, te mau faaueraa, e te mau aufauraa. E ite - oioi - hia te ohipa e tupu ra i nia i te purumu aore ra i roto i te fare vairaa tauihaa i roto i te piha ohipa.",
+    "steps": {
+      "sell": {
+        "title": "Te hoo nei oe",
+        "text": "E tomohia te faaueraa na roto i te tahua itenati aore ra na roto i te Sales Man, noa ' tu e aita e tapao."
+      },
+      "pick": {
+        "title": "Pūai",
+        "text": "Warehouse e farii, e faataa e e hapono na roto i te barcode."
+      },
+      "deliver": {
+        "title": "Te mau hooraa",
+        "text": "Logistics e faataa i te e'a e e pee i te tuuraa."
+      },
+      "collect": {
+        "title": "Te mau cobras",
+        "text": "E opani te Finance e te ERP i te tao'a tahi, te mau titeti, e te mau numera."
+      }
+    }
+  },
+  "band": {
+    "title": "Ua ineine anei outou no te ite i te reira na roto i te [[ta outou tapuraa]]?",
+    "text": "Te faaite nei matou ia outou i te faanahoraa o te mau mea ora e te hoê hoho'a tufaraa mai ta outou."
+  },
+  "footer": {
+    "blurb": "Te mau rave'a Itenati e te mau rave'a afa'ifa'i no te tufa, te hooraa, te mau faanahoraa, te hooraa, te mau tao'a, e te moni.",
+    "products": "Ngā tao'a",
+    "company": "ʻĀmui",
+    "legal": "Ture",
+    "privacy": "Fa'ata'ata'a",
+    "terms": "Tāvini",
+    "rights": "Ua tape'ahia te mau ti'araa atoa."
+  },
+  "solutions": {
+    "eyebrow": "Te mau faatitiaifaroraa",
+    "title": "Te mau vahi atoa, tei taaihia i te [[hoê â ohipa]]",
+    "intro": "A maiti i te fifi ta outou e hinaaro e faatitiaifaro. I muri iho, te faaite ra te mau tao'a i te hoê â haamaramaramaraa.",
+    "items": {
+      "commercial": {
+        "title": "Te faatereraa i te ohipa tapihooraa",
+        "text": "Te mau faaueraa, te mau hoo, te feia hoo, e te mau tao'a no te tufa i te mau mahana atoa."
+      },
+      "field": {
+        "title": "te pŭpŭ hooraa",
+        "text": "Te farii nei te feia hoo i te mau faaueraa i nia i te purumu, i nia i te Internet aore ra i nia i te Internet."
+      },
+      "warehouse": {
+        "title": "Ma'i",
+        "text": "Te fariiraa, te ma'itiraa, te tonoraa, e te hoê tao'a e nehenehe e tiaturihia."
+      },
+      "logistics": {
+        "title": "Te mau rave'a e te hooraa",
+        "text": "Te mau e'a, te mau faahoro pereoo, e te tiaraa o te mau tuuraa tata'itahi."
+      },
+      "purchasing": {
+        "title": "Te hooraa e te feia hoo",
+        "text": "Te mau parau faahiti, te mau faaueraa, e te hoê uputa no te mau taata atoa e horo'a mai ia outou."
+      },
+      "finance": {
+        "title": "Te moni e te faanahoraa",
+        "text": "Te mau haaputuputuraa, te mau aufauraa, te mau faanahoraa roro uira, e te mau faanahoraa moni."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Te mau fare hamaniraa tauihaa",
+    "title": "Ua hamanihia no te feia e [[haere i te tao'a]]",
+    "intro": "Ua fanauhia te FullVendor i roto i te tufaraa e te haere ra oia e te mau taiete o te hoo mai, o te tapea, o te hoo, e o te hoo mai.",
+    "items": {
+      "wholesale": {
+        "title": "Te tufaraa e te hooraa",
+        "text": "Te mau tabula hoo, te mau hoho'a, te tufaraa, e te tai'oraa i roto i te hoê noa haaatiraa."
+      },
+      "retail": {
+        "title": "Ōfa'i taure'a",
+        "text": "Te mau fare toa e te mau fare vairaa tauihaa e te mau tao'a, te mau hooraa, e te mau faaho'i-faahou-raa."
+      },
+      "food": {
+        "title": "Te maa e te inu",
+        "text": "Te mau e'a pinepine e te hoê fare vairaa tauihaa o te ore e nehenehe e tape'a."
+      },
+      "pharma": {
+        "title": "Te raau taero e te utuuturaa ia ' na iho",
+        "text": "Te fariiraa, te ma'itiraa e te hi'opo'araa i te mau tao'a ma te nehenehe e hi'opo'a."
+      },
+      "hardware": {
+        "title": "Te mau rave'a e te paturaa",
+        "text": "E rave rahi mau faahororaa, te feia hoo, e te mau hooraa i te ohipa aore ra i te fare toa."
+      },
+      "fmcg": {
+        "title": "Te hooraa rahi",
+        "text": "Te mau hooraa i te purumu e te mau hoo rahi."
+      },
+      "manufacturing": {
+        "title": "Te hamaniraa",
+        "text": "Ua faaauhia te hooraa, te fare vairaa tauihaa, e te mau tao'a i te faatereraa."
+      },
+      "lastmile": {
+        "title": "Te hooraa e te maile hopea",
+        "text": "Te mau e'a, te mau faahoro pereoo, e te tiaraa o te mau tuuraa tata'itahi."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Ra'ārā",
+    "title": "Te mau mana'o maramarama no te [[faanaho i te ohipa]]",
+    "intro": "Te mau arata'iraa poto no te mau faatere o te tufaraa o te faaoti e, eaha te faanahoraa e tape'a.",
+    "items": {
+      "unify": {
+        "title": "Nahea ia tahoê i te tufaraa i roto i te hoê noa faanahoraa",
+        "summary": "Eaha te haaputuputu na mua roa ia vai ana'e te mau hooraa, te mau fare vairaa tauihaa, e te mau tao'a tahi i roto i te mau hoho'a e rave rahi.",
+        "points": [
+          "Haamata na roto i te feia hoo, te mau tao'a, e te mau hoo: o ratou te orometua haapii ta te mau taata atoa e faaohipa ra.",
+          "Hou a faaô atu ai i te tahi atu mau faaohiparaa, a taati i te faanahoraa i te tao'a.",
+          "Te faataa ra te reira i te hoê numera ohie: te mau faaueraa i ravehia ma te ore e faaohipa faahou i te hoho'a."
+        ]
+      },
+      "offline": {
+        "title": "Te rave nei te mau hooraa i te ohipa i rapae i te Internet",
+        "summary": "Eaha te titauhia i roto i te hoê faanahoraa faanahoraa ia ore te taata hoo ia tapea no te tapao.",
+        "points": [
+          "E tia ia vai te buka e te pute moni i nia i te niuniu paraparau, eiaha râ i roto noa i te apoo.",
+          "Ia ho'i mai te faanahoraa, e tapeahia te faaueraa i nia i te ravea e e tuuhia i nia i te tahua itenati.",
+          "Ia faaauhia te reira, ua tomo a'ena te faaueraa i roto i te fare vairaa tauihaa."
+        ]
+      },
+      "warehouse": {
+        "title": "Fare tao'a e barcode, aita e parau",
+        "summary": "Nafea ia haere mai roto mai i te tabula i neneihia e tae atu i te haapapuraa i te maitiraa i nia i te niuniu paraparau.",
+        "points": [
+          "A farii i te patoiraa i te faaueraa hooraa, eiaha râ i te haamana'oraa.",
+          "A haapapû i te mau mea atoa ia faataa ê ana'e outou. E tomo te manumanu i roto i te piha.",
+          "E faaapî te poroi i te mau tao'a ta te taata hoo e ite ra."
+        ]
+      },
+      "finance": {
+        "title": "Ua faaauhia te tai'oraa i te hooraa",
+        "summary": "Na mua a'e a rave ai i te tahi atu faaueraa, no te aha e ti'a ai i te taata hoo ia hi'o i te tarahu a te taata hoo.",
+        "points": [
+          "Mai te peu e e itehia te tarahu, o te tere ïa te taime maitai roa ' ' e no te titau i te moni.",
+          "E tia i te mau hooraa e te moni ia hi'o i te hoê â taata hoo.",
+          "E mea faufaa a'e te hoê parau faataa i te mau mahana atoa i te hoê hopea hopea."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Te mau hoo",
+    "title": "Te hoê faanahoraa o te mau mea ora [[e tupu i piha'i iho ia outou]]",
+    "intro": "Aita matou e faaite ra i te hoê faito matauhia: te faataahia ra te hoo i nia i te mau modules, te feia e faaohipa ra, e te rahi o te buka. Te faaite nei matou ia outou i te tahua e te haamau nei matou i te hoê faaauraa e ta outou ohipa.",
+    "note": "Aita e moni no te demo e aita e titauhia te hoê parau faaau.",
+    "recommended": "Fa'atumu",
+    "faq_title": "Te mau uiraa ui-pinepine-hia",
+    "plans": {
+      "essential": {
+        "name": "Faufa'a",
+        "desc": "No te faanaho i te faatereraa i te pae tapihooraa e te tufaraa i nia i te hoê noa tahua.",
+        "features": [
+          "FullVendor tahua Itenati",
+          "Te mau hooraa, te mau hooraa, e te mau tao'a",
+          "Te feia hoo, te feia hoo, e te mau parau faataa",
+          "Te feia e faaohipa ra i te mau rave'a ohipa",
+          "Te tauturu no te haamata"
+        ],
+        "cta": "A ani i te Demo"
+      },
+      "professional": {
+        "name": "Fa'ato'a'ite'ite",
+        "desc": "No te mau pǔpǔ e hoo nei i nia i te purumu e e faaineine i te mau faaueraa i roto i te fare vairaa tauihaa.",
+        "features": [
+          "Te mau mea atoa faufaa",
+          "Faaohiparaa FullVendor Sales Man",
+          "Faaohiparaa FullVendor Warehouse",
+          "Te ohipa i rapae i te itenati e te mau barcodes",
+          "E rave rahi atu â feia faaohipa i te faaapu e te fare vairaa tauihaa"
+        ],
+        "cta": "A ani i te Demo"
+      },
+      "corporate": {
+        "name": "Taiete",
+        "desc": "No te mau pǔpǔ e hinaaro i te mau faanahoraa, te mau hooraa, te moni, e te mau taiete e rave rahi.",
+        "features": [
+          "Te faanahoraa taatoa o te mau mea ora",
+          "Logistics, Vendor Supplier, e Finance",
+          "FullVendor ERP e te mau faanahoraa rau",
+          "Te mau faaueraa moni e te mau faanahoraa uira",
+          "Te mau mea e vai ra i mua e te mau mea matamua"
+        ],
+        "cta": "A paraparau i te mau hooraa"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "E titau anei ia ' u ia hoo mai i te mau tao'a atoa?",
+        "a": "Eita. Ia hinaaro ana'e te tapuraa, e nehenehe outou e haamata na roto i te FullVendor e e faaô atu i te mau faanahoraa aore ra te ERP."
+      },
+      "offline": {
+        "q": "E ohipa anei te mau faaohiparaa ma te ore e faaohipa i te Internet?",
+        "a": "Sales Man e Warehouse tamau noa i te rave i te ohipa ma te tapao ore e ma te tu'ati i te taime a tomo faahou ai."
+      },
+      "multi": {
+        "q": "E ohipa anei te reira mai te peu e hau atu i te hoê ta ' u taiete?",
+        "a": "Ae. E hi'opo'a te ERP i te mau taiete e rave rahi, e e nehenehe te faanahoraa o te mau mea ora e tufa i te mau raatira i rotopu ia ratou."
+      },
+      "demo": {
+        "q": "Eaha te vai ra i roto i te demo?",
+        "a": "Te hoê tere i nia i te tahua ha'utiraa e te hoê tupuraa mai ta outou. Aita e hoo e aita e hopoi'a."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Te faaite nei matou ia outou i te FullVendor e [[ta outou huru ohipa]]",
+    "text": "A faaite mai ia matou no ni'a i ta outou taiete e eaha ta outou e hinaaro e titau na mua roa. Aita e moni no te demo."
+  },
+  "contact": {
+    "eyebrow": "Auē ho'i ē",
+    "title": "E paraparau tatou no ni'a i te [[ta outou tapura]]",
+    "text": "Mai te mea e, te hinaaro ra outou i te hoê demo, te hoê faaauraa, e aore râ, no te faataa ia outou iho i rotopu i te mau tao'a, a vaiiho mai i ta outou mau haamaramaramaraa e e pahono matou.",
+    "email": "Mail",
+    "phone": "Pae",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Maita'i a'e",
+    "email": "Mail",
+    "phone": "Pae",
+    "company": "ʻĀmui",
+    "country": "Fenua",
+    "team": "Te rahi o te pŭpŭ",
+    "interest": "Eaha te anaanatae ra ia outou?",
+    "message": "Tā'uru",
+    "optional": "Mā'iti",
+    "choose": "Hō'ē'ā",
+    "interest_all": "Te taatoaraa o te faanahoraa o te mau mea ora",
+    "ph_name": "to outou i'oa",
+    "ph_email": "you@taiete.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Ta outou taatiraa",
+    "ph_country": "Fenua",
+    "ph_message": "A faaite mai nahea to outou ohipa i teie mahana",
+    "privacy_before": "Te farii nei au i te faaohiparaa i ta'u mau haamaramaramaraa ia au i te",
+    "privacy_after": ".",
+    "submit": "A tono i te aniraa",
+    "sent_title": "Te farii nei matou i ta outou aniraa",
+    "sent_text": "Māuruuru. E papai te pǔpǔ hoo ia outou no te faanaho i te faaiteiteraa aore ra no te pahono i ta outou uiraa.",
+    "error_required": "A faaoti i teie vahi.",
+    "error_email": "A tomo i te hoê rata uira.",
+    "error_phone": "Hi'opo'a i te niuniu paraparau.",
+    "error_privacy": "No te faaohipa i te mau haamaramaramaraa no te farerei, e titauhia to outou parau faati'a.",
+    "error_csrf": "Ua hope te tuhaa pureraa. A tono faahou i te parau aniraa.",
+    "error_save": "Aita ta matou i nehenehe e tape'a i te aniraa. A tamata faahou.",
+    "error_generic": "Hi'opo'a i te mau vahi i tapa'ohia.",
+    "error_rate": "A tatari rii noa hou a hapono ai i te tahi atu aniraa.",
+    "team_options": {
+      "1-10": "1 e tae atu i te 10 taata",
+      "11-50": "11 e tae atu i te 50 taata",
+      "51-200": "51 e tae atu i te 200 taata",
+      "201-500": "201 e tae atu i te 500 taata",
+      "500+": "Hau atu i te 500 taata"
+    }
+  },
+  "video": {
+    "title": "FullVendor i roto i te hoê minuti",
+    "prev": "Fa'a'ōfa'i",
+    "next": "I muri i",
+    "slides": [
+      {
+        "title": "Hoê noa faanahoraa",
+        "text": "Te mau hooraa, te fare vairaa tauihaa, te hooraa, te hooraa, e te moni i te feia hoo, te mau tao'a, e te mau faaueraa."
+      },
+      {
+        "title": "Te Web e te telefoni afa'ifa'i",
+        "text": "E ohipa te piha ohipa i nia i te tahua. I roto i te mau faanahoraa, te aroâ e te fare vairaa tauihaa, noa ' tu e aita e tapao."
+      },
+      {
+        "title": "Ua hamanihia no te tufa",
+        "text": "Mai te faaueraa e tae atu i te aufauraa, ma te ore e horoa i te mau haamaramaramaraa mai te hoê buka i te tahi atu."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "A imi i te mau tao'a, te mau faatitiaifaroraa, te mau fare hamaniraa tauihaa...",
+    "lang_filter": "Mimi i te reo",
+    "intro": "A imi i te mau tao'a, te mau faatitiaifaroraa, te mau fare hamaniraa tauihaa e te mau rave'a.",
+    "empty": "Aita matou i ite i te mau faahopearaa no te “{q}”.",
+    "hint": "A tamata i te mau hooraa, te fare vairaa tauihaa, te mau e'a, aore ra te mau kohikohinga.",
+    "results": "{n} mau hopearaa",
+    "button": "A imi i te",
+    "kind_product": "Hoa",
+    "kind_solution": "Tauatini",
+    "kind_industry": "Hō'ai'a",
+    "kind_resource": "Mau tauturu"
+  },
+  "notfound": {
+    "title": "Aita teie api",
+    "text": "Aita te hono e vai ra e aore râ, ua taui te vahi."
+  },
+  "common": {
+    "what": "Eaha te faatitiaifaro",
+    "features": "Eaha te faaôhia i roto",
+    "benefits": "No te aha mea faufaa ai",
+    "for_who": "No vai te reira?",
+    "related": "I roto atoa i te faanahoraa o te mau mea ora"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Te mau hooraa i teie mahana",
+      "orders": "Te mau faaueraa",
+      "clients": "Te feia hoo",
+      "products": "Ngā tao'a"
+    },
+    "sidebar": {
+      "dashboard": "Papa'i parau",
+      "sales": "Te mau hooraa",
+      "purchases": "Ho'oho'ora'a",
+      "inventory": "Invetorio",
+      "clients": "Te feia hoo",
+      "reports": "Te mau parau faataa"
+    },
+    "chart": "Te mau hooraa",
+    "channel": "Te tufaaraa na roto i te tahua",
+    "channels": [
+      "Ma'i",
+      "Tā'atira'a",
+      "Taata hoo",
+      "Te tahi atu"
+    ],
+    "orders": "Te mau faaueraa apî",
+    "col_order": "Tu'ura'a",
+    "col_client": "Fanaua",
+    "col_status": "Hete",
+    "col_total": "Ō'oe",
+    "status": [
+      "Fa'a'ōpu",
+      "I ni'a i te e'a",
+      "Te mau tari'a"
+    ],
+    "top": "Te mau tao'a hoohia maitai roa ' ' e",
+    "product": "Hoa",
+    "sales_menu": [
+      "Te feia hoo",
+      "Te mau faaueraa",
+      "Ngā tao'a",
+      "Te mau ara",
+      "Faata'i"
+    ],
+    "warehouse_menu": [
+      "Tā'ē'ē",
+      "Te ma'itiraa",
+      "Invetorio",
+      "Fa'atāviri",
+      "Faata'i"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Ture no te oraraa taa ê",
+    "privacy_intro": "Te faataa ra teie ture i ta matou e rave i te mau haamaramaramaraa ta outou e vaiiho i roto i te mau hoho'a i nia i teie tahua itenati.",
+    "privacy": [
+      {
+        "title": "Eaha te mau haamaramaramaraa ta tatou e kohikohi",
+        "text": "Mai te mea e, e ani outou i te hoê faaiteiteraa aore râ, e papa'i mai outou ia matou, e tape'a matou i te i'oa, te taiete, te rata uira, te numera niuniu mai te mea e, e faaite mai outou i te reira, te fenua, te rahi o te pŭpŭ, te tao'a anaanatae, e te poro'i. No te arai i te mau parau faaino, e papa'i atoa matou i te tai'o mahana, te reo o te api, e te vahi nohoraa IP."
+      },
+      {
+        "title": "E faaohipa tatou i te reira no te aha?",
+        "text": "E faaohipa noa matou i teie mau haamaramaramaraa no te pahono ia outou, no te faanaho i te hoê faaiteiteraa, e no te faaineine i te hoê faaauraa tapihooraa. Eiaha tatou e hoo atu i te reira aore ra e horoa i te reira i te tahi atu mau taata."
+      },
+      {
+        "title": "E tapeahia ratou i hea e ehia maororaa?",
+        "text": "E tape'ahia te mau aniraa i ni'a i te tahua itenati o teie tahua itenati. Te tape'a nei matou i te reira no te taime e titauhia no te tavini ia outou e no te hi'opo'a i te ohipa tapihooraa, e te tumâ nei matou i te reira ia ani ana'e outou ia matou e aore râ, ia ore ana'e te reira e titauhia."
+      },
+      {
+        "title": "To outou mau ti'araa",
+        "text": "Ma te faaite i te reira i roto i te poroi, e nehenehe ta outou e ani i te fariiraa, te faatitiaifaroraa aore ra te tuuraa i ta outou mau haamaramaramaraa i roto i te buka faahororaa. E nehenehe atoa outou e papai i reira mai te peu e e nenei te taiete i te hoê rata uira i nia i teie tahua itenati."
+      }
+    ],
+    "terms_title": "Te mau parau no te faaohiparaa",
+    "terms_intro": "E faaohipahia teie mau titauraa no te faaohiparaa i teie tahua itenati FullVendor.",
+    "terms": [
+      {
+        "title": "Te mau haamaramaramaraa no ni'a i te tapihooraa",
+        "text": "Te faaite nei te mau irava, te mau hi'oraa o te mau hoho'a, e te mau faataaraa i te tahua itenati. E nehenehe te reira e tauihia ia taui ana'e te tao'a e e ere i te mea opanihia."
+      },
+      {
+        "title": "E ere te demo i te hoê parau faaau",
+        "text": "Eita te horoaraa i te parau aniraa e titauhia ia hoo mai aore ra ia tapea i te hoê hoo. E faaauraa taa ê te mau parau faaau atoa na roto i te papairaa, e tae noa ' tu te faito e te mau titauraa."
+      },
+      {
+        "title": "Te mau mea e vai ra i ni'a i te tahua itenati",
+        "text": "No to ratou mau fatu te mau tapao tapihooraa FullVendor, te mau i'oa o te mau tao'a, e te mau mea i roto i teie mau api. Eita te reira e nehenehe e patahia no te horoa i te tahi atu tao'a."
+      },
+      {
+        "title": "Faaohiparaa fariihia",
+        "text": "Eiaha e faaohipa i te mau hoho'a no te hapono i te mau haamaramaramaraa haavare, te mau parau faaino, aore ra te mau mea opanihia e te ture. E nehenehe tatou e tâu'a ore i te mau aniraa o te ore e tuea i te hoê aparauraa tapihooraa mau."
+      }
+    ]
+  }
+}

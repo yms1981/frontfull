@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Dukanya n’okukulaakulanya bizinensi yo",
+    "home_desc": "Omukutu gwa byonna mu kimu nga guliko eby’okugonjoola eby’oku mutimbagano n’eby’oku ssimu eby’okusaasaanya, okutunda, okutambuza ebintu, okugula, okuwandiika ebintu n’ebyensimbi.",
+    "products_title": "Ebintu Ebikolebwa | FullVendor .",
+    "products_desc": "Manya enkola y’obutonde FullVendor: omukutu gw’ebyobusuubuzi, ERP, okutambuza ebintu, abagaba ebintu n’okutunda, sitoowa n’ebyensimbi apps.",
+    "product_title": "{name} | FullVendor .",
+    "solutions_title": "Ebigonjoolwa | FullVendor .",
+    "solutions_desc": "Ebigonjoola ebizibu by’okuddukanya eby’obusuubuzi, abatunzi, sitoowa, okutambuza ebintu, okugula n’ebyensimbi.",
+    "industries_title": "Amakolero | FullVendor .",
+    "industries_desc": "FullVendor ku kugaba, okutunda, emmere, eddagala, ebikozesebwa, okukozesa mu bungi, okukola ne mayiro esembayo.",
+    "pricing_title": "Emiwendo | FullVendor .",
+    "pricing_desc": "Enteekateeka Enkulu, Ez’ekikugu n’Eby’Ekitongole. Ekiteeso kino kiteekebwa wamu okusinziira ku modulo, abakozesa n’obungi.",
+    "resources_title": "Ebikozesebwa | FullVendor .",
+    "resources_desc": "Ebiwandiiko ebimpi okugatta okugaba, okutunda nga tolina mukutu, okutegeka sitoowa n’okusasulwa mu budde.",
+    "contact_title": "Tuukirira | FullVendor .",
+    "contact_desc": "Tuwandiikire okuyiga ku FullVendor oba okukwasaganya emboozi ne ttiimu y’abatunzi.",
+    "demo_title": "Saba demo | FullVendor .",
+    "demo_desc": "Saba demo ya FullVendor era olambule platform n'omusango ogufaananako n'enkola yo.",
+    "privacy_title": "Eby'ekyama | FullVendor .",
+    "terms_title": "Ebiragiro | FullVendor .",
+    "search_title": "Okunoonya | FullVendor .",
+    "notfound_title": "Omuko teguzuuliddwa | FullVendor ."
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Omuko gw'awaka",
+    "products": "Ebintu ebikolebwa",
+    "solutions": "Ebigonjoolwa",
+    "industries": "Amakolero",
+    "pricing": "Emiwendo",
+    "resources": "Eby'okukozesa",
+    "contact": "Okutuukirira",
+    "open_menu": "Ggulawo menu",
+    "close": "Okuggalawo"
+  },
+  "cta": {
+    "demo": "Saba Demo",
+    "contact": "Tukwasaganye",
+    "video": "Laba Akatambi",
+    "talk": "Yogerako n’abatunzi",
+    "all_products": "Laba ebintu byonna",
+    "home": "Ddayo ku mukutu gw’awaka"
+  },
+  "a11y": {
+    "skip": "Buuka ku birimu",
+    "primary": "Okutambulira ku nnyanja okukulu",
+    "crumbs": "Ekkubo ly’okutambuliramu",
+    "search": "Noonya",
+    "language": "Olulimi"
+  },
+  "hero": {
+    "eyebrow": "Byonna mu pulatifomu emu",
+    "title": "Dukanya era okula\nbizinensi yo ne...\n{{brand}} .",
+    "subtitle": "Omukutu omujjuvu ogulimu eby’okugonjoola eby’oku mutimbagano n’oku ssimu eby’okusaasaanya, okutunda, okutambuza ebintu, okugula, okuwandiika ebintu, eby’ensimbi n’ebirala.",
+    "pill_ecosystem": "Buli kimu mu nsengekera y’obutonde emu",
+    "pill_cloud": "Mu kire, obukuumi era scalable",
+    "pill_size": "Ku kkampuni eza sayizi zonna"
+  },
+  "products_block": {
+    "eyebrow": "Ebintu byaffe",
+    "title": "[[complete ecosystem]] ku buli kitundu kya bizinensi yo",
+    "aside": "Ebigonjoola ebikwatagana ebikolagana okukuwa obuyinza bwonna, okukola obulungi emirimu n’okukula okusingawo.",
+    "groups": {
+      "money": "Enzirukanya y’emirimu n’okukung’aanya",
+      "flow": "Okugula n’okutuusa ebintu",
+      "field": "Okutunda ne sitoowa"
+    }
+  },
+  "products_page": {
+    "title": "Ebintu musanvu, [[okukola okumu]].",
+    "text": "Buli kintu ekikolebwa kigonjoola ekitundu. Bombi bagabana bakasitoma, sitooka, orders n’okusasula."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Ekifo",
+      "card": "Omukutu omukulu ogw’okuddukanya n’okusaasaanya eby’obusuubuzi.",
+      "features": [
+        "Okutunda n’okugula",
+        "Eby'amaguzi",
+        "Bakasitoma n’abagaba ebintu",
+        "Alipoota n'ebirala"
+      ],
+      "lead": "Ekifo ekikulu eky’emirimu gyo egy’obusuubuzi: ebiragiro, emiwendo, sitooka ne bakasitoma mu kifo kimu.",
+      "about": "FullVendor ekyusa empapula z’omugabi n’enkola ezitambula. Okuva wano orders zifuluma, inventory yeebuuzibwako, customer portfolio efaayo era ennamba z’olunaku ne zitunulwamu. Ensengekera y’obutonde endala ekwatagana n’omusingi guno.",
+      "benefits": [
+        {
+          "title": "Omukugu mu by’amawulire omu",
+          "text": "Bakasitoma, ebintu n’emiwendo bigabana n’abatunzi, sitoowa n’ebyensimbi."
+        },
+        {
+          "title": "Okukola kwa buli lunaku okutegeerekeka",
+          "text": "Orders, okugula ne stock bikoma okubeera mu files ezenjawulo."
+        },
+        {
+          "title": "Alipoota okusalawo",
+          "text": "Sales, margin ne pending birabibwa nga tossa wamu mmeeza na ngalo."
+        },
+        {
+          "title": "Mwetegefu okukula",
+          "text": "Logistics, sales force oba ERP sums nga operation esaba."
+        }
+      ],
+      "audience": "Ttiimu z’ebyobusuubuzi n’okusaasaanya abantu nga leero zikwasaganya bizinensi wakati w’enkola eziwerako."
+    },
+    "erp": {
+      "kicker": "Enzirukanya y’emirimu",
+      "card": "Enzirukanya y’emirimu n’ebyensimbi mu bujjuvu.",
+      "features": [
+        "Okubala ebitabo",
+        "Okusasula ssente mu byuma bikalimagezi",
+        "Olupapula lw’okukola",
+        "Ebintu ebikalu",
+        "Amakampuni amangi"
+      ],
+      "lead": "Enzirukanya y’emirimu n’ebyensimbi, nga bikwatagana n’ebyo ebitundibwa ddala n’okutuusibwa.",
+      "about": "FullVendor ERP ekwata ku kubala ebitabo, okukola invoice ku byuma bikalimagezi, okusasula, eby’obugagga ebikalu n’amakampuni amangi. Etwala enkola y’ebyobusuubuzi n’egikyusa mu biwandiiko, lisiiti ne sitatimenti ekitundu ky’ebyensimbi kye kisobola okukozesa.",
+      "benefits": [
+        {
+          "title": "Okubala ebitabo okuyungiddwa",
+          "text": "Ebibaawo mu kutunda n’okugula feeds accounting."
+        },
+        {
+          "title": "Lisiiti z’ebyuma bikalimagezi",
+          "text": "Ofulumya era ofuga billing okuva mu ecosystem y’emu."
+        },
+        {
+          "title": "Kkampuni ez’enjawulo",
+          "text": "Multi-company eri ebibinja ebikola wansi w’amannya ga kampuni agasukka mu limu."
+        },
+        {
+          "title": "Enkalala z’omusaala n’eby’obugagga",
+          "text": "Omusaala n’ebintu ebikalu wamu n’abaddukanya emirimu abalala."
+        }
+      ],
+      "audience": "Ebitundu by’okuddukanya emirimu n’ebyensimbi ebyagala okuggalawo ennamba n’enkola entuufu."
+    },
+    "logistics": {
+      "kicker": "Entambula y’ebintu",
+      "card": "Okufuga n’okulondoola enkola yo ey’okutambuza ebintu.",
+      "features": [
+        "Amakubo n’okutuusa ebintu",
+        "Okulondoola mu kiseera ekituufu",
+        "Omulimu gwa ddereeva",
+        "Okulongoosa amakubo"
+      ],
+      "lead": "Okuva ku order okutuuka ku delivery: amakubo, baddereeva n’okulondoola mu kiseera ekituufu.",
+      "about": "FullVendor Logistics ategeka okugaba. Okola amakubo, ogaba baddereeva n’olaba buli delivery gy’egenda. Ttiimu y’ebidduka eyimirira okusinziira ku ssimu okuzuula oba order esindikiddwa.",
+      "benefits": [
+        {
+          "title": "Amakubo g’olunaku",
+          "text": "Okutwala nga kulagiddwa okusinziira ku zooni, eddirisa ly’obudde n’obusobozi."
+        },
+        {
+          "title": "Ddereeva aweereddwa",
+          "text": "Buli kkubo lirina omuntu avunaanyizibwa n’ensengeka entegeerekeka."
+        },
+        {
+          "title": "Okugoberera",
+          "text": "Omanyi ebituusibwa, mu kkubo oba ebiyimiriziddwa."
+        },
+        {
+          "title": "Kiromita ntono",
+          "text": "Okulongoosa amakubo kikendeeza ku budde bw’okutuusa ebintu n’omuwendo."
+        }
+      ],
+      "audience": "Emirimu gy’okusaasaanya n’ekibinja ky’emmotoka oba abantu ab’okusatu."
+    },
+    "supplier": {
+      "kicker": "Okugula",
+      "card": "Omukutu gw’abagaba ebintu n’okuddukanya okugula.",
+      "features": [
+        "Ebiragiro by’okugula",
+        "Ebiwandiiko",
+        "Enzirukanya y’abagaba ebintu",
+        "Okugatta ne yinvensulo"
+      ],
+      "lead": "Abagaba ebintu bo ba quote, bafuna orders era bajjuza stock awatali loose emails.",
+      "about": "Vendor Supplier eggulawo omukutu eri abagula n’abagaba ebintu okukola ku biragiro bye bimu. Ebijuliziddwa, ebiragiro by’okugula ne lisiiti bisibiddwa ku yinvensulo ya FullVendor.",
+      "benefits": [
+        {
+          "title": "Ebiragiro mu mukutu",
+          "text": "Omugabi alaba by’agenda okutuusa, nga talina lujegere lwa email."
+        },
+        {
+          "title": "Ebijuliziddwa ebigeraageranyizibwa",
+          "text": "Osaba emiwendo n’olonda ng’ebyafaayo bitunuulidde."
+        },
+        {
+          "title": "Omugabi Master",
+          "text": "Embeera, okukwatagana n’okulindirira mu likoda emu."
+        },
+        {
+          "title": "Yingiza yinvensulo",
+          "text": "Ebyaguliddwa byeyolekera mu sitooka nga bifunibwa."
+        }
+      ],
+      "audience": "Ttiimu z’okugula ezijjuza abasuubuzi abawerako era nga zeetaaga okulondoolebwa."
+    },
+    "salesman": {
+      "kicker": "App y'essimu",
+      "card": "Enkola y'oku ssimu eri ttiimu y'abatunzi.",
+      "features": [
+        "Enzirukanya ya bakasitoma",
+        "Okutwala ebiragiro",
+        "Katalogu y’ebintu",
+        "Omulimu ogutali ku mutimbagano"
+      ],
+      "lead": "Abatunzi batwala orders ku luguudo, nga balina signal oba nga tebalina signal.",
+      "about": "FullVendor Sales Man eteeka portfolio yo, katalogu ne order okutwala ku ssimu y’omutunzi. Singa tewabaawo yintaneeti, omulimu gugenda mu maaso era ne gukwatagana nga siginiini ekomyewo. Order etuuka nga yeetegese okuteekateeka n’okutuusa.",
+      "benefits": [
+        {
+          "title": "Wallet mu nsawo",
+          "text": "Omutunzi alaba bakasitoma, obukwakkulizo n’ebintu ebitannaba kuyimirizibwa."
+        },
+        {
+          "title": "Lagira ku kukyala",
+          "text": "Twala order n'emiwendo egy'omulembe ne sitooka."
+        },
+        {
+          "title": "Katalogu eri ku mulembe",
+          "text": "Ebintu, ennyanjula n'emiwendo nga temuli PDF nkadde."
+        },
+        {
+          "title": "Ddala offline",
+          "text": "Kola nga tolina coverage era synchronize oluvannyuma."
+        }
+      ],
+      "audience": "Abalabirira n’abatunzi b’omu nnimiro mu kugaba n’okukozesa mu bungi."
+    },
+    "warehouse": {
+      "kicker": "App y'essimu",
+      "card": "Enkola ya mobile ku sitoowa.",
+      "features": [
+        "Okusembeza n’okusindika",
+        "Okulonda n’okupakinga",
+        "Okufuga ebintu ebiterekeddwa",
+        "Okusoma bbaakoodi"
+      ],
+      "lead": "Okusembeza, okulonda n’okusindika n’essimu ne bbaakoodi.",
+      "about": "FullVendor Warehouse alungamya sitoowa mu kusembeza, okulonda, okupakinga n’okusindika. Okusoma koodi kikendeeza ku nsobi era yinvensulo tekyabalibwa ku nkomerero y’omwezi yokka.",
+      "benefits": [
+        {
+          "title": "Okusembeza abantu nga bawakanya ekiragiro",
+          "text": "Ekiyingira kigeraageranyizibwa ku kugula."
+        },
+        {
+          "title": "Okulonda okugendereddwamu",
+          "text": "Nnannyini mmeeri agoberera ekiragiro era n’akakasa buli kintu."
+        },
+        {
+          "title": "Barcodes eziyitibwa Barcodes",
+          "text": "Ensobi ntono mu bikozesebwa, ekibinja oba obungi."
+        },
+        {
+          "title": "Sitooki eyesigika",
+          "text": "Buli kutambula kulongoosa yinvensulo ya platform."
+        }
+      ],
+      "audience": "Abaddukanya sitoowa ne bannannyini mmeeri leero abateekateeka oda nga balina enkalala ezikubiddwa."
+    },
+    "finance": {
+      "kicker": "App y'essimu",
+      "card": "Okufuga ebyensimbi okuva ku ssimu yo.",
+      "features": [
+        "Akawunti ezirina okusasulwa n’okusasulwa",
+        "Embeera ya kasitoma",
+        "Okusasula n’okutabaganya",
+        "Lipoota z’ebyensimbi"
+      ],
+      "lead": "Akawunti ezirina okusasulwa, okusasula n’embeera ya kasitoma, okuva ku ssimu yo.",
+      "about": "FullVendor Finance eraga okusolooza ku ssimu: buli kasitoma by’abanja, kkampuni by’egenda okusasula n’engeri okusasula gye kujja. Ekozesebwa okukung’aanya ssente ng’okyaliddeko n’okutunuulira ekifo awaterekerwa ssente nga togguddewo mmeeza.",
+      "benefits": [
+        {
+          "title": "Okukunganya mu kukyala kuno",
+          "text": "Omutunzi amanyi oba kasitoma abeera ku mulembe nga tannatunda."
+        },
+        {
+          "title": "Ebirina okusasulwa n’okusasulwa",
+          "text": "Enjuyi zombi ez'ekibokisi mu app emu."
+        },
+        {
+          "title": "Okusasula n’okutabaganya",
+          "text": "Owandiisa credits n’olaba ebyetaaga okusomoka."
+        },
+        {
+          "title": "Alipoota eziri mu ngalo",
+          "text": "Ebiraga okusolooza n’ensimbi enkalu nga tolinze kuggalawo."
+        }
+      ],
+      "audience": "Ba maneja, abakung’aanya n’abatunzi abeetaaga embeera ya kasitoma mu kiseera kino."
+    }
+  },
+  "why": {
+    "eyebrow": "Lwaki FullVendor .",
+    "title": "Yongera ku bizinensi yo\nnga bivaamu ebituufu",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Amakampuni gatwesiga"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Abakozesa abakola"
+      },
+      {
+        "value": "+10",
+        "suffix": "emyaka",
+        "label": "Mu nkulaakulana ey’olubeerera"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Okubeerawo kw’ebire"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Engeri gye kikola",
+    "title": "Okuva ku kutunda okutuuka ku kukungaanya, awatali kukyusa nkola",
+    "text": "Buli kintu kigabana bakasitoma, sitooka, ebiragiro n’okusasula. Ebibeera ku luguudo oba mu sitoowa birabika mu ofiisi amangu ago.",
+    "steps": {
+      "sell": {
+        "title": "Ggwe otunda",
+        "text": "Ekiragiro kiyingizibwa okuyita ku mukutu oba okuyita mu Sales Man, ne bwe kiba nga tekirina kabonero."
+      },
+      "pick": {
+        "title": "Okwetegeka",
+        "text": "Warehouse efuna, eyawula era n’esindika ne bbaakoodi."
+      },
+      "deliver": {
+        "title": "Okutuusa ebintu",
+        "text": "Logistics egaba ekkubo era n’egoberera okutuusa."
+      },
+      "collect": {
+        "title": "Ebiwuka ebiyitibwa Cobras",
+        "text": "Finance ne ERP ziggalawo okukung’aanya, lisiiti n’ennamba."
+      }
+    }
+  },
+  "band": {
+    "title": "Mwetegefu okukiraba ne [[okulongoosebwa kwo]]?",
+    "text": "Tukulaga ensengekera y’obutonde nga tulina ensonga y’okusaasaanya efaananako n’eyo."
+  },
+  "footer": {
+    "blurb": "Omukutu gwa Web ne mobile ogw’okusaasaanya, okutunda, okutambuza ebintu, okugula, okuwandiika ebintu n’ebyensimbi.",
+    "products": "Ebintu ebikolebwa",
+    "company": "Kampane",
+    "legal": "Kya mateeka",
+    "privacy": "Kyaama",
+    "terms": "Emitendera",
+    "rights": "Eddembe lyonna liri mu buyinza bwaffe."
+  },
+  "solutions": {
+    "eyebrow": "Ebigonjoolwa",
+    "title": "Buli kitundu, ekiyungiddwa ku [[omulimu gwe gumu]].",
+    "intro": "Londa okusinziira ku kizibu ky’oyagala okugonjoola. Emabega, ebintu bino bigabana amawulire ge gamu.",
+    "items": {
+      "commercial": {
+        "title": "Enzirukanya y’ebyobusuubuzi",
+        "text": "Orders, emiwendo, bakasitoma ne inventory okusobola okugabibwa buli lunaku."
+      },
+      "field": {
+        "title": "abatunzi",
+        "text": "Abatunzi nga batwala order ku luguudo, ku yintaneeti oba nga tebali ku mukutu."
+      },
+      "warehouse": {
+        "title": "Sitoowa",
+        "text": "Okusembeza, okulonda, okusindika ne sitooka esobola okwesigika."
+      },
+      "logistics": {
+        "title": "Entambula n’okutuusa ebintu",
+        "text": "Amakubo, baddereeva n’embeera ya buli delivery."
+      },
+      "purchasing": {
+        "title": "Okugula n’abagaba ebintu",
+        "text": "Quotes, orders ne portal eri oyo yenna akugabira."
+      },
+      "finance": {
+        "title": "Ebyensimbi n’okubala ebitabo",
+        "text": "Okusolooza, okusasula, okusasula ssente mu byuma bikalimagezi n’okubala ebitabo."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Amakolero",
+    "title": "Ekoleddwa abo [[abatambuza ekintu]].",
+    "intro": "FullVendor yazaalibwa mu kugaba era ewerekera kkampuni ezigula, ezitereka, ezitunda n’okutuusa.",
+    "items": {
+      "wholesale": {
+        "title": "Okusaasaanya n’okutunda mu bungi",
+        "text": "Enkalala z’emiwendo, ekifo, okusaasaanya n’okukung’aanya mu nkulungo emu."
+      },
+      "retail": {
+        "title": "Okutunda ebintu mubutono",
+        "text": "Sitoowa ne sitoowa nga mulimu sitooka eyungiddwa, okutunda n’okujjuza."
+      },
+      "food": {
+        "title": "Emmere n’ebyokunywa",
+        "text": "Amakubo agatera okutambula ne sitoowa etasobola kuyimirira."
+      },
+      "pharma": {
+        "title": "Eddagala n’okulabirira omuntu",
+        "text": "Okusembeza, okulonda n’okufuga yinvensulo nga waliwo okulondoola."
+      },
+      "hardware": {
+        "title": "Ebikozesebwa mu byuma n’okuzimba",
+        "text": "Ebiwandiiko bingi ebijuliziddwa, abagaba ebintu n’ebituusibwa ku mulimu oba mu dduuka."
+      },
+      "fmcg": {
+        "title": "Okukozesa mu bungi",
+        "text": "Abatunzi b’oku nguudo n’okukyusakyusa abantu abangi."
+      },
+      "manufacturing": {
+        "title": "Okukola ebintu",
+        "text": "Okugula, okutereka n’okutereka ebintu ebikwatagana n’okuddukanya emirimu."
+      },
+      "lastmile": {
+        "title": "Okutuusa ne mayiro esembayo",
+        "text": "Amakubo, baddereeva n’embeera ya buli delivery."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Eby'okukozesa",
+    "title": "Ebirowoozo ebitegeerekeka obulungi [[okulagira okulongoosebwa]].",
+    "intro": "Ebiragiro ebimpi eri abaddukanya okusaasaanya abagenda okusalawo enkola ki gye banaanywererako.",
+    "items": {
+      "unify": {
+        "title": "Engeri y’okugatta okugabanya mu nkola emu",
+        "summary": "Biki by’olina okusooka okussa awamu ng’okutunda, sitoowa n’okukung’aanya bibeera mu fayiro ez’enjawulo.",
+        "points": [
+          "Tandika ne bakasitoma, ebintu n’emiwendo: be musomesa buli muntu gw’akozesa.",
+          "Gatta order ne stock nga tonnaba kwongerako applications endala.",
+          "Kipima ennamba ennyangu: ebiragiro ebituukirira nga tebizzeemu kukola foomu."
+        ]
+      },
+      "offline": {
+        "title": "Sales force ekola offline",
+        "summary": "By’olina okwetaaga okuva ku app egulagira omutunzi aleme kuyimirira olw’akabonero.",
+        "points": [
+          "Katalogu ne waleti birina okuba ku ssimu, so si mu kire kyokka.",
+          "Oda eterekebwa ku kyuma era n’eteekebwa ku mukutu nga omukutu gukomyewo.",
+          "Nga okwataganya, order eyingira dda mu sitoowa."
+        ]
+      },
+      "warehouse": {
+        "title": "Sitoowa eriko barcode, nga temuli mpapula",
+        "summary": "Engeri y'okugenda okuva ku lukalala olukubiddwa okutuuka ku kulonda okukakasibwa ku ssimu.",
+        "points": [
+          "Funa okusinziira ku kiragiro ky’okugula, so si ku kujjukira.",
+          "Kakasa buli kintu ng’oyawulamu. Ekiwuka kino kisala mu kkubo.",
+          "Dispatch etereeza sitooka omutunzi gy’alaba."
+        ]
+      },
+      "finance": {
+        "title": "Okukunganya okukwatagana n’okutunda",
+        "summary": "Lwaki omutunzi alina okulaba ebbanja lya kasitoma nga tannakwata order ndala.",
+        "points": [
+          "Okukyala kye kiseera ekisinga okusolooza, singa ebbanja lirabika.",
+          "Okutunda n’ebyensimbi birina okutunuulira kasitoma omu.",
+          "Lipoota esusse okufuluma buli lunaku eba ya muwendo okusinga okuggalawo ekikeerezi."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Emiwendo",
+    "title": "Enkola y’obutonde [[ekula naawe]].",
+    "intro": "Tetufulumya muwendo gwa generic: omuwendo gusinziira ku modules, abakozesa ne volume. Tukulaga omukutu ne tussa wamu ekiteeso n’okuddukanya kwo.",
+    "note": "Demo terina ssente era tekyetaagisa ndagaano.",
+    "recommended": "Okulagirira",
+    "faq_title": "Ebibuuzo ebitera okubuuzibwa",
+    "plans": {
+      "essential": {
+        "name": "Akatalekeka",
+        "desc": "Okutegeka enzirukanya y’ebyobusuubuzi n’okusaasaanya ku musingi gumu.",
+        "features": [
+          "FullVendor omukutu gwa yintaneeti",
+          "Okutunda, okugula n’okutereka ebintu",
+          "Bakasitoma, abagaba ebintu ne lipoota",
+          "Abakozesa ebyuma bya ofiisi",
+          "Obuwagizi bw’okutandikawo emirimu"
+        ],
+        "cta": "Saba Demo"
+      },
+      "professional": {
+        "name": "Omukugu",
+        "desc": "Ku ttiimu ezitunda ku luguudo ne ziteekateeka order mu sitoowa.",
+        "features": [
+          "Buli Kintu Kikulu",
+          "Enkola FullVendor Sales Man .",
+          "Enkola FullVendor Warehouse .",
+          "Omulimu ogutali ku mutimbagano ne bbaakoodi",
+          "Abakozesa ennimiro ne sitoowa bangi"
+        ],
+        "cta": "Saba Demo"
+      },
+      "corporate": {
+        "name": "Ebitongole by’ebitongole",
+        "desc": "Ku bibinja ebyetaaga okutambuza ebintu, okugula, ensimbi ne kkampuni ez’enjawulo.",
+        "features": [
+          "Enkola y’ebitonde enzijuvu",
+          "Logistics, Vendor Supplier ne Finance .",
+          "FullVendor ERP n’okupangisa okungi",
+          "Okusasula ssente mu byuma bikalimagezi n’okubala ebitabo",
+          "Okuwerekera n’okukulembeza okubeerawo"
+        ],
+        "cta": "Yogerako n’abatunzi"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Nnina okugula ebintu byonna?",
+        "a": "Nedda Osobola okutandika ne FullVendor n’oyongerako apps oba ERP ng’okulongoosa kwetaaga."
+      },
+      "offline": {
+        "q": "Applications zikola nga tezirina internet?",
+        "a": "Sales Man ne Warehouse zigenda mu maaso n’okukola awatali siginiini era zikwatagana nga ziddamu okuyungibwa."
+      },
+      "multi": {
+        "q": "Kikola singa mba nnina kkampuni ezisukka mu emu?",
+        "a": "Yee. ERP alowooza ku kkampuni nnyingi era enkola y’obutonde esobola okugabana bakama wakati waabwe."
+      },
+      "demo": {
+        "q": "Demo erimu ki?",
+        "a": "Okulambula ku pulatifomu ng’olina kkeesi efaananako n’eyo. Tewali nsaasaanya era tewali buvunaanyizibwa."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Tukulaga FullVendor ne [[ekika kyo eky’okukola]].",
+    "text": "Tubuulire ku kkampuni yo ne by’oyagala okusooka okulagira. Demo terina ssente zonna."
+  },
+  "contact": {
+    "eyebrow": "Okutuukirira",
+    "title": "Ka twogere ku [[okulongoosebwa kwo]].",
+    "text": "Bw’oba ​​oyagala demo, proposal oba just to orient yourself between the products, leka ebikukwatako tujja kuddamu.",
+    "email": "Mail",
+    "phone": "Essimu",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Erinnya",
+    "email": "Mail",
+    "phone": "Essimu",
+    "company": "Kampane",
+    "country": "Eggwanga",
+    "team": "Sayizi ya ttiimu",
+    "interest": "Kiki ekikunyumira?",
+    "message": "Obubaka",
+    "optional": "Kya kusalawo",
+    "choose": "Okulonda",
+    "interest_all": "Enkola yonna ey’obutonde",
+    "ph_name": "erinnya lyo",
+    "ph_email": "ggwe@kampuni.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kkampuni yo",
+    "ph_country": "Eggwanga",
+    "ph_message": "Tubuulire engeri gy'okola leero",
+    "privacy_before": "Nzikiriza enkozesa ya data yange okusinziira ku...",
+    "privacy_after": ".",
+    "submit": "Weereza okusaba",
+    "sent_title": "Tufuna okusaba kwo",
+    "sent_text": "Weebale. Ttiimu y’abatunzi ejja kukuwandiikira okukwasaganya demo oba okuddamu ekibuuzo kyo.",
+    "error_required": "Jjuzaamu ekifo kino.",
+    "error_email": "Yingiza email entuufu.",
+    "error_phone": "Kebera ku ssimu.",
+    "error_privacy": "Twetaaga okukkiriza kwo okukozesa ebikwata ku bantu b’oyinza okutuukirira.",
+    "error_csrf": "Olutuula luweddeko. Ddamu oweeyo foomu.",
+    "error_save": "Tetwasobola kutereka kusaba. Gezaako nate.",
+    "error_generic": "Weekenneenye ennimiro eziteekeddwako akabonero.",
+    "error_rate": "Nsaba olindeko katono nga tonnawaayo kusaba kulala.",
+    "team_options": {
+      "1-10": "Abantu 1 ku 10",
+      "11-50": "Abantu 11 ku 50",
+      "51-200": "Abantu 51 okutuuka ku 200",
+      "201-500": "Abantu 201 okutuuka ku 500",
+      "500+": "Abantu abasoba mu 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor mu ddakiika emu",
+    "prev": "Edda",
+    "next": "Okugoberera",
+    "slides": [
+      {
+        "title": "Enkola y’obutonde emu",
+        "text": "Okutunda, sitoowa, okutuusa, okugula n’ensimbi emigabo bakasitoma, sitooka ne order."
+      },
+      {
+        "title": "Web ne mobile wamu",
+        "text": "Ofiisi ekola ku pulatifomu. Oluguudo ne sitoowa, mu apps, ne bwe kiba nga tekirina signal."
+      },
+      {
+        "title": "Ekoleddwa okugaba",
+        "text": "Okuva ku kulagira okutuuka ku kusasula, awatali kuyisa mawulire okuva mu fayiro emu okudda mu ndala."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Noonya ebintu, eby'okugonjoola ebizibu, amakolero...",
+    "lang_filter": "Olulimi lw’okunoonya",
+    "intro": "Noonya ebintu, eby’okugonjoola ebizibu, amakolero n’ebikozesebwa.",
+    "empty": "Tetwazudde bivudde mu “{q}”.",
+    "hint": "Gezaako okutunda, sitoowa, amakubo oba okukung’aanya.",
+    "results": "{n} ebivuddemu",
+    "button": "Noonya",
+    "kind_product": "Ekyamaguzi",
+    "kind_solution": "Okugonjoola",
+    "kind_industry": "Yindasitule",
+    "kind_resource": "Ebikozesebwa"
+  },
+  "notfound": {
+    "title": "Omuko guno si bwe guli",
+    "text": "Omukago teguliiwo oba gukyusizza ekifo."
+  },
+  "common": {
+    "what": "Ekigonjoola",
+    "features": "Ebirimu",
+    "benefits": "Lwaki kikulu",
+    "for_who": "Kiba kya ani?",
+    "related": "Era mu nsengekera y’obutonde"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Okutunda leero",
+      "orders": "Ebiragiro",
+      "clients": "Bakasitoma",
+      "products": "Ebintu ebikolebwa"
+    },
+    "sidebar": {
+      "dashboard": "Daasiboodi",
+      "sales": "Okutunda",
+      "purchases": "Okugula",
+      "inventory": "Eby'amaguzi",
+      "clients": "Bakasitoma",
+      "reports": "Alipoota"
+    },
+    "chart": "Okutunda",
+    "channel": "Okusaasaanya okusinziira ku mikutu",
+    "channels": [
+      "Sitoowa",
+      "Okusaansaanya",
+      "Omusuubuzi wa wholesale",
+      "Abalala"
+    ],
+    "orders": "Ebiragiro ebisembyeyo",
+    "col_order": "Okulagira",
+    "col_client": "Omuguzi",
+    "col_status": "Eggwanga",
+    "col_total": "Okugatta",
+    "status": [
+      "Okutuusa",
+      "Mu kkubo",
+      "Empeta y’oku matu"
+    ],
+    "top": "Ebintu ebisinga okutunda",
+    "product": "Ekyamaguzi",
+    "sales_menu": [
+      "Bakasitoma",
+      "Ebiragiro",
+      "Ebintu ebikolebwa",
+      "Amakubo",
+      "Okukwataganya"
+    ],
+    "warehouse_menu": [
+      "Lisepusoni",
+      "Okulonda",
+      "Eby'amaguzi",
+      "Okugaba",
+      "Okukwataganya"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Enkola y’Ebyama",
+    "privacy_intro": "Enkola eno ennyonnyola kye tukola ku data gy’oleka mu foomu ku mukutu guno.",
+    "privacy": [
+      {
+        "title": "Data ki gye tukung’aanya",
+        "text": "Bw’oba ​​osaba demo oba okutuwandiikira, tutereka erinnya, kkampuni, email, ennamba y’essimu bw’oba ​​okiraga, eggwanga, obunene bwa ttiimu, ekintu ky’oyagala n’obubaka. Era tuwandiika olunaku, olulimi lw’olupapula n’endagiriro ya IP, okutangira okuweereza mu ngeri embi."
+      },
+      {
+        "title": "Tuzikozesa ki?",
+        "text": "Tukozesa data eno okukuddamu kwokka, okukwasaganya demo n’okuteekateeka ekiteeso ky’ebyobusuubuzi. Tetuzitunda wadde okuziwa olukalala lw’abantu ab’okusatu."
+      },
+      {
+        "title": "Ziterekebwa wa era okumala bbanga ki?",
+        "text": "Okusaba kuterekebwa ku seva y'omukutu guno. Tuzitereka okumala ekiseera ekyetaagisa okukuweereza n’okugoberera eby’obusuubuzi, era tuzisazaamu ng’otusabye oba nga tezikyetaagisa."
+      },
+      {
+        "title": "Eddembe lyo",
+        "text": "Osobola okusaba okuyingira, okutereeza oba okusazaamu data yo okuva ku foomu y’okukwatagana, ng’ogilaga mu bubaka. Singa kampuni efulumya email ku mukutu guno, osobola n’okuwandiikirayo."
+      }
+    ],
+    "terms_title": "Ebiragiro by’okukozesa",
+    "terms_intro": "Obukwakkulizo buno bukwata ku nkozesa y’omukutu guno ogw’okuweereza FullVendor.",
+    "terms": [
+      {
+        "title": "Amawulire agakwata ku by’obusuubuzi",
+        "text": "Ebiwandiiko, okugeza ebifaananyi bya daasiboodi n’ennyonnyola byanjula omukutu. Zisobola okutereezebwa ng’ekintu kikyuse era si kiweebwayo kiggaddwa."
+      },
+      {
+        "title": "Demo si ndagaano",
+        "text": "Okuwaayo foomu tekireeta buvunaanyizibwa kugula oba kutereka bbeeyi. Endagaano yonna ekkirizibwa okwawukana, mu buwandiike, n’obunene bwayo n’obukwakkulizo bwayo."
+      },
+      {
+        "title": "Ebirimu ku mukutu",
+        "text": "Akabonero k’obusuubuzi aka FullVendor, amannya g’ebintu n’ebirimu ku mpapula zino bya bannannyini byo. Teziyinza kukoppololwa kwanjula kintu kirala."
+      },
+      {
+        "title": "Enkozesa ekkirizibwa",
+        "text": "Tokozesa foomu zino kuwaayo mawulire ga bulimba, spam oba ebintu ebimenya amateeka. Tuyinza okubuusa amaaso okusaba okutakwatagana na mboozi ya bizinensi yennyini."
+      }
+    ]
+  }
+}

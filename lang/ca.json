@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Gestiona i fes créixer el teu negoci",
+    "home_desc": "Plataforma tot en un amb solucions web i mòbils per a distribució, vendes, logística, compres, inventari i finances.",
+    "products_title": "Productes | FullVendor",
+    "products_desc": "Coneix l'ecosistema FullVendor: plataforma comercial, ERP, logística, proveïdors i apps de vendes, magatzem i finances.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solucions | FullVendor",
+    "solutions_desc": "Solucions per a gestió comercial, força de vendes, magatzem, logística, compres i finances.",
+    "industries_title": "Indústries | FullVendor",
+    "industries_desc": "FullVendor per a distribució, retail, aliments, farmàcia, ferreteria, consum massiu, manufactura i última milla.",
+    "pricing_title": "Preus | FullVendor",
+    "pricing_desc": "Plans Essencial, Professional i Corporatiu. La proposta s'arma segons els mòduls, els usuaris i el volum.",
+    "resources_title": "Recursos | FullVendor",
+    "resources_desc": "Guies curtes per unificar la distribució, vendre sense connexió, ordenar el magatzem i cobrar a temps.",
+    "contact_title": "Contacte | FullVendor",
+    "contact_desc": "Escriu-nos per conèixer FullVendor o coordinar una conversa amb lequip comercial.",
+    "demo_title": "Sol·licitar demo | FullVendor",
+    "demo_desc": "Demana una demo de FullVendor i recorre la plataforma amb un cas semblant al de la teva operació.",
+    "privacy_title": "Privadesa | FullVendor",
+    "terms_title": "Termes | FullVendor",
+    "search_title": "Cerca | FullVendor",
+    "notfound_title": "Pàgina no trobada | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pàgina d'inici",
+    "products": "Productes",
+    "solutions": "Solucions",
+    "industries": "Indústries",
+    "pricing": "Preus",
+    "resources": "Recursos",
+    "contact": "Contacte",
+    "open_menu": "Obrir menú",
+    "close": "Tancar"
+  },
+  "cta": {
+    "demo": "Sol·licitar Demo",
+    "contact": "Contacta'ns",
+    "video": "Veure vídeo",
+    "talk": "Parlar amb vendes",
+    "all_products": "Veure tots els productes",
+    "home": "Tornar a la pàgina d'inici"
+  },
+  "a11y": {
+    "skip": "Saltar al contingut",
+    "primary": "Navegació principal",
+    "crumbs": "Ruta de navegació",
+    "search": "Cerca",
+    "language": "Idioma"
+  },
+  "hero": {
+    "eyebrow": "Plataforma tot en un",
+    "title": "Gestiona i fes créixer\nel teu negoci amb\n{{brand}}",
+    "subtitle": "Una plataforma completa amb solucions web i mòbils per a distribució, vendes, logística, compres, inventari, finances i més.",
+    "pill_ecosystem": "Tot en un sol ecosistema",
+    "pill_cloud": "Al núvol, segur i escalable",
+    "pill_size": "Per a empreses de totes les mides"
+  },
+  "products_block": {
+    "eyebrow": "Els nostres productes",
+    "title": "Un [[ecosistema complet]] per a cada àrea del teu negoci",
+    "aside": "Solucions integrades que treballen juntes per donar-te control total, eficiència operativa i més creixement.",
+    "groups": {
+      "money": "Administració i cobrança",
+      "flow": "Compres i repartiment",
+      "field": "Vendes i magatzem"
+    }
+  },
+  "products_page": {
+    "title": "Set productes, [[una sola operació]]",
+    "text": "Cada producte resol una àrea. Junts comparteixen clients, estoc, comandes i pagaments."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Plataforma",
+      "card": "Plataforma principal per a gestió comercial i distribució.",
+      "features": [
+        "Vendes i compres",
+        "Inventari",
+        "Clients i proveïdors",
+        "Reports i més"
+      ],
+      "lead": "El centre de la teva operació comercial: comandes, preus, estoc i clients en un sol lloc.",
+      "about": "FullVendor reemplaça els fulls de càlcul i els sistemes solts d'una distribuïdora. Des d´aquí surten les comandes, es consulta l´inventari, es cuida la cartera de clients i es miren els números del dia. La resta de l‟ecosistema es connecta a aquesta base.",
+      "benefits": [
+        {
+          "title": "Un sol mestre de dades",
+          "text": "Clients, productes i preus es comparteixen amb vendes, magatzem i finances."
+        },
+        {
+          "title": "Operació diària clara",
+          "text": "Comandes, compres i estoc deixen de viure en arxius diferents."
+        },
+        {
+          "title": "Reports per decidir",
+          "text": "Vendes, marge i arracades es veuen sense armar un quadre a mà."
+        },
+        {
+          "title": "Llista per créixer",
+          "text": "Sumes logística, força de vendes o ERP quan l'operació ho demana."
+        }
+      ],
+      "audience": "Equips comercials i de distribució que avui coordinen el negoci entre diversos sistemes."
+    },
+    "erp": {
+      "kicker": "Administració",
+      "card": "Gestió administrativa i financera completa.",
+      "features": [
+        "Comptabilitat",
+        "Facturació electrònica",
+        "Planetes",
+        "Actius fixos",
+        "Multiempresa"
+      ],
+      "lead": "L'administració i les finances, alineades amb allò que realment es ven i s'entrega.",
+      "about": "FullVendor ERP cobreix comptabilitat, facturació electrònica, planetes, actius fixos i multiempresa. Pren l'operació comercial i la converteix en seients, comprovants i estats que l'àrea financera pot fer servir.",
+      "benefits": [
+        {
+          "title": "Comptabilitat connectada",
+          "text": "El que passa en vendes i compres alimenta la comptabilitat."
+        },
+        {
+          "title": "Comprovants electrònics",
+          "text": "Emets i controles la facturació des del mateix ecosistema."
+        },
+        {
+          "title": "Diverses empreses",
+          "text": "Multiempresa per a grups que operen amb més duna raó social."
+        },
+        {
+          "title": "Planetes i actius",
+          "text": "Nòmina i actius fixos juntament amb la resta de la gestió."
+        }
+      ],
+      "audience": "Àrees administratives i financeres que volen tancar els números amb loperació real."
+    },
+    "logistics": {
+      "kicker": "Logística",
+      "card": "Control i seguiment de la teva operació logística.",
+      "features": [
+        "Rutes i lliuraments",
+        "Seguiment en temps real",
+        "Assignació de conductors",
+        "Optimització de rutes"
+      ],
+      "lead": "De l'ordre al lliurament: rutes, conductors i seguiment a temps real.",
+      "about": "FullVendor Logistics organitza el repartiment. Armes rutes, assignes conductors i veus en quin punt va cada entrega. L'equip de trànsit deixa de dependre de trucades per saber si la comanda va sortir.",
+      "benefits": [
+        {
+          "title": "Rutes del dia",
+          "text": "Lliuraments ordenats per zona, finestra horària i capacitat."
+        },
+        {
+          "title": "Conductor assignat",
+          "text": "Cada ruta te responsable i una seqüència clara."
+        },
+        {
+          "title": "Seguiment",
+          "text": "Saps què està lliurat, en camí o detingut."
+        },
+        {
+          "title": "Menys quilòmetres",
+          "text": "L'optimització de rutes baixa temps i cost de repartiment."
+        }
+      ],
+      "audience": "Operacions de distribució amb flota pròpia o de tercers."
+    },
+    "supplier": {
+      "kicker": "Compres",
+      "card": "Portal per a proveïdors i gestió de compres.",
+      "features": [
+        "Ordres de compra",
+        "Cotitzacions",
+        "Gestió de proveïdors",
+        "Integració amb inventari"
+      ],
+      "lead": "Els teus proveïdors cotitzen, reben ordres i reposen estoc sense correus solts.",
+      "about": "Vendor Supplier obre un portal perquè compres i proveïdors treballin sobre les mateixes ordres. Cotitzacions, ordres de compra i recepció queden lligades a l'inventari de FullVendor.",
+      "benefits": [
+        {
+          "title": "Ordres en un canal",
+          "text": "El proveïdor veu el que heu de lliurar, sense una cadena de correus."
+        },
+        {
+          "title": "Cotitzacions comparables",
+          "text": "Demanes preus i tries amb l'historial a la vista."
+        },
+        {
+          "title": "Mestre de proveïdors",
+          "text": "Condicions, contactes i pendents en un sol registre."
+        },
+        {
+          "title": "Entra a l'inventari",
+          "text": "El que s'ha comprat es reflecteix a l'estoc quan es rep."
+        }
+      ],
+      "audience": "Equips de compres que reposen amb diversos proveïdors i necessiten traçabilitat."
+    },
+    "salesman": {
+      "kicker": "App mòbil",
+      "card": "Aplicació mòbil per a equip de vendes.",
+      "features": [
+        "Gestió de clients",
+        "Presa de comandes",
+        "Catàleg de productes",
+        "Treball offline"
+      ],
+      "lead": "La força de vendes pren comandes al carrer, amb senyal o sense.",
+      "about": "FullVendor Sales Man posa al telèfon del venedor la seva cartera, el catàleg i la presa de comandes. Si no hi ha internet, la feina segueix i sincronitza quan torna el senyal. La comanda arriba a punt per allistar i lliurar.",
+      "benefits": [
+        {
+          "title": "Cartera a la butxaca",
+          "text": "El venedor veu clients, condicions i arracades."
+        },
+        {
+          "title": "Comanda a la visita",
+          "text": "Pren la comanda amb preus i estoc del moment."
+        },
+        {
+          "title": "Catàleg al dia",
+          "text": "Productes, presentacions i preus sense un PDF vell."
+        },
+        {
+          "title": "Offline de veritat",
+          "text": "Treballa sense cobertura i sincronitza després."
+        }
+      ],
+      "audience": "Supervisors i venedors de camp en distribució i consum massiu."
+    },
+    "warehouse": {
+      "kicker": "App mòbil",
+      "card": "Aplicació mòbil per a magatzem.",
+      "features": [
+        "Recepció i despatx",
+        "Picking i packing",
+        "Control d'inventari",
+        "Lectura de codis de barres"
+      ],
+      "lead": "Recepció, picking i despatx amb telèfon i codi de barres.",
+      "about": "FullVendor Warehouse guia el magatzem a la recepció, el picking, el packing i el despatx. La lectura de codis redueix errors i l'inventari es deixa de comptar només a final de mes.",
+      "benefits": [
+        {
+          "title": "Recepció contra l'ordre",
+          "text": "El que hi entra es compara amb la compra."
+        },
+        {
+          "title": "Picking dirigit",
+          "text": "L'armador segueix l'ordre i confirma cada element."
+        },
+        {
+          "title": "Codis de barres",
+          "text": "Menys errors de producte, lot o quantitat."
+        },
+        {
+          "title": "Estoc fiable",
+          "text": "Cada moviment actualitza lâ€™inventari de la plataforma."
+        }
+      ],
+      "audience": "Caps de magatzem i armadors que avui preparen comandes amb llistes impreses."
+    },
+    "finance": {
+      "kicker": "App mòbil",
+      "card": "Control financer des del teu mòbil.",
+      "features": [
+        "Comptes per cobrar i pagar",
+        "Estat de clients",
+        "Pagaments i conciliacions",
+        "Reports financers"
+      ],
+      "lead": "Comptes per cobrar, pagaments i estat del client, des del telèfon.",
+      "about": "FullVendor Finance mostra la cobrança al mòbil: què deu cada client, què està per pagar l'empresa i com vénen els pagaments. Serveix per cobrar a la visita i per mirar la caixa sense obrir l'escriptori.",
+      "benefits": [
+        {
+          "title": "Cobrança a la visita",
+          "text": "El venedor sap si el client és al dia abans de vendre."
+        },
+        {
+          "title": "Per cobrar i per pagar",
+          "text": "Les dues cares de la caixa a la mateixa app."
+        },
+        {
+          "title": "Pagaments i conciliacions",
+          "text": "Registres abonaments i veus què falta creuar."
+        },
+        {
+          "title": "Reports a la mà",
+          "text": "Indicadors de cobrança i caixa sense esperar un tancament."
+        }
+      ],
+      "audience": "Gerents, cobradors i venedors que necessiten la situació del client al moment."
+    }
+  },
+  "why": {
+    "eyebrow": "Per què FullVendor",
+    "title": "Impulsa el teu negoci\namb resultats reals",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Empreses confien en nosaltres"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Usuaris actius"
+      },
+      {
+        "value": "+10",
+        "suffix": "anys",
+        "label": "En constant evolució"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilitat al núvol"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Com treballa",
+    "title": "De la venda al cobrament, sense canviar de sistema",
+    "text": "Cada producte comparteix clients, estoc, comandes i pagaments. El que passa al carrer o al magatzem apareix a l'oficina al moment.",
+    "steps": {
+      "sell": {
+        "title": "Vens",
+        "text": "La comanda entra per la web o per Sales Man, fins i tot sense senyal."
+      },
+      "pick": {
+        "title": "Alistes",
+        "text": "Warehouse rep, separa i despatxa amb codi de barres."
+      },
+      "deliver": {
+        "title": "Lliuraments",
+        "text": "Logistics assigna la ruta i segueix el repartiment."
+      },
+      "collect": {
+        "title": "Cobres",
+        "text": "Finance i el ERP tanquen la cobrança, els comprovants i els números."
+      }
+    }
+  },
+  "band": {
+    "title": "A punt per veure'l amb [[la teva operació]]?",
+    "text": "Us mostrem l'ecosistema amb un cas de distribució semblant al vostre."
+  },
+  "footer": {
+    "blurb": "Plataforma web i mòbil per a distribució, vendes, logística, compres, inventari i finances.",
+    "products": "Productes",
+    "company": "Companyia",
+    "legal": "Legal",
+    "privacy": "Privadesa",
+    "terms": "Termes",
+    "rights": "Tots els drets reservats."
+  },
+  "solutions": {
+    "eyebrow": "Solucions",
+    "title": "Cada àrea, connectada a la [[mateixa operació]]",
+    "intro": "Tria el problema que vols resoldre. Darrere, els productes comparteixen la mateixa informació.",
+    "items": {
+      "commercial": {
+        "title": "Gestió comercial",
+        "text": "Comandes, preus, clients i inventari per a la distribució del dia a dia."
+      },
+      "field": {
+        "title": "Força de vendes",
+        "text": "Venedors prenent comandes al carrer, amb connexió o sense."
+      },
+      "warehouse": {
+        "title": "Magatzem",
+        "text": "Recepció, picking, despatx i un estoc en què es pot confiar."
+      },
+      "logistics": {
+        "title": "Logística i repartiment",
+        "text": "Rutes, conductors i estat de cada entrega."
+      },
+      "purchasing": {
+        "title": "Compres i proveïdors",
+        "text": "Cotitzacions, ordres i un portal per a qui t'abasteix."
+      },
+      "finance": {
+        "title": "Finances i comptabilitat",
+        "text": "Cobrança, pagaments, facturació electrònica i comptabilitat."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Indústries",
+    "title": "Fet per a qui [[mou producte]]",
+    "intro": "FullVendor neix en la distribució i acompanya empreses que compren, emmagatzemen, venen i lliuren.",
+    "items": {
+      "wholesale": {
+        "title": "Distribució i majorista",
+        "text": "Llistes de preus, cartera, repartiment i cobrança en un sol circuit."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Botiga i dipòsit amb estoc, vendes i reposició connectats."
+      },
+      "food": {
+        "title": "Aliments i begudes",
+        "text": "Rutes freqüents i un magatzem que no pot parar."
+      },
+      "pharma": {
+        "title": "Farmàcia i cura personal",
+        "text": "Recepció, pícking i control d'inventari amb traçabilitat."
+      },
+      "hardware": {
+        "title": "Ferreteria i construcció",
+        "text": "Moltes referències, proveïdors i entregues a obra o botiga."
+      },
+      "fmcg": {
+        "title": "Consum massiu",
+        "text": "Força de vendes al carrer i reposició d'alta rotació."
+      },
+      "manufacturing": {
+        "title": "Manufactura",
+        "text": "Compres, magatzem i inventari alineats amb ladministració."
+      },
+      "lastmile": {
+        "title": "Repartiment i darrera milla",
+        "text": "Rutes, conductors i estat de cada entrega."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Recursos",
+    "title": "Idees clares per a [[ordenar l'operació]]",
+    "intro": "Guies curtes per a gerents de distribució que decidiran amb quin sistema es queden.",
+    "items": {
+      "unify": {
+        "title": "Com unificar la distribució en un sol sistema",
+        "summary": "Què ajuntar primer quan vendes, magatzem i cobrança viuen en arxius diferents.",
+        "points": [
+          "Comença per clients, productes i preus: són el mestre que tots usen.",
+          "Connecteu la comanda amb l'estoc abans de sumar més aplicacions.",
+          "Mesura un nombre simple: comandes complertes sense refer la planeta."
+        ]
+      },
+      "offline": {
+        "title": "Força de vendes que treballa sense connexió",
+        "summary": "Què cal exigir d'una app de comandes perquè el venedor no s'aturi pel senyal.",
+        "points": [
+          "El catàleg i la cartera han d'estar al telèfon, no només al núvol.",
+          "La comanda es desa al dispositiu i puja en tornar la xarxa.",
+          "En sincronitzar, la comanda ja entra al magatzem."
+        ]
+      },
+      "warehouse": {
+        "title": "Magatzem amb codi de barres, sense paper",
+        "summary": "Com passar de la llista impresa al picking confirmat al telèfon.",
+        "points": [
+          "Rep contra lordre de compra, no contra la memòria.",
+          "Confirma cada element en separar. L'error es talla al passadís.",
+          "El despatx actualitza l?estoc que veu el venedor."
+        ]
+      },
+      "finance": {
+        "title": "Cobrança alineada amb la venda",
+        "summary": "Per què el venedor ha de veure el deute del client abans de prendre una altra comanda.",
+        "points": [
+          "La visita és el millor moment per cobrar, si el deute és a la vista.",
+          "Vendes i finances han de mirar el mateix client.",
+          "Un reporti diari de vençuts val més que un tancament tardà."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preus",
+    "title": "Un ecosistema que [[creix amb tu]]",
+    "intro": "No publiquem una tarifa genèrica: el cost depèn dels mòduls, els usuaris i el volum. Et mostrem la plataforma i armem una proposta amb la teva operació.",
+    "note": "La demo no té cap cost i no obliga a contractar.",
+    "recommended": "Recomanat",
+    "faq_title": "Preguntes freqüents",
+    "plans": {
+      "essential": {
+        "name": "Essencial",
+        "desc": "Per ordenar la gestió comercial i la distribució en una sola plataforma.",
+        "features": [
+          "Plataforma FullVendor web",
+          "Vendes, compres i inventari",
+          "Clients, proveïdors i reportis",
+          "Usuaris de l'equip d'oficina",
+          "Acompanyament de posada en marxa"
+        ],
+        "cta": "Sol·licitar Demo"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Per a equips que venen al carrer i preparen comandes al magatzem.",
+        "features": [
+          "Tot això d'Essencial",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Treball offline i codis de barres",
+          "Més usuaris de camp i magatzem"
+        ],
+        "cta": "Sol·licitar Demo"
+      },
+      "corporate": {
+        "name": "Corporatiu",
+        "desc": "Per a grups que necessiten logística, compres, finances i diverses empreses.",
+        "features": [
+          "Ecosistema complet",
+          "Logistics, Vendor Supplier i Finance",
+          "FullVendor ERP i multiempresa",
+          "Facturació electrònica i comptabilitat",
+          "Acompanyament i disponibilitat prioritària"
+        ],
+        "cta": "Parlar amb vendes"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "He de contractar tots els productes?",
+        "a": "No. Podeu començar per FullVendor i sumar apps o el ERP quan l'operació ho necessiti."
+      },
+      "offline": {
+        "q": "Les aplicacions funcionen sense internet?",
+        "a": "Sales Man i Warehouse continuen treballant sense senyal i sincronitzen en reconnectar."
+      },
+      "multi": {
+        "q": "Serveix si tinc més duna empresa?",
+        "a": "Sí. El ERP contempla multiempresa i l'ecosistema pot compartir mestres entre elles."
+      },
+      "demo": {
+        "q": "Què inclou la demo?",
+        "a": "Una recorreguda per la plataforma amb un cas semblant al teu. Sense cost i sense compromís."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Us mostrem FullVendor amb [[el vostre tipus d'operació]]",
+    "text": "Explica'ns de la teva empresa i què vols ordenar primer. La demo no té cap cost."
+  },
+  "contact": {
+    "eyebrow": "Contacte",
+    "title": "Parlem de [[la teva operació]]",
+    "text": "Si vols una demo, una proposta o només orientar-te entre els productes, deixa les teves dades i et responem.",
+    "email": "Correu",
+    "phone": "Telèfon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nom",
+    "email": "Correu",
+    "phone": "Telèfon",
+    "company": "Empresa",
+    "country": "País",
+    "team": "Grandària de l'equip",
+    "interest": "Què t'interessa",
+    "message": "Missatge",
+    "optional": "Opcional",
+    "choose": "Selecciona",
+    "interest_all": "Tot l'ecosistema",
+    "ph_name": "El teu nom",
+    "ph_email": "la teva@empresa.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "La teva empresa",
+    "ph_country": "País",
+    "ph_message": "Explica'ns com operes avui",
+    "privacy_before": "Accepto l'ús de les meves dades segons la",
+    "privacy_after": ".",
+    "submit": "Enviar sol·licitud",
+    "sent_title": "Rebem la teva sol·licitud",
+    "sent_text": "Gràcies. L'equip comercial t'escriurà per coordinar la demo o respondre la teva consulta.",
+    "error_required": "Completa aquest camp.",
+    "error_email": "Introduïu un correu vàlid.",
+    "error_phone": "Revisa el telèfon.",
+    "error_privacy": "Necessitem la teva acceptació per fer servir les dades de contacte.",
+    "error_csrf": "La sessió va expirar. Torneu a enviar el formulari.",
+    "error_save": "No vam poder desar la sol·licitud. Intenta-ho de nou.",
+    "error_generic": "Revisa els camps marcats.",
+    "error_rate": "Espereu un moment abans d'enviar una altra sol·licitud.",
+    "team_options": {
+      "1-10": "1 a 10 persones",
+      "11-50": "11 a 50 persones",
+      "51-200": "51 a 200 persones",
+      "201-500": "201 a 500 persones",
+      "500+": "Més de 500 persones"
+    }
+  },
+  "video": {
+    "title": "FullVendor en un minut",
+    "prev": "Anterior",
+    "next": "Següent",
+    "slides": [
+      {
+        "title": "Un sol ecosistema",
+        "text": "Vendes, magatzem, repartiment, compres i finances comparteixen clients, estoc i comandes."
+      },
+      {
+        "title": "Web i mòbil junts",
+        "text": "L'oficina treballa a la plataforma. El carrer i el magatzem, a les apps, fins i tot sense senyal."
+      },
+      {
+        "title": "Fet per distribuir",
+        "text": "Des de la comanda fins al cobrament, sense passar la informació d'un fitxer a un altre."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Buscar productes, solucions, indústries…",
+    "lang_filter": "Buscar idioma",
+    "intro": "Cerca en productes, solucions, indústries i recursos.",
+    "empty": "No trobem resultats per a “{q}”.",
+    "hint": "Prova amb vendes, magatzem, rutes o cobrança.",
+    "results": "{n} resultats",
+    "button": "Cerca",
+    "kind_product": "Producte",
+    "kind_solution": "Solució",
+    "kind_industry": "Indústria",
+    "kind_resource": "Recurs"
+  },
+  "notfound": {
+    "title": "Aquesta pàgina no està",
+    "text": "Lenllaç no existeix o va canviar de lloc."
+  },
+  "common": {
+    "what": "Què resol",
+    "features": "Què inclou",
+    "benefits": "Per què importa",
+    "for_who": "Per a qui és",
+    "related": "També a l'ecosistema"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vendes avui",
+      "orders": "Comandes",
+      "clients": "Clients",
+      "products": "Productes"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Vendes",
+      "purchases": "Compres",
+      "inventory": "Inventari",
+      "clients": "Clients",
+      "reports": "Reports"
+    },
+    "chart": "Vendes",
+    "channel": "Distribució per canal",
+    "channels": [
+      "Botiga",
+      "Distribució",
+      "Majorista",
+      "Altres"
+    ],
+    "orders": "Últimes comandes",
+    "col_order": "Comanda",
+    "col_client": "Client",
+    "col_status": "Estat",
+    "col_total": "Total",
+    "status": [
+      "Lliurat",
+      "En ruta",
+      "Pendent"
+    ],
+    "top": "Productes més venuts",
+    "product": "Producte",
+    "sales_menu": [
+      "Clients",
+      "Comandes",
+      "Productes",
+      "Rutes",
+      "Sincronitzar"
+    ],
+    "warehouse_menu": [
+      "Recepció",
+      "Picking",
+      "Inventari",
+      "Despatx",
+      "Sincronitzar"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Política de privadesa",
+    "privacy_intro": "Aquesta política explica què fem amb les dades que deixeu als formularis d'aquest lloc.",
+    "privacy": [
+      {
+        "title": "Quines dades recollim",
+        "text": "Si demaneu una demo o ens escriviu, deseu el nom, l'empresa, el correu, el telèfon si ho indiqueu, el país, la mida de l'equip, el producte d'interès i el missatge. També registrem la data, l'idioma de la pàgina i l'adreça IP, per evitar enviaments abusius."
+      },
+      {
+        "title": "Per què els fem servir",
+        "text": "Fem servir aquestes dades només per respondre't, coordinar una demo i preparar una proposta comercial. No els venem ni els cedim a una llista de tercers."
+      },
+      {
+        "title": "On es guarden i per quant de temps",
+        "text": "Les sol·licituds s'emmagatzemen al servidor d'aquest lloc. Les conservem el temps necessari per atendre't i el seguiment comercial, i les esborrem quan ens ho demanes o quan ja no calen."
+      },
+      {
+        "title": "Els teus drets",
+        "text": "Pots demanar accés, correcció o eliminació de les teves dades des del formulari de contacte, indicant-ho al missatge. Si l'empresa publica un correu en aquesta web, també podeu escriure aquí."
+      }
+    ],
+    "terms_title": "Condicions d'ús",
+    "terms_intro": "Aquestes condicions s'apliquen a aquest lloc de presentació de FullVendor.",
+    "terms": [
+      {
+        "title": "Informació comercial",
+        "text": "Els textos, les xifres d‟exemple del tauler i les descripcions presenten la plataforma. Poden ajustar-se quan el producte canvia i no són una oferta tancada."
+      },
+      {
+        "title": "La demo no és un contracte",
+        "text": "Enviar el formulari no crea una obligació de compra ni reserva un preu. Qualsevol contractació s'acorda a part, per escrit, amb l'abast i les condicions."
+      },
+      {
+        "title": "Contingut del lloc",
+        "text": "La marca FullVendor, els noms dels productes i el contingut d'aquestes pàgines pertanyen als titulars. No es poden copiar per presentar cap altre producte."
+      },
+      {
+        "title": "Ús acceptable",
+        "text": "No facis servir els formularis per enviar informació falsa, spam o contingut il·legal. Podem ignorar sol·licituds que no corresponguin a una conversa comercial real."
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Kusimamia na kukuza biashara yako",
+    "home_desc": "Jukwaa la moja kwa moja lenye suluhu za wavuti na rununu za usambazaji, mauzo, vifaa, ununuzi, hesabu na fedha.",
+    "products_title": "Bidhaa | FullVendor",
+    "products_desc": "Jua mfumo wa ikolojia FullVendor: jukwaa la kibiashara, ERP, vifaa, wasambazaji na mauzo, ghala na programu za fedha.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Suluhu | FullVendor",
+    "solutions_desc": "Suluhu za usimamizi wa kibiashara, nguvu ya mauzo, ghala, vifaa, ununuzi na fedha.",
+    "industries_title": "Viwanda | FullVendor",
+    "industries_desc": "FullVendor kwa usambazaji, rejareja, chakula, duka la dawa, maunzi, matumizi makubwa, utengenezaji na maili ya mwisho.",
+    "pricing_title": "Bei | FullVendor",
+    "pricing_desc": "Mipango Muhimu, Kitaalamu na Biashara. Pendekezo linawekwa pamoja kulingana na moduli, watumiaji na kiasi.",
+    "resources_title": "Rasilimali | FullVendor",
+    "resources_desc": "Miongozo mifupi ya kuunganisha usambazaji, kuuza nje ya mtandao, kupanga ghala na kulipwa kwa wakati.",
+    "contact_title": "Wasiliana | FullVendor",
+    "contact_desc": "Tuandikie ili ujifunze kuhusu FullVendor au uratibu mazungumzo na timu ya mauzo.",
+    "demo_title": "Omba onyesho | FullVendor",
+    "demo_desc": "Omba onyesho la FullVendor na utembelee jukwaa ukiwa na kipochi sawa na uendeshaji wako.",
+    "privacy_title": "Faragha | FullVendor",
+    "terms_title": "Masharti | FullVendor",
+    "search_title": "Tafuta | FullVendor",
+    "notfound_title": "Ukurasa haujapatikana | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Ukurasa wa nyumbani",
+    "products": "Bidhaa",
+    "solutions": "Ufumbuzi",
+    "industries": "Viwanda",
+    "pricing": "Bei",
+    "resources": "Rasilimali",
+    "contact": "Wasiliana",
+    "open_menu": "Fungua menyu",
+    "close": "Funga"
+  },
+  "cta": {
+    "demo": "Omba Onyesho",
+    "contact": "Wasiliana nasi",
+    "video": "Tazama Video",
+    "talk": "Ongea na mauzo",
+    "all_products": "Tazama bidhaa zote",
+    "home": "Rudi kwenye ukurasa wa nyumbani"
+  },
+  "a11y": {
+    "skip": "Ruka hadi yaliyomo",
+    "primary": "Urambazaji mkuu",
+    "crumbs": "Njia ya urambazaji",
+    "search": "Tafuta",
+    "language": "Lugha"
+  },
+  "hero": {
+    "eyebrow": "Wote katika jukwaa moja",
+    "title": "Kusimamia na kukua\nbiashara yako na\n{{brand}}",
+    "subtitle": "Jukwaa kamili lenye suluhu za wavuti na rununu za usambazaji, mauzo, vifaa, ununuzi, hesabu, fedha na zaidi.",
+    "pill_ecosystem": "Kila kitu katika mfumo wa ikolojia mmoja",
+    "pill_cloud": "Katika wingu, salama na scalable",
+    "pill_size": "Kwa makampuni ya ukubwa wote"
+  },
+  "products_block": {
+    "eyebrow": "Bidhaa zetu",
+    "title": "[[mfumo kamili wa ikolojia]] kwa kila eneo la biashara yako",
+    "aside": "Suluhu zilizojumuishwa zinazofanya kazi pamoja ili kukupa udhibiti kamili, ufanisi wa uendeshaji na ukuaji mkubwa zaidi.",
+    "groups": {
+      "money": "Utawala na ukusanyaji",
+      "flow": "Ununuzi na utoaji",
+      "field": "Uuzaji na ghala"
+    }
+  },
+  "products_page": {
+    "title": "Bidhaa saba, [[operesheni moja]]",
+    "text": "Kila bidhaa hutatua eneo. Kwa pamoja wanashiriki wateja, hisa, maagizo na malipo."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Jukwaa",
+      "card": "Jukwaa kuu la usimamizi na usambazaji wa kibiashara.",
+      "features": [
+        "Uuzaji na ununuzi",
+        "Malipo",
+        "Wateja na wauzaji",
+        "Ripoti na zaidi"
+      ],
+      "lead": "Kiini cha shughuli yako ya kibiashara: maagizo, bei, hisa na wateja katika sehemu moja.",
+      "about": "FullVendor inachukua nafasi ya lahajedwali na mifumo iliyolegea ya msambazaji. Kuanzia hapa maagizo yanatoka, hesabu inashauriwa, kwingineko ya wateja hutunzwa na nambari za siku zinaangaliwa. Mfumo ikolojia uliosalia unaunganishwa na msingi huu.",
+      "benefits": [
+        {
+          "title": "Msimamizi mmoja wa data",
+          "text": "Wateja, bidhaa na bei zinashirikiwa na mauzo, ghala na fedha."
+        },
+        {
+          "title": "Uendeshaji wazi wa kila siku",
+          "text": "Maagizo, ununuzi na hisa huacha kuishi katika faili tofauti."
+        },
+        {
+          "title": "Ripoti za kuamua",
+          "text": "Mauzo, kiasi na kusubiri huonekana bila kuweka pamoja meza kwa mkono."
+        },
+        {
+          "title": "Tayari kukua",
+          "text": "Lojistiki, nguvu ya mauzo au ERP hesabu wakati operesheni inapoiomba."
+        }
+      ],
+      "audience": "Timu za kibiashara na usambazaji ambazo leo huratibu biashara kati ya mifumo kadhaa."
+    },
+    "erp": {
+      "kicker": "Utawala",
+      "card": "Usimamizi kamili wa utawala na fedha.",
+      "features": [
+        "Uhasibu",
+        "Malipo ya kielektroniki",
+        "Laha za kazi",
+        "Mali zisizohamishika",
+        "Kampuni nyingi"
+      ],
+      "lead": "Utawala na fedha, kulingana na kile kinachouzwa na kutolewa.",
+      "about": "FullVendor ERP inashughulikia uhasibu, ankara za kielektroniki, malipo, mali zisizohamishika na kampuni nyingi. Inachukua uendeshaji wa kibiashara na kuibadilisha kuwa maingizo, risiti na taarifa ambazo eneo la kifedha linaweza kutumia.",
+      "benefits": [
+        {
+          "title": "Uhasibu uliounganishwa",
+          "text": "Kinachotokea katika mauzo na ununuzi hulisha uhasibu."
+        },
+        {
+          "title": "Risiti za kielektroniki",
+          "text": "Unatoa na kudhibiti utozaji kutoka kwa mfumo ikolojia sawa."
+        },
+        {
+          "title": "Makampuni mbalimbali",
+          "text": "Kampuni nyingi kwa vikundi vinavyofanya kazi chini ya zaidi ya jina moja la kampuni."
+        },
+        {
+          "title": "Mishahara na mali",
+          "text": "Mishahara na mali zisizohamishika pamoja na wasimamizi wengine."
+        }
+      ],
+      "audience": "Maeneo ya kiutawala na ya kifedha ambayo yanataka kufunga nambari kwa operesheni halisi."
+    },
+    "logistics": {
+      "kicker": "Vifaa",
+      "card": "Udhibiti na ufuatiliaji wa uendeshaji wako wa vifaa.",
+      "features": [
+        "Njia na utoaji",
+        "Ufuatiliaji wa wakati halisi",
+        "Kazi ya udereva",
+        "Uboreshaji wa njia"
+      ],
+      "lead": "Kutoka kwa agizo hadi utoaji: njia, madereva na ufuatiliaji wa wakati halisi.",
+      "about": "FullVendor Logistics hupanga usambazaji. Unaunda njia, unawapa viendeshaji na uone mahali ambapo kila utoaji unaenda. Timu ya trafiki huacha kutegemea simu ili kujua ikiwa agizo limesafirishwa.",
+      "benefits": [
+        {
+          "title": "Njia za siku",
+          "text": "Uwasilishaji ulioagizwa na eneo, dirisha la saa na uwezo."
+        },
+        {
+          "title": "Dereva aliyekabidhiwa",
+          "text": "Kila njia ina mtu anayesimamia na mlolongo wazi."
+        },
+        {
+          "title": "Ufuatiliaji",
+          "text": "Unajua ni nini hutolewa, njiani au kusimamishwa."
+        },
+        {
+          "title": "Kilomita chache",
+          "text": "Uboreshaji wa njia hupunguza wakati na gharama ya uwasilishaji."
+        }
+      ],
+      "audience": "Shughuli za usambazaji na meli yako mwenyewe au wahusika wengine."
+    },
+    "supplier": {
+      "kicker": "Ununuzi",
+      "card": "Tovuti ya wauzaji na usimamizi wa ununuzi.",
+      "features": [
+        "Maagizo ya ununuzi",
+        "Nukuu",
+        "Usimamizi wa wasambazaji",
+        "Kuunganishwa na hesabu"
+      ],
+      "lead": "Wasambazaji wako wananukuu, pokea maagizo na ujaze hisa bila barua pepe zisizo za kawaida.",
+      "about": "Vendor Supplier hufungua tovuti ya ununuzi na wasambazaji kufanya kazi kwa maagizo sawa. Nukuu, maagizo ya ununuzi na risiti zimeunganishwa kwenye orodha ya FullVendor.",
+      "benefits": [
+        {
+          "title": "Maagizo katika kituo",
+          "text": "Mtoa huduma huona cha kutoa, bila msururu wa barua pepe."
+        },
+        {
+          "title": "Nukuu zinazolinganishwa",
+          "text": "Unauliza bei na uchague kwa kutazama historia."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Masharti, anwani na zinazosubiri katika rekodi moja."
+        },
+        {
+          "title": "Ingiza hesabu",
+          "text": "Kilichonunuliwa kinaonyeshwa kwenye hisa kinapopokelewa."
+        }
+      ],
+      "audience": "Timu za ununuzi ambazo hujazwa na wasambazaji kadhaa na zinahitaji ufuatiliaji."
+    },
+    "salesman": {
+      "kicker": "Programu ya rununu",
+      "card": "Programu ya rununu kwa timu ya mauzo.",
+      "features": [
+        "Usimamizi wa Wateja",
+        "Kuagiza kuchukua",
+        "Katalogi ya bidhaa",
+        "Kazi ya nje ya mtandao"
+      ],
+      "lead": "Nguvu ya mauzo huchukua maagizo mitaani, na au bila ishara.",
+      "about": "FullVendor Sales Man huweka kwingineko, katalogi na agizo lako kuchukua simu ya muuzaji. Ikiwa hakuna mtandao, kazi inaendelea na kusawazisha wakati ishara inarudi. Agizo linafika tayari kutayarishwa na kuwasilishwa.",
+      "benefits": [
+        {
+          "title": "Wallet mfukoni",
+          "text": "Muuzaji anaona wateja, masharti na vitu vinavyosubiri."
+        },
+        {
+          "title": "Agiza wakati wa kutembelea",
+          "text": "Chukua agizo na bei za sasa na hisa."
+        },
+        {
+          "title": "Katalogi imesasishwa",
+          "text": "Bidhaa, mawasilisho na bei bila PDF ya zamani."
+        },
+        {
+          "title": "Halisi nje ya mtandao",
+          "text": "Fanya kazi bila chanjo na ulandanishe baadaye."
+        }
+      ],
+      "audience": "Wasimamizi na wauzaji wa shamba katika usambazaji na matumizi ya wingi."
+    },
+    "warehouse": {
+      "kicker": "Programu ya rununu",
+      "card": "Maombi ya rununu kwa ghala.",
+      "features": [
+        "Mapokezi na kupeleka",
+        "Kuokota na kufunga",
+        "Udhibiti wa hesabu",
+        "Usomaji wa barcode"
+      ],
+      "lead": "Mapokezi, kuokota na kutuma na simu na barcode.",
+      "about": "FullVendor Warehouse huongoza ghala katika mapokezi, uchukuaji, upakiaji na upelekaji. Misimbo ya kusoma hupunguza makosa na hesabu haihesabiwi tena mwishoni mwa mwezi.",
+      "benefits": [
+        {
+          "title": "Mapokezi dhidi ya utaratibu",
+          "text": "Kinachoingia kinalinganishwa na ununuzi."
+        },
+        {
+          "title": "Uteuzi uliolengwa",
+          "text": "Mmiliki wa meli hufuata agizo na kuthibitisha kila kitu."
+        },
+        {
+          "title": "Misimbo pau",
+          "text": "Hitilafu chache za bidhaa, bechi au wingi."
+        },
+        {
+          "title": "Hifadhi ya kuaminika",
+          "text": "Kila hatua husasisha orodha ya jukwaa."
+        }
+      ],
+      "audience": "Wasimamizi wa ghala na wamiliki wa meli ambao leo huandaa maagizo kwa orodha zilizochapishwa."
+    },
+    "finance": {
+      "kicker": "Programu ya rununu",
+      "card": "Udhibiti wa kifedha kutoka kwa simu yako.",
+      "features": [
+        "Hesabu zinazopokelewa na kulipwa",
+        "Hali ya mteja",
+        "Malipo na upatanisho",
+        "Ripoti za fedha"
+      ],
+      "lead": "Akaunti zinazopokelewa, malipo na hali ya mteja, kutoka kwa simu yako.",
+      "about": "FullVendor Finance inaonyesha mkusanyiko kwenye simu ya mkononi: kila mteja anadaiwa nini, kampuni inakaribia kulipa na jinsi malipo yanavyokuja. Inatumika kukusanya pesa wakati wa ziara na kuangalia rejista ya pesa bila kufungua dawati.",
+      "benefits": [
+        {
+          "title": "Mkusanyiko katika ziara hiyo",
+          "text": "Muuzaji anajua ikiwa mteja amesasishwa kabla ya kuuza."
+        },
+        {
+          "title": "Kupokelewa na kulipwa",
+          "text": "Pande zote mbili za kisanduku katika programu sawa."
+        },
+        {
+          "title": "Malipo na upatanisho",
+          "text": "Unasajili mikopo na uone kile kinachohitaji kuvuka."
+        },
+        {
+          "title": "Ripoti karibu",
+          "text": "Viashiria vya ukusanyaji na fedha bila kusubiri kufungwa."
+        }
+      ],
+      "audience": "Wasimamizi, watoza na wauzaji wanaohitaji hali ya mteja kwa sasa."
+    }
+  },
+  "why": {
+    "eyebrow": "Kwa nini FullVendor",
+    "title": "Boresha biashara yako\nna matokeo halisi",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Makampuni yanatuamini"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Watumiaji wanaofanya kazi"
+      },
+      {
+        "value": "+10",
+        "suffix": "miaka",
+        "label": "Katika mageuzi ya mara kwa mara"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Upatikanaji wa wingu"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Jinsi inavyofanya kazi",
+    "title": "Kutoka kwa mauzo hadi mkusanyiko, bila kubadilisha mifumo",
+    "text": "Kila bidhaa hushiriki wateja, hisa, maagizo na malipo. Kinachotokea mitaani au kwenye ghala huonekana ofisini mara moja.",
+    "steps": {
+      "sell": {
+        "title": "Unauza",
+        "text": "Agizo linaingizwa kupitia tovuti au kupitia Sales Man, hata bila ishara."
+      },
+      "pick": {
+        "title": "Tayari",
+        "text": "Warehouse inapokea, kutenganisha na kutuma kwa msimbopau."
+      },
+      "deliver": {
+        "title": "Uwasilishaji",
+        "text": "Logistics hupanga njia na kufuata uwasilishaji."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance na ERP hufunga mkusanyiko, risiti na nambari."
+      }
+    }
+  },
+  "band": {
+    "title": "Je, uko tayari kuiona na [[operesheni yako]]?",
+    "text": "Tunakuonyesha mfumo ikolojia na kipochi cha usambazaji sawa na chako."
+  },
+  "footer": {
+    "blurb": "Wavuti na jukwaa la rununu la usambazaji, mauzo, vifaa, ununuzi, hesabu na fedha.",
+    "products": "Bidhaa",
+    "company": "Kampuni",
+    "legal": "Kisheria",
+    "privacy": "Faragha",
+    "terms": "Masharti",
+    "rights": "Haki zote zimehifadhiwa."
+  },
+  "solutions": {
+    "eyebrow": "Ufumbuzi",
+    "title": "Kila eneo, limeunganishwa na [[operesheni sawa]]",
+    "intro": "Chagua kulingana na shida unayotaka kutatua. Nyuma, bidhaa zinashiriki habari sawa.",
+    "items": {
+      "commercial": {
+        "title": "Usimamizi wa kibiashara",
+        "text": "Maagizo, bei, wateja na orodha ya usambazaji wa kila siku."
+      },
+      "field": {
+        "title": "nguvu ya mauzo",
+        "text": "Wachuuzi wanaochukua maagizo mitaani, mtandaoni au nje ya mtandao."
+      },
+      "warehouse": {
+        "title": "Hifadhi",
+        "text": "Mapokezi, kuokota, kutuma na hisa ambayo inaweza kuaminiwa."
+      },
+      "logistics": {
+        "title": "Logistics na utoaji",
+        "text": "Njia, madereva na hali ya kila utoaji."
+      },
+      "purchasing": {
+        "title": "Ununuzi na wauzaji",
+        "text": "Nukuu, maagizo na tovuti kwa yeyote anayekupa."
+      },
+      "finance": {
+        "title": "Fedha na uhasibu",
+        "text": "Makusanyo, malipo, bili za kielektroniki na uhasibu."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Viwanda",
+    "title": "Imeundwa kwa ajili ya wale ambao [[kuhamisha bidhaa]]",
+    "intro": "FullVendor ilizaliwa katika usambazaji na inaambatana na kampuni zinazonunua, kuhifadhi, kuuza na kutoa.",
+    "items": {
+      "wholesale": {
+        "title": "Usambazaji na jumla",
+        "text": "Orodha za bei, kwingineko, usambazaji na mkusanyiko katika mzunguko mmoja."
+      },
+      "retail": {
+        "title": "Rejareja",
+        "text": "Hifadhi na ghala na hisa iliyounganishwa, mauzo na kujaza tena."
+      },
+      "food": {
+        "title": "Chakula na vinywaji",
+        "text": "Njia za mara kwa mara na ghala ambalo haliwezi kuacha."
+      },
+      "pharma": {
+        "title": "Duka la dawa na utunzaji wa kibinafsi",
+        "text": "Mapokezi, kuokota na udhibiti wa hesabu kwa ufuatiliaji."
+      },
+      "hardware": {
+        "title": "Vifaa na ujenzi",
+        "text": "Marejeleo mengi, wasambazaji na wanaowasilisha kazini au kuhifadhi."
+      },
+      "fmcg": {
+        "title": "Matumizi ya wingi",
+        "text": "Nguvu ya mauzo ya mitaani na uingizwaji wa mauzo ya juu."
+      },
+      "manufacturing": {
+        "title": "Utengenezaji",
+        "text": "Ununuzi, ghala na hesabu iliyokaa na utawala."
+      },
+      "lastmile": {
+        "title": "Uwasilishaji na maili ya mwisho",
+        "text": "Njia, madereva na hali ya kila utoaji."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Rasilimali",
+    "title": "Futa mawazo ya [[kuagiza operesheni]]",
+    "intro": "Miongozo mifupi ya wasimamizi wa usambazaji ambao wataamua ni mfumo gani wa kushikamana nao.",
+    "items": {
+      "unify": {
+        "title": "Jinsi ya kuunganisha usambazaji katika mfumo mmoja",
+        "summary": "Nini cha kuweka pamoja kwanza wakati mauzo, ghala na makusanyo yanaishi katika faili tofauti.",
+        "points": [
+          "Anza na wateja, bidhaa na bei: wao ni mwalimu ambaye kila mtu hutumia.",
+          "Unganisha agizo na hisa kabla ya kuongeza programu zaidi.",
+          "Inapima nambari rahisi: maagizo yaliyotimizwa bila kufanya upya fomu."
+        ]
+      },
+      "offline": {
+        "title": "Mauzo yanalazimisha kufanya kazi nje ya mtandao",
+        "summary": "Nini cha kuhitaji kutoka kwa programu ya kuagiza ili muuzaji asisimamishe kwa sababu ya ishara.",
+        "points": [
+          "Katalogi na mkoba lazima ziwe kwenye simu, sio tu kwenye wingu.",
+          "Agizo huhifadhiwa kwenye kifaa na kupakiwa wakati mtandao unarudi.",
+          "Wakati wa kusawazisha, agizo tayari linaingia kwenye ghala."
+        ]
+      },
+      "warehouse": {
+        "title": "Ghala yenye barcode, bila karatasi",
+        "summary": "Jinsi ya kutoka kwenye orodha iliyochapishwa hadi kuchaguliwa kuthibitishwa kwenye simu.",
+        "points": [
+          "Pokea dhidi ya agizo la ununuzi, sio dhidi ya kumbukumbu.",
+          "Thibitisha kila kitu wakati wa kutenganisha. Mdudu hukata kwenye barabara ya ukumbi.",
+          "Utumaji husasisha hisa ambayo muuzaji anaona."
+        ]
+      },
+      "finance": {
+        "title": "Mkusanyiko unaolingana na mauzo",
+        "summary": "Kwa nini muuzaji anapaswa kuona deni la mteja kabla ya kuchukua oda nyingine.",
+        "points": [
+          "Ziara ni wakati mzuri wa kukusanya, ikiwa deni linaonekana.",
+          "Uuzaji na fedha lazima ziangalie mteja sawa.",
+          "Ripoti ya kila siku iliyochelewa ni ya thamani zaidi kuliko kuchelewa kufunga."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Bei",
+    "title": "Mfumo ikolojia ambao [[unakua nawe]]",
+    "intro": "Hatuchapishi kiwango cha kawaida: gharama inategemea moduli, watumiaji na kiasi. Tunakuonyesha jukwaa na kuweka pamoja pendekezo na uendeshaji wako.",
+    "note": "demo haina gharama na hauhitaji mkataba.",
+    "recommended": "Imependekezwa",
+    "faq_title": "Maswali yanayoulizwa mara kwa mara",
+    "plans": {
+      "essential": {
+        "name": "Muhimu",
+        "desc": "Kupanga usimamizi wa kibiashara na usambazaji kwenye jukwaa moja.",
+        "features": [
+          "FullVendor jukwaa la wavuti",
+          "Uuzaji, ununuzi na hesabu",
+          "Wateja, wauzaji na ripoti",
+          "Watumiaji wa vifaa vya ofisi",
+          "Msaada wa kuanza"
+        ],
+        "cta": "Omba Onyesho"
+      },
+      "professional": {
+        "name": "Mtaalamu",
+        "desc": "Kwa timu zinazouza mitaani na kuandaa oda kwenye ghala.",
+        "features": [
+          "Kila Kitu Muhimu",
+          "Programu FullVendor Sales Man",
+          "Programu FullVendor Warehouse",
+          "Kazi ya nje ya mtandao na misimbopau",
+          "Watumiaji zaidi wa shamba na ghala"
+        ],
+        "cta": "Omba Onyesho"
+      },
+      "corporate": {
+        "name": "Kampuni",
+        "desc": "Kwa vikundi vinavyohitaji vifaa, ununuzi, fedha na makampuni mbalimbali.",
+        "features": [
+          "Mfumo kamili wa ikolojia",
+          "Logistics, Vendor Supplier na Finance",
+          "FullVendor ERP na upangaji mwingi",
+          "Malipo ya kielektroniki na uhasibu",
+          "Kuambatana na upatikanaji wa kipaumbele"
+        ],
+        "cta": "Ongea na mauzo"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Je, ni lazima ninunue bidhaa zote?",
+        "a": "Hapana. Unaweza kuanza na FullVendor na kuongeza programu au ERP wakati operesheni inapohitaji."
+      },
+      "offline": {
+        "q": "Je, maombi hufanya kazi bila mtandao?",
+        "a": "Sales Man na Warehouse huendelea kufanya kazi bila mawimbi na kusawazisha wakati wa kuunganisha tena."
+      },
+      "multi": {
+        "q": "Je, inafanya kazi ikiwa nina kampuni zaidi ya moja?",
+        "a": "Ndiyo. ERP inazingatia kampuni nyingi na mfumo ikolojia unaweza kushiriki mabwana kati yao."
+      },
+      "demo": {
+        "q": "Onyesho linajumuisha nini?",
+        "a": "Ziara ya jukwaa yenye kipochi kinachofanana na chako. Hakuna gharama na hakuna wajibu."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Onyesho",
+    "title": "Tunakuonyesha FullVendor na [[aina yako ya operesheni]]",
+    "text": "Tuambie kuhusu kampuni yako na unachotaka kuagiza kwanza. Demo haina gharama."
+  },
+  "contact": {
+    "eyebrow": "Wasiliana",
+    "title": "Hebu tuzungumze kuhusu [[operesheni yako]]",
+    "text": "Ikiwa unataka onyesho, pendekezo au kujielekeza kati ya bidhaa, acha maelezo yako na tutajibu.",
+    "email": "Barua",
+    "phone": "Simu",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Jina",
+    "email": "Barua",
+    "phone": "Simu",
+    "company": "Kampuni",
+    "country": "Nchi",
+    "team": "Ukubwa wa timu",
+    "interest": "Unavutiwa na nini?",
+    "message": "Ujumbe",
+    "optional": "Hiari",
+    "choose": "Chagua",
+    "interest_all": "Mfumo mzima wa ikolojia",
+    "ph_name": "jina lako",
+    "ph_email": "wewe@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kampuni yako",
+    "ph_country": "Nchi",
+    "ph_message": "Tuambie jinsi unavyofanya kazi leo",
+    "privacy_before": "Ninakubali matumizi ya data yangu kulingana na",
+    "privacy_after": ".",
+    "submit": "Tuma ombi",
+    "sent_title": "Tunapokea ombi lako",
+    "sent_text": "Asante. Timu ya mauzo itakuandikia ili kuratibu onyesho au kujibu swali lako.",
+    "error_required": "Kamilisha uga huu.",
+    "error_email": "Weka barua pepe halali.",
+    "error_phone": "Angalia simu.",
+    "error_privacy": "Tunahitaji kibali chako ili kutumia maelezo ya mawasiliano.",
+    "error_csrf": "Muda wa kipindi umeisha. Tuma tena fomu.",
+    "error_save": "Hatukuweza kuhifadhi ombi. Jaribu tena.",
+    "error_generic": "Kagua sehemu zilizowekwa alama.",
+    "error_rate": "Tafadhali subiri kidogo kabla ya kuwasilisha ombi lingine.",
+    "team_options": {
+      "1-10": "Watu 1 hadi 10",
+      "11-50": "Watu 11 hadi 50",
+      "51-200": "Watu 51 hadi 200",
+      "201-500": "Watu 201 hadi 500",
+      "500+": "Zaidi ya watu 500"
+    }
+  },
+  "video": {
+    "title": "FullVendor katika dakika moja",
+    "prev": "Zamani",
+    "next": "Kufuatia",
+    "slides": [
+      {
+        "title": "Mfumo wa ikolojia mmoja",
+        "text": "Uuzaji, ghala, utoaji, ununuzi na ufadhili wa wateja wa hisa, hisa na maagizo."
+      },
+      {
+        "title": "Wavuti na rununu pamoja",
+        "text": "Ofisi inafanya kazi kwenye jukwaa. Barabara na ghala, katika programu, hata bila ishara."
+      },
+      {
+        "title": "Imetengenezwa kusambaza",
+        "text": "Kutoka kwa agizo hadi malipo, bila kupitisha habari kutoka faili moja hadi nyingine."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Tafuta bidhaa, suluhu, viwanda...",
+    "lang_filter": "Tafuta lugha",
+    "intro": "Tafuta bidhaa, suluhisho, tasnia na rasilimali.",
+    "empty": "Hatukupata matokeo ya \"{q}\".",
+    "hint": "Jaribu mauzo, ghala, njia au makusanyo.",
+    "results": "{n} matokeo",
+    "button": "Tafuta",
+    "kind_product": "Bidhaa",
+    "kind_solution": "Suluhisho",
+    "kind_industry": "Viwanda",
+    "kind_resource": "Rasilimali"
+  },
+  "notfound": {
+    "title": "Ukurasa huu sio",
+    "text": "Kiungo hakipo au kimebadilisha eneo."
+  },
+  "common": {
+    "what": "Nini hutatua",
+    "features": "Ni nini kimejumuishwa",
+    "benefits": "Kwa nini ni muhimu",
+    "for_who": "Ni kwa ajili ya nani?",
+    "related": "Pia katika mfumo wa ikolojia"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Mauzo leo",
+      "orders": "Maagizo",
+      "clients": "Wateja",
+      "products": "Bidhaa"
+    },
+    "sidebar": {
+      "dashboard": "Dashibodi",
+      "sales": "Mauzo",
+      "purchases": "Ununuzi",
+      "inventory": "Malipo",
+      "clients": "Wateja",
+      "reports": "Ripoti"
+    },
+    "chart": "Mauzo",
+    "channel": "Usambazaji kwa kituo",
+    "channels": [
+      "Hifadhi",
+      "Usambazaji",
+      "Mfanyabiashara wa jumla",
+      "Wengine"
+    ],
+    "orders": "Maagizo ya hivi karibuni",
+    "col_order": "Agizo",
+    "col_client": "Mteja",
+    "col_status": "Jimbo",
+    "col_total": "Jumla",
+    "status": [
+      "Imewasilishwa",
+      "Njiani",
+      "hereni"
+    ],
+    "top": "Bidhaa zinazouzwa vizuri zaidi",
+    "product": "Bidhaa",
+    "sales_menu": [
+      "Wateja",
+      "Maagizo",
+      "Bidhaa",
+      "Njia",
+      "Sawazisha"
+    ],
+    "warehouse_menu": [
+      "Mapokezi",
+      "Kuokota",
+      "Malipo",
+      "Kutuma",
+      "Sawazisha"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Sera ya Faragha",
+    "privacy_intro": "Sera hii inafafanua tunachofanya na data unayoacha katika fomu kwenye tovuti hii.",
+    "privacy": [
+      {
+        "title": "Data gani tunakusanya",
+        "text": "Ukiomba onyesho au utuandikie, tunahifadhi jina, kampuni, barua pepe, nambari ya simu ikiwa utaionyesha, nchi, saizi ya timu, bidhaa inayokuvutia na ujumbe. Pia tunarekodi tarehe, lugha ya ukurasa na anwani ya IP, ili kuzuia mawasilisho yenye matusi."
+      },
+      {
+        "title": "Tunazitumia kwa ajili gani?",
+        "text": "Tunatumia data hii kukujibu tu, kuratibu onyesho na kuandaa pendekezo la kibiashara. Hatuziuzi au kuzipa orodha ya wahusika wengine."
+      },
+      {
+        "title": "Zinahifadhiwa wapi na kwa muda gani?",
+        "text": "Maombi yanahifadhiwa kwenye seva ya tovuti hii. Tunazihifadhi kwa muda unaohitajika ili kukuhudumia na ufuatiliaji wa kibiashara, na tunazifuta unapotuuliza au wakati hazihitajiki tena."
+      },
+      {
+        "title": "Haki zako",
+        "text": "Unaweza kuomba ufikiaji, urekebishaji au ufutaji wa data yako kutoka kwa fomu ya mawasiliano, ukionyesha kwenye ujumbe. Ikiwa kampuni itachapisha barua pepe kwenye tovuti hii, unaweza pia kuandika hapo."
+      }
+    ],
+    "terms_title": "Masharti ya matumizi",
+    "terms_intro": "Masharti haya yanatumika kwa matumizi ya tovuti hii ya kuwasilisha FullVendor.",
+    "terms": [
+      {
+        "title": "Taarifa za kibiashara",
+        "text": "Maandishi, mfano takwimu za dashibodi na maelezo hutambulisha jukwaa. Zinaweza kurekebishwa wakati bidhaa inabadilika na sio ofa iliyofungwa."
+      },
+      {
+        "title": "Demo sio mkataba",
+        "text": "Kuwasilisha fomu hakuleti wajibu wa kununua au kuhifadhi bei. Mkataba wowote unakubaliwa tofauti, kwa maandishi, na upeo wake na masharti."
+      },
+      {
+        "title": "Maudhui ya tovuti",
+        "text": "FullVendor chapa ya biashara, majina ya bidhaa na maudhui ya kurasa hizi ni mali ya wamiliki wake. Haziwezi kunakiliwa ili kuwasilisha bidhaa nyingine."
+      },
+      {
+        "title": "Matumizi yanayokubalika",
+        "text": "Usitumie fomu kuwasilisha taarifa za uongo, barua taka au maudhui yasiyo halali. Tunaweza kupuuza maombi ambayo hayaambatani na mazungumzo halisi ya biashara."
+      }
+    ]
+  }
+}

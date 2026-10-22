@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Işiňizi dolandyryň we ösdüriň",
+    "home_desc": "Paýlamak, satmak, logistika, satyn almak, inwentar we maliýe üçin web we ykjam çözgütler bilen birmeňzeş platforma.",
+    "products_title": "Önümler | FullVendor",
+    "products_desc": "Conoce el ecosistema FullVendor: plataforma comercial, ERP, logística, proveedores y las apps de ventas, almacén y finanzas.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Çözgütler | FullVendor",
+    "solutions_desc": "Täjirçilik dolandyryşy, satuw güýji, ammar, logistika, satyn almak we maliýe üçin çözgütler.",
+    "industries_title": "Senagat | FullVendor",
+    "industries_desc": "FullVendor para distribución, retail, alimentos, farmacia, ferretería, consumo masivo, manufactura y última milla.",
+    "pricing_title": "Bahalar | FullVendor",
+    "pricing_desc": "Esasy, hünär we korporatiw meýilnamalar. Teklip modullara, ulanyjylara we göwrüme görä jemlenýär.",
+    "resources_title": "Çeşmeler | FullVendor",
+    "resources_desc": "Paýlanyşy birleşdirmek, awtonom görnüşde satmak, ammary tertiplemek we wagtynda tölemek üçin gysga gollanmalar.",
+    "contact_title": "Habarlaşmak | FullVendor",
+    "contact_desc": "FullVendor hakda öwrenmek ýa-da satuw topary bilen söhbetdeşligi utgaşdyrmak üçin bize ýazyň.",
+    "demo_title": "Demo talap etmek | FullVendor",
+    "demo_desc": "FullVendor demo talap ediň we amalyňyza meňzeş ýagdaý bilen platforma gezelenç ediň.",
+    "privacy_title": "Gizlinlik | FullVendor",
+    "terms_title": "Şertler | FullVendor",
+    "search_title": "Gözleg | FullVendor",
+    "notfound_title": "Sahypa tapylmady | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Baş sahypa",
+    "products": "Önümler",
+    "solutions": "Çözgütler",
+    "industries": "Senagat",
+    "pricing": "Bahalar",
+    "resources": "Çeşmeler",
+    "contact": "Habarlaşyň",
+    "open_menu": "Açyk menýu",
+    "close": ".Akyn"
+  },
+  "cta": {
+    "demo": "Demo sora",
+    "contact": "Biz bilen habarlaşyň",
+    "video": "Wideo görüň",
+    "talk": "Satyş bilen gürleşiň",
+    "all_products": "Productshli önümlere serediň",
+    "home": "Baş sahypa dolan"
+  },
+  "a11y": {
+    "skip": "Mazmuna geçiň",
+    "primary": "Esasy nawigasiýa",
+    "crumbs": "Nawigasiýa ugry",
+    "search": "Gözläň",
+    "language": "Dil"
+  },
+  "hero": {
+    "eyebrow": "Hemmesi bir platformada",
+    "title": "Dolandyryň we ulalyň\nbilen işiňiz\n{{brand}}",
+    "subtitle": "Paýlamak, satmak, logistika, satyn almak, inwentar, maliýe we başgalar üçin web we ykjam çözgütler bilen doly platforma.",
+    "pill_ecosystem": "Everythinghli zat bir ekosistemada",
+    "pill_cloud": "Bulutda howpsuz we ulaldylan",
+    "pill_size": "Sizhli ululykdaky kompaniýalar üçin"
+  },
+  "products_block": {
+    "eyebrow": "Önümlerimiz",
+    "title": "Işiňiziň her ugry üçin [[doly ekosistema]]",
+    "aside": "Jemi gözegçilik, amaly netijelilik we has uly ösüş bermek üçin bilelikde işleýän toplumlaýyn çözgütler.",
+    "groups": {
+      "money": "Dolandyryş we ýygnamak",
+      "flow": "Satyn almak we eltip bermek",
+      "field": "Satyş we ammar"
+    }
+  },
+  "products_page": {
+    "title": "Sevenedi önüm, [[ýekeje amal]]",
+    "text": "Her önüm bir meýdany çözýär. Bilelikde müşderileri, paýnamalary, sargytlary we tölegleri paýlaşýarlar."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Täjirçilik dolandyryşy we paýlanyşy üçin esasy platforma.",
+      "features": [
+        "Satyş we satyn alyş",
+        "Öwsele",
+        "Müşderiler we üpjün edijiler",
+        "Hasabat we ş.m."
+      ],
+      "lead": "Söwda işiňiziň merkezi: sargytlar, bahalar, aksiýa we müşderiler bir ýerde.",
+      "about": "FullVendor distribýutoryň boş elektron tablisalaryny we ulgamlaryny çalyşýar. Bu ýerden sargytlar çykýar, inwentar maslahat berilýär, müşderi bukjasyna seredilýär we günüň sanlaryna seredilýär. Ekosistemanyň galan bölegi bu esas bilen birleşýär.",
+      "benefits": [
+        {
+          "title": "Dataeke-täk maglumat ussady",
+          "text": "Müşderiler, önümler we bahalar satuw, ammar we maliýe bilen paýlaşylýar."
+        },
+        {
+          "title": "Gündelik amallary arassalaň",
+          "text": "Sargytlar, satyn alyşlar we paýnamalar dürli faýllarda ýaşamagy bes edýär."
+        },
+        {
+          "title": "Karar bermek üçin hasabatlar",
+          "text": "Satyş, margin we garaşylýan zatlar el bilen stol goýman görünýär."
+        },
+        {
+          "title": "Ösmäge taýyn",
+          "text": "Amal talap edilende logistika, satuw güýji ýa-da ERP jemi."
+        }
+      ],
+      "audience": "Häzirki wagtda birnäçe ulgamyň arasynda işi utgaşdyrýan täjirçilik we paýlaýyş toparlary."
+    },
+    "erp": {
+      "kicker": "Dolandyryş",
+      "card": "Doly dolandyryş we maliýe dolandyryşy.",
+      "features": [
+        "Hasapçylyk",
+        "Elektron töleg",
+        "Iş sahypalary",
+        "Esasy serişdeler",
+        "Köp kompaniýa"
+      ],
+      "lead": "Dolandyryş we maliýe, hakykatda satylýan we iberilýän zatlar bilen deňeşdirilýär.",
+      "about": "FullVendor ERP buhgalter hasabatyny, elektron hasap-fakturany, aýlyk haklaryny, esasy serişdeleri we köp kompaniýany öz içine alýar. Söwda amalyny alyp, ony maliýe sebitiniň ulanyp biljek ýazgylaryna, girdejilerine we hasabatlaryna öwürýär.",
+      "benefits": [
+        {
+          "title": "Birikdirilen buhgalteriýa",
+          "text": "Satuwda we satyn alyşlarda bolup geçýän zatlar buhgalter hasabatyny iýmitlendirýär."
+        },
+        {
+          "title": "Elektron girdejiler",
+          "text": "Şol bir ekosistemadan tölegleri çykarýarsyňyz we gözegçilikde saklaýarsyňyz."
+        },
+        {
+          "title": "Dürli kompaniýalar",
+          "text": "Birden köp kompaniýanyň ady bilen işleýän toparlar üçin köp kompaniýa."
+        },
+        {
+          "title": "Aýlyk haklary we emläkler",
+          "text": "Dolandyryşyň galan bölekleri bilen bilelikde aýlyk we esasy serişdeler."
+        }
+      ],
+      "audience": "Sanlary hakyky amal bilen ýapmak isleýän administratiw we maliýe ugurlary."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Logistika amallaryňyza gözegçilik we gözegçilik.",
+      "features": [
+        "Marşrutlar we eltip bermek",
+        "Hakyky wagt yzarlamak",
+        "Sürüji tabşyrygy",
+        "Optol optimizasiýasy"
+      ],
+      "lead": "Sargytdan gowşuryşa: ugurlar, sürüjiler we real wagt yzarlamak.",
+      "about": "FullVendor Logistics paýlanyşy gurnaýar. Routesollary döredýärsiňiz, sürüjileri belläň we her gowşuryşyň nirä gidýändigini görýärsiňiz. Trafficol topary, buýrugyň iberilendigini ýa-da ýokdugyny bilmek üçin jaňlara baglylykda saklanýar.",
+      "benefits": [
+        {
+          "title": "Günüň ugurlary",
+          "text": "Zona, wagt penjiresi we kuwwaty boýunça sargytlar."
+        },
+        {
+          "title": "Bellenen sürüji",
+          "text": "Her ugurda jogapkär adam we anyk yzygiderlilik bar."
+        },
+        {
+          "title": "Gözegçilik",
+          "text": "Nämäniň gowşurylandygyny, ýolda ýa-da saklanandygyny bilýärsiňiz."
+        },
+        {
+          "title": "Az kilometr",
+          "text": "Optol optimizasiýasy gowşuryş wagtyny we bahasyny azaldar."
+        }
+      ],
+      "audience": "Öz flotuňyz ýa-da üçünji taraplar bilen paýlamak amallary."
+    },
+    "supplier": {
+      "kicker": "Söwda",
+      "card": "Üpjün edijiler we satyn alyş dolandyryşy üçin portal.",
+      "features": [
+        "Sargytlary satyn almak",
+        "Sitatlar",
+        "Üpjün edijini dolandyrmak",
+        "Inwentar bilen integrasiýa"
+      ],
+      "lead": "Üpjün edijileriňiz e-poçtaňyz bolmazdan sitata alýarlar, sargytlary alýarlar we aksiýalary doldurýarlar.",
+      "about": "Vendor Supplier satyn alyşlar we üpjün edijiler üçin şol bir sargytlaryň üstünde işlemek üçin portal açýar. Sitatlar, satyn alyş sargytlary we kwitansiýa FullVendor inwentar bilen baglanyşykly.",
+      "benefits": [
+        {
+          "title": "Kanaldaky sargytlar",
+          "text": "Üpjün ediji, e-poçta zynjyry bolmazdan, nämäni eltmelidigini görýär."
+        },
+        {
+          "title": "Deňeşdirilýän sitatalar",
+          "text": "Bahalary soraýarsyňyz we taryhy göz öňünde tutup saýlaýarsyňyz."
+        },
+        {
+          "title": "Üpjün ediji ussat",
+          "text": "Conditionsagdaýlar, aragatnaşyklar we ýekeje ýazgyda garaşylýar."
+        },
+        {
+          "title": "Sanawy giriziň",
+          "text": "Satyn alnan zat alnanda aksiýada öz beýanyny tapýar."
+        }
+      ],
+      "audience": "Birnäçe üpjün ediji bilen doldurýan we yzarlamaga mätäç toparlary satyn almak."
+    },
+    "salesman": {
+      "kicker": "Jübi programmasy",
+      "card": "Satyş topary üçin ykjam programma.",
+      "features": [
+        "Müşderi dolandyryşy",
+        "Sargyt almak",
+        "Haryt katalogy",
+        "Oflayn iş"
+      ],
+      "lead": "Satyjy güýç köçede sargyt alýar, ýa-da signal bermezden.",
+      "about": "FullVendor Sales Man pone en el teléfono del vendedor su cartera, el catálogo y la toma de pedidos. Si no hay internet, el trabajo sigue y sincroniza cuando vuelve la señal. El pedido llega listo para alistar y entregar.",
+      "benefits": [
+        {
+          "title": "Jübüdäki gapjyk",
+          "text": "Satyjy müşderileri, şertleri we garaşylýan zatlary görýär."
+        },
+        {
+          "title": "Sapar wagtynda sargyt ediň",
+          "text": "Häzirki bahalar we aksiýa bilen sargyt alyň."
+        },
+        {
+          "title": "Häzirki wagta çenli katalog",
+          "text": "Köne PDF bolmasa önümler, prezentasiýalar we bahalar."
+        },
+        {
+          "title": "Hakyky awtonom",
+          "text": "Gaplamazdan işläň we soň sinhronlaň."
+        }
+      ],
+      "audience": "Gözegçiler we meýdan satyjylary paýlamakda we köpçülikleýin sarp etmekde."
+    },
+    "warehouse": {
+      "kicker": "Jübi programmasy",
+      "card": "Ammar üçin ykjam programma.",
+      "features": [
+        "Kabul etmek we ibermek",
+        "Saýlamak we gaplamak",
+        "Öwsele gözegçilik",
+        "Ştrih-kod okamak"
+      ],
+      "lead": "Telefon we ştrih-kod bilen kabul etmek, saýlamak we ibermek.",
+      "about": "FullVendor Warehouse ammary kabul etmekde, saýlamakda, gaplamakda we ibermekde ugrukdyrýar. Okamak kodlary ýalňyşlyklary azaldýar we inwentar diňe aýyň ahyrynda hasaplanmaýar.",
+      "benefits": [
+        {
+          "title": "Tertibe garşy kabul edişlik",
+          "text": "Girýän zat satyn almak bilen deňeşdirilýär."
+        },
+        {
+          "title": "Maksatly saýlamak",
+          "text": "Gämi eýesi buýrugy ýerine ýetirýär we her bir zady tassyklaýar."
+        },
+        {
+          "title": "Ştrih-kodlar",
+          "text": "Az önüm, partiýa ýa-da mukdar ýalňyşlyklary."
+        },
+        {
+          "title": "Ygtybarly aksiýa",
+          "text": "Her ädim platformanyň sanawyny täzeleýär."
+        }
+      ],
+      "audience": "Häzirki wagtda çap edilen sanawlar bilen sargyt taýýarlaýan ammar dolandyryjylary we gämi eýeleri."
+    },
+    "finance": {
+      "kicker": "Jübi programmasy",
+      "card": "Jübi telefonyňyzdan maliýe gözegçiligi.",
+      "features": [
+        "Alnan we tölenmeli hasaplar",
+        "Müşderiniň ýagdaýy",
+        "Tölegler we barlyşyk",
+        "Maliýe hasabatlary"
+      ],
+      "lead": "Telefonyňyzdan alynjak hasaplar, tölegler we müşderiniň ýagdaýy.",
+      "about": "FullVendor Finance ykjamda kolleksiýany görkezýär: her bir müşderiniň bergisi, kompaniýanyň tölemeli we tölegleriň nähili gelýändigi. Sapar wagtynda pul ýygnamak we stol açmazdan kassa ýazgysyna seretmek üçin ulanylýar.",
+      "benefits": [
+        {
+          "title": "Saparda ýygyndy",
+          "text": "Satyjy müşderiniň satmazdan ozal täzelenendigini ýa-da ýokdugyny bilýär."
+        },
+        {
+          "title": "Aljak we tölenmeli",
+          "text": "Bir programmada gutynyň iki tarapy."
+        },
+        {
+          "title": "Tölegler we barlyşyk",
+          "text": "Karzlary hasaba alýarsyňyz we nämäniň geçmelidigini görýärsiňiz."
+        },
+        {
+          "title": "Elindäki hasabatlar",
+          "text": "Collectionygnamaga garaşman, ýygnamak we pul görkezijileri."
+        }
+      ],
+      "audience": "Häzirki wagtda müşderiniň ýagdaýyna mätäç bolan dolandyryjylar, kollektorlar we satyjylar."
+    }
+  },
+  "why": {
+    "eyebrow": "Näme üçin FullVendor",
+    "title": "Işiňizi ösdüriň\nhakyky netijeler bilen",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kompaniýalar bize ynanýarlar"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Işjeň ulanyjylar"
+      },
+      {
+        "value": "+10",
+        "suffix": "ýyllar",
+        "label": "Yzygiderli ewolýusiýada"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Bulut elýeterliligi"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Bu nähili işleýär",
+    "title": "Satuwdan kolleksiýa, ulgamlary üýtgetmän",
+    "text": "Her önüm müşderileri, paýnamalary, sargytlary we tölegleri paýlaşýar. Köçede ýa-da ammarda bolup geçýän zatlar derrew ofisde peýda bolýar.",
+    "steps": {
+      "sell": {
+        "title": "Sen satýarsyň",
+        "text": "Sargyt web sahypasy ýa-da Sales Man arkaly, hatda signalsyz girizilýär."
+      },
+      "pick": {
+        "title": "Taýýar",
+        "text": "Warehouse ştrih-kod bilen alýar, bölýär we iberýär."
+      },
+      "deliver": {
+        "title": "Eltip bermek",
+        "text": "Logistics marşruty belleýär we eltip berýär."
+      },
+      "collect": {
+        "title": "Kobras",
+        "text": "Finance we ERP kolleksiýany, kwitansiýalary we sanlary ýapyň."
+      }
+    }
+  },
+  "band": {
+    "title": "[[Operasiýaňyz]] bilen görmäge taýynmy?",
+    "text": "Size meňzeş paýlaýyş gaby bilen ekosistemany görkezýäris."
+  },
+  "footer": {
+    "blurb": "Paýlamak, satmak, logistika, satyn almak, inwentar we maliýe üçin web we ykjam platforma.",
+    "products": "Önümler",
+    "company": "Kompaniýa",
+    "legal": "Hukuk",
+    "privacy": "Gizlinlik",
+    "terms": "Şertler",
+    "rights": "Rightshli hukuklar goralandyr."
+  },
+  "solutions": {
+    "eyebrow": "Çözgütler",
+    "title": "[[Şol bir amal]] bilen baglanyşykly her sebit",
+    "intro": "Çözmek isleýän meseläňizi saýlaň. Munuň aňyrsynda önümler şol bir maglumatlary paýlaşýarlar.",
+    "items": {
+      "commercial": {
+        "title": "Söwda dolandyryşy",
+        "text": "Gündelik paýlamak üçin sargytlar, bahalar, müşderiler we inwentar."
+      },
+      "field": {
+        "title": "satuw güýji",
+        "text": "Köçede, onlaýn ýa-da awtonom zakaz alýan satyjylar."
+      },
+      "warehouse": {
+        "title": "Dükan",
+        "text": "Kabul etmek, saýlamak, ibermek we ynamdar aksiýa."
+      },
+      "logistics": {
+        "title": "Logistika we eltip bermek",
+        "text": "Marşrutlar, sürüjiler we her gowşuryşyň ýagdaýy."
+      },
+      "purchasing": {
+        "title": "Satyn almak we üpjün edijiler",
+        "text": "Kim size üpjün etse, sitatalar, sargytlar we portal."
+      },
+      "finance": {
+        "title": "Maliýe we buhgalteriýa",
+        "text": "Kolleksiýalar, tölegler, elektron hasaplaşyk we buhgalteriýa."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Senagat",
+    "title": "[[Önümi göçürýänler] üçin ýasaldy",
+    "intro": "FullVendor paýlamakda doguldy we satyn alýan, saklaýan, satýan we eltýän kompaniýalara ýoldaşlyk edýär.",
+    "items": {
+      "wholesale": {
+        "title": "Paýlamak we lomaý satmak",
+        "text": "Bahalaryň sanawlary, bukjasy, bir zynjyrda paýlanyş we ýygnamak."
+      },
+      "retail": {
+        "title": "Bölek satuw",
+        "text": "Baglanan aksiýa, satuw we doldurgyç bilen saklaň we ammar."
+      },
+      "food": {
+        "title": "Iýmit we içgiler",
+        "text": "Frequygy-ýygydan marşrutlar we saklanyp bilmeýän ammar."
+      },
+      "pharma": {
+        "title": "Dermanhana we şahsy ideg",
+        "text": "Gözlemek bilen kabul etmek, saýlamak we inwentar gözegçilik."
+      },
+      "hardware": {
+        "title": "Enjam we gurluşyk",
+        "text": "Işlemek ýa-da saklamak üçin köp salgylanmalar, üpjün edijiler we gowşuryşlar."
+      },
+      "fmcg": {
+        "title": "Köpçülikleýin sarp etmek",
+        "text": "Köçe satuw güýji we ýokary haryt dolanyşygy."
+      },
+      "manufacturing": {
+        "title": "Önümçilik",
+        "text": "Dolandyryş bilen deňeşdirilen satyn alyş, ammar we inwentar."
+      },
+      "lastmile": {
+        "title": "Eltip bermek we iň soňky mil",
+        "text": "Marşrutlar, sürüjiler we her gowşuryşyň ýagdaýy."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Çeşmeler",
+    "title": "[[Operasiýa sargyt]] pikirleri arassalaň",
+    "intro": "Haýsy ulgam bilen ýapyşmalydygyny çözjek paýlaýjy menejerler üçin gysga gollanmalar.",
+    "items": {
+      "unify": {
+        "title": "Paýlanyşy bir ulgama nädip birleşdirmeli",
+        "summary": "Satuw, ammar we kolleksiýalar dürli faýllarda ýaşanda ilki nämäni jemlemeli.",
+        "points": [
+          "Müşderilerden, önümlerden we bahalardan başlaň: olar her kimiň ulanýan mugallymy.",
+          "Has köp programma goşmazdan ozal sargydy aksiýa bilen birikdiriň.",
+          "Simpleönekeý san ölçär: sargytlar formany täzeden ýüklemän ýerine ýetirilýär."
+        ]
+      },
+      "offline": {
+        "title": "Satyş güýji awtonom görnüşde işleýär",
+        "summary": "Satyjy signal sebäpli durmaz ýaly sargyt programmasyndan näme talap etmeli.",
+        "points": [
+          "Katalog we gapjyk diňe bir bulutda däl, telefonda bolmaly.",
+          "Sargyt enjamda saklanýar we tor gaýdyp gelende ýüklenýär.",
+          "Sinhronlaşdyrylanda sargyt eýýäm ammara girýär."
+        ]
+      },
+      "warehouse": {
+        "title": "Ştrih-kodly ammar, kagyzsyz",
+        "summary": "Çap edilen sanawdan nädip telefonda saýlanjakdygyňyzy tassyklamaly.",
+        "points": [
+          "Memoryadyňa däl-de, satyn alyş sargytlaryna garşy al.",
+          "Aýrylanda her elementi tassyklaň. Bug koridora kesilýär.",
+          "Iberiji satyjynyň görýän aksiýasyny täzeleýär."
+        ]
+      },
+      "finance": {
+        "title": "Kolleksiýa satuw bilen deňeşdirildi",
+        "summary": "Satyjy başga bir sargyt almazdan ozal müşderiniň bergisini görmeli.",
+        "points": [
+          "Karz görünýän bolsa, sapar ýygnamak üçin iň amatly wagtdyr.",
+          "Satyş we maliýe şol bir müşderä seretmeli.",
+          "Gündelik möhleti geçen hasabat giç ýapylmakdan has möhümdir."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Bahalar",
+    "title": "[[Siziň bilen ösýär]]",
+    "intro": "Umumy nyrhy çap etmeýäris: bahasy modullara, ulanyjylara we göwrüme baglydyr. Platforma görkezýäris we işiňiz bilen bir teklip hödürleýäris.",
+    "note": "Demonyň gymmaty ýok we şertnama talap etmeýär.",
+    "recommended": "Maslahat berilýär",
+    "faq_title": "Freygy-ýygydan berilýän soraglar",
+    "plans": {
+      "essential": {
+        "name": "Esasy",
+        "desc": "Täjirçilik dolandyryşyny we bir platformada paýlamagy guramak.",
+        "features": [
+          "FullVendor web platformasy",
+          "Satyş, satyn alyş we inwentar",
+          "Müşderiler, üpjün edijiler we hasabatlar",
+          "Ofis enjamlaryny ulanyjylar",
+          "Başlangyç goldawy"
+        ],
+        "cta": "Demo sora"
+      },
+      "professional": {
+        "name": "Hünärmen",
+        "desc": "Köçede satýan we ammarda sargyt taýýarlaýan toparlar üçin.",
+        "features": [
+          "Hemme zat möhümdir",
+          "Programma FullVendor Sales Man",
+          "Programma FullVendor Warehouse",
+          "Oflayn iş we ştrih-kodlar",
+          "Has köp meýdan we ammar ulanyjylary"
+        ],
+        "cta": "Demo sora"
+      },
+      "corporate": {
+        "name": "Korporatiw",
+        "desc": "Logistika, satyn alyş, maliýe we dürli kompaniýalara mätäç toparlar üçin.",
+        "features": [
+          "Doly ekosistema",
+          "Logistics, Vendor Supplier we Finance",
+          "FullVendor ERP we köp kärende",
+          "Elektron hasaplaşyk we buhgalteriýa",
+          "Accompoldaşlyk we ileri tutulýan elýeterlilik"
+        ],
+        "cta": "Satyş bilen gürleşiň"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Thehli önümleri satyn almalymy?",
+        "a": "No.ok. Operasiýa bilen FullVendor başlap, programmalar ýa-da ERP goşup bilersiňiz."
+      },
+      "offline": {
+        "q": "Programmalar internetsiz işleýärmi?",
+        "a": "Sales Man we Warehouse signalsyz işlemegi dowam etdiriň we täzeden birikdirilende sinhronlaň."
+      },
+      "multi": {
+        "q": "Birden köp kompaniýam bar bolsa işleýärmi?",
+        "a": "Hawa. ERP köp kompaniýa hakda pikir edýär we ekosistema olaryň arasynda ussatlary paýlaşyp biler."
+      },
+      "demo": {
+        "q": "Demo nämäni öz içine alýar?",
+        "a": "Siziňki ýaly platforma gezelenç. Bahasy we borçnamasy ýok."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "[[[Iş görnüşiňiz]] bilen size FullVendor görkezýäris",
+    "text": "Kompaniýaňyz we ilki zakaz etmek isleýän zadyňyz barada aýdyň. Demonyň gymmaty ýok."
+  },
+  "contact": {
+    "eyebrow": "Habarlaşyň",
+    "title": "[[Operasiýaňyz]] hakda gürleşeliň",
+    "text": "Demo, teklip ýa-da diňe önümleriň arasynda ugrukdyrmak isleseňiz, maglumatyňyzy goýuň, biz jogap bereris.",
+    "email": "Poçta",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ady",
+    "email": "Poçta",
+    "phone": "Telefon",
+    "company": "Kompaniýa",
+    "country": "Countryurt",
+    "team": "Toparyň ululygy",
+    "interest": "Sizi näme gyzyklandyrýar?",
+    "message": "Habar",
+    "optional": "Meýletin",
+    "choose": "Saýlaň",
+    "interest_all": "Bütin ekosistema",
+    "ph_name": "adyň",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Siziň kompaniýaňyz",
+    "ph_country": "Countryurt",
+    "ph_message": "Bu gün nähili işleýändigiňizi aýdyň",
+    "privacy_before": "Maglumatlarymyň ulanylyşyny kabul edýärin",
+    "privacy_after": ".",
+    "submit": "Talap iber",
+    "sent_title": "Siziň haýyşyňyzy alýarys",
+    "sent_text": "Sag boluň. Satyş topary demony utgaşdyrmak ýa-da soragyňyza jogap bermek üçin size hat ýazar.",
+    "error_required": "Bu meýdany tamamlaň.",
+    "error_email": "Dogry e-poçta giriziň.",
+    "error_phone": "Telefony barlaň.",
+    "error_privacy": "Aragatnaşyk maglumatlaryny ulanmak üçin siziň razylygyňyz gerek.",
+    "error_csrf": "Sessiýanyň möhleti gutardy. Anketany iberiň.",
+    "error_save": "Biz haýyşy ýatda saklap bilmedik Gaýtadan synanyşyň.",
+    "error_generic": "Bellenen meýdanlary gözden geçiriň.",
+    "error_rate": "Başga haýyş ibermezden biraz garaşyň.",
+    "team_options": {
+      "1-10": "1-10 adam",
+      "11-50": "11-den 50 adama çenli",
+      "51-200": "51-den 200 adama çenli",
+      "201-500": "201-den 500 adama çenli",
+      "500+": "500-den gowrak adam"
+    }
+  },
+  "video": {
+    "title": "Bir minutda FullVendor",
+    "prev": "Öňki",
+    "next": "Aşakda",
+    "slides": [
+      {
+        "title": "Singleeke ekosistema",
+        "text": "Satyş, ammar, eltip bermek, satyn almak we maliýe paýlaşmak müşderileri, paýnamalar we sargytlar."
+      },
+      {
+        "title": "Web we ykjam bilelikde",
+        "text": "Ofis platformada işleýär. Köçe we ammar, programmalarda, hatda signal bolmasa-da."
+      },
+      {
+        "title": "Paýlamak üçin ýasaldy",
+        "text": "Sargytdan töleg, bir faýldan beýlekisine maglumat geçirmezden."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Önümleri, çözgütleri, pudaklary gözläň…",
+    "lang_filter": "Gözleg dili",
+    "intro": "Önümleri, çözgütleri, pudaklary we çeşmeleri gözläň.",
+    "empty": "“{q}” üçin netije tapmadyk.",
+    "hint": "Satuwy, ammary, ugurlary ýa-da kolleksiýalary synap görüň.",
+    "results": "{n} netijeler",
+    "button": "Gözläň",
+    "kind_product": "Haryt",
+    "kind_solution": "Çözgüt",
+    "kind_industry": "Senagat",
+    "kind_resource": "Çeşme"
+  },
+  "notfound": {
+    "title": "Bu sahypa ýok",
+    "text": "Baglanyşyk ýok ýa-da ýerini üýtgetdi."
+  },
+  "common": {
+    "what": "Näme çözýär",
+    "features": "Näme girýär",
+    "benefits": "Näme üçin möhüm?",
+    "for_who": "Bu kim üçin?",
+    "related": "Şeýle hem ekosistemada"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Şu gün satuw",
+      "orders": "Sargytlar",
+      "clients": "Müşderiler",
+      "products": "Önümler"
+    },
+    "sidebar": {
+      "dashboard": "Dolandyryş paneli",
+      "sales": "Satyş",
+      "purchases": "Söwda",
+      "inventory": "Öwsele",
+      "clients": "Müşderiler",
+      "reports": "Hasabat"
+    },
+    "chart": "Satyş",
+    "channel": "Kanal boýunça paýlamak",
+    "channels": [
+      "Dükan",
+      "Paýlamak",
+      "Lomaý satyjy",
+      "Beýlekiler"
+    ],
+    "orders": "Iň soňky sargytlar",
+    "col_order": "Sargyt",
+    "col_client": "Müşderi",
+    "col_status": "Döwlet",
+    "col_total": "Jemi",
+    "status": [
+      "Gowşuryldy",
+      "Routeolda",
+      "Gulakhalka"
+    ],
+    "top": "Iň köp satylýan önümler",
+    "product": "Haryt",
+    "sales_menu": [
+      "Müşderiler",
+      "Sargytlar",
+      "Önümler",
+      ".Ollar",
+      "Sinhronlaşdyryň"
+    ],
+    "warehouse_menu": [
+      "Kabul edişlik",
+      "Saýlamak",
+      "Öwsele",
+      "Iberiş",
+      "Sinhronlaşdyryň"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Gizlinlik syýasaty",
+    "privacy_intro": "Bu syýasat, bu sahypada formalarda galdyrýan maglumatlaryňyz bilen näme edýändigimizi düşündirýär.",
+    "privacy": [
+      {
+        "title": "Haýsy maglumatlary ýygnaýarys",
+        "text": "Demo sorasaňyz ýa-da bize ýazsaňyz, adyny, kompaniýasyny, e-poçta, telefon belgisini görkezseňiz, ýurdy, toparyň göwrümini, gyzyklanma önümini we habaryny görkezseňiz. Şeýle hem, kemsidiji habarlaryň öňüni almak üçin senäni, sahypanyň dilini we IP adresini ýazýarys."
+      },
+      {
+        "title": "Olary näme üçin ulanýarys?",
+        "text": "Bu maglumatlary diňe size jogap bermek, demo utgaşdyrmak we täjirçilik teklibi taýýarlamak üçin ulanýarys. Olary satmaýarys ýa-da üçünji taraplaryň sanawyna bermeýäris."
+      },
+      {
+        "title": "Nirede saklanýar we näçe wagtlap?",
+        "text": "Islegler bu sahypanyň serwerinde saklanýar. Olary size hyzmat etmek we täjirçilik yzarlamak üçin zerur wagt üçin saklaýarys we bizden haýyş edeniňizde ýa-da indi zerur däl wagty pozýarys."
+      },
+      {
+        "title": "Hukuklaryňyz",
+        "text": "Habarda görkezip, maglumatlaryňyzy aragatnaşyk formundan girmegi, düzedilmegini ýa-da öçürilmegini isläp bilersiňiz. Kompaniýa bu web sahypasynda e-poçta çap etse, şol ýerde hem ýazyp bilersiňiz."
+      }
+    ],
+    "terms_title": "Ulanyş şertleri",
+    "terms_intro": "Bu şertler, bu FullVendor tabşyryş sahypasynyň ulanylmagyna degişlidir.",
+    "terms": [
+      {
+        "title": "Söwda maglumatlary",
+        "text": "Tekstler, mysal üçin dolandyryş paneli şekilleri we beýany platforma bilen tanyşdyrýar. Önüm üýtgese we ýapyk teklip däl bolsa düzedilip bilner."
+      },
+      {
+        "title": "Demo şertnama däl",
+        "text": "Anketany tabşyrmak, bahany satyn almak ýa-da ätiýaçlandyrmak borjuny döretmeýär. Islendik şertnama, göwrümi we şertleri bilen ýazmaça görnüşde aýratyn ylalaşylýar."
+      },
+      {
+        "title": "Sahypanyň mazmuny",
+        "text": "FullVendor söwda belligi, önüm atlary we bu sahypalaryň mazmuny olaryň eýelerine degişlidir. Başga bir önüm hödürlemek üçin olary göçürip bolmaz."
+      },
+      {
+        "title": "Kabul ederlikli ulanmak",
+        "text": "Falsealan maglumatlary, spam ýa-da bikanun mazmuny ibermek üçin formalary ulanmaň. Hakyky iş söhbetdeşligine laýyk gelmeýän haýyşlary äsgermezlik edip bileris."
+      }
+    ]
+  }
+}

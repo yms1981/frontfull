@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Tonga uye ukure bhizinesi rako",
+    "home_desc": "Yese-mu-imwe chikuva ine webhu uye nharembozha yekugovera, kutengesa, logistics, kutenga, inventory uye mari.",
+    "products_title": "Products | FullVendor",
+    "products_desc": "Ziva ecosystem FullVendor: chikuva chekutengesa, ERP, logistics, vatengesi nekutengesa, dura uye maapplication emari.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Solutions | FullVendor",
+    "solutions_desc": "Mhinduro dzekutengesa manejimendi, mauto ekutengesa, warehouse, logistics, kutenga uye mari.",
+    "industries_title": "Industries | FullVendor",
+    "industries_desc": "FullVendor yekugovera, kutengesa, chikafu, pharmacy, hardware, kushandiswa kwemazhinji, kugadzira uye maira yekupedzisira.",
+    "pricing_title": "Mitengo | FullVendor",
+    "pricing_desc": "Yakakosha, Professional uye Corporate Zvirongwa. Chikumbiro chinoiswa pamwe chete zvinoenderana nemamodule, vashandisi uye vhoriyamu.",
+    "resources_title": "Resources | FullVendor",
+    "resources_desc": "Mapfupi madhairekitori ekubatanidza kugovera, kutengesa kunze kwenyika, kuronga imba yekuchengetera uye kubhadharwa nenguva.",
+    "contact_title": "Contact | FullVendor",
+    "contact_desc": "Tinyorere kuti tidzidze nezve FullVendor kana kuronga hurukuro neboka rekutengesa.",
+    "demo_title": "Kumbira demo | FullVendor",
+    "demo_desc": "Kumbira demo re FullVendor uye shanyira chikuva nekesi yakafanana nekushanda kwako.",
+    "privacy_title": "Privacy | FullVendor",
+    "terms_title": "Terms | FullVendor",
+    "search_title": "Search | FullVendor",
+    "notfound_title": "Peji haina kuwanikwa | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Peji yekumba",
+    "products": "Products",
+    "solutions": "Solutions",
+    "industries": "Maindasitiri",
+    "pricing": "Mitengo",
+    "resources": "Zviwanikwa",
+    "contact": "Contact",
+    "open_menu": "Vhura menyu",
+    "close": "Close"
+  },
+  "cta": {
+    "demo": "Kumbira Demo",
+    "contact": "Taura nesu",
+    "video": "Tarisa Vhidhiyo",
+    "talk": "Taura nekutengesa",
+    "all_products": "Ona zvigadzirwa zvese",
+    "home": "Dzokera kupeji yekumba"
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "primary": "Main navigation",
+    "crumbs": "Navigation nzira",
+    "search": "Tsvaga",
+    "language": "Mutauro"
+  },
+  "hero": {
+    "eyebrow": "Zvese mune imwe puratifomu",
+    "title": "Tonga uye ukure\nbhizinesi rako ne\n{{brand}}",
+    "subtitle": "Ipuratifomu yakazara ine webhu uye nharembozha yekugovera, kutengesa, logistics, kutenga, inventory, mari nezvimwe.",
+    "pill_ecosystem": "Zvese mune imwe ecosystem",
+    "pill_cloud": "Mugore, chengetedza uye scalable",
+    "pill_size": "Kumakambani emhando dzese"
+  },
+  "products_block": {
+    "eyebrow": "Zvigadzirwa zvedu",
+    "title": "A [[yakazara ecosystem] yenzvimbo yega yega yebhizinesi rako",
+    "aside": "Yakabatanidzwa mhinduro dzinoshanda pamwe chete kukupa kutonga kwakazara, kushanda nesimba uye kukura kukuru.",
+    "groups": {
+      "money": "Kutonga uye kuunganidza",
+      "flow": "Kutenga uye kutumira",
+      "field": "Kutengesa uye dura"
+    }
+  },
+  "products_page": {
+    "title": "Zvigadzirwa zvinomwe, [[kuvhiya kamwe]]",
+    "text": "Chigadzirwa chimwe nechimwe chinogadzirisa nzvimbo. Pamwe chete vanogovana vatengi, stock, maodha uye kubhadhara."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platform",
+      "card": "Main platform yekutengeserana manejimendi uye kugovera.",
+      "features": [
+        "Kutengesa uye kutenga",
+        "Inventory",
+        "Vatengi uye vatengesi",
+        "Mishumo uye nezvimwe"
+      ],
+      "lead": "Pakati pebasa rako rekutengesa: maodha, mitengo, stock uye vatengi munzvimbo imwechete.",
+      "about": "FullVendor inotsiva maspredishiti akasununguka uye masisitimu. Kubva pano maodha anobuda, inventory inobvunzurudzwa, portfolio yevatengi inochengetwa uye nhamba dzezuva dzinotariswa. Iyo yakasara ye ecosystem inobatanidza kune iyi base.",
+      "benefits": [
+        {
+          "title": "Imwe data master",
+          "text": "Vatengi, zvigadzirwa nemitengo zvakagovaniswa nekutengesa, dura uye mari."
+        },
+        {
+          "title": "Clear zuva nezuva kushanda",
+          "text": "Maodha, kutenga uye stock inomira kugara mumafaira akasiyana."
+        },
+        {
+          "title": "Mishumo yekusarudza",
+          "text": "Kutengesa, margin uye kumirira kunoonekwa pasina kubatanidza tafura nemaoko."
+        },
+        {
+          "title": "Yakagadzirira kukura",
+          "text": "Logistics, mauto ekutengesa kana ERP sums kana oparesheni ichikumbira."
+        }
+      ],
+      "audience": "Zvikwata zvekutengesa uye zvekugovera izvo nhasi zvinoronga bhizinesi pakati peakati masisitimu."
+    },
+    "erp": {
+      "kicker": "Administration",
+      "card": "Kukwana kwekutonga uye kutonga kwemari.",
+      "features": [
+        "Accounting",
+        "Electronic billing",
+        "Mapepa ekushanda",
+        "Fixed assets",
+        "Multi-kambani"
+      ],
+      "lead": "Kutonga uye mari, zvinoenderana nezvinotengeswa uye zvinounzwa.",
+      "about": "FullVendor ERP inovhara accounting, electronic invoicing, payrolls, fixed assets uye multi-company. Zvinotora basa rekutengesa uye rinoshandura kuita zvinyorwa, risiti uye zvinyorwa zvinogona kushandiswa nenharaunda yemari.",
+      "benefits": [
+        {
+          "title": "Yakabatanidzwa accounting",
+          "text": "Chii chinoitika mukutengesa uye kutenga kunodyisa accounting."
+        },
+        {
+          "title": "Marisiti emagetsi",
+          "text": "Iwe unoburitsa uye unodzora kubhadharisa kubva kune imwecheteyo ecosystem."
+        },
+        {
+          "title": "Makambani akasiyana-siyana",
+          "text": "Multi-kambani yemapoka anoshanda pasi peanopfuura mazita ekambani imwe."
+        },
+        {
+          "title": "Payrolls uye assets",
+          "text": "Payroll uye yakagadziriswa midziyo pamwe chete nevamwe vese manejimendi."
+        }
+      ],
+      "audience": "Nzvimbo dzekutonga uye dzemari dzinoda kuvhara nhamba nekushanda chaiko."
+    },
+    "logistics": {
+      "kicker": "Logistics",
+      "card": "Kudzora uye kutarisa kwekuita kwako Logistics.",
+      "features": [
+        "Nzira uye kutakura",
+        "Real-time tracking",
+        "Basa remutyairi",
+        "Route optimization"
+      ],
+      "lead": "Kubva pakurongeka kusvika pakuendesa: nzira, vatyairi uye chaiyo-nguva yekutevera.",
+      "about": "FullVendor Logistics inoronga kugoverwa. Iwe unogadzira nzira, govera madhiraivha uye ona kwainoenda kumwe kunouya. Chikwata chetraffic chinomira zvichienderana nekufona kuti ione kana odha yatumirwa.",
+      "benefits": [
+        {
+          "title": "Nzira dzemazuva ano",
+          "text": "Deliveries yakarongedzerwa nenzvimbo, nguva hwindo uye huwandu."
+        },
+        {
+          "title": "Akapiwa mutyairi",
+          "text": "Nzira imwe neimwe ine munhu anotarisira uye kutevedzana kwakajeka."
+        },
+        {
+          "title": "Tevera",
+          "text": "Iwe unoziva chinounzwa, munzira kana kumira."
+        },
+        {
+          "title": "Makiromita mashoma",
+          "text": "Route optimization inoderedza nguva yekuendesa uye mutengo."
+        }
+      ],
+      "audience": "Kugovera mashandiro ane ngarava dzako kana mapato echitatu."
+    },
+    "supplier": {
+      "kicker": "Shopping",
+      "card": "Portal yevatengesi uye manejimendi ekutenga.",
+      "features": [
+        "Purchase orders",
+        "Quotes",
+        "Supplier management",
+        "Kubatanidzwa nemabhuku"
+      ],
+      "lead": "Vatengesi vako quote, gamuchira maodha uye zadzisa stock pasina maemail asina kusununguka.",
+      "about": "Vendor Supplier inovhura portal yekutenga uye vatengesi kuti vashande pamaodha mamwe chete. Quotes, mirairo yekutenga uye risiti zvakasungirirwa kune inventory ye FullVendor.",
+      "benefits": [
+        {
+          "title": "Odha muchiteshi",
+          "text": "Mutengesi anoona zvekutumira, pasina email ketani."
+        },
+        {
+          "title": "Mashoko akaenzana",
+          "text": "Iwe unobvunza mitengo uye sarudza uine nhoroondo mukuona."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Mamiriro ezvinhu, kutaurirana uye zvakamirira mune imwe rekodhi."
+        },
+        {
+          "title": "Pinda zvinyorwa",
+          "text": "Izvo zvakatengwa zvinoratidzwa muchitoro kana zvagamuchirwa."
+        }
+      ],
+      "audience": "Kutenga zvikwata zvinozadza nevazhinji vatengesi uye zvinoda traceability."
+    },
+    "salesman": {
+      "kicker": "Mobile app",
+      "card": "Mobile application yeboka rekutengesa.",
+      "features": [
+        "Kutarisira kwevatengi",
+        "Kurayira kutora",
+        "Product catalog",
+        "Offline basa"
+      ],
+      "lead": "Mauto ekutengesa anotora maodha mumugwagwa, ane kana pasina chiratidzo.",
+      "about": "FullVendor Sales Man inoisa yako portfolio, katalog uye kurongeka kunotora pafoni yemutengesi. Kana pasina internet, basa rinoenderera uye rinoenderana kana chiratidzo chadzoka. Odha inosvika yakagadzirira kugadzirira uye kuunza.",
+      "benefits": [
+        {
+          "title": "Wallet muhomwe",
+          "text": "Mutengesi anoona vatengi, mamiriro uye zvinhu zvakamirira."
+        },
+        {
+          "title": "Raira pakushanya",
+          "text": "Tora odha nemitengo iripo uye stock."
+        },
+        {
+          "title": "Catalogu yazvino",
+          "text": "Zvigadzirwa, mharidzo uye mitengo isina yekare PDF."
+        },
+        {
+          "title": "Real offline",
+          "text": "Shanda pasina kuvharwa uye synchronize gare gare."
+        }
+      ],
+      "audience": "Vatariri uye vatengesi vemunda mukugovera uye kushandiswa kwemazhinji."
+    },
+    "warehouse": {
+      "kicker": "Mobile app",
+      "card": "Mobile application yewarehouse.",
+      "features": [
+        "Reception uye kutumira",
+        "Kunhonga nekurongedza",
+        "Inventory control",
+        "Barcode kuverenga"
+      ],
+      "lead": "Kutambira, kutora uye kutumira nefoni uye barcode.",
+      "about": "FullVendor Warehouse inotungamira imba yekuchengetera mukutambira, kutora, kurongedza uye kutumira. Kuverenga macode kunoderedza zvikanganiso uye inventory haichaverengeki chete pakupera kwemwedzi.",
+      "benefits": [
+        {
+          "title": "Reception against order",
+          "text": "Chinopinda chinofananidzwa nekutenga."
+        },
+        {
+          "title": "Targeted picking",
+          "text": "Muridzi wechikepe anotevera kurongeka uye anosimbisa chinhu chimwe nechimwe."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Zvigadzirwa zvishoma, batch kana huwandu zvikanganiso."
+        },
+        {
+          "title": "Reliable stock",
+          "text": "Kufamba kwega kwega kunonatsiridza zviwanikwa zvepuratifomu."
+        }
+      ],
+      "audience": "Mamaneja ezvitoro nevaridzi vengarava avo nhasi vanogadzira maodha ane zvinyorwa zvakadhindwa."
+    },
+    "finance": {
+      "kicker": "Mobile app",
+      "card": "Kudzora kwemari kubva kunharembozha yako.",
+      "features": [
+        "Maakaundi anogamuchirwa uye anobhadharwa",
+        "Mutengi mamiriro",
+        "Kubhadhara uye kuyananisa",
+        "Mishumo yezvemari"
+      ],
+      "lead": "Maakaundi anogamuchirwa, mubhadharo uye mamiriro evatengi, kubva pafoni yako.",
+      "about": "FullVendor Finance inoratidza kuunganidzwa parunhare: izvo mutengi wega wega ane chikwereti, izvo kambani yave kuda kubhadhara uye kuti mubhadharo unouya sei. Inoshandiswa kuunganidza mari panguva yekushanya uye kutarisa rejista yemari pasina kuvhura dhesiki.",
+      "benefits": [
+        {
+          "title": "Kuunganidzwa pakushanya",
+          "text": "Mutengesi anoziva kana mutengi ari kuenderana asati atengesa."
+        },
+        {
+          "title": "Inogamuchirwa uye inobhadharwa",
+          "text": "Mativi ese ari maviri ebhokisi mune imwechete app."
+        },
+        {
+          "title": "Kubhadhara uye kuyananisa",
+          "text": "Iwe unonyoresa zvikwereti uye ona izvo zvinoda kuyambuka."
+        },
+        {
+          "title": "Mishumo iripo",
+          "text": "Kuunganidza uye mari zviratidzo pasina kumirira kuvhara."
+        }
+      ],
+      "audience": "Mamaneja, vateresi uye vatengesi vanoda mamiriro emutengi panguva ino."
+    }
+  },
+  "why": {
+    "eyebrow": "Sei FullVendor",
+    "title": "Simudza bhizinesi rako\nnemigumisiro chaiyo",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Makambani anovimba nesu"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Vashandisi vanoshanda"
+      },
+      {
+        "value": "+10",
+        "suffix": "makore",
+        "label": "Mukushanduka-shanduka nguva dzose"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud kuwanikwa"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Zvinoshanda sei",
+    "title": "Kubva pakutengesa kuenda kuunganidzwa, pasina kushandura masisitimu",
+    "text": "Chigadzirwa chimwe nechimwe chinogovera vatengi, stock, maodha uye kubhadhara. Chii chinoitika mumugwagwa kana mudura chinooneka muhofisi ipapo ipapo.",
+    "steps": {
+      "sell": {
+        "title": "Unotengesa",
+        "text": "Kurongeka kunopindwa kuburikidza newebhusaiti kana kuburikidza Sales Man, kunyangwe pasina chiratidzo."
+      },
+      "pick": {
+        "title": "Ready",
+        "text": "Warehouse inogamuchira, inoparadzanisa uye inotumira nebarcode."
+      },
+      "deliver": {
+        "title": "Deliveries",
+        "text": "Logistics inopa nzira uye inotevera kuendesa."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance uye ERP kuvhara kuunganidzwa, marisiti uye nhamba."
+      }
+    }
+  },
+  "band": {
+    "title": "Wagadzirira kuzviona ne[[kushanda kwako]]?",
+    "text": "Isu tinokuratidza ecosystem ine kesi yekugovera yakafanana neyako."
+  },
+  "footer": {
+    "blurb": "Webhu uye mobile platform yekugovera, kutengesa, logistics, kutenga, inventory uye mari.",
+    "products": "Products",
+    "company": "Company",
+    "legal": "Zvemutemo",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "Kodzero dzese dzakachengetwa."
+  },
+  "solutions": {
+    "eyebrow": "Solutions",
+    "title": "Nzvimbo yega yega, yakabatana ne[[same operation]]",
+    "intro": "Sarudza nedambudziko raunoda kugadzirisa. Kumashure, zvigadzirwa zvinogovana ruzivo rwakafanana.",
+    "items": {
+      "commercial": {
+        "title": "Commercial management",
+        "text": "Maodha, mitengo, vatengi uye hesiti yekugovera kwezuva nezuva."
+      },
+      "field": {
+        "title": "kutengesa simba",
+        "text": "Vatengesi vanotora maodha mumugwagwa, online kana pasina."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Reception, picking, dispatch uye stock inogona kuvimbwa nayo."
+      },
+      "logistics": {
+        "title": "Logistics uye kutumira",
+        "text": "Nzira, vatyairi uye chimiro chekutakura kwega kwega."
+      },
+      "purchasing": {
+        "title": "Kutenga uye vatengesi",
+        "text": "Quotes, maodha uye portal kune ani nani anokupa iwe."
+      },
+      "finance": {
+        "title": "Finance uye accounting",
+        "text": "Kuunganidzwa, kubhadhara, kubhadharisa kwemagetsi uye accounting."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Maindasitiri",
+    "title": "Yakagadzirirwa avo [[inofambisa chigadzirwa]]",
+    "intro": "FullVendor yakazvarwa mukugovera uye inoperekedza makambani anotenga, anochengeta, anotengesa uye anounza.",
+    "items": {
+      "wholesale": {
+        "title": "Distribution uye wholesale",
+        "text": "Mitengo yemitengo, portfolio, kugovera uye kuunganidza mune imwe dunhu."
+      },
+      "retail": {
+        "title": "Retail",
+        "text": "Chengetedza uye imba yekuchengetera ine yakabatana stock, kutengesa uye kuzadzazve."
+      },
+      "food": {
+        "title": "Zvokudya nezvinwiwa",
+        "text": "Kazhinji nzira uye dura risingagoni kumira."
+      },
+      "pharma": {
+        "title": "Pharmacy uye kutarisira wega",
+        "text": "Reception, picking uye inventory control ne traceability."
+      },
+      "hardware": {
+        "title": "Hardware uye kuvaka",
+        "text": "Mareferensi mazhinji, vatengesi uye kuendesa kubasa kana kuchengeta."
+      },
+      "fmcg": {
+        "title": "Kushandiswa kwevanhu vakawanda",
+        "text": "Mugwagwa wekutengesa simba uye high turnover replacement."
+      },
+      "manufacturing": {
+        "title": "Kugadzira",
+        "text": "Kutenga, warehouse uye inventory inoenderana nekutonga."
+      },
+      "lastmile": {
+        "title": "Delivery uye maira yekupedzisira",
+        "text": "Nzira, vatyairi uye chimiro chekutakura kwega kwega."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Zviwanikwa",
+    "title": "Mazano akajeka ku[[kurayira kuvhiyiwa]]",
+    "intro": "Mapfupi madhairekitori evanogovera maneja vanozosarudza kuti ndeipi system yekunamatira.",
+    "items": {
+      "unify": {
+        "title": "Maitiro ekubatanidza kugovera kuita imwechete system",
+        "summary": "Chii chekuisa pamwe chete kutanga kana kutengesa, dura uye kuunganidza zvinogara mumafaira akasiyana.",
+        "points": [
+          "Tanga nevatengi, zvigadzirwa uye mitengo: ivo mudzidzisi anoshandiswa nemunhu wese.",
+          "Batanidza odha nestock usati wawedzera mamwe maapplication.",
+          "Inoyera nhamba iri nyore: mirairo inozadzikiswa pasina kudzoreredza fomu."
+        ]
+      },
+      "offline": {
+        "title": "Kutengesa kunomanikidza kushanda pasina Indaneti",
+        "summary": "Chii chaunoda kubva kune yekuraira app kuitira kuti mutengesi arege kumira nekuda kwechiratidzo.",
+        "points": [
+          "Iyo catalog uye chikwama zvinofanirwa kunge zviri parunhare, kwete mugore chete.",
+          "Kurongeka kunochengetwa pamudziyo uye kuiswa kana network yadzoka.",
+          "Pakuwiriranisa, kurongeka kwatopinda mudura."
+        ]
+      },
+      "warehouse": {
+        "title": "Warehouse ine barcode, isina bepa",
+        "summary": "Maitiro ekuenda kubva kune yakadhindwa runyorwa kuenda kwakasimbiswa kunhonga pafoni.",
+        "points": [
+          "Gamuchira uchipesana nekuraira kwekutenga, kwete nekurangarira.",
+          "Simbisa chinhu chimwe nechimwe paunopatsanura. Chipembenene chinocheka mukoridho.",
+          "Iyo yekutumirwa inogadziridza stock iyo mutengesi anoona."
+        ]
+      },
+      "finance": {
+        "title": "Kuunganidzwa kunoenderana nekutengesa",
+        "summary": "Sei mutengesi achifanira kuona chikwereti chemutengi asati atora imwe odha.",
+        "points": [
+          "Kushanya ndiyo nguva yakanakisisa yekuunganidza, kana chikwereti chikaonekwa.",
+          "Kutengesa uye mari zvinofanirwa kutarisa kune mutengi mumwe chete.",
+          "Chirevo chezuva nezuva chakanyanya kukosha kupfuura kunonoka kuvhara."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Mitengo",
+    "title": "Iyo ecosystem iyo [[inokura newe]]",
+    "intro": "Isu hatishambadzire generic rate: mutengo unoenderana nemamodule, vashandisi uye vhoriyamu. Isu tinokuratidza iwe chikuva uye toisa pamwechete chikumbiro nekushanda kwako.",
+    "note": "Iyo demo haina muripo uye haidi kondirakiti.",
+    "recommended": "Recommended",
+    "faq_title": "Mibvunzo inowanzo bvunzwa",
+    "plans": {
+      "essential": {
+        "name": "Essential",
+        "desc": "Kuronga kutengeserana manejimendi uye kugovera pane imwechete chikuva.",
+        "features": [
+          "FullVendor padandemutande",
+          "Kutengesa, kutenga uye kuverenga",
+          "Vatengi, vatengesi uye mishumo",
+          "Vashandisi vemidziyo yehofisi",
+          "Kutanga-up rutsigiro"
+        ],
+        "cta": "Kumbira Demo"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Kune zvikwata zvinotengesa mumugwagwa uye kugadzirira maodha mudura.",
+        "features": [
+          "Zvese Zvinokosha",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Offline basa uye barcode",
+          "More munda uye warehouse vashandisi"
+        ],
+        "cta": "Kumbira Demo"
+      },
+      "corporate": {
+        "name": "Corporate",
+        "desc": "Kumapoka anoda logistics, kutenga, mari uye makambani akasiyana.",
+        "features": [
+          "Complete ecosystem",
+          "Logistics, Vendor Supplier uye Finance",
+          "FullVendor ERP uye multi-tenancy",
+          "Electronic billing uye accounting",
+          "Kuperekedza uye kuwanikwa kwekutanga"
+        ],
+        "cta": "Taura nekutengesa"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ndinofanira kutenga zvigadzirwa zvese here?",
+        "a": "Kwete. Unogona kutanga ne FullVendor wowedzera maapplication kana ERP kana oparesheni ichiida."
+      },
+      "offline": {
+        "q": "Zvikumbiro zvinoshanda here pasina internet?",
+        "a": "Sales Man uye Warehouse ramba uchishanda pasina chiratidzo uye wiriranisa paunenge uchibatanidza zvakare."
+      },
+      "multi": {
+        "q": "Zvinoshanda here kana ndine kambani dzinopfuura imwe?",
+        "a": "Ehe. ERP inofunga akawanda-kambani uye ecosystem inogona kugovera masters pakati pavo."
+      },
+      "demo": {
+        "q": "Demo rinosanganisirei?",
+        "a": "Kuratidzwa kwepuratifomu nekesi yakafanana neyako. Hapana muripo uye hapana chinosungirwa."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Tinokuratidza FullVendor ne[[rudzi rwako rwekushanda]]",
+    "text": "Tiudze nezvekambani yako uye zvaunoda kutanga wahodha. Iyo demo haina mari."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Ngatitaure nezve [[kushanda kwako]]",
+    "text": "Kana iwe uchida demo, chirevo kana kungozvitungamira pakati pezvigadzirwa, siya ruzivo rwako uye isu tichapindura.",
+    "email": "Mail",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Zita",
+    "email": "Mail",
+    "phone": "Phone",
+    "company": "Company",
+    "country": "Nyika",
+    "team": "Saizi yechikwata",
+    "interest": "Chii chaunofarira?",
+    "message": "Mharidzo",
+    "optional": "Optional",
+    "choose": "Sarudza",
+    "interest_all": "Ecosystem yese",
+    "ph_name": "zita renyu",
+    "ph_email": "iwe@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Kambani yako",
+    "ph_country": "Nyika",
+    "ph_message": "Tiudze mashandiro ako nhasi",
+    "privacy_before": "Ini ndinobvuma kushandiswa kwedata rangu maererano ne",
+    "privacy_after": ".",
+    "submit": "Tumira chikumbiro",
+    "sent_title": "Tinogamuchira chikumbiro chako",
+    "sent_text": "Ndatenda. Boka rekutengesa richakunyorera kuti urongedze demo kana kupindura mubvunzo wako.",
+    "error_required": "Pedzisa ndima iyi.",
+    "error_email": "Isa email inoshanda.",
+    "error_phone": "Tarisa foni.",
+    "error_privacy": "Tinoda mvumo yako kuti tishandise ruzivo.",
+    "error_csrf": "Chikamu chapera. Tumirazve fomu racho.",
+    "error_save": "Hatina kukwanisa kuchengetedza chikumbiro. Edza zvakare.",
+    "error_generic": "Ongorora minda yakamaka.",
+    "error_rate": "Imbomira zvishoma usati watumira chimwe chikumbiro.",
+    "team_options": {
+      "1-10": "1 kusvika ku10 vanhu",
+      "11-50": "11 kusvika ku50 vanhu",
+      "51-200": "51 kusvika ku200 vanhu",
+      "201-500": "201 kusvika ku500 vanhu",
+      "500+": "Vanhu vanopfuura mazana mashanu"
+    }
+  },
+  "video": {
+    "title": "FullVendor muminiti imwe",
+    "prev": "Former",
+    "next": "Kutevera",
+    "slides": [
+      {
+        "title": "Imwe ecosystem",
+        "text": "Kutengesa, imba yekuchengetera, kuendesa, kutenga uye mari yekugovana vatengi, stock uye maodha."
+      },
+      {
+        "title": "Webhu uye mobile pamwe chete",
+        "text": "Hofisi inoshanda pachikuva. Mugwagwa uye imba yekuchengetera zvinhu, mumaapps, kunyangwe isina chiratidzo."
+      },
+      {
+        "title": "Yakagadzirirwa kugovera",
+        "text": "Kubva pakurongeka kuenda kune kubhadhara, pasina kupfuudza ruzivo kubva kune imwe faira kuenda kune imwe."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Tsvaga zvigadzirwa, mhinduro, maindasitiri…",
+    "lang_filter": "Tsvaga mutauro",
+    "intro": "Tsvaga zvigadzirwa, mhinduro, maindasitiri uye zviwanikwa.",
+    "empty": "Hatina kuwana mibairo ye”{q}”.",
+    "hint": "Edza kutengesa, dura, nzira kana kuunganidzwa.",
+    "results": "{n} zvawanikwa",
+    "button": "Tsvaga",
+    "kind_product": "Product",
+    "kind_solution": "Solution",
+    "kind_industry": "Indasitiri",
+    "kind_resource": "Resource"
+  },
+  "notfound": {
+    "title": "Peji ino haina",
+    "text": "Iyo link haipo kana kuti yachinja nzvimbo."
+  },
+  "common": {
+    "what": "Chii chinogadzirisa",
+    "features": "Chii chinosanganisirwa",
+    "benefits": "Nei zvichikosha",
+    "for_who": "Ndeyaani?",
+    "related": "Zvakare mune ecosystem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Sales nhasi",
+      "orders": "Orders",
+      "clients": "Vatengi",
+      "products": "Products"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "purchases": "Shopping",
+      "inventory": "Inventory",
+      "clients": "Vatengi",
+      "reports": "Reports"
+    },
+    "chart": "Sales",
+    "channel": "Kugoverwa nechannel",
+    "channels": [
+      "Store",
+      "Distribution",
+      "Mutengesi",
+      "Vamwe"
+    ],
+    "orders": "Latest orders",
+    "col_order": "Order",
+    "col_client": "Mutengi",
+    "col_status": "State",
+    "col_total": "Total",
+    "status": [
+      "Delivered",
+      "Munzira",
+      "Mhete"
+    ],
+    "top": "Zvigadzirwa zvinotengeswa zvakanakisa",
+    "product": "Product",
+    "sales_menu": [
+      "Vatengi",
+      "Orders",
+      "Products",
+      "Nzira",
+      "Synchronize"
+    ],
+    "warehouse_menu": [
+      "Reception",
+      "Kunhonga",
+      "Inventory",
+      "Dispatch",
+      "Synchronize"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Privacy Policy",
+    "privacy_intro": "Iyi mutemo inotsanangura zvatinoita nedata raunosiya mumafomu pane ino saiti.",
+    "privacy": [
+      {
+        "title": "Ndeapi data yatinounganidza",
+        "text": "Kana iwe ukakumbira demo kana kutinyorera kwatiri, isu tinochengetedza zita, kambani, email, nhamba dzerunhare kana iwe ukazviratidzira, nyika, saizi yechikwata, chigadzirwa chekufarira uye meseji. Isu tinorekodha zvakare zuva, mutauro wepeji uye IP kero, kudzivirira kutumira zvisizvo."
+      },
+      {
+        "title": "Tinozvishandisirei?",
+        "text": "Isu tinoshandisa iyi data chete kukupindura iwe, kuronga demo uye kugadzirira chikumbiro chekutengesa. Isu hativatengese kana kuvapa kune runyorwa rwevechitatu mapato."
+      },
+      {
+        "title": "Vanochengeterwa kupi uye kwenguva yakareba sei?",
+        "text": "Zvikumbiro zvinochengetwa pasevha yesaiti ino. Isu tinozvichengeta kwenguva inodiwa kuti tikushumire iwe uye kutengeserana kutevera, uye tinozvidzima kana iwe ukatikumbira kana pazvisingachadikanwa."
+      },
+      {
+        "title": "Kodzero dzako",
+        "text": "Iwe unogona kukumbira kuwana, kururamisa kana kudzima data rako kubva pafomu rekuonana, richiratidza mumeseji. Kana iyo kambani ikaburitsa email pane ino webhusaiti, unogona zvakare kunyora ipapo."
+      }
+    ],
+    "terms_title": "Mitemo yekushandisa",
+    "terms_intro": "Aya mamiriro anoshanda pakushandiswa kweiyi FullVendor yekutumira saiti.",
+    "terms": [
+      {
+        "title": "Commercial information",
+        "text": "Zvinyorwa, muenzaniso nhamba dzedashibhodhi uye tsananguro zvinosuma chikuva. Ivo vanogona kugadziridzwa kana chigadzirwa chachinja uye chisiri chakavharwa chinopihwa."
+      },
+      {
+        "title": "Iyo demo haisi chibvumirano",
+        "text": "Kuendesa fomu hakuite chisungo chekutenga kana kuchengetedza mutengo. Chero kontrakiti inobvumiranwa zvakasiyana, mukunyora, nehukuru hwayo uye mamiriro."
+      },
+      {
+        "title": "Site content",
+        "text": "Iyo FullVendor trademark, mazita echigadzirwa uye zviri mumapeji aya ndezvevaridzi vazvo. Havagoni kukopa kuti varatidze chimwe chigadzirwa."
+      },
+      {
+        "title": "Kushandiswa kunogamuchirwa",
+        "text": "Usashandise mafomu kuendesa ruzivo rwenhema, spam kana zviri kunze kwemutemo. Tinogona kufuratira zvikumbiro zvisingaenderane nehurukuro chaiyo yebhizinesi."
+      }
+    ]
+  }
+}

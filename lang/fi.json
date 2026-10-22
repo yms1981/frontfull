@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Hallitse ja kasvata yritystäsi",
+    "home_desc": "All-in-one-alusta verkko- ja mobiiliratkaisuilla jakeluun, myyntiin, logistiikkaan, ostoon, varastoon ja rahoitukseen.",
+    "products_title": "Tuotteet | FullVendor",
+    "products_desc": "Tutustu ekosysteemiin FullVendor: kaupallinen alusta, ERP, logistiikka, toimittajat ja myynti, varasto- ja rahoitussovellukset.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Ratkaisut | FullVendor",
+    "solutions_desc": "Ratkaisut kaupalliseen johtamiseen, myyntiin, varastoon, logistiikkaan, ostoon ja rahoitukseen.",
+    "industries_title": "Teollisuus | FullVendor",
+    "industries_desc": "FullVendor jakeluun, vähittäismyyntiin, ruokaan, apteekkiin, laitteistoihin, massakulutukseen, valmistukseen ja viimeiseen mailiin.",
+    "pricing_title": "Hinnat | FullVendor",
+    "pricing_desc": "Tärkeät, ammatilliset ja yrityssuunnitelmat. Ehdotus kootaan moduulien, käyttäjien ja volyymin mukaan.",
+    "resources_title": "Resurssit | FullVendor",
+    "resources_desc": "Lyhyet oppaat jakelun yhtenäistämiseen, offline-myyntiin, varaston järjestämiseen ja maksun saamiseen ajallaan.",
+    "contact_title": "Ota yhteyttä | FullVendor",
+    "contact_desc": "Kirjoita meille saadaksesi lisätietoja FullVendor:sta tai sovita keskustelu myyntitiimin kanssa.",
+    "demo_title": "Pyydä demo | FullVendor",
+    "demo_desc": "Pyydä FullVendor:n demo ja kiertele alustaa toimintasi kaltaisella kotelolla.",
+    "privacy_title": "Yksityisyys | FullVendor",
+    "terms_title": "Ehdot | FullVendor",
+    "search_title": "Hae | FullVendor",
+    "notfound_title": "Sivua ei löydy | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Kotisivu",
+    "products": "Tuotteet",
+    "solutions": "Ratkaisut",
+    "industries": "Toimialat",
+    "pricing": "hinnat",
+    "resources": "Resurssit",
+    "contact": "Ota yhteyttä",
+    "open_menu": "Avaa valikko",
+    "close": "Lähellä"
+  },
+  "cta": {
+    "demo": "Pyydä demo",
+    "contact": "Ota yhteyttä",
+    "video": "Katso video",
+    "talk": "Keskustele myyjien kanssa",
+    "all_products": "Katso kaikki tuotteet",
+    "home": "Palaa etusivulle"
+  },
+  "a11y": {
+    "skip": "Siirry sisältöön",
+    "primary": "Päänavigointi",
+    "crumbs": "Navigointireitti",
+    "search": "Etsiä",
+    "language": "Kieli"
+  },
+  "hero": {
+    "eyebrow": "Kaikki yhdellä alustalla",
+    "title": "Hallitse ja kasva\nyrityksesi kanssa\n{{brand}}",
+    "subtitle": "Täydellinen alusta, joka sisältää verkko- ja mobiiliratkaisuja jakeluun, myyntiin, logistiikkaan, ostoon, varastoon, rahoitukseen ja muuhun.",
+    "pill_ecosystem": "Kaikki yhdessä ekosysteemissä",
+    "pill_cloud": "Pilvessä, turvallinen ja skaalautuva",
+    "pill_size": "Kaikenkokoisille yrityksille"
+  },
+  "products_block": {
+    "eyebrow": "Tuotteemme",
+    "title": "[[täydellinen ekosysteemi]] jokaiselle yrityksesi alueelle",
+    "aside": "Integroidut ratkaisut, jotka toimivat yhdessä ja antavat sinulle täydellisen hallinnan, toiminnan tehokkuuden ja suuremman kasvun.",
+    "groups": {
+      "money": "Hallinto ja keräys",
+      "flow": "Ostokset ja toimitus",
+      "field": "Myynti ja varasto"
+    }
+  },
+  "products_page": {
+    "title": "Seitsemän tuotetta, [[yksittäinen käyttö]]",
+    "text": "Jokainen tuote ratkaisee alueen. Yhdessä he jakavat asiakkaat, varastot, tilaukset ja maksut."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Alusta",
+      "card": "Pääalusta kaupalliseen hallintaan ja jakeluun.",
+      "features": [
+        "Myynnit ja ostot",
+        "Varasto",
+        "Asiakkaat ja toimittajat",
+        "Raportit ja paljon muuta"
+      ],
+      "lead": "Kaupallisen toimintasi keskus: tilaukset, hinnat, varastot ja asiakkaat yhdessä paikassa.",
+      "about": "FullVendor korvaa jakelijan löysät laskentataulukot ja järjestelmät. Sieltä tulevat tilaukset, neuvotellaan varastosta, hoidetaan asiakassalkku ja tarkastellaan päivän lukuja. Muu ekosysteemi liittyy tähän tukikohtaan.",
+      "benefits": [
+        {
+          "title": "Yksi tietokanta",
+          "text": "Asiakkaat, tuotteet ja hinnat jaetaan myynnin, varaston ja rahoituksen kanssa."
+        },
+        {
+          "title": "Selkeä päivittäinen toiminta",
+          "text": "Tilaukset, ostot ja varastot lakkaavat asumasta eri tiedostoissa."
+        },
+        {
+          "title": "Raportit päätettäväksi",
+          "text": "Myynnit, marginaali ja vireillä olevat näkyvät ilman, että taulukkoa kootaan käsin."
+        },
+        {
+          "title": "Valmiina kasvamaan",
+          "text": "Logistiikka-, myynti- tai ERP-summat, kun operaatio sitä pyytää."
+        }
+      ],
+      "audience": "Kaupalliset ja jakelutiimit, jotka nykyään koordinoivat liiketoimintaa useiden järjestelmien välillä."
+    },
+    "erp": {
+      "kicker": "Hallinto",
+      "card": "Täydellinen hallinto- ja taloushallinto.",
+      "features": [
+        "Kirjanpito",
+        "Sähköinen laskutus",
+        "Työarkit",
+        "Kiinteä omaisuus",
+        "Moniyritys"
+      ],
+      "lead": "Hallinto ja talous, linjassa sen kanssa, mitä todella myydään ja toimitetaan.",
+      "about": "FullVendor ERP kattaa kirjanpidon, sähköisen laskutuksen, palkanlaskennan, käyttöomaisuuden ja moniyrityksen. Se ottaa kaupallisen toiminnan ja muuntaa sen kirjauksiksi, kuiteiksi ja tiliotteiksi, joita talousalue voi käyttää.",
+      "benefits": [
+        {
+          "title": "Yhdistetty kirjanpito",
+          "text": "Mitä tapahtuu myynnin ja oston syötteiden kirjanpidossa."
+        },
+        {
+          "title": "Sähköiset kuitit",
+          "text": "Annat ja hallitset laskutusta samasta ekosysteemistä."
+        },
+        {
+          "title": "Erilaisia ​​yrityksiä",
+          "text": "Moniyritys ryhmille, jotka toimivat useammalla kuin yhdellä yrityksen nimellä."
+        },
+        {
+          "title": "Palkkasummat ja varat",
+          "text": "Palkkalaskenta ja käyttöomaisuus sekä muu johto."
+        }
+      ],
+      "audience": "Hallinto- ja talousalueet, jotka haluavat sulkea numerot todelliseen toimintaan."
+    },
+    "logistics": {
+      "kicker": "Logistiikka",
+      "card": "Logistisen toiminnan ohjaus ja seuranta.",
+      "features": [
+        "Reitit ja toimitukset",
+        "Reaaliaikainen seuranta",
+        "Kuljettajan toimeksianto",
+        "Reitin optimointi"
+      ],
+      "lead": "Tilauksesta toimitukseen: reitit, kuljettajat ja reaaliaikainen seuranta.",
+      "about": "FullVendor Logistics järjestää jakelun. Luot reittejä, määrität kuljettajia ja katsot mihin kukin toimitus on menossa. Liikennetiimi pysähtyy puheluista riippuen selvittääkseen, onko tilaus lähetetty.",
+      "benefits": [
+        {
+          "title": "Päivän reitit",
+          "text": "Toimitukset vyöhykkeen, aikaikkunan ja kapasiteetin mukaan."
+        },
+        {
+          "title": "Määrätty kuljettaja",
+          "text": "Jokaisella reitillä on vastuuhenkilö ja selkeä järjestys."
+        },
+        {
+          "title": "Seuranta",
+          "text": "Tiedät mitä toimitetaan, matkalla tai pysäytettynä."
+        },
+        {
+          "title": "Kilometrejä vähemmän",
+          "text": "Reitin optimointi vähentää toimitusaikaa ja kustannuksia."
+        }
+      ],
+      "audience": "Jakelutoiminta oman kaluston tai kolmansien osapuolten kanssa."
+    },
+    "supplier": {
+      "kicker": "Ostokset",
+      "card": "Portaali tavarantoimittajille ja ostojen hallinnassa.",
+      "features": [
+        "Ostotilaukset",
+        "Lainausmerkit",
+        "Toimittajan hallinta",
+        "Integrointi varaston kanssa"
+      ],
+      "lead": "Toimittajasi tarjoavat tarjouksen, vastaanottavat tilauksia ja täydentävät varastoja ilman irrallisia sähköposteja.",
+      "about": "Vendor Supplier avaa portaalin ostajille ja toimittajille samojen tilausten parissa. Tarjoukset, ostotilaukset ja kuitti on sidottu FullVendor:n inventaarioon.",
+      "benefits": [
+        {
+          "title": "Tilaukset kanavalla",
+          "text": "Toimittaja näkee mitä toimittaa ilman sähköpostiketjua."
+        },
+        {
+          "title": "Vertailukelpoisia lainauksia",
+          "text": "Kysyt hintoja ja valitset historiaa ajatellen."
+        },
+        {
+          "title": "Toimittaja Mestari",
+          "text": "Ehdot, yhteystiedot ja vireillä olevat tiedot yhdessä tietueessa."
+        },
+        {
+          "title": "Anna varasto",
+          "text": "Se, mitä ostettiin, näkyy varastossa, kun se vastaanotetaan."
+        }
+      ],
+      "audience": "Ostoryhmät, jotka täydentyvät useilla toimittajilla ja tarvitsevat jäljitettävyyttä."
+    },
+    "salesman": {
+      "kicker": "Mobiilisovellus",
+      "card": "Mobiilisovellus myyntitiimille.",
+      "features": [
+        "Asiakashallinta",
+        "Tilauksen vastaanotto",
+        "Tuoteluettelo",
+        "Offline-työ"
+      ],
+      "lead": "Myyntihenkilöstö ottaa vastaan ​​tilauksia kadulla signaalilla tai ilman.",
+      "about": "FullVendor Sales Man laittaa portfoliosi, luettelosi ja tilauksesi vastaanoton myyjän puhelimeen. Jos Internetiä ei ole, työ jatkuu ja synkronoituu signaalin palatessa. Tilaus saapuu valmiina valmisteltavaksi ja toimitettavaksi.",
+      "benefits": [
+        {
+          "title": "Lompakko taskussa",
+          "text": "Myyjä näkee asiakkaat, ehdot ja vireillä olevat tuotteet."
+        },
+        {
+          "title": "Tilaa vierailulla",
+          "text": "Ota tilaus voimassa olevilla hinnoilla ja varastolla."
+        },
+        {
+          "title": "Katalogi ajan tasalla",
+          "text": "Tuotteet, esitykset ja hinnat ilman vanhaa PDF-tiedostoa."
+        },
+        {
+          "title": "Todella offline-tilassa",
+          "text": "Työskentele ilman peittoa ja synkronoi myöhemmin."
+        }
+      ],
+      "audience": "Esimiehet ja kenttämyyjät jakelussa ja massakulutuksessa."
+    },
+    "warehouse": {
+      "kicker": "Mobiilisovellus",
+      "card": "Mobiilisovellus varastoon.",
+      "features": [
+        "Vastaanotto ja lähetys",
+        "Keräily ja pakkaaminen",
+        "Varaston valvonta",
+        "Viivakoodin lukeminen"
+      ],
+      "lead": "Vastaanotto, nouto ja lähetys puhelimella ja viivakoodilla.",
+      "about": "FullVendor Warehouse ohjaa varastoa vastaanotossa, poiminnassa, pakkaamisessa ja lähettämisessä. Koodien lukeminen vähentää virheitä ja varastoa ei enää lasketa vain kuun lopussa.",
+      "benefits": [
+        {
+          "title": "Vastaanotto tilausta vastaan",
+          "text": "Sisääntuloa verrataan ostoon."
+        },
+        {
+          "title": "Kohdennettu poiminta",
+          "text": "Laivanomistaja seuraa tilausta ja vahvistaa jokaisen tuotteen."
+        },
+        {
+          "title": "Viivakoodit",
+          "text": "Vähemmän tuote-, erä- tai määrävirheitä."
+        },
+        {
+          "title": "Luotettava varasto",
+          "text": "Jokainen liike päivittää alustan inventaarion."
+        }
+      ],
+      "audience": "Varastopäälliköt ja laivanvarustajat, jotka tänään valmistelevat tilauksia painetuilla listoilla."
+    },
+    "finance": {
+      "kicker": "Mobiilisovellus",
+      "card": "Taloushallinta matkapuhelimellasi.",
+      "features": [
+        "Myyntisaamiset ja velat",
+        "Asiakkaan tila",
+        "Maksut ja täsmäytykset",
+        "Taloudelliset raportit"
+      ],
+      "lead": "Myyntisaamiset, maksut ja asiakastila puhelimestasi.",
+      "about": "FullVendor Finance näyttää perinnän mobiilissa: mitä kukin asiakas on velkaa, mitä yritys aikoo maksaa ja miten maksut tulevat. Sitä käytetään rahan keräämiseen vierailun aikana ja kassakoneeseen katsomiseen pöytää avaamatta.",
+      "benefits": [
+        {
+          "title": "Keräys vierailulla",
+          "text": "Myyjä tietää ennen myyntiä, onko asiakas ajan tasalla."
+        },
+        {
+          "title": "Saatava ja maksettava",
+          "text": "Laatikon molemmat puolet samassa sovelluksessa."
+        },
+        {
+          "title": "Maksut ja täsmäytykset",
+          "text": "Rekisteröi krediittejä ja katso mitä pitää ylittää."
+        },
+        {
+          "title": "Raportit käsillä",
+          "text": "Nouto- ja kassaindikaattorit odottamatta sulkemista."
+        }
+      ],
+      "audience": "Esimiehet, keräilijät ja myyjät, jotka tarvitsevat asiakkaan tilannetta tällä hetkellä."
+    }
+  },
+  "why": {
+    "eyebrow": "miksi FullVendor",
+    "title": "Tehosta liiketoimintaasi\ntodellisilla tuloksilla",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Yritykset luottavat meihin"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiiviset käyttäjät"
+      },
+      {
+        "value": "+10",
+        "suffix": "vuotta",
+        "label": "Jatkuvassa evoluutiossa"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Pilvien saatavuus"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Miten se toimii",
+    "title": "Myynnistä noutoon, järjestelmiä vaihtamatta",
+    "text": "Jokainen tuote jakaa asiakkaat, varastot, tilaukset ja maksut. Se, mitä kadulla tai varastossa tapahtuu, näkyy heti toimistossa.",
+    "steps": {
+      "sell": {
+        "title": "Sinä myyt",
+        "text": "Tilaus tehdään nettisivujen kautta tai Sales Man:n kautta, myös ilman signaalia."
+      },
+      "pick": {
+        "title": "Valmis",
+        "text": "Warehouse vastaanottaa, erottaa ja lähettää viivakoodilla."
+      },
+      "deliver": {
+        "title": "Toimitukset",
+        "text": "Logistics määrittää reitin ja seuraa toimitusta."
+      },
+      "collect": {
+        "title": "Kobrat",
+        "text": "Finance ja ERP sulkevat keräyksen, kuitit ja numerot."
+      }
+    }
+  },
+  "band": {
+    "title": "Oletko valmis näkemään sen [[operaatiosi]] kanssa?",
+    "text": "Näytämme sinulle ekosysteemin samankaltaisella jakelutapauksella kuin sinun."
+  },
+  "footer": {
+    "blurb": "Verkko- ja mobiilialusta jakeluun, myyntiin, logistiikkaan, ostoon, varastoon ja rahoitukseen.",
+    "products": "Tuotteet",
+    "company": "Yritys",
+    "legal": "Laillinen",
+    "privacy": "Yksityisyys",
+    "terms": "Ehdot",
+    "rights": "Kaikki oikeudet pidätetään."
+  },
+  "solutions": {
+    "eyebrow": "Ratkaisut",
+    "title": "Jokainen alue, joka on yhdistetty [[sama toiminto]]",
+    "intro": "Valitse ongelman perusteella, jonka haluat ratkaista. Takana tuotteilla on samat tiedot.",
+    "items": {
+      "commercial": {
+        "title": "Kaupallinen hallinto",
+        "text": "Tilaukset, hinnat, asiakkaat ja varasto päivittäiseen jakeluun."
+      },
+      "field": {
+        "title": "myyntihenkilöstö",
+        "text": "Myyjät ottavat tilauksia kadulla, verkossa tai offline-tilassa."
+      },
+      "warehouse": {
+        "title": "Store",
+        "text": "Vastaanotto, keräily, lähetys ja varasto johon voi luottaa."
+      },
+      "logistics": {
+        "title": "Logistiikka ja toimitus",
+        "text": "Reitit, kuljettajat ja kunkin toimituksen tila."
+      },
+      "purchasing": {
+        "title": "Ostot ja toimittajat",
+        "text": "Lainaukset, tilaukset ja portaali kenelle tahansa, joka toimittaa sinulle."
+      },
+      "finance": {
+        "title": "Rahoitus ja kirjanpito",
+        "text": "Perinnät, maksut, sähköinen laskutus ja kirjanpito."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Toimialat",
+    "title": "Tehty niille, jotka [[siirtää tuotetta]]",
+    "intro": "FullVendor syntyi jakelussa ja seuraa yrityksiä, jotka ostavat, varastoivat, myyvät ja toimittavat.",
+    "items": {
+      "wholesale": {
+        "title": "Jakelu ja tukkumyynti",
+        "text": "Hinnastot, portfolio, jakelu ja keräys yhdessä piirissä."
+      },
+      "retail": {
+        "title": "Vähittäiskauppa",
+        "text": "Kauppa ja varasto yhdistettynä varastoon, myyntiin ja täydennyksiin."
+      },
+      "food": {
+        "title": "Ruoat ja juomat",
+        "text": "Säännölliset reitit ja varasto, joka ei voi pysähtyä."
+      },
+      "pharma": {
+        "title": "Apteekki ja henkilökohtainen hoito",
+        "text": "Vastaanotto, keräily ja varastonvalvonta jäljitettävillä."
+      },
+      "hardware": {
+        "title": "Laitteet ja rakentaminen",
+        "text": "Paljon referenssejä, toimittajia ja toimituksia töihin tai varastoon."
+      },
+      "fmcg": {
+        "title": "Massakulutus",
+        "text": "Katumyyntihenkilöstö ja korkea vaihtuvuus korvaaminen."
+      },
+      "manufacturing": {
+        "title": "Valmistus",
+        "text": "Ostot, varasto ja varasto linjassa hallinnon kanssa."
+      },
+      "lastmile": {
+        "title": "Toimitus ja viimeinen kilometri",
+        "text": "Reitit, kuljettajat ja kunkin toimituksen tila."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resurssit",
+    "title": "Selkeitä ideoita [[tilaa operaatio]]",
+    "intro": "Lyhyet oppaat jakelupäälliköille, jotka aikovat päättää, minkä järjestelmän kanssa pitäytyvät.",
+    "items": {
+      "unify": {
+        "title": "Kuinka yhdistää jakelu yhdeksi järjestelmäksi",
+        "summary": "Mitä koota ensin, kun myynti, varasto ja kokoelmat ovat eri tiedostoissa.",
+        "points": [
+          "Aloita asiakkaista, tuotteista ja hinnoista: he ovat opettaja, jota kaikki käyttävät.",
+          "Yhdistä tilaus varastoon ennen kuin lisäät sovelluksia.",
+          "Se mittaa yksinkertaista numeroa: tilaukset, jotka on suoritettu täyttämättä lomaketta."
+        ]
+      },
+      "offline": {
+        "title": "Myyntihenkilöstö työskentelee offline-tilassa",
+        "summary": "Mitä tilaussovellukselta vaaditaan, jotta myyjä ei pysähdy signaalin takia.",
+        "points": [
+          "Luettelon ja lompakon on oltava puhelimessa, ei vain pilvessä.",
+          "Tilaus tallennetaan laitteelle ja ladataan, kun verkko palaa.",
+          "Synkronoinnin yhteydessä tilaus saapuu jo varastoon."
+        ]
+      },
+      "warehouse": {
+        "title": "Varasto viivakoodilla, ilman paperia",
+        "summary": "Kuinka siirtyä painetusta listasta puhelimessa vahvistettuun poimimiseen.",
+        "points": [
+          "Vastaanota ostotilausta vastaan, ei muistia vastaan.",
+          "Vahvista jokainen kohde erotettaessa. Vika leikkaa käytävään.",
+          "Lähetys päivittää myyjän näkemän varaston."
+        ]
+      },
+      "finance": {
+        "title": "Kokoelma linjassa myyntiin",
+        "summary": "Miksi myyjän pitäisi nähdä asiakkaan velka ennen uuden tilauksen tekemistä?",
+        "points": [
+          "Vierailu on paras aika periä, jos velkaa näkyy.",
+          "Myynnin ja rahoituksen on katsottava samaa asiakasta.",
+          "Päivittäinen myöhässä oleva raportti on arvokkaampi kuin myöhäinen sulkeminen."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "hinnat",
+    "title": "Ekosysteemi, joka [[kasvaa kanssasi]]",
+    "intro": "Emme julkaise yleistä hintaa: hinta riippuu moduuleista, käyttäjistä ja määrästä. Näytämme sinulle alustan ja teemme ehdotuksen toiminnastasi.",
+    "note": "Demo on maksuton eikä vaadi sopimusta.",
+    "recommended": "Suositeltava",
+    "faq_title": "Usein kysytyt kysymykset",
+    "plans": {
+      "essential": {
+        "name": "Olennaista",
+        "desc": "Järjestä kaupallinen hallinta ja jakelu yhdelle alustalle.",
+        "features": [
+          "FullVendor verkkoalusta",
+          "Myynnit, ostot ja varasto",
+          "Asiakkaat, toimittajat ja raportit",
+          "Toimistolaitteiden käyttäjät",
+          "Aloitustuki"
+        ],
+        "cta": "Pyydä demo"
+      },
+      "professional": {
+        "name": "Ammattilainen",
+        "desc": "Tiimille, jotka myyvät kadulla ja valmistelevat tilauksia varastossa.",
+        "features": [
+          "Kaikki välttämätön",
+          "Sovellus FullVendor Sales Man",
+          "Sovellus FullVendor Warehouse",
+          "Offline-työ ja viivakoodit",
+          "Lisää kenttä- ja varastokäyttäjiä"
+        ],
+        "cta": "Pyydä demo"
+      },
+      "corporate": {
+        "name": "Yritys",
+        "desc": "Logistiikkaa, hankintaa, rahoitusta ja erilaisia ​​yrityksiä tarvitseville ryhmille.",
+        "features": [
+          "Täydellinen ekosysteemi",
+          "Logistics, Vendor Supplier ja Finance",
+          "FullVendor ERP ja monivuokrasuhde",
+          "Sähköinen laskutus ja kirjanpito",
+          "Säestys ja ensisijainen saatavuus"
+        ],
+        "cta": "Keskustele myyjien kanssa"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Pitääkö minun ostaa kaikki tuotteet?",
+        "a": "Ei. Voit aloittaa FullVendor:sta ja lisätä sovelluksia tai ERP, kun toiminto sitä vaatii."
+      },
+      "offline": {
+        "q": "Toimivatko sovellukset ilman Internetiä?",
+        "a": "Sales Man ja Warehouse jatkavat toimintaansa ilman signaalia ja synkronoivat yhteyden muodostamisen yhteydessä."
+      },
+      "multi": {
+        "q": "Toimiiko se, jos minulla on useampi kuin yksi yritys?",
+        "a": "Kyllä. ERP harkitsee moniyritystä ja ekosysteemi voi jakaa isäntiä niiden välillä."
+      },
+      "demo": {
+        "q": "Mitä demo sisältää?",
+        "a": "Esittely alustalla, jossa on samanlainen kotelo kuin sinun. Ei kuluja eikä velvoitteita."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Näytämme FullVendor [[toimintatyyppisi]]",
+    "text": "Kerro ensin yrityksestäsi ja mitä haluat tilata. Demo ei maksa mitään."
+  },
+  "contact": {
+    "eyebrow": "Ota yhteyttä",
+    "title": "Puhutaanpa [[operaatiostasi]]",
+    "text": "Jos haluat demon, ehdotuksen tai vain orientoitua tuotteiden välillä, jätä tietosi, niin me vastaamme.",
+    "email": "Mail",
+    "phone": "Puhelin",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nimi",
+    "email": "Mail",
+    "phone": "Puhelin",
+    "company": "Yritys",
+    "country": "Maa",
+    "team": "Joukkueen koko",
+    "interest": "Mikä sinua kiinnostaa?",
+    "message": "Viesti",
+    "optional": "Valinnainen",
+    "choose": "Valitse",
+    "interest_all": "Koko ekosysteemi",
+    "ph_name": "sinun nimesi",
+    "ph_email": "sinä@yritys.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Sinun yrityksesi",
+    "ph_country": "Maa",
+    "ph_message": "Kerro meille, miten toimit tänään",
+    "privacy_before": "Hyväksyn tietojeni käytön",
+    "privacy_after": ".",
+    "submit": "Lähetä pyyntö",
+    "sent_title": "Vastaanotamme pyyntösi",
+    "sent_text": "Kiitos. Myyntitiimi kirjoittaa sinulle koordinoidakseen demon tai vastatakseen kysymykseesi.",
+    "error_required": "Täytä tämä kenttä.",
+    "error_email": "Anna kelvollinen sähköpostiosoite.",
+    "error_phone": "Tarkista puhelin.",
+    "error_privacy": "Tarvitsemme suostumuksesi yhteystietojen käyttöön.",
+    "error_csrf": "Istunto on vanhentunut. Lähetä lomake uudelleen.",
+    "error_save": "Emme voineet tallentaa pyyntöä. Yritä uudelleen.",
+    "error_generic": "Tarkista merkityt kentät.",
+    "error_rate": "Odota hetki ennen kuin lähetät uuden pyynnön.",
+    "team_options": {
+      "1-10": "1-10 henkilöä",
+      "11-50": "11-50 henkilöä",
+      "51-200": "51-200 henkilöä",
+      "201-500": "201-500 henkilöä",
+      "500+": "Yli 500 henkilöä"
+    }
+  },
+  "video": {
+    "title": "FullVendor yhdessä minuutissa",
+    "prev": "Entinen",
+    "next": "Jälkeen",
+    "slides": [
+      {
+        "title": "Yksi ekosysteemi",
+        "text": "Myynti, varastointi, toimitus, osto ja rahoitus jakavat asiakkaat, varastot ja tilaukset."
+      },
+      {
+        "title": "Verkko ja mobiili yhdessä",
+        "text": "Toimisto toimii alustalla. Katu ja varasto, sovelluksissa, jopa ilman signaalia."
+      },
+      {
+        "title": "Tehty levitettäväksi",
+        "text": "Tilauksesta maksuun siirtämättä tietoja tiedostosta toiseen."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Etsi tuotteita, ratkaisuja, toimialoja…",
+    "lang_filter": "Hakukieli",
+    "intro": "Etsi tuotteita, ratkaisuja, toimialoja ja resursseja.",
+    "empty": "Emme löytäneet tuloksia haulle \"{q}\".",
+    "hint": "Kokeile myyntiä, varastoa, reittejä tai kokoelmia.",
+    "results": "{n} tulokset",
+    "button": "Etsiä",
+    "kind_product": "Tuote",
+    "kind_solution": "Ratkaisu",
+    "kind_industry": "Teollisuus",
+    "kind_resource": "Resurssi"
+  },
+  "notfound": {
+    "title": "Tämä sivu ei ole",
+    "text": "Linkkiä ei ole olemassa tai se on vaihtanut sijaintia."
+  },
+  "common": {
+    "what": "Mikä ratkaisee",
+    "features": "Mitä sisältyy",
+    "benefits": "Miksi sillä on väliä",
+    "for_who": "Kenelle se on tarkoitettu?",
+    "related": "Myös ekosysteemissä"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Myynti tänään",
+      "orders": "Tilaukset",
+      "clients": "Asiakkaat",
+      "products": "Tuotteet"
+    },
+    "sidebar": {
+      "dashboard": "Kojelauta",
+      "sales": "Myynti",
+      "purchases": "Ostokset",
+      "inventory": "Varasto",
+      "clients": "Asiakkaat",
+      "reports": "Raportit"
+    },
+    "chart": "Myynti",
+    "channel": "Jakelu kanavan mukaan",
+    "channels": [
+      "Store",
+      "Jakelu",
+      "Tukkukauppias",
+      "muut"
+    ],
+    "orders": "Viimeisimmät tilaukset",
+    "col_order": "Tilata",
+    "col_client": "Asiakas",
+    "col_status": "Osavaltio",
+    "col_total": "Kokonais",
+    "status": [
+      "Toimitettu",
+      "Matkalla",
+      "Korvarengas"
+    ],
+    "top": "Myydyimmät tuotteet",
+    "product": "Tuote",
+    "sales_menu": [
+      "Asiakkaat",
+      "Tilaukset",
+      "Tuotteet",
+      "Reitit",
+      "Synkronoida"
+    ],
+    "warehouse_menu": [
+      "Vastaanotto",
+      "Poiminta",
+      "Varasto",
+      "Lähettää",
+      "Synkronoida"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Tietosuojakäytäntö",
+    "privacy_intro": "Tämä käytäntö selittää, mitä teemme tiedoilla, jotka jätät tämän sivuston lomakkeisiin.",
+    "privacy": [
+      {
+        "title": "Mitä tietoja keräämme",
+        "text": "Jos pyydät demoa tai kirjoitat meille, tallennamme nimen, yrityksen, sähköpostiosoitteen, puhelinnumeron, jos annat sen, maan, tiimin koon, kiinnostavan tuotteen ja viestin. Tallennamme myös päivämäärän, sivun kielen ja IP-osoitteen väärinkäytösten estämiseksi."
+      },
+      {
+        "title": "Mihin käytämme niitä?",
+        "text": "Käytämme näitä tietoja vain vastataksemme sinulle, koordinoidaksemme demoa ja laatiaksemme kaupallisen ehdotuksen. Emme myy niitä tai anna niitä kolmansien osapuolten luetteloon."
+      },
+      {
+        "title": "Missä niitä säilytetään ja kuinka kauan?",
+        "text": "Pyynnöt tallennetaan tämän sivuston palvelimelle. Säilytämme niitä niin kauan kuin tarvitaan palvelemaan sinua ja kaupallista seurantaa, ja poistamme ne, kun pyydät meitä tai kun niitä ei enää tarvita."
+      },
+      {
+        "title": "Sinun oikeutesi",
+        "text": "Voit pyytää tietojesi käsittelyä, oikaisua tai poistamista yhteydenottolomakkeella ilmoittamalla siitä viestissä. Jos yritys julkaisee sähköpostin tällä sivustolla, voit myös kirjoittaa sinne."
+      }
+    ],
+    "terms_title": "Käyttöehdot",
+    "terms_intro": "Nämä ehdot koskevat tämän FullVendor:n lähetyssivuston käyttöä.",
+    "terms": [
+      {
+        "title": "Kaupalliset tiedot",
+        "text": "Tekstit, esimerkkikuviot kojetaulusta ja kuvaukset esittelevät alustan. Niitä voidaan säätää tuotteen muuttuessa, eivätkä ne ole suljettu tarjous."
+      },
+      {
+        "title": "Demo ei ole sopimus",
+        "text": "Lomakkeen lähettäminen ei velvoita ostamaan tai varaamaan hintaa. Sopimuksista sovitaan erikseen, kirjallisesti, sen laajuus ja ehdot."
+      },
+      {
+        "title": "Sivuston sisältö",
+        "text": "FullVendor tavaramerkki, tuotenimet ja näiden sivujen sisältö kuuluvat niiden omistajille. Niitä ei voi kopioida toisen tuotteen esittelyyn."
+      },
+      {
+        "title": "Hyväksyttävä käyttö",
+        "text": "Älä käytä lomakkeita väärien tietojen, roskapostin tai laittoman sisällön lähettämiseen. Saatamme jättää huomiotta pyynnöt, jotka eivät vastaa todellista liikekeskustelua."
+      }
+    ]
+  }
+}

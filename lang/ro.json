@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Gestionați-vă și dezvoltați-vă afacerea",
+    "home_desc": "Platformă all-in-one cu soluții web și mobile pentru distribuție, vânzări, logistică, achiziții, inventariere și finanțare.",
+    "products_title": "Produse | FullVendor",
+    "products_desc": "Cunoașteți ecosistemul FullVendor: platformă comercială, ERP, logistică, furnizori și vânzări, aplicații de depozit și finanțe.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Soluții | FullVendor",
+    "solutions_desc": "Solutii pentru management comercial, forta de vanzari, depozit, logistica, achizitii si finantare.",
+    "industries_title": "Industrii | FullVendor",
+    "industries_desc": "FullVendor pentru distribuție, vânzare cu amănuntul, alimentație, farmacie, hardware, consum de masă, producție și ultima milă.",
+    "pricing_title": "Preturi | FullVendor",
+    "pricing_desc": "Planuri esențiale, profesionale și corporative. Propunerea este alcătuită în funcție de module, utilizatori și volum.",
+    "resources_title": "Resurse | FullVendor",
+    "resources_desc": "Scurte ghiduri pentru a unifica distribuția, a vinde offline, a organiza depozitul și a fi plătit la timp.",
+    "contact_title": "Contact | FullVendor",
+    "contact_desc": "Scrieți-ne pentru a afla despre FullVendor sau pentru a coordona o conversație cu echipa de vânzări.",
+    "demo_title": "Solicitați demonstrație | FullVendor",
+    "demo_desc": "Solicitați o demonstrație pentru FullVendor și vizitați platforma cu un caz similar cu operațiunea dvs.",
+    "privacy_title": "Confidențialitate | FullVendor",
+    "terms_title": "Termeni | FullVendor",
+    "search_title": "Caută | FullVendor",
+    "notfound_title": "Pagina nu a fost găsită | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Pagina de start",
+    "products": "Produse",
+    "solutions": "Soluții",
+    "industries": "Industrii",
+    "pricing": "Preturi",
+    "resources": "Resurse",
+    "contact": "Contact",
+    "open_menu": "Deschide meniul",
+    "close": "Aproape"
+  },
+  "cta": {
+    "demo": "Solicitați o demonstrație",
+    "contact": "Contactaţi-ne",
+    "video": "Urmăriți videoclipul",
+    "talk": "Vorbește cu vânzările",
+    "all_products": "Vezi toate produsele",
+    "home": "Reveniți la pagina de start"
+  },
+  "a11y": {
+    "skip": "Treci la conținut",
+    "primary": "Navigație principală",
+    "crumbs": "Ruta de navigație",
+    "search": "Caută",
+    "language": "Limbă"
+  },
+  "hero": {
+    "eyebrow": "Toate într-o singură platformă",
+    "title": "Gestionați și creșteți\nafacerea ta cu\n{{brand}}",
+    "subtitle": "O platformă completă cu soluții web și mobile pentru distribuție, vânzări, logistică, achiziții, inventariere, finanțe și multe altele.",
+    "pill_ecosystem": "Totul într-un singur ecosistem",
+    "pill_cloud": "În cloud, sigur și scalabil",
+    "pill_size": "Pentru companii de toate dimensiunile"
+  },
+  "products_block": {
+    "eyebrow": "Produsele noastre",
+    "title": "Un [[ecosistem complet]] pentru fiecare zonă a afacerii tale",
+    "aside": "Soluții integrate care lucrează împreună pentru a vă oferi control total, eficiență operațională și o creștere mai mare.",
+    "groups": {
+      "money": "Administrare și colectare",
+      "flow": "Achizitii si livrare",
+      "field": "Vanzari si depozitare"
+    }
+  },
+  "products_page": {
+    "title": "Șapte produse, [[o singură operațiune]]",
+    "text": "Fiecare produs rezolvă o zonă. Împreună împărtășesc clienți, stoc, comenzi și plăți."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platformă",
+      "card": "Platforma principala de management comercial si distributie.",
+      "features": [
+        "Vânzări și achiziții",
+        "Inventar",
+        "Clienți și furnizori",
+        "Rapoarte și multe altele"
+      ],
+      "lead": "Centrul operațiunii tale comerciale: comenzi, prețuri, stoc și clienți într-un singur loc.",
+      "about": "FullVendor înlocuiește foile de calcul și sistemele libere ale unui distribuitor. De aici ies comenzi, se consultă inventarul, se îngrijește portofoliul de clienți și se analizează cifrele zilei. Restul ecosistemului se conectează la această bază.",
+      "benefits": [
+        {
+          "title": "Un singur master de date",
+          "text": "Clienții, produsele și prețurile sunt împărțite cu vânzările, depozitul și finanțele."
+        },
+        {
+          "title": "Operare zilnică clară",
+          "text": "Comenzile, achizițiile și stocul nu mai trăiesc în fișiere diferite."
+        },
+        {
+          "title": "Rapoarte de decis",
+          "text": "Vânzările, marja și în așteptare sunt văzute fără a aduna manual un tabel."
+        },
+        {
+          "title": "Gata să crească",
+          "text": "Logistică, forță de vânzări sau sume ERP atunci când operațiunea o solicită."
+        }
+      ],
+      "audience": "Echipe comerciale și de distribuție care coordonează astăzi afacerile între mai multe sisteme."
+    },
+    "erp": {
+      "kicker": "Administrare",
+      "card": "Management administrativ și financiar complet.",
+      "features": [
+        "Contabilitate",
+        "Facturare electronică",
+        "Fișe de lucru",
+        "Mijloace fixe",
+        "Multi-companie"
+      ],
+      "lead": "Administrație și finanțe, aliniate cu ceea ce este vândut și livrat efectiv.",
+      "about": "FullVendor ERP acoperă contabilitatea, facturarea electronică, statele de plată, mijloacele fixe și multi-societate. Preia operațiunea comercială și o transformă în înregistrări, chitanțe și extrase pe care le poate folosi zona financiară.",
+      "benefits": [
+        {
+          "title": "Contabilitate conectată",
+          "text": "Ce se întâmplă în vânzări și achiziții alimentează contabilitatea."
+        },
+        {
+          "title": "Chitanțe electronice",
+          "text": "Emiteți și controlați facturarea din același ecosistem."
+        },
+        {
+          "title": "Diverse companii",
+          "text": "Multi-companie pentru grupuri care operează sub mai mult de un nume de companie."
+        },
+        {
+          "title": "Statii de plata si active",
+          "text": "Salarizare și mijloace fixe împreună cu restul managementului."
+        }
+      ],
+      "audience": "Zone administrative și financiare care doresc să închidă cifrele cu operațiunea reală."
+    },
+    "logistics": {
+      "kicker": "Logistică",
+      "card": "Controlul și monitorizarea operațiunii dumneavoastră logistice.",
+      "features": [
+        "Rute și livrări",
+        "Urmărire în timp real",
+        "Atribuirea șoferului",
+        "Optimizarea rutei"
+      ],
+      "lead": "De la comandă până la livrare: rute, șoferi și urmărire în timp real.",
+      "about": "FullVendor Logistics organizează distribuirea. Creați rute, atribuiți șoferi și vedeți unde se duce fiecare livrare. Echipa de trafic se oprește în funcție de apeluri pentru a afla dacă comanda a fost expediată.",
+      "benefits": [
+        {
+          "title": "Traseele zilei",
+          "text": "Livrări comandate pe zonă, fereastră orară și capacitate."
+        },
+        {
+          "title": "Sofer desemnat",
+          "text": "Fiecare traseu are un responsabil și o secvență clară."
+        },
+        {
+          "title": "Urmare",
+          "text": "Știți ce este livrat, pe drum sau oprit."
+        },
+        {
+          "title": "Mai puțini kilometri",
+          "text": "Optimizarea rutelor reduce timpul și costul de livrare."
+        }
+      ],
+      "audience": "Operațiuni de distribuție cu flotă proprie sau terți."
+    },
+    "supplier": {
+      "kicker": "Cumpărături",
+      "card": "Portal pentru furnizori și managementul achizițiilor.",
+      "features": [
+        "Comenzi de cumpărare",
+        "Citate",
+        "Managementul furnizorilor",
+        "Integrare cu inventarul"
+      ],
+      "lead": "Furnizorii tăi cotează, primesc comenzi și completează stocul fără e-mailuri libere.",
+      "about": "Vendor Supplier deschide un portal pentru cumpărături și furnizori să lucreze la aceleași comenzi. Cotațiile, comenzile și chitanța sunt legate de inventarul de la FullVendor.",
+      "benefits": [
+        {
+          "title": "Comenzi pe un canal",
+          "text": "Furnizorul vede ce să livreze, fără un lanț de e-mail."
+        },
+        {
+          "title": "Citate comparabile",
+          "text": "Cereți prețuri și alegeți cu istoricul în vedere."
+        },
+        {
+          "title": "Maestru furnizor",
+          "text": "Condiții, contacte și în așteptare într-o singură înregistrare."
+        },
+        {
+          "title": "Introduceți inventarul",
+          "text": "Ceea ce a fost achiziționat se reflectă în stoc atunci când este primit."
+        }
+      ],
+      "audience": "Echipe de achiziții care se completează cu mai mulți furnizori și au nevoie de trasabilitate."
+    },
+    "salesman": {
+      "kicker": "Aplicație mobilă",
+      "card": "Aplicație mobilă pentru echipa de vânzări.",
+      "features": [
+        "Managementul clienților",
+        "Preluarea comenzii",
+        "Catalog de produse",
+        "Munca offline"
+      ],
+      "lead": "Forța de vânzări preia comenzi pe stradă, cu sau fără semnal.",
+      "about": "FullVendor Sales Man își pune portofoliul, catalogul și preluarea comenzii pe telefonul vânzătorului. Dacă nu există internet, munca continuă și se sincronizează când semnalul revine. Comanda sosește gata de pregătire și livrare.",
+      "benefits": [
+        {
+          "title": "Portofel în buzunar",
+          "text": "Vânzătorul vede clienții, condițiile și articolele în așteptare."
+        },
+        {
+          "title": "Comanda la vizita",
+          "text": "Preluați comanda cu prețurile curente și stocul."
+        },
+        {
+          "title": "Catalog la zi",
+          "text": "Produse, prezentări și prețuri fără un PDF vechi."
+        },
+        {
+          "title": "Adevărat offline",
+          "text": "Lucrați fără acoperire și sincronizați mai târziu."
+        }
+      ],
+      "audience": "Supraveghetori si agenti de vanzari pe teren in distributie si consum de masa."
+    },
+    "warehouse": {
+      "kicker": "Aplicație mobilă",
+      "card": "Aplicație mobilă pentru depozit.",
+      "features": [
+        "Recepție și expediere",
+        "Culegere și ambalare",
+        "Controlul stocurilor",
+        "Citirea codului de bare"
+      ],
+      "lead": "Recepție, ridicare și expediere cu telefon și cod de bare.",
+      "about": "FullVendor Warehouse ghideaza depozitul in receptie, picking, ambalare si expediere. Citirea codurilor reduce erorile, iar inventarul nu se mai numără doar la sfârșitul lunii.",
+      "benefits": [
+        {
+          "title": "Recepție împotriva comenzii",
+          "text": "Ceea ce intră este comparat cu achiziția."
+        },
+        {
+          "title": "Culegere direcționată",
+          "text": "Armatorul urmează comanda și confirmă fiecare articol."
+        },
+        {
+          "title": "Codurile de bare",
+          "text": "Mai puține erori de produs, lot sau cantitate."
+        },
+        {
+          "title": "Stoc de încredere",
+          "text": "Fiecare mutare actualizează inventarul platformei."
+        }
+      ],
+      "audience": "Manageri de depozite și armatori care astăzi pregătesc comenzi cu liste tipărite."
+    },
+    "finance": {
+      "kicker": "Aplicație mobilă",
+      "card": "Control financiar de pe mobil.",
+      "features": [
+        "Conturi de încasat și de plătit",
+        "Statutul clientului",
+        "Plăți și reconcilieri",
+        "Rapoarte financiare"
+      ],
+      "lead": "Conturi de încasat, plăți și statutul clientului, de pe telefonul dvs.",
+      "about": "FullVendor Finance arată colectarea de pe mobil: ce datorează fiecare client, ce urmează să plătească compania și cum vin plățile. Este folosit pentru a colecta bani în timpul vizitei și pentru a te uita la casa de marcat fără a deschide biroul.",
+      "benefits": [
+        {
+          "title": "Colectare la vizită",
+          "text": "Vânzătorul știe dacă clientul este la curent înainte de a vinde."
+        },
+        {
+          "title": "De primit și de plătit",
+          "text": "Ambele părți ale cutiei în aceeași aplicație."
+        },
+        {
+          "title": "Plăți și reconcilieri",
+          "text": "Înregistrați credite și vedeți ce trebuie trecut."
+        },
+        {
+          "title": "Rapoarte la îndemână",
+          "text": "Indicatori de colectare și numerar fără a aștepta o închidere."
+        }
+      ],
+      "audience": "Manageri, colecționari și agenți de vânzări care au nevoie de situația clientului în acest moment."
+    }
+  },
+  "why": {
+    "eyebrow": "De ce FullVendor",
+    "title": "Îmbunătățește-ți afacerea\ncu rezultate reale",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Companiile au încredere în noi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Utilizatori activi"
+      },
+      {
+        "value": "+10",
+        "suffix": "ani",
+        "label": "In continua evolutie"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibilitatea cloud"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Cum funcționează",
+    "title": "De la vânzare la colectare, fără schimbarea sistemelor",
+    "text": "Fiecare produs împărtășește clienți, stoc, comenzi și plăți. Ceea ce se întâmplă pe stradă sau în depozit apare instantaneu în birou.",
+    "steps": {
+      "sell": {
+        "title": "Tu vinzi",
+        "text": "Comanda se introduce prin intermediul site-ului sau prin Sales Man, chiar și fără semnal."
+      },
+      "pick": {
+        "title": "Gata",
+        "text": "Warehouse primește, separă și expediază cu cod de bare."
+      },
+      "deliver": {
+        "title": "Livrări",
+        "text": "Logistics atribuie ruta și urmează livrarea."
+      },
+      "collect": {
+        "title": "Cobrele",
+        "text": "Finance și ERP închid colecția, chitanțele și numerele."
+      }
+    }
+  },
+  "band": {
+    "title": "Ești gata să-l vezi cu [[operațiunea ta]]?",
+    "text": "Vă arătăm ecosistemul cu un caz de distribuție similar cu al dumneavoastră."
+  },
+  "footer": {
+    "blurb": "Platformă web și mobilă pentru distribuție, vânzări, logistică, achiziții, inventariere și finanțare.",
+    "products": "Produse",
+    "company": "Companie",
+    "legal": "Legal",
+    "privacy": "Confidențialitate",
+    "terms": "Termeni",
+    "rights": "Toate drepturile rezervate."
+  },
+  "solutions": {
+    "eyebrow": "Soluții",
+    "title": "Fiecare zonă, conectată la [[aceeași operațiune]]",
+    "intro": "Alegeți după problema pe care doriți să o rezolvați. În spate, produsele împărtășesc aceleași informații.",
+    "items": {
+      "commercial": {
+        "title": "Management comercial",
+        "text": "Comenzi, prețuri, clienți și inventar pentru distribuția de zi cu zi."
+      },
+      "field": {
+        "title": "forta de vanzari",
+        "text": "Furnizori care preiau comenzi pe stradă, online sau offline."
+      },
+      "warehouse": {
+        "title": "Magazin",
+        "text": "Recepție, picking, expediere și un stoc de încredere."
+      },
+      "logistics": {
+        "title": "Logistica si livrare",
+        "text": "Rute, șoferi și starea fiecărei livrări."
+      },
+      "purchasing": {
+        "title": "Achizitii si furnizori",
+        "text": "Cotații, comenzi și un portal pentru oricine vă aprovizionează."
+      },
+      "finance": {
+        "title": "Finanțe și contabilitate",
+        "text": "Încasări, plăți, facturare electronică și contabilitate."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrii",
+    "title": "Făcut pentru cei care [[mută produsul]]",
+    "intro": "FullVendor s-a născut în distribuție și însoțește companiile care cumpără, depozitează, vând și livrează.",
+    "items": {
+      "wholesale": {
+        "title": "Distributie si en-gros",
+        "text": "Liste de prețuri, portofoliu, distribuție și colectare într-un singur circuit."
+      },
+      "retail": {
+        "title": "Cu amănuntul",
+        "text": "Magazin și depozit cu stoc conectat, vânzări și reaprovizionare."
+      },
+      "food": {
+        "title": "Mâncare și băuturi",
+        "text": "Trasee frecvente și un depozit care nu se poate opri."
+      },
+      "pharma": {
+        "title": "Farmacie și îngrijire personală",
+        "text": "Recepție, picking și control al stocurilor cu trasabilitate."
+      },
+      "hardware": {
+        "title": "Feronerie și construcții",
+        "text": "Multe referințe, furnizori și livrări la serviciu sau magazin."
+      },
+      "fmcg": {
+        "title": "Consum în masă",
+        "text": "Forță de vânzare stradală și înlocuire mare de afaceri."
+      },
+      "manufacturing": {
+        "title": "Fabricare",
+        "text": "Achiziții, depozitare și stocuri aliniate cu administrația."
+      },
+      "lastmile": {
+        "title": "Livrare și ultima milă",
+        "text": "Rute, șoferi și starea fiecărei livrări."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resurse",
+    "title": "Idei clare pentru a [[ordona operațiunea]]",
+    "intro": "Scurte ghiduri pentru managerii de distribuție care vor decide cu ce sistem să rămână.",
+    "items": {
+      "unify": {
+        "title": "Cum să unificați distribuția într-un singur sistem",
+        "summary": "Ce să adunați mai întâi când vânzările, depozitul și colecțiile se află în fișiere diferite.",
+        "points": [
+          "Începeți cu clienți, produse și prețuri: ei sunt profesorul pe care îl folosește toată lumea.",
+          "Conectați comanda cu stocul înainte de a adăuga mai multe aplicații.",
+          "Măsoară un număr simplu: comenzile îndeplinite fără a reface formularul."
+        ]
+      },
+      "offline": {
+        "title": "Forța de vânzări lucrează offline",
+        "summary": "Ce să ceri de la o aplicație de comandă pentru ca vânzătorul să nu se oprească din cauza semnalului.",
+        "points": [
+          "Catalogul și portofelul trebuie să fie pe telefon, nu doar în cloud.",
+          "Comanda este salvată pe dispozitiv și încărcată când rețeaua revine.",
+          "La sincronizare, comanda intră deja în depozit."
+        ]
+      },
+      "warehouse": {
+        "title": "Depozit cu cod de bare, fara hartie",
+        "summary": "Cum să treci de la lista tipărită la alegerea confirmată pe telefon.",
+        "points": [
+          "Primește împotriva comenzii de cumpărare, nu împotriva memoriei.",
+          "Confirmați fiecare element la separare. Gângăria intră în hol.",
+          "Expedierea actualizează stocul pe care îl vede vânzătorul."
+        ]
+      },
+      "finance": {
+        "title": "Colectare aliniată cu vânzarea",
+        "summary": "De ce vânzătorul ar trebui să vadă datoria clientului înainte de a prelua o altă comandă.",
+        "points": [
+          "Vizita este cel mai bun moment pentru a încasa, dacă datoria este vizibilă.",
+          "Vânzările și finanțele trebuie să privească același client.",
+          "Un raport zilnic de întârziere valorează mai mult decât o închidere târzie."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preturi",
+    "title": "Un ecosistem care [[crește cu tine]]",
+    "intro": "Nu publicăm un tarif generic: costul depinde de module, utilizatori și volum. Vă arătăm platforma și pregătim o propunere cu operațiunea dvs.",
+    "note": "Demo-ul nu are costuri și nu necesită contract.",
+    "recommended": "Recomandat",
+    "faq_title": "Întrebări frecvente",
+    "plans": {
+      "essential": {
+        "name": "Esenţial",
+        "desc": "Pentru a organiza managementul comercial și distribuția pe o singură platformă.",
+        "features": [
+          "FullVendor platforma web",
+          "Vânzări, achiziții și inventariere",
+          "Clienți, furnizori și rapoarte",
+          "Utilizatori de echipamente de birou",
+          "Suport la pornire"
+        ],
+        "cta": "Solicitați o demonstrație"
+      },
+      "professional": {
+        "name": "Profesional",
+        "desc": "Pentru echipele care vând pe stradă și pregătesc comenzi în depozit.",
+        "features": [
+          "Totul esential",
+          "Aplicație FullVendor Sales Man",
+          "Aplicație FullVendor Warehouse",
+          "Muncă offline și coduri de bare",
+          "Mai mulți utilizatori de teren și depozit"
+        ],
+        "cta": "Solicitați o demonstrație"
+      },
+      "corporate": {
+        "name": "Corporativ",
+        "desc": "Pentru grupurile care au nevoie de logistică, achiziții, finanțe și diverse companii.",
+        "features": [
+          "Ecosistem complet",
+          "Logistics, Vendor Supplier și Finance",
+          "FullVendor ERP și multi-chiriere",
+          "Facturare electronică și contabilitate",
+          "Acompaniament și disponibilitate prioritară"
+        ],
+        "cta": "Vorbește cu vânzările"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Trebuie să cumpăr toate produsele?",
+        "a": "Nu. Puteți începe cu FullVendor și adăugați aplicații sau ERP când operațiunea are nevoie."
+      },
+      "offline": {
+        "q": "Aplicațiile funcționează fără internet?",
+        "a": "Sales Man și Warehouse continuă să lucreze fără semnal și se sincronizează la reconectare."
+      },
+      "multi": {
+        "q": "Funcționează dacă am mai multe companii?",
+        "a": "Da. ERP are în vedere multi-companie, iar ecosistemul poate împărtăși stăpâni între ei."
+      },
+      "demo": {
+        "q": "Ce include demo-ul?",
+        "a": "Un tur al platformei cu o carcasă asemănătoare cu a ta. Fără costuri și fără obligații."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Vă arătăm FullVendor cu [[tipul dvs. de operație]]",
+    "text": "Spune-ne despre compania ta și despre ce vrei să comanzi mai întâi. Demo-ul nu are niciun cost."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Să vorbim despre [[operațiunea ta]]",
+    "text": "Daca vrei un demo, o propunere sau doar sa te orientezi intre produse, lasa-ti informatiile si iti vom raspunde.",
+    "email": "Mail",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Nume",
+    "email": "Mail",
+    "phone": "Telefon",
+    "company": "Companie",
+    "country": "Ţară",
+    "team": "Dimensiunea echipei",
+    "interest": "Ce te intereseaza?",
+    "message": "Mesaj",
+    "optional": "Opțional",
+    "choose": "Selecta",
+    "interest_all": "Întregul ecosistem",
+    "ph_name": "Numele dumneavoastră",
+    "ph_email": "tu@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Compania ta",
+    "ph_country": "Ţară",
+    "ph_message": "Spune-ne cum lucrezi astăzi",
+    "privacy_before": "Accept utilizarea datelor mele conform",
+    "privacy_after": ".",
+    "submit": "Trimiteți cererea",
+    "sent_title": "Primim cererea dvs",
+    "sent_text": "Multumesc. Echipa de vânzări vă va scrie pentru a coordona demonstrația sau pentru a vă răspunde la întrebare.",
+    "error_required": "Completați acest câmp.",
+    "error_email": "Introduceți un e-mail valid.",
+    "error_phone": "Verificați telefonul.",
+    "error_privacy": "Avem nevoie de acordul dvs. pentru a folosi datele de contact.",
+    "error_csrf": "Sesiunea a expirat. Retrimiteți formularul.",
+    "error_save": "Nu am putut salva cererea. Încearcă din nou.",
+    "error_generic": "Examinați câmpurile marcate.",
+    "error_rate": "Vă rugăm să așteptați un moment înainte de a trimite o altă solicitare.",
+    "team_options": {
+      "1-10": "1 până la 10 persoane",
+      "11-50": "11 până la 50 de persoane",
+      "51-200": "51 până la 200 de persoane",
+      "201-500": "201 până la 500 de persoane",
+      "500+": "Peste 500 de oameni"
+    }
+  },
+  "video": {
+    "title": "FullVendor într-un minut",
+    "prev": "Fost",
+    "next": "Urmând",
+    "slides": [
+      {
+        "title": "Un singur ecosistem",
+        "text": "Vânzări, depozitare, livrare, achiziții și finanțare acționează clienții, stocul și comenzile."
+      },
+      {
+        "title": "Web și mobil împreună",
+        "text": "Biroul lucrează pe platformă. Strada și depozitul, în aplicații, chiar și fără semnal."
+      },
+      {
+        "title": "Făcut pentru a distribui",
+        "text": "De la comandă la plată, fără a trece informații dintr-un fișier în altul."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Căutați produse, soluții, industrii...",
+    "lang_filter": "Căutați limba",
+    "intro": "Căutați produse, soluții, industrii și resurse.",
+    "empty": "Nu am găsit rezultate pentru „{q}”.",
+    "hint": "Încercați vânzări, depozit, rute sau colecții.",
+    "results": "{n} rezultate",
+    "button": "Caută",
+    "kind_product": "Produs",
+    "kind_solution": "Soluţie",
+    "kind_industry": "Industrie",
+    "kind_resource": "Resursă"
+  },
+  "notfound": {
+    "title": "Această pagină nu este",
+    "text": "Linkul nu există sau și-a schimbat locația."
+  },
+  "common": {
+    "what": "Ce rezolvă",
+    "features": "Ce este inclus",
+    "benefits": "De ce contează",
+    "for_who": "Pentru cine este?",
+    "related": "De asemenea, în ecosistem"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vânzări astăzi",
+      "orders": "Comenzi",
+      "clients": "Clienții",
+      "products": "Produse"
+    },
+    "sidebar": {
+      "dashboard": "Bord",
+      "sales": "Vânzări",
+      "purchases": "Cumpărături",
+      "inventory": "Inventar",
+      "clients": "Clienții",
+      "reports": "Rapoarte"
+    },
+    "chart": "Vânzări",
+    "channel": "Distributie pe canal",
+    "channels": [
+      "Magazin",
+      "Distributie",
+      "Angrosist",
+      "Alţii"
+    ],
+    "orders": "Ultimele comenzi",
+    "col_order": "Comanda",
+    "col_client": "Client",
+    "col_status": "Stat",
+    "col_total": "Total",
+    "status": [
+      "Livrat",
+      "Drum",
+      "Cercel"
+    ],
+    "top": "Cele mai vândute produse",
+    "product": "Produs",
+    "sales_menu": [
+      "Clienții",
+      "Comenzi",
+      "Produse",
+      "Trasee",
+      "Sincroniza"
+    ],
+    "warehouse_menu": [
+      "Recepţie",
+      "Culegerea",
+      "Inventar",
+      "Expediere",
+      "Sincroniza"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politica de confidențialitate",
+    "privacy_intro": "Această politică explică ce facem cu datele pe care le lăsați în formularele de pe acest site.",
+    "privacy": [
+      {
+        "title": "Ce date colectăm",
+        "text": "Dacă solicitați un demo sau ne scrieți, salvăm numele, firma, emailul, numărul de telefon dacă îl indicați, țara, dimensiunea echipei, produsul de interes și mesajul. Înregistrăm, de asemenea, data, limba paginii și adresa IP, pentru a preveni trimiterile abuzive."
+      },
+      {
+        "title": "La ce le folosim?",
+        "text": "Folosim aceste date doar pentru a vă răspunde, a coordona o demonstrație și a pregăti o propunere comercială. Nu le vindem și nu le dăm unei liste de terți."
+      },
+      {
+        "title": "Unde sunt depozitate și pentru cât timp?",
+        "text": "Cererile sunt stocate pe serverul acestui site. Le păstrăm pentru timpul necesar pentru a vă servi și urmărirea comercială și le ștergem atunci când ne cereți sau când nu mai sunt necesare."
+      },
+      {
+        "title": "Drepturile tale",
+        "text": "Puteți solicita accesul, corectarea sau ștergerea datelor dvs. din formularul de contact, indicând acest lucru în mesaj. Dacă compania publică un e-mail pe acest site, puteți scrie și acolo."
+      }
+    ],
+    "terms_title": "Termeni de utilizare",
+    "terms_intro": "Aceste condiții se aplică utilizării acestui site de trimitere FullVendor.",
+    "terms": [
+      {
+        "title": "Informații comerciale",
+        "text": "Textele, exemplele de cifre din tabloul de bord și descrierile introduc platforma. Ele pot fi ajustate atunci când produsul se schimbă și nu sunt o ofertă închisă."
+      },
+      {
+        "title": "Demo-ul nu este un contract",
+        "text": "Trimiterea formularului nu creează obligația de a cumpăra sau de a rezerva un preț. Orice contract este convenit separat, în scris, cu scopul și condițiile acestuia."
+      },
+      {
+        "title": "Conținutul site-ului",
+        "text": "Marca comercială FullVendor, numele produselor și conținutul acestor pagini aparțin proprietarilor acestora. Nu pot fi copiate pentru a prezenta un alt produs."
+      },
+      {
+        "title": "Utilizare acceptabilă",
+        "text": "Nu utilizați formularele pentru a trimite informații false, spam sau conținut ilegal. Este posibil să ignorăm solicitările care nu corespund unei conversații de afaceri reale."
+      }
+    ]
+  }
+}

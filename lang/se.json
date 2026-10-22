@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Hálddaš ja ovddida iežat fitnodaga",
+    "home_desc": "Buot ovttas lávdi mas leat neahtta- ja mobiilačovdosat juohkimii, vuovdimii, logistihkkii, oastimii, gálvojođuide ja ruhtadeapmái.",
+    "products_title": "Buvttat | FullVendor",
+    "products_desc": "Oahpásmuvvat ekovuogádahkii FullVendor: gávppálaš lávdi, ERP, logistihkka, buvttadeaddjit ja vuovdin, gálvojođus ja ruhtadanáppat.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Čoavddus | FullVendor",
+    "solutions_desc": "Čoavddus gávppálaš jođiheapmái, vuovdinbargui, gálvojođuide, logistihkkii, oastimii ja ruhtadeapmái.",
+    "industries_title": "Ealáhusat | FullVendor",
+    "industries_desc": "FullVendor juohkima, gávppašeami, biepmu, apotehka, rusttegiid, massingeavaheami, ráhkadeami ja maŋimuš miilla várás.",
+    "pricing_title": "Haddi | FullVendor",
+    "pricing_desc": "Deaŧalaš, fágalaš ja fitnodatplánat. Evttohus lea biddjon oktii modulaid, geavaheddjiid ja voluma mielde.",
+    "resources_title": "Resurssaid | FullVendor",
+    "resources_desc": "Oanehis rávvagat movt ovttastahttit juohkima, vuovdit offline, ordnet gálvojođu ja oažžut bálkká áigeguovdilis áigái.",
+    "contact_title": "Váldde oktavuođa | FullVendor",
+    "contact_desc": "Čális midjiide oahppat FullVendor birra dahje koordineret ságastallama vuovdinjoavkkuin.",
+    "demo_title": "Bivdde demo | FullVendor",
+    "demo_desc": "Bivdde FullVendor demo ja vánddarda lávddi mas lea ášši mii sulastahttá du doaimmaid.",
+    "privacy_title": "Persovnnalašvuohta | FullVendor",
+    "terms_title": "Eavttut | FullVendor",
+    "search_title": "Ohcat | FullVendor",
+    "notfound_title": "Siidu ii gávdnon | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Ruovttusiidu",
+    "products": "Buvttat",
+    "solutions": "Čoavddus",
+    "industries": "Ealáhusat",
+    "pricing": "Haddi",
+    "resources": "Návccat",
+    "contact": "Oktavuohta",
+    "open_menu": "Raba meny",
+    "close": "Lahka"
+  },
+  "cta": {
+    "demo": "Bivdde demo",
+    "contact": "Váldde oktavuođa minguin",
+    "video": "Geahča video",
+    "talk": "Ságastallan vuovdiiguin",
+    "all_products": "Geahča buot buktagiid",
+    "home": "Máhccat ruovttusiidui"
+  },
+  "a11y": {
+    "skip": "Mannet sisdollui",
+    "primary": "Váldonavigašuvdna",
+    "crumbs": "Navigerenjohtolat",
+    "search": "Ohcat",
+    "language": "Giella"
+  },
+  "hero": {
+    "eyebrow": "Buot ovtta lávddis",
+    "title": "Hálddaš ja ovdánit\ndu fitnodat\n{{brand}}",
+    "subtitle": "Olles lávdi mas leat neahtta- ja mobiilačovdosat juohkimii, vuovdimii, logistihkkii, oastimii, gálvojođuide, ruhtadeapmái ja earáide.",
+    "pill_ecosystem": "Buot ovtta ekovuogádagas",
+    "pill_cloud": "Cloudas, sihkkaris ja sturronvejolaš",
+    "pill_size": "Buot sturrodaga fitnodagaide"
+  },
+  "products_block": {
+    "eyebrow": "Min buktagat",
+    "title": "[[olles ekovuogádat]] juohke fitnodaga suorgái",
+    "aside": "Integrerejuvvon čovdosat mat ovttasbarget addit dutnje ollislaš kontrolla, doaibmaeffektiivavuođa ja stuorát ovdáneami.",
+    "groups": {
+      "money": "Hálddašeapmi ja čoaggin",
+      "flow": "Oastit ja sáddet",
+      "field": "Vuovdin ja gálvojođus"
+    }
+  },
+  "products_page": {
+    "title": "Čieža buktaga, [[okta doaibma]]",
+    "text": "Juohke buvtta čoavdá muhtun guovllu. Ovttas sii juogadit kundariid, gálvvuid, diŋgojumiid ja máksima."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Vuođđu",
+      "card": "Váldolávdi gávppálaš hálddašeapmái ja juohkimii.",
+      "features": [
+        "Vuovdin ja oastin",
+        "Láger",
+        "Áššehasat ja buvttadeaddjit",
+        "Raporttat ja eanet"
+      ],
+      "lead": "Du gávppálaš doaimmaid guovddáš: diŋgojumit, hattit, gálvu ja kundarat ovtta sajis.",
+      "about": "FullVendor sadjái boahtá juohkinfitnodaga lossa rehkenastinbláđit ja ortnegat. Dás bohtet diŋgojumit, gálvojođus gulaskuddojuvvo, kundaportfolio fuolahuvvo ja beaivvi logut geahččojuvvojit. Muđui ekovuogádat čatná dán báikái.",
+      "benefits": [
+        {
+          "title": "Okta diehtomeašttir",
+          "text": "Kundárat, buktagat ja hattit juogaduvvojit vuovdimii, gálvojođuide ja ruhtadeapmái."
+        },
+        {
+          "title": "Čielga beaivválaš doaibma",
+          "text": "Diŋgojumit, oastimat ja gálvojođut eai šat ealli iešguđetlágan áššebáhpáriin."
+        },
+        {
+          "title": "Raporttat mat galget mearriduvvot",
+          "text": "Vuovdin, marginála ja vuordimis oidnojit almmá ahte bidjá tabealla gieđaiguin."
+        },
+        {
+          "title": "Gearggus šaddat",
+          "text": "Logistihkka, vuovdinveahka dahje ERP supmit go doaibma gáibida dan."
+        }
+      ],
+      "audience": "Gávppálaš ja juohkinjoavkkut mat odne koordinerejit fitnodaga máŋgga ortnega gaskkas."
+    },
+    "erp": {
+      "kicker": "Hálddahus",
+      "card": "Olles hálddahuslaš ja ekonomalaš hálddašeapmi.",
+      "features": [
+        "Rehketdoallu",
+        "Elektrovnnalaš rehketdoallu",
+        "Bargobihtát",
+        "Fásta ávdnasat",
+        "Máŋgga fitnodat"
+      ],
+      "lead": "Hálddahus ja ruhtadeapmi, heivehuvvon dasa mii duođaid vuovdojuvvo ja buvttaduvvo.",
+      "about": "FullVendor ERP fátmmasta rehketdoalu, elektrovnnalaš fakturerema, bálkálasáhusaid, fásta opmodagaid ja máŋggafitnodaga. Dat váldá gávppálaš doaimmaid ja rievdada dan sisačáliheapmái, vuostáiváldimii ja rehkegiidda maid ruhtadansuorgi sáhttá geavahit.",
+      "benefits": [
+        {
+          "title": "Oktasaš rehketdoallu",
+          "text": "Dat mii dáhpáhuvvá vuovdimis ja oastimiin, fuolaha rehketdoalu."
+        },
+        {
+          "title": "Elektrovnnalaš vuostáiváldimat",
+          "text": "Don addet ja stivret rehketdoalu seamma ekovuogádagas."
+        },
+        {
+          "title": "Iešguđetlágan fitnodagat",
+          "text": "Máŋggafitnodat joavkkuide mat doibmet eanet go ovtta fitnodaga nama vuolde."
+        },
+        {
+          "title": "Bálká ja opmodat",
+          "text": "Bálká ja fásta ávdnasat ovttas muđui jođihemiin."
+        }
+      ],
+      "audience": "Hálddahuslaš ja ekonomalaš surggiin mat háliidit giddet loguid duohta doaimmain."
+    },
+    "logistics": {
+      "kicker": "Logistihkka",
+      "card": "Bearráigeahččat ja čuovvolit iežat logistihkalaš doaimmaid.",
+      "features": [
+        "Johtolagat ja fievrrideamit",
+        "Reálaáiggi čuovvoleapmi",
+        "Vuoddji bargu",
+        "Geaidnooptimaliseren"
+      ],
+      "lead": "Diŋgojumis gitta sáddemii: johtolagat, vuoddjit ja duohtaáiggi čuovvoleapmi.",
+      "about": "FullVendor Logistics lágida juogadeami. Don ráhkadat johtolagaid, juohkit vuoddjiid ja oainnát gosa juohke fievrrideapmi manná. Johtolatjoavku bisána riŋgemiid vuođul vai beassá diehtit lea go diŋgojupmi sáddejuvvon.",
+      "benefits": [
+        {
+          "title": "Beaivvi mátkkit",
+          "text": "Buvttadeapmi diŋgojuvvo guovllu, áigemeari ja kapasitehta mielde."
+        },
+        {
+          "title": "Mearriduvvon vuoddji",
+          "text": "Juohke johtolagas lea ovddasvástideaddji ja čielga ráidu."
+        },
+        {
+          "title": "Čuovvut",
+          "text": "Dieđát mii lea fievrriduvvon, jođus vai bissehuvvon."
+        },
+        {
+          "title": "Unnit kilomehterat",
+          "text": "Johtolatoptimaliseren unnida fievrridanáiggi ja goluid."
+        }
+      ],
+      "audience": "Juohkindoaimmat iežas fatnasiin dahje goalmmát bealiin."
+    },
+    "supplier": {
+      "kicker": "Oastin",
+      "card": "Portála buvttadeddjiide ja oastima hálddašeapmái.",
+      "features": [
+        "Oastima diŋgojumit",
+        "Aisttonmearkkat",
+        "Buvttadeaddjiid hálddašeapmi",
+        "Integreren inventeremii"
+      ],
+      "lead": "Du buvttadeaddjit addet fálaldagaid, váldet vuostá diŋgojumiid ja deavdet gálvvu almmá lossa e-poasttaid haga.",
+      "about": "Vendor Supplier rahpá portála oastit ja buvttadeddjiide bargat seamma diŋgojumiiguin. Sitáhtat, oastinortnegat ja vuostáiváldin leat čadnojuvvon FullVendor inventeremii.",
+      "benefits": [
+        {
+          "title": "Diŋgojumit kanálas",
+          "text": "Buvttadeaddji oaidná maid galgá sáddet, almmá e-poastaráiddu haga."
+        },
+        {
+          "title": "Veardádallat sitahtat",
+          "text": "Don jearat hattiid ja válljet historjjá mielde."
+        },
+        {
+          "title": "Buvttadeaddjimeašttir",
+          "text": "Dilálašvuođat, oktavuođat ja vuordimis ovtta čállosis."
+        },
+        {
+          "title": "Čále inventerema",
+          "text": "Dat mii lea ostojuvvon, boahtá ovdan gálvojođus go dat lea vuostáiváldojuvvon."
+        }
+      ],
+      "audience": "Oastit joavkkuid mat gokčet máŋgga buvttadeaddji ja dárbbašit čuovvoleami."
+    },
+    "salesman": {
+      "kicker": "Mobiilapplikašuvdna",
+      "card": "Mobiilapplikašuvdna vuovdinjoavkku várás.",
+      "features": [
+        "Áššehasjođiheapmi",
+        "Diŋgojumi váldin",
+        "Buvttakataloga",
+        "Offline bargu"
+      ],
+      "lead": "Vuovdinveahka váldá vuostá diŋgojumiid geainnu alde, signálain dahje signála haga.",
+      "about": "FullVendor Sales Man bidjá du portfolio, kataloga ja diŋgonváldima vuovdi telefovdnii. Jus ii leat interneahtta, de bargu joatkašuvvá ja synkroniserejuvvo go signála máhccá. Diŋgojupmi boahtá gárvvisin ja sáddejuvvot.",
+      "benefits": [
+        {
+          "title": "Logahaga luhtte",
+          "text": "Vuovdi oaidná klieanttaid, diliid ja vuordimis gálvvuid."
+        },
+        {
+          "title": "Diŋgo galledeamis",
+          "text": "Váldde diŋgojumi dálá hattiiguin ja gálvojođuin."
+        },
+        {
+          "title": "Kataloga lea ođasmahttojuvvon",
+          "text": "Buvttat, ovdanbuktimat ja hattit boares PDF-fiilla haga."
+        },
+        {
+          "title": "Duohta offline",
+          "text": "Bargga gokčevašvuođa haga ja synkronisere maŋŋelabbos."
+        }
+      ],
+      "audience": "Bearráigeahččit ja vuovdinbargit juohkimis ja massingeavaheamis."
+    },
+    "warehouse": {
+      "kicker": "Mobiilapplikašuvdna",
+      "card": "Mobiilaapplikašuvdna gálvojođus.",
+      "features": [
+        "Vuostáiváldin ja sádden",
+        "Čoaggit ja páhkket",
+        "Inventerenbearráigeahčču",
+        "Barkoda lohkan"
+      ],
+      "lead": "Vuostáiváldin, čoaggin ja sádden telefovnnain ja streakkodain.",
+      "about": "FullVendor Warehouse rávve gálvojođu vuostáiváldima, čoaggima, páhkkema ja sáddema oktavuođas. Kodaid lohkan unnida meattáhusaid ja gálvojođus ii šat lohkkojuvvo dušše mánu loahpas.",
+      "benefits": [
+        {
+          "title": "Vuostáiváldin diŋgojumi vuostá",
+          "text": "Dat mii boahtá sisa buohtastahttojuvvo oastimii."
+        },
+        {
+          "title": "Ulbmillaš čoaggin",
+          "text": "Skiipaeaiggát čuovvu diŋgojumi ja duođašta juohke ávdnasa."
+        },
+        {
+          "title": "Barkodat",
+          "text": "Unnit buvtta-, lohku- dahje kvantitehtameattáhusat."
+        },
+        {
+          "title": "Luohtehahtti gálvu",
+          "text": "Juohke lihkadus ođasmahttá lávddi inventerema."
+        }
+      ],
+      "audience": "Gálvojođiheaddjit ja skiipaeaiggádat geat odne ráhkadit diŋgojumiid prentejuvvon listtuiguin."
+    },
+    "finance": {
+      "kicker": "Mobiilapplikašuvdna",
+      "card": "Ruhtadanbearráigeahčču mobiillas.",
+      "features": [
+        "Vuostáiváldin- ja máksinrehketdoallu",
+        "Geavaheaddji dilli",
+        "Máksimat ja soabadallamat",
+        "Ruhtadanraporttat"
+      ],
+      "lead": "Rehketdoallu, máksin ja kundastáhtus, du telefovnnas.",
+      "about": "FullVendor Finance čájeha čoaggima mobiillas: maid juohke klieanta vealgá, maid fitnodat áigu máksit ja mo máksimat bohtet. Dat geavahuvvo čoaggit ruđaid galledeami áigge ja geahččat kássa almmá čállingotti rahpama haga.",
+      "benefits": [
+        {
+          "title": "Čoakkáldat galledeamis",
+          "text": "Vuovdi diehtá lea go kunda ođasmahttojuvvon ovdal go vuovdá."
+        },
+        {
+          "title": "Vuostáiváldin ja máksin",
+          "text": "Guktot bealit skáhpus seamma áppas."
+        },
+        {
+          "title": "Máksimat ja soabadallamat",
+          "text": "Don registreret oahppočuoggáid ja oainnát maid fertet rasttildit."
+        },
+        {
+          "title": "Raporttat leat gieđas",
+          "text": "Čoaggin- ja ruđalaš indikáhtorat almmá vuordime loahpaheami."
+        }
+      ],
+      "audience": "Jođiheaddjit, čoakkáldagat ja vuovdit geat dárbbašit klieantta dili dán áigge."
+    }
+  },
+  "why": {
+    "eyebrow": "Manne FullVendor",
+    "title": "Buorit fitnodaga\nduohta bohtosiiguin",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Fitnodagat luohtet midjiide"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Aktiivvalaš geavaheaddjit"
+      },
+      {
+        "value": "+10",
+        "suffix": "jagi",
+        "label": "Bissovaš evolušuvnnas"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Cloud-fálaldat"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Mo dat doaibmá",
+    "title": "Vuovdimis gitta čoaggimii, almmá rievdadeamen ortnegiid",
+    "text": "Juohke buvtta juohká kundariid, gálvvuid, diŋgojumiid ja máksimiid. Dat mii dáhpáhuvvá geainnu alde dahje gálvojođus, boahtá ovdan kantuvrras dakkaviđe.",
+    "steps": {
+      "sell": {
+        "title": "Don vuovddát",
+        "text": "Diŋgojupmi biddjo sisa neahttasiiddu bokte dahje Sales Man bokte, vaikko signála haga."
+      },
+      "pick": {
+        "title": "Gárvvis",
+        "text": "Warehouse vuostáiváldá, sirdá ja sádde streakkodain."
+      },
+      "deliver": {
+        "title": "Buvttadeamit",
+        "text": "Logistics mearrida johtolaga ja čuovvu fievrredeami."
+      },
+      "collect": {
+        "title": "Kobrat",
+        "text": "Finance ja ERP giddet čoaggima, vuostáiváldima ja loguid."
+      }
+    }
+  },
+  "band": {
+    "title": "Leat go gearggus oaidnit dan [[du operašuvnnain]]?",
+    "text": "Mii čájehit dutnje ekovuogádaga mas lea juohkinášši mii sulastahttá du."
+  },
+  "footer": {
+    "blurb": "Neahtta- ja mobiilalávdi juohkimii, vuovdimii, logistihkkii, oastimii, gálvojođuide ja ruhtadeapmái.",
+    "products": "Buvttat",
+    "company": "Joavku",
+    "legal": "Lágalaš",
+    "privacy": "Diehtosuodji",
+    "terms": "Eavttut",
+    "rights": "Buot vuoigatvuođat leat suddjejuvvon."
+  },
+  "solutions": {
+    "eyebrow": "Čoavddus",
+    "title": "Juohke guovlu, čadnojuvvon [[seamma doaibmabiju]].",
+    "intro": "Vállje dan váttisvuođa mielde maid háliidat čoavdit. Dan maŋis buktagat juogadit seamma dieđuid.",
+    "items": {
+      "commercial": {
+        "title": "Gávppálaš hálddašeapmi",
+        "text": "Diŋgojumit, hattit, kundarat ja gálvojođut beaivválaš juohkimii."
+      },
+      "field": {
+        "title": "vuovdinveahka",
+        "text": "Gávppašeaddjit váldet vuostá diŋgojumiid geainnu alde, neahtas dahje offline."
+      },
+      "warehouse": {
+        "title": "Gávpi",
+        "text": "Vuostáiváldin, čoaggin, sádden ja gálvu masa sáhttá luohttit."
+      },
+      "logistics": {
+        "title": "Logistihkka ja fievrrideapmi",
+        "text": "Johtolagat, vuoddjit ja juohke fievrredeami dilli."
+      },
+      "purchasing": {
+        "title": "Oastit ja buvttadeaddjit",
+        "text": "Sitašuvnnat, diŋgojumit ja portála sidjiide geat fállet dutnje."
+      },
+      "finance": {
+        "title": "Ruhtadeapmi ja rehketdoallu",
+        "text": "Čoaggimat, máksimat, elektrovnnalaš rehketdoallu ja rehketdoallu."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Ealáhusat",
+    "title": "Ráhkaduvvon sidjiide geat [[sirdet buktaga]]",
+    "intro": "FullVendor lea riegádan distribušuvnnas ja čuovvu fitnodagaid mat ostet, vurket, vuvdet ja buvttadit.",
+    "items": {
+      "wholesale": {
+        "title": "Juohkin ja engrosgávppašeapmi",
+        "text": "Háhkanlisttut, portfolio, juohkin ja čoaggin ovtta ráiddus."
+      },
+      "retail": {
+        "title": "Bođuidvuovdin",
+        "text": "Gávpi ja gálvojođus mas lea oktasaš gálvojođus, vuovdin ja ođasmahttin."
+      },
+      "food": {
+        "title": "Biebmu ja juhkamušat",
+        "text": "Dávjá johtolagat ja gálvojođus mii ii sáhte bisánit."
+      },
+      "pharma": {
+        "title": "Apotehka ja persovnnalaš dikšun",
+        "text": "Vuostáiváldin, čoaggin ja gálvojođus mas lea čuovvunvejolašvuohta."
+      },
+      "hardware": {
+        "title": "Hardware ja huksen",
+        "text": "Ollu referánssat, buvttadeaddjit ja sáddehusat bargui dahje gávpái."
+      },
+      "fmcg": {
+        "title": "Massiiva geavaheapmi",
+        "text": "Gáddevuovdinfápmu ja stuorra vuovdin sadjásaš."
+      },
+      "manufacturing": {
+        "title": "Buvttadeapmi",
+        "text": "Oastit, gálvojođus ja gálvojođus lea heivehuvvon hálddašeapmái."
+      },
+      "lastmile": {
+        "title": "Buvttadeapmi ja maŋimuš miilla",
+        "text": "Johtolagat, vuoddjit ja juohke fievrredeami dilli."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Návccat",
+    "title": "Čielga jurdagiid [[order operation]]",
+    "intro": "Oanehis rávvagat juohkinhoavddaide geat galget mearridit makkár ortnegii galget čuovvut.",
+    "items": {
+      "unify": {
+        "title": "Mo ovttastahttit juohkima ovtta ortnegii",
+        "summary": "Maid galgá bidjat oktii vuosttažettiin go vuovdin, gálvojođut ja čoakkáldagat ellet iešguđetlágan fiillain.",
+        "points": [
+          "Álggat kundariidda, buktagiidda ja haddái: sii leat dat oahpaheaddji maid buohkat geavahit.",
+          "Čatnet diŋgojumi gálvojođuin ovdal go lasihat eanet prográmmaid.",
+          "Dat mihtida álkes logu: diŋgojumit ollašuhttojuvvojit almmá skovi ođđasit dahkama haga."
+        ]
+      },
+      "offline": {
+        "title": "Vuovdinbargit barget offline",
+        "summary": "Maid gáibidit diŋgonáppas nu ahte vuovdi ii bisán signála geažil.",
+        "points": [
+          "Kataloga ja logahat fertejit leat telefovnnas, eai dušše cloudas.",
+          "Diŋgojupmi vurkejuvvo rusttegii ja biddjojuvvo sisa go neahtta máhccá.",
+          "Go synkronisere, de diŋgojupmi juo boahtá gálvojođus."
+        ]
+      },
+      "warehouse": {
+        "title": "Várrehus mas lea streakkoda, báber haga",
+        "summary": "Mo mannat prentejuvvon listtus duođaštuvvon válljemii telefovnnas.",
+        "points": [
+          "Váldde vuostá oastima vuostá, ii muittu vuostá.",
+          "Duođaš juohke ášši go sirddát. Buolli čuohcá gáddái.",
+          "Sáddejupmi ođasmahttá gálvvu maid vuovdi oaidná."
+        ]
+      },
+      "finance": {
+        "title": "Čoakkáldat lea heivehuvvon vuovdimii",
+        "summary": "Manne vuovdi galgá oaidnit kundariid vealggi ovdal go váldá nuppi diŋgojumi.",
+        "points": [
+          "Galledeapmi lea buoremus áigi čoaggit, jus vealgi oidno.",
+          "Vuovdin ja ruhtadeapmi fertejit geahččat seamma kundariid.",
+          "Beaivválaš maŋŋonan raporta lea eambbo árvu go maŋŋit giddejupmi."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Haddi",
+    "title": "Ekovuogádat mii [[šaddada duinna]]",
+    "intro": "Mii eat almmut oppalaš haddi: golut leat sorjavaš modulain, geavaheddjiin ja volumiin. Mii čájehit dutnje lávddi ja bidjat oktii evttohusa du doaimmain.",
+    "note": "Demo ii leat máksojuvvon ja ii dárbbaš šiehtadusa.",
+    "recommended": "Ávžžuhuvvon",
+    "faq_title": "Dávjá jearahuvvon gažaldagat",
+    "plans": {
+      "essential": {
+        "name": "Mávssolaš",
+        "desc": "Organiseret gávppálaš hálddašeami ja juohkima ovtta lávddis.",
+        "features": [
+          "FullVendor neahttalávdi",
+          "Vuovdin, oastin ja gálvojođut",
+          "Geavaheaddjit, buvttadeaddjit ja raporttat",
+          "Kantuvrarusttegiid geavaheaddjit",
+          "Álggahandoarjja"
+        ],
+        "cta": "Bivdde demo"
+      },
+      "professional": {
+        "name": "Ámmátlaš",
+        "desc": "Joavkkuide mat vuovdet geainnu alde ja ráhkadit diŋgojumiid gálvojođus.",
+        "features": [
+          "Buot mii lea deaŧalaš",
+          "Áppa FullVendor Sales Man",
+          "Áppa FullVendor Warehouse",
+          "Offline-bargu ja streakkodat",
+          "Eanet fierpmádat- ja gálvojođu geavaheaddjit"
+        ],
+        "cta": "Bivdde demo"
+      },
+      "corporate": {
+        "name": "Fitnodat",
+        "desc": "Joavkkuide geat dárbbašit logistihka, oastima, ruhtadeami ja iešguđetlágan fitnodagaid.",
+        "features": [
+          "Olles ekovuogádat",
+          "Logistics, Vendor Supplier ja Finance",
+          "FullVendor ERP ja máŋggaláigoheapmi",
+          "Elektrovnnalaš rehketdoallu ja rehketdoallu",
+          "Čuovvoleapmi ja vuoruheapmi"
+        ],
+        "cta": "Ságastallan vuovdiiguin"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Ferten go oastit buot buktagiid?",
+        "a": "Ii. Sáhtát álgit FullVendor:in ja lasihit prográmmaid dahje ERP go doaibma dan dárbbaša."
+      },
+      "offline": {
+        "q": "Doibmet go prográmmat interneahta haga?",
+        "a": "Sales Man ja Warehouse joatkit barggu signála haga ja synkroniserejit go fas čatnet oktavuođa."
+      },
+      "multi": {
+        "q": "Doaibmá go jus mus leat eanet go okta fitnodat?",
+        "a": "Juo. ERP árvvoštallá máŋggafitnodaga ja ekovuogádat sáhttá juohkit measttiriid gaskaneaset."
+      },
+      "demo": {
+        "q": "Mii sisttisdoallá demo?",
+        "a": "Turnea lávddis mas lea ášši mii sulastahttá du ášši. Ii leat golut ja ii leat geatnegasvuohta."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Mii čájehit dutnje FullVendor mas lea [[du doaibmašládja]].",
+    "text": "Muital midjiide iežat fitnodaga birra ja maid háliidat vuos diŋgot. Demo ii leat máksán."
+  },
+  "contact": {
+    "eyebrow": "Oktavuohta",
+    "title": "Ságastallat [[du operašuvnna]] birra.",
+    "text": "Jus háliidat demo, evttohusa dahje dušše orienteret iežat buktagiid gaskkas, de čále dieđuid ja mii vástidit.",
+    "email": "Poasta",
+    "phone": "Telefovdna",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Namma",
+    "email": "Poasta",
+    "phone": "Telefovdna",
+    "company": "Joavku",
+    "country": "Riika",
+    "team": "Joavkku sturrodat",
+    "interest": "Mii du beroštahttá?",
+    "message": "Diehtu",
+    "optional": "Eaktodáhtolaš",
+    "choose": "Válljet",
+    "interest_all": "Olles ekovuogádat",
+    "ph_name": "du namma",
+    "ph_email": "don@fitnodat.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Du fitnodat",
+    "ph_country": "Riika",
+    "ph_message": "Muital midjiide mo don doaibmat odne",
+    "privacy_before": "Mun dohkkehan iežan dieđuid geavaheami dan mielde",
+    "privacy_after": ".",
+    "submit": "Sádde jearaldaga",
+    "sent_title": "Mii váldit vuostá du jearaldaga",
+    "sent_text": "Giitu. Vuovdinjoavku čállá dutnje koordineret demo dahje vástidit du gažaldaga.",
+    "error_required": "Deavdde dán čuoggá.",
+    "error_email": "Čále dohkálaš e-poastta.",
+    "error_phone": "Dárkkis telefovnna.",
+    "error_privacy": "Mii dárbbašit du lobi geavahit oktavuođadieđuid.",
+    "error_csrf": "Sešuvdna lea nohkan. Sádde skovi ođđasit.",
+    "error_save": "Eat nagodan vurket jearaldaga. Geahččal fas.",
+    "error_generic": "Geahča merkejuvvon čuoggáid.",
+    "error_rate": "Vuordde veahá ovdal go sáddet eará ohcamuša.",
+    "team_options": {
+      "1-10": "1 gitta 10 olbmo",
+      "11-50": "11 gitta 50 olbmo",
+      "51-200": "51 gitta 200 olbmo",
+      "201-500": "201 gitta 500 olbmo",
+      "500+": "Badjel 500 olbmo"
+    }
+  },
+  "video": {
+    "title": "FullVendor ovtta minuhtas",
+    "prev": "Ovddit",
+    "next": "Čuovvovaš",
+    "slides": [
+      {
+        "title": "Okta ekovuogádat",
+        "text": "Vuovdin, gálvojođus, fievrrideapmi, oastin ja ruhtadeapmi juogadit kundariid, gálvvuid ja diŋgojumiid."
+      },
+      {
+        "title": "Neahtta ja mobiila ovttas",
+        "text": "Kantuvra bargá lávddis. Geaidnu ja gálvojođus, áppain, vaikko signála haga."
+      },
+      {
+        "title": "Ráhkaduvvon juohkit",
+        "text": "Diŋgojumis gitta máksimii, almmá ahte dieđut sirdojuvvojit ovtta fiillas nubbái."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Ohcat buktagiid, čovdosiid, ealáhusaid...",
+    "lang_filter": "Ohcangiela",
+    "intro": "Ohcat buktagiid, čovdosiid, ealáhusaid ja resurssaid.",
+    "empty": "Mii eat gávdnan bohtosiid “{q}” hárrái.",
+    "hint": "Geahččal vuovdima, gálvojođu, johtolaga dahje čoaggima.",
+    "results": "{n} bohtosat",
+    "button": "Ohcat",
+    "kind_product": "Buvtta",
+    "kind_solution": "Čoavddus",
+    "kind_industry": "Industriija",
+    "kind_resource": "Resursa"
+  },
+  "notfound": {
+    "title": "Dát siidu ii leat",
+    "text": "Čujuhus ii gávdno dahje lea rievdaduvvon sadji."
+  },
+  "common": {
+    "what": "Mii čoavdá",
+    "features": "Mii lea mielde",
+    "benefits": "Manne dat lea dehálaš",
+    "for_who": "Geasa dat lea?",
+    "related": "Maiddái ekovuogádagas"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Vuovdin odne",
+      "orders": "Diŋgojumit",
+      "clients": "Geavaheaddjit",
+      "products": "Buvttat"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Vuovdin",
+      "purchases": "Oastin",
+      "inventory": "Láger",
+      "clients": "Geavaheaddjit",
+      "reports": "Raporttat"
+    },
+    "chart": "Vuovdin",
+    "channel": "Juohkin kanálaid mielde",
+    "channels": [
+      "Gávpi",
+      "Juohkin",
+      "Engrosgávppašeaddji",
+      "Earát"
+    ],
+    "orders": "Maŋimuš diŋgojumit",
+    "col_order": "Ortnet",
+    "col_client": "Áššehas",
+    "col_status": "Dilli",
+    "col_total": "Oktiibuot",
+    "status": [
+      "Dolvon",
+      "Mátkkis",
+      "Čuovggat"
+    ],
+    "top": "Buoremusat vuovdojuvvon buktagat",
+    "product": "Buvtta",
+    "sales_menu": [
+      "Geavaheaddjit",
+      "Diŋgojumit",
+      "Buvttat",
+      "Johtolagat",
+      "Synkroniseret"
+    ],
+    "warehouse_menu": [
+      "Vuostáiváldin",
+      "Válljen",
+      "Láger",
+      "Bijadit",
+      "Synkroniseret"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Persovdnadieđuid njuolggadusat",
+    "privacy_intro": "Dát njuolggadusat čilgejit maid mii dahkat dainna dieđuiguin maid bidjat skoviide dán siiddus.",
+    "privacy": [
+      {
+        "title": "Makkár dieđuid mii čoaggit",
+        "text": "Jus bivddát demo dahje čálát midjiide, de mii vurket nama, fitnodaga, e-poastta, telefovdnanummira jus dan čájehat, riikka, joavkku sturrodaga, beroštumi buktaga ja dieđu. Mii čálihit maiddái beaivvi, siiddu giela ja IP-čujuhusa, vai eastadit vealaheami."
+      },
+      {
+        "title": "Maid mii geavahit daid?",
+        "text": "Mii geavahit dáid dieđuid dušše vástidit dutnje, koordineret demo ja ráhkadit gávppálaš evttohusa. Mii eat vuovdde daid dahje atte daid goalmmát beali listui."
+      },
+      {
+        "title": "Gos dat leat vurkejuvvon ja man guhká?",
+        "text": "Jearaldagat vurkejuvvojit dán siiddu bálvái. Mii vurket daid dan áigái mii lea dárbbašlaš bálvalit du ja gávppálaš čuovvoleami, ja mii sihkkut daid go don bivddát min dahje go daid ii šat dárbbaš."
+      },
+      {
+        "title": "Du vuoigatvuođat",
+        "text": "Sáhtát bivdit iežat dieđuid sisabeassama, rievdadeami dahje sihkkuma oktavuođaskoviin, dieđiheamen dan dieđus. Jus fitnodat almmuha e-poastta dán neahttasiiddus, de sáhtát maid čállit dohko."
+      }
+    ],
+    "terms_title": "Geavahaneavttut",
+    "terms_intro": "Dát eavttut gustojit dán FullVendor sáddensiiddu geavaheapmái.",
+    "terms": [
+      {
+        "title": "Gávppálaš dieđut",
+        "text": "Teavsttat, ovdamearkkat dávvirtávvala govat ja čilgehusat ovdanbuktet lávddi. Daid sáhttá heivehit go buvtta rievdá ja eai leat giddejuvvon fálaldat."
+      },
+      {
+        "title": "Demo ii leat šiehtadus",
+        "text": "Go sáddet skovi, de ii šatta geatnegasvuohta oastit dahje várret haddái. Juohke šiehtadus šiehtaduvvo sierra, čálalaččat, dan doaibmaguovlluin ja eavttuiguin."
+      },
+      {
+        "title": "Siiddu sisdoallu",
+        "text": "Dáid siidduid FullVendor gálvomearka, buvttanamat ja sisdoallu gullet daid eaiggádiidda. Daid ii sáhte kopieret ovdanbuktit eará buktaga."
+      },
+      {
+        "title": "Dohkálaš geavaheapmi",
+        "text": "Ale geavat skoviid sáddet boasttu dieđuid, spamma dahje lobihis sisdoalu. Mii sáhttit vajálduhttit jearaldagaid mat eai vástit duohta fitnodatságastallamii."
+      }
+    ]
+  }
+}

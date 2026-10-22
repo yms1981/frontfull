@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Immaniġġja u kabbar in-negozju tiegħek",
+    "home_desc": "Pjattaforma kollha f'wieħed b'soluzzjonijiet tal-web u mobbli għad-distribuzzjoni, il-bejgħ, il-loġistika, ix-xiri, l-inventarju u l-finanzi.",
+    "products_title": "Prodotti | FullVendor",
+    "products_desc": "Kun af l-ekosistema FullVendor: pjattaforma kummerċjali, ERP, loġistika, fornituri u bejgħ, apps tal-maħżen u tal-finanzi.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Soluzzjonijiet | FullVendor",
+    "solutions_desc": "Soluzzjonijiet għall-ġestjoni kummerċjali, forza tal-bejgħ, maħżen, loġistika, xiri u finanzi.",
+    "industries_title": "Industriji | FullVendor",
+    "industries_desc": "FullVendor għal distribuzzjoni, bejgħ bl-imnut, ikel, spiżerija, ħardwer, konsum tal-massa, manifattura u l-aħħar mil.",
+    "pricing_title": "Prezzijiet | FullVendor",
+    "pricing_desc": "Pjanijiet Essenzjali, Professjonali u Korporattivi. Il-proposta titqiegħed flimkien skont il-moduli, l-utenti u l-volum.",
+    "resources_title": "Riżorsi | FullVendor",
+    "resources_desc": "Gwidi qosra biex tgħaqqad id-distribuzzjoni, tbigħ offline, torganizza l-maħżen u titħallas fil-ħin.",
+    "contact_title": "Kuntatt | FullVendor",
+    "contact_desc": "Iktbilna biex titgħallem dwar FullVendor jew tikkoordina konverżazzjoni mat-tim tal-bejgħ.",
+    "demo_title": "Itlob demo | FullVendor",
+    "demo_desc": "Itlob demo ta' FullVendor u dawwar il-pjattaforma b'każ simili għall-operat tiegħek.",
+    "privacy_title": "Privatezza | FullVendor",
+    "terms_title": "Termini | FullVendor",
+    "search_title": "Fittex | FullVendor",
+    "notfound_title": "Paġna mhux misjuba | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Home page",
+    "products": "Prodotti",
+    "solutions": "Soluzzjonijiet",
+    "industries": "Industriji",
+    "pricing": "Prezzijiet",
+    "resources": "Riżorsi",
+    "contact": "Kuntatt",
+    "open_menu": "Iftaħ il-menu",
+    "close": "Agħlaq"
+  },
+  "cta": {
+    "demo": "Itlob Demo",
+    "contact": "Ikkuntattjana",
+    "video": "Ara Video",
+    "talk": "Kellem lill-bejgħ",
+    "all_products": "Ara l-prodotti kollha",
+    "home": "Lura għall-paġna ewlenija"
+  },
+  "a11y": {
+    "skip": "Aqbeż għall-kontenut",
+    "primary": "Navigazzjoni prinċipali",
+    "crumbs": "Rotta tan-navigazzjoni",
+    "search": "Fittex għal",
+    "language": "Lingwa"
+  },
+  "hero": {
+    "eyebrow": "Kollha f'pjattaforma waħda",
+    "title": "Immaniġġja u tikber\nin-negozju tiegħek ma\n{{brand}}",
+    "subtitle": "Pjattaforma kompluta b'soluzzjonijiet tal-web u mobbli għad-distribuzzjoni, il-bejgħ, il-loġistika, ix-xiri, l-inventarju, il-finanzi u aktar.",
+    "pill_ecosystem": "Kollox f'ekosistema waħda",
+    "pill_cloud": "Fis-sħab, sigur u skalabbli",
+    "pill_size": "Għal kumpaniji ta' kull daqs"
+  },
+  "products_block": {
+    "eyebrow": "Il-prodotti tagħna",
+    "title": "[[Ekosistema kompluta]] għal kull qasam tan-negozju tiegħek",
+    "aside": "Soluzzjonijiet integrati li jaħdmu flimkien biex jagħtuk kontroll totali, effiċjenza operattiva u tkabbir akbar.",
+    "groups": {
+      "money": "Amministrazzjoni u ġbir",
+      "flow": "Xiri u konsenja",
+      "field": "Bejgħ u maħżen"
+    }
+  },
+  "products_page": {
+    "title": "Seba' prodotti, [[operazzjoni waħda]]",
+    "text": "Kull prodott isolvi żona. Flimkien jaqsmu l-klijenti, l-istokk, l-ordnijiet u l-ħlasijiet."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Pjattaforma",
+      "card": "Pjattaforma ewlenija għall-ġestjoni u d-distribuzzjoni kummerċjali.",
+      "features": [
+        "Bejgħ u xiri",
+        "Inventarju",
+        "Klijenti u fornituri",
+        "Rapporti u aktar"
+      ],
+      "lead": "Iċ-ċentru tal-operat kummerċjali tiegħek: ordnijiet, prezzijiet, stokk u klijenti f'post wieħed.",
+      "about": "FullVendor jissostitwixxi spreadsheets u sistemi maħlula ta' distributur. Minn hawn joħorġu l-ordnijiet, jiġi kkonsultat l-inventarju, jittieħed ħsieb il-portafoll tal-klijenti u jitqiesu n-numri tal-ġurnata. Il-bqija tal-ekosistema tgħaqqad ma 'din il-bażi.",
+      "benefits": [
+        {
+          "title": "Kaptan tad-data wieħed",
+          "text": "Klijenti, prodotti u prezzijiet huma maqsuma mal-bejgħ, maħżen u finanzi."
+        },
+        {
+          "title": "Operazzjoni ċara ta 'kuljum",
+          "text": "Ordnijiet, xiri u stokk jieqfu jgħixu f'fajls differenti."
+        },
+        {
+          "title": "Rapporti biex jiddeċiedu",
+          "text": "Bejgħ, marġni u pendenti jidhru mingħajr ma tgħaqqad tabella bl-idejn."
+        },
+        {
+          "title": "Lest biex jikber",
+          "text": "Loġistika, forza tal-bejgħ jew somom ERP meta l-operazzjoni titlobha."
+        }
+      ],
+      "audience": "Timijiet kummerċjali u ta’ distribuzzjoni li llum jikkoordinaw in-negozju bejn diversi sistemi."
+    },
+    "erp": {
+      "kicker": "Amministrazzjoni",
+      "card": "Tlesti ġestjoni amministrattiva u finanzjarja.",
+      "features": [
+        "Kontabilità",
+        "Kont elettroniku",
+        "Worksheets",
+        "Assi fissi",
+        "Multi-kumpanija"
+      ],
+      "lead": "Amministrazzjoni u finanzi, allinjati ma’ dak li fil-fatt jinbiegħ u jitwassal.",
+      "about": "FullVendor ERP ikopri kontabilità, fatturazzjoni elettronika, pagi, assi fissi u multi-kumpanija. Huwa jieħu l-operazzjoni kummerċjali u jikkonvertiha f'entrati, irċevuti u dikjarazzjonijiet li l-qasam finanzjarju jista 'juża.",
+      "benefits": [
+        {
+          "title": "Kontabilità konnessa",
+          "text": "Dak li jiġri fil-bejgħ u x-xiri jalimenta l-kontabilità."
+        },
+        {
+          "title": "Riċevuti elettroniċi",
+          "text": "Inti toħroġ u tikkontrolla l-kontijiet mill-istess ekosistema."
+        },
+        {
+          "title": "Diversi kumpaniji",
+          "text": "Multi-kumpanija għal gruppi li joperaw taħt aktar minn isem wieħed ta' kumpanija."
+        },
+        {
+          "title": "Pagi u assi",
+          "text": "Payroll u assi fissi flimkien mal-bqija tal-maniġment."
+        }
+      ],
+      "audience": "Oqsma amministrattivi u finanzjarji li jridu jagħlqu n-numri bl-operazzjoni reali."
+    },
+    "logistics": {
+      "kicker": "Loġistika",
+      "card": "Kontroll u monitoraġġ tal-operat tal-loġistika tiegħek.",
+      "features": [
+        "Rotot u kunsinni",
+        "Traċċar f'ħin reali",
+        "Assenjazzjoni ta' sewwieq",
+        "Ottimizzazzjoni tar-rotta"
+      ],
+      "lead": "Mill-ordni sal-kunsinna: rotot, sewwieqa u traċċar f'ħin reali.",
+      "about": "FullVendor Logistics jorganizza d-distribuzzjoni. Inti toħloq rotot, tassenja sewwieqa u tara fejn sejra kull kunsinna. It-tim tat-traffiku jieqaf jiddependi fuq sejħiet biex ikun jaf jekk l-ordni ġietx mibgħuta.",
+      "benefits": [
+        {
+          "title": "Rotot tal-ġurnata",
+          "text": "Kunsinni ordnati skont iż-żona, it-tieqa tal-ħin u l-kapaċità."
+        },
+        {
+          "title": "Sewwieq assenjat",
+          "text": "Kull rotta għandha persuna responsabbli u sekwenza ċara."
+        },
+        {
+          "title": "Segwitu",
+          "text": "Int taf x'inhu kkunsinnat, fit-triq jew imwaqqaf."
+        },
+        {
+          "title": "Inqas kilometri",
+          "text": "L-ottimizzazzjoni tar-rotta tnaqqas il-ħin u l-ispiża tal-kunsinna."
+        }
+      ],
+      "audience": "Operazzjonijiet ta' distribuzzjoni mal-flotta proprja jew partijiet terzi."
+    },
+    "supplier": {
+      "kicker": "Xiri",
+      "card": "Portal għall-fornituri u l-ġestjoni tax-xiri.",
+      "features": [
+        "Ordnijiet ta' xiri",
+        "Kwotazzjonijiet",
+        "Ġestjoni tal-fornitur",
+        "Integrazzjoni mal-inventarju"
+      ],
+      "lead": "Il-fornituri tiegħek jikkwotaw, jirċievu ordnijiet u jimlew l-istokk mingħajr emails sfużi.",
+      "about": "Vendor Supplier jiftaħ portal għax-xiri u l-fornituri biex jaħdmu fuq l-istess ordnijiet. Kwotazzjonijiet, ordnijiet ta 'xiri u rċevuta huma marbuta mal-inventarju ta' FullVendor.",
+      "benefits": [
+        {
+          "title": "Ordnijiet f'kanal",
+          "text": "Il-fornitur jara x'għandu jwassal, mingħajr katina tal-email."
+        },
+        {
+          "title": "Kwotazzjonijiet komparabbli",
+          "text": "Inti titlob għall-prezzijiet u tagħżel bl-istorja fil-ħsieb."
+        },
+        {
+          "title": "Supplier Master",
+          "text": "Kundizzjonijiet, kuntatti u pendenti f'rekord wieħed."
+        },
+        {
+          "title": "Daħħal l-inventarju",
+          "text": "Dak li nxtara huwa rifless fl-istokk meta jiġi riċevut."
+        }
+      ],
+      "audience": "Timijiet ta 'xiri li jimlew b'diversi fornituri u jeħtieġu traċċabilità."
+    },
+    "salesman": {
+      "kicker": "App mobbli",
+      "card": "Applikazzjoni mobbli għat-tim tal-bejgħ.",
+      "features": [
+        "Ġestjoni tal-klijenti",
+        "Teħid ta' ordni",
+        "Katalgu tal-prodott",
+        "Xogħol offline"
+      ],
+      "lead": "Il-forza tal-bejgħ tieħu ordnijiet fit-toroq, b'sinjal jew mingħajru.",
+      "about": "FullVendor Sales Man ipoġġi l-portafoll, il-katalgu u l-ordni tiegħek fuq it-telefon tal-bejjiegħ. Jekk ma jkunx hemm internet, ix-xogħol ikompli u jissinkronizza meta s-sinjal jirritorna. L-ordni tasal lesta biex tipprepara u twassal.",
+      "benefits": [
+        {
+          "title": "Kartiera fil-but",
+          "text": "Il-bejjiegħ jara klijenti, kundizzjonijiet u oġġetti pendenti."
+        },
+        {
+          "title": "Ordna waqt iż-żjara",
+          "text": "Ħu l-ordni bil-prezzijiet kurrenti u l-istokk."
+        },
+        {
+          "title": "Katalogu aġġornat",
+          "text": "Prodotti, preżentazzjonijiet u prezzijiet mingħajr PDF antik."
+        },
+        {
+          "title": "Offline reali",
+          "text": "Aħdem mingħajr kopertura u sinkronizza aktar tard."
+        }
+      ],
+      "audience": "Supervisors u salespeople fuq il-post fid-distribuzzjoni u l-konsum tal-massa."
+    },
+    "warehouse": {
+      "kicker": "App mobbli",
+      "card": "Applikazzjoni mobbli għall-maħżen.",
+      "features": [
+        "Akkoljenza u dispaċċ",
+        "Picking u ippakkjar",
+        "Kontroll tal-inventarju",
+        "Qari tal-barcode"
+      ],
+      "lead": "Riċeviment, picking u dispaċċ bit-telefon u barcode.",
+      "about": "FullVendor Warehouse jiggwida l-maħżen fir-riċeviment, il-ġbir, l-ippakkjar u d-dispaċċ. Il-qari tal-kodiċijiet inaqqas l-iżbalji u l-inventarju ma jibqax jingħadd biss fl-aħħar tax-xahar.",
+      "benefits": [
+        {
+          "title": "Akkoljenza kontra ordni",
+          "text": "Dak li jidħol huwa mqabbel max-xiri."
+        },
+        {
+          "title": "Picking immirat",
+          "text": "Is-sid tal-bastiment isegwi l-ordni u jikkonferma kull oġġett."
+        },
+        {
+          "title": "Barcodes",
+          "text": "Inqas żbalji ta' prodott, lott jew kwantità."
+        },
+        {
+          "title": "Stokk affidabbli",
+          "text": "Kull mossa taġġorna l-inventarju tal-pjattaforma."
+        }
+      ],
+      "audience": "Amministraturi tal-maħżen u sidien tal-bastimenti li llum jippreparaw ordnijiet b'listi stampati."
+    },
+    "finance": {
+      "kicker": "App mobbli",
+      "card": "Kontroll finanzjarju mill-mowbajl tiegħek.",
+      "features": [
+        "Kontijiet riċevibbli u pagabbli",
+        "Status tal-klijent",
+        "Ħlasijiet u rikonċiljazzjoni",
+        "Rapporti finanzjarji"
+      ],
+      "lead": "Kontijiet riċevibbli, pagamenti u status tal-klijent, mit-telefon tiegħek.",
+      "about": "FullVendor Finance juri l-ġbir fuq il-mowbajl: dak li għandu kull klijent, dak li se tħallas il-kumpanija u kif jiġu l-ħlasijiet. Jintuża biex jinġabar il-flus waqt iż-żjara u biex tħares lejn il-cash register mingħajr ma tiftaħ l-iskrivanija.",
+      "benefits": [
+        {
+          "title": "Ġbir fiż-żjara",
+          "text": "Il-bejjiegħ jaf jekk il-klijent huwiex aġġornat qabel ibigħ."
+        },
+        {
+          "title": "Riċevibbli u pagabbli",
+          "text": "Iż-żewġ naħat tal-kaxxa fl-istess app."
+        },
+        {
+          "title": "Ħlasijiet u rikonċiljazzjoni",
+          "text": "Tirreġistra l-krediti u tara dak li jeħtieġ li jinqasam."
+        },
+        {
+          "title": "Rapporti fil-idejn",
+          "text": "Indikaturi tal-ġbir u tal-flus kontanti mingħajr stennija għal għeluq."
+        }
+      ],
+      "audience": "Maniġers, kolletturi u salespeople li għandhom bżonn is-sitwazzjoni tal-klijent fil-mument."
+    }
+  },
+  "why": {
+    "eyebrow": "Għaliex FullVendor",
+    "title": "Spinta lin-negozju tiegħek\nb'riżultati reali",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Il-kumpaniji jafdaw magħna"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Utenti attivi"
+      },
+      {
+        "value": "+10",
+        "suffix": "snin",
+        "label": "Fl-evoluzzjoni kostanti"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Disponibbiltà tas-sħab"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Kif taħdem",
+    "title": "Mill-bejgħ għall-ġbir, mingħajr ma jinbidlu s-sistemi",
+    "text": "Kull prodott jaqsam klijenti, stokk, ordnijiet u ħlasijiet. Dak li jiġri fit-triq jew fil-maħżen jidher fl-uffiċċju istantanjament.",
+    "steps": {
+      "sell": {
+        "title": "Tbigħ",
+        "text": "L-ordni tiddaħħal permezz tal-websajt jew permezz ta 'Sales Man, anke mingħajr sinjal."
+      },
+      "pick": {
+        "title": "Lest",
+        "text": "Warehouse jirċievi, jissepara u jibgħat bil-barcode."
+      },
+      "deliver": {
+        "title": "Kunsinni",
+        "text": "Logistics jassenja r-rotta u jsegwi l-kunsinna."
+      },
+      "collect": {
+        "title": "Cobras",
+        "text": "Finance u ERP jagħlqu l-ġbir, l-irċevuti u n-numri."
+      }
+    }
+  },
+  "band": {
+    "title": "Lest biex tarah bl-[[operazzjoni tiegħek]]?",
+    "text": "Aħna nuruk l-ekosistema b'każ ta 'distribuzzjoni simili għal tiegħek."
+  },
+  "footer": {
+    "blurb": "Pjattaforma tal-web u mobbli għad-distribuzzjoni, il-bejgħ, il-loġistika, ix-xiri, l-inventarju u l-finanzi.",
+    "products": "Prodotti",
+    "company": "Kumpanija",
+    "legal": "Legali",
+    "privacy": "Privatezza",
+    "terms": "Termini",
+    "rights": "Id-drittijiet kollha riżervati."
+  },
+  "solutions": {
+    "eyebrow": "Soluzzjonijiet",
+    "title": "Kull żona, konnessa mal-[[istess operazzjoni]]",
+    "intro": "Agħżel mill-problema li trid issolvi. Wara, il-prodotti jaqsmu l-istess informazzjoni.",
+    "items": {
+      "commercial": {
+        "title": "Ġestjoni kummerċjali",
+        "text": "Ordnijiet, prezzijiet, klijenti u inventarju għal distribuzzjoni ta 'kuljum."
+      },
+      "field": {
+        "title": "forza tal-bejgħ",
+        "text": "Bejjiegħa li jieħdu ordnijiet fit-toroq, online jew offline."
+      },
+      "warehouse": {
+        "title": "Aħżen",
+        "text": "Akkoljenza, picking, dispaċċ u stokk li jista 'jkun fdat."
+      },
+      "logistics": {
+        "title": "Loġistika u konsenja",
+        "text": "Rotot, sewwieqa u l-istatus ta 'kull kunsinna."
+      },
+      "purchasing": {
+        "title": "Xiri u fornituri",
+        "text": "Kwotazzjonijiet, ordnijiet u portal għal min ifornik."
+      },
+      "finance": {
+        "title": "Finanzi u kontabilità",
+        "text": "Ġbir, ħlasijiet, kontijiet elettroniċi u kontabilità."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industriji",
+    "title": "Magħmul għal dawk li [[iċċaqlaq il-prodott]]",
+    "intro": "FullVendor twieled fid-distribuzzjoni u jakkumpanja kumpaniji li jixtru, jaħżnu, ibigħu u jikkonsenjaw.",
+    "items": {
+      "wholesale": {
+        "title": "Distribuzzjoni u bl-ingrossa",
+        "text": "Listi tal-prezzijiet, portafoll, distribuzzjoni u ġbir f'ċirkwit wieħed."
+      },
+      "retail": {
+        "title": "Bejgħ bl-imnut",
+        "text": "Aħżen u maħżen bi stokk konness, bejgħ u riforniment."
+      },
+      "food": {
+        "title": "Ikel u xorb",
+        "text": "Rotot frekwenti u maħżen li ma jistax jieqaf."
+      },
+      "pharma": {
+        "title": "Ispiżerija u kura personali",
+        "text": "Akkoljenza, picking u kontroll tal-inventarju bit-traċċabilità."
+      },
+      "hardware": {
+        "title": "Ħardwer u kostruzzjoni",
+        "text": "Ħafna referenzi, fornituri u kunsinni li jaħdmu jew jaħżnu."
+      },
+      "fmcg": {
+        "title": "Konsum tal-massa",
+        "text": "Forza tal-bejgħ fit-toroq u sostituzzjoni ta 'fatturat għoli."
+      },
+      "manufacturing": {
+        "title": "Manifattura",
+        "text": "Xiri, maħżen u inventarju allinjati mal-amministrazzjoni."
+      },
+      "lastmile": {
+        "title": "Kunsinna u l-aħħar mil",
+        "text": "Rotot, sewwieqa u l-istatus ta 'kull kunsinna."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Riżorsi",
+    "title": "Ideat ċari biex [[ordna l-operazzjoni]]",
+    "intro": "Gwidi qosra għall-maniġers tad-distribuzzjoni li ser jiddeċiedu ma' liema sistema għandhom iżommu.",
+    "items": {
+      "unify": {
+        "title": "Kif tgħaqqad id-distribuzzjoni f'sistema waħda",
+        "summary": "X'għandek tgħaqqad l-ewwel meta l-bejgħ, il-maħżen u l-kollezzjonijiet jgħixu f'fajls differenti.",
+        "points": [
+          "Ibda bil-klijenti, il-prodotti u l-prezzijiet: huma l-għalliema li kulħadd juża.",
+          "Qabbad l-ordni ma 'l-istokk qabel ma żżid aktar applikazzjonijiet.",
+          "Hija tkejjel numru sempliċi: ordnijiet sodisfatti mingħajr ma terġa 'tagħmel il-formola."
+        ]
+      },
+      "offline": {
+        "title": "Forza tal-bejgħ taħdem offline",
+        "summary": "X'għandek titlob minn app li tordna sabiex il-bejjiegħ ma jieqafx minħabba s-sinjal.",
+        "points": [
+          "Il-katalgu u l-kartiera jridu jkunu fuq it-telefon, mhux biss fis-sħab.",
+          "L-ordni tiġi ffrankata fuq l-apparat u tittella’ meta n-netwerk jerġa’ lura.",
+          "Meta tissinkronizza, l-ordni diġà tidħol fil-maħżen."
+        ]
+      },
+      "warehouse": {
+        "title": "Maħżen bil-barcode, mingħajr karta",
+        "summary": "Kif tmur mil-lista stampata għal picking ikkonfermat fuq it-telefon.",
+        "points": [
+          "Irċievi kontra l-ordni tax-xiri, mhux kontra l-memorja.",
+          "Ikkonferma kull oġġett meta tissepara. Il-bug jaqta’ fil-hallway.",
+          "Id-dispaċċ jaġġorna l-istokk li jara l-bejjiegħ."
+        ]
+      },
+      "finance": {
+        "title": "Ġbir allinjat mal-bejgħ",
+        "summary": "Għaliex il-bejjiegħ għandu jara d-dejn tal-klijent qabel ma jieħu ordni oħra.",
+        "points": [
+          "Iż-żjara hija l-aħjar ħin biex tiġbor, jekk id-dejn ikun viżibbli.",
+          "Il-bejgħ u l-finanzi għandhom iħarsu lejn l-istess klijent.",
+          "Rapport ta 'kuljum li jkun sar tard jiswa aktar minn għeluq tard."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Prezzijiet",
+    "title": "Ekosistema li [[tikber miegħek]]",
+    "intro": "Aħna ma nippubblikawx rata ġenerika: l-ispiża tiddependi fuq il-moduli, l-utenti u l-volum. Aħna nuruk il-pjattaforma u ngħaqqdu proposta bl-operat tiegħek.",
+    "note": "Id-demo m'għandha l-ebda spiża u ma teħtieġx kuntratt.",
+    "recommended": "Rakkomandat",
+    "faq_title": "Mistoqsijiet frekwenti",
+    "plans": {
+      "essential": {
+        "name": "Essenzjali",
+        "desc": "Biex torganizza ġestjoni u distribuzzjoni kummerċjali fuq pjattaforma waħda.",
+        "features": [
+          "FullVendor pjattaforma tal-web",
+          "Bejgħ, xiri u inventarju",
+          "Klijenti, fornituri u rapporti",
+          "Utenti tat-tagħmir tal-uffiċċju",
+          "Appoġġ għall-bidu"
+        ],
+        "cta": "Itlob Demo"
+      },
+      "professional": {
+        "name": "Professjonali",
+        "desc": "Għal timijiet li jbiegħu fit-toroq u jippreparaw ordnijiet fil-maħżen.",
+        "features": [
+          "Kollox Essenzjali",
+          "App FullVendor Sales Man",
+          "App FullVendor Warehouse",
+          "Xogħol offline u barcodes",
+          "Aktar utenti tal-qasam u tal-maħżen"
+        ],
+        "cta": "Itlob Demo"
+      },
+      "corporate": {
+        "name": "Korporattiva",
+        "desc": "Għal gruppi li jeħtieġu loġistika, xiri, finanzi u diversi kumpaniji.",
+        "features": [
+          "Ekosistema kompluta",
+          "Logistics, Vendor Supplier u Finance",
+          "FullVendor ERP u multi-kiri",
+          "Kontijiet u kontijiet elettroniċi",
+          "Akkumpanjament u disponibbiltà ta' prijorità"
+        ],
+        "cta": "Kellem lill-bejgħ"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Għandi nixtri l-prodotti kollha?",
+        "a": "Le. Tista' tibda b'FullVendor u żżid apps jew ERP meta l-operazzjoni teħtieġha."
+      },
+      "offline": {
+        "q": "L-applikazzjonijiet jaħdmu mingħajr l-internet?",
+        "a": "Sales Man u Warehouse ikomplu jaħdmu mingħajr sinjal u jissinkronizzaw meta jerġgħu jikkonnettjaw."
+      },
+      "multi": {
+        "q": "Taħdem jekk għandi aktar minn kumpanija waħda?",
+        "a": "Iva. ERP jikkontempla multi-kumpanija u l-ekosistema tista 'taqsam il-kaptani bejniethom."
+      },
+      "demo": {
+        "q": "X'tinkludi d-demo?",
+        "a": "Dawra tal-pjattaforma b'każ simili għal tiegħek. L-ebda spiża u l-ebda obbligu."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Demo",
+    "title": "Aħna nuruk FullVendor bi [[tip ta' operazzjoni tiegħek]]",
+    "text": "Għidilna dwar il-kumpanija tiegħek u dak li trid tordna l-ewwel. Id-demo m'għandha l-ebda spiża."
+  },
+  "contact": {
+    "eyebrow": "Kuntatt",
+    "title": "Ejja nitkellmu dwar l-[[operat tiegħek]]",
+    "text": "Jekk trid demo, proposta jew sempliċement torjenta ruħek bejn il-prodotti, ħalli l-informazzjoni tiegħek u aħna nirrispondu.",
+    "email": "Posta",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Isem",
+    "email": "Posta",
+    "phone": "Telefon",
+    "company": "Kumpanija",
+    "country": "Pajjiż",
+    "team": "Daqs tat-tim",
+    "interest": "X'jinteressak?",
+    "message": "Messaġġ",
+    "optional": "Fakultattiv",
+    "choose": "Agħżel",
+    "interest_all": "L-ekosistema kollha",
+    "ph_name": "ismek",
+    "ph_email": "int@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Il-kumpanija tiegħek",
+    "ph_country": "Pajjiż",
+    "ph_message": "Għidilna kif topera llum",
+    "privacy_before": "Naċċetta l-użu tad-dejta tiegħi skont il-",
+    "privacy_after": ".",
+    "submit": "Ibgħat it-talba",
+    "sent_title": "Nirċievu t-talba tiegħek",
+    "sent_text": "Grazzi. It-tim tal-bejgħ jiktbillek biex tikkoordina d-demo jew iwieġeb il-mistoqsija tiegħek.",
+    "error_required": "Imla dan il-qasam.",
+    "error_email": "Daħħal email valida.",
+    "error_phone": "Iċċekkja t-telefon.",
+    "error_privacy": "Neħtieġu l-kunsens tiegħek biex nużaw id-dettalji tal-kuntatt.",
+    "error_csrf": "Is-sessjoni skadiet. Issottometti mill-ġdid il-formola.",
+    "error_save": "Ma stajniex insalvaw it-talba. Erġa' pprova.",
+    "error_generic": "Irrevedi l-oqsma mmarkati.",
+    "error_rate": "Jekk jogħġbok stenna ftit qabel tissottometti talba oħra.",
+    "team_options": {
+      "1-10": "1 sa 10 persuni",
+      "11-50": "11 sa 50 persuna",
+      "51-200": "51 sa 200 ruħ",
+      "201-500": "201 sa 500 ruħ",
+      "500+": "Aktar minn 500 ruħ"
+    }
+  },
+  "video": {
+    "title": "FullVendor f'minuta waħda",
+    "prev": "Ex",
+    "next": "Wara",
+    "slides": [
+      {
+        "title": "Ekosistema waħda",
+        "text": "Bejgħ, maħżen, konsenja, xiri u finanzi jaqsmu klijenti, stokk u ordnijiet."
+      },
+      {
+        "title": "Web u mobbli flimkien",
+        "text": "L-uffiċċju jaħdem fuq il-pjattaforma. It-triq u l-maħżen, fl-apps, anke mingħajr sinjal."
+      },
+      {
+        "title": "Magħmul biex iqassam",
+        "text": "Mill-ordni sal-ħlas, mingħajr ma tgħaddi informazzjoni minn fajl għal ieħor."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Fittex għal prodotti, soluzzjonijiet, industriji...",
+    "lang_filter": "Fittex il-lingwa",
+    "intro": "Fittex prodotti, soluzzjonijiet, industriji u riżorsi.",
+    "empty": "Ma sibniex riżultati għal “{q}”.",
+    "hint": "Ipprova bejgħ, maħżen, rotot jew kollezzjonijiet.",
+    "results": "{n} riżultati",
+    "button": "Fittex għal",
+    "kind_product": "Prodott",
+    "kind_solution": "Soluzzjoni",
+    "kind_industry": "Industrija",
+    "kind_resource": "Riżorsa"
+  },
+  "notfound": {
+    "title": "Din il-paġna mhix",
+    "text": "Il-link ma teżistix jew inbidlet il-post."
+  },
+  "common": {
+    "what": "Dak li jsolvi",
+    "features": "X'inhu inkluż",
+    "benefits": "Għaliex huwa importanti",
+    "for_who": "Għal min hu?",
+    "related": "Ukoll fl-ekosistema"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Bejgħ illum",
+      "orders": "Ordnijiet",
+      "clients": "Klijenti",
+      "products": "Prodotti"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "sales": "Bejgħ",
+      "purchases": "Xiri",
+      "inventory": "Inventarju",
+      "clients": "Klijenti",
+      "reports": "Rapporti"
+    },
+    "chart": "Bejgħ",
+    "channel": "Distribuzzjoni skond il-kanali",
+    "channels": [
+      "Aħżen",
+      "Distribuzzjoni",
+      "Bejjiegħ bl-ingrossa",
+      "Oħrajn"
+    ],
+    "orders": "L-aħħar ordnijiet",
+    "col_order": "Ordni",
+    "col_client": "Klijent",
+    "col_status": "Stat",
+    "col_total": "Total",
+    "status": [
+      "Mogħtija",
+      "Fit-triq",
+      "Earring"
+    ],
+    "top": "L-aħjar prodotti li jbiegħu",
+    "product": "Prodott",
+    "sales_menu": [
+      "Klijenti",
+      "Ordnijiet",
+      "Prodotti",
+      "Rotot",
+      "Issinkronizza"
+    ],
+    "warehouse_menu": [
+      "Akkoljenza",
+      "Picking",
+      "Inventarju",
+      "Dispaċċ",
+      "Issinkronizza"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Politika ta' Privatezza",
+    "privacy_intro": "Din il-politika tispjega x’nagħmlu bid-dejta li tħalli f’formoli fuq dan is-sit.",
+    "privacy": [
+      {
+        "title": "Liema data niġbru",
+        "text": "Jekk titlob demo jew tikteb lilna, aħna niffrankaw l-isem, il-kumpanija, l-email, in-numru tat-telefon jekk tindikah, il-pajjiż, id-daqs tat-tim, il-prodott ta 'interess u l-messaġġ. Aħna nirreġistraw ukoll id-data, il-lingwa tal-paġna u l-indirizz IP, biex nipprevjenu sottomissjonijiet abbużivi."
+      },
+      {
+        "title": "Għal xiex nużawhom?",
+        "text": "Aħna nużaw din id-dejta biss biex nirrispondu lilek, nikkoordinaw demo u nippreparaw proposta kummerċjali. Aħna ma nbigħuhomx jew nagħtuhom lil lista ta’ partijiet terzi."
+      },
+      {
+        "title": "Fejn huma maħżuna u għal kemm żmien?",
+        "text": "It-talbiet huma maħżuna fuq is-server ta' dan is-sit. Aħna nżommuhom għaż-żmien meħtieġ biex naqduk u segwitu kummerċjali, u nħassruhom meta titlobna jew meta ma jibqgħux meħtieġa."
+      },
+      {
+        "title": "Id-drittijiet tiegħek",
+        "text": "Tista' titlob aċċess, korrezzjoni jew tħassir tad-dejta tiegħek mill-formola ta' kuntatt, billi tindikaha fil-messaġġ. Jekk il-kumpanija tippubblika email fuq din il-websajt, tista 'wkoll tikteb hemmhekk."
+      }
+    ],
+    "terms_title": "Termini ta' użu",
+    "terms_intro": "Dawn il-kundizzjonijiet japplikaw għall-użu ta’ dan is-sit ta’ sottomissjoni FullVendor.",
+    "terms": [
+      {
+        "title": "Informazzjoni kummerċjali",
+        "text": "Testi, ċifri ta' dashboard ta' eżempju u deskrizzjonijiet jintroduċu l-pjattaforma. Jistgħu jiġu aġġustati meta l-prodott jinbidel u mhumiex offerta magħluqa."
+      },
+      {
+        "title": "Id-demo mhix kuntratt",
+        "text": "Is-sottomissjoni tal-formola ma toħloqx obbligu li tixtri jew tirriserva prezz. Kwalunkwe kuntratt huwa miftiehem separatament, bil-miktub, bl-ambitu u l-kundizzjonijiet tiegħu."
+      },
+      {
+        "title": "Kontenut tas-sit",
+        "text": "It-trademark FullVendor, l-ismijiet tal-prodotti u l-kontenut ta 'dawn il-paġni jappartjenu lis-sidien tagħhom. Ma jistgħux jiġu kkupjati biex jippreżentaw prodott ieħor."
+      },
+      {
+        "title": "Użu aċċettabbli",
+        "text": "Tużax il-formoli biex tissottometti informazzjoni falza, spam jew kontenut illegali. Nistgħu ninjoraw talbiet li ma jikkorrispondux għal konverżazzjoni tan-negozju attwali."
+      }
+    ]
+  }
+}

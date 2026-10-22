@@ -71,7 +71,12 @@
   "products_block": {
     "eyebrow": "Nuestros productos",
     "title": "Un [[ecosistema completo]] para cada área de tu negocio",
-    "aside": "Soluciones integradas que trabajan juntas para darte control total, eficiencia operativa y mayor crecimiento."
+    "aside": "Soluciones integradas que trabajan juntas para darte control total, eficiencia operativa y mayor crecimiento.",
+    "groups": {
+      "money": "Administración y cobranza",
+      "flow": "Compras y reparto",
+      "field": "Ventas y almacén"
+    }
   },
   "products_page": {
     "title": "Siete productos, [[una sola operación]]",

@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "home_title": "FullVendor | Biznesingizni boshqaring va rivojlantiring",
+    "home_desc": "Tarqatish, sotish, logistika, sotib olish, inventarizatsiya va moliya uchun veb va mobil echimlarga ega bo'lgan barcha bir platforma.",
+    "products_title": "Mahsulotlar | FullVendor",
+    "products_desc": "Ekotizim bilan tanishing FullVendor: tijorat platformasi, ERP, logistika, yetkazib beruvchilar va savdo, ombor va moliya ilovalari.",
+    "product_title": "{name} | FullVendor",
+    "solutions_title": "Yechimlar | FullVendor",
+    "solutions_desc": "Tijorat boshqaruvi, savdo kuchlari, omborlar, logistika, xaridlar va moliya uchun echimlar.",
+    "industries_title": "Sanoat | FullVendor",
+    "industries_desc": "FullVendor tarqatish, chakana savdo, oziq-ovqat, dorixona, apparat, ommaviy iste'mol, ishlab chiqarish va oxirgi mil uchun.",
+    "pricing_title": "Narxlar | FullVendor",
+    "pricing_desc": "Muhim, professional va korporativ rejalar. Taklif modullar, foydalanuvchilar va hajmga qarab birlashtiriladi.",
+    "resources_title": "Resurslar | FullVendor",
+    "resources_desc": "Tarqatishni birlashtirish, oflayn rejimda sotish, omborni tashkil qilish va o'z vaqtida to'lash uchun qisqa qo'llanmalar.",
+    "contact_title": "Aloqa | FullVendor",
+    "contact_desc": "FullVendor haqida ma'lumot olish yoki savdo guruhi bilan suhbatni muvofiqlashtirish uchun bizga yozing.",
+    "demo_title": "Demo so'rovi | FullVendor",
+    "demo_desc": "FullVendor demosini so'rang va operatsiyangizga o'xshash holat bilan platformani kezing.",
+    "privacy_title": "Maxfiylik | FullVendor",
+    "terms_title": "Shartlar | FullVendor",
+    "search_title": "Qidiruv | FullVendor",
+    "notfound_title": "Sahifa topilmadi | FullVendor"
+  },
+  "routes": {
+    "products": "products",
+    "solutions": "solutions",
+    "industries": "industries",
+    "pricing": "pricing",
+    "resources": "resources",
+    "contact": "contact",
+    "demo": "demo",
+    "privacy": "privacy",
+    "terms": "terms",
+    "search": "search"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "products": "Mahsulotlar",
+    "solutions": "Yechimlar",
+    "industries": "Sanoat tarmoqlari",
+    "pricing": "Narxlar",
+    "resources": "Resurslar",
+    "contact": "Aloqa",
+    "open_menu": "Menyuni oching",
+    "close": "Yopish"
+  },
+  "cta": {
+    "demo": "Demo soʻrovi",
+    "contact": "Biz bilan bog'lanish",
+    "video": "Videoni tomosha qiling",
+    "talk": "Savdolar bilan gaplashing",
+    "all_products": "Barcha mahsulotlarni ko'ring",
+    "home": "Bosh sahifaga qaytish"
+  },
+  "a11y": {
+    "skip": "Tarkibga oʻtish",
+    "primary": "Asosiy navigatsiya",
+    "crumbs": "Navigatsiya marshruti",
+    "search": "Izlamoq",
+    "language": "Til"
+  },
+  "hero": {
+    "eyebrow": "Hammasi bitta platformada",
+    "title": "Boshqaring va o'stiring\nbilan biznesingiz\n{{brand}}",
+    "subtitle": "Tarqatish, sotish, logistika, sotib olish, inventarizatsiya, moliya va boshqalar uchun veb va mobil echimlarga ega to'liq platforma.",
+    "pill_ecosystem": "Hammasi bitta ekotizimda",
+    "pill_cloud": "Bulutda, xavfsiz va kengaytiriladigan",
+    "pill_size": "Barcha o'lchamdagi kompaniyalar uchun"
+  },
+  "products_block": {
+    "eyebrow": "Bizning mahsulotlarimiz",
+    "title": "Biznesingizning har bir sohasi uchun [[to'liq ekotizim]]",
+    "aside": "Sizga umumiy nazorat, operatsion samaradorlik va katta o'sishni ta'minlash uchun birgalikda ishlaydigan integratsiyalashgan echimlar.",
+    "groups": {
+      "money": "Ma'muriyat va yig'ish",
+      "flow": "Sotib olish va yetkazib berish",
+      "field": "Savdo va omborxona"
+    }
+  },
+  "products_page": {
+    "title": "Etti mahsulot, [[bitta operatsiya]]",
+    "text": "Har bir mahsulot bir sohani hal qiladi. Ular birgalikda mijozlarni, aktsiyalarni, buyurtmalarni va to'lovlarni almashadilar."
+  },
+  "products": {
+    "fullvendor": {
+      "kicker": "Platforma",
+      "card": "Tijoratni boshqarish va tarqatish uchun asosiy platforma.",
+      "features": [
+        "Sotish va xaridlar",
+        "Inventarizatsiya",
+        "Mijozlar va etkazib beruvchilar",
+        "Hisobotlar va boshqalar"
+      ],
+      "lead": "Tijorat faoliyatingiz markazi: buyurtmalar, narxlar, aksiyalar va mijozlar bir joyda.",
+      "about": "FullVendor distribyutorning bo'sh elektron jadvallari va tizimlarini almashtiradi. Bu erdan buyurtmalar chiqadi, inventarizatsiya qilinadi, mijozlar portfeli g'amxo'rlik qilinadi va kunlik raqamlar ko'rib chiqiladi. Ekotizimning qolgan qismi bu bazaga ulanadi.",
+      "benefits": [
+        {
+          "title": "Yagona ma'lumotlar ustasi",
+          "text": "Xaridorlar, mahsulotlar va narxlar savdo, ombor va moliya bilan bo'linadi."
+        },
+        {
+          "title": "Kundalik operatsiyani aniqlang",
+          "text": "Buyurtmalar, xaridlar va aktsiyalar turli fayllarda yashashni to'xtatadi."
+        },
+        {
+          "title": "Qaror qabul qilish uchun hisobotlar",
+          "text": "Savdolar, marja va kutilayotganlar jadvalni qo'lda yig'masdan ko'rinadi."
+        },
+        {
+          "title": "O'sishga tayyor",
+          "text": "Logistika, savdo kuchi yoki operatsiya talab qilganda ERP summalari."
+        }
+      ],
+      "audience": "Bugungi kunda biznesni bir nechta tizimlar o'rtasida muvofiqlashtiradigan tijorat va tarqatish guruhlari."
+    },
+    "erp": {
+      "kicker": "Ma'muriyat",
+      "card": "To'liq ma'muriy va moliyaviy boshqaruv.",
+      "features": [
+        "Buxgalteriya hisobi",
+        "Elektron hisob-kitob",
+        "Ish varaqlari",
+        "Asosiy vositalar",
+        "Ko'p kompaniya"
+      ],
+      "lead": "Ma'muriyat va moliya, aslida sotilgan va etkazib beriladigan narsalarga mos keladi.",
+      "about": "FullVendor ERP buxgalteriya hisobi, elektron hisob-faktura, ish haqi, asosiy vositalar va ko'p kompaniyani qamrab oladi. U tijorat operatsiyasini oladi va uni moliyaviy soha foydalanishi mumkin bo'lgan yozuvlar, tushumlar va hisobotlarga aylantiradi.",
+      "benefits": [
+        {
+          "title": "Bog'langan buxgalteriya",
+          "text": "Sotish va sotib olishda nima sodir bo'ladi buxgalteriya hisobi."
+        },
+        {
+          "title": "Elektron kvitansiyalar",
+          "text": "Siz bir xil ekotizimdan hisob-kitoblarni chiqarasiz va nazorat qilasiz."
+        },
+        {
+          "title": "Turli kompaniyalar",
+          "text": "Bir nechta kompaniya nomi ostida ishlaydigan guruhlar uchun ko'p kompaniya."
+        },
+        {
+          "title": "Ish haqi va aktivlar",
+          "text": "Boshqaruvning qolgan qismi bilan birga ish haqi va asosiy vositalar."
+        }
+      ],
+      "audience": "Raqamlarni haqiqiy operatsiya bilan yopishni xohlaydigan ma'muriy va moliyaviy sohalar."
+    },
+    "logistics": {
+      "kicker": "Logistika",
+      "card": "Logistika faoliyatingizni nazorat qilish va monitoring qilish.",
+      "features": [
+        "Marshrutlar va yetkazib berish",
+        "Haqiqiy vaqtda kuzatish",
+        "Haydovchi tayinlash",
+        "Yo'nalishni optimallashtirish"
+      ],
+      "lead": "Buyurtmadan yetkazib berishgacha: marshrutlar, haydovchilar va real vaqtda kuzatish.",
+      "about": "FullVendor Logistics taqsimlashni tashkil qiladi. Siz marshrutlarni yaratasiz, haydovchilarni tayinlaysiz va har bir etkazib berish qaerga ketayotganini ko'rasiz. Buyurtma jo'natilganligini bilish uchun qo'ng'iroqlarga qarab yo'l harakati jamoasi to'xtaydi.",
+      "benefits": [
+        {
+          "title": "Kunning marshrutlari",
+          "text": "Hudud, vaqt oynasi va sig'im bo'yicha buyurtma qilingan etkazib berish."
+        },
+        {
+          "title": "Belgilangan haydovchi",
+          "text": "Har bir marshrutda mas'ul shaxs va aniq ketma-ketlik mavjud."
+        },
+        {
+          "title": "Kuzatish",
+          "text": "Siz nima yetkazib berilganini, yo'lda yoki to'xtaganini bilasiz."
+        },
+        {
+          "title": "Kamroq kilometr",
+          "text": "Yo'nalishni optimallashtirish etkazib berish vaqtini va narxini pasaytiradi."
+        }
+      ],
+      "audience": "O'z floti yoki uchinchi shaxslar bilan tarqatish operatsiyalari."
+    },
+    "supplier": {
+      "kicker": "Xarid qilish",
+      "card": "Yetkazib beruvchilar va xaridlarni boshqarish uchun portal.",
+      "features": [
+        "Buyurtmalarni xarid qilish",
+        "Iqtibos",
+        "Yetkazib beruvchilarni boshqarish",
+        "Inventarizatsiya bilan integratsiya"
+      ],
+      "lead": "Yetkazib beruvchilaringiz bo'sh elektron pochta xabarlarisiz taklif qiladi, buyurtmalar oladi va zaxiralarni to'ldiradi.",
+      "about": "Vendor Supplier xaridlar va yetkazib beruvchilarning bir xil buyurtmalar bo'yicha ishlashi uchun portal ochadi. Kotirovkalar, xarid buyurtmalari va kvitansiya FullVendor inventarizatsiyasiga bog'langan.",
+      "benefits": [
+        {
+          "title": "Kanalda buyurtmalar",
+          "text": "Yetkazib beruvchi elektron pochta zanjirisiz nima yetkazib berishni ko'radi."
+        },
+        {
+          "title": "Taqqoslanadigan iqtiboslar",
+          "text": "Siz narxlarni so'raysiz va tarixni hisobga olgan holda tanlaysiz."
+        },
+        {
+          "title": "Yetkazib beruvchi ustasi",
+          "text": "Shartlar, kontaktlar va bitta yozuvda kutilmoqda."
+        },
+        {
+          "title": "Inventarizatsiyani kiriting",
+          "text": "Sotib olingan narsa aktsiyada olinganda aks ettiriladi."
+        }
+      ],
+      "audience": "Bir nechta etkazib beruvchilar bilan to'ldiriladigan va kuzatuvga muhtoj bo'lgan xarid guruhlari."
+    },
+    "salesman": {
+      "kicker": "Mobil ilova",
+      "card": "Savdo jamoasi uchun mobil ilova.",
+      "features": [
+        "Mijozlarni boshqarish",
+        "Buyurtma qabul qilish",
+        "Mahsulotlar katalogi",
+        "Oflayn ish"
+      ],
+      "lead": "Savdo guruhi ko'chada signal bilan yoki signalsiz buyurtmalarni qabul qiladi.",
+      "about": "FullVendor Sales Man portfelingiz, katalogingiz va buyurtmangizni sotuvchining telefoniga joylashtiradi. Agar internet bo'lmasa, ish davom etadi va signal qaytib kelganda sinxronlashtiriladi. Buyurtma tayyorlanish va yetkazib berish uchun keladi.",
+      "benefits": [
+        {
+          "title": "Cho'ntakda hamyon",
+          "text": "Sotuvchi mijozlarni, shartlarni va kutilayotgan narsalarni ko'radi."
+        },
+        {
+          "title": "Tashrifda buyurtma bering",
+          "text": "Joriy narxlar va zaxiralar bilan buyurtma oling."
+        },
+        {
+          "title": "Katalog yangilangan",
+          "text": "Mahsulotlar, taqdimotlar va narxlar eski PDF holda."
+        },
+        {
+          "title": "Haqiqiy oflayn",
+          "text": "Qoplamasiz ishlang va keyinroq sinxronlang."
+        }
+      ],
+      "audience": "Tarqatish va ommaviy iste'molda nazoratchilar va dala sotuvchilari."
+    },
+    "warehouse": {
+      "kicker": "Mobil ilova",
+      "card": "Ombor uchun mobil ilova.",
+      "features": [
+        "Qabul qilish va jo'natish",
+        "Tanlash va qadoqlash",
+        "Inventarizatsiya nazorati",
+        "Shtrix-kodni o'qish"
+      ],
+      "lead": "Telefon va shtrix-kod bilan qabul qilish, olish va jo'natish.",
+      "about": "FullVendor Warehouse qabul qilish, yig'ish, qadoqlash va jo'natishda omborga rahbarlik qiladi. Kodlarni o'qish xatolarni kamaytiradi va inventarizatsiya endi faqat oy oxirida hisoblanmaydi.",
+      "benefits": [
+        {
+          "title": "Buyurtmaga qarshi qabul qilish",
+          "text": "Kiritilgan narsa sotib olish bilan taqqoslanadi."
+        },
+        {
+          "title": "Maqsadli tanlash",
+          "text": "Kema egasi buyurtmani bajaradi va har bir elementni tasdiqlaydi."
+        },
+        {
+          "title": "Shtrixli kodlar",
+          "text": "Kamroq mahsulot, partiya yoki miqdor xatolari."
+        },
+        {
+          "title": "Ishonchli zaxira",
+          "text": "Har bir harakat platforma inventarini yangilaydi."
+        }
+      ],
+      "audience": "Bugungi kunda bosma ro'yxatlar bilan buyurtmalar tayyorlaydigan ombor rahbarlari va kema egalari."
+    },
+    "finance": {
+      "kicker": "Mobil ilova",
+      "card": "Mobil telefoningizdan moliyaviy nazorat.",
+      "features": [
+        "Debitorlik va kreditorlik qarzlari",
+        "Mijoz holati",
+        "To'lovlar va hisob-kitoblar",
+        "Moliyaviy hisobotlar"
+      ],
+      "lead": "Telefoningizdan debitorlik qarzi, to'lovlar va mijoz holati.",
+      "about": "FullVendor Finance mobil telefonda inkassatsiyani ko'rsatadi: har bir mijozning qarzi, kompaniya nimani to'lamoqchi va to'lovlar qanday keladi. U tashrif paytida pul yig'ish va stolni ochmasdan kassaga qarash uchun ishlatiladi.",
+      "benefits": [
+        {
+          "title": "Tashrifda yig'ish",
+          "text": "Sotuvchi sotishdan oldin mijozning yangilanganligini biladi."
+        },
+        {
+          "title": "Debitorlik va to'lash",
+          "text": "Xuddi shu ilovada qutining ikkala tomoni."
+        },
+        {
+          "title": "To'lovlar va hisob-kitoblar",
+          "text": "Siz kreditlarni ro'yxatdan o'tkazasiz va nimani kesib o'tish kerakligini ko'rasiz."
+        },
+        {
+          "title": "Hisobotlar qo'lda",
+          "text": "Yopishni kutmasdan yig'ish va naqd pul ko'rsatkichlari."
+        }
+      ],
+      "audience": "Ayni paytda mijozning holatiga muhtoj bo'lgan menejerlar, kollektorlar va sotuvchilar."
+    }
+  },
+  "why": {
+    "eyebrow": "Nima uchun FullVendor",
+    "title": "Biznesingizni rivojlantiring\nhaqiqiy natijalar bilan",
+    "stats": [
+      {
+        "value": "+500",
+        "suffix": "",
+        "label": "Kompaniyalar bizga ishonishadi"
+      },
+      {
+        "value": "+50,000",
+        "suffix": "",
+        "label": "Faol foydalanuvchilar"
+      },
+      {
+        "value": "+10",
+        "suffix": "yillar",
+        "label": "Doimiy evolyutsiyada"
+      },
+      {
+        "value": "99.9%",
+        "suffix": "",
+        "label": "Bulut mavjudligi"
+      }
+    ]
+  },
+  "flow": {
+    "eyebrow": "Bu qanday ishlaydi",
+    "title": "Tizimlarni o'zgartirmasdan, sotuvdan yig'ishgacha",
+    "text": "Har bir mahsulot mijozlar, aktsiyalar, buyurtmalar va to'lovlarni baham ko'radi. Ko'chada yoki omborda sodir bo'layotgan narsa bir zumda ofisda paydo bo'ladi.",
+    "steps": {
+      "sell": {
+        "title": "Siz sotasiz",
+        "text": "Buyurtma veb-sayt orqali yoki Sales Man orqali, hatto signalsiz ham kiritiladi."
+      },
+      "pick": {
+        "title": "Tayyor",
+        "text": "Warehouse shtrix-kod bilan qabul qiladi, ajratadi va jo'natadi."
+      },
+      "deliver": {
+        "title": "Yetkazib berish",
+        "text": "Logistics marshrutni belgilaydi va etkazib berishni kuzatib boradi."
+      },
+      "collect": {
+        "title": "Kobralar",
+        "text": "Finance va ERP to'plamni, kvitansiyalarni va raqamlarni yopadi."
+      }
+    }
+  },
+  "band": {
+    "title": "Uni [[operatsiyangiz]] bilan ko'rishga tayyormisiz?",
+    "text": "Biz sizga ekotizimni sizga o'xshash tarqatish qutisi bilan ko'rsatamiz."
+  },
+  "footer": {
+    "blurb": "Tarqatish, sotish, logistika, sotib olish, inventarizatsiya va moliya uchun veb va mobil platforma.",
+    "products": "Mahsulotlar",
+    "company": "Kompaniya",
+    "legal": "Huquqiy",
+    "privacy": "Maxfiylik",
+    "terms": "Shartlar",
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+  "solutions": {
+    "eyebrow": "Yechimlar",
+    "title": "[[xuddi shu operatsiya]] ga ulangan har bir hudud",
+    "intro": "O'zingiz hal qilmoqchi bo'lgan muammoni tanlang. Orqa tomonda, mahsulotlar bir xil ma'lumotga ega.",
+    "items": {
+      "commercial": {
+        "title": "Tijorat boshqaruvi",
+        "text": "Buyurtmalar, narxlar, mijozlar va kundalik tarqatish uchun inventar."
+      },
+      "field": {
+        "title": "savdo kuchi",
+        "text": "Ko'chada, onlayn yoki oflayn rejimda buyurtmalarni qabul qiluvchi sotuvchilar."
+      },
+      "warehouse": {
+        "title": "Do'kon",
+        "text": "Qabul qilish, yig'ish, jo'natish va ishonchli zaxira."
+      },
+      "logistics": {
+        "title": "Logistika va yetkazib berish",
+        "text": "Marshrutlar, haydovchilar va har bir yetkazib berish holati."
+      },
+      "purchasing": {
+        "title": "Sotib olish va etkazib beruvchilar",
+        "text": "Iqtiboslar, buyurtmalar va sizni ta'minlovchilar uchun portal."
+      },
+      "finance": {
+        "title": "Moliya va buxgalteriya",
+        "text": "To'lovlar, to'lovlar, elektron hisob-kitoblar va buxgalteriya."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Sanoat tarmoqlari",
+    "title": "[[mahsulotni siljitadi]] uchun yaratilgan",
+    "intro": "FullVendor tarqatishda tug'ilgan va sotib oladigan, saqlaydigan, sotadigan va etkazib beradigan kompaniyalarga hamrohlik qiladi.",
+    "items": {
+      "wholesale": {
+        "title": "Ulgurji va tarqatish",
+        "text": "Narxlar ro'yxati, portfel, tarqatish va yig'ish bitta sxemada."
+      },
+      "retail": {
+        "title": "Chakana savdo",
+        "text": "Ulangan zaxiraga ega do'kon va ombor, sotish va to'ldirish."
+      },
+      "food": {
+        "title": "Oziq-ovqat va ichimliklar",
+        "text": "Tez-tez marshrutlar va to'xtata olmaydigan ombor."
+      },
+      "pharma": {
+        "title": "Dorixona va shaxsiy parvarish",
+        "text": "Qabul qilish, yig'ish va inventarni kuzatib borish bilan nazorat qilish."
+      },
+      "hardware": {
+        "title": "Uskuna va qurilish",
+        "text": "Ish yoki do'kon uchun ko'plab ma'lumotnomalar, etkazib beruvchilar va etkazib berishlar."
+      },
+      "fmcg": {
+        "title": "Ommaviy iste'mol",
+        "text": "Ko'cha savdo kuchi va yuqori aylanmani almashtirish."
+      },
+      "manufacturing": {
+        "title": "Ishlab chiqarish",
+        "text": "Xarid qilish, omborxona va inventarizatsiya ma'muriyat bilan muvofiqlashtirilgan."
+      },
+      "lastmile": {
+        "title": "Yetkazib berish va oxirgi mil",
+        "text": "Marshrutlar, haydovchilar va har bir yetkazib berish holati."
+      }
+    }
+  },
+  "resources": {
+    "eyebrow": "Resurslar",
+    "title": "[[operatsiyaga buyurtma berish]] uchun aniq fikrlar",
+    "intro": "Qaysi tizimga rioya qilishni hal qiladigan tarqatish menejerlari uchun qisqacha qo'llanmalar.",
+    "items": {
+      "unify": {
+        "title": "Tarqatishni yagona tizimga qanday birlashtirish kerak",
+        "summary": "Savdolar, omborlar va kollektsiyalar turli fayllarda yashasa, birinchi navbatda nimani birlashtirish kerak.",
+        "points": [
+          "Mijozlar, mahsulotlar va narxlardan boshlang: ular hamma foydalanadigan o'qituvchidir.",
+          "Qo'shimcha ilovalarni qo'shishdan oldin buyurtmani stok bilan bog'lang.",
+          "Bu oddiy raqamni o'lchaydi: buyurtmalar shaklni o'zgartirmasdan bajarilgan."
+        ]
+      },
+      "offline": {
+        "title": "Savdo guruhi oflayn rejimda ishlaydi",
+        "summary": "Signal tufayli sotuvchi to'xtab qolmasligi uchun buyurtma ilovasidan nimani talab qilish kerak.",
+        "points": [
+          "Katalog va hamyon faqat bulutda emas, telefonda bo'lishi kerak.",
+          "Buyurtma qurilmada saqlanadi va tarmoq qaytib kelganida yuklanadi.",
+          "Sinxronlashda buyurtma allaqachon omborga kiradi."
+        ]
+      },
+      "warehouse": {
+        "title": "Shtrixli ombor, qog'ozsiz",
+        "summary": "Telefonda chop etilgan ro'yxatdan tasdiqlangan tanlovga qanday o'tish mumkin.",
+        "points": [
+          "Xotiraga qarshi emas, balki xarid buyurtmasiga qarshi qabul qiling.",
+          "Ajratishda har bir elementni tasdiqlang. Xato koridorga kirib boradi.",
+          "Jo'natma sotuvchi ko'rgan aktsiyalarni yangilaydi."
+        ]
+      },
+      "finance": {
+        "title": "To'plam sotuvga moslangan",
+        "summary": "Nima uchun sotuvchi boshqa buyurtma olishdan oldin mijozning qarzini ko'rishi kerak.",
+        "points": [
+          "Tashrif, qarz ko'rinadigan bo'lsa, yig'ish uchun eng yaxshi vaqt.",
+          "Savdo va moliya bir xil mijozga qarashlari kerak.",
+          "Kundalik muddati o'tgan hisobot kech yopilishdan ko'ra qimmatroqdir."
+        ]
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Narxlar",
+    "title": "[[Siz bilan birga o'sadigan]] ekotizim",
+    "intro": "Biz umumiy tarifni e'lon qilmaymiz: narx modullarga, foydalanuvchilarga va hajmga bog'liq. Biz sizga platformani ko'rsatamiz va operatsiyangiz bilan taklif qilamiz.",
+    "note": "Demo hech qanday narxga ega emas va shartnomani talab qilmaydi.",
+    "recommended": "Tavsiya etilgan",
+    "faq_title": "Tez-tez beriladigan savollar",
+    "plans": {
+      "essential": {
+        "name": "Muhim",
+        "desc": "Yagona platformada tijorat boshqaruvi va tarqatishni tashkil qilish.",
+        "features": [
+          "FullVendor veb-platforma",
+          "Sotish, sotib olish va inventarizatsiya",
+          "Mijozlar, etkazib beruvchilar va hisobotlar",
+          "Ofis uskunalari foydalanuvchilari",
+          "Boshlanishni qo'llab-quvvatlash"
+        ],
+        "cta": "Demo soʻrovi"
+      },
+      "professional": {
+        "name": "Professional",
+        "desc": "Ko'chada sotadigan va omborda buyurtma tayyorlaydigan jamoalar uchun.",
+        "features": [
+          "Hammasi Essential",
+          "Ilova FullVendor Sales Man",
+          "Ilova FullVendor Warehouse",
+          "Oflayn ish va shtrix kodlari",
+          "Ko'proq dala va ombor foydalanuvchilari"
+        ],
+        "cta": "Demo soʻrovi"
+      },
+      "corporate": {
+        "name": "Korporativ",
+        "desc": "Logistika, sotib olish, moliya va turli kompaniyalarga muhtoj bo'lgan guruhlar uchun.",
+        "features": [
+          "To'liq ekotizim",
+          "Logistics, Vendor Supplier va Finance",
+          "FullVendor ERP va ko'p ijara",
+          "Elektron hisob-kitob va buxgalteriya hisobi",
+          "Hamrohlik va ustuvorlik mavjudligi"
+        ],
+        "cta": "Savdolar bilan gaplashing"
+      }
+    },
+    "faq": {
+      "modules": {
+        "q": "Men barcha mahsulotlarni sotib olishim kerakmi?",
+        "a": "Yo'q. Siz FullVendor bilan boshlashingiz va operatsiyaga kerak bo'lganda ilovalar yoki ERP qo'shishingiz mumkin."
+      },
+      "offline": {
+        "q": "Ilovalar internetsiz ishlaydimi?",
+        "a": "Sales Man va Warehouse signalsiz ishlashni davom ettiradi va qayta ulanishda sinxronlashtiriladi."
+      },
+      "multi": {
+        "q": "Agar menda bir nechta kompaniya bo'lsa, u ishlaydimi?",
+        "a": "Ha. ERP ko'p kompaniyani nazarda tutadi va ekotizim ular o'rtasida ustalarni bo'lishishi mumkin."
+      },
+      "demo": {
+        "q": "Demo nimani o'z ichiga oladi?",
+        "a": "Siznikiga o'xshash kassa bilan platforma bo'ylab sayohat. Hech qanday xarajat va majburiyat yo'q."
+      }
+    }
+  },
+  "demo": {
+    "eyebrow": "Namoyish",
+    "title": "Sizga [[operatsiya turi]] bilan FullVendor ni ko'rsatamiz",
+    "text": "Bizga kompaniyangiz va birinchi navbatda nima buyurtma bermoqchi ekanligingiz haqida gapirib bering. Demo hech qanday narxga ega emas."
+  },
+  "contact": {
+    "eyebrow": "Aloqa",
+    "title": "Keling, [[operatsiyangiz]] haqida gapiraylik",
+    "text": "Agar siz demo, taklif yoki shunchaki mahsulotlar orasida o'zingizni yo'naltirishni istasangiz, ma'lumotingizni qoldiring va biz javob beramiz.",
+    "email": "Pochta",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": "Ism",
+    "email": "Pochta",
+    "phone": "Telefon",
+    "company": "Kompaniya",
+    "country": "Mamlakat",
+    "team": "Jamoa hajmi",
+    "interest": "Sizni nima qiziqtiradi?",
+    "message": "Xabar",
+    "optional": "Ixtiyoriy",
+    "choose": "Tanlang",
+    "interest_all": "Butun ekotizim",
+    "ph_name": "ismingiz",
+    "ph_email": "you@company.com",
+    "ph_phone": "+00 000 000 000",
+    "ph_company": "Sizning kompaniyangiz",
+    "ph_country": "Mamlakat",
+    "ph_message": "Bugun qanday ishlayotganingizni bizga ayting",
+    "privacy_before": "Men ma'lumotlarimdan foydalanishni qabul qilaman",
+    "privacy_after": ".",
+    "submit": "So'rov yuborish",
+    "sent_title": "Sizning so'rovingizni qabul qilamiz",
+    "sent_text": "Rahmat. Savdo jamoasi namoyishni muvofiqlashtirish yoki savolingizga javob berish uchun sizga xat yozadi.",
+    "error_required": "Ushbu maydonni to'ldiring.",
+    "error_email": "Yaroqli elektron pochta manzilini kiriting.",
+    "error_phone": "Telefonni tekshiring.",
+    "error_privacy": "Kontakt ma'lumotlaridan foydalanish uchun sizning roziligingiz kerak.",
+    "error_csrf": "Seans muddati tugadi. Shaklni qayta yuboring.",
+    "error_save": "So‘rovni saqlab bo‘lmadi. Qayta urinib ko'ring.",
+    "error_generic": "Belgilangan maydonlarni ko'rib chiqing.",
+    "error_rate": "Boshqa so‘rov yuborishdan oldin biroz kuting.",
+    "team_options": {
+      "1-10": "1 dan 10 kishigacha",
+      "11-50": "11 dan 50 kishigacha",
+      "51-200": "51 dan 200 kishigacha",
+      "201-500": "201 dan 500 kishigacha",
+      "500+": "500 dan ortiq kishi"
+    }
+  },
+  "video": {
+    "title": "FullVendor bir daqiqada",
+    "prev": "Oldingi",
+    "next": "Kuzatish",
+    "slides": [
+      {
+        "title": "Yagona ekotizim",
+        "text": "Savdo, ombor, yetkazib berish, sotib olish va moliyalashtirish mijozlar, zaxiralar va buyurtmalarni taqsimlaydi."
+      },
+      {
+        "title": "Veb va mobil birgalikda",
+        "text": "Ofis platformada ishlaydi. Ko'cha va ombor, ilovalarda, hatto signalsiz ham."
+      },
+      {
+        "title": "Tarqatish uchun qilingan",
+        "text": "Buyurtmadan to'lovgacha, ma'lumotni bir fayldan boshqasiga o'tkazmasdan."
+      }
+    ]
+  },
+  "search": {
+    "placeholder": "Mahsulotlar, yechimlar, sohalarni qidiring…",
+    "lang_filter": "Qidiruv tili",
+    "intro": "Mahsulotlar, yechimlar, tarmoqlar va resurslarni qidiring.",
+    "empty": "“{q}” uchun natijalar topa olmadik.",
+    "hint": "Savdolarni, omborlarni, marshrutlarni yoki to'plamlarni sinab ko'ring.",
+    "results": "{n} natijalari",
+    "button": "Izlamoq",
+    "kind_product": "Mahsulot",
+    "kind_solution": "Yechim",
+    "kind_industry": "Sanoat",
+    "kind_resource": "Resurs"
+  },
+  "notfound": {
+    "title": "Bu sahifa emas",
+    "text": "Havola mavjud emas yoki joylashuvi oʻzgargan."
+  },
+  "common": {
+    "what": "Nima hal qiladi",
+    "features": "Nima kiritilgan",
+    "benefits": "Nima uchun bu muhim",
+    "for_who": "Kim uchun?",
+    "related": "Shuningdek, ekotizimda"
+  },
+  "mock": {
+    "kpi": {
+      "sales": "Bugun sotuvlar",
+      "orders": "Buyurtmalar",
+      "clients": "Mijozlar",
+      "products": "Mahsulotlar"
+    },
+    "sidebar": {
+      "dashboard": "Boshqaruv paneli",
+      "sales": "Sotish",
+      "purchases": "Xarid qilish",
+      "inventory": "Inventarizatsiya",
+      "clients": "Mijozlar",
+      "reports": "Hisobotlar"
+    },
+    "chart": "Sotish",
+    "channel": "Kanal bo'yicha tarqatish",
+    "channels": [
+      "Do'kon",
+      "Tarqatish",
+      "Ulgurji sotuvchi",
+      "Boshqalar"
+    ],
+    "orders": "Eng so'nggi buyurtmalar",
+    "col_order": "Buyurtma",
+    "col_client": "Mijoz",
+    "col_status": "Davlat",
+    "col_total": "Jami",
+    "status": [
+      "Yetkazib berildi",
+      "Yo'li orqali",
+      "Sirg'a"
+    ],
+    "top": "Eng ko'p sotiladigan mahsulotlar",
+    "product": "Mahsulot",
+    "sales_menu": [
+      "Mijozlar",
+      "Buyurtmalar",
+      "Mahsulotlar",
+      "Marshrutlar",
+      "Sinxronlash"
+    ],
+    "warehouse_menu": [
+      "Qabul",
+      "Tanlash",
+      "Inventarizatsiya",
+      "Jo'natish",
+      "Sinxronlash"
+    ]
+  },
+  "legal": {
+    "privacy_title": "Maxfiylik siyosati",
+    "privacy_intro": "Ushbu siyosat ushbu saytdagi shakllarda qoldirgan maʼlumotlarimiz bilan nima qilishimizni tushuntiradi.",
+    "privacy": [
+      {
+        "title": "Biz qanday ma'lumotlarni yig'amiz",
+        "text": "Agar siz demo so'rasangiz yoki bizga yozsangiz, biz ism, kompaniya, elektron pochta manzili, telefon raqamini, mamlakatni, jamoaning hajmini, qiziqish mahsulotini va xabarni ko'rsatsangiz saqlaymiz. Shuningdek, biz haqoratomuz xabarlarni oldini olish uchun sana, sahifa tili va IP-manzilni yozib olamiz."
+      },
+      {
+        "title": "Biz ulardan nima uchun foydalanamiz?",
+        "text": "Biz bu maʼlumotlardan faqat sizga javob berish, demoni muvofiqlashtirish va tijorat taklifini tayyorlash uchun foydalanamiz. Biz ularni sotmaymiz yoki uchinchi shaxslar ro'yxatiga bermaymiz."
+      },
+      {
+        "title": "Ular qayerda va qancha vaqt saqlanadi?",
+        "text": "So'rovlar ushbu sayt serverida saqlanadi. Biz ularni sizga xizmat qilish va tijorat nazorati uchun zarur bo'lgan vaqt davomida saqlaymiz va bizdan so'raganingizda yoki kerak bo'lmaganda ularni o'chirib tashlaymiz."
+      },
+      {
+        "title": "Sizning huquqlaringiz",
+        "text": "Siz aloqa shaklidan ma'lumotlaringizga kirish, tuzatish yoki o'chirishni xabarda ko'rsatgan holda so'rashingiz mumkin. Agar kompaniya ushbu veb-saytda elektron pochta xabarini nashr etsa, siz ham u erga yozishingiz mumkin."
+      }
+    ],
+    "terms_title": "Foydalanish shartlari",
+    "terms_intro": "Ushbu shartlar ushbu FullVendor yuborish saytidan foydalanish uchun amal qiladi.",
+    "terms": [
+      {
+        "title": "Tijorat ma'lumotlari",
+        "text": "Matnlar, misol asboblar panelidagi raqamlar va tavsiflar platformani tanishtiradi. Ular mahsulot o'zgarganda sozlanishi mumkin va yopiq taklif emas."
+      },
+      {
+        "title": "Demo shartnoma emas",
+        "text": "Shaklni topshirish narxni sotib olish yoki bron qilish majburiyatini tug'dirmaydi. Har qanday shartnoma alohida, yozma ravishda, uning hajmi va shartlari bilan kelishilgan."
+      },
+      {
+        "title": "Sayt tarkibi",
+        "text": "FullVendor savdo belgisi, mahsulot nomlari va ushbu sahifalarning mazmuni ularning egalariga tegishli. Ularni boshqa mahsulotni taqdim qilish uchun nusxalash mumkin emas."
+      },
+      {
+        "title": "Qabul qilinadigan foydalanish",
+        "text": "Shakllardan noto'g'ri ma'lumot, spam yoki noqonuniy kontentni yuborish uchun foydalanmang. Haqiqiy ish suhbatiga mos kelmaydigan so'rovlarni e'tiborsiz qoldirishimiz mumkin."
+      }
+    ]
+  }
+}
