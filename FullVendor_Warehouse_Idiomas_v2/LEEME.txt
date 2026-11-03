@@ -1,0 +1,5 @@
+FULLVENDOR WAREHOUSE — PÁGINA PROMOCIONAL
+Abra index.html en un navegador moderno.
+Incluye selector de 7 idiomas. Tanto los textos de la página como los textos visibles dentro de las 8 capturas de la aplicación cambian al seleccionar:
+Español, English, Português, Italiano, Deutsch, Русский y 中文.
+Los nombres de clientes, números de orden, SKU, fechas e importes se mantienen como datos de ejemplo.
