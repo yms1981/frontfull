@@ -1,0 +1,1 @@
+Extrae el ZIP y abre index.html. Las 7 capturas están integradas en el HTML. Selector de 7 idiomas: Español, English, Português, Italiano, Deutsch, Русский y 中文.
