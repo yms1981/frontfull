@@ -1,0 +1,13 @@
+FULLVENDOR - CAPTURAS ORIGINALES RESTAURADAS
+
+Se restauraron las capturas originales de:
+- Productos
+- Categorías
+- Catálogos
+
+Se mantiene el selector con los siete idiomas de la referencia:
+Español, English, Português, Italiano, Deutsch, Русский y 中文.
+La bandera y el código del idioma seleccionado se muestran en la cápsula superior.
+
+Extrae el ZIP y abre el archivo HTML con Chrome o Edge.
+Se requiere conexión a Internet para Google Translate.
