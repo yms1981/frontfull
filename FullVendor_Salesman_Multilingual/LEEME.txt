@@ -1,0 +1,4 @@
+FULLVENDOR SALESMAN
+
+Abra index.html en Chrome, Edge o Firefox.
+Incluye selector de 7 idiomas y capturas integradas.
