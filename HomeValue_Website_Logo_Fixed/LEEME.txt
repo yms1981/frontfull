@@ -1,0 +1,5 @@
+HOME VALUE LLC - PAGINA PROMOCIONAL
+- Extrae el ZIP y abre index.html.
+- Las cinco capturas y el logotipo están incrustados dentro del HTML.
+- No depende de rutas de imágenes externas para mostrar el logo ni las capturas.
+- Selector de idiomas: Español, English, Português, Italiano, Deutsch, Русский y 中文.
