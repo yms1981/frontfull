@@ -1,0 +1,15 @@
+FULLVENDOR ERP — LANDING PAGE MULTIIDIOMA
+
+Archivos:
+- index.html: página autocontenida con las nueve capturas integradas.
+- LEEME.txt: estas instrucciones.
+
+Uso:
+1. Descomprime el ZIP.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Usa el selector superior derecho para cambiar entre Español, English,
+   Português, Italiano, Deutsch, Русский y 中文.
+
+Las imágenes son capturas reales suministradas para esta página. Los textos
+de la landing, títulos y descripciones de módulos cambian con el idioma.
+Las capturas originales conservan el idioma en que fueron tomadas.
