@@ -1,0 +1,7 @@
+FULLVENDOR FINANCE - LANDING PAGE
+1. Extrae el ZIP.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. La página funciona sin servidor y la imagen promocional está integrada en el HTML.
+4. Selector de idioma: Español, English, Português, Italiano, Deutsch, Русский y 中文.
+5. Las capturas de los módulos siguen incluidas en la sección de pantallas.
+Nota: los textos de la página cambian de idioma; las capturas de la app conservan el idioma de las imágenes originales.
