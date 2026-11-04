@@ -10,7 +10,7 @@ $videoId = youtube_id(FV_VIDEO_URL);
 $slides = ta('video.slides');
 ?>
   </main>
-  <footer class="site-footer">
+  <footer class="site-footer notranslate">
     <div class="container footer-grid">
       <div>
         <a class="logo" href="<?= e(url_to($locale, 'home')) ?>"><span class="logo-full">Full</span><span class="logo-vendor">Vendor</span></a>
@@ -46,7 +46,7 @@ $slides = ta('video.slides');
     </div>
   </footer>
 
-  <div class="modal" id="search-modal" hidden>
+  <div class="modal notranslate" id="search-modal" hidden>
     <div class="modal-backdrop" data-close></div>
     <div class="modal-card search-card" role="dialog" aria-modal="true" aria-labelledby="search-title">
       <div class="search-bar">
@@ -59,7 +59,7 @@ $slides = ta('video.slides');
     </div>
   </div>
 
-  <div class="modal" id="video-modal" hidden>
+  <div class="modal notranslate" id="video-modal" hidden>
     <div class="modal-backdrop" data-close></div>
     <div class="modal-card video-card" role="dialog" aria-modal="true" aria-labelledby="video-title">
       <button type="button" class="icon-btn modal-x" data-close aria-label="<?= e(t('nav.close')) ?>"><?= icon('close') ?></button>

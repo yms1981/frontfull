@@ -1,0 +1,17 @@
+/* Oculta el chrome de Google Translate; el idioma lo marca el selector del sitio. */
+#google_translate_element,
+.goog-te-banner-frame,
+.goog-te-balloon-frame,
+.skiptranslate iframe,
+body > .skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}

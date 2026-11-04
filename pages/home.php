@@ -35,16 +35,17 @@ $steps = ['sell', 'pick', 'deliver', 'collect'];
     </div>
 
     <?php
-    $showcase = 'fullvendor';
+    $showcases = ['fullvendor', 'homevalue'];
     $productGroups = [
         'money' => ['erp', 'finance'],
         'flow' => ['supplier', 'logistics'],
         'field' => ['salesman', 'warehouse'],
     ];
     ?>
+    <?php foreach ($showcases as $showcase): ?>
     <a class="product-showcase" href="<?= e(url_to($locale, 'product', $showcase)) ?>">
       <span class="product-photo">
-        <img src="<?= e(asset('assets/img/products/' . $showcase . '.jpg')) ?>" alt="">
+        <img src="<?= e(asset('assets/img/products/' . $showcase . '.jpg')) ?>" alt="<?= e(FV_PRODUCTS[$showcase]['name']) ?>">
       </span>
       <span class="product-copy">
         <span class="eyebrow"><?= e(t('products.' . $showcase . '.kicker')) ?></span>
@@ -57,6 +58,7 @@ $steps = ['sell', 'pick', 'deliver', 'collect'];
         </ul>
       </span>
     </a>
+    <?php endforeach; ?>
 
     <?php foreach ($productGroups as $group => $ids): ?>
       <div class="product-band">

@@ -2,6 +2,41 @@
 declare(strict_types=1);
 if (!defined('FV_APP')) { http_response_code(403); exit; }
 $product = FV_PRODUCTS[$slug];
+
+if ($slug === 'fullvendor') {
+    require __DIR__ . '/product-fullvendor.php';
+    return;
+}
+
+if ($slug === 'homevalue') {
+    require __DIR__ . '/product-homevalue.php';
+    return;
+}
+
+if ($slug === 'erp') {
+    require __DIR__ . '/product-erp.php';
+    return;
+}
+
+if ($slug === 'finance') {
+    require __DIR__ . '/product-finance.php';
+    return;
+}
+
+if ($slug === 'salesman') {
+    require __DIR__ . '/product-salesman.php';
+    return;
+}
+
+if ($slug === 'supplier') {
+    require __DIR__ . '/product-supplier.php';
+    return;
+}
+
+if ($slug === 'warehouse') {
+    require __DIR__ . '/product-warehouse.php';
+    return;
+}
 ?>
 <section class="page-hero accent-<?= e($slug) ?>">
   <div class="container">

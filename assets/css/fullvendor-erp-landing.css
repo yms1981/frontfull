@@ -1,0 +1,476 @@
+/* Landing FullVendor ERP (products/erp) — scoped to avoid clashes with site styles */
+.fv-erp {
+  --erp-red: #ed1025;
+  --erp-ink: #171b27;
+  --erp-muted: #788193;
+  --erp-line: #e7eaf0;
+  --erp-bg: #f5f6f8;
+  color: var(--erp-ink);
+  background: #fff;
+  font-family: "DM Sans", "Manrope", sans-serif;
+}
+
+.fv-erp .wrap {
+  width: min(1220px, calc(100% - 48px));
+  margin: auto;
+}
+
+.fv-erp .primary {
+  background: var(--erp-red);
+  color: white;
+  border: 0;
+  border-radius: 12px;
+  padding: 13px 20px;
+  font-weight: 700;
+  box-shadow: 0 8px 20px #ed10252a;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fv-erp .secondary {
+  border: 1px solid #e1e5eb;
+  background: white;
+  border-radius: 12px;
+  padding: 13px 20px;
+  font-weight: 700;
+  color: #303746;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fv-erp .hero {
+  padding: 76px 0 68px;
+  background:
+    radial-gradient(circle at 83% 30%, #ffe8eb 0, transparent 29%),
+    linear-gradient(180deg, #fff 0%, #fff 70%, #fafbfc 100%);
+  overflow: hidden;
+  border: 0;
+  min-height: 0;
+}
+
+.fv-erp .hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 0.95fr;
+  gap: 55px;
+  align-items: center;
+}
+
+.fv-erp .eyebrow {
+  font-size: 11px;
+  letter-spacing: 2.2px;
+  color: var(--erp-red);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.fv-erp .eyebrow:before {
+  content: "";
+  width: 28px;
+  height: 2px;
+  background: var(--erp-red);
+}
+
+.fv-erp h1 {
+  font: 800 clamp(42px, 5vw, 66px) / 1.06 Manrope, sans-serif;
+  letter-spacing: -2.8px;
+  margin: 22px 0 20px;
+  color: var(--erp-ink);
+}
+
+.fv-erp h1 em {
+  font-style: normal;
+  color: var(--erp-red);
+}
+
+.fv-erp .hero p {
+  font-size: 17px;
+  line-height: 1.75;
+  color: #70798a;
+  max-width: 590px;
+  margin: 0 0 28px;
+}
+
+.fv-erp .actions {
+  display: flex;
+  gap: 13px;
+  flex-wrap: wrap;
+}
+
+.fv-erp .hero-points {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  color: #737d8d;
+  font-size: 12px;
+}
+
+.fv-erp .hero-points span:before {
+  content: "✓";
+  color: var(--erp-red);
+  font-weight: 900;
+  margin-right: 7px;
+}
+
+.fv-erp .hero-visual {
+  position: relative;
+  padding: 20px 0;
+}
+
+.fv-erp .hero-visual:before {
+  content: "";
+  position: absolute;
+  inset: 6% -12% 4% 12%;
+  background: linear-gradient(135deg, #fce3e6, #f7f8fb);
+  border-radius: 40px;
+  transform: rotate(3deg);
+}
+
+.fv-erp .hero-shot {
+  position: relative;
+  background: white;
+  padding: 9px;
+  border: 1px solid #e8ebf0;
+  border-radius: 20px;
+  box-shadow: 0 30px 80px #1b23301e;
+  transform: rotate(-2deg);
+}
+
+.fv-erp .hero-shot img {
+  display: block;
+  width: 100%;
+  border-radius: 13px;
+}
+
+.fv-erp .floating-stat {
+  position: absolute;
+  bottom: 0;
+  left: -25px;
+  background: white;
+  border: 1px solid #edf0f3;
+  box-shadow: 0 12px 32px #1b233018;
+  border-radius: 14px;
+  padding: 14px 18px;
+  font-size: 12px;
+  color: #858d9b;
+  z-index: 1;
+}
+
+.fv-erp .floating-stat strong {
+  display: block;
+  font-size: 20px;
+  color: var(--erp-ink);
+  margin-top: 4px;
+}
+
+.fv-erp .trust {
+  padding: 23px 0;
+  border-top: 1px solid #f0f1f4;
+  border-bottom: 1px solid #f0f1f4;
+  background: #fff;
+}
+
+.fv-erp .trust-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  flex-wrap: wrap;
+  color: #7b8492;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.fv-erp .trust-row strong {
+  color: #252b37;
+}
+
+.fv-erp .section {
+  padding: 82px 0;
+  background: transparent;
+}
+
+.fv-erp .section-head {
+  max-width: 720px;
+  margin: 0 auto 44px;
+  text-align: center;
+}
+
+.fv-erp .section-head .eyebrow {
+  justify-content: center;
+}
+
+.fv-erp h2 {
+  font: 800 clamp(30px, 3.5vw, 43px) / 1.15 Manrope, sans-serif;
+  letter-spacing: -1.4px;
+  margin: 15px 0;
+  color: var(--erp-ink);
+}
+
+.fv-erp .section-head p {
+  color: #7a8391;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+.fv-erp .module-card {
+  display: grid;
+  grid-template-columns: 0.75fr 1.25fr;
+  gap: 45px;
+  align-items: center;
+  padding: 40px 0;
+  border-bottom: 1px solid #eceff3;
+  scroll-margin-top: 100px;
+}
+
+.fv-erp .module-card:nth-child(even) {
+  grid-template-columns: 1.25fr 0.75fr;
+}
+
+.fv-erp .module-card:nth-child(even) .module-copy {
+  order: 2;
+}
+
+.fv-erp .module-card:nth-child(even) .screen-frame {
+  order: 1;
+}
+
+.fv-erp .module-no {
+  font-size: 11px;
+  color: var(--erp-red);
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.fv-erp .module-copy h3 {
+  font: 800 32px Manrope, sans-serif;
+  letter-spacing: -1px;
+  margin: 12px 0 8px;
+  color: var(--erp-ink);
+}
+
+.fv-erp .module-copy h4 {
+  font-size: 17px;
+  margin: 0 0 13px;
+  color: #4e5868;
+}
+
+.fv-erp .module-copy p {
+  color: #7b8492;
+  line-height: 1.75;
+  font-size: 15px;
+  margin: 0 0 20px;
+}
+
+.fv-erp .checks {
+  display: grid;
+  gap: 10px;
+  color: #8a92a0;
+  font-size: 13px;
+}
+
+.fv-erp .checks span:has(b) {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.fv-erp .checks span:first-child {
+  color: var(--erp-red);
+}
+
+.fv-erp .screen-frame {
+  background: #fff;
+  border: 1px solid #e6e9ee;
+  border-radius: 17px;
+  padding: 8px;
+  box-shadow: 0 22px 55px #202a3a14;
+  overflow: hidden;
+}
+
+.fv-erp .screen-top {
+  height: 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 8px 7px;
+  color: #9ba3af;
+  font-size: 8px;
+  letter-spacing: 1.5px;
+}
+
+.fv-erp .screen-top i {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #e7eaf0;
+  display: inline-block;
+}
+
+.fv-erp .screen-top span {
+  margin-left: auto;
+}
+
+.fv-erp .screen-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 9px;
+  border: 1px solid #f0f1f4;
+}
+
+.fv-erp .benefits {
+  background: #141a27;
+  color: #fff;
+  padding: 78px 0;
+}
+
+.fv-erp .benefit-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 55px;
+  align-items: center;
+}
+
+.fv-erp .benefits h2 {
+  font: 800 39px / 1.15 Manrope, sans-serif;
+  letter-spacing: -1.5px;
+  margin: 14px 0;
+  color: #fff;
+}
+
+.fv-erp .benefits p {
+  color: #aeb6c4;
+  line-height: 1.8;
+}
+
+.fv-erp .benefit-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 13px;
+}
+
+.fv-erp .benefit {
+  padding: 20px;
+  border: 1px solid #ffffff18;
+  background: #ffffff08;
+  border-radius: 15px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.fv-erp .benefit b {
+  display: block;
+  color: #ff5363;
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+
+.fv-erp .contact {
+  padding: 80px 0;
+}
+
+.fv-erp .contact-box {
+  background: linear-gradient(110deg, #fff0f1, #fff 60%);
+  border: 1px solid #f6dfe2;
+  border-radius: 25px;
+  padding: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+}
+
+.fv-erp .contact-box h2 {
+  font: 800 34px Manrope, sans-serif;
+  margin: 0 0 10px;
+  color: var(--erp-ink);
+}
+
+.fv-erp .contact-box p {
+  color: #77808e;
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .fv-erp .hero-grid,
+  .fv-erp .benefit-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .fv-erp .hero-visual {
+    max-width: 650px;
+    margin: auto;
+  }
+
+  .fv-erp .module-card,
+  .fv-erp .module-card:nth-child(even) {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .fv-erp .module-card:nth-child(even) .module-copy,
+  .fv-erp .module-card:nth-child(even) .screen-frame {
+    order: initial;
+  }
+
+  .fv-erp .module-copy {
+    max-width: 650px;
+  }
+}
+
+@media (max-width: 600px) {
+  .fv-erp .wrap {
+    width: calc(100% - 30px);
+  }
+
+  .fv-erp .hero {
+    padding: 48px 0;
+  }
+
+  .fv-erp h1 {
+    font-size: 42px;
+    letter-spacing: -1.8px;
+  }
+
+  .fv-erp .hero p {
+    font-size: 15px;
+  }
+
+  .fv-erp .section {
+    padding: 58px 0;
+  }
+
+  .fv-erp .module-copy h3 {
+    font-size: 27px;
+  }
+
+  .fv-erp .benefit-list {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .fv-erp .contact-box {
+    padding: 30px 23px;
+    display: block;
+  }
+
+  .fv-erp .contact-box .primary {
+    margin-top: 22px;
+  }
+
+  .fv-erp .trust-row {
+    justify-content: center;
+  }
+
+  .fv-erp .floating-stat {
+    left: 8px;
+  }
+
+  .fv-erp .benefits h2 {
+    font-size: 30px;
+  }
+}

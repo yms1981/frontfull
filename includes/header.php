@@ -51,6 +51,30 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Noto+Sans:wght@500;600;700&family=Noto+Sans+Arabic:wght@500;700&family=Noto+Sans+Bengali:wght@500;700&family=Noto+Sans+Devanagari:wght@500;700&family=Noto+Sans+Hebrew:wght@500;700&family=Noto+Sans+JP:wght@500;700&family=Noto+Sans+KR:wght@500;700&family=Noto+Sans+SC:wght@500;700&family=Noto+Sans+Thai:wght@500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.5.0/css/flag-icons.min.css">
   <link rel="stylesheet" href="<?= e(asset('assets/css/styles.css')) ?>">
+  <?php if ($pageId === 'product' && $slug === 'fullvendor'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'homevalue'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/homevalue-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'erp'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-erp-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'finance'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-finance-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'salesman'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-salesman-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'supplier'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-supplier-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product' && $slug === 'warehouse'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fullvendor-warehouse-landing.css')) ?>">
+  <?php endif; ?>
+  <?php if ($pageId === 'product'): ?>
+    <link rel="stylesheet" href="<?= e(asset('assets/css/fv-site-translate.css')) ?>">
+  <?php endif; ?>
   <style>
     <?php foreach (FV_PRODUCTS as $id => $product): ?>
     .accent-<?= e($id) ?>{--accent:<?= e(safe_hex($product['color'])) ?>}
@@ -83,8 +107,8 @@ $robots = ($notFound || $pageId === 'search') ? 'noindex, follow' : 'index, foll
   </script>
 </head>
 <body class="page-<?= e($pageId) ?>">
-  <a class="skip" href="#main"><?= e(t('a11y.skip')) ?></a>
-  <header class="site-header">
+  <a class="skip notranslate" href="#main"><?= e(t('a11y.skip')) ?></a>
+  <header class="site-header notranslate">
     <div class="container header-bar">
       <a class="logo" href="<?= e(url_to($locale, 'home')) ?>" aria-label="FullVendor">
         <img class="brand-mark" src="<?= e(asset('assets/img/brand-mark.jpg')) ?>" alt="">

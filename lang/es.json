@@ -79,7 +79,7 @@
     }
   },
   "products_page": {
-    "title": "Siete productos, [[una sola operación]]",
+    "title": "Ocho productos, [[una sola operación]]",
     "text": "Cada producto resuelve un área. Juntos comparten clientes, stock, pedidos y pagos."
   },
   "products": {
@@ -96,6 +96,20 @@
         {"title": "Lista para crecer", "text": "Sumas logística, fuerza de ventas o ERP cuando la operación lo pide."}
       ],
       "audience": "Equipos comerciales y de distribución que hoy coordinan el negocio entre varios sistemas."
+    },
+    "homevalue": {
+      "kicker": "Comercio mayorista",
+      "card": "Plataforma mayorista para catálogo, pedidos y atención comercial.",
+      "features": ["Catálogo mayorista", "Historias y reels", "Pedidos por caja y SKU", "Atención comercial"],
+      "lead": "Todo lo que tu negocio necesita para comprar mayorista: catálogo, disponibilidad y contacto con el equipo, en un solo lugar.",
+      "about": "Home Value conecta tiendas, supermercados y restaurantes con un catálogo mayorista amplio. Consulta disponibilidad, organiza compras por caja y SKU, sigue novedades con historias diarias y mantén una relación directa con el equipo comercial.",
+      "benefits": [
+        {"title": "Catálogo claro", "text": "Explora por categoría o SKU y revisa presentaciones, MOQ y disponibilidad."},
+        {"title": "Precios mayoristas", "text": "Los precios aparecen para cuentas aprobadas, sin negociar cada ítem por correo."},
+        {"title": "Novedades visuales", "text": "Historias y reels diarios para descubrir productos y promociones."},
+        {"title": "Soporte comercial", "text": "Contacto directo para cuentas, pedidos y logística."}
+      ],
+      "audience": "Tiendas, supermercados y restaurantes que compran mayorista y necesitan un canal ordenado."
     },
     "erp": {
       "kicker": "Administración",

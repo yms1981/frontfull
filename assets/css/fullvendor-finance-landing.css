@@ -1,0 +1,482 @@
+/* Landing FullVendor Finance (products/finance) — scoped */
+.fv-finance {
+  --fin-red: #ed0012;
+  --fin-dark: #151515;
+  --fin-muted: #737b89;
+  --fin-line: #e9ebef;
+  --fin-soft: #fff1f2;
+  color: var(--fin-dark);
+  background: #fff;
+  overflow-x: hidden;
+}
+
+.fv-finance .container {
+  width: min(1180px, calc(100% - 48px));
+  margin: auto;
+}
+
+.fv-finance .hero {
+  position: relative;
+  padding: 78px 0 80px;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse at 85% 40%, #ffe6e8 0, transparent 42%),
+    linear-gradient(130deg, #fff 35%, #fff8f8 100%);
+  border: 0;
+  min-height: 0;
+}
+
+.fv-finance .hero-art {
+  padding: 28px 0 34px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.fv-finance .hero-art .container {
+  width: min(1350px, 100%);
+}
+
+.fv-finance .hero-artwork {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 20px 55px #5a0a151c;
+}
+
+.fv-finance section {
+  padding: 86px 0;
+}
+
+.fv-finance .sectionhead {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 42px;
+}
+
+.fv-finance .kicker {
+  color: var(--fin-red);
+  font-size: 10px;
+  font-weight: 850;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.fv-finance .sectionhead h2 {
+  font-size: clamp(28px, 3.5vw, 42px);
+  letter-spacing: -1.5px;
+  margin: 12px 0;
+  font-weight: 850;
+  color: var(--fin-dark);
+}
+
+.fv-finance .sectionhead p {
+  color: var(--fin-muted);
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.fv-finance .features {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 17px;
+}
+
+.fv-finance .feature {
+  border: 1px solid var(--fin-line);
+  border-radius: 18px;
+  padding: 24px 21px;
+  background: #fff;
+  min-height: 205px;
+  box-shadow: 0 8px 28px #10182808;
+  transition: 0.25s;
+}
+
+.fv-finance .feature:hover {
+  transform: translateY(-5px);
+  border-color: #ffc4c9;
+  box-shadow: 0 16px 36px #ed001214;
+}
+
+.fv-finance .ficon {
+  width: 45px;
+  height: 45px;
+  border-radius: 13px;
+  background: #fff0f1;
+  color: var(--fin-red);
+  display: grid;
+  place-items: center;
+  font-size: 21px;
+  margin-bottom: 22px;
+}
+
+.fv-finance .feature h3 {
+  font-size: 17px;
+  margin: 0 0 9px;
+  color: var(--fin-dark);
+}
+
+.fv-finance .feature p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--fin-muted);
+  margin: 0;
+}
+
+.fv-finance .screens {
+  background: #fafafa;
+}
+
+.fv-finance .screenlist {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+  max-width: 940px;
+  margin: auto;
+}
+
+.fv-finance .screenitem {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: white;
+  border: 1px solid var(--fin-line);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 10px 32px #10182808;
+}
+
+.fv-finance .screenitem:nth-child(odd) {
+  flex-direction: row;
+}
+
+.fv-finance .screenitem:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.fv-finance .screenimg {
+  width: 42%;
+  max-width: 190px;
+  flex-shrink: 0;
+  border: 5px solid #171717;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 12px 26px #15151522;
+  background: #fff;
+  align-self: center;
+  line-height: 0;
+}
+
+.fv-finance .screenimg img {
+  display: block;
+  width: 100%;
+  height: auto !important;
+  max-width: 100%;
+  aspect-ratio: auto;
+  object-fit: contain;
+  object-position: top center;
+}
+
+.fv-finance .screeninfo h3 {
+  font-size: 17px;
+  margin: 0 0 8px;
+  color: var(--fin-dark);
+}
+
+.fv-finance .screeninfo p {
+  font-size: 12px;
+  line-height: 1.65;
+  color: var(--fin-muted);
+  margin: 0;
+}
+
+.fv-finance .screeninfo .num {
+  font-size: 10px;
+  color: var(--fin-red);
+  font-weight: 850;
+  letter-spacing: 1px;
+  margin-bottom: 9px;
+}
+
+.fv-finance .benefitsgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.fv-finance .benefitvisual {
+  background: linear-gradient(145deg, #f50018, #b90012);
+  border-radius: 26px;
+  padding: 38px;
+  min-height: 340px;
+  position: relative;
+  overflow: hidden;
+  color: white;
+}
+
+.fv-finance .benefitvisual:after {
+  content: "";
+  position: absolute;
+  width: 330px;
+  height: 330px;
+  border: 1px solid #ffffff55;
+  border-radius: 50%;
+  right: -100px;
+  bottom: -160px;
+  box-shadow: 0 0 0 35px #ffffff0d, 0 0 0 75px #ffffff0a;
+}
+
+.fv-finance .visualtitle {
+  font-size: 28px;
+  line-height: 1.2;
+  font-weight: 850;
+  max-width: 300px;
+  position: relative;
+  z-index: 2;
+}
+
+.fv-finance .visualstats {
+  display: flex;
+  gap: 12px;
+  margin-top: 38px;
+  position: relative;
+  z-index: 2;
+}
+
+.fv-finance .stat {
+  background: #ffffff20;
+  border: 1px solid #ffffff33;
+  border-radius: 14px;
+  padding: 15px;
+  flex: 1;
+}
+
+.fv-finance .stat b {
+  font-size: 22px;
+  display: block;
+}
+
+.fv-finance .stat span {
+  font-size: 10px;
+  opacity: 0.85;
+}
+
+.fv-finance .benefitlist {
+  display: grid;
+  gap: 24px;
+}
+
+.fv-finance .benefit {
+  display: flex;
+  gap: 15px;
+}
+
+.fv-finance .check {
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  background: #fff0f1;
+  color: var(--fin-red);
+  display: grid;
+  place-items: center;
+  font-weight: 900;
+  flex-shrink: 0;
+}
+
+.fv-finance .benefit h3 {
+  font-size: 15px;
+  margin: 1px 0 6px;
+  color: var(--fin-dark);
+}
+
+.fv-finance .benefit p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--fin-muted);
+  margin: 0;
+}
+
+.fv-finance .cta {
+  padding: 0 0 85px;
+}
+
+.fv-finance .ctabox {
+  background: linear-gradient(110deg, #e90012, #ff3543);
+  border-radius: 26px;
+  padding: 50px 55px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  position: relative;
+  overflow: hidden;
+}
+
+.fv-finance .ctabox:after {
+  content: "";
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  border: 1px solid #ffffff40;
+  border-radius: 50%;
+  right: 15%;
+  top: -220px;
+  box-shadow: 0 0 0 35px #ffffff0a, 0 0 0 75px #ffffff0a;
+}
+
+.fv-finance .ctabox h2 {
+  font-size: clamp(26px, 3vw, 38px);
+  letter-spacing: -1px;
+  margin: 0 0 10px;
+  position: relative;
+  z-index: 2;
+  color: #fff;
+}
+
+.fv-finance .ctabox p {
+  font-size: 13px;
+  opacity: 0.86;
+  margin: 0;
+  max-width: 570px;
+  line-height: 1.6;
+  position: relative;
+  z-index: 2;
+}
+
+.fv-finance .ctabox a {
+  background: white;
+  color: var(--fin-red);
+  padding: 14px 19px;
+  border-radius: 11px;
+  font-size: 12px;
+  font-weight: 800;
+  white-space: nowrap;
+  position: relative;
+  z-index: 2;
+}
+
+.fv-finance #benefits h2 {
+  font-size: 34px;
+  letter-spacing: -1.4px;
+  margin: 12px 0 28px;
+  color: var(--fin-dark);
+}
+
+@media (max-width: 850px) {
+  .fv-finance .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .fv-finance .benefitsgrid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .fv-finance .screenlist {
+    gap: 16px;
+  }
+
+  .fv-finance .screenitem {
+    gap: 15px;
+    padding: 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  .fv-finance .hero-art {
+    padding: 12px 0 24px;
+  }
+
+  .fv-finance .hero-art .container {
+    width: 100%;
+  }
+
+  .fv-finance .hero-artwork {
+    border-radius: 0;
+  }
+
+  .fv-finance .container {
+    width: min(100% - 30px, 1180px);
+  }
+
+  .fv-finance section {
+    padding: 62px 0;
+  }
+
+  .fv-finance .features {
+    gap: 11px;
+  }
+
+  .fv-finance .feature {
+    padding: 18px 15px;
+    min-height: 190px;
+  }
+
+  .fv-finance .ficon {
+    margin-bottom: 16px;
+  }
+
+  .fv-finance .feature h3 {
+    font-size: 15px;
+  }
+
+  .fv-finance .feature p {
+    font-size: 11px;
+  }
+
+  .fv-finance .sectionhead {
+    margin-bottom: 28px;
+  }
+
+  .fv-finance .sectionhead h2 {
+    font-size: 29px;
+  }
+
+  .fv-finance .screenlist {
+    grid-template-columns: 1fr;
+  }
+
+  .fv-finance .screenitem,
+  .fv-finance .screenitem:nth-child(even) {
+    flex-direction: row;
+  }
+
+  .fv-finance .screenimg {
+    width: 37%;
+    max-width: 150px;
+  }
+
+  .fv-finance .screeninfo h3 {
+    font-size: 15px;
+  }
+
+  .fv-finance .screeninfo p {
+    font-size: 11px;
+  }
+
+  .fv-finance .benefitvisual {
+    min-height: 280px;
+    padding: 27px;
+  }
+
+  .fv-finance .visualtitle {
+    font-size: 25px;
+  }
+
+  .fv-finance .ctabox {
+    padding: 32px 25px;
+    display: block;
+  }
+
+  .fv-finance .ctabox a {
+    display: inline-block;
+    margin-top: 22px;
+  }
+
+  .fv-finance #benefits h2 {
+    font-size: 28px;
+  }
+}

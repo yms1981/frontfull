@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#e92329" name="theme-color"/>
+<meta content="FullVendor Salesman: aplicación móvil para vendedores. Gestiona clientes, pedidos, categorías y comunicación comercial desde un solo lugar." name="description"/>
+<title>FullVendor Salesman | Vende y gestiona desde cualquier lugar</title>
+<style>
+:root{--red:#e92329;--red-dark:#bd171e;--ink:#171b28;--muted:#687184;--line:#e9eaf0;--paper:#fff;--soft:#f7f8fb;--shadow:0 22px 65px rgba(24,28,40,.09)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.55}a{color:inherit;text-decoration:none}.container{width:min(1160px,calc(100% - 44px));margin:auto}
+header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.91);backdrop-filter:blur(16px);border-bottom:1px solid rgba(230,232,238,.8)}
+.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:850;letter-spacing:-.6px}.brand-mark{width:38px;height:38px;border-radius:12px;background:var(--red);display:grid;place-items:center;color:#fff;font-weight:900;font-size:21px;box-shadow:0 8px 18px #e9232930}.brand span:last-child{color:var(--red)}
+nav{display:flex;align-items:center;gap:27px;color:#4f586a;font-size:13px;font-weight:650}nav a:hover{color:var(--red)}.nav-cta,.button{display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:999px;padding:12px 19px;background:var(--red);color:#fff;font-size:13px;font-weight:750;box-shadow:0 9px 22px #e9232927;transition:.2s}.nav-cta:hover,.button:hover{background:var(--red-dark);transform:translateY(-2px)}
+.hero{position:relative;overflow:hidden;background:radial-gradient(circle at 78% 25%,#ffe5e6 0,transparent 30%),linear-gradient(135deg,#fff 0%,#fff7f7 58%,#f8f9fc 100%);padding:92px 0 86px}
+.hero:after{content:"";position:absolute;width:520px;height:520px;border:1px solid #f4bfc2;border-radius:50%;right:-120px;top:-220px;box-shadow:0 0 0 42px #fbe8e9,0 0 0 90px #fff1f2;opacity:.7}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:55px}
+.kicker,.eyebrow{color:var(--red);font-size:11px;font-weight:850;letter-spacing:1.7px;text-transform:uppercase}.hero h1{font-size:clamp(42px,6vw,70px);line-height:1.02;letter-spacing:-3.6px;margin:17px 0 20px;max-width:650px}.hero h1 em{font-style:normal;color:var(--red)}.hero-lead{font-size:19px;line-height:1.6;color:#586174;max-width:570px;margin:0 0 29px}.hero-actions{display:flex;gap:13px;flex-wrap:wrap}.button.secondary{background:#fff;color:var(--ink);border:1px solid #e7dadd;box-shadow:none}.hero-note{display:flex;gap:18px;flex-wrap:wrap;margin-top:30px;color:#747d8d;font-size:12px}.hero-note span{display:flex;align-items:center;gap:7px}.check{color:#1ba56a;font-weight:900}
+.hero-visual{min-height:440px;display:flex;align-items:center;justify-content:center;position:relative}.hero-device{width:255px;height:510px;border:9px solid #171923;border-radius:42px;background:#171923;box-shadow:0 35px 65px rgba(18,22,34,.24);padding:5px;position:relative;transform:rotate(5deg);z-index:2}.hero-device:before{content:"";position:absolute;z-index:4;top:8px;left:50%;transform:translateX(-50%);width:78px;height:17px;background:#171923;border-radius:0 0 12px 12px}.hero-device img{width:100%;height:100%;object-fit:cover;border-radius:29px}.hero-device .device-island{position:absolute;z-index:5;top:5px;left:50%;transform:translateX(-50%);width:74px;height:16px;background:#171923;border-radius:0 0 12px 12px}.orbit{position:absolute;width:390px;height:390px;border:1px dashed #f0a7ab;border-radius:50%;z-index:0}.orbit:before,.orbit:after{content:"";position:absolute;width:52px;height:52px;border-radius:16px;background:#fff;box-shadow:var(--shadow);border:1px solid #f3e3e4}.orbit:before{top:30px;right:22px}.orbit:after{bottom:42px;left:3px}.float-label{position:absolute;background:#fff;padding:11px 15px;border-radius:13px;box-shadow:var(--shadow);font-size:12px;font-weight:800;z-index:3}.float-label.one{right:0;top:74px}.float-label.two{left:0;bottom:73px}
+.trust-strip{border-bottom:1px solid var(--line);background:#fff}.trust-inner{display:flex;justify-content:center;align-items:center;gap:45px;flex-wrap:wrap;padding:23px 0;color:#6c7483;font-size:12px;font-weight:700}.trust-inner b{color:var(--ink)}
+.section{padding:94px 0}.section-head{text-align:center;max-width:730px;margin:0 auto 48px}.section-head h2{font-size:clamp(30px,4vw,44px);letter-spacing:-1.7px;line-height:1.13;margin:13px 0}.section-head p{color:var(--muted);font-size:16px;margin:0}
+.overview{background:var(--soft)}.overview-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.overview-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:23px;box-shadow:0 8px 25px rgba(20,25,40,.035)}.overview-icon{width:42px;height:42px;border-radius:13px;background:#fff0f0;color:var(--red);display:grid;place-items:center;font-size:19px;font-weight:900}.overview-card h3{font-size:16px;margin:15px 0 6px}.overview-card p{font-size:13px;color:var(--muted);margin:0}
+.features{padding-bottom:60px}.feature{display:grid;grid-template-columns:1fr .95fr;align-items:center;gap:70px;padding:62px 0;border-bottom:1px solid var(--line);min-height:560px}.feature:nth-child(even){grid-template-columns:.95fr 1fr}.feature:nth-child(even) .feature-copy{order:2}.feature:nth-child(even) .device-wrap{order:1}.feature-copy{max-width:490px}.feature-copy h3{font-size:clamp(29px,3.5vw,42px);line-height:1.13;letter-spacing:-1.5px;margin:15px 0}.feature-copy p{color:var(--muted);font-size:16px;line-height:1.8}.feature-points{display:grid;gap:10px;margin-top:25px;color:#4d5667;font-size:13px;font-weight:650}.feature-points span{display:flex;align-items:center;gap:10px}.feature-points i{width:7px;height:7px;background:var(--red);border-radius:50%;box-shadow:0 0 0 5px #ffeded}
+.device-wrap{position:relative;display:flex;justify-content:center;align-items:center;min-height:520px}.device{position:relative;z-index:2;width:278px;height:535px;background:#11131a;border:8px solid #151720;border-radius:42px;padding:7px;box-shadow:0 28px 65px rgba(16,20,32,.22),inset 0 0 0 1px #555;overflow:hidden}.device-screen{height:100%;width:100%;border-radius:29px;overflow:hidden;background:#f4f5f7;display:flex;align-items:center;justify-content:center}.device-screen img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}.device.tall .device-screen img{object-fit:cover}.device.wide{width:278px;height:535px;border-radius:42px;padding:7px}.device.wide .device-screen{border-radius:29px}.device.wide .device-screen img{object-fit:contain;background:#f4f5f7}.device-island{position:absolute;z-index:4;top:7px;left:50%;transform:translateX(-50%);width:83px;height:18px;background:#151720;border-radius:0 0 13px 13px}.device-home{position:absolute;z-index:4;bottom:8px;left:50%;transform:translateX(-50%);width:70px;height:4px;border-radius:5px;background:#111;opacity:.65}.device-glow{position:absolute;width:330px;height:330px;background:radial-gradient(circle,#ffe0e1 0,rgba(255,235,236,.45) 45%,transparent 72%);border-radius:50%;z-index:1}
+.feature-wide .device-wrap{min-height:480px}
+.cta-band{background:linear-gradient(120deg,#e92329,#bd171e);color:#fff;padding:66px 0}.cta-content{display:flex;align-items:center;justify-content:space-between;gap:30px}.cta-content h2{font-size:32px;letter-spacing:-1px;margin:0 0 8px}.cta-content p{margin:0;color:#ffe3e4;font-size:14px}.cta-band .button{background:#fff;color:var(--red);box-shadow:none;white-space:nowrap}
+footer{background:#151923;color:#fff;padding:34px 0}.footer-inner{display:flex;align-items:center;justify-content:space-between;gap:20px}.footer-brand{font-weight:850}.footer-brand span{color:#ff555a}.footer-inner p{margin:0;color:#aeb5c2;font-size:12px}.footer-links{display:flex;gap:18px;color:#c9ced7;font-size:12px}
+@media(max-width:850px){nav{gap:14px}.hero-grid{grid-template-columns:1fr;gap:15px}.hero-copy{text-align:center}.hero-lead{margin-left:auto;margin-right:auto}.hero-actions,.hero-note{justify-content:center}.hero-visual{min-height:460px}.overview-grid{grid-template-columns:repeat(2,1fr)}.feature,.feature:nth-child(even){grid-template-columns:1fr;gap:20px;padding:48px 0}.feature:nth-child(even) .feature-copy,.feature:nth-child(even) .device-wrap{order:initial}.feature-copy{text-align:center;margin:auto}.feature-points{text-align:left;width:max-content;max-width:100%;margin:22px auto}.device-wrap{min-height:490px}.device.wide{width:min(385px,90vw);height:410px}.cta-content{flex-direction:column;text-align:center}}
+@media(max-width:600px){.container{width:min(100% - 30px,1160px)}.nav{height:65px}.brand{font-size:16px}.brand-mark{width:34px;height:34px}nav a:not(.nav-cta){display:none}.nav-cta{padding:10px 14px;font-size:12px}.hero{padding:65px 0 48px}.hero h1{letter-spacing:-2.3px}.hero-lead{font-size:16px}.hero-visual{min-height:420px}.hero-device{width:215px;height:430px}.orbit{width:320px;height:320px}.float-label.one{right:-3px;top:45px}.float-label.two{left:-3px;bottom:45px}.trust-inner{gap:14px;padding:18px 0}.section{padding:66px 0}.overview-grid{grid-template-columns:1fr}.section-head{margin-bottom:32px}.feature-copy h3{font-size:31px}.device{width:255px;height:505px}.device.wide{width:255px;height:505px;border-radius:42px}.device.wide .device-screen{border-radius:29px}.device-wrap{min-height:470px}.feature-wide .device-wrap{min-height:360px}.cta-content h2{font-size:27px}.footer-inner{flex-direction:column;text-align:center}.footer-links{flex-wrap:wrap;justify-content:center}}
+
+/* --- Ajustes de presentación: capturas completas y jerarquía tipográfica --- */
+.hero-device{
+  width:min(390px,82vw)!important;
+  height:auto!important;
+  aspect-ratio:931 / 1005;
+  padding:7px!important;
+  border-radius:38px!important;
+  background:#151720!important;
+  overflow:hidden;
+}
+.hero-device img{
+  width:100%!important;height:100%!important;
+  object-fit:contain!important;object-position:center!important;
+  background:#f4f5f7;border-radius:29px!important;
+}
+.hero-device:before,.hero-device .device-island{display:none!important}
+
+/* Inicio y Pedidos: conservar la captura completa y su proporción original. */
+.device.wide{
+  width:min(410px,90vw)!important;
+  height:auto!important;
+  aspect-ratio:931 / 1005;
+  padding:8px!important;
+  border-radius:38px!important;
+}
+.device.wide .device-screen{
+  width:100%;height:100%;
+  border-radius:28px!important;
+}
+.device.wide .device-screen img{
+  width:100%;height:100%;
+  object-fit:contain!important;object-position:center!important;
+  background:#f4f5f7;
+}
+
+/* Ninguna captura se recorta; las pantallas mantienen la imagen completa. */
+.device-screen img{
+  object-fit:contain!important;
+  object-position:center!important;
+  background:#f4f5f7;
+}
+.device:not(.wide){
+  width:min(350px,86vw)!important;
+  height:auto!important;
+  aspect-ratio:673 / 1005;
+}
+.device:not(.wide) .device-screen{
+  width:100%;height:100%;
+}
+
+/* Jerarquía clara: los títulos siempre destacan sobre sus subtítulos. */
+.section-head h2{font-size:clamp(34px,4.2vw,46px)!important;line-height:1.12}
+.section-head p{font-size:17px!important;line-height:1.65}
+.overview-card h3{font-size:19px!important;line-height:1.25}
+.overview-card p{font-size:14px!important;line-height:1.65}
+.feature-copy h3{font-size:clamp(34px,3.7vw,44px)!important;line-height:1.12}
+.feature-copy p{font-size:17px!important;line-height:1.75}
+.cta-content h2{font-size:clamp(30px,3.4vw,38px)!important}
+@media(max-width:600px){
+  .hero-device{width:min(340px,88vw)!important;height:auto!important}
+  .device.wide{width:min(360px,92vw)!important;height:auto!important}
+  .device:not(.wide){width:min(330px,88vw)!important;height:auto!important}
+  .feature-copy h3{font-size:34px!important}
+  .section-head h2{font-size:34px!important}
+}
+
+
+/* Selector de idioma estilo FullVendor */
+.nav{position:relative}
+.language-picker{position:relative;margin-left:auto;margin-right:18px;flex:0 0 auto;z-index:30}
+.language-current{height:39px;min-width:78px;display:flex;align-items:center;justify-content:center;gap:8px;padding:0 12px;border:1px solid #f0d8da;border-radius:999px;background:#fff;color:#242936;font:700 12px inherit;cursor:pointer;box-shadow:0 4px 14px rgba(25,30,45,.06)}
+.language-flag{font-size:17px;line-height:1}.language-code{font-size:12px;font-weight:850;letter-spacing:.5px}.language-chevron{font-size:11px;color:#777}
+.language-menu{display:none;position:absolute;right:0;top:47px;width:184px;padding:7px;background:#fff;border:1px solid #ececf0;border-radius:14px;box-shadow:0 16px 40px rgba(20,25,40,.16)}
+.language-picker.open .language-menu{display:block}
+.language-menu button{width:100%;display:flex;align-items:center;gap:11px;padding:10px 11px;border:0;border-radius:9px;background:transparent;color:#303746;text-align:left;font:600 13px inherit;cursor:pointer}
+.language-menu button span{font-size:18px}.language-menu button:hover,.language-menu button.active{background:#fff0f0;color:#d9232b}
+@media(max-width:850px){.language-picker{margin-left:auto;margin-right:0}.nav{gap:12px}}
+@media(max-width:600px){.language-current{height:36px;min-width:70px;padding:0 9px}.language-menu{right:0;top:43px}}
+
+</style>
+</head>
+<body>
+<header>
+<div class="container nav">
+<a class="brand" href="#top"><span class="brand-mark">F</span> Full<span>Vendor</span> Salesman</a>
+<div class="language-picker" id="languagePicker">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Change language" class="language-current" type="button">
+<span class="language-flag">🇪🇸</span><span class="language-code">ES</span><span class="language-chevron">▾</span>
+</button>
+<div class="language-menu" role="menu">
+<button data-lang="es" type="button"><span>🇪🇸</span> Español</button>
+<button data-lang="en" type="button"><span>🇬🇧</span> English</button>
+<button data-lang="pt" type="button"><span>🇵🇹</span> Português</button>
+<button data-lang="it" type="button"><span>🇮🇹</span> Italiano</button>
+<button data-lang="de" type="button"><span>🇩🇪</span> Deutsch</button>
+<button data-lang="ru" type="button"><span>🇷🇺</span> Русский</button>
+<button data-lang="zh" type="button"><span>🇨🇳</span> 中文</button>
+</div>
+</div>
+<nav><a data-i18n="Funciones" href="#funciones">Funciones</a><a data-i18n="La aplicación" href="#capturas">La aplicación</a><a data-i18n="Contacto" href="#contacto">Contacto</a><a class="nav-cta" data-i18n="Ver en Google Play ↗" href="https://play.google.com/store/apps/details?id=com.fullvendorsalesmanv2" rel="noopener" target="_blank">Ver en Google Play ↗</a></nav>
+</div>
+</header>
+<main id="top">
+<section class="hero">
+<div class="container hero-grid">
+<div class="hero-copy">
+<div class="kicker" data-i18n="La fuerza de ventas, siempre conectada">La fuerza de ventas, siempre conectada</div>
+<h1>Vende mejor.<br/><em data-i18n="Gestiona desde">Gestiona desde</em><br/>cualquier lugar.</h1>
+<p class="hero-lead" data-i18n="FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.">FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.</p>
+<div class="hero-actions"><a class="button" href="#capturas">Explorar la aplicación <span>→</span></a><a class="button secondary" data-i18n="Conocer funciones" href="#funciones">Conocer funciones</a></div>
+<div class="hero-note"><span><b class="check">✓</b> Clientes y pedidos</span><span><b class="check">✓</b> Catálogo organizado</span><span><b class="check">✓</b> Comunicación directa</span></div>
+</div>
+<div class="hero-visual">
+<div class="orbit"></div><div class="float-label one" data-i18n="🛒 Gestión de pedidos">🛒 Gestión de pedidos</div><div class="float-label two" data-i18n="👥 Clientes en un solo lugar">👥 Clientes en un solo lugar</div>
+<div class="hero-device"><div class="device-island"></div><img alt="Pantalla de inicio de FullVendor Salesman" src="images/home.png"/></div>
+</div>
+</div>
+</section>
+<div class="trust-strip"><div class="container trust-inner"><span><b>FullVendor</b> · Ecosistema comercial</span><span data-i18n="Ventas en campo">Ventas en campo</span><span data-i18n="Gestión de clientes">Gestión de clientes</span><span data-i18n="Seguimiento de pedidos">Seguimiento de pedidos</span></div></div>
+<section class="section overview" id="funciones">
+<div class="container">
+<div class="section-head"><div class="eyebrow" data-i18n="Una app para el día a día">Una app para el día a día</div><h2 data-i18n="Todo lo que necesita tu equipo de ventas">Todo lo que necesita tu equipo de ventas</h2><p data-i18n="Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.">Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.</p></div>
+<div class="overview-grid">
+<article class="overview-card"><div class="overview-icon">⌂</div><h3 data-i18n="Panel de inicio">Panel de inicio</h3><p data-i18n="Indicadores rápidos y accesos a los principales módulos de trabajo.">Indicadores rápidos y accesos a los principales módulos de trabajo.</p></article>
+<article class="overview-card"><div class="overview-icon">▤</div><h3 data-i18n="Pedidos">Pedidos</h3><p data-i18n="Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.">Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.</p></article>
+<article class="overview-card"><div class="overview-icon">◇</div><h3 data-i18n="Categorías">Categorías</h3><p data-i18n="Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.">Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.</p></article>
+<article class="overview-card"><div class="overview-icon">▣</div><h3 data-i18n="Nuevo pedido">Nuevo pedido</h3><p data-i18n="Selecciona al cliente para iniciar el proceso de creación de una orden.">Selecciona al cliente para iniciar el proceso de creación de una orden.</p></article>
+<article class="overview-card"><div class="overview-icon">♙</div><h3 data-i18n="Clientes">Clientes</h3><p data-i18n="Consulta contactos, ubicación, balance y opciones de comunicación.">Consulta contactos, ubicación, balance y opciones de comunicación.</p></article>
+<article class="overview-card"><div class="overview-icon">▰</div><h3 data-i18n="Chat de empresa">Chat de empresa</h3><p data-i18n="Conversa con los administradores y revisa los chats activos.">Conversa con los administradores y revisa los chats activos.</p></article>
+</div>
+</div>
+</section>
+<section class="section features" id="capturas">
+<div class="container">
+<div class="section-head"><div class="eyebrow" data-i18n="Conoce cada pantalla">Conoce cada pantalla</div><h2 data-i18n="Una experiencia móvil para vender en movimiento">Una experiencia móvil para vender en movimiento</h2><p data-i18n="Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.">Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.</p></div>
+<article class="feature feature-wide" id="feature-1">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="01 · Inicio">01 · Inicio</span>
+<h3 data-i18n="Un centro de trabajo para el vendedor">Un centro de trabajo para el vendedor</h3>
+<p data-i18n="Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.">Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device wide">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Inicio" loading="lazy" src="images/inicio.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+<article class="feature feature-wide" id="feature-2">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="02 · Pedidos">02 · Pedidos</span>
+<h3 data-i18n="Control de pedidos pendientes y completados">Control de pedidos pendientes y completados</h3>
+<p data-i18n="Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.">Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device wide">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Pedidos" loading="lazy" src="images/pedidos.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+<article class="feature feature-tall" id="feature-3">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="03 · Categorías">03 · Categorías</span>
+<h3 data-i18n="Encuentra productos por categoría">Encuentra productos por categoría</h3>
+<p data-i18n="Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.">Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Categorías" loading="lazy" src="images/categorias.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+<article class="feature feature-tall" id="feature-4">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="04 · Nuevo pedido">04 · Nuevo pedido</span>
+<h3 data-i18n="Crea pedidos desde la selección del cliente">Crea pedidos desde la selección del cliente</h3>
+<p data-i18n="Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.">Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Nuevo pedido" loading="lazy" src="images/nuevo-pedido.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+<article class="feature feature-tall" id="feature-5">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="05 · Clientes">05 · Clientes</span>
+<h3 data-i18n="Toda la información del cliente en un solo lugar">Toda la información del cliente en un solo lugar</h3>
+<p data-i18n="Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.">Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Clientes" loading="lazy" src="images/clientes.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+<article class="feature feature-tall" id="feature-6">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="06 · Chat de empresa">06 · Chat de empresa</span>
+<h3 data-i18n="Comunicación directa con los administradores">Comunicación directa con los administradores</h3>
+<p data-i18n="Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.">Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.</p>
+<div class="feature-points">
+<span><i></i>Diseñado para ventas en campo</span>
+<span><i></i>Información conectada con FullVendor</span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen">
+<img alt="Captura de FullVendor Salesman: Chat de empresa" loading="lazy" src="images/chat.png"/>
+</div>
+<div class="device-home"></div>
+</div>
+<span class="device-glow"></span>
+</div>
+</article>
+</div>
+</section>
+<section class="cta-band" id="contacto">
+<div class="container cta-content"><div><h2 data-i18n="Impulsa la productividad de tu equipo comercial.">Impulsa la productividad de tu equipo comercial.</h2><p data-i18n="Conecta la gestión diaria de vendedores con el ecosistema FullVendor.">Conecta la gestión diaria de vendedores con el ecosistema FullVendor.</p></div><a class="button" data-i18n="Conocer FullVendor ↗" href="https://web.fullvendor.com/" rel="noopener" target="_blank">Conocer FullVendor ↗</a></div>
+</section>
+</main>
+<footer><div class="container footer-inner"><div class="footer-brand">F <span>FullVendor</span> Salesman</div><p data-i18n="© 2026 FullVendor. Todos los derechos reservados.">© 2026 FullVendor. Todos los derechos reservados.</p><div class="footer-links"><a href="https://web.fullvendor.com/">FullVendor</a><a href="https://play.google.com/store/apps/details?id=com.fullvendorsalesmanv2">Google Play</a></div></div></footer>
+
+<script>
+(function(){
+ const names={es:{flag:'🇪🇸',code:'ES'},en:{flag:'🇬🇧',code:'EN'},pt:{flag:'🇵🇹',code:'PT'},it:{flag:'🇮🇹',code:'IT'},de:{flag:'🇩🇪',code:'DE'},ru:{flag:'🇷🇺',code:'RU'},zh:{flag:'🇨🇳',code:'中文'}};
+ const dict={"en":{"Funciones":"Features","La aplicación":"The app","Contacto":"Contact","Ver en Google Play ↗":"Get it on Google Play ↗","La fuerza de ventas, siempre conectada":"Your sales force, always connected","Vende mejor.":"Sell smarter.","Gestiona desde":"Manage from","cualquier lugar.":"anywhere.","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"FullVendor Salesman brings customers, orders, products and business communication together in a mobile app built for sales reps on the move.","Explorar la aplicación":"Explore the app","Conocer funciones":"Explore features","Clientes y pedidos":"Customers and orders","Catálogo organizado":"Organized catalog","Comunicación directa":"Direct communication","🛒 Gestión de pedidos":"🛒 Order management","👥 Clientes en un solo lugar":"👥 Customers in one place","· Ecosistema comercial":"· Business ecosystem","Ventas en campo":"Field sales","Gestión de clientes":"Customer management","Seguimiento de pedidos":"Order tracking","Una app para el día a día":"One app for everyday work","Todo lo que necesita tu equipo de ventas":"Everything your sales team needs","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"Access business information and keep work moving with fewer steps through a clear, easy-to-use interface.","Panel de inicio":"Home dashboard","Indicadores rápidos y accesos a los principales módulos de trabajo.":"Quick metrics and shortcuts to the main work modules.","Pedidos":"Orders","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"Review pending and completed orders, search, and view each order's details.","Categorías":"Categories","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"Browse the catalog by category and quickly find what your customer needs.","Nuevo pedido":"New order","Selecciona al cliente para iniciar el proceso de creación de una orden.":"Select a customer to start creating an order.","Clientes":"Customers","Consulta contactos, ubicación, balance y opciones de comunicación.":"View contact details, location, balance and communication options.","Chat de empresa":"Company chat","Conversa con los administradores y revisa los chats activos.":"Chat with managers and review active conversations.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para vender en movimiento":"A mobile experience for selling on the go","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"Original FullVendor Salesman screenshots are shown inside device frames to demonstrate the app in use.","01 · Inicio":"01 · Home","Un centro de trabajo para el vendedor":"A workspace built for sales reps","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"See monthly activity, the selected customer and shortcuts to orders, categories, products and customers at a glance.","02 · Pedidos":"02 · Orders","Control de pedidos pendientes y completados":"Manage pending and completed orders","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"Search orders by customer, email or phone, switch between pending and completed orders, and review totals, item counts and status.","03 · Categorías":"03 · Categories","Encuentra productos por categoría":"Find products by category","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"Browse the visual catalog by category. Images and item counts help you quickly find the products each customer needs.","04 · Nuevo pedido":"04 · New order","Crea pedidos desde la selección del cliente":"Create orders by selecting a customer","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"Search available customers and select the right account to start a new sales order.","05 · Clientes":"05 · Customers","Toda la información del cliente en un solo lugar":"All customer information in one place","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"View business details, contact information, location and outstanding balance. Send catalogs, email customers or continue the conversation on WhatsApp.","06 · Chat de empresa":"06 · Company chat","Comunicación directa con los administradores":"Direct communication with managers","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"Review active chats and contact company managers from the app without interrupting your workflow.","Diseñado para ventas en campo":"Built for field sales","Información conectada con FullVendor":"Connected to FullVendor","Impulsa la productividad de tu equipo comercial.":"Boost your sales team's productivity.","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"Connect daily sales operations with the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."},"pt":{"Funciones":"Funcionalidades","La aplicación":"O aplicativo","Contacto":"Contato","Ver en Google Play ↗":"Ver no Google Play ↗","La fuerza de ventas, siempre conectada":"Sua força de vendas, sempre conectada","Vende mejor.":"Venda melhor.","Gestiona desde":"Gerencie de","cualquier lugar.":"qualquer lugar.","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"O FullVendor Salesman reúne clientes, pedidos, produtos e comunicação comercial em um aplicativo móvel criado para vendedores em movimento.","Explorar la aplicación":"Explorar o aplicativo","Conocer funciones":"Conhecer recursos","Clientes y pedidos":"Clientes e pedidos","Catálogo organizado":"Catálogo organizado","Comunicación directa":"Comunicação direta","🛒 Gestión de pedidos":"🛒 Gestão de pedidos","👥 Clientes en un solo lugar":"👥 Clientes em um só lugar","· Ecosistema comercial":"· Ecossistema comercial","Ventas en campo":"Vendas externas","Gestión de clientes":"Gestão de clientes","Seguimiento de pedidos":"Acompanhamento de pedidos","Una app para el día a día":"Um app para o dia a dia","Todo lo que necesita tu equipo de ventas":"Tudo o que sua equipe de vendas precisa","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"Acesse as informações comerciais e continue o trabalho com menos etapas, em uma interface clara e fácil de usar.","Panel de inicio":"Painel inicial","Indicadores rápidos y accesos a los principales módulos de trabajo.":"Indicadores rápidos e atalhos para os principais módulos de trabalho.","Pedidos":"Pedidos","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"Consulte pedidos pendentes e concluídos, com busca e detalhes de cada pedido.","Categorías":"Categorias","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"Explore o catálogo por categorias e encontre rapidamente o que o cliente procura.","Nuevo pedido":"Novo pedido","Selecciona al cliente para iniciar el proceso de creación de una orden.":"Selecione o cliente para iniciar a criação de um pedido.","Clientes":"Clientes","Consulta contactos, ubicación, balance y opciones de comunicación.":"Consulte contatos, localização, saldo e opções de comunicação.","Chat de empresa":"Chat da empresa","Conversa con los administradores y revisa los chats activos.":"Converse com os administradores e veja os chats ativos.","Conoce cada pantalla":"Conheça cada tela","Una experiencia móvil para vender en movimiento":"Uma experiência móvel para vender em qualquer lugar","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"As capturas originais do FullVendor Salesman são exibidas em molduras de dispositivos para mostrar o aplicativo em uso.","01 · Inicio":"01 · Início","Un centro de trabajo para el vendedor":"Um espaço de trabalho para o vendedor","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"Veja rapidamente a atividade do mês, o cliente selecionado e os atalhos para pedidos, categorias, produtos e clientes.","02 · Pedidos":"02 · Pedidos","Control de pedidos pendientes y completados":"Controle pedidos pendentes e concluídos","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"Pesquise pedidos por cliente, e-mail ou telefone, alterne entre pendentes e concluídos e confira valores, quantidades e status.","03 · Categorías":"03 · Categorias","Encuentra productos por categoría":"Encontre produtos por categoria","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"Explore o catálogo visual por categorias. Imagens e contadores ajudam a encontrar rapidamente os produtos de que cada cliente precisa.","04 · Nuevo pedido":"04 · Novo pedido","Crea pedidos desde la selección del cliente":"Crie pedidos selecionando o cliente","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"Pesquise os clientes disponíveis e selecione a conta correta para iniciar um novo pedido de venda.","05 · Clientes":"05 · Clientes","Toda la información del cliente en un solo lugar":"Todas as informações do cliente em um só lugar","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"Consulte dados comerciais, contato, localização e saldo pendente. Envie catálogos, e-mails ou continue a conversa pelo WhatsApp.","06 · Chat de empresa":"06 · Chat da empresa","Comunicación directa con los administradores":"Comunicação direta com os administradores","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"Consulte os chats ativos e fale com os responsáveis da empresa pelo aplicativo, sem interromper o fluxo de trabalho.","Diseñado para ventas en campo":"Feito para vendas externas","Información conectada con FullVendor":"Informações conectadas ao FullVendor","Impulsa la productividad de tu equipo comercial.":"Aumente a produtividade da sua equipe comercial.","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"Conecte a gestão diária dos vendedores ao ecossistema FullVendor.","Conocer FullVendor ↗":"Conheça o FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. Todos os direitos reservados."},"it":{"Funciones":"Funzionalità","La aplicación":"L'app","Contacto":"Contatti","Ver en Google Play ↗":"Disponibile su Google Play ↗","La fuerza de ventas, siempre conectada":"La forza vendita, sempre connessa","Vende mejor.":"Vendi meglio.","Gestiona desde":"Gestisci da","cualquier lugar.":"ovunque.","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"FullVendor Salesman riunisce clienti, ordini, prodotti e comunicazione commerciale in un'app mobile pensata per i venditori sempre in movimento.","Explorar la aplicación":"Esplora l'app","Conocer funciones":"Scopri le funzionalità","Clientes y pedidos":"Clienti e ordini","Catálogo organizado":"Catalogo organizzato","Comunicación directa":"Comunicazione diretta","Una app para el día a día":"Un'app per ogni giorno","Todo lo que necesita tu equipo de ventas":"Tutto ciò che serve al tuo team vendite","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"Accedi alle informazioni commerciali e continua a lavorare con meno passaggi, grazie a un'interfaccia chiara e intuitiva.","Panel de inicio":"Dashboard","Indicadores rápidos y accesos a los principales módulos de trabajo.":"Indicatori rapidi e collegamenti ai principali moduli di lavoro.","Pedidos":"Ordini","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"Consulta gli ordini in sospeso e completati, con ricerca e dettagli di ogni ordine.","Categorías":"Categorie","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"Esplora il catalogo per categorie e trova rapidamente ciò che cerca il cliente.","Nuevo pedido":"Nuovo ordine","Selecciona al cliente para iniciar el proceso de creación de una orden.":"Seleziona il cliente per iniziare a creare un ordine.","Clientes":"Clienti","Consulta contactos, ubicación, balance y opciones de comunicación.":"Consulta contatti, posizione, saldo e opzioni di comunicazione.","Chat de empresa":"Chat aziendale","Conversa con los administradores y revisa los chats activos.":"Comunica con gli amministratori e consulta le chat attive.","Conoce cada pantalla":"Scopri ogni schermata","Una experiencia móvil para vender en movimiento":"Un'esperienza mobile per vendere ovunque","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"Le schermate originali di FullVendor Salesman sono mostrate in cornici di dispositivi per presentare l'app in uso.","01 · Inicio":"01 · Home","Un centro de trabajo para el vendedor":"Uno spazio di lavoro per il venditore","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"Consulta a colpo d'occhio l'attività del mese, il cliente selezionato e le scorciatoie per ordini, categorie, prodotti e clienti.","02 · Pedidos":"02 · Ordini","Control de pedidos pendientes y completados":"Gestisci gli ordini in sospeso e completati","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"Cerca gli ordini per cliente, e-mail o telefono, passa tra ordini in sospeso e completati e controlla importi, quantità e stato.","03 · Categorías":"03 · Categorie","Encuentra productos por categoría":"Trova i prodotti per categoria","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"Esplora il catalogo visivo per categorie. Immagini e contatori aiutano a trovare rapidamente i prodotti necessari a ogni cliente.","04 · Nuevo pedido":"04 · Nuovo ordine","Crea pedidos desde la selección del cliente":"Crea ordini selezionando il cliente","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"Cerca tra i clienti disponibili e seleziona l'account corretto per iniziare un nuovo ordine di vendita.","05 · Clientes":"05 · Clienti","Toda la información del cliente en un solo lugar":"Tutte le informazioni del cliente in un unico posto","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"Consulta dati commerciali, contatti, posizione e saldo. Dalla scheda puoi inviare cataloghi, e-mail o continuare la conversazione su WhatsApp.","06 · Chat de empresa":"06 · Chat aziendale","Comunicación directa con los administradores":"Comunicazione diretta con gli amministratori","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"Consulta le chat attive e contatta i responsabili della tua azienda dall'app, senza interrompere il flusso di lavoro.","Diseñado para ventas en campo":"Pensato per le vendite sul campo","Información conectada con FullVendor":"Informazioni connesse a FullVendor","Impulsa la productividad de tu equipo comercial.":"Aumenta la produttività del tuo team commerciale.","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"Collega la gestione quotidiana dei venditori all'ecosistema FullVendor.","Conocer FullVendor ↗":"Scopri FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. Tutti i diritti riservati."},"de":{"Funciones":"Funktionen","La aplicación":"Die App","Contacto":"Kontakt","Ver en Google Play ↗":"Bei Google Play ansehen ↗","La fuerza de ventas, siempre conectada":"Ihr Vertriebsteam – immer verbunden","Vende mejor.":"Besser verkaufen.","Gestiona desde":"Verwalten Sie von","cualquier lugar.":"überall.","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"FullVendor Salesman vereint Kunden, Bestellungen, Produkte und geschäftliche Kommunikation in einer mobilen App für den Außendienst.","Explorar la aplicación":"App entdecken","Conocer funciones":"Funktionen entdecken","Clientes y pedidos":"Kunden und Bestellungen","Catálogo organizado":"Strukturierter Katalog","Comunicación directa":"Direkte Kommunikation","Una app para el día a día":"Eine App für den Arbeitsalltag","Todo lo que necesita tu equipo de ventas":"Alles, was Ihr Vertriebsteam braucht","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"Greifen Sie auf Geschäftsinformationen zu und erledigen Sie Aufgaben mit weniger Schritten über eine klare, einfache Oberfläche.","Panel de inicio":"Startübersicht","Indicadores rápidos y accesos a los principales módulos de trabajo.":"Schnellübersicht und Verknüpfungen zu den wichtigsten Arbeitsbereichen.","Pedidos":"Bestellungen","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"Sehen Sie offene und abgeschlossene Bestellungen, Suchfunktionen und Details zu jeder Bestellung.","Categorías":"Kategorien","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"Durchsuchen Sie den Katalog nach Kategorien und finden Sie schnell die gewünschten Produkte.","Nuevo pedido":"Neue Bestellung","Selecciona al cliente para iniciar el proceso de creación de una orden.":"Wählen Sie einen Kunden aus, um eine neue Bestellung zu erstellen.","Clientes":"Kunden","Consulta contactos, ubicación, balance y opciones de comunicación.":"Sehen Sie Kontakte, Standort, Kontostand und Kommunikationsoptionen.","Chat de empresa":"Unternehmenschat","Conversa con los administradores y revisa los chats activos.":"Chatten Sie mit Administratoren und sehen Sie aktive Unterhaltungen.","Conoce cada pantalla":"Lernen Sie jede Ansicht kennen","Una experiencia móvil para vender en movimiento":"Mobil verkaufen – überall und jederzeit","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"Originale Screenshots von FullVendor Salesman zeigen die App in realistischen Geräteansichten.","01 · Inicio":"01 · Start","Un centro de trabajo para el vendedor":"Der Arbeitsplatz für den Vertrieb","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"Sehen Sie Monatsaktivitäten, den ausgewählten Kunden und Schnellzugriffe auf Bestellungen, Kategorien, Produkte und Kunden auf einen Blick.","02 · Pedidos":"02 · Bestellungen","Control de pedidos pendientes y completados":"Offene und abgeschlossene Bestellungen verwalten","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"Suchen Sie nach Kunde, E-Mail oder Telefon, wechseln Sie zwischen offenen und abgeschlossenen Bestellungen und prüfen Sie Betrag, Artikelzahl und Status.","03 · Categorías":"03 · Kategorien","Encuentra productos por categoría":"Produkte nach Kategorie finden","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"Durchsuchen Sie den visuellen Katalog nach Kategorien. Bilder und Zähler helfen, benötigte Produkte schnell zu finden.","04 · Nuevo pedido":"04 · Neue Bestellung","Crea pedidos desde la selección del cliente":"Bestellungen durch Kundenauswahl erstellen","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"Suchen Sie unter den verfügbaren Kunden und wählen Sie das richtige Konto für einen neuen Verkaufsauftrag.","05 · Clientes":"05 · Kunden","Toda la información del cliente en un solo lugar":"Alle Kundeninformationen an einem Ort","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"Sehen Sie Geschäftsdaten, Kontakt, Standort und offenen Saldo. Senden Sie Kataloge, E-Mails oder schreiben Sie über WhatsApp.","06 · Chat de empresa":"06 · Unternehmenschat","Comunicación directa con los administradores":"Direkter Kontakt zu Administratoren","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"Sehen Sie aktive Chats und kontaktieren Sie Unternehmensverantwortliche direkt in der App.","Diseñado para ventas en campo":"Für den Außendienst entwickelt","Información conectada con FullVendor":"Mit FullVendor verbunden","Impulsa la productividad de tu equipo comercial.":"Steigern Sie die Produktivität Ihres Vertriebsteams.","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"Verbinden Sie den Vertriebsalltag mit dem FullVendor-Ökosystem.","Conocer FullVendor ↗":"FullVendor kennenlernen ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. Alle Rechte vorbehalten."},"ru":{"Funciones":"Возможности","La aplicación":"Приложение","Contacto":"Контакты","Ver en Google Play ↗":"Скачать в Google Play ↗","La fuerza de ventas, siempre conectada":"Ваша команда продаж всегда на связи","Vende mejor.":"Продавайте лучше.","Gestiona desde":"Управляйте из","cualquier lugar.":"любого места.","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"FullVendor Salesman объединяет клиентов, заказы, товары и деловое общение в мобильном приложении для торговых представителей.","Explorar la aplicación":"Обзор приложения","Conocer funciones":"Возможности","Clientes y pedidos":"Клиенты и заказы","Catálogo organizado":"Удобный каталог","Comunicación directa":"Прямая связь","Una app para el día a día":"Приложение на каждый день","Todo lo que necesita tu equipo de ventas":"Всё необходимое вашей команде продаж","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"Получайте доступ к деловой информации и выполняйте задачи быстрее благодаря понятному интерфейсу.","Panel de inicio":"Главная панель","Indicadores rápidos y accesos a los principales módulos de trabajo.":"Ключевые показатели и быстрый доступ к основным разделам.","Pedidos":"Заказы","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"Просматривайте ожидающие и завершённые заказы, поиск и подробности каждого заказа.","Categorías":"Категории","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"Просматривайте каталог по категориям и быстро находите нужные клиенту товары.","Nuevo pedido":"Новый заказ","Selecciona al cliente para iniciar el proceso de creación de una orden.":"Выберите клиента, чтобы создать новый заказ.","Clientes":"Клиенты","Consulta contactos, ubicación, balance y opciones de comunicación.":"Просматривайте контакты, местоположение, баланс и способы связи.","Chat de empresa":"Корпоративный чат","Conversa con los administradores y revisa los chats activos.":"Общайтесь с администраторами и просматривайте активные чаты.","Conoce cada pantalla":"Знакомство с экранами","Una experiencia móvil para vender en movimiento":"Мобильные продажи в движении","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"Оригинальные снимки FullVendor Salesman показаны в рамках устройств, чтобы продемонстрировать работу приложения.","01 · Inicio":"01 · Главная","Un centro de trabajo para el vendedor":"Рабочее пространство продавца","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"Следите за активностью за месяц, выбранным клиентом и быстрым доступом к заказам, категориям, товарам и клиентам.","02 · Pedidos":"02 · Заказы","Control de pedidos pendientes y completados":"Управление ожидающими и завершёнными заказами","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"Ищите заказы по клиенту, электронной почте или телефону, переключайтесь между статусами и проверяйте суммы, количество товаров и состояние.","03 · Categorías":"03 · Категории","Encuentra productos por categoría":"Находите товары по категориям","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"Изучайте каталог по категориям. Изображения и счётчики помогают быстро находить нужные товары.","04 · Nuevo pedido":"04 · Новый заказ","Crea pedidos desde la selección del cliente":"Создавайте заказы, выбрав клиента","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"Найдите нужного клиента и выберите его учётную запись для нового заказа.","05 · Clientes":"05 · Клиенты","Toda la información del cliente en un solo lugar":"Вся информация о клиенте в одном месте","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"Просматривайте деловые данные, контакты, местоположение и задолженность. Отправляйте каталоги, письма или сообщения в WhatsApp.","06 · Chat de empresa":"06 · Корпоративный чат","Comunicación directa con los administradores":"Прямая связь с администраторами","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"Просматривайте активные чаты и связывайтесь с руководителями компании прямо в приложении.","Diseñado para ventas en campo":"Для выездных продаж","Información conectada con FullVendor":"Интеграция с FullVendor","Impulsa la productividad de tu equipo comercial.":"Повышайте продуктивность команды продаж.","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"Объедините ежедневную работу продавцов с экосистемой FullVendor.","Conocer FullVendor ↗":"Узнать о FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. Все права защищены."},"zh":{"Funciones":"功能","La aplicación":"应用","Contacto":"联系","Ver en Google Play ↗":"前往 Google Play ↗","La fuerza de ventas, siempre conectada":"销售团队，始终保持连接","Vende mejor.":"销售更高效。","Gestiona desde":"随时随地","cualquier lugar.":"轻松管理。","FullVendor Salesman reúne clientes, pedidos, productos y comunicación comercial en una aplicación móvil pensada para vendedores que trabajan en movimiento.":"FullVendor Salesman 将客户、订单、产品和业务沟通整合到一款移动应用中，专为外勤销售人员打造。","Explorar la aplicación":"探索应用","Conocer funciones":"了解功能","Clientes y pedidos":"客户与订单","Catálogo organizado":"分类目录","Comunicación directa":"直接沟通","Una app para el día a día":"日常销售，一站管理","Todo lo que necesita tu equipo de ventas":"销售团队所需的一切","Accede a la información comercial y continúa el trabajo con menos pasos, desde una interfaz clara y fácil de usar.":"通过清晰易用的界面快速访问业务信息，减少操作步骤，让工作持续推进。","Panel de inicio":"首页面板","Indicadores rápidos y accesos a los principales módulos de trabajo.":"快速查看关键指标，并访问主要工作模块。","Pedidos":"订单","Consulta órdenes pendientes y completadas, con búsqueda y datos de cada pedido.":"查看待处理和已完成订单，搜索并了解每笔订单详情。","Categorías":"分类","Explora el catálogo por familias y encuentra rápidamente lo que busca el cliente.":"按类别浏览目录，快速找到客户需要的产品。","Nuevo pedido":"新建订单","Selecciona al cliente para iniciar el proceso de creación de una orden.":"选择客户，开始创建销售订单。","Clientes":"客户","Consulta contactos, ubicación, balance y opciones de comunicación.":"查看联系方式、位置、余额和沟通方式。","Chat de empresa":"企业聊天","Conversa con los administradores y revisa los chats activos.":"与管理员交流并查看活跃聊天。","Conoce cada pantalla":"了解每个界面","Una experiencia móvil para vender en movimiento":"随时随地开展移动销售","Las capturas originales de FullVendor Salesman se presentan dentro de marcos de dispositivo para mostrar cómo se ve la aplicación en uso.":"通过设备边框展示 FullVendor Salesman 的原始截图，直观呈现应用的实际使用体验。","01 · Inicio":"01 · 首页","Un centro de trabajo para el vendedor":"销售人员的工作中心","Consulta de un vistazo la actividad del mes, el cliente seleccionado y los accesos directos a pedidos, categorías, productos y clientes.":"一目了然地查看本月活动、所选客户，以及订单、分类、产品和客户快捷入口。","02 · Pedidos":"02 · 订单","Control de pedidos pendientes y completados":"管理待处理和已完成订单","Busca pedidos por cliente, correo o teléfono y cambia entre pedidos pendientes y completados. Revisa el importe, la cantidad de productos y el estado de cada operación.":"按客户、电子邮件或电话搜索订单，在待处理和已完成订单间切换，并查看金额、产品数量和状态。","03 · Categorías":"03 · 分类","Encuentra productos por categoría":"按类别查找产品","Explora el catálogo visual organizado por categorías. Las imágenes y los contadores permiten identificar rápidamente dónde están los productos que necesita cada cliente.":"按类别浏览可视化目录，通过图片和数量快速找到客户需要的产品。","04 · Nuevo pedido":"04 · 新建订单","Crea pedidos desde la selección del cliente":"选择客户创建订单","Busca entre los clientes disponibles y selecciona la cuenta correcta para comenzar una nueva orden de venta.":"搜索可用客户并选择正确账户，开始创建新的销售订单。","05 · Clientes":"05 · 客户","Toda la información del cliente en un solo lugar":"客户信息集中管理","Consulta datos comerciales, contacto, ubicación y balance pendiente. Desde la ficha puedes enviar catálogos, contactar por email o continuar la conversación por WhatsApp.":"查看业务资料、联系方式、位置和未结余额，并发送目录、电子邮件或通过 WhatsApp 联系客户。","06 · Chat de empresa":"06 · 企业聊天","Comunicación directa con los administradores":"与管理员直接沟通","Consulta los chats activos y comunícate con los responsables de tu empresa desde la aplicación, sin salir del flujo de trabajo.":"在应用中查看活跃聊天并联系公司负责人，无需中断工作流程。","Diseñado para ventas en campo":"专为外勤销售设计","Información conectada con FullVendor":"与 FullVendor 数据互通","Impulsa la productividad de tu equipo comercial.":"提升销售团队效率。","Conecta la gestión diaria de vendedores con el ecosistema FullVendor.":"将销售人员的日常管理连接到 FullVendor 生态系统。","Conocer FullVendor ↗":"了解 FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. 保留所有权利。"}};
+ const picker=document.getElementById('languagePicker');
+ if(!picker)return;
+ const current=picker.querySelector('.language-current');
+ const menu=picker.querySelector('.language-menu');
+ function applyLanguage(lang){
+   const map=dict[lang]||{};
+   const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
+   let node;
+   while((node=walker.nextNode())){
+     const raw=node.nodeValue, trimmed=raw.trim();
+     if(!trimmed)continue;
+     let translated=map[trimmed];
+     if(!translated)continue;
+     const start=raw.match(/^\s*/)[0], end=raw.match(/\s*$/)[0];
+     node.nodeValue=start+translated+end;
+   }
+   document.documentElement.lang=lang;
+   const meta=names[lang]||names.es;
+   current.querySelector('.language-flag').textContent=meta.flag;
+   current.querySelector('.language-code').textContent=meta.code;
+   menu.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));
+   try{localStorage.setItem('fullvendor-salesman-lang',lang)}catch(e){}
+ }
+ current.addEventListener('click',function(e){
+   e.stopPropagation();
+   const open=picker.classList.toggle('open');
+   current.setAttribute('aria-expanded',String(open));
+ });
+ menu.querySelectorAll('button').forEach(b=>b.addEventListener('click',function(){
+   const lang=this.dataset.lang;
+   applyLanguage(lang);
+   picker.classList.remove('open');
+   current.setAttribute('aria-expanded','false');
+ }));
+ document.addEventListener('click',function(e){
+   if(!picker.contains(e.target)){picker.classList.remove('open');current.setAttribute('aria-expanded','false')}
+ });
+ let initial='es';
+ try{const saved=localStorage.getItem('fullvendor-salesman-lang');if(names[saved])initial=saved}catch(e){}
+ if(initial!=='es')applyLanguage(initial);
+ else menu.querySelector('[data-lang="es"]').classList.add('active');
+})();
+</script>
+
+</body></html>

@@ -79,7 +79,7 @@
     }
   },
   "products_page": {
-    "title": "Seven products, [[one operation]]",
+    "title": "Eight products, [[one operation]]",
     "text": "Each product covers one area. Together they share customers, stock, orders, and payments."
   },
   "products": {
@@ -97,6 +97,21 @@
       ],
       "audience": "Commercial and distribution teams that currently run the business across several systems."
     },
+    "homevalue": {
+      "kicker": "Wholesale commerce",
+      "card": "Wholesale platform for catalog, orders, and sales support.",
+      "features": ["Wholesale catalog", "Stories and reels", "Orders by case and SKU", "Sales support"],
+      "lead": "Everything your business needs for wholesale buying: catalog, availability, and team contact in one place.",
+      "about": "Home Value connects stores, supermarkets, and restaurants with a broad wholesale catalog. Check availability, organize purchases by case and SKU, follow updates with daily stories, and stay in direct contact with the sales team.",
+      "benefits": [
+        {"title": "Clear catalog", "text": "Browse by category or SKU and review packaging, MOQ, and availability."},
+        {"title": "Wholesale pricing", "text": "Prices appear for approved accounts without negotiating every item by email."},
+        {"title": "Visual updates", "text": "Daily stories and reels to discover products and promotions."},
+        {"title": "Sales support", "text": "Direct contact for accounts, orders, and logistics."}
+      ],
+      "audience": "Stores, supermarkets, and restaurants that buy wholesale and need an organized channel."
+    },
+
     "erp": {
       "kicker": "Administration",
       "card": "Complete administrative and financial management.",

@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#e92329" name="theme-color"/>
+<meta content="FullVendor Salesman: aplicación móvil para vendedores. Gestiona clientes, pedidos, categorías y comunicación comercial desde un solo lugar." name="description"/>
+<title>FullVendor Salesman | Vende y gestiona desde cualquier lugar</title>
+<style>
+:root{--red:#e92329;--red-dark:#bd171e;--ink:#171b28;--muted:#687184;--line:#e9eaf0;--paper:#fff;--soft:#f7f8fb;--shadow:0 22px 65px rgba(24,28,40,.09)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.55}a{color:inherit;text-decoration:none}.container{width:min(1160px,calc(100% - 44px));margin:auto}
+header{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.91);backdrop-filter:blur(16px);border-bottom:1px solid rgba(230,232,238,.8)}
+.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:850;letter-spacing:-.6px}.brand-mark{width:38px;height:38px;border-radius:12px;background:var(--red);display:grid;place-items:center;color:#fff;font-weight:900;font-size:21px;box-shadow:0 8px 18px #e9232930}.brand span:last-child{color:var(--red)}
+nav{display:flex;align-items:center;gap:27px;color:#4f586a;font-size:13px;font-weight:650}nav a:hover{color:var(--red)}.nav-cta,.button{display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:999px;padding:12px 19px;background:var(--red);color:#fff;font-size:13px;font-weight:750;box-shadow:0 9px 22px #e9232927;transition:.2s}.nav-cta:hover,.button:hover{background:var(--red-dark);transform:translateY(-2px)}
+.hero{position:relative;overflow:hidden;background:radial-gradient(circle at 78% 25%,#ffe5e6 0,transparent 30%),linear-gradient(135deg,#fff 0%,#fff7f7 58%,#f8f9fc 100%);padding:92px 0 86px}
+.hero:after{content:"";position:absolute;width:520px;height:520px;border:1px solid #f4bfc2;border-radius:50%;right:-120px;top:-220px;box-shadow:0 0 0 42px #fbe8e9,0 0 0 90px #fff1f2;opacity:.7}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:55px}
+.kicker,.eyebrow{color:var(--red);font-size:11px;font-weight:850;letter-spacing:1.7px;text-transform:uppercase}.hero h1{font-size:clamp(42px,6vw,70px);line-height:1.02;letter-spacing:-3.6px;margin:17px 0 20px;max-width:650px}.hero h1 em{font-style:normal;color:var(--red)}.hero-lead{font-size:19px;line-height:1.6;color:#586174;max-width:570px;margin:0 0 29px}.hero-actions{display:flex;gap:13px;flex-wrap:wrap}.button.secondary{background:#fff;color:var(--ink);border:1px solid #e7dadd;box-shadow:none}.hero-note{display:flex;gap:18px;flex-wrap:wrap;margin-top:30px;color:#747d8d;font-size:12px}.hero-note span{display:flex;align-items:center;gap:7px}.check{color:#1ba56a;font-weight:900}
+.hero-visual{min-height:440px;display:flex;align-items:center;justify-content:center;position:relative}.hero-device{width:255px;height:510px;border:9px solid #171923;border-radius:42px;background:#171923;box-shadow:0 35px 65px rgba(18,22,34,.24);padding:5px;position:relative;transform:rotate(5deg);z-index:2}.hero-device:before{content:"";position:absolute;z-index:4;top:8px;left:50%;transform:translateX(-50%);width:78px;height:17px;background:#171923;border-radius:0 0 12px 12px}.hero-device img{width:100%;height:100%;object-fit:cover;border-radius:29px}.hero-device .device-island{position:absolute;z-index:5;top:5px;left:50%;transform:translateX(-50%);width:74px;height:16px;background:#171923;border-radius:0 0 12px 12px}.orbit{position:absolute;width:390px;height:390px;border:1px dashed #f0a7ab;border-radius:50%;z-index:0}.orbit:before,.orbit:after{content:"";position:absolute;width:52px;height:52px;border-radius:16px;background:#fff;box-shadow:var(--shadow);border:1px solid #f3e3e4}.orbit:before{top:30px;right:22px}.orbit:after{bottom:42px;left:3px}.float-label{position:absolute;background:#fff;padding:11px 15px;border-radius:13px;box-shadow:var(--shadow);font-size:12px;font-weight:800;z-index:3}.float-label.one{right:0;top:74px}.float-label.two{left:0;bottom:73px}
+.trust-strip{border-bottom:1px solid var(--line);background:#fff}.trust-inner{display:flex;justify-content:center;align-items:center;gap:45px;flex-wrap:wrap;padding:23px 0;color:#6c7483;font-size:12px;font-weight:700}.trust-inner b{color:var(--ink)}
+.section{padding:94px 0}.section-head{text-align:center;max-width:730px;margin:0 auto 48px}.section-head h2{font-size:clamp(30px,4vw,44px);letter-spacing:-1.7px;line-height:1.13;margin:13px 0}.section-head p{color:var(--muted);font-size:16px;margin:0}
+.overview{background:var(--soft)}.overview-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.overview-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:23px;box-shadow:0 8px 25px rgba(20,25,40,.035)}.overview-icon{width:42px;height:42px;border-radius:13px;background:#fff0f0;color:var(--red);display:grid;place-items:center;font-size:19px;font-weight:900}.overview-card h3{font-size:16px;margin:15px 0 6px}.overview-card p{font-size:13px;color:var(--muted);margin:0}
+.features{padding-bottom:60px}.feature{display:grid;grid-template-columns:1fr .95fr;align-items:center;gap:70px;padding:62px 0;border-bottom:1px solid var(--line);min-height:560px}.feature:nth-child(even){grid-template-columns:.95fr 1fr}.feature:nth-child(even) .feature-copy{order:2}.feature:nth-child(even) .device-wrap{order:1}.feature-copy{max-width:490px}.feature-copy h3{font-size:clamp(29px,3.5vw,42px);line-height:1.13;letter-spacing:-1.5px;margin:15px 0}.feature-copy p{color:var(--muted);font-size:16px;line-height:1.8}.feature-points{display:grid;gap:10px;margin-top:25px;color:#4d5667;font-size:13px;font-weight:650}.feature-points span{display:flex;align-items:center;gap:10px}.feature-points i{width:7px;height:7px;background:var(--red);border-radius:50%;box-shadow:0 0 0 5px #ffeded}
+.device-wrap{position:relative;display:flex;justify-content:center;align-items:center;min-height:520px}.device{position:relative;z-index:2;width:278px;height:535px;background:#11131a;border:8px solid #151720;border-radius:42px;padding:7px;box-shadow:0 28px 65px rgba(16,20,32,.22),inset 0 0 0 1px #555;overflow:hidden}.device-screen{height:100%;width:100%;border-radius:29px;overflow:hidden;background:#f4f5f7;display:flex;align-items:center;justify-content:center}.device-screen img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}.device.tall .device-screen img{object-fit:cover}.device.wide{width:278px;height:535px;border-radius:42px;padding:7px}.device.wide .device-screen{border-radius:29px}.device.wide .device-screen img{object-fit:contain;background:#f4f5f7}.device-island{position:absolute;z-index:4;top:7px;left:50%;transform:translateX(-50%);width:83px;height:18px;background:#151720;border-radius:0 0 13px 13px}.device-home{position:absolute;z-index:4;bottom:8px;left:50%;transform:translateX(-50%);width:70px;height:4px;border-radius:5px;background:#111;opacity:.65}.device-glow{position:absolute;width:330px;height:330px;background:radial-gradient(circle,#ffe0e1 0,rgba(255,235,236,.45) 45%,transparent 72%);border-radius:50%;z-index:1}
+.feature-wide .device-wrap{min-height:480px}
+.cta-band{background:linear-gradient(120deg,#e92329,#bd171e);color:#fff;padding:66px 0}.cta-content{display:flex;align-items:center;justify-content:space-between;gap:30px}.cta-content h2{font-size:32px;letter-spacing:-1px;margin:0 0 8px}.cta-content p{margin:0;color:#ffe3e4;font-size:14px}.cta-band .button{background:#fff;color:var(--red);box-shadow:none;white-space:nowrap}
+footer{background:#151923;color:#fff;padding:34px 0}.footer-inner{display:flex;align-items:center;justify-content:space-between;gap:20px}.footer-brand{font-weight:850}.footer-brand span{color:#ff555a}.footer-inner p{margin:0;color:#aeb5c2;font-size:12px}.footer-links{display:flex;gap:18px;color:#c9ced7;font-size:12px}
+@media(max-width:850px){nav{gap:14px}.hero-grid{grid-template-columns:1fr;gap:15px}.hero-copy{text-align:center}.hero-lead{margin-left:auto;margin-right:auto}.hero-actions,.hero-note{justify-content:center}.hero-visual{min-height:460px}.overview-grid{grid-template-columns:repeat(2,1fr)}.feature,.feature:nth-child(even){grid-template-columns:1fr;gap:20px;padding:48px 0}.feature:nth-child(even) .feature-copy,.feature:nth-child(even) .device-wrap{order:initial}.feature-copy{text-align:center;margin:auto}.feature-points{text-align:left;width:max-content;max-width:100%;margin:22px auto}.device-wrap{min-height:490px}.device.wide{width:min(385px,90vw);height:410px}.cta-content{flex-direction:column;text-align:center}}
+@media(max-width:600px){.container{width:min(100% - 30px,1160px)}.nav{height:65px}.brand{font-size:16px}.brand-mark{width:34px;height:34px}nav a:not(.nav-cta){display:none}.nav-cta{padding:10px 14px;font-size:12px}.hero{padding:65px 0 48px}.hero h1{letter-spacing:-2.3px}.hero-lead{font-size:16px}.hero-visual{min-height:420px}.hero-device{width:215px;height:430px}.orbit{width:320px;height:320px}.float-label.one{right:-3px;top:45px}.float-label.two{left:-3px;bottom:45px}.trust-inner{gap:14px;padding:18px 0}.section{padding:66px 0}.overview-grid{grid-template-columns:1fr}.section-head{margin-bottom:32px}.feature-copy h3{font-size:31px}.device{width:255px;height:505px}.device.wide{width:255px;height:505px;border-radius:42px}.device.wide .device-screen{border-radius:29px}.device-wrap{min-height:470px}.feature-wide .device-wrap{min-height:360px}.cta-content h2{font-size:27px}.footer-inner{flex-direction:column;text-align:center}.footer-links{flex-wrap:wrap;justify-content:center}}
+
+/* --- Ajustes de presentación: capturas completas y jerarquía tipográfica --- */
+.hero-device{
+  width:min(390px,82vw)!important;
+  height:auto!important;
+  aspect-ratio:931 / 1005;
+  padding:7px!important;
+  border-radius:38px!important;
+  background:#151720!important;
+  overflow:hidden;
+}
+.hero-device img{
+  width:100%!important;height:100%!important;
+  object-fit:contain!important;object-position:center!important;
+  background:#f4f5f7;border-radius:29px!important;
+}
+.hero-device:before,.hero-device .device-island{display:none!important}
+
+/* Inicio y Pedidos: conservar la captura completa y su proporción original. */
+.device.wide{
+  width:min(410px,90vw)!important;
+  height:auto!important;
+  aspect-ratio:931 / 1005;
+  padding:8px!important;
+  border-radius:38px!important;
+}
+.device.wide .device-screen{
+  width:100%;height:100%;
+  border-radius:28px!important;
+}
+.device.wide .device-screen img{
+  width:100%;height:100%;
+  object-fit:contain!important;object-position:center!important;
+  background:#f4f5f7;
+}
+
+/* Ninguna captura se recorta; las pantallas mantienen la imagen completa. */
+.device-screen img{
+  object-fit:contain!important;
+  object-position:center!important;
+  background:#f4f5f7;
+}
+.device:not(.wide){
+  width:min(350px,86vw)!important;
+  height:auto!important;
+  aspect-ratio:673 / 1005;
+}
+.device:not(.wide) .device-screen{
+  width:100%;height:100%;
+}
+
+/* Jerarquía clara: los títulos siempre destacan sobre sus subtítulos. */
+.section-head h2{font-size:clamp(34px,4.2vw,46px)!important;line-height:1.12}
+.section-head p{font-size:17px!important;line-height:1.65}
+.overview-card h3{font-size:19px!important;line-height:1.25}
+.overview-card p{font-size:14px!important;line-height:1.65}
+.feature-copy h3{font-size:clamp(34px,3.7vw,44px)!important;line-height:1.12}
+.feature-copy p{font-size:17px!important;line-height:1.75}
+.cta-content h2{font-size:clamp(30px,3.4vw,38px)!important}
+@media(max-width:600px){
+  .hero-device{width:min(340px,88vw)!important;height:auto!important}
+  .device.wide{width:min(360px,92vw)!important;height:auto!important}
+  .device:not(.wide){width:min(330px,88vw)!important;height:auto!important}
+  .feature-copy h3{font-size:34px!important}
+  .section-head h2{font-size:34px!important}
+}
+
+
+/* Selector de idioma estilo FullVendor */
+.nav{position:relative}
+.language-picker{position:relative;margin-left:auto;margin-right:18px;flex:0 0 auto;z-index:30}
+.language-current{height:39px;min-width:78px;display:flex;align-items:center;justify-content:center;gap:8px;padding:0 12px;border:1px solid #f0d8da;border-radius:999px;background:#fff;color:#242936;font:700 12px inherit;cursor:pointer;box-shadow:0 4px 14px rgba(25,30,45,.06)}
+.language-flag{font-size:17px;line-height:1}.language-code{font-size:12px;font-weight:850;letter-spacing:.5px}.language-chevron{font-size:11px;color:#777}
+.language-menu{display:none;position:absolute;right:0;top:47px;width:184px;padding:7px;background:#fff;border:1px solid #ececf0;border-radius:14px;box-shadow:0 16px 40px rgba(20,25,40,.16)}
+.language-picker.open .language-menu{display:block}
+.language-menu button{width:100%;display:flex;align-items:center;gap:11px;padding:10px 11px;border:0;border-radius:9px;background:transparent;color:#303746;text-align:left;font:600 13px inherit;cursor:pointer}
+.language-menu button span{font-size:18px}.language-menu button:hover,.language-menu button.active{background:#fff0f0;color:#d9232b}
+@media(max-width:850px){.language-picker{margin-left:auto;margin-right:0}.nav{gap:12px}}
+@media(max-width:600px){.language-current{height:36px;min-width:70px;padding:0 9px}.language-menu{right:0;top:43px}}
+
+
+/* FullVendor Warehouse — capturas completas en mockups verticales */
+.hero-device{width:min(385px,82vw)!important;height:auto!important;aspect-ratio:728 / 953!important;padding:7px!important;overflow:hidden}
+.hero-device img{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center!important;background:#f4f5f7;border-radius:29px!important}
+.hero-device:before,.hero-device .device-island{display:none!important}
+.device:not(.wide){width:min(360px,88vw)!important;height:auto!important;aspect-ratio:728 / 960!important;padding:8px!important}
+.device:not(.wide) .device-screen{width:100%;height:100%;border-radius:27px!important}
+.device-screen img{width:100%!important;height:100%!important;object-fit:contain!important;object-position:center!important;background:#f4f5f7}
+.feature{min-height:620px}
+.feature-copy h3{font-size:clamp(34px,3.7vw,45px)!important;line-height:1.12}
+.feature-copy p{font-size:17px!important;line-height:1.75}
+.section-head h2{font-size:clamp(34px,4.2vw,46px)!important;line-height:1.12}
+.section-head p{font-size:17px!important;line-height:1.65}
+.overview-card h3{font-size:19px!important}
+.overview-card p{font-size:14px!important;line-height:1.65}
+@media(max-width:600px){
+ .hero-device{width:min(340px,88vw)!important;height:auto!important}
+ .device:not(.wide){width:min(340px,88vw)!important;height:auto!important}
+ .feature-copy h3{font-size:34px!important}
+ .section-head h2{font-size:34px!important}
+}
+</style>
+</head>
+<body>
+<header>
+<div class="container nav">
+<a class="brand" href="#top"><span class="brand-mark">F</span> Full<span>Vendor</span> Warehouse</a>
+<div class="language-picker" id="languagePicker">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Change language" class="language-current" type="button">
+<span class="language-flag">🇪🇸</span><span class="language-code">ES</span><span class="language-chevron">▾</span>
+</button>
+<div class="language-menu" role="menu">
+<button data-lang="es" type="button"><span>🇪🇸</span> Español</button>
+<button data-lang="en" type="button"><span>🇬🇧</span> English</button>
+<button data-lang="pt" type="button"><span>🇵🇹</span> Português</button>
+<button data-lang="it" type="button"><span>🇮🇹</span> Italiano</button>
+<button data-lang="de" type="button"><span>🇩🇪</span> Deutsch</button>
+<button data-lang="ru" type="button"><span>🇷🇺</span> Русский</button>
+<button data-lang="zh" type="button"><span>🇨🇳</span> 中文</button>
+</div>
+</div>
+<nav><a data-i18n="Funciones" href="#funciones">Funciones</a><a data-i18n="La aplicación" href="#capturas">La aplicación</a><a data-i18n="Contacto" href="#contacto">Contacto</a><a class="nav-cta" data-i18n="Descargar en Google Play ↗" href="https://play.google.com/store/apps/details?id=com.fullvendorsalesmanv2" rel="noopener" target="_blank">Descargar en Google Play ↗</a></nav>
+</div>
+</header>
+<main id="top">
+<section class="hero">
+<div class="container hero-grid">
+<div class="hero-copy">
+<div class="kicker" data-i18n="Control de almacén, siempre conectado">Control de almacén, siempre conectado</div>
+<h1 data-i18n="Organiza tu almacén. Gestiona con precisión.">Organiza tu almacén.<br/><em>Gestiona con</em><br/>precisión.</h1>
+<p class="hero-lead" data-i18n="FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.">FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.</p>
+<div class="hero-actions">
+<a class="button" data-i18n="Explorar la aplicación" href="#capturas">Explorar la aplicación <span>→</span></a>
+<a class="button secondary" data-i18n="Conocer funciones" href="#funciones">Conocer funciones</a>
+</div>
+<div class="hero-note">
+<span><b class="check">✓</b><span data-i18n="Recepción y despacho">Recepción y despacho</span></span>
+<span><b class="check">✓</b><span data-i18n="Control de inventario">Control de inventario</span></span>
+<span><b class="check">✓</b><span data-i18n="Gestión de órdenes">Gestión de órdenes</span></span>
+</div>
+</div>
+<div class="hero-visual">
+<div class="orbit"></div>
+<div class="float-label one" data-i18n="📦 Operaciones de almacén">📦 Operaciones de almacén</div>
+<div class="float-label two" data-i18n="📋 Pedidos e inventario">📋 Pedidos e inventario</div>
+<div class="hero-device"><div class="device-island"></div><img alt="FullVendor Warehouse — pantalla principal" data-shot-index="0" src="images/home.png"/></div>
+</div>
+</div>
+</section>
+<div class="trust-strip"><div class="container trust-inner">
+<span><b>FullVendor</b> · <span data-i18n="Ecosistema empresarial">Ecosistema empresarial</span></span>
+<span data-i18n="Recepción de pedidos">Recepción de pedidos</span>
+<span data-i18n="Control de inventario">Control de inventario</span>
+<span data-i18n="Operaciones logísticas">Operaciones logísticas</span>
+</div></div>
+<section class="section overview" id="funciones">
+<div class="container">
+<div class="section-head">
+<span class="eyebrow" data-i18n="Una app para el día a día">Una app para el día a día</span>
+<h2 data-i18n="Todo el almacén bajo control">Todo el almacén bajo control</h2>
+<p data-i18n="Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.">Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.</p>
+</div>
+<div class="overview-grid">
+<div class="overview-card"><div class="overview-icon">▣</div><h3 data-i18n="Pedidos recibidos">Pedidos recibidos</h3><p data-i18n="Identifica órdenes entrantes y pendientes de procesar.">Identifica órdenes entrantes y pendientes de procesar.</p></div>
+<div class="overview-card"><div class="overview-icon">▤</div><h3 data-i18n="Historial de órdenes">Historial de órdenes</h3><p data-i18n="Busca y consulta operaciones procesadas y sus estados.">Busca y consulta operaciones procesadas y sus estados.</p></div>
+<div class="overview-card"><div class="overview-icon">＄</div><h3 data-i18n="Notas de crédito">Notas de crédito</h3><p data-i18n="Registra y revisa devoluciones y ajustes de crédito.">Registra y revisa devoluciones y ajustes de crédito.</p></div>
+<div class="overview-card"><div class="overview-icon">▦</div><h3 data-i18n="Inventario">Inventario</h3><p data-i18n="Controla órdenes, productos, cantidades y empaques.">Controla órdenes, productos, cantidades y empaques.</p></div>
+<div class="overview-card"><div class="overview-icon">☷</div><h3 data-i18n="Detalle de productos">Detalle de productos</h3><p data-i18n="Verifica SKU, unidades, cajas y precios por artículo.">Verifica SKU, unidades, cajas y precios por artículo.</p></div>
+<div class="overview-card"><div class="overview-icon">▰</div><h3 data-i18n="Chat de empresa">Chat de empresa</h3><p data-i18n="Comunícate con administradores y miembros del equipo.">Comunícate con administradores y miembros del equipo.</p></div>
+</div>
+</div>
+</section>
+<section class="section features" id="capturas">
+<div class="container">
+<div class="section-head">
+<span class="eyebrow" data-i18n="Conoce cada pantalla">Conoce cada pantalla</span>
+<h2 data-i18n="Una experiencia móvil para la operación de almacén">Una experiencia móvil para la operación de almacén</h2>
+<p data-i18n="Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.">Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.</p>
+</div>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="01 · Panel principal">01 · Panel principal</span>
+<h3 data-i18n="Tu operación de almacén en una sola pantalla">Tu operación de almacén en una sola pantalla</h3>
+<p data-i18n="Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.">Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Gestión rápida del almacén">Gestión rápida del almacén</span></span>
+<span><i></i><span data-i18n="Indicadores y accesos directos">Indicadores y accesos directos</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Tu operación de almacén en una sola pantalla" data-shot-index="0" loading="lazy" src="images/overview.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="02 · Pedidos recibidos">02 · Pedidos recibidos</span>
+<h3 data-i18n="Revisa los pedidos pendientes de recibir">Revisa los pedidos pendientes de recibir</h3>
+<p data-i18n="Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.">Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Pedidos pendientes">Pedidos pendientes</span></span>
+<span><i></i><span data-i18n="Actualización del estado">Actualización del estado</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Revisa los pedidos pendientes de recibir" data-shot-index="2" loading="lazy" src="images/pending-receive.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="03 · Historial de pedidos">03 · Historial de pedidos</span>
+<h3 data-i18n="Control y seguimiento de órdenes procesadas">Control y seguimiento de órdenes procesadas</h3>
+<p data-i18n="Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.">Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Búsqueda de órdenes">Búsqueda de órdenes</span></span>
+<span><i></i><span data-i18n="Historial y estados">Historial y estados</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Control y seguimiento de órdenes procesadas" data-shot-index="3" loading="lazy" src="images/processed-orders.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="04 · Detalle de pedido">04 · Detalle de pedido</span>
+<h3 data-i18n="Toda la información de la orden, organizada">Toda la información de la orden, organizada</h3>
+<p data-i18n="Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.">Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Datos completos del pedido">Datos completos del pedido</span></span>
+<span><i></i><span data-i18n="Detalle por producto">Detalle por producto</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Toda la información de la orden, organizada" data-shot-index="4" loading="lazy" src="images/order-detail.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="05 · Notas de crédito">05 · Notas de crédito</span>
+<h3 data-i18n="Gestiona devoluciones y créditos">Gestiona devoluciones y créditos</h3>
+<p data-i18n="Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.">Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Consulta mensual">Consulta mensual</span></span>
+<span><i></i><span data-i18n="Creación de notas">Creación de notas</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Gestiona devoluciones y créditos" data-shot-index="5" loading="lazy" src="images/returns.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="06 · Órdenes de inventario">06 · Órdenes de inventario</span>
+<h3 data-i18n="Controla las órdenes de inventario">Controla las órdenes de inventario</h3>
+<p data-i18n="Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.">Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Listado de órdenes">Listado de órdenes</span></span>
+<span><i></i><span data-i18n="Estado y trazabilidad">Estado y trazabilidad</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Controla las órdenes de inventario" data-shot-index="6" loading="lazy" src="images/inventory-orders.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="07 · Preparación y despacho">07 · Preparación y despacho</span>
+<h3 data-i18n="Prepara productos y cantidades con precisión">Prepara productos y cantidades con precisión</h3>
+<p data-i18n="Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.">Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Cantidades por producto">Cantidades por producto</span></span>
+<span><i></i><span data-i18n="Control de empaques">Control de empaques</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Prepara productos y cantidades con precisión" data-shot-index="7" loading="lazy" src="images/prepare-products.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+<article class="feature">
+<div class="feature-copy">
+<span class="eyebrow" data-i18n="08 · Chat de empresa">08 · Chat de empresa</span>
+<h3 data-i18n="Comunicación directa con tu equipo">Comunicación directa con tu equipo</h3>
+<p data-i18n="Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.">Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.</p>
+<div class="feature-points">
+<span><i></i><span data-i18n="Contactos del equipo">Contactos del equipo</span></span>
+<span><i></i><span data-i18n="Chats activos">Chats activos</span></span>
+</div>
+</div>
+<div class="device-wrap">
+<div class="device tall">
+<div class="device-island"></div>
+<div class="device-screen"><img alt="Comunicación directa con tu equipo" data-shot-index="8" loading="lazy" src="images/chat.png"/></div>
+<div class="device-home"></div>
+</div>
+<div class="device-glow"></div>
+</div>
+</article>
+</div>
+</section>
+<section class="cta-band" id="contacto">
+<div class="container cta-content">
+<div><h2 data-i18n="Lleva el control de tu almacén a otro nivel.">Lleva el control de tu almacén a otro nivel.</h2>
+<p data-i18n="Conecta las operaciones diarias con el ecosistema FullVendor.">Conecta las operaciones diarias con el ecosistema FullVendor.</p></div>
+<a class="button" data-i18n="Conocer FullVendor ↗" href="https://web.fullvendor.com/" rel="noopener" target="_blank">Conocer FullVendor ↗</a>
+</div>
+</section>
+</main>
+<footer><div class="container footer-inner"><div class="footer-brand"><span class="footer-brand">F</span> Full<span>Vendor</span> Warehouse</div><p data-i18n="© 2026 FullVendor. Todos los derechos reservados.">© 2026 FullVendor. Todos los derechos reservados.</p><div class="footer-links"><a href="https://web.fullvendor.com/">FullVendor</a><a href="https://play.google.com/store/apps/details?id=com.fullvendorsalesmanv2">Google Play</a></div></div></footer>
+<script>
+(function(){
+ const names={es:{flag:'🇪🇸',code:'ES'},en:{flag:'🇬🇧',code:'EN'},pt:{flag:'🇵🇹',code:'PT'},it:{flag:'🇮🇹',code:'IT'},de:{flag:'🇩🇪',code:'DE'},ru:{flag:'🇷🇺',code:'RU'},zh:{flag:'🇨🇳',code:'中文'}};
+ const dict={"en":{"Descargar en Google Play ↗":"Get it on Google Play ↗","Control de almacén, siempre conectado":"Warehouse operations, always connected","Organiza tu almacén.":"Organize your warehouse.","Gestiona con":"Manage with","precisión.":"precision.","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"FullVendor Warehouse brings order receiving, order history, credit notes, inventory and team communication together in one mobile app.","Explorar la aplicación":"Explore the app","Conocer funciones":"Explore features","Recepción y despacho":"Receiving and dispatch","Control de inventario":"Inventory control","Gestión de órdenes":"Order management","📦 Operaciones de almacén":"📦 Warehouse operations","📋 Pedidos e inventario":"📋 Orders and inventory","Ecosistema empresarial":"Business ecosystem","Recepción de pedidos":"Order receiving","Operaciones logísticas":"Logistics operations","Una app para el día a día":"One app for everyday work","Todo el almacén bajo control":"Your entire warehouse under control","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"Centralize operations and access key information through a clear, visual and easy-to-use interface.","Pedidos recibidos":"Orders received","Identifica órdenes entrantes y pendientes de procesar.":"Identify incoming orders waiting to be processed.","Historial de órdenes":"Order history","Busca y consulta operaciones procesadas y sus estados.":"Search processed operations and review their status.","Notas de crédito":"Credit notes","Registra y revisa devoluciones y ajustes de crédito.":"Record and review returns and credit adjustments.","Inventario":"Inventory","Controla órdenes, productos, cantidades y empaques.":"Manage orders, products, quantities and packs.","Detalle de productos":"Product details","Verifica SKU, unidades, cajas y precios por artículo.":"Check SKUs, units, boxes and item prices.","Chat de empresa":"Company chat","Comunícate con administradores y miembros del equipo.":"Communicate with managers and team members.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para la operación de almacén":"A mobile experience for warehouse operations","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"Original FullVendor Warehouse screenshots are shown in device frames with the full screen content visible.","01 · Panel principal":"01 · Main dashboard","Tu operación de almacén en una sola pantalla":"Your warehouse operations on one screen","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"View received orders, order history, credit notes, inventory and team communication from one central dashboard.","Gestión rápida del almacén":"Quick warehouse management","Indicadores y accesos directos":"Metrics and shortcuts","02 · Pedidos recibidos":"02 · Orders received","Revisa los pedidos pendientes de recibir":"Review orders waiting to be received","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Review incoming orders that need processing. When there are no pending orders, the app clearly displays an empty state.","Pedidos pendientes":"Pending orders","Actualización del estado":"Status updates","03 · Historial de pedidos":"03 · Order history","Control y seguimiento de órdenes procesadas":"Track and manage processed orders","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Search orders, sort by date, and review customer and delivery details, item counts, creation and update dates, and order totals.","Búsqueda de órdenes":"Order search","Historial y estados":"History and statuses","04 · Detalle de pedido":"04 · Order details","Toda la información de la orden, organizada":"All order information, clearly organized","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Access customer details, address, contact information, status and total. Review every product, SKU, quantity, pack and unit price in one view.","Datos completos del pedido":"Complete order details","Detalle por producto":"Item-level details","05 · Notas de crédito":"05 · Credit notes","Gestiona devoluciones y créditos":"Manage returns and credits","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Review monthly credit notes and create new ones when needed. Keep track of returns and adjustments.","Consulta mensual":"Monthly overview","Creación de notas":"Create credit notes","06 · Órdenes de inventario":"06 · Inventory orders","Controla las órdenes de inventario":"Manage inventory orders","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"View inventory orders, search by number, and review customer, status and dates. Keep stock-related operations organized.","Listado de órdenes":"Order list","Estado y trazabilidad":"Status and traceability","07 · Preparación y despacho":"07 · Picking and dispatch","Prepara productos y cantidades con precisión":"Prepare products and quantities accurately","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Review requested products and manage quantities and packs before dispatch. The screen also makes it easy to identify the order and customer.","Cantidades por producto":"Quantities per product","Control de empaques":"Pack control","08 · Chat de empresa":"08 · Company chat","Comunicación directa con tu equipo":"Direct communication with your team","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Stay in touch with managers and sales reps. Search contacts, identify active chats and start conversations in the app.","Contactos del equipo":"Team contacts","Chats activos":"Active chats","Lleva el control de tu almacén a otro nivel.":"Take your warehouse management to the next level.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Connect daily operations to the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."},"pt":{"Descargar en Google Play ↗":"Baixar no Google Play ↗","Control de almacén, siempre conectado":"Gestão de armazém sempre conectada","Organiza tu almacén.":"Organize seu armazém.","Gestiona con":"Gerencie com","precisión.":"precisão.","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"O FullVendor Warehouse reúne recebimento de pedidos, histórico, notas de crédito, inventário e comunicação da equipe em um único aplicativo móvel.","Explorar la aplicación":"Explorar o aplicativo","Conocer funciones":"Conhecer recursos","Recepción y despacho":"Recebimento e expedição","Control de inventario":"Controle de estoque","Gestión de órdenes":"Gestão de pedidos","📦 Operaciones de almacén":"📦 Operações de armazém","📋 Pedidos e inventario":"📋 Pedidos e estoque","Ecosistema empresarial":"Ecossistema empresarial","Recepción de pedidos":"Recebimento de pedidos","Operaciones logísticas":"Operações logísticas","Una app para el día a día":"Um app para o dia a dia","Todo el almacén bajo control":"Todo o armazém sob controle","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"Centralize as tarefas operacionais e consulte informações importantes em uma interface clara e fácil de usar.","Pedidos recibidos":"Pedidos recebidos","Identifica órdenes entrantes y pendientes de procesar.":"Identifique pedidos recebidos que aguardam processamento.","Historial de órdenes":"Histórico de pedidos","Busca y consulta operaciones procesadas y sus estados.":"Pesquise operações processadas e consulte seus status.","Notas de crédito":"Notas de crédito","Registra y revisa devoluciones y ajustes de crédito.":"Registre e consulte devoluções e ajustes de crédito.","Inventario":"Estoque","Controla órdenes, productos, cantidades y empaques.":"Controle pedidos, produtos, quantidades e embalagens.","Detalle de productos":"Detalhes dos produtos","Verifica SKU, unidades, cajas y precios por artículo.":"Confira SKU, unidades, caixas e preços por item.","Chat de empresa":"Chat da empresa","Comunícate con administradores y miembros del equipo.":"Comunique-se com administradores e membros da equipe.","Conoce cada pantalla":"Conheça cada tela","Una experiencia móvil para la operación de almacén":"Uma experiência móvel para operações de armazém","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"As capturas originais do FullVendor Warehouse são exibidas completas em molduras de dispositivos, sem cortes.","01 · Panel principal":"01 · Painel principal","Tu operación de almacén en una sola pantalla":"Sua operação de armazém em uma única tela","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"Visualize pedidos recebidos, histórico, notas de crédito, estoque e comunicação com a equipe em um painel central.","Gestión rápida del almacén":"Gestão rápida do armazém","Indicadores y accesos directos":"Indicadores e atalhos","02 · Pedidos recibidos":"02 · Pedidos recebidos","Revisa los pedidos pendientes de recibir":"Consulte os pedidos pendentes de recebimento","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Consulte os pedidos recebidos que precisam de processamento. Quando não houver pedidos pendentes, o aplicativo exibirá essa informação claramente.","Pedidos pendientes":"Pedidos pendentes","Actualización del estado":"Atualização de status","03 · Historial de pedidos":"03 · Histórico de pedidos","Control y seguimiento de órdenes procesadas":"Controle e acompanhe pedidos processados","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Pesquise pedidos, ordene por data e confira cliente, entrega, quantidade de itens, datas e total de cada operação.","Búsqueda de órdenes":"Busca de pedidos","Historial y estados":"Histórico e status","04 · Detalle de pedido":"04 · Detalhes do pedido","Toda la información de la orden, organizada":"Todas as informações do pedido organizadas","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Acesse dados do cliente, endereço, contato, status e total. Confira produtos, SKU, quantidades, embalagens e preços unitários em uma única tela.","Datos completos del pedido":"Dados completos do pedido","Detalle por producto":"Detalhes por produto","05 · Notas de crédito":"05 · Notas de crédito","Gestiona devoluciones y créditos":"Gerencie devoluções e créditos","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Consulte as notas de crédito do mês e crie novas quando necessário. Acompanhe devoluções e ajustes.","Consulta mensual":"Consulta mensal","Creación de notas":"Criação de notas","06 · Órdenes de inventario":"06 · Pedidos de estoque","Controla las órdenes de inventario":"Controle os pedidos de estoque","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"Visualize pedidos de estoque, pesquise por número e confira cliente, status e datas.","Listado de órdenes":"Lista de pedidos","Estado y trazabilidad":"Status e rastreabilidade","07 · Preparación y despacho":"07 · Separação e expedição","Prepara productos y cantidades con precisión":"Prepare produtos e quantidades com precisão","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Em cada pedido, confira os produtos e gerencie quantidades e embalagens antes da expedição.","Cantidades por producto":"Quantidades por produto","Control de empaques":"Controle de embalagens","08 · Chat de empresa":"08 · Chat da empresa","Comunicación directa con tu equipo":"Comunicação direta com sua equipe","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Mantenha contato com administradores e vendedores. Pesquise contatos, veja chats ativos e inicie conversas pelo aplicativo.","Contactos del equipo":"Contatos da equipe","Chats activos":"Chats ativos","Lleva el control de tu almacén a otro nivel.":"Leve a gestão do seu armazém a outro nível.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Conecte as operações diárias ao ecossistema FullVendor.","Conocer FullVendor ↗":"Conheça o FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. Todos os direitos reservados."},"it":{"Descargar en Google Play ↗":"Scarica su Google Play ↗","Control de almacén, siempre conectado":"Operazioni di magazzino, sempre connesse","Organiza tu almacén.":"Organizza il magazzino.","Gestiona con":"Gestisci con","precisión.":"precisione.","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"FullVendor Warehouse riunisce ricezione ordini, cronologia, note di credito, inventario e comunicazione del team in un'unica app mobile.","Explorar la aplicación":"Esplora l'app","Conocer funciones":"Scopri le funzionalità","Recepción y despacho":"Ricezione e spedizione","Control de inventario":"Controllo inventario","Gestión de órdenes":"Gestione ordini","📦 Operaciones de almacén":"📦 Operazioni di magazzino","📋 Pedidos e inventario":"📋 Ordini e inventario","Ecosistema empresarial":"Ecosistema aziendale","Recepción de pedidos":"Ricezione ordini","Operaciones logísticas":"Operazioni logistiche","Una app para el día a día":"Un'app per ogni giorno","Todo el almacén bajo control":"Tutto il magazzino sotto controllo","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"Centralizza le attività operative e consulta le informazioni chiave da un'interfaccia chiara e intuitiva.","Pedidos recibidos":"Orders received","Identifica órdenes entrantes y pendientes de procesar.":"Identify incoming orders waiting to be processed.","Historial de órdenes":"Order history","Busca y consulta operaciones procesadas y sus estados.":"Search processed operations and review their status.","Notas de crédito":"Credit notes","Registra y revisa devoluciones y ajustes de crédito.":"Record and review returns and credit adjustments.","Inventario":"Inventory","Controla órdenes, productos, cantidades y empaques.":"Manage orders, products, quantities and packs.","Detalle de productos":"Product details","Verifica SKU, unidades, cajas y precios por artículo.":"Check SKUs, units, boxes and item prices.","Chat de empresa":"Company chat","Comunícate con administradores y miembros del equipo.":"Communicate with managers and team members.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para la operación de almacén":"A mobile experience for warehouse operations","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"Original FullVendor Warehouse screenshots are shown in device frames with the full screen content visible.","01 · Panel principal":"01 · Main dashboard","Tu operación de almacén en una sola pantalla":"Your warehouse operations on one screen","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"View received orders, order history, credit notes, inventory and team communication from one central dashboard.","Gestión rápida del almacén":"Quick warehouse management","Indicadores y accesos directos":"Metrics and shortcuts","02 · Pedidos recibidos":"02 · Orders received","Revisa los pedidos pendientes de recibir":"Review orders waiting to be received","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Review incoming orders that need processing. When there are no pending orders, the app clearly displays an empty state.","Pedidos pendientes":"Pending orders","Actualización del estado":"Status updates","03 · Historial de pedidos":"03 · Order history","Control y seguimiento de órdenes procesadas":"Track and manage processed orders","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Search orders, sort by date, and review customer and delivery details, item counts, creation and update dates, and order totals.","Búsqueda de órdenes":"Order search","Historial y estados":"History and statuses","04 · Detalle de pedido":"04 · Order details","Toda la información de la orden, organizada":"All order information, clearly organized","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Access customer details, address, contact information, status and total. Review every product, SKU, quantity, pack and unit price in one view.","Datos completos del pedido":"Complete order details","Detalle por producto":"Item-level details","05 · Notas de crédito":"05 · Credit notes","Gestiona devoluciones y créditos":"Manage returns and credits","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Review monthly credit notes and create new ones when needed. Keep track of returns and adjustments.","Consulta mensual":"Monthly overview","Creación de notas":"Create credit notes","06 · Órdenes de inventario":"06 · Inventory orders","Controla las órdenes de inventario":"Manage inventory orders","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"View inventory orders, search by number, and review customer, status and dates. Keep stock-related operations organized.","Listado de órdenes":"Order list","Estado y trazabilidad":"Status and traceability","07 · Preparación y despacho":"07 · Picking and dispatch","Prepara productos y cantidades con precisión":"Prepare products and quantities accurately","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Review requested products and manage quantities and packs before dispatch. The screen also makes it easy to identify the order and customer.","Cantidades por producto":"Quantities per product","Control de empaques":"Pack control","08 · Chat de empresa":"08 · Company chat","Comunicación directa con tu equipo":"Direct communication with your team","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Stay in touch with managers and sales reps. Search contacts, identify active chats and start conversations in the app.","Contactos del equipo":"Team contacts","Chats activos":"Active chats","Lleva el control de tu almacén a otro nivel.":"Take your warehouse management to the next level.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Connect daily operations to the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."},"de":{"Descargar en Google Play ↗":"Bei Google Play herunterladen ↗","Control de almacén, siempre conectado":"Lagerverwaltung, immer verbunden","Organiza tu almacén.":"Organisieren Sie Ihr Lager.","Gestiona con":"Verwalten Sie mit","precisión.":"Präzision.","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"FullVendor Warehouse vereint Wareneingang, Bestellhistorie, Gutschriften, Inventar und Teamkommunikation in einer mobilen App.","Explorar la aplicación":"App entdecken","Conocer funciones":"Funktionen entdecken","Recepción y despacho":"Wareneingang und Versand","Control de inventario":"Bestandskontrolle","Gestión de órdenes":"Auftragsverwaltung","📦 Operaciones de almacén":"📦 Lagerabläufe","📋 Pedidos e inventario":"📋 Bestellungen und Bestand","Ecosistema empresarial":"Unternehmensökosystem","Recepción de pedidos":"Wareneingang","Operaciones logísticas":"Logistikabläufe","Una app para el día a día":"Eine App für den Alltag","Todo el almacén bajo control":"Das gesamte Lager im Griff","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"Bündeln Sie Arbeitsabläufe und wichtige Informationen in einer klaren, intuitiven Oberfläche.","Pedidos recibidos":"Orders received","Identifica órdenes entrantes y pendientes de procesar.":"Identify incoming orders waiting to be processed.","Historial de órdenes":"Order history","Busca y consulta operaciones procesadas y sus estados.":"Search processed operations and review their status.","Notas de crédito":"Credit notes","Registra y revisa devoluciones y ajustes de crédito.":"Record and review returns and credit adjustments.","Inventario":"Inventory","Controla órdenes, productos, cantidades y empaques.":"Manage orders, products, quantities and packs.","Detalle de productos":"Product details","Verifica SKU, unidades, cajas y precios por artículo.":"Check SKUs, units, boxes and item prices.","Chat de empresa":"Company chat","Comunícate con administradores y miembros del equipo.":"Communicate with managers and team members.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para la operación de almacén":"A mobile experience for warehouse operations","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"Original FullVendor Warehouse screenshots are shown in device frames with the full screen content visible.","01 · Panel principal":"01 · Main dashboard","Tu operación de almacén en una sola pantalla":"Your warehouse operations on one screen","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"View received orders, order history, credit notes, inventory and team communication from one central dashboard.","Gestión rápida del almacén":"Quick warehouse management","Indicadores y accesos directos":"Metrics and shortcuts","02 · Pedidos recibidos":"02 · Orders received","Revisa los pedidos pendientes de recibir":"Review orders waiting to be received","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Review incoming orders that need processing. When there are no pending orders, the app clearly displays an empty state.","Pedidos pendientes":"Pending orders","Actualización del estado":"Status updates","03 · Historial de pedidos":"03 · Order history","Control y seguimiento de órdenes procesadas":"Track and manage processed orders","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Search orders, sort by date, and review customer and delivery details, item counts, creation and update dates, and order totals.","Búsqueda de órdenes":"Order search","Historial y estados":"History and statuses","04 · Detalle de pedido":"04 · Order details","Toda la información de la orden, organizada":"All order information, clearly organized","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Access customer details, address, contact information, status and total. Review every product, SKU, quantity, pack and unit price in one view.","Datos completos del pedido":"Complete order details","Detalle por producto":"Item-level details","05 · Notas de crédito":"05 · Credit notes","Gestiona devoluciones y créditos":"Manage returns and credits","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Review monthly credit notes and create new ones when needed. Keep track of returns and adjustments.","Consulta mensual":"Monthly overview","Creación de notas":"Create credit notes","06 · Órdenes de inventario":"06 · Inventory orders","Controla las órdenes de inventario":"Manage inventory orders","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"View inventory orders, search by number, and review customer, status and dates. Keep stock-related operations organized.","Listado de órdenes":"Order list","Estado y trazabilidad":"Status and traceability","07 · Preparación y despacho":"07 · Picking and dispatch","Prepara productos y cantidades con precisión":"Prepare products and quantities accurately","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Review requested products and manage quantities and packs before dispatch. The screen also makes it easy to identify the order and customer.","Cantidades por producto":"Quantities per product","Control de empaques":"Pack control","08 · Chat de empresa":"08 · Company chat","Comunicación directa con tu equipo":"Direct communication with your team","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Stay in touch with managers and sales reps. Search contacts, identify active chats and start conversations in the app.","Contactos del equipo":"Team contacts","Chats activos":"Active chats","Lleva el control de tu almacén a otro nivel.":"Take your warehouse management to the next level.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Connect daily operations to the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."},"ru":{"Descargar en Google Play ↗":"Скачать в Google Play ↗","Control de almacén, siempre conectado":"Складские операции всегда на связи","Organiza tu almacén.":"Организуйте склад.","Gestiona con":"Управляйте с","precisión.":"точностью.","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"FullVendor Warehouse объединяет приём заказов, историю, кредитные ноты, инвентарь и общение команды в одном мобильном приложении.","Explorar la aplicación":"Обзор приложения","Conocer funciones":"Возможности","Recepción y despacho":"Приёмка и отгрузка","Control de inventario":"Контроль запасов","Gestión de órdenes":"Управление заказами","📦 Operaciones de almacén":"📦 Складские операции","📋 Pedidos e inventario":"📋 Заказы и запасы","Ecosistema empresarial":"Бизнес-экосистема","Recepción de pedidos":"Приём заказов","Operaciones logísticas":"Логистические операции","Una app para el día a día":"Приложение на каждый день","Todo el almacén bajo control":"Весь склад под контролем","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"Объедините рабочие задачи и ключевую информацию в понятном и удобном интерфейсе.","Pedidos recibidos":"Orders received","Identifica órdenes entrantes y pendientes de procesar.":"Identify incoming orders waiting to be processed.","Historial de órdenes":"Order history","Busca y consulta operaciones procesadas y sus estados.":"Search processed operations and review their status.","Notas de crédito":"Credit notes","Registra y revisa devoluciones y ajustes de crédito.":"Record and review returns and credit adjustments.","Inventario":"Inventory","Controla órdenes, productos, cantidades y empaques.":"Manage orders, products, quantities and packs.","Detalle de productos":"Product details","Verifica SKU, unidades, cajas y precios por artículo.":"Check SKUs, units, boxes and item prices.","Chat de empresa":"Company chat","Comunícate con administradores y miembros del equipo.":"Communicate with managers and team members.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para la operación de almacén":"A mobile experience for warehouse operations","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"Original FullVendor Warehouse screenshots are shown in device frames with the full screen content visible.","01 · Panel principal":"01 · Main dashboard","Tu operación de almacén en una sola pantalla":"Your warehouse operations on one screen","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"View received orders, order history, credit notes, inventory and team communication from one central dashboard.","Gestión rápida del almacén":"Quick warehouse management","Indicadores y accesos directos":"Metrics and shortcuts","02 · Pedidos recibidos":"02 · Orders received","Revisa los pedidos pendientes de recibir":"Review orders waiting to be received","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Review incoming orders that need processing. When there are no pending orders, the app clearly displays an empty state.","Pedidos pendientes":"Pending orders","Actualización del estado":"Status updates","03 · Historial de pedidos":"03 · Order history","Control y seguimiento de órdenes procesadas":"Track and manage processed orders","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Search orders, sort by date, and review customer and delivery details, item counts, creation and update dates, and order totals.","Búsqueda de órdenes":"Order search","Historial y estados":"History and statuses","04 · Detalle de pedido":"04 · Order details","Toda la información de la orden, organizada":"All order information, clearly organized","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Access customer details, address, contact information, status and total. Review every product, SKU, quantity, pack and unit price in one view.","Datos completos del pedido":"Complete order details","Detalle por producto":"Item-level details","05 · Notas de crédito":"05 · Credit notes","Gestiona devoluciones y créditos":"Manage returns and credits","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Review monthly credit notes and create new ones when needed. Keep track of returns and adjustments.","Consulta mensual":"Monthly overview","Creación de notas":"Create credit notes","06 · Órdenes de inventario":"06 · Inventory orders","Controla las órdenes de inventario":"Manage inventory orders","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"View inventory orders, search by number, and review customer, status and dates. Keep stock-related operations organized.","Listado de órdenes":"Order list","Estado y trazabilidad":"Status and traceability","07 · Preparación y despacho":"07 · Picking and dispatch","Prepara productos y cantidades con precisión":"Prepare products and quantities accurately","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Review requested products and manage quantities and packs before dispatch. The screen also makes it easy to identify the order and customer.","Cantidades por producto":"Quantities per product","Control de empaques":"Pack control","08 · Chat de empresa":"08 · Company chat","Comunicación directa con tu equipo":"Direct communication with your team","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Stay in touch with managers and sales reps. Search contacts, identify active chats and start conversations in the app.","Contactos del equipo":"Team contacts","Chats activos":"Active chats","Lleva el control de tu almacén a otro nivel.":"Take your warehouse management to the next level.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Connect daily operations to the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."},"zh":{"Descargar en Google Play ↗":"前往 Google Play 下载 ↗","Control de almacén, siempre conectado":"仓库运营，始终保持连接","Organiza tu almacén.":"管理您的仓库。","Gestiona con":"精准","precisión.":"高效。","FullVendor Warehouse conecta la recepción de pedidos, el historial, las notas de crédito, el inventario y la comunicación del equipo en una sola aplicación móvil.":"FullVendor Warehouse 将订单接收、订单历史、贷项通知单、库存和团队沟通整合到一款移动应用中。","Explorar la aplicación":"探索应用","Conocer funciones":"了解功能","Recepción y despacho":"收货与发货","Control de inventario":"库存管理","Gestión de órdenes":"订单管理","📦 Operaciones de almacén":"📦 仓库运营","📋 Pedidos e inventario":"📋 订单与库存","Ecosistema empresarial":"企业生态系统","Recepción de pedidos":"订单接收","Operaciones logísticas":"物流运营","Una app para el día a día":"日常工作，一款应用","Todo el almacén bajo control":"全面掌控仓库","Centraliza las tareas operativas y consulta la información clave desde una interfaz clara, visual y fácil de usar.":"通过清晰易用的界面集中管理运营任务并查看关键信息。","Pedidos recibidos":"Orders received","Identifica órdenes entrantes y pendientes de procesar.":"Identify incoming orders waiting to be processed.","Historial de órdenes":"Order history","Busca y consulta operaciones procesadas y sus estados.":"Search processed operations and review their status.","Notas de crédito":"Credit notes","Registra y revisa devoluciones y ajustes de crédito.":"Record and review returns and credit adjustments.","Inventario":"Inventory","Controla órdenes, productos, cantidades y empaques.":"Manage orders, products, quantities and packs.","Detalle de productos":"Product details","Verifica SKU, unidades, cajas y precios por artículo.":"Check SKUs, units, boxes and item prices.","Chat de empresa":"Company chat","Comunícate con administradores y miembros del equipo.":"Communicate with managers and team members.","Conoce cada pantalla":"Explore every screen","Una experiencia móvil para la operación de almacén":"A mobile experience for warehouse operations","Las capturas originales de FullVendor Warehouse se muestran completas dentro de marcos de dispositivo, sin recortar el contenido de las pantallas.":"Original FullVendor Warehouse screenshots are shown in device frames with the full screen content visible.","01 · Panel principal":"01 · Main dashboard","Tu operación de almacén en una sola pantalla":"Your warehouse operations on one screen","Visualiza pedidos recibidos, historial de órdenes, notas de crédito, inventario y comunicación con tu equipo desde un panel central.":"View received orders, order history, credit notes, inventory and team communication from one central dashboard.","Gestión rápida del almacén":"Quick warehouse management","Indicadores y accesos directos":"Metrics and shortcuts","02 · Pedidos recibidos":"02 · Orders received","Revisa los pedidos pendientes de recibir":"Review orders waiting to be received","Consulta los pedidos entrantes que requieren procesamiento. Cuando no hay órdenes pendientes, la aplicación muestra claramente el estado vacío para que sepas que no hay tareas por recibir.":"Review incoming orders that need processing. When there are no pending orders, the app clearly displays an empty state.","Pedidos pendientes":"Pending orders","Actualización del estado":"Status updates","03 · Historial de pedidos":"03 · Order history","Control y seguimiento de órdenes procesadas":"Track and manage processed orders","Busca órdenes, ordénalas por fecha y revisa el cliente, los datos de entrega, la cantidad de artículos, las fechas de creación y actualización y el total de cada operación.":"Search orders, sort by date, and review customer and delivery details, item counts, creation and update dates, and order totals.","Búsqueda de órdenes":"Order search","Historial y estados":"History and statuses","04 · Detalle de pedido":"04 · Order details","Toda la información de la orden, organizada":"All order information, clearly organized","Accede a los datos del cliente, dirección, contacto, estado y total. Revisa además cada producto, SKU, cantidades, empaques y precios unitarios en una sola vista.":"Access customer details, address, contact information, status and total. Review every product, SKU, quantity, pack and unit price in one view.","Datos completos del pedido":"Complete order details","Detalle por producto":"Item-level details","05 · Notas de crédito":"05 · Credit notes","Gestiona devoluciones y créditos":"Manage returns and credits","Consulta las notas de crédito del mes y crea una nueva cuando sea necesario. Mantén el control de los movimientos asociados a devoluciones y ajustes.":"Review monthly credit notes and create new ones when needed. Keep track of returns and adjustments.","Consulta mensual":"Monthly overview","Creación de notas":"Create credit notes","06 · Órdenes de inventario":"06 · Inventory orders","Controla las órdenes de inventario":"Manage inventory orders","Visualiza las órdenes de inventario, busca por número, revisa el cliente, el estado y las fechas. Mantén organizadas las operaciones que afectan las existencias.":"View inventory orders, search by number, and review customer, status and dates. Keep stock-related operations organized.","Listado de órdenes":"Order list","Estado y trazabilidad":"Status and traceability","07 · Preparación y despacho":"07 · Picking and dispatch","Prepara productos y cantidades con precisión":"Prepare products and quantities accurately","Dentro de cada orden puedes revisar los productos solicitados y gestionar cantidades y empaques antes de continuar con el despacho. La pantalla también facilita identificar la orden y al cliente.":"Review requested products and manage quantities and packs before dispatch. The screen also makes it easy to identify the order and customer.","Cantidades por producto":"Quantities per product","Control de empaques":"Pack control","08 · Chat de empresa":"08 · Company chat","Comunicación directa con tu equipo":"Direct communication with your team","Mantente en contacto con administradores y vendedores. Busca contactos, identifica los chats activos e inicia conversaciones desde la misma aplicación.":"Stay in touch with managers and sales reps. Search contacts, identify active chats and start conversations in the app.","Contactos del equipo":"Team contacts","Chats activos":"Active chats","Lleva el control de tu almacén a otro nivel.":"Take your warehouse management to the next level.","Conecta las operaciones diarias con el ecosistema FullVendor.":"Connect daily operations to the FullVendor ecosystem.","Conocer FullVendor ↗":"Discover FullVendor ↗","© 2026 FullVendor. Todos los derechos reservados.":"© 2026 FullVendor. All rights reserved."}};
+ const picker=document.getElementById('languagePicker');
+ if(!picker)return;
+ const current=picker.querySelector('.language-current'), menu=picker.querySelector('.language-menu');
+ const original=new Map();
+ const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
+ let n; while((n=walker.nextNode())){const t=n.nodeValue.trim();if(t)original.set(n,t);}
+ function applyLanguage(lang){
+   const map=dict[lang]||{};
+   for(const [node,key] of original.entries()){
+     const translated=map[key];
+     if(translated){const raw=node.nodeValue;node.nodeValue=raw.replace(key,translated);}
+   }
+   document.documentElement.lang=lang; window.dispatchEvent(new CustomEvent('fvLangChanged',{detail:lang}));
+   const meta=names[lang]||names.es;
+   current.querySelector('.language-flag').textContent=meta.flag;
+   current.querySelector('.language-code').textContent=meta.code;
+   menu.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));
+   try{localStorage.setItem('fullvendor-warehouse-lang',lang)}catch(e){}
+ }
+ current.addEventListener('click',e=>{e.stopPropagation();const open=picker.classList.toggle('open');current.setAttribute('aria-expanded',String(open));});
+ menu.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{applyLanguage(b.dataset.lang);picker.classList.remove('open');current.setAttribute('aria-expanded','false');}));
+ document.addEventListener('click',e=>{if(!picker.contains(e.target)){picker.classList.remove('open');current.setAttribute('aria-expanded','false')}});
+ let initial='es';try{const saved=localStorage.getItem('fullvendor-warehouse-lang');if(names[saved])initial=saved}catch(e){}
+ if(initial!=='es')applyLanguage(initial);else menu.querySelector('[data-lang="es"]').classList.add('active');
+})();
+</script>
+
+
+<script>
+(function(){
+ const localizedScreens={"es":["images/es/overview.png","images/es/pending-receive.png","images/es/processed-orders.png","images/es/order-detail.png","images/es/returns.png","images/es/inventory-orders.png","images/es/prepare-products.png","images/es/chat.png"],"en":["images/en/overview.png","images/en/pending-receive.png","images/en/processed-orders.png","images/en/order-detail.png","images/en/returns.png","images/en/inventory-orders.png","images/en/prepare-products.png","images/en/chat.png"],"pt":["images/pt/overview.png","images/pt/pending-receive.png","images/pt/processed-orders.png","images/pt/order-detail.png","images/pt/returns.png","images/pt/inventory-orders.png","images/pt/prepare-products.png","images/pt/chat.png"],"it":["images/it/overview.png","images/it/pending-receive.png","images/it/processed-orders.png","images/it/order-detail.png","images/it/returns.png","images/it/inventory-orders.png","images/it/prepare-products.png","images/it/chat.png"],"de":["images/de/overview.png","images/de/pending-receive.png","images/de/processed-orders.png","images/de/order-detail.png","images/de/returns.png","images/de/inventory-orders.png","images/de/prepare-products.png","images/de/chat.png"],"ru":["images/ru/overview.png","images/ru/pending-receive.png","images/ru/processed-orders.png","images/ru/order-detail.png","images/ru/returns.png","images/ru/inventory-orders.png","images/ru/prepare-products.png","images/ru/chat.png"],"zh":["images/zh/overview.png","images/zh/pending-receive.png","images/zh/processed-orders.png","images/zh/order-detail.png","images/zh/returns.png","images/zh/inventory-orders.png","images/zh/prepare-products.png","images/zh/chat.png"]};
+ function setScreens(lang){
+   const set=localizedScreens[lang]||localizedScreens.es;
+   document.querySelectorAll('img[data-shot-index]').forEach(img=>{
+     const i=Number(img.getAttribute('data-shot-index'));
+     const mapIndex={0:0,2:1,3:2,4:3,5:4,6:5,7:6,8:7};
+     const j=mapIndex[i];
+     if(j!==undefined && set[j]) img.src=set[j];
+   });
+ }
+ window.addEventListener('fvLangChanged',e=>setScreens(e.detail));
+ document.addEventListener('DOMContentLoaded',()=>setScreens(document.documentElement.lang||'es'));
+ setScreens(document.documentElement.lang||'es');
+})();
+</script>
+</body></html>

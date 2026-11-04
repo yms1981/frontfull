@@ -33,6 +33,7 @@ const FV_VIDEO_URL = '';
 
 const FV_PRODUCTS = [
     'fullvendor' => ['name' => 'FullVendor', 'color' => '#e10613', 'art' => 'desktop'],
+    'homevalue' => ['name' => 'E-Commerce', 'color' => '#bd2024', 'art' => 'portal'],
     'erp' => ['name' => 'FullVendor ERP', 'color' => '#e11d48', 'art' => 'erp'],
     'logistics' => ['name' => 'FullVendor Logistics', 'color' => '#2563eb', 'art' => 'map'],
     'supplier' => ['name' => 'Vendor Supplier', 'color' => '#16a34a', 'art' => 'portal'],

@@ -118,6 +118,59 @@ function locale_flag(string $code): string
     return '<span class="fi fi-' . $flag . '" aria-hidden="true"></span>';
 }
 
+/** Idiomas con paquete offline en landings de producto (mismo set que las HTML originales). */
+function fv_landing_pack_langs(): array
+{
+    return ['es', 'en', 'pt', 'it', 'de', 'ru', 'zh'];
+}
+
+/**
+ * Idioma del paquete offline según el locale del sitio.
+ * Devuelve null si el locale del sitio no tiene diccionario local (usar traducción del sitio / Google).
+ */
+function fv_landing_pack_lang(string $locale): ?string
+{
+    $locale = strtolower($locale);
+    if (in_array($locale, fv_landing_pack_langs(), true)) {
+        return $locale;
+    }
+    if (str_starts_with($locale, 'zh')) {
+        return 'zh';
+    }
+    return null;
+}
+
+/** Código de destino para Google Translate a partir del locale del sitio. */
+function fv_google_translate_lang(string $locale): string
+{
+    $locale = strtolower($locale);
+    if (str_starts_with($locale, 'zh')) {
+        return 'zh-CN';
+    }
+    if ($locale === 'he') {
+        return 'iw';
+    }
+    return $locale;
+}
+
+/**
+ * Atributos data para landings: paquete offline o Google Translate
+ * siguiendo el idioma elegido en el selector del sitio.
+ *
+ * @return array{pack: string, google: string}
+ */
+function fv_landing_lang_attrs(string $locale, bool $offlineOnly = false): array
+{
+    $pack = fv_landing_pack_lang($locale);
+    if ($pack !== null) {
+        return ['pack' => $pack, 'google' => ''];
+    }
+    if ($offlineOnly || $locale === 'es') {
+        return ['pack' => 'es', 'google' => ''];
+    }
+    return ['pack' => 'es', 'google' => fv_google_translate_lang($locale)];
+}
+
 function load_lang(string $code): array
 {
     static $cache = [];

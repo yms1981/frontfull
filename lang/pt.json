@@ -79,7 +79,7 @@
     }
   },
   "products_page": {
-    "title": "Sete produtos, [[uma só operação]]",
+    "title": "Oito produtos, [[uma só operação]]",
     "text": "Cada produto resolve uma área. Juntos, compartilham clientes, estoque, pedidos e pagamentos."
   },
   "products": {
@@ -96,6 +96,20 @@
         {"title": "Pronto para crescer", "text": "Você soma logística, força de vendas ou ERP quando a operação pedir."}
       ],
       "audience": "Equipes comerciais e de distribuição que hoje coordenam o negócio em vários sistemas."
+    },
+    "homevalue": {
+      "kicker": "Comércio atacadista",
+      "card": "Plataforma atacadista para catálogo, pedidos e atendimento comercial.",
+      "features": ["Catálogo atacadista", "Stories e reels", "Pedidos por caixa e SKU", "Atendimento comercial"],
+      "lead": "Tudo o que sua empresa precisa para comprar no atacado: catálogo, disponibilidade e contato com a equipe em um só lugar.",
+      "about": "A Home Value conecta lojas, supermercados e restaurantes a um amplo catálogo atacadista. Consulte disponibilidade, organize compras por caixa e SKU, acompanhe novidades com stories diários e mantenha contato direto com a equipe comercial.",
+      "benefits": [
+        {"title": "Catálogo claro", "text": "Explore por categoria ou SKU e confira apresentações, MOQ e disponibilidade."},
+        {"title": "Preços de atacado", "text": "Os preços aparecem para contas aprovadas, sem negociar cada item por e-mail."},
+        {"title": "Novidades visuais", "text": "Stories e reels diários para descobrir produtos e promoções."},
+        {"title": "Suporte comercial", "text": "Contato direto para contas, pedidos e logística."}
+      ],
+      "audience": "Lojas, supermercados e restaurantes que compram no atacado e precisam de um canal organizado."
     },
     "erp": {
       "kicker": "Administração",
