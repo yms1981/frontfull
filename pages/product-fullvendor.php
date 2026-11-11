@@ -18,7 +18,35 @@ $fvGoogleLang = ($locale === 'es') ? '' : fv_google_translate_lang((string) $loc
 <div class="mini-chart"><svg viewBox="0 0 500 130" preserveAspectRatio="none"><path d="M0 110 C45 90 55 95 90 65 S150 82 190 55 S250 75 290 35 S360 75 400 28 S455 58 500 8" fill="none" stroke="#ed252b" stroke-width="3"/><path d="M0 110 C45 90 55 95 90 65 S150 82 190 55 S250 75 290 35 S360 75 400 28 S455 58 500 8 L500 130 L0 130Z" fill="#ed252b" opacity=".10"/></svg></div></div></div>
 </div></section>
 <div class="trust"><div class="wrap trustline"><span data-i18n="trust_1">Gestión centralizada</span><span data-i18n="trust_2">Ventas multicanal</span><span data-i18n="trust_3">Operación de almacén</span><span data-i18n="trust_4">Catálogos digitales</span><span data-i18n="trust_5">Información para decidir</span></div></div>
-<section class="intro wrap" id="modules"><div class="kicker" data-i18n="intro_kicker">CONOCE LA PLATAFORMA</div><h2 data-i18n="intro_title">Herramientas para cada etapa<br>de tu operación comercial</h2><p data-i18n="intro_desc">Desde la administración del catálogo hasta la preparación de pedidos, FullVendor conecta los procesos que tu equipo necesita para trabajar con mayor visibilidad, orden y eficiencia.</p></section>
+<section class="intro wrap" id="modules">
+  <div class="sectionhead">
+    <div class="kicker" data-i18n="intro_kicker">CONOCE LA PLATAFORMA</div>
+    <h2 data-i18n="intro_title">Herramientas para cada etapa<br>de tu operación comercial</h2>
+    <p data-i18n="intro_desc">Desde la administración del catálogo hasta la preparación de pedidos, FullVendor conecta los procesos que tu equipo necesita para trabajar con mayor visibilidad, orden y eficiencia.</p>
+  </div>
+  <div class="features">
+    <article class="feature">
+      <div class="ficon" aria-hidden="true">▣</div>
+      <h3 data-i18n="intro_f1">Productos</h3>
+      <p data-i18n="intro_d1">Gestiona el catálogo maestro, precios, stock y categorías en un solo lugar.</p>
+    </article>
+    <article class="feature">
+      <div class="ficon" aria-hidden="true">♟</div>
+      <h3 data-i18n="intro_f2">Clientes</h3>
+      <p data-i18n="intro_d2">Centraliza datos comerciales, grupos y vendedores asignados.</p>
+    </article>
+    <article class="feature">
+      <div class="ficon" aria-hidden="true">▤</div>
+      <h3 data-i18n="intro_f3">Pedidos</h3>
+      <p data-i18n="intro_d3">Administra pedidos de principio a fin desde todos tus canales.</p>
+    </article>
+    <article class="feature">
+      <div class="ficon" aria-hidden="true">▱</div>
+      <h3 data-i18n="intro_f4">Catálogos</h3>
+      <p data-i18n="intro_d4">Crea y comparte catálogos digitales listos para tu equipo de ventas.</p>
+    </article>
+  </div>
+</section>
 <div class="modules wrap">
 <section class="module"><div class="copy"><small data-i18n="module_1_label">MÓDULO 01 · FULLVENDOR</small><h2>Panel de control</h2><h3 data-i18n="m1_sub">Panel de control y análisis comercial</h3><p data-i18n="m1_desc">Visualiza el rendimiento de tu operación desde un solo lugar. Consulta ventas del período, cantidad de pedidos, ventas por canal, catálogos enviados y métricas por vendedor. Los gráficos ayudan a identificar tendencias y comparar resultados para tomar decisiones con información actualizada.</p><ul><li><i>✓</i><span data-i18n="m1_b1">Indicadores de ventas y pedidos</span></li><li><i>✓</i><span data-i18n="m1_b2">Análisis por período y canal</span></li><li><i>✓</i><span data-i18n="m1_b3">Rendimiento por vendedor</span></li><li><i>✓</i><span data-i18n="m1_b4">Gráficos de evolución comercial</span></li></ul><a class="more" href="#contact" data-i18n="more">Conoce cómo optimizar este proceso ↗</a></div>
 <div class="screen"><div class="screen-head"><span class="screen-brand">Full<span>Vendor</span></span><div class="screen-nav"><span data-i18n="nav_home">Inicio</span><span>Configuración</span><span>Productos</span><span>Pedidos</span></div><span>● ● ●</span></div><div class="screen-content"><div class="screen-title" data-i18n="m1_screen_title">Dashboard · Reporte de ventas</div><div class="stat-grid"><div class="stat"><small data-i18n="sales_period">Ventas del período</small><strong>$24,580</strong></div><div class="stat"><small data-i18n="orders">Pedidos</small><strong>1,248</strong></div><div class="stat"><small data-i18n="m1_channel">Canales de venta</small><strong>04</strong></div><div class="stat"><small data-i18n="m1_catalogs">Catálogos enviados</small><strong>86</strong></div></div><div class="screen-panels"><div class="panel"><h4 data-i18n="m1_salesman">Ventas por vendedor</h4><div class="empty" data-i18n="m1_chart_area">Resumen de rendimiento</div></div><div class="panel"><h4 data-i18n="m1_sales_status">Ventas por período</h4><div class="chart"><svg viewBox="0 0 420 110" preserveAspectRatio="none"><path d="M0 88 Q35 80 65 56 T130 62 T195 40 T260 53 T325 16 T420 30" fill="none" stroke="#ed252b" stroke-width="3"/><path d="M0 88 Q35 80 65 56 T130 62 T195 40 T260 53 T325 16 T420 30 L420 110 L0 110Z" fill="#ed252b" opacity=".13"/></svg></div></div></div></div></div></section>

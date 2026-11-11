@@ -314,7 +314,14 @@ details summary::-webkit-details-marker { display: none; }
   transition: transform 0.45s ease;
 }
 .product-photo img { aspect-ratio: 16 / 9; }
+.product-photo--full img {
+  aspect-ratio: auto;
+  object-fit: contain;
+  object-position: left top;
+  background: #f4f5f7;
+}
 .product-showcase:hover .product-photo img, .product-tile:hover img { transform: scale(1.035); }
+.product-showcase:hover .product-photo--full img { transform: none; }
 .product-copy { display: block; }
 .product-copy .eyebrow { margin-bottom: 8px; }
 .product-copy h3 {

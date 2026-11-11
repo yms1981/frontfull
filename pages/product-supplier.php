@@ -37,9 +37,33 @@ $supplierGoogle = $langs['google'];
   </section>
 
   <section class="intro wrap" id="modules">
-    <div class="eyebrow" data-t="eyebrow">UNA PLATAFORMA, TODO CONECTADO</div>
-    <h2 data-t="modulesTitle">Herramientas para gestionar tu red de suministro</h2>
-    <p data-t="modulesDesc">Desde la creación de órdenes hasta el mantenimiento del catálogo y los accesos, el Supplier Portal reúne las tareas principales de tu operación en una interfaz clara y sencilla.</p>
+    <div class="sectionhead">
+      <div class="eyebrow" data-t="eyebrow">UNA PLATAFORMA, TODO CONECTADO</div>
+      <h2 data-t="modulesTitle">Herramientas para gestionar tu red de suministro</h2>
+      <p data-t="modulesDesc">Desde la creación de órdenes hasta el mantenimiento del catálogo y los accesos, el Supplier Portal reúne las tareas principales de tu operación en una interfaz clara y sencilla.</p>
+    </div>
+    <div class="features">
+      <article class="feature">
+        <div class="ficon" aria-hidden="true">▤</div>
+        <h3 data-t="f1">Órdenes</h3>
+        <p data-t="d1">Gestiona órdenes de compra, estados e importes desde un solo lugar.</p>
+      </article>
+      <article class="feature">
+        <div class="ficon" aria-hidden="true">♟</div>
+        <h3 data-t="f2">Proveedores</h3>
+        <p data-t="d2">Mantén el directorio de proveedores organizado y fácil de consultar.</p>
+      </article>
+      <article class="feature">
+        <div class="ficon" aria-hidden="true">▣</div>
+        <h3 data-t="f3">Productos</h3>
+        <p data-t="d3">Consulta el catálogo con SKU, precios, MOQ y categorías.</p>
+      </article>
+      <article class="feature">
+        <div class="ficon" aria-hidden="true">▱</div>
+        <h3 data-t="f4">Usuarios</h3>
+        <p data-t="d4">Administra cuentas, roles y accesos al portal de forma segura.</p>
+      </article>
+    </div>
   </section>
 
   <div class="wrap modules">

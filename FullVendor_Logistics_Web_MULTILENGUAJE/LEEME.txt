@@ -1,0 +1,21 @@
+FULLVENDOR LOGISTICS — WEB MULTILINGÜE
+
+La página incluye:
+- index.html
+- carpeta imagenes/ con las capturas originales en español:
+  dashboard-logistica.png
+  pedidos.png
+  clientes.png
+- capturas en inglés:
+  dashboard-logistica-en.png
+  pedidos-en.png
+  clientes-en.png
+
+Comportamiento:
+- Español (ES): muestra las capturas originales en español.
+- English (EN): cambia los textos y muestra las capturas en inglés.
+- Português (PT): muestra los textos en portugués y mantiene las capturas originales.
+
+IMPORTANTE:
+Extrae el ZIP completo antes de abrir index.html.
+Mantén index.html y la carpeta imagenes juntos. No cambies los nombres de los archivos.

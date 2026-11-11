@@ -44,7 +44,7 @@ $steps = ['sell', 'pick', 'deliver', 'collect'];
     ?>
     <?php foreach ($showcases as $showcase): ?>
     <a class="product-showcase" href="<?= e(url_to($locale, 'product', $showcase)) ?>">
-      <span class="product-photo">
+      <span class="product-photo<?= $showcase === 'homevalue' ? ' product-photo--full' : '' ?>">
         <img src="<?= e(asset('assets/img/products/' . $showcase . '.jpg')) ?>" alt="<?= e(FV_PRODUCTS[$showcase]['name']) ?>">
       </span>
       <span class="product-copy">

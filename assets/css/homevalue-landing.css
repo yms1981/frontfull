@@ -152,7 +152,11 @@
   color: var(--ink);
   margin-bottom: 3px;
 }
-.fv-homevalue .band { background: #f8f8f8; padding: 76px 0; }
+.fv-homevalue .band {
+  background: #f8f8f8;
+  color: var(--ink);
+  padding: 76px 0;
+}
 .fv-homevalue .sectionHead {
   text-align: center;
   max-width: 700px;
@@ -168,12 +172,65 @@
   font-size: clamp(28px, 3.5vw, 42px);
   letter-spacing: -1.4px;
   margin: 12px 0;
+  color: var(--ink);
 }
 .fv-homevalue .sectionHead p {
   font-size: 13px;
   line-height: 1.7;
   color: var(--muted);
+  margin: 0 auto;
+  max-width: 52ch;
+  text-align: center;
+}
+.fv-homevalue .features {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 17px;
+  max-width: 1080px;
+  margin: 0 auto;
+  text-align: left;
+}
+.fv-homevalue .features .feature {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 24px 21px;
+  background: #fff;
+  min-height: 205px;
+  box-shadow: 0 8px 28px #10182808;
+  transition: .25s;
+}
+.fv-homevalue .features .feature:hover {
+  transform: translateY(-5px);
+  border-color: #ffc4c9;
+  box-shadow: 0 16px 36px #ed001214;
+}
+.fv-homevalue .features .ficon {
+  width: 45px;
+  height: 45px;
+  border-radius: 13px;
+  background: #fff0f1;
+  color: var(--red);
+  display: grid;
+  place-items: center;
+  font-size: 21px;
+  margin-bottom: 22px;
+}
+.fv-homevalue .features .feature h3 {
+  font-size: 17px;
+  margin: 0 0 9px;
+  color: var(--ink);
+}
+.fv-homevalue .features .feature p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--muted);
   margin: 0;
+  max-width: none;
+}
+.fv-homevalue .screens {
+  background: #fff;
+  color: var(--ink);
+  padding: 76px 0;
 }
 .fv-homevalue .showcases {
   display: grid;
@@ -219,6 +276,7 @@
   line-height: 1.85;
   color: var(--muted);
   margin: 0 0 18px;
+  max-width: none;
 }
 .fv-homevalue .textlink { color: var(--red); font-size: 12px; font-weight: 800; }
 .fv-homevalue .textlink b { font-size: 16px; margin-left: 5px; }
@@ -336,6 +394,7 @@
   .fv-homevalue .heroGrid,
   .fv-homevalue .showcase,
   .fv-homevalue .showcase.reverse { gap: 25px; }
+  .fv-homevalue .features { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 720px) {
   .fv-homevalue .wrap { width: calc(100% - 28px); }
@@ -347,7 +406,13 @@
   .fv-homevalue .heroVisual { max-width: 570px; margin: auto; }
   .fv-homevalue .stat { left: 7px; }
   .fv-homevalue .band,
+  .fv-homevalue .screens,
   .fv-homevalue .benefits { padding: 58px 0; }
+  .fv-homevalue .features { grid-template-columns: 1fr; gap: 11px; }
+  .fv-homevalue .features .feature { padding: 18px 15px; min-height: 0; }
+  .fv-homevalue .features .ficon { margin-bottom: 16px; }
+  .fv-homevalue .features .feature h3 { font-size: 15px; }
+  .fv-homevalue .features .feature p { font-size: 11px; }
   .fv-homevalue .showcase,
   .fv-homevalue .showcase.reverse {
     grid-template-columns: 1fr;

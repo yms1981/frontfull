@@ -128,6 +128,28 @@ $modules = [
         <h2 data-t="sectionTitle">Una plataforma para cada área de tu empresa</h2>
         <p data-t="sectionText">Conecta la operación diaria con información clara, indicadores y herramientas que ayudan a tomar mejores decisiones.</p>
       </div>
+      <div class="features">
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▤</div>
+          <h3 data-t="f1">Ventas</h3>
+          <p data-t="d1">Analiza facturación, clientes y ticket promedio desde un solo panel.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▣</div>
+          <h3 data-t="f2">Compras</h3>
+          <p data-t="d2">Supervisa órdenes, proveedores y documentos de compra.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▦</div>
+          <h3 data-t="f3">Inventario</h3>
+          <p data-t="d3">Controla existencias, almacenes y productos con bajo stock.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▱</div>
+          <h3 data-t="f4">Finanzas</h3>
+          <p data-t="d4">Consulta ingresos, gastos, utilidad y flujo de caja en tiempo real.</p>
+        </article>
+      </div>
       <div id="moduleList">
         <?php foreach ($modules as $index => $module): ?>
           <article class="module-card" id="module-<?= (int) $index ?>">

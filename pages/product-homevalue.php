@@ -39,7 +39,39 @@ $hvGoogle = $langs['google'];
     </div>
   </section>
 
-  <section class="band">
+  <section class="band features-band">
+    <div class="wrap">
+      <div class="sectionHead">
+        <div class="kicker">HOME VALUE LLC</div>
+        <h2 data-k="screens">Conoce las principales secciones</h2>
+        <p data-k="screensSub">Una vista de las herramientas que forman parte de la experiencia Home Value.</p>
+      </div>
+      <div class="features">
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▣</div>
+          <h3 data-k="f1">Catálogo</h3>
+          <p data-k="d1">Explora productos por categoría, SKU y disponibilidad antes de comprar.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▤</div>
+          <h3 data-k="f2">Historias</h3>
+          <p data-k="d2">Descubre novedades y productos destacados en reels diarios.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">♟</div>
+          <h3 data-k="f3">Contacto</h3>
+          <p data-k="d3">Comunícate con el equipo comercial para cuentas y pedidos.</p>
+        </article>
+        <article class="feature">
+          <div class="ficon" aria-hidden="true">▱</div>
+          <h3 data-k="f4">Administración</h3>
+          <p data-k="d4">Supervisa visitas, pedidos y la actividad de la tienda.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="screens">
     <div class="wrap">
       <div class="sectionHead">
         <div class="kicker">HOME VALUE LLC</div>

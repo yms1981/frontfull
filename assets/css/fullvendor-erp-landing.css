@@ -195,9 +195,13 @@
 }
 
 .fv-erp .section-head {
+  display: block;
   max-width: 720px;
   margin: 0 auto 44px;
   text-align: center;
+  grid-template-columns: none;
+  gap: 0;
+  align-items: initial;
 }
 
 .fv-erp .section-head .eyebrow {
@@ -211,10 +215,68 @@
   color: var(--erp-ink);
 }
 
+.fv-erp .section-head h2 {
+  text-align: center;
+}
+
 .fv-erp .section-head p {
   color: #7a8391;
   line-height: 1.7;
   font-size: 16px;
+  max-width: 52ch;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fv-erp .features {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 17px;
+  margin: 0 0 48px;
+  text-align: left;
+}
+
+.fv-erp .features .feature {
+  border: 1px solid var(--erp-line);
+  border-radius: 18px;
+  padding: 24px 21px;
+  background: #fff;
+  min-height: 205px;
+  box-shadow: 0 8px 28px #10182808;
+  transition: 0.25s;
+}
+
+.fv-erp .features .feature:hover {
+  transform: translateY(-5px);
+  border-color: #ffc4c9;
+  box-shadow: 0 16px 36px #ed001214;
+}
+
+.fv-erp .features .ficon {
+  width: 45px;
+  height: 45px;
+  border-radius: 13px;
+  background: #fff0f1;
+  color: var(--erp-red);
+  display: grid;
+  place-items: center;
+  font-size: 21px;
+  margin-bottom: 22px;
+}
+
+.fv-erp .features .feature h3 {
+  font-size: 17px;
+  margin: 0 0 9px;
+  color: var(--erp-ink);
+  font-weight: 800;
+}
+
+.fv-erp .features .feature p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: var(--erp-muted);
+  margin: 0;
+  max-width: none;
 }
 
 .fv-erp .module-card {
@@ -407,6 +469,10 @@
     margin: auto;
   }
 
+  .fv-erp .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .fv-erp .module-card,
   .fv-erp .module-card:nth-child(even) {
     grid-template-columns: 1fr;
@@ -443,6 +509,29 @@
 
   .fv-erp .section {
     padding: 58px 0;
+  }
+
+  .fv-erp .features {
+    grid-template-columns: 1fr;
+    gap: 11px;
+    margin-bottom: 32px;
+  }
+
+  .fv-erp .features .feature {
+    padding: 18px 15px;
+    min-height: 0;
+  }
+
+  .fv-erp .features .ficon {
+    margin-bottom: 16px;
+  }
+
+  .fv-erp .features .feature h3 {
+    font-size: 15px;
+  }
+
+  .fv-erp .features .feature p {
+    font-size: 11px;
   }
 
   .fv-erp .module-copy h3 {
